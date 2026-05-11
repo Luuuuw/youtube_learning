@@ -1,0 +1,565 @@
+{
+  "videoId": "hwhe6-alHX4",
+  "title": "two (cozy) days in my life | apartment renovations, dogwalking, & city stroll",
+  "generatedAt": "2026-05-07T17:34:44.059Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 11,
+    "medium": 10,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker say about coconut matcha?",
+      "options": [
+        "A) She always loved it",
+        "B) She was certain she wouldn't like it but ended up liking it",
+        "C) She refuses to try it",
+        "D) She thinks it's overrated"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，演讲者说：\"I was certain that I wouldn't like coconut matcha, but when I tried it, it's actually really good.\" 说明她原本以为自己不会喜欢，但尝试后发现很好喝。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 762.4,
+      "endTime": 771,
+      "difficulty": "easy",
+      "relatedWords": [
+        "coconut matcha",
+        "certain",
+        "actually"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What flavors of ice cream are mentioned in the video?",
+      "options": [
+        "A) Vanilla and chocolate",
+        "B) Salted caramel, pistachio, and raspberry",
+        "C) Strawberry and mint",
+        "D) Coffee and hazelnut"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确提到：\"This one is a salted caramel and this one here is pistachio and raspberry.\" 这是一款冰淇淋的口味介绍。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 297.5,
+      "endTime": 303.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "salted caramel",
+        "pistachio",
+        "raspberry",
+        "ice cream"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the speaker mean by \"proper pistachio\"?",
+      "options": [
+        "A) Fake pistachio",
+        "B) High-quality pistachio",
+        "C) Pistachio from a proper store",
+        "D) Pistachio that needs to be cooked"
+      ],
+      "answer": "B",
+      "explanation": "在语境中，\"proper\" 表示真正的、高质量的。后面提到 \"This is high-quality stuff\"，说明 speaker 在赞叹这是真正的、品质很好的开心果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 316.8,
+      "endTime": 317.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "proper",
+        "pistachio",
+        "high-quality"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is the speaker going to give an update on?",
+      "options": [
+        "A) Her job",
+        "B) Her apartment",
+        "C) Her dog",
+        "D) Her travel plans"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示：\"Well, I think it's about time that I give you guys a little apartment update.\" 明确表示要给观众一个公寓的最新情况介绍。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 342.8,
+      "endTime": 348.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "apartment",
+        "update",
+        "give"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Where did the speaker grow up according to the video?",
+      "options": [
+        "A) In the city",
+        "B) With horses",
+        "C) Near the beach",
+        "D) In a small town"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说：\"I grew up with horses if you didn't know that already.\" 表明她是在有马的环境中长大的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 208.5,
+      "endTime": 212.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "grew up",
+        "horses"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "",
+      "options": [
+        "A) Someone's birthday",
+        "B) An important day for something special",
+        "C) A holiday",
+        "D) A business meeting"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文，\"it is the big day\" 指的是一个重要的日子，结合后面的 fastelavnsboller 面包店内容，这天是丹麦的忏悔节倒数日前后。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 225.5,
+      "endTime": 227,
+      "difficulty": "medium",
+      "relatedWords": [
+        "big day",
+        "important"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What kind of shop has cute things like claw clips and hairpins?",
+      "options": [
+        "A) A clothing store",
+        "B) A craft store",
+        "C) An accessories shop",
+        "D) A bookstore"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕：\"they have so many cute things, you know, claw clips, hairpins, everything for like...\" 这些都是发饰、小配饰，所以是配饰店。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 911,
+      "endTime": 924.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "claw clips",
+        "hairpins",
+        "accessories"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker say people thought about her appearance?",
+      "options": [
+        "A) They thought she looked happy",
+        "B) They thought she looked sad",
+        "C) They thought she looked tired",
+        "D) They thought she looked angry"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到：\"Some people thought that I looked sad, and I don't know.\" 说明有人觉得她看起来很伤心。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1127.6,
+      "endTime": 1131.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "looked sad",
+        "people thought"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker say about YouTube?",
+      "options": [
+        "A) It's her only platform",
+        "B) It's her safe space and favorite platform",
+        "C) She wants to leave YouTube",
+        "D) She rarely posts on YouTube"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕：\"YouTube is like my safe space, and it is truly my favorite platform to share content on.\" YouTube是她的安全空间，也是最喜欢的平台。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1148.9,
+      "endTime": 1156.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "YouTube",
+        "safe space",
+        "favorite platform"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Why did the speaker need to buy gum after dinner?",
+      "options": [
+        "A) Her teeth hurt",
+        "B) Her mouth was literally burning from the food",
+        "C) She wanted fresh breath",
+        "D) She lost her previous gum"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示：\"had to go and buy some gum because my mouth was literally burning after this dinner.\" 因为晚饭后嘴巴火辣辣的，所以需要买口香糖。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1250.8,
+      "endTime": 1258.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "burning",
+        "gum",
+        "dinner"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What did the speaker describe as \"dying\"?",
+      "options": [
+        "A) The weather",
+        "B) Her feeling about the food",
+        "C) The long walk",
+        "D) The waiting time"
+      ],
+      "answer": "B",
+      "explanation": "根据语境，\"I was kind of dying\" 是一种夸张表达，描述某种强烈的感觉或体验。结合上下文，应该是对某种强烈感受的表达。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1324.8,
+      "endTime": 1327.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "dying",
+        "exaggeration",
+        "feeling"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does \"fastelavns day\" refer to?",
+      "options": [
+        "A) Christmas Day",
+        "B) A traditional Danish celebration day",
+        "C) Her birthday",
+        "D) A random Monday"
+      ],
+      "answer": "B",
+      "explanation": "Fastelavn 是丹麦的传统节日，类似狂欢节，通常在忏悔节前的周日举行。演讲者提到去一家有最好的 fastelavnsboller（传统丹麦面包）的面包店。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 227,
+      "endTime": 230.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "fastelavns day",
+        "Danish",
+        "tradition"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What was the speaker's reaction to seeing the beautiful view?",
+      "options": [
+        "A) She stayed silent",
+        "B) She said \"My god, guys, look at this\"",
+        "C) She took a photo immediately",
+        "D) She walked away"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确说：\"My god, guys, look at this.\" 这是对美景的惊叹反应。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 308.4,
+      "endTime": 311.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "My god",
+        "look at this",
+        "reaction"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does \"city center\" refer to in the video?",
+      "options": [
+        "A) The suburbs",
+        "B) The downtown area",
+        "C) The airport",
+        "D) The park"
+      ],
+      "answer": "B",
+      "explanation": "\"City center\" 是英语中表示市中心、闹市区的常用表达。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 808.8,
+      "endTime": 810,
+      "difficulty": "easy",
+      "relatedWords": [
+        "city center",
+        "downtown"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the speaker's plan for posting content?",
+      "options": [
+        "A) To stop posting",
+        "B) To continue posting regularly",
+        "C) To post only on holidays",
+        "D) To delete old videos"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕：\"But, yeah, I want to continue posting regularly here on YouTube.\" 她想继续定期在YouTube上发布内容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1172.4,
+      "endTime": 1176.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "continue posting",
+        "regularly"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What did the speaker think about bone broth before trying it?",
+      "options": [
+        "A) She was excited to try it",
+        "B) She didn't know what to expect",
+        "C) She hated it immediately",
+        "D) She wanted to share it with friends"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示：\"I didn't really know what to expect when I saw people drinking bone broth in the mornings.\" 她在看到人们早上喝骨汤时，并不知道会发生什么。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 112.7,
+      "endTime": 117.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bone broth",
+        "didn't know what to expect"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does \"just going to have it for now\" suggest?",
+      "options": [
+        "A) They will keep it temporarily",
+        "B) They will throw it away",
+        "C) They will sell it",
+        "D) They will donate it"
+      ],
+      "answer": "A",
+      "explanation": "\"Just going to have it for now\" 表示暂时保留或暂时拥有某物，暗示不是永久的解决方案。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 640.4,
+      "endTime": 642.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "have it for now",
+        "temporary"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What color did the speaker say she loves?",
+      "options": [
+        "A) Blue",
+        "B) Green",
+        "C) Burgundy",
+        "D) Black"
+      ],
+      "answer": "C",
+      "explanation": "字幕明确提到：\"I love the kind of burgundy color.\" 演讲者说她喜欢深红色/酒红色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 926.8,
+      "endTime": 930.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "burgundy",
+        "color",
+        "love"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Describe a time when you tried something new that you initially thought you wouldn't like. What was your experience?",
+      "options": [],
+      "answer": "",
+      "explanation": "这是一道开放式口语题，要求考生根据视频中关于 coconut matcha 的内容，描述一次尝试新事物的经历。",
+      "referenceAnswer": "1. Mention what you initially thought about trying it\n2. Describe what made you try it\n3. Share your actual experience/feeling after trying it\n4. Reflect on whether your initial assumption was wrong",
+      "hint": "Think about the coconut matcha example from the video - she was certain she wouldn't like it but enjoyed it after trying.",
+      "startTime": 762.4,
+      "endTime": 771,
+      "difficulty": "medium",
+      "relatedWords": [
+        "coconut matcha",
+        "try",
+        "experience",
+        "opinion"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What do you think makes someone feel like they are \"a bit different\" from others? How would you respond to comments about being different?",
+      "options": [],
+      "answer": "",
+      "explanation": "这是一道关于个人身份认同的口语题，结合视频中提到的 comments about being different。",
+      "referenceAnswer": "1. Define what \"being different\" means to you\n2. Discuss possible reasons why people might feel different\n3. Share how you would handle or respond to such comments\n4. Express your opinion on whether being different is positive or negative",
+      "hint": "Consider the context of the video where the speaker mentioned getting comments about looking sad and feeling different.",
+      "startTime": 1123.2,
+      "endTime": 1127.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "different",
+        "comments",
+        "respond",
+        "opinion"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "If you had to describe your ideal weekend routine in a city, what would you include?",
+      "options": [],
+      "answer": "",
+      "explanation": "这是一道结合视频中城市漫步和日常生活元素的口语题，要求考生描述理想的城市周末安排。",
+      "referenceAnswer": "1. Start with morning activities (coffee, breakfast, walk)\n2. Include afternoon plans (shopping, visiting specific places)\n3. Describe evening activities (dinner, exploring)\n4. Explain what makes this routine enjoyable for you",
+      "hint": "The video includes elements like dog walking, visiting cafes, trying local food, and strolling through the city.",
+      "startTime": 65.4,
+      "endTime": 72.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "weekend",
+        "routine",
+        "city",
+        "ideal"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Talk about a place in your city that you would recommend to visitors. Why is it special?",
+      "options": [],
+      "answer": "",
+      "explanation": "这是一道关于推荐城市景点的口语题，视频中提到了哥本哈根的多个地点。",
+      "referenceAnswer": "推荐一个具体的地点,描述它的特色或为什么特别,建议游客做什么或吃什么,解释为什么你会向游客推荐这个地方",
+      "hint": "Think about places mentioned in the video like the bakery with the best fastelavnsboller, or the city center areas.",
+      "startTime": 214.8,
+      "endTime": 225.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "recommend",
+        "place",
+        "special",
+        "visitors"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "What do you think is important for maintaining a positive mindset when facing difficult situations?",
+      "options": [],
+      "answer": "",
+      "explanation": "这是一道关于心态的口语题，视频中提到 \"It's been a difficult last few months\"，可以结合这个背景展开。",
+      "referenceAnswer": "Identify a key mindset or attitude,Explain why it's important,Give examples of how to maintain it,Share how it helped you or could help others",
+      "hint": "The video mentioned difficult months, and the speaker continues posting regularly despite challenges.",
+      "startTime": 1106,
+      "endTime": 1111.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "positive mindset",
+        "difficult",
+        "attitude",
+        "maintain"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the phrase \"horse girl\" imply about someone?",
+      "options": [
+        "A) A girl who works with horses professionally",
+        "B) A girl who loves horses and is very passionate about them",
+        "C) A girl who looks like a horse",
+        "D) A girl who rides horses competitively"
+      ],
+      "answer": "B",
+      "explanation": "\"Horse girl\" 是一个网络流行语，指的是非常喜欢马、热爱马术相关事物的女孩。演讲者说 \"I'm like a horse girl\" 是在表达她对马的喜爱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 207.3,
+      "endTime": 208.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "horse girl",
+        "passionate",
+        "horses"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does \"safe space\" mean in the context of YouTube?",
+      "options": [
+        "A) A physical location for filming",
+        "B) A platform where one feels comfortable and accepted",
+        "C) A private video channel",
+        "D) A security feature on the app"
+      ],
+      "answer": "B",
+      "explanation": "在网络语境中，\"safe space\" 指的是让人感到安全、被理解、被接纳的精神空间。演讲者说 YouTube 是她的 safe space，表示这是让她感到舒适的地方。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1148.9,
+      "endTime": 1156.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "safe space",
+        "YouTube",
+        "comfortable"
+      ]
+    }
+  ]
+}

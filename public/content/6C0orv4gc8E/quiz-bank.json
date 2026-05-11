@@ -1,0 +1,581 @@
+{
+  "videoId": "6C0orv4gc8E",
+  "title": "Inside Kendall Jenner's Home Closet | Vogue",
+  "generatedAt": "2026-05-07T15:58:59.961Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 13,
+    "hard": 3,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does Kendall mean by 'the fit' when talking about her clothes?",
+      "options": [
+        "A) The size of the clothing",
+        "B) How well the clothes suit her body",
+        "C) The price of the items",
+        "D) The brand name"
+      ],
+      "answer": "B",
+      "explanation": "在时尚语境中，'fit'指的是衣服是否合身、是否适合穿着者的身材。Kendall在谈论The Row品牌的服装时说她喜欢'perfect fit'，意思是这些衣服非常合身。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 157.9,
+      "endTime": 161.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fit",
+        "fashion",
+        "clothing"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the word 'slouch' mean in this context?",
+      "options": [
+        "A) Tight and uncomfortable",
+        "B) A relaxed, casual draping style",
+        "C) Very formal appearance",
+        "D) Bright and colorful"
+      ],
+      "answer": "B",
+      "explanation": "'Slouch'指的是一种慵懒、随意的垂坠风格。Kendall在描述她喜欢的衣服款式时提到'slouch that it has'，意思是衣服有一种自然下垂的松弛感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 157.9,
+      "endTime": 161.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "slouch",
+        "style",
+        "fashion"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does Kendall mean when she says 'I don't like to be overly stuffed up'?",
+      "options": [
+        "A) She doesn't like eating too much",
+        "B) She doesn't like wearing tight or constraining clothes",
+        "C) She doesn't like crowded places",
+        "D) She doesn't like applying too much makeup"
+      ],
+      "answer": "B",
+      "explanation": "'Stuffed up'在这里指衣服紧绷在身上的感觉。Kendall表示她不喜欢穿得太紧的衣服，喜欢舒适放松的穿着风格。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 58.4,
+      "endTime": 61.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stuffed up",
+        "comfortable",
+        "clothing"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "According to the video, what is Kendall's mom送给她的东西?",
+      "options": [
+        "A) A designer handbag",
+        "B) A leather jacket",
+        "C) A special item from her childhood",
+        "D) A jewelry box"
+      ],
+      "answer": "A",
+      "explanation": "字幕中提到'My mom got this for me when I was a baby'，指的是她妈妈在她婴儿时送给她的一个包。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 103.6,
+      "endTime": 105.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "mom",
+        "baby",
+        "gift"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does Kendall say about organizing her closets?",
+      "options": [
+        "A) She doesn't organize them at all",
+        "B) Her closets are categorized by type",
+        "C) She only keeps expensive items",
+        "D) She throws away old items regularly"
+      ],
+      "answer": "B",
+      "explanation": "Kendall明确说'So, my closets are categorized'，说明她的衣橱是按类别整理的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 119.4,
+      "endTime": 121.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "categorized",
+        "closet",
+        "organization"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'layering' mean in fashion context?",
+      "options": [
+        "A) Adding layers to a cake",
+        "B) Wearing multiple pieces of clothing on top of each other",
+        "C) Applying makeup in layers",
+        "D) Organizing clothes in layers"
+      ],
+      "answer": "B",
+      "explanation": "'Layering'在时尚中指层穿搭配，即把多件衣服叠穿在一起。Kendall说'I love a good layering'和'I just love layering with sweaters'，意思是她喜欢用毛衣进行层穿搭配。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 210.7,
+      "endTime": 214,
+      "difficulty": "easy",
+      "relatedWords": [
+        "layering",
+        "sweater",
+        "fashion"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does Kendall say is her 'pleasure and obsession'?",
+      "options": [
+        "A) Shopping for shoes",
+        "B) Organizing her closet and fashion",
+        "C) Taking photos",
+        "D) Traveling"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说'It\\'s like actually a pleasure and an obsession of mine'，指的是整理衣橱和时尚相关的活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 116.7,
+      "endTime": 119.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pleasure",
+        "obsession",
+        "fashion"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What colors does Kendall say are her favorites?",
+      "options": [
+        "A) Black, white, and gray",
+        "B) Red, blue, and green",
+        "C) Pink, purple, and yellow",
+        "D) Orange, brown, and beige"
+      ],
+      "answer": "B",
+      "explanation": "Kendall明确说'I\\'d say like the reds, the blues, and the greens are like my favorite colors'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 136.4,
+      "endTime": 142,
+      "difficulty": "easy",
+      "relatedWords": [
+        "reds",
+        "blues",
+        "greens",
+        "colors"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'handy' mean in the sentence 'to have them handy'?",
+      "options": [
+        "A) Expensive",
+        "B) Beautiful",
+        "C) Conveniently accessible",
+        "D) Decorative"
+      ],
+      "answer": "C",
+      "explanation": "'Handy'意为方便易取的。Kendall说'They\\'re the best and to have them handy'，意思是这些配饰最好放在方便拿取的地方。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 208.4,
+      "endTime": 210.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "handy",
+        "accessible",
+        "convenient"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is a 'bucket hat'?",
+      "options": [
+        "A) A hat for carrying water",
+        "B) A type of wide-brimmed hat with a deep crown",
+        "C) A hat shaped like a bucket",
+        "D) An old-fashioned hat"
+      ],
+      "answer": "B",
+      "explanation": "'Bucket hat'是渔夫帽，是一种宽檐、深顶的帽子。Kendall说'it\\'s a little bucket hat and it\\'s my favorite thing'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 220.2,
+      "endTime": 226,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bucket hat",
+        "hat",
+        "fashion accessory"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'muted' mean when Kendall describes her clothes?",
+      "options": [
+        "A) Bright and vibrant",
+        "B) Quiet and subtle in color",
+        "C) Expensive and luxurious",
+        "D) Old and worn out"
+      ],
+      "answer": "B",
+      "explanation": "'Muted'指颜色低调、柔和的。Kendall说'it\\'s a little bit more muted, which I love'，意思是她喜欢颜色比较柔和低调的衣服。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 126.5,
+      "endTime": 130.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "muted",
+        "color",
+        "style"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "When Kendall says 'I feel like if I was a bag, I'd be this bag', what does she mean?",
+      "options": [
+        "A) She wants to buy this bag",
+        "B) This bag represents her personality",
+        "C) This bag is very expensive",
+        "D) She made this bag herself"
+      ],
+      "answer": "B",
+      "explanation": "这句话是一种比喻，Kendall在表达这个包的性格特征或设计与她本人很相似，她是是对这个包的个性表达认同。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 96.6,
+      "endTime": 99.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "metaphor",
+        "personality",
+        "bag"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does Kendall say about a great leather jacket?",
+      "options": [
+        "A) It should be replaced every year",
+        "B) It can be passed down for generations",
+        "C) It should be worn only once",
+        "D) It needs to be dry cleaned weekly"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说'I feel like a great leather jacket you could have for life'，意思是好的皮夹克可以穿一辈子，甚至可以传承。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 143.6,
+      "endTime": 147.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "leather jacket",
+        "quality",
+        "investment"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "How does Kendall store her smaller bags?",
+      "options": [
+        "A) In boxes",
+        "B) On shelves like books",
+        "C) In the refrigerator",
+        "D) Under the bed"
+      ],
+      "answer": "B",
+      "explanation": "Kendall提到'way but to just store them kind of like a bookshelf'，意思是她把小包像书架一样存放。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 47.3,
+      "endTime": 49.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "store",
+        "bags",
+        "shelf"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does Kendall say about her experience shooting for Architectural Digest?",
+      "options": [
+        "A) It was 10 years ago",
+        "B) They took a photo of her closet",
+        "C) She hated the experience",
+        "D) She was paid a lot of money"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说'I shot my house for Architectural Digest like 6 years ago and they took a photo of this'，指的是她为建筑文摘拍摄房子，他们拍了这张照片。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 15.9,
+      "endTime": 20.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Architectural Digest",
+        "shoot",
+        "photo"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What brand of bag does Kendall mention as 'Hermes squish'?",
+      "options": [
+        "A) Chanel",
+        "B) Gucci",
+        "C) Louis Vuitton",
+        "D) Hermès"
+      ],
+      "answer": "D",
+      "explanation": "Kendall明确说'I got this Hermes squish'，Hermès是一个高端奢侈品牌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 85.1,
+      "endTime": 88.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Hermes",
+        "brand",
+        "luxury"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'overly colorful' mean in the context?",
+      "options": [
+        "A) Very dark in color",
+        "B) Too bright and vibrant",
+        "C) Very dull",
+        "D) Perfectly balanced"
+      ],
+      "answer": "B",
+      "explanation": "'Overly colorful'指颜色过于鲜艳、斑斓的。Kendall提到'it\\'s very colorful and the last thing and there should be a side-by-side because it\\'s not as colorful'，暗示有些东西颜色太鲜艳了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 24.1,
+      "endTime": 29.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "colorful",
+        "bright",
+        "design"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is The Row according to the video?",
+      "options": [
+        "A) A furniture store",
+        "B) A popular clothing brand",
+        "C) A makeup brand",
+        "D) A home organization company"
+      ],
+      "answer": "B",
+      "explanation": "Kendall多次提到The Row，如'In my closet in general, I have pretty much mostly The Row'和'The Row, but so soft and cozy'，这是由Olsen姐妹创立的高端服装品牌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 61.3,
+      "endTime": 64.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "The Row",
+        "brand",
+        "clothing"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Describe how Kendall organizes her closet and what are some of her favorite items she mentions. Please use details from the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "She categorizes her closets by type. She has tops from tank tops to long sleeves. She stores smaller bags like books on a shelf. Her favorite colors are reds, blues, and greens. She loves The Row clothing for its soft, cozy feel and perfect fit. She has a leather jacket she believes can last a lifetime. She also loves layering with sweaters, and has a bucket hat made of knit material.",
+      "hint": "Try to mention: categorized closets, The Row brand, her favorite colors, storage methods, and her layering preference",
+      "startTime": 10.6,
+      "endTime": 50,
+      "difficulty": "medium",
+      "relatedWords": [
+        "organize",
+        "closet",
+        "categorize",
+        "favorite items"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What does Kendall mean when she says 'a great leather jacket you could have for life'? Explain your understanding of this statement.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "This statement reflects Kendall's view on quality over quantity in fashion. She believes investing in a high-quality leather jacket means it will last for many years, even a lifetime. It's about sustainable fashion and making timeless wardrobe investments rather than following fast fashion trends.",
+      "hint": "Think about the concept of investment pieces in fashion and sustainable clothing choices",
+      "startTime": 143.6,
+      "endTime": 147.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "leather jacket",
+        "lifetime",
+        "investment",
+        "quality"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Based on what Kendall says, describe her personal style and fashion preferences.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "Kendall prefers comfortable, well-fitting clothes. She likes The Row for its soft and cozy feel. She enjoys layering, especially with sweaters. Her favorite colors are reds, blues, and greens, but she also loves muted tones. She values quality pieces that can last a lifetime, like a good leather jacket. She's practical about storage, categorizing her items and keeping them handy.",
+      "hint": "Include keywords like: comfortable, cozy, layering, quality, muted colors, categorized",
+      "startTime": 100,
+      "endTime": 220,
+      "difficulty": "medium",
+      "relatedWords": [
+        "personal style",
+        "fashion preferences",
+        "comfortable",
+        "quality"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does Kendall say about why she visits her closet every day?",
+      "options": [
+        "A) Only to check her investments",
+        "B) To get dressed, pack for trips, or do fittings with her stylist",
+        "C) To count her clothes",
+        "D) To clean and organize"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说'I come every day to get dressed or to pack for a big trip or to do fittings with my stylist'，说明她每天来衣橱是为了换装、准备旅行或与造型师试装。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 10.6,
+      "endTime": 14.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "closet",
+        "daily",
+        "get dressed",
+        "stylist"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What type of hat does Kendall call her 'favorite thing' in the video?",
+      "options": [
+        "A) A fedora",
+        "B) A baseball cap",
+        "C) A knit bucket hat",
+        "D) A sun hat"
+      ],
+      "answer": "C",
+      "explanation": "Kendall描述她的帽子'It's knit, so it's like beanie material, but it's a little bucket hat and it's my favorite thing'，是一种针织材质的渔夫帽。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 220.2,
+      "endTime": 226,
+      "difficulty": "medium",
+      "relatedWords": [
+        "knit",
+        "bucket hat",
+        "favorite"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does Kendall say she always feels because she loves layering?",
+      "options": [
+        "A) Hot",
+        "B) Cold",
+        "C) Tired",
+        "D) Hungry"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说'I\\'m always cold, so I love a good layering'，因为她总是觉得冷，所以喜欢层穿搭配来保暖。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 210.7,
+      "endTime": 214,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cold",
+        "layering",
+        "feel"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does the phrase 'You're probably won't ever not see me in this' mean?",
+      "options": [
+        "A) You will never see me wearing this",
+        "B) You will probably always see me wearing this",
+        "C) I hate wearing this",
+        "D) This is not my style"
+      ],
+      "answer": "B",
+      "explanation": "这是一个双重否定句，'won't ever not see me in this'等于'will always see me in this'，意思是她可能经常会穿这件衣服。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 163.8,
+      "endTime": 166.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "double negative",
+        "fashion",
+        "expression"
+      ]
+    }
+  ]
+}

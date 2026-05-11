@@ -1,0 +1,576 @@
+{
+  "videoId": "ovG-4C4k_CA",
+  "title": "back to fashion school in nyc 📚 a week in my life!",
+  "generatedAt": "2026-05-07T17:36:03.308Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 14,
+    "hard": 2,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'give her this one' mean in this context?",
+      "options": [
+        "A) Give her this gift",
+        "B) Choose this outfit",
+        "C) Tell her the answer",
+        "D) Lend her money"
+      ],
+      "answer": "B",
+      "explanation": "在时尚学校的场景中，'give her this one'指的是选择这套衣服/造型，符合视频中讨论穿搭的语境。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 782.2,
+      "endTime": 783.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "give",
+        "outfit",
+        "fashion"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the speaker mean by 'back home' in this clip?",
+      "options": [
+        "A) Returning to her hometown",
+        "B) Going back to her apartment",
+        "C) At her parents' house",
+        "D) Back to her school dormitory"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文，'back home'指的是回到她在纽约的公寓，vlogger在换衣服去健身前顺路回家。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 313.3,
+      "endTime": 315.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "home",
+        "apartment",
+        "change"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is Tribeca according to the video?",
+      "options": [
+        "A) A shopping mall",
+        "B) A neighborhood in NYC",
+        "C) A fitness studio",
+        "D) A clothing brand"
+      ],
+      "answer": "B",
+      "explanation": "Tribeca是纽约市曼哈顿下城的一个知名社区，以时尚和艺术氛围闻名。视频中提到学校在Tribeca。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 321.8,
+      "endTime": 323.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Tribeca",
+        "location",
+        "NYC"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What kind of workout class is mentioned?",
+      "options": [
+        "A) Yoga",
+        "B) Pilates fusion",
+        "C) Dance class",
+        "D) Weight training"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到她要去做一个Pilates fusion（普拉提融合）课程。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 332,
+      "endTime": 334.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "workout",
+        "Pilates",
+        "class"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'Neosporin' refer to?",
+      "options": [
+        "A) A moisturizer",
+        "B) An antibiotic ointment",
+        "C) A nail polish",
+        "D) A lip balm"
+      ],
+      "answer": "B",
+      "explanation": "Neosporin是一种常见的抗菌药膏，用于处理皮肤伤口和感染。视频中提到手指受伤需要涂Neosporin。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 262.3,
+      "endTime": 266,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Neosporin",
+        "injury",
+        "treatment"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What happened to the speaker's finger?",
+      "options": [
+        "A) It was burned",
+        "B) It got infected and very dry",
+        "C) It was cut",
+        "D) It got bruised"
+      ],
+      "answer": "B",
+      "explanation": "视频中说手指变得非常干燥（super dry），需要经常涂Neosporin，反映出感染或伤口情况。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 262.3,
+      "endTime": 266,
+      "difficulty": "medium",
+      "relatedWords": [
+        "finger",
+        "dry",
+        "infection"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'on top of that' mean in this context?",
+      "options": [
+        "A) Additionally",
+        "B) On the surface",
+        "C) At the top",
+        "D) Immediately after"
+      ],
+      "answer": "A",
+      "explanation": "'On top of that'是英语中常用的短语，意为'除此之外'、'更糟的是'，用于添加额外的信息。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 266,
+      "endTime": 268.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "on top of that",
+        "additionally",
+        "conjunction"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'sitting on my butt' mean?",
+      "options": [
+        "A) Sitting on a chair",
+        "B) Being lazy and inactive",
+        "C) Resting comfortably",
+        "D) Working from home"
+      ],
+      "answer": "B",
+      "explanation": "'Sitting on my butt'是非正式表达，意为'无所事事'、'偷懒'，带有自我调侃的语气。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 335.4,
+      "endTime": 340.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "butt",
+        "lazy",
+        "informal"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'whip up' mean in this context?",
+      "options": [
+        "A) Beat strongly",
+        "B) Quickly prepare or create",
+        "C) Mix thoroughly",
+        "D) Clean up"
+      ],
+      "answer": "B",
+      "explanation": "'Whip up'在口语中意为'快速准备'或'快速制作'，这里指快速搭配出时尚造型。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 706.2,
+      "endTime": 710.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "whip up",
+        "create",
+        "prepare"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'dolls' refer to in this video?",
+      "options": [
+        "A) Actual dolls",
+        "B) A term for friends or audience",
+        "C) Clothing items",
+        "D) A pet name"
+      ],
+      "answer": "B",
+      "explanation": "'Dolls'是博主对观众或朋友的亲切称呼，类似于'girls'或'babes'，是时尚博主常用的称呼语。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 524.3,
+      "endTime": 525.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dolls",
+        "audience",
+        "term of endearment"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is a 'showroom' in fashion context?",
+      "options": [
+        "A) A retail store",
+        "B) A display space for new collections",
+        "C) A fitting room",
+        "D) A warehouse"
+      ],
+      "answer": "B",
+      "explanation": "在时尚行业，'showroom'是展示新品系列的陈列室，品牌通常在这里向买手和媒体展示最新产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 513.7,
+      "endTime": 516.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "showroom",
+        "fashion",
+        "collection"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'settle on' mean?",
+      "options": [
+        "A) Live in a place",
+        "B) Decide on after consideration",
+        "C) Pay money for",
+        "D) Calm down"
+      ],
+      "answer": "B",
+      "explanation": "'Settle on'意为'最终决定'、'选定'，表示在考虑之后做出选择。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 496.2,
+      "endTime": 499.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "settle on",
+        "decide",
+        "choose"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'attention span' refer to?",
+      "options": [
+        "A) Time spent focusing on something",
+        "B) The length of a class",
+        "C) A time management technique",
+        "D) A span of time in class"
+      ],
+      "answer": "A",
+      "explanation": "'Attention span'指一个人能够集中注意力的时间长度。视频中博主说自己注意力持续时间不长。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 58.7,
+      "endTime": 63.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "attention span",
+        "focus",
+        "concentration"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'structured schedule' mean?",
+      "options": [
+        "A) A busy schedule",
+        "B) An organized and planned timetable",
+        "C) A flexible schedule",
+        "D) A schedule with breaks"
+      ],
+      "answer": "B",
+      "explanation": "'Structured schedule'指有组织、有规划的日程安排，有明确的时间和任务安排。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 52.1,
+      "endTime": 57.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "structured",
+        "schedule",
+        "organized"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker mean by 'these pieces' in the video?",
+      "options": [
+        "A) Pieces of clothing",
+        "B) Pieces of furniture",
+        "C) Pieces of jewelry",
+        "D) Pieces of art"
+      ],
+      "answer": "A",
+      "explanation": "在时尚vlog语境中，'pieces'通常指服装单品。视频中提到品牌'kindly sent me these pieces'（寄来的服装）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 231.3,
+      "endTime": 232.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pieces",
+        "clothing",
+        "fashion"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker say about the weather app?",
+      "options": [
+        "A) It always predicts correctly",
+        "B) It says it's nice but turns out windy and freezing",
+        "C) It only works in summer",
+        "D) It never mentions weather"
+      ],
+      "answer": "B",
+      "explanation": "视频中说天气app显示天气很好，但实际上却起风结冰，app的预测不准确。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 460.2,
+      "endTime": 465,
+      "difficulty": "medium",
+      "relatedWords": [
+        "weather",
+        "windy",
+        "freezing"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "Describe what the speaker is doing in this video and what a typical day at fashion school might include.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生根据视频内容描述博主在时尚学校的一天可能包含的活动。",
+      "referenceAnswer": "The speaker is showing a week in her life at fashion school in NYC. A typical day might include: attending classes (2 classes mentioned), taking a lunch break for work, going to workout classes like Pilates fusion, shopping at places like H&M near campus, trying on outfits, and meeting friends. The schedule seems structured with classes in the morning and afternoon.",
+      "hint": "Think about: classes, workouts, shopping, meals, social activities, and any school-related tasks mentioned in the video.",
+      "startTime": 201.8,
+      "endTime": 204.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "fashion school",
+        "typical day",
+        "activities"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does the speaker imply when she says 'how is the day already over?'",
+      "options": [
+        "A) The day was very short",
+        "B) She can't believe the day passed so quickly",
+        "C) She wants the day to continue",
+        "D) She missed her classes"
+      ],
+      "answer": "B",
+      "explanation": "这是表达惊讶和不可置信的常见说法，意思是'怎么一天这就结束了'，表示对时间飞逝的感叹。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 343.8,
+      "endTime": 345.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "time flies",
+        "surprise",
+        "expression"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What is the date mentioned in the video?",
+      "options": [
+        "A) August 1st",
+        "B) September 1st",
+        "C) July 1st",
+        "D) October 1st"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到'But it is actually September 1st, so happy September'（实际上是9月1日，9月快乐）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 27.9,
+      "endTime": 31.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "September",
+        "date",
+        "month"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "The speaker mentions that her finger was too tight from a ring and then she broke her nail. Explain what happened and give advice on how to prevent such issues.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生复述视频中关于手指和指甲的问题，并给出建议。",
+      "referenceAnswer": "The speaker mentioned that one of her rings became too tight on her finger, causing discomfort. Additionally, she broke her nail on the same finger. To prevent such issues, one could: 1) Remove tight rings regularly or resize them, 2) Keep nails at proper length and use protective base coats, 3) Be careful with hand movements to avoid catching nails, 4) Use hand creams to keep skin and nails moisturized.",
+      "hint": "Focus on: ring fitting, nail care, hand protection, and maintenance tips.",
+      "startTime": 259,
+      "endTime": 268.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "ring",
+        "nail",
+        "advice"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does 'computing, financial, mathematics' refer to in the video?",
+      "options": [
+        "A) Subjects the speaker loves",
+        "B) Subjects the speaker studied before fashion school",
+        "C) Current fashion school classes",
+        "D) Job requirements"
+      ],
+      "answer": "B",
+      "explanation": "视频中说这些是她不喜欢的学科（everything I don't like essentially），说明这是她以前学过的内容，现在转行学时尚。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 443.5,
+      "endTime": 449,
+      "difficulty": "medium",
+      "relatedWords": [
+        "computing",
+        "finance",
+        "mathematics"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "Where is H&M located according to the video?",
+      "options": [
+        "A) Far from campus",
+        "B) Close to campus",
+        "C) In a different city",
+        "D) At the school"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确说'Um, but I'm actually walking over to H&M, cuz it's close to campus'（我正走去H&M，因为它离学校很近）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 575.7,
+      "endTime": 579.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "H&M",
+        "campus",
+        "location"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The speaker expresses excitement about sending gifts to her friends who have no idea she's doing this. Describe what this situation might be like and how the friends might feel when they receive the gifts.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生描述给朋友准备惊喜礼物的场景和朋友的反应。",
+      "referenceAnswer": "The speaker is preparing surprise gifts for her friends who don't know she's doing this. This is likely a thoughtful gesture where she's shopping for them (perhaps at H&M or other stores) and plans to send them the items. When the friends receive these unexpected gifts, they would probably feel: surprised, touched, happy, and appreciated. The element of surprise adds emotional value to the gift, making it more meaningful. It's a common practice among close friends to exchange thoughtful gifts unexpectedly.",
+      "hint": "Consider: surprise element, friendship, gift-giving culture, emotional impact of unexpected presents.",
+      "startTime": 703.5,
+      "endTime": 706.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "gift",
+        "surprise",
+        "friends"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the speaker mean when she says 'I hope everyone had a great summer and a great August'?",
+      "options": [
+        "A) She wants them to have fun in the future",
+        "B) She's saying goodbye at the end of summer",
+        "C) She's welcoming them to a new beginning after summer",
+        "D) She's complaining about the weather"
+      ],
+      "answer": "C",
+      "explanation": "这是视频开头的问候语，在9月1日（开学季）说这句话，表示对观众经历美好暑假后的欢迎和新开始的祝福。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 41,
+      "endTime": 44.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "summer",
+        "August",
+        "greeting"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does 'like' function as in the sentence 'I think like one of my rings started to like be too tight'?",
+      "options": [
+        "A) As a comparison",
+        "B) As a filler word (like, you know)",
+        "C) As a verb meaning 'prefer'",
+        "D) As a preposition"
+      ],
+      "answer": "B",
+      "explanation": "在口语中，'like'经常作为填充词使用，没有实际意义，只是口语习惯，使语气更自然。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 259,
+      "endTime": 262.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "like",
+        "filler",
+        "colloquial"
+      ]
+    }
+  ]
+}

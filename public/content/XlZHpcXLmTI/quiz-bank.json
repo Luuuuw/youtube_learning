@@ -1,0 +1,570 @@
+{
+  "videoId": "XlZHpcXLmTI",
+  "title": "girls trip to budapest | hungarian food, river cruise & thrifting",
+  "generatedAt": "2026-05-07T12:13:50.096Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 11,
+    "medium": 13,
+    "hard": 1,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What did the speaker buy at the vintage store?",
+      "options": [
+        "A) A leather jacket",
+        "B) A silk dress",
+        "C) A wool sweater",
+        "D) A cotton shirt"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕[295.6s-322.8s]，她在vintage店买了一件皮衣(leather jacket)，她非常喜欢这个颜色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 295.6,
+      "endTime": 322.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "leather",
+        "jacket",
+        "vintage"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'clicked' mean in 'we immediately clicked'?",
+      "options": [
+        "A) Pressed a button",
+        "B) Became friends quickly",
+        "C) Clicked on a link",
+        "D) Made a sound"
+      ],
+      "answer": "B",
+      "explanation": "'Click' 在这里是俚语，意为'一拍即合'、'立刻产生好感'，形容两人立刻成为朋友。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 175.9,
+      "endTime": 182.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "clicked",
+        "genuine",
+        "friendship"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is 'prosecco'?",
+      "options": [
+        "A) An Italian sparkling wine",
+        "B) A type of coffee",
+        "C) A Hungarian dish",
+        "D) A vintage clothing brand"
+      ],
+      "answer": "A",
+      "explanation": "Prosecco是意大利起泡酒，字幕[667.3s-686.0s]提到她们买了prosecco准备去探索和骑自行车。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 667.3,
+      "endTime": 686,
+      "difficulty": "easy",
+      "relatedWords": [
+        "prosecco",
+        "wine",
+        "exploring"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What traditional Hungarian food did they try?",
+      "options": [
+        "A) Goulash and Schnitzel",
+        "B) Chicken paprikas and Langos",
+        "C) Pizza and Pasta",
+        "D) Sushi and Ramen"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[405.8s-412.7s]，她们吃了传统匈牙利食物Chicken paprikas（匈牙利辣鸡），还有[363.9s-370.3s]提到的餐厅。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 405.8,
+      "endTime": 412.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chicken paprikas",
+        "Hungarian food",
+        "traditional"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'freshen up' mean in the context?",
+      "options": [
+        "A) Clean thoroughly",
+        "B) Put on light makeup",
+        "C) Take a shower",
+        "D) Change clothes"
+      ],
+      "answer": "B",
+      "explanation": "'Freshen up' 在这里指化轻妆让自己看起来更有精神，字幕[138.5s-143.6s]说'I'm not gonna put on a lot of makeup just a little bit to freshen up'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 138.5,
+      "endTime": 143.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "freshen up",
+        "makeup",
+        "get ready"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Where is Mattea (the friend) from?",
+      "options": [
+        "A) Iceland",
+        "B) The Netherlands",
+        "C) Hungary",
+        "D) Germany"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕[20.0s-25.3s]和[161.6s-168.9s]，Mattea来自冰岛，虽然她住在荷兰，但她是冰岛人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 20,
+      "endTime": 25.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Mattea",
+        "Iceland",
+        "Netherlands"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What problem did they have with the bicycles?",
+      "options": [
+        "A) The bikes were stolen",
+        "B) They couldn't return the bikes in time",
+        "C) The bikes were broken",
+        "D) They got lost"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[759.8s-764.5s]，他们不能及时归还自行车，需要额外付费。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 759.8,
+      "endTime": 764.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bicycle",
+        "return",
+        "extra fee"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'Posh' mean as described about the area?",
+      "options": [
+        "A) Poor and run-down",
+        "B) Fancy and upscale",
+        "C) Old and historic",
+        "D) Quiet and peaceful"
+      ],
+      "answer": "B",
+      "explanation": "'Posh' 意思是高档的、优雅的。字幕[820.8s-826.7s]提到服务员说这个区域比较高档。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 820.8,
+      "endTime": 826.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "posh",
+        "area",
+        "fancy"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "How long did they stay in Budapest?",
+      "options": [
+        "A) Two nights",
+        "B) Three nights",
+        "C) One week",
+        "D) Four nights"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[148.0s-154.3s]，她们住了三个晚上(three nights)，星期天离开。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 148,
+      "endTime": 154.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "three nights",
+        "staying",
+        "Budapest"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'turtleneck' refer to?",
+      "options": [
+        "A) A neck exercise",
+        "B) A high-collar sweater",
+        "C) A type of scarf",
+        "D) A winter jacket"
+      ],
+      "answer": "B",
+      "explanation": "'Turtleneck' 指高领毛衣，字幕[602.7s-614.0s]提到她觉得这件衣服是完美的冬季毛衣。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 602.7,
+      "endTime": 614,
+      "difficulty": "easy",
+      "relatedWords": [
+        "turtleneck",
+        "sweater",
+        "wool"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What was the weather like during their trip?",
+      "options": [
+        "A) Cold and rainy",
+        "B) Warm and sunny",
+        "C) Snowy",
+        "D) Windy"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[30.2s-36.2s]和[36.2s-41.9s]，她们没想到九月天气这么热，达到了26度，非常热(heat is insane)。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 30.2,
+      "endTime": 36.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "warm",
+        "weather",
+        "heat"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'figure out' mean in 'we just figured out we downloaded some app'?",
+      "options": [
+        "A) To calculate",
+        "B) To understand or solve",
+        "C) To draw a picture",
+        "D) To find by chance"
+      ],
+      "answer": "B",
+      "explanation": "'Figure out' 意思是弄明白、解决。字幕[686.0s-694.1s]说他们下载了一个应用程序来解决自行车问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 686,
+      "endTime": 694.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "figure out",
+        "app",
+        "download"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What are the two parts of Budapest mentioned in the video?",
+      "options": [
+        "A) East and West",
+        "B) Buda and Pest",
+        "C) North and South",
+        "D) Old and New"
+      ],
+      "answer": "B",
+      "explanation": "布达佩斯由多瑙河两岸的Buda（布达）和Pest（佩斯）两部分组成，字幕[733.1s-739.7s]明确提到。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 733.1,
+      "endTime": 739.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Buda",
+        "Pest",
+        "Budapest"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is 'salmonella' related to in the conversation?",
+      "options": [
+        "A) A type of fish",
+        "B) A food poisoning risk",
+        "C) A clothing brand",
+        "D) A music band"
+      ],
+      "answer": "B",
+      "explanation": "Salmonella是沙门氏菌，会导致食物中毒。字幕[449.5s-456.1s]提到鱼在水里泡了16小时，避免沙门氏菌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 449.5,
+      "endTime": 456.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "salmonella",
+        "food poisoning",
+        "fish"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'coordinating our outfits' mean?",
+      "options": [
+        "A) Wearing matching clothes",
+        "B) Choosing different colors",
+        "C) Going to a fashion show",
+        "D) Cleaning the clothes"
+      ],
+      "answer": "A",
+      "explanation": "'Coordinate outfits' 指搭配服装，使穿着风格协调。字幕[258.4s-295.6s]提到她们在搭配协调的服装。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 258.4,
+      "endTime": 295.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "coordinating",
+        "outfits",
+        "matching"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What kind of restaurant is 'Tati' mentioned in the video?",
+      "options": [
+        "A) A fast food restaurant",
+        "B) A traditional Hungarian restaurant",
+        "C) An Italian restaurant",
+        "D) A Japanese restaurant"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[363.9s-370.3s]，Tati是一家提供传统匈牙利食物的餐厅，如chicken paprikas。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 363.9,
+      "endTime": 370.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Tati",
+        "restaurant",
+        "Hungarian food"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "Why did they decide to rent bikes?",
+      "options": [
+        "A) The subway was closed",
+        "B) The Airbnb host offered them bikes",
+        "C) They wanted to exercise",
+        "D) Taxis were too expensive"
+      ],
+      "answer": "B",
+      "explanation": "字幕[686.0s-694.1s]提到他们的Airbnb房东给他们提供了自行车，所以他们决定租车骑行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 686,
+      "endTime": 694.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bikes",
+        "Airbnb host",
+        "rent"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What brand were the cute high heels from?",
+      "options": [
+        "A) Zara",
+        "B) H&M",
+        "C) Billy Bee",
+        "D) Nike"
+      ],
+      "answer": "C",
+      "explanation": "字幕[504.5s-515.0s]提到那些可爱的高跟鞋是Billy Bee品牌的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 504.5,
+      "endTime": 515,
+      "difficulty": "easy",
+      "relatedWords": [
+        "high heels",
+        "Billy Bee",
+        "brand"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Describe the girl's trip to Budapest. What activities did they do?",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "They visited Budapest with their friend Mattea, tried traditional Hungarian food like chicken paprikas, went thrifting and vintage shopping, rented bikes to explore the city, and enjoyed a river cruise area. They stayed for three nights.",
+      "hint": "Try to include: traditional food, shopping, bikes, friend Mattea, duration of stay",
+      "startTime": 0.2,
+      "endTime": 20,
+      "difficulty": "medium",
+      "relatedWords": [
+        "trip",
+        "Budapest",
+        "activities",
+        "travel"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What traditional Hungarian food would you like to try after watching this video? Explain why.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "The video mentions chicken paprikas and other traditional Hungarian dishes at restaurant Tati. The speaker should mention at least one dish and explain their interest.",
+      "hint": "You can mention: chicken paprikas, langos, goulash, or other Hungarian specialties",
+      "startTime": 363.9,
+      "endTime": 412.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Hungarian food",
+        "chicken paprikas",
+        "traditional"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What do you think 'thrifting' means? Have you ever been thrifting? Describe your experience.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "Thrifting means shopping at vintage or second-hand stores to find unique items at lower prices. The video shows the speaker finding a cute top and a leather jacket.",
+      "hint": "Try to use words like: vintage store, second-hand, unique, affordable",
+      "startTime": 614,
+      "endTime": 645.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "thrifting",
+        "vintage",
+        "shopping",
+        "second-hand"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe a problem they faced during their trip and how they solved it.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "One problem was the bicycle issue - they couldn't return the bikes on time and had to pay extra. They also had to download an app to use the bikes. Another issue was finding a nice cafe for breakfast.",
+      "hint": "Think about: the bicycle problem, time management, app usage",
+      "startTime": 759.8,
+      "endTime": 764.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "problem",
+        "bicycle",
+        "solution",
+        "app"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "If you were planning a trip with your best friend, what would you consider? Mention at least three things.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "Based on the video, considerations might include: weather and packing appropriate clothes, finding good local food, planning activities like shopping or exploring, budget and accommodation, transportation options.",
+      "hint": "You can mention: weather, food, activities, budget, accommodation, transportation",
+      "startTime": 30.2,
+      "endTime": 47.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "trip planning",
+        "friend",
+        "activities",
+        "preparation"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What was the name of the friend traveling with the speaker?",
+      "options": [
+        "A) Maria",
+        "B) Mattea",
+        "C) Iris",
+        "D) Tati"
+      ],
+      "answer": "B",
+      "explanation": "字幕[0.2s-20.0s]明确提到她的朋友叫Mattea，她们一起来布达佩斯旅行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0.2,
+      "endTime": 20,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Mattea",
+        "friend",
+        "name"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does the speaker mean by 'the heat is insane'?",
+      "options": [
+        "A) The heat is very comfortable",
+        "B) The heat is extremely hot",
+        "C) The heat is unusual",
+        "D) The heat is bearable"
+      ],
+      "answer": "B",
+      "explanation": "'Insane' 在口语中意为'极其的、疯狂的'，用来形容天气非常热，出乎她们的意料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 30.2,
+      "endTime": 36.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "heat",
+        "insane",
+        "weather"
+      ]
+    }
+  ]
+}

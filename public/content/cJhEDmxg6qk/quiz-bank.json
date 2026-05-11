@@ -1,0 +1,574 @@
+{
+  "videoId": "cJhEDmxg6qk",
+  "title": "girls trip to london | food spots, thrifting & exploring the city",
+  "generatedAt": "2026-05-01T04:03:38.966Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 12,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'neighborhood' mean in the context of the video?",
+      "options": [
+        "A) A type of restaurant",
+        "B) A specific area or district in a city",
+        "C) A shopping mall",
+        "D) A hotel"
+      ],
+      "answer": "B",
+      "explanation": "在视频中提到London有很多不同的neighborhood，意思是城市的不同街区或社区。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 51.1,
+      "endTime": 82.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "neighborhood",
+        "city",
+        "area"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is a 'thrift store'?",
+      "options": [
+        "A) A luxury brand store",
+        "B) A store selling second-hand items at low prices",
+        "C) A grocery store",
+        "D) A bakery"
+      ],
+      "answer": "B",
+      "explanation": "Thrift store是指二手商店，出售二手物品，价格相对便宜。视频中女生们去了thrift store购物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 412.8,
+      "endTime": 420.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "thrift store",
+        "shopping",
+        "second-hand"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'slim fitted' describe in the video?",
+      "options": [
+        "A) Loose and baggy clothing",
+        "B) Tight-fitting clothing that shows body shape",
+        "C) Colorful patterns",
+        "D) Expensive items"
+      ],
+      "answer": "B",
+      "explanation": "Slim fitted指的是紧身、合体的服装，能展现身材曲线。视频中提到一件衣服是slim fitted。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 266.3,
+      "endTime": 271.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "slim fitted",
+        "clothing",
+        "fit"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'chunky' mean when describing accessories in the video?",
+      "options": [
+        "A) Thin and delicate",
+        "B) Large, thick and bold",
+        "C) Expensive",
+        "D) Small and cute"
+      ],
+      "answer": "B",
+      "explanation": "Chunky指的是粗大的、厚重的。视频中提到chunky shoes和chunky belt，即厚重的鞋子和粗大的皮带。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 559.4,
+      "endTime": 566.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chunky",
+        "accessories",
+        "bold"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'switch up' mean in the phrase 'we kind of wanted to switch up our outfits'?",
+      "options": [
+        "A) Take off",
+        "B) Change or try something different",
+        "C) Keep the same",
+        "D) Wash"
+      ],
+      "answer": "B",
+      "explanation": "Switch up是改变、尝试不同东西的意思。她们想换换穿搭风格，尝试不同的造型。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 402.6,
+      "endTime": 408.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "switch up",
+        "outfits",
+        "change"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'two in one' mean in the context of the clothing item?",
+      "options": [
+        "A) Two people wearing the same thing",
+        "B) One item that serves two purposes or can be worn in two ways",
+        "C) Two different colors",
+        "D) Two separate pieces"
+      ],
+      "answer": "B",
+      "explanation": "Two in one指一件衣服有两种穿法或两种功能，可以当两件衣服使用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 431.8,
+      "endTime": 436.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "two in one",
+        "versatile",
+        "clothing"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What did the speaker say about the breakfast at Leon?",
+      "options": [
+        "A) It was terrible",
+        "B) It was really good",
+        "C) It was too expensive",
+        "D) They didn't try it"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到 'the breakfast was really really good'，说明早餐非常好吃。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 51.1,
+      "endTime": 82.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "breakfast",
+        "Leon",
+        "good"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What color was the belt they bought?",
+      "options": [
+        "A) Black",
+        "B) Red",
+        "C) Pink",
+        "D) Brown"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到 'this is the red one'，她们买了一条红色的皮带。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 420.8,
+      "endTime": 425.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "belt",
+        "red",
+        "color"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What color lipstick did Ma buy?",
+      "options": [
+        "A) Happy",
+        "B) Sad",
+        "C) Blue",
+        "D) Green"
+      ],
+      "answer": "A",
+      "explanation": "视频中提到 'she had the color happy'，Ma买了叫做'happy'颜色的口红。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 447.8,
+      "endTime": 452.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lipstick",
+        "color",
+        "happy"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What flavor did they choose for their pastry?",
+      "options": [
+        "A) Chocolate",
+        "B) Vanilla",
+        "C) Pistachio",
+        "D) Strawberry"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到 'so we picked the pistachio One'，他们选择了开心果口味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 364.8,
+      "endTime": 382.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pistachio",
+        "pastry",
+        "flavor"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'dress up' or 'dress down' mean in context?",
+      "options": [
+        "A) Put on or take off clothes",
+        "B) Dress formally or casually",
+        "C) Wash clothes",
+        "D) Buy new clothes"
+      ],
+      "answer": "B",
+      "explanation": "Dress up指正式装扮，dress down指休闲装扮。视频中说可以穿去晚宴(dress up)或搭配牛仔裤(dress down)。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 518.7,
+      "endTime": 523.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dress up",
+        "dress down",
+        "style"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'vintage' mean in the context of clothing?",
+      "options": [
+        "A) Brand new",
+        "B) Old-fashioned or from a past era",
+        "C) Very expensive",
+        "D) Made of cotton only"
+      ],
+      "answer": "B",
+      "explanation": "Vintage指的是复古的、过去的年代的服装。视频中提到 'vintage stores' 和 'vintage cardigan'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 155.2,
+      "endTime": 162.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vintage",
+        "cardigan",
+        "fashion"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What color is 'burgundy'?",
+      "options": [
+        "A) Light blue",
+        "B) Dark red or reddish-purple",
+        "C) Green",
+        "D) Yellow"
+      ],
+      "answer": "B",
+      "explanation": "Burgundy是一种深红色或酒红色。视频中提到 'burgundy red' 颜色的卡迪igan。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 155.2,
+      "endTime": 162.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "burgundy",
+        "red",
+        "color"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'pop of color' mean in the fashion context?",
+      "options": [
+        "A) A boring color",
+        "B) A bright or standout color added to an outfit",
+        "C) A black and white color",
+        "D) No color at all"
+      ],
+      "answer": "B",
+      "explanation": "Pop of color指的是在穿着中添加一抹亮色，让整体造型更有活力。视频中提到用亮色来点缀黑色外套。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 500.1,
+      "endTime": 505,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pop of color",
+        "fashion",
+        "bright"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'aesthetic' mean when comparing two places?",
+      "options": [
+        "A) Tasty",
+        "B) Concerning visual appearance or style",
+        "C) Cheap",
+        "D) Crowded"
+      ],
+      "answer": "B",
+      "explanation": "Aesthetic指的是关于美学、外观的。视频中说 'this one is way more aesthetic'，意思是这个在视觉上更好看。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 183.6,
+      "endTime": 188.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "aesthetic",
+        "visual",
+        "style"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'walk-ins' refer to in the restaurant context?",
+      "options": [
+        "A) People who walk very fast",
+        "B) Restaurants that accept customers without reservations",
+        "C) Walking tours",
+        "D) Delivery service"
+      ],
+      "answer": "B",
+      "explanation": "Walk-ins指不需要预约、直接去的餐厅。视频中说 'some restaurants that have like walk-ins those are the best restaurants'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 601,
+      "endTime": 607.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "walk-ins",
+        "restaurant",
+        "reservation"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "Why did they want to go to Leon according to the video?",
+      "options": [
+        "A) Because it's a clothing store",
+        "B) Because they've seen it on social media and the coffee looks incredible",
+        "C) Because it's a bookstore",
+        "D) Because it's near their hotel"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到 'I've seen it all over social media and the coffee there looks incredible'，她们被社交媒体种草，想去喝咖啡。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 170.8,
+      "endTime": 176.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Leon",
+        "coffee",
+        "social media"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What type of skin tone is described as 'pale'?",
+      "options": [
+        "A) Very dark",
+        "B) Light in color, with little tan",
+        "C) Reddish",
+        "D) Yellowish"
+      ],
+      "answer": "B",
+      "explanation": "Pale skin指的是苍白、白皙的皮肤。视频中说 'I have quite pale skin'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 466,
+      "endTime": 470.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pale",
+        "skin",
+        "blondie"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What is 'Rare Beauty' in the video?",
+      "options": [
+        "A) A bookstore",
+        "B) A makeup/cosmetic brand",
+        "C) A restaurant",
+        "D) A thrift store"
+      ],
+      "answer": "B",
+      "explanation": "Rare Beauty是一个化妆品品牌。视频中提到 'this Rare Beauty' 指的是她们买的化妆品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 436.7,
+      "endTime": 443.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Rare Beauty",
+        "makeup",
+        "cosmetics"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What did they find that was 'so beautiful' in the video?",
+      "options": [
+        "A) A restaurant",
+        "A) A beautiful bookstore",
+        "C) A hotel",
+        "D) A park"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到 'check out bookstores and we found one which is so beautiful'，他们找到了一家美丽的书店。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 325.1,
+      "endTime": 331.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bookstore",
+        "beautiful",
+        "found"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe your experience or impression of visiting a thrift store based on what you heard in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "Talk about: 1) What items they looked for (tops for dinner/parties) 2) What they found (striped shirt, cardigan) 3) The excitement of finding unique pieces 4) How thrift shopping helps expand wardrobe with colors",
+      "hint": "Use phrases like: 'I was looking for...', 'I found...', 'It was...', 'I think thrift shopping is... because...'",
+      "startTime": 412.8,
+      "endTime": 425.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "thrift store",
+        "shopping",
+        "experience"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe an outfit that can be worn for both casual and formal occasions, similar to what's discussed in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "Key points: 1) Describe a versatile piece (like a dress or top) 2) Explain how to dress it up (with heels, accessories) 3) Explain how to dress it down (with jeans, sneakers) 4) Mention the concept of 'two in one' or multi-purpose clothing",
+      "hint": "Use expressions like: 'You can dress it up by...', 'You can dress it down with...', 'It's a two-in-one piece because...'",
+      "startTime": 513.7,
+      "endTime": 523.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "outfit",
+        "dress up",
+        "dress down",
+        "versatile"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "If you were planning a day trip to London like the girls in the video, what would you do? Include places you would visit and things you would buy.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "Include: 1) Different neighborhoods to explore 2) Coffee shops or restaurants (like Leon) 3) Thrift stores or vintage shops 4) Bookstores 5) What items you might buy (clothing, accessories, makeup)",
+      "hint": "Try to use: 'I would visit...', 'I would go to...', 'I would buy...', 'I want to try...'",
+      "startTime": 40.9,
+      "endTime": 51.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "London",
+        "trip",
+        "planning",
+        "visit"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Explain why adding 'a pop of color' to your outfit can be a good fashion choice, based on the video's discussion.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "Key points: 1) On gloomy days people often wear black coats 2) Adding a pop of color makes the outfit more interesting 3) It can brighten your mood 4) Examples from the video: colorful pants, bright accessories, colorful makeup",
+      "hint": "Use phrases like: 'Adding a pop of color is... because...', 'It makes the outfit look...', 'On gloomy days, people tend to...'",
+      "startTime": 500.1,
+      "endTime": 509.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "pop of color",
+        "fashion",
+        "outfit",
+        "style"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What did the speaker say about experiencing London now compared to before?",
+      "options": [
+        "A) It's the same as before",
+        "B) It's different now that she's older",
+        "C) She doesn't like it anymore",
+        "D) She has never been to London"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到 'like now I'm older and it's just kind of different to experience it now'，说明她长大后再体验伦敦感觉不同了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 45.8,
+      "endTime": 51.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "experience",
+        "London",
+        "older"
+      ]
+    }
+  ]
+}

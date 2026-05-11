@@ -1,0 +1,583 @@
+{
+  "videoId": "5gEBSIUKK6A",
+  "title": "My Solo Trip to South Africa",
+  "generatedAt": "2026-05-07T16:25:12.129Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 15,
+    "hard": 1,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'splattered with Antelope blood' mean in this context?",
+      "options": [
+        "A) The antelope was bleeding heavily",
+        "B) The speaker got blood from an antelope all over their jacket",
+        "C) The antelope was painted with blood",
+        "D) The speaker hunted an antelope successfully"
+      ],
+      "answer": "B",
+      "explanation": "在这个视频片段中，speaker描述自己被羚羊血溅得满身都是（splattered with Antelope blood），all over my jacket说明血溅到了夹克上。这是他们在safari打猎或观看猎捕后的结果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 7,
+      "endTime": 58.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "splattered",
+        "Antelope",
+        "blood",
+        "jacket"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What weather condition does the speaker mention about Cape Town in the morning?",
+      "options": [
+        "A) Sunny and clear",
+        "B) Rainy and stormy",
+        "C) Foggy and low",
+        "D) Windy and cold"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到 Cape Town 早上的天气是 foggy low，即有低沉的雾气。这是旧金山的典型天气特征，speaker说这个场景让他想起旧金山。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 83.4,
+      "endTime": 88.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "foggy",
+        "Cape Town",
+        "morning",
+        "reminds"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Why did the speaker decide to hire a private tour in Cape Town?",
+      "options": [
+        "A) Because they wanted to save money",
+        "B) Because they were nervous about exploring alone",
+        "C) Because they had already seen everything",
+        "D) Because the public transport was free"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，speaker提到自己 nervous，所以雇佣了私人导游带他们去 Simons Town。这是出于安全考虑和对陌生环境的谨慎。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 98.8,
+      "endTime": 103.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "private tour",
+        "nervous",
+        "Cape Town",
+        "hired"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Where did the private guide take the speaker?",
+      "options": [
+        "A) To Table Mountain",
+        "B) To Simon's Town",
+        "C) To Lion's Head",
+        "D) To Kruger National Park"
+      ],
+      "answer": "B",
+      "explanation": "视频明确提到 speaker hired a private guide for half a day to take me down to Simon's Town。Simon's Town 是开普敦附近的一个海滨小镇，以企鹅滩闻名。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 107.6,
+      "endTime": 112.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Simon's Town",
+        "private guide",
+        "half a day"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What animal might you see along the drive mentioned in the video?",
+      "options": [
+        "A) Penguins",
+        "B) Ostriches",
+        "C) Zebras",
+        "D) Giraffes"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到 to do this drive and you'll probably see some ostriches along the way。鸵鸟是南非公路上常见的动物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 149.8,
+      "endTime": 168.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ostriches",
+        "drive",
+        "probably see"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What is Beau Cop known for according to the video?",
+      "options": [
+        "A) Its beautiful beaches",
+        "B) Its colorful homes",
+        "C) Its wildlife",
+        "D) Its mountains"
+      ],
+      "answer": "B",
+      "explanation": "视频提到 stopped in Beau cop a neighborhood known for its colorful homes。Beau Cop（正确应为Bo-Kaap）是开普敦著名的彩色房屋区。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 192.2,
+      "endTime": 197.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Beau Cop",
+        "colorful homes",
+        "neighborhood"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is one explanation mentioned for why the homes in Beau Cop are painted bright colors?",
+      "options": [
+        "A) The government requires it",
+        "B) Homeowners painted them as an expression of freedom",
+        "C) It's for tourist attraction",
+        "D) The paint was on sale"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到 one is that homeowners painted them bright as an expression of Freedom。这是关于彩色房屋来源的一种解释。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 197.4,
+      "endTime": 203,
+      "difficulty": "medium",
+      "relatedWords": [
+        "freedom",
+        "expression",
+        "colorful homes"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is described as 'an absolute must' in Cape Town?",
+      "options": [
+        "A) Visiting the beach",
+        "B) Taking the Table Mountain Aerial Tramway",
+        "C) Eating local food",
+        "D) Visiting the museum"
+      ],
+      "answer": "B",
+      "explanation": "视频明确提到 else in Cape Town that's an absolute must is a trip up the table Mountain aerial Tramway。桌山缆车是开普敦必游项目。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 215.6,
+      "endTime": 221.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Table Mountain",
+        "aerial Tramway",
+        "absolute must"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What iconic feature of Cape Town can you hike according to the video?",
+      "options": [
+        "A) Table Mountain",
+        "B) Lion's Head",
+        "C) Signal Hill",
+        "D) Devil's Peak"
+      ],
+      "answer": "B",
+      "explanation": "视频提到 do here is hike lion's head this is an iconic feature of Cape Town。狮头峰是开普敦著名的徒步地点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 244.4,
+      "endTime": 249.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Lion's Head",
+        "hike",
+        "iconic feature"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Where did the speaker finally arrive after their journey?",
+      "options": [
+        "A) Kruger National Park",
+        "B) Sabi Sands",
+        "C) Cape Town",
+        "D) Namibia"
+      ],
+      "answer": "B",
+      "explanation": "视频提到 I've made it to Sabi Sands。Sabi Sands 是南非著名的私人野生动物保护区，与克鲁格国家公园相邻。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 263.6,
+      "endTime": 280.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Sabi Sands",
+        "made it",
+        "private reserve"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the difference between a private reserve and Kruger National Park?",
+      "options": [
+        "A) Private reserves have fewer animals",
+        "B) Private reserves don't have some of the rules that Kruger does",
+        "C) Kruger is more expensive",
+        "D) Private reserves are only for tourists"
+      ],
+      "answer": "B",
+      "explanation": "视频提到 it is a private reserve it doesn't have some of the rules that Krueger does。私人保护区相比克鲁格国家公园有更少的限制。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 311.5,
+      "endTime": 316,
+      "difficulty": "medium",
+      "relatedWords": [
+        "private reserve",
+        "Kruger",
+        "rules"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "Why must you stick to designated roads in a national park?",
+      "options": [
+        "A) To drive faster",
+        "B) To limit what you can see",
+        "C) To protect the environment and animals",
+        "D) Because there are no other roads"
+      ],
+      "answer": "C",
+      "explanation": "视频提到 you also have to stick to designated roads in a national park which means you're limited to what... 这意味着在国家公园内必须遵守规定道路，以保护环境和动物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 331.4,
+      "endTime": 336.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "designated roads",
+        "national park",
+        "limited"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "How can you enter a private reserve according to the video?",
+      "options": [
+        "A) By yourself in any vehicle",
+        "B) By staying at a lodge and driving with their guides",
+        "C) By walking in",
+        "D) By taking a bus"
+      ],
+      "answer": "B",
+      "explanation": "视频提到 is to stay at a lodge there and drive with their guides。必须住在保护区内的 lodge 并由导游带领进入。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 352.9,
+      "endTime": 356.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lodge",
+        "guides",
+        "private reserve"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does Sabi Sans offer every day according to the video?",
+      "options": [
+        "A) Only morning drives",
+        "B) Morning and afternoon drives with a guide",
+        "C) Night drives only",
+        "D) Self-guided tours"
+      ],
+      "answer": "B",
+      "explanation": "视频提到 days in the mornings and afternoons and I'm excited to see what we find Sabi Sans has a... 以及后面的 morning and afternoon drive with a guide every day。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 375.4,
+      "endTime": 382.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "morning",
+        "afternoon",
+        "drive",
+        "guide"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "speaking",
+      "question": "Describe what the speaker tracked in the morning and what they found.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容描述早上追踪动物的情况。",
+      "referenceAnswer": "The speaker tracked a mother leopard and her older male cub through the bush. They found an older male leopard cub with a dead antelope up in a tree.",
+      "hint": "Think about what animal was tracked and what was found in the tree.",
+      "startTime": 395.8,
+      "endTime": 400.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "leopard",
+        "tracked",
+        "cub",
+        "antelope"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What do African farmers use bees for according to the video?",
+      "options": [
+        "A) To produce honey",
+        "B) To keep elephants away from their crops",
+        "C) To pollinate flowers",
+        "D) To entertain tourists"
+      ],
+      "answer": "B",
+      "explanation": "视频明确提到 African farmers will raise these to keep elephants away from their crops。养蜂是为了防止大象破坏农作物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 507.2,
+      "endTime": 513.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bees",
+        "elephants",
+        "farmers",
+        "crops"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What happened at breakfast one morning at the river?",
+      "options": [
+        "A) A lion appeared",
+        "B) A herd of animals showed up",
+        "C) It started raining",
+        "D) The guide got sick"
+      ],
+      "answer": "B",
+      "explanation": "视频提到 one morning at breakfast after a sunrise game drive a herd showed up at the river outside。一群动物在河边出现。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 513.7,
+      "endTime": 518.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "breakfast",
+        "herd",
+        "river"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What was described as 'the most exciting' of the entire trip?",
+      "options": [
+        "A) Seeing a leopard",
+        "B) Finding lions in the afternoon",
+        "C) Climbing Table Mountain",
+        "D) Visiting Simon's Town"
+      ],
+      "answer": "B",
+      "explanation": "视频明确提到 the most exciting of the entire trip we went out in the afternoon looking for lions and found... 下午寻找狮子被认为是最令人兴奋的经历。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 614.8,
+      "endTime": 619.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "most exciting",
+        "trip",
+        "lions",
+        "afternoon"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What realization did the speaker have while sitting in the vehicle with all lights off?",
+      "options": [
+        "A) They were lost",
+        "B) They were sitting surrounded by hungry lions",
+        "C) They needed more food",
+        "D) They should have brought a flashlight"
+      ],
+      "answer": "B",
+      "explanation": "视频提到 all of the vehicle lights off and that's when I had the realization that I was sitting in... 后面提到 surrounded by hungry Lions。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 680.3,
+      "endTime": 685,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vehicle lights off",
+        "surrounded",
+        "hungry lions"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What was it like sitting in a completely open vehicle in complete darkness?",
+      "options": [
+        "A) Peaceful",
+        "B) Boring",
+        "C) Thrilling",
+        "D) Scary but safe"
+      ],
+      "answer": "C",
+      "explanation": "视频描述 it was thrilling it was still totally... 在完全黑暗中坐在完全开放的车辆里，周围是饥饿的狮子，speaker形容这是 thrilling（令人兴奋/刺激的）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 685,
+      "endTime": 694.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "thrilling",
+        "open vehicle",
+        "darkness"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What was the biggest question people asked the speaker about traveling alone in South Africa?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容回答关于独自旅行的问题。",
+      "referenceAnswer": "The biggest question was how the speaker felt about traveling alone in South Africa, asked by family, friends, and even locals.",
+      "hint": "Think about the speaker's feelings about solo travel.",
+      "startTime": 722.4,
+      "endTime": 735.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "solo travel",
+        "South Africa",
+        "how do I feel"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What advice would the speaker give to someone who feels hesitant about traveling alone in South Africa?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容给出旅行建议。",
+      "referenceAnswer": "The speaker would recommend coming on a tour, especially for those who feel hesitant or don't have a lot of travel experience. They also mentioned places where you would have to be more cautious.",
+      "hint": "Consider what the speaker said about tours and cautious places.",
+      "startTime": 781.3,
+      "endTime": 791.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hesitant",
+        "tour",
+        "cautious",
+        "recommend"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "How does the speaker describe their solo trip to South Africa?",
+      "options": [
+        "A) It was boring",
+        "B) It was a failure",
+        "C) It was definitely successful",
+        "D) They won't come back"
+      ],
+      "answer": "C",
+      "explanation": "视频提到 I had a great time this was definitely a successful solo trip for me。speaker明确表示这是一次成功的独自旅行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 775.8,
+      "endTime": 781.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "successful solo trip",
+        "great time"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What animals were described as having 'the Zoomies' and chasing each other?",
+      "options": [
+        "A) Lions",
+        "B) Leopards",
+        "C) A group of animals (likely antelopes or similar)",
+        "D) Elephants"
+      ],
+      "answer": "C",
+      "explanation": "视频提到 morning there was a group of them that had the Zoomies they were chasing each other around。Zoomies 是指动物精力充沛时四处奔跑玩耍的行为。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 529.8,
+      "endTime": 534.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Zoomies",
+        "chasing",
+        "group"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "How much food can an elephant eat up to according to the video?",
+      "options": [
+        "A) 100 pounds",
+        "B) 300 pounds",
+        "C) 600 pounds",
+        "D) 1000 pounds"
+      ],
+      "answer": "C",
+      "explanation": "视频明确提到 can eat up to 600 pounds of food a day。大象每天可以吃多达600磅的食物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 501.6,
+      "endTime": 507.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "elephant",
+        "600 pounds",
+        "food"
+      ]
+    }
+  ]
+}

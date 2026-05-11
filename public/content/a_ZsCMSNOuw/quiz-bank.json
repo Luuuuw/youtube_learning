@@ -1,0 +1,575 @@
+{
+  "videoId": "a_ZsCMSNOuw",
+  "title": "Trump Insists War is Over, Kash Patel Gets Hammered & Right-Wingers Blame Mamdani for Mets Losing",
+  "generatedAt": "2026-05-01T03:57:10.544Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 8,
+    "medium": 13,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "How much money is Kash Patel suing The Atlantic for?",
+      "options": [
+        "A) $150 million",
+        "B) $200 million",
+        "C) $250 million",
+        "D) $300 million"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕，Patel起诉The Atlantic索赔2.5亿美元（$250 million）。这是视频中提到的具体数字。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 123.3,
+      "endTime": 128.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lawsuit",
+        "sue",
+        "million",
+        "Atlantic"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the report, what has alarmed Patel’s colleagues according to the story?",
+      "options": [
+        "A) His excessive working hours",
+        "B) His excessive drinking",
+        "C) His frequent travel",
+        "D) His media interviews"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到\"Eps of excessive drinking have alarmed his colleagues\"，即过度饮酒让他的同事们感到震惊。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.2,
+      "endTime": 117.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "excessive drinking",
+        "colleagues",
+        "alarmed"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the phrase \"getting hammered\" mean in this context?",
+      "options": [
+        "A) Being physically hit",
+        "B) Being severely criticized",
+        "C) Being promoted",
+        "D) Being rewarded"
+      ],
+      "answer": "B",
+      "explanation": "在新闻语境中，\"getting hammered\"意思是受到严厉批评或攻击。视频中讨论Kash Patel因为一篇报道而受到猛烈批评。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 99.3,
+      "endTime": 104.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hammered",
+        "criticized",
+        "report"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What happened to Patel’s systems according to the video?",
+      "options": [
+        "A) They were upgraded",
+        "B) They were hacked",
+        "C) He was locked out",
+        "D) They were deleted"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到\"they locked him out\"，指的是Patel被锁定在他的系统之外。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 189.4,
+      "endTime": 190.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "locked out",
+        "systems",
+        "Patel"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "How long ago did Patel claim he was locked out?",
+      "options": [
+        "A) One week ago",
+        "B) Around two weeks ago",
+        "C) One month ago",
+        "D) Three months ago"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示\"around two weeks ago\"，Patel声称大约两周前他被锁在系统之外。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 176.2,
+      "endTime": 182.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "locked out",
+        "two weeks ago"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What was the real reason for Patel’s lockout according to the video?",
+      "options": [
+        "A) A security breach",
+        "B) An IT issue",
+        "C) A budget cut",
+        "D) A system upgrade"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到\"Then turned out it was an IT issue and he got back in\"，说明实际上是一个IT问题，不是真的被解雇。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 194.6,
+      "endTime": 199,
+      "difficulty": "medium",
+      "relatedWords": [
+        "IT issue",
+        "locked out",
+        "Patel"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is the journalist’s name who wrote the Atlantic story?",
+      "options": [
+        "A) Sarah Johnson",
+        "B) Sarah Fitzpatrick",
+        "C) Mary Smith",
+        "D) Lisa Davis"
+      ],
+      "answer": "B",
+      "explanation": "字幕明确提到\"the journalist who wrote the story, her name is Sarah Fitzpatrick\"。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 143.2,
+      "endTime": 147.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "journalist",
+        "Sarah Fitzpatrick",
+        "Atlantic"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is The Atlantic’s response to Patel’s lawsuit?",
+      "options": [
+        "A) They apologized",
+        "B) They denied the allegations",
+        "C) They settled out of court",
+        "D) They refused to comment"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示The Atlantic的声明\"We stand by our reporting\"，即他们坚持自己的报道，会积极辩护。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 128.2,
+      "endTime": 130.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stand by",
+        "reporting",
+        "defend"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What day is being discussed in the first part of the video?",
+      "options": [
+        "A) Earth Day",
+        "B) Christmas Day",
+        "C) Independence Day",
+        "D) Thanksgiving"
+      ],
+      "answer": "A",
+      "explanation": "字幕多次提到\"Earth Day\"，包括\"On Earth Day, they were doing this\"和\"It is Earth Day\"。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 13.3,
+      "endTime": 14.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Earth Day",
+        "celebrating",
+        "observing"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What did researchers from Australia and Sweden study?",
+      "options": [
+        "A) Climate change effects on fish",
+        "B) Drug pollution in the water",
+        "C) Endangered species migration",
+        "D) Ocean temperature changes"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到\"researchers from Australia and Sweden are doing a study about drug pollution in the water\"。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 51.8,
+      "endTime": 57.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "researchers",
+        "Australia",
+        "Sweden",
+        "drug pollution"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What was found about salmon exposed to cocaine according to the research?",
+      "options": [
+        "A) They became more aggressive",
+        "B) They swam nearly twice as far",
+        "C) They died faster",
+        "D) They changed color"
+      ],
+      "answer": "B",
+      "explanation": "字幕明确提到\"they found that salmon that are exposed to cocaine swim nearly twice as far as those that do not\"。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 57.5,
+      "endTime": 65.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "salmon",
+        "cocaine",
+        "swim",
+        "twice"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does \"GMO\" stand for in the video?",
+      "options": [
+        "A) General Management Organization",
+        "B) Genetically Modified Organism",
+        "C) Global Marine Observatory",
+        "D) Government Media Office"
+      ],
+      "answer": "B",
+      "explanation": "在讨论地球日话题时，主持人提到\"GMO\"，这是一个常见的缩写，指转基因生物（Genetically Modified Organism）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 41,
+      "endTime": 42.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "GMO",
+        "genetically modified"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the host mean by \"we are observing Earth Day\" rather than \"celebrating\"?",
+      "options": [
+        "A) They are having a party",
+        "B) They are formally acknowledging the day without festivities",
+        "C) They are protesting the holiday",
+        "D) They are ignoring it"
+      ],
+      "answer": "B",
+      "explanation": "主持人说\"I wouldn't go as so far as to say we are celebrating Earth Day, but we're observing it\"，意思是他们只是正式纪念这个日子，而不是庆祝。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 9,
+      "endTime": 13.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "observing",
+        "celebrating",
+        "Earth Day"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the word \"baseless\" mean in \"baseless reporting\"?",
+      "options": [
+        "A) Well-supported",
+        "B) Unfounded",
+        "C) Professional",
+        "D) Detailed"
+      ],
+      "answer": "B",
+      "explanation": "\"Baseless\"意思是毫无根据的，\"baseless reporting\"指没有事实依据的报道。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 219.8,
+      "endTime": 223.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "baseless",
+        "reporting",
+        "lie"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the approximate number of species that could be affected according to some scientists?",
+      "options": [
+        "A) More than a billion",
+        "B) More than a trillion",
+        "C) More than a million",
+        "D) More than a thousand"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到\"some scientists believe the true number could be more than a trillion\"，这里指的可能是受环境影响的物种数量。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 43.1,
+      "endTime": 46.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "scientists",
+        "trillion",
+        "number"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does Patel call the allegations in the story?",
+      "options": [
+        "A) True but exaggerated",
+        "B) A hit piece",
+        "C) A comedy",
+        "D) A mystery"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示\"Patel claims the allegations are completely false, a hit piece\"，hit piece意思是恶意攻击文章。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 139.4,
+      "endTime": 143.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "allegations",
+        "hit piece",
+        "false"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "How many people did Patel call according to the article?",
+      "options": [
+        "A) At least five",
+        "B) At least seven",
+        "C) At least nine",
+        "D) At least twelve"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到\"The article said he called at least nine people\"，报道称Patel至少给九个人打电话。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 190.3,
+      "endTime": 194.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "called",
+        "nine people",
+        "article"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What was the result of the defamation lawsuit Patel filed against another party?",
+      "options": [
+        "A) It was still pending",
+        "B) It was settled",
+        "C) It was dismissed",
+        "D) It was approved"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到\"a federal judge dismissed a defamation lawsuit Patel filed against a\"，即法官驳回了Patel的诉讼。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 159,
+      "endTime": 168,
+      "difficulty": "medium",
+      "relatedWords": [
+        "defamation lawsuit",
+        "dismissed",
+        "federal judge"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does \"vigilantly\" mean in \"we will vigorously defend\"?",
+      "options": [
+        "A) Slowly and carefully",
+        "B) Quickly but lazily",
+        "C) With energy and force",
+        "D) With hesitation"
+      ],
+      "answer": "C",
+      "explanation": "\"Vigorously\"和\"vigorously defend\"表示积极有力地辩护，vigorously意为精力充沛地、强烈地。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 128.2,
+      "endTime": 130.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "vigorously",
+        "defend",
+        "vigorously"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does \"categorically\" mean in \"Patel denies this and not just categorically, maniacally\"?",
+      "options": [
+        "A) Partially",
+        "B) Completely and definitively",
+        "C) Sometimes",
+        "D) Rarely"
+      ],
+      "answer": "B",
+      "explanation": "\"Categorically\"意为完全地、绝对地、无条件地，用于表示彻底否认。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 119.8,
+      "endTime": 123.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "categorically",
+        "maniacally",
+        "denies"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Summarize the main controversy surrounding Kash Patel and The Atlantic article.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生根据视频内容总结Kash Patel与The Atlantic文章的主要争议。",
+      "referenceAnswer": "Kash Patel, the FBI director, is suing The Atlantic for $250 million over a story that alleged he was getting hammered on the job due to excessive drinking. The Atlantic stands by its reporting. Patel claims the allegations are false and a hit piece. There's also a separate defamation lawsuit that was dismissed.",
+      "hint": "Include key points: the lawsuit amount, the allegations about drinking, The Atlantic's response, and the separate dismissed case.",
+      "startTime": 99.3,
+      "endTime": 130.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Patel",
+        "Atlantic",
+        "lawsuit",
+        "controversy"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Explain what happened when Patel was locked out of his systems and what the actual reason turned out to be.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生解释Patel被锁在系统之外的情况以及真正的原因。",
+      "referenceAnswer": "Patel claimed he was locked out of his systems around two weeks ago, which he believed meant he was fired. However, it turned out to be an IT issue, not a termination. He was able to get back in after the technical problem was resolved.",
+      "hint": "Use words like locked out, IT issue, terminated, and systems.",
+      "startTime": 182.2,
+      "endTime": 199,
+      "difficulty": "medium",
+      "relatedWords": [
+        "locked out",
+        "IT issue",
+        "systems"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Describe one of the Earth Day research topics mentioned in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生描述视频中提到的地球日研究话题之一。",
+      "referenceAnswer": "One research topic mentioned was about drug pollution in water. Researchers from Australia and Sweden found that salmon exposed to cocaine swim nearly twice as far as those not exposed. Another topic was about endangered species protections and GMOs.",
+      "hint": "Choose either the drug pollution study or the endangered species topic and describe what you learned.",
+      "startTime": 46.6,
+      "endTime": 65.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Earth Day",
+        "research",
+        "salmon",
+        "cocaine"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "What is your opinion on how the media should handle sensitive stories about government officials?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题是开放性问题，要求考生表达对媒体报道政府官员敏感新闻的看法。",
+      "referenceAnswer": "Should discuss: the importance of accurate reporting, the need for multiple sources, the right of officials to defend themselves, and the balance between public interest and privacy. Should reference the lawsuit and denial in the video.",
+      "hint": "Consider the lawsuit amount, the denial from Patel, and The Atlantic's defense of their reporting.",
+      "startTime": 219.8,
+      "endTime": 238.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "media",
+        "reporting",
+        "government",
+        "accuracy"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What is the Hoover Building where the FBI works located?",
+      "options": [
+        "A) In New York",
+        "B) In Washington D.C.",
+        "C) In Los Angeles",
+        "D) In Chicago"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到\"on the seventh floor of the Hoover building where they work\"，胡佛大厦是FBI在华盛顿特区的总部所在地。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 173.3,
+      "endTime": 176.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Hoover building",
+        "FBI",
+        "Washington"
+      ]
+    }
+  ]
+}

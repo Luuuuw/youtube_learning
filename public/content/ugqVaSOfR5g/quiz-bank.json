@@ -1,0 +1,550 @@
+{
+  "videoId": "ugqVaSOfR5g",
+  "title": "Imagine Life If You Didn’t Overthink Everything - Naval Ravikant",
+  "generatedAt": "2026-05-07T17:33:05.686Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 8,
+    "medium": 10,
+    "hard": 6,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "According to Naval, what causes stress according to this video?",
+      "options": [
+        "A) Too much work and no rest",
+        "B) Having two conflicting desires at once",
+        "C) Physical exhaustion from daily tasks",
+        "D) Social expectations from others"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确指出：\"So when your mind is under stress, it's because it has two conflicting desires at once.（当你的大脑处于压力之下时，是因为你同时有两种相互冲突的欲望。）\" 这是Naval对压力本质的核心解释。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 36.7,
+      "endTime": 41.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "stress",
+        "conflicting desires",
+        "anxiety"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does Naval compare anxiety to in this video?",
+      "options": [
+        "A) A storm in the ocean",
+        "B) An iceberg",
+        "C) A mountain of garbage",
+        "D) A sleeping dragon"
+      ],
+      "answer": "C",
+      "explanation": "Naval说：\"And there's this mountain of garbage in your mind and it's a little bit of it poking out the top like an iceberg and that's anxiety.（你脑海里有一座垃圾山，只有一点点露出水面像冰山，那就是焦虑。）\" 他用垃圾山的比喻来形容未解决的负面情绪和问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 100.4,
+      "endTime": 104.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "anxiety",
+        "mountain of garbage",
+        "iceberg"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does Naval suggest as ways to deal with anxiety?",
+      "options": [
+        "A) Take medication and rest",
+        "B) Meditate, journal, and talk to a therapist",
+        "C) Work harder to distract yourself",
+        "D) Avoid thinking about problems"
+      ],
+      "answer": "B",
+      "explanation": "视频中Naval提出了三种具体的解决方法：\"Let me meditate on it（让我冥想）\"、\"Let me journal（让我写作）\"、\"Let me talk to a therapist（让我和治疗师谈谈）\"。这些都是具体的自我调节和寻求帮助的方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 122,
+      "endTime": 124.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "meditate",
+        "journal",
+        "therapist",
+        "anxiety"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What big question does Naval say children naturally ask?",
+      "options": [
+        "A) How to make money?",
+        "B) Why are we here?",
+        "C) What is success?",
+        "D) When will I grow up?"
+      ],
+      "answer": "B",
+      "explanation": "Naval提到：\"A little child might ask the big questions like, why are we here?（小孩子可能会问大问题，比如我们为什么在这里？）\" 这表明孩子天生对人生意义有好奇心。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 179.5,
+      "endTime": 183,
+      "difficulty": "easy",
+      "relatedWords": [
+        "big questions",
+        "why are we here",
+        "meaning of life"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does Naval say about the meaning of life at the end of the video?",
+      "options": [
+        "A) It is to achieve success",
+        "B) It's all going to zero and you cannot take anything with you",
+        "C) It is to help others",
+        "D) It is to accumulate wealth"
+      ],
+      "answer": "B",
+      "explanation": "Naval明确说道：\"I think that's a good one. It's all going to zero. You cannot take anything with you.（这很重要。一切都会归零。你什么都带不走。）\" 这体现了他对人生意义的深刻思考——认识到生命的有限性和物质的虚无。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 167.5,
+      "endTime": 171.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "meaning of life",
+        "going to zero",
+        "present moment"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does Naval say is 'the emotion of the 21st century'?",
+      "options": [
+        "A) Happiness",
+        "B) Anger",
+        "C) Anxiety",
+        "D) Sadness"
+      ],
+      "answer": "C",
+      "explanation": "Naval在演讲开头就说：\"And anxiety is the emotion of the 21st century.（焦虑是21世纪的情绪。）\" 他将焦虑视为当代人最普遍的情绪问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 6.3,
+      "endTime": 11.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "anxiety",
+        "21st century",
+        "emotion"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does Naval say about unresolved problems?",
+      "options": [
+        "A) They disappear over time",
+        "B) They pile up and create anxiety",
+        "C) They make people more productive",
+        "D) They can be easily ignored"
+      ],
+      "answer": "B",
+      "explanation": "Naval指出：\"I think the reason for that is because you have so many unresolved problems, unresolved stress points that have piled up in your life that you can no longer identify what the problems are.（这是因为你有太多未解决的问题、未解决的压力点堆积在你的生活中，你已经无法识别问题是什么了。）\" 未解决的问题会堆积成山，导致焦虑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 89.8,
+      "endTime": 100.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "unresolved problems",
+        "anxiety",
+        "pile up"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is one 'big anxiety resolver' Naval mentions?",
+      "options": [
+        "A) Watching TV",
+        "B) Ruminating on death",
+        "C) Going to parties",
+        "D) Eating healthy food"
+      ],
+      "answer": "B",
+      "explanation": "Naval分享道：\"One big anxiety resolver for me is just ruminating on death.（对我来说一个很大的焦虑解决方法就是思考死亡。）\" 通过思考生命的有限性来获得平静和清晰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 162.3,
+      "endTime": 167.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "ruminate on death",
+        "anxiety resolver",
+        "mortality"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What example does Naval give about conflicting desires?",
+      "options": [
+        "A) Wanting to travel but being afraid of flying",
+        "B) Not wanting to go to work but wanting to make money",
+        "C) Wanting to eat healthy but craving junk food",
+        "D) Wanting to sleep in but needing to exercise"
+      ],
+      "answer": "B",
+      "explanation": "Naval举例子说：\"These are examples - you don't want to go to work but you want to make money.（这些例子是——你不想去上班但你想赚钱。）\" 这正是相互冲突的欲望的典型例子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 53.4,
+      "endTime": 57,
+      "difficulty": "easy",
+      "relatedWords": [
+        "conflicting desires",
+        "work",
+        "money"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "According to Naval, what should you do when you have conflicting desires?",
+      "options": [
+        "A) Ignore them and wait",
+        "B) Try to do both at the same time",
+        "C) Acknowledge them and resolve the conflict",
+        "D) Ask others to decide for you"
+      ],
+      "answer": "C",
+      "explanation": "Naval建议：\"To acknowledge that oh I actually have two conflicting desires and either I need to resolve it.（要承认我实际上有两种相互冲突的欲望，我需要解决它。）\" 关键是意识到并着手解决这种冲突。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 63,
+      "endTime": 68.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "acknowledge",
+        "conflicting desires",
+        "resolve"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does Naval say about driven people?",
+      "options": [
+        "A) They are always happy",
+        "B) They are very anxious and very paranoid",
+        "C) They never feel stress",
+        "D) They are always relaxed"
+      ],
+      "answer": "B",
+      "explanation": "Naval观察道：\"And lots of driven people very anxious, very paranoid.（很多有动力的人非常焦虑，非常偏执。）\" 这揭示了追求成功可能带来的心理代价。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 11.3,
+      "endTime": 14.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "driven people",
+        "anxious",
+        "paranoid"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does Naval suggest about doing what you want rather than what others expect?",
+      "options": [
+        "A) Follow society's expectations exactly",
+        "B) Always do what other people tell you",
+        "C) Want rather than doing what other people expect you to do",
+        "D) Never consider others' opinions"
+      ],
+      "answer": "C",
+      "explanation": "Naval强调：\"Want rather than doing what other people expect you to do or society expects you to do.（要知道自己想要什么，而不是做别人或社会期望你做的事。）\" 这是关于找到真正的内在动机。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 525.2,
+      "endTime": 529.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "want",
+        "society expectations",
+        "authentic"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does Naval say about reflection?",
+      "options": [
+        "A) You should reflect on everything constantly",
+        "B) You shouldn't reflect too much on things",
+        "C) Reflection is always bad",
+        "D) Only reflection can solve all problems"
+      ],
+      "answer": "B",
+      "explanation": "Naval提到：\"This goes counter to what I was saying earlier about not reflecting too much on things.（这和我之前说的不要过度反思事情相矛盾。）\" 他提醒我们过度思考和反思可能适得其反。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 143.1,
+      "endTime": 147,
+      "difficulty": "hard",
+      "relatedWords": [
+        "reflection",
+        "overthinking",
+        "counter"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does Naval say about the present moment?",
+      "options": [
+        "A) It lasts forever",
+        "B) There's only a present moment and it's gone instantly",
+        "C) The present moment is not important",
+        "D) We should focus on the past"
+      ],
+      "answer": "B",
+      "explanation": "Naval深刻地说：\"There's only a present moment and it's gone instantly.（只有一个当下，而且它瞬间就消失了。）\" 这体现了他对时间流逝和活在当下的哲学思考。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 220.7,
+      "endTime": 223.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "present moment",
+        "gone instantly",
+        "time"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does Naval say about time spent thinking about big questions?",
+      "options": [
+        "A) We spend too much time on them",
+        "B) We don't spend enough time thinking about the big questions",
+        "C) Big questions are waste of time",
+        "D) We should avoid big questions"
+      ],
+      "answer": "B",
+      "explanation": "Naval指出：\"We don't spend enough time thinking about the big questions.（我们没有花足够的时间思考大问题。）\" 他鼓励人们去思考人生的基本问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 173,
+      "endTime": 177.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "big questions",
+        "thinking",
+        "time"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does Naval say about habits we give up on?",
+      "options": [
+        "A) We give up on them when we're old",
+        "B) We kind of give up on them when we're very, very young",
+        "C) We never give up on good habits",
+        "D) We only give up on bad habits"
+      ],
+      "answer": "B",
+      "explanation": "Naval观察到：\"We kind of give up on them when we're very, very young.（我们在很小的时候就放弃了它们。）\" 这里指的是我们早年放弃的一些梦想或追求。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 177.2,
+      "endTime": 179.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "give up",
+        "young",
+        "habits"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does Naval say about intuition in the later part of the video?",
+      "options": [
+        "A) Ignore your intuition completely",
+        "B) Rely on your sort of bottom-up intuition",
+        "C) Only trust logical thinking",
+        "D) Intuition is always wrong"
+      ],
+      "answer": "B",
+      "explanation": "Naval提到：\"Because half of wisdom suggests to rely on your sort of bottom-up intuition and then half of it（因为一半的智慧建议依赖你自下而上的直觉...）\" 这体现了他对直觉和智慧的平衡看法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 558,
+      "endTime": 564.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "wisdom",
+        "intuition",
+        "bottom-up"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does Naval say about doing things by default?",
+      "options": [
+        "A) Always do what you think should be done by default",
+        "B) Don't just do what you might think should be done by default",
+        "C) Default actions are always correct",
+        "D) Avoid making any decisions"
+      ],
+      "answer": "B",
+      "explanation": "Naval建议：\"Not what you might just think should be done by default（不要只是做你可能认为默认应该做的事情）\" 这鼓励人们独立思考，而不是盲目跟随惯性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 529.6,
+      "endTime": 532.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "default",
+        "think",
+        "decision"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does Naval say about doing things to feel better about yourself?",
+      "options": [
+        "A) It's always good for you",
+        "B) It could be strengthening your personality and ego",
+        "C) You should always do it",
+        "D) It creates a stronger personality"
+      ],
+      "answer": "B",
+      "explanation": "Naval警告说：\"If you're doing it to just feel better about yourself, that could be strengthening your personality and your ego and could be creating a more fragile personality.（如果你是为了自我感觉更好而做，那可能是在强化你的个性和自我，可能会创造出更脆弱的性格。）\" 这提醒我们要警惕自我膨胀。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 152.6,
+      "endTime": 162.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "ego",
+        "personality",
+        "fragile"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "According to Naval, what is the relationship between stress and having conflicting desires? Please explain in your own words.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放式口语题，要求考生用英语复述和解释Naval关于压力和冲突欲望之间关系的观点。",
+      "referenceAnswer": "According to Naval, stress occurs when your mind has two conflicting desires at the same time. For example, you might not want to go to work but you want to make money. When you can't reconcile these two desires, you feel stressed. The key to dealing with stress is to acknowledge that you have conflicting desires and then work to resolve them.",
+      "hint": "Think about the example of not wanting to work but wanting money. Explain how having two opposing wants creates stress.",
+      "startTime": 36.7,
+      "endTime": 68.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stress",
+        "conflicting desires",
+        "reconcile"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What are the three methods Naval suggests for dealing with anxiety? Which one would you prefer and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放式口语题，要求考生介绍Naval提出的三种应对焦虑的方法，并表达个人偏好。",
+      "referenceAnswer": "Naval suggests three methods: meditation, journaling, and talking to a therapist. He says 'Let me meditate on it,' 'Let me journal,' and 'Let me talk to a therapist.' Each method helps you process and resolve underlying issues. I would prefer meditation because it helps me become more aware of my thoughts without judgment.",
+      "hint": "Mention meditation, journaling, and therapy as the three methods.",
+      "startTime": 122,
+      "endTime": 124.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "meditate",
+        "journal",
+        "therapist",
+        "anxiety"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What does Naval mean when he says 'anxiety is the emotion of the 21st century'? Do you agree? Why or why not?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生理解和评价Naval关于21世纪焦虑的论断，并表达个人看法。",
+      "referenceAnswer": "When Naval says anxiety is the emotion of the 21st century, he means that in our modern world of constant connectivity, information overload, and social media, people are more anxious than ever before. The unresolved problems and stress from daily life accumulate, creating a generation of anxious people. I agree because we live in a highly competitive society with constant pressure to succeed and compare ourselves with others.",
+      "hint": "Consider modern factors like technology, social media, work pressure, and information overload.",
+      "startTime": 6.3,
+      "endTime": 11.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "anxiety",
+        "21st century",
+        "modern world"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Naval mentions 'ruminating on death' as an anxiety resolver. What do you think he means by this? Do you think it's an effective approach?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生理解并评价Naval关于通过思考死亡来缓解焦虑的观点。",
+      "referenceAnswer": "By 'ruminating on death,' I think Naval means reflecting on mortality - understanding that life is short and everything will eventually come to an end. This perspective can help put things in perspective and reduce anxiety about trivial matters. When you realize that life is temporary and you can't take anything with you, you become more focused on what truly matters. I think it's an effective approach because it creates humility and helps prioritize what's important.",
+      "hint": "Think about how contemplating mortality can put life into perspective and reduce anxiety about small things.",
+      "startTime": 162.3,
+      "endTime": 171.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "ruminate on death",
+        "mortality",
+        "anxiety resolver"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does Naval say we give up on when we're young?",
+      "options": [
+        "A) Our jobs and careers",
+        "B) Our dreams and aspirations",
+        "C) Our friends and family",
+        "D) Our education"
+      ],
+      "answer": "B",
+      "explanation": "Naval说：\"We kind of give up on them when we're very, very young.（我们在很小的时候就放弃了它们。）\" 结合上下文，这里的\"them\"指的是我们童年时的梦想、追求和人生的大问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 177.2,
+      "endTime": 179.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "give up",
+        "young",
+        "dreams"
+      ]
+    }
+  ]
+}

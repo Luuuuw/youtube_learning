@@ -1,0 +1,571 @@
+{
+  "videoId": "t1qyeZzZft0",
+  "title": "my first time in italy 🍋 a week in amalfi coast & sorrento, girls trip, beaches & lots of food",
+  "generatedAt": "2026-05-07T17:29:21.689Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 10,
+    "medium": 11,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker say about Positano in this video?",
+      "options": [
+        "A) It's her first time visiting",
+        "B) She has been there many times",
+        "C) She lives there permanently",
+        "D) She hates the place"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕第37条，'It is my first time here and we're staying in Positano'，说明这是她第一次来这里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 36.4,
+      "endTime": 40,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Positano",
+        "first time",
+        "staying"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'What is life right now?' mean in this context?",
+      "options": [
+        "A) She is asking a philosophical question",
+        "B) She is expressing surprise and disbelief at how amazing the view is",
+        "C) She wants to know the time",
+        "D) She is confused about her life"
+      ],
+      "answer": "B",
+      "explanation": "这是一个感叹句，表示对当前景色或体验的极度赞叹，意思是\"这简直不可思议\"或\"生活太美好了\"。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 66.8,
+      "endTime": 68.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "amazing",
+        "view",
+        "incredible"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'This is literally insane' mean?",
+      "options": [
+        "A) This is crazy or amazing",
+        "B) This is very boring",
+        "C) This is completely normal",
+        "D) This is very cheap"
+      ],
+      "answer": "A",
+      "explanation": "'Insane' 在这里是口语表达，表示某事令人难以置信的棒或疯狂，是一种强烈的感叹。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 68.6,
+      "endTime": 70.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "insane",
+        "crazy",
+        "amazing"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Who is the speaker traveling with for the next seven days?",
+      "options": [
+        "A) Her family members",
+        "B) Her best friends",
+        "C) Her colleagues",
+        "D) Her boyfriend"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第7条，'best friends for the next seven days'，说明她是和闺蜜一起旅行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 40,
+      "endTime": 41.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "best friends",
+        "seven days",
+        "trip"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What did the speaker originally plan to get?",
+      "options": [
+        "A) Chocolate flavor",
+        "B) Strawberry flavor",
+        "C) Vanilla flavor",
+        "D) Mint flavor"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第36条，'I had planned on getting vanilla, but then she recommended this one'，她原本想要香草味的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 201.7,
+      "endTime": 216.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "vanilla",
+        "planned",
+        "recommended"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "How much was the item that cost €78?",
+      "options": [
+        "A) Very reasonable",
+        "B) A bit expensive",
+        "C) Very cheap",
+        "D) Not mentioned"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第21条，'€78, which is crazy'，78欧元被认为是相当贵的，'crazy'在这里表示贵得惊人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 185.9,
+      "endTime": 188.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "€78",
+        "crazy",
+        "expensive"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'perk me up' mean in 'I feel like gelato will perk me up'?",
+      "options": [
+        "A) Make me tired",
+        "B) Make me happy and energetic",
+        "C) Make me sick",
+        "D) Make me confused"
+      ],
+      "answer": "B",
+      "explanation": "'Perk me up' 是一个短语，意思是让我精神起来，让我振作起来，通常指通过食物或饮料提神。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 638.4,
+      "endTime": 640.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "perk up",
+        "energetic",
+        "refresh"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'fading' mean in 'I'm honestly like kind of fading now'?",
+      "options": [
+        "A) Getting excited",
+        "B) Feeling sleepy or losing energy",
+        "C) Getting angry",
+        "D) Feeling hungry"
+      ],
+      "answer": "B",
+      "explanation": "'Fading' 在这里表示精神逐渐涣散，感到困倦或疲惫。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 632.8,
+      "endTime": 636,
+      "difficulty": "medium",
+      "relatedWords": [
+        "fading",
+        "tired",
+        "sleepy"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'insane' mean in 'this restaurant's view is insane'?",
+      "options": [
+        "A) Terrible",
+        "B) Amazing and breathtaking",
+        "C) Normal",
+        "D) Small"
+      ],
+      "answer": "B",
+      "explanation": "'Insane' 在描述风景时表示令人难以置信的美丽或壮观。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 640.2,
+      "endTime": 643.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "insane",
+        "view",
+        "amazing"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What time did they have dinner according to the subtitle?",
+      "options": [
+        "A) 6:00 p.m.",
+        "B) 7:00 p.m.",
+        "C) 8:00 p.m.",
+        "D) 9:00 p.m."
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第23条，'Had dinner at 7:00 p.m. and it is now 1:00 p.m. the next day'，他们在晚上7点吃晚餐。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 670.9,
+      "endTime": 674.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dinner",
+        "7:00 p.m.",
+        "time"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "speaking",
+      "question": "Describe a memorable meal or food experience from your own trip. What made it special?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求学生描述一次难忘的旅行美食经历。",
+      "referenceAnswer": "学生应描述：1) 食物的种类和名称 2) 用餐的地点环境 3) 为什么这个经历难忘 4) 当时的感受",
+      "hint": "Think about: What did you eat? Where did you have it? Who were you with? Why was it special?",
+      "startTime": 405.3,
+      "endTime": 424.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "meal",
+        "food experience",
+        "memorable"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker say about the water?",
+      "options": [
+        "A) The water is very warm",
+        "B) The water is so blue",
+        "C) The water is very dirty",
+        "D) The water is too cold"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第46条，'The water is so blue'，她形容水非常蓝。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 220.2,
+      "endTime": 222.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "water",
+        "blue",
+        "ocean"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What kind of clothing pattern does the speaker mention she loves?",
+      "options": [
+        "A) Polka dots",
+        "B) Stripes",
+        "C) Red gingham",
+        "D) Floral print"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第47条，'I love red gingham as you guys probably know'，她喜欢红色格子图案。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 995.1,
+      "endTime": 999.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "red gingham",
+        "pattern",
+        "clothing"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "speaking",
+      "question": "If you could visit the Amalfi Coast, what activities would you want to do and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，想象力题，考查学生用英语表达旅行愿望的能力。",
+      "referenceAnswer": "学生应提到：1) 想做的活动（如海滩、观光、美食等）2) 原因 3) 期望的体验",
+      "hint": "Consider: beaches, boat trips, local food, sightseeing, shopping - what attracts you most?",
+      "startTime": 750.6,
+      "endTime": 754.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Amalfi Coast",
+        "activities",
+        "travel"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What did the speaker get for lunch that looked like a lobster dish?",
+      "options": [
+        "A) Lobster pasta",
+        "B) Lobster burger",
+        "C) Lobster soup",
+        "D) Lobster salad"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第33条，'I got a lobster burger'，她午餐吃了龙虾汉堡。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 424.8,
+      "endTime": 427.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lobster burger",
+        "lunch",
+        "food"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'little beach day' mean in the context?",
+      "options": [
+        "A) A short beach vacation",
+        "B) Spending a few hours at the beach",
+        "C) Building a small sandcastle",
+        "D) A beach that is small in size"
+      ],
+      "answer": "B",
+      "explanation": "'Beach day' 指在海滩度过的一天或一段时间，'little' 表示短暂的几个小时。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 750.6,
+      "endTime": 754.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "beach day",
+        "couple of hours",
+        "relaxing"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'starving' mean in 'we're getting hungry and we're starving'?",
+      "options": [
+        "A) Slightly hungry",
+        "B) Very hungry",
+        "C) Not hungry at all",
+        "D) Eating slowly"
+      ],
+      "answer": "B",
+      "explanation": "'Starving' 是非常饥饿的意思，比 'hungry' 程度更强。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 666.2,
+      "endTime": 668.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "starving",
+        "hungry",
+        "very hungry"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "Based on the context, what does 'You can download the sale app' most likely mean?",
+      "options": [
+        "A) An app for buying discounted items",
+        "B) An app for selling things",
+        "C) An app about sales",
+        "D) A shopping mall app"
+      ],
+      "answer": "A",
+      "explanation": "'Sale app' 在这里应该是购物的意思，结合后面提到的 'SLY is an eim app that helps you stay connected'，这是一个与购物或优惠相关的应用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 556.5,
+      "endTime": 596.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "sale app",
+        "download",
+        "shopping"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "The speaker mentions she feels like she 'never been in the water' despite being at the beach. What do you think she means by this? Explain your understanding.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道理解性口语题，需要学生根据上下文推断说话者的意思。",
+      "referenceAnswer": "学生应理解：1) 她可能很长时间没去海边了 2) 水的触感让她感到新鲜/惊喜 3) 可能是夸张的表达，形容水很舒服",
+      "hint": "Think about: Is she saying she never went to the beach before? Or is she expressing how amazing the water feels right now?",
+      "startTime": 389.2,
+      "endTime": 390.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "water",
+        "beach",
+        "feeling"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'compatible' mean in 'So s is compatible with all iOS and Android devices'?",
+      "options": [
+        "A) Different from",
+        "B) Able to work together with",
+        "C) More expensive than",
+        "D) Worse than"
+      ],
+      "answer": "B",
+      "explanation": "'Compatible' 意思是兼容的，可以与iOS和Android设备一起使用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 542,
+      "endTime": 546.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "compatible",
+        "iOS",
+        "Android"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does the speaker mean when she says 'I think this one's a little bit more flattering'?",
+      "options": [
+        "A) It makes her look better",
+        "B) It is more expensive",
+        "C) It is more comfortable",
+        "D) It is more colorful"
+      ],
+      "answer": "A",
+      "explanation": "'Flattering' 意思是让人看起来更好看，这里指这件衣服更显身材或更好看。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1011.4,
+      "endTime": 1016.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "flattering",
+        "clothing",
+        "look"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does 'extreme sport' refer to in 'This is an extreme sport'?",
+      "options": [
+        "A) Actual dangerous sports like bungee jumping",
+        "B) Walking on the rocky beach",
+        "C) Swimming in the ocean",
+        "D) Taking photos"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文，这是在描述在多岩石的海边行走或活动，'extreme sport' 是一种夸张幽默的说法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 759.1,
+      "endTime": 778.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "extreme sport",
+        "rocky",
+        "beach"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does the speaker think of the Airbnb?",
+      "options": [
+        "A) It was ugly",
+        "B) It was really cute",
+        "C) It was too small",
+        "D) It was expensive"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第11条，'And this is just a quick overview of our Airbnb which was really cute'，她觉得公寓非常可爱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 41.8,
+      "endTime": 45.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Airbnb",
+        "cute",
+        "accommodation"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The video is titled 'my first time in italy'. What do you think are the highlights of visiting a new country for the first time? Share your thoughts.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式讨论题，让学生分享首次访问新国家的看法和期待。",
+      "referenceAnswer": "学生应讨论：1) 首次旅行的兴奋感 2) 新的文化体验 3) 美食探索 4) 结识新朋友 5) 留下深刻印象的事物",
+      "hint": "Consider: new experiences, different culture, food, people, scenery, and emotions when visiting somewhere for the first time.",
+      "startTime": 36.4,
+      "endTime": 40,
+      "difficulty": "medium",
+      "relatedWords": [
+        "first time",
+        "Italy",
+        "highlights"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does 'It's only 118' likely refer to?",
+      "options": [
+        "A) Room number 118",
+        "B) 118 euros",
+        "C) 118 degrees temperature",
+        "D) 118 minutes"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文和欧洲的货币环境，'It's only 118' 很可能是指118欧元（冰激凌的价格）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 637.2,
+      "endTime": 638.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "118",
+        "euros",
+        "price"
+      ]
+    }
+  ]
+}

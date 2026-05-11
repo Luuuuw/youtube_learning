@@ -1,0 +1,578 @@
+{
+  "videoId": "rXPAaff7ZLY",
+  "title": "what I eat in a week | simple & balanced recipes",
+  "generatedAt": "2026-05-07T17:36:40.363Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 7,
+    "medium": 14,
+    "hard": 4,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'orzo' refer to in the video?",
+      "options": [
+        "A) A type of rice",
+        "B) Small rice-shaped pasta",
+        "C) A vegetable",
+        "D) A seasoning"
+      ],
+      "answer": "B",
+      "explanation": "Orzo是一种意大利米粒形状的小型意面，在柠檬鸡肉汤中作为配料使用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 343.9,
+      "endTime": 351.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "orzo",
+        "pasta",
+        "ingredients"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is tahini made from?",
+      "options": [
+        "A) Soybeans",
+        "B) Sesame seeds",
+        "C) Peanuts",
+        "D) Almonds"
+      ],
+      "answer": "B",
+      "explanation": "Tahini是由芝麻研磨而成的酱料，是中东和地中海地区常见的食材。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 669.6,
+      "endTime": 678.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tahini",
+        "sesame",
+        "ingredients"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'chickpeas' mean?",
+      "options": [
+        "A) Green beans",
+        "B) Lentils",
+        "C) Garbanzo beans",
+        "D) Black beans"
+      ],
+      "answer": "C",
+      "explanation": "Chickpeas（鹰嘴豆）也称为garbanzo beans，是视频中烤蔬菜沙拉的重要配料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 606,
+      "endTime": 613.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chickpeas",
+        "beans",
+        "ingredients"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "In the video, what does 'massaged the kale' mean?",
+      "options": [
+        "A) Rubbed kale with hands to soften it",
+        "B) Made a massage for kale physically",
+        "C) Used a machine to process kale",
+        "D) Washed kale with water"
+      ],
+      "answer": "A",
+      "explanation": "Massaging kale是一种烹饪技巧，用手轻轻揉搓羽衣甘蓝使其质地变软，更容易入味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 669.6,
+      "endTime": 678.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "massaged",
+        "kale",
+        "cooking technique"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Which of the following is mentioned as a way to make coffee?",
+      "options": [
+        "A) Espresso machine only",
+        "B) French press or mocha pot",
+        "C) Drip coffee maker",
+        "D) Keurig"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到使用French press（法压壶）或mocha pot（摩卡壶）来制作咖啡。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 939,
+      "endTime": 945.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "French press",
+        "mocha pot",
+        "coffee"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What are 'hemp seeds' used for in the video?",
+      "options": [
+        "A) As a main protein source in main dishes",
+        "B) As a topping for breakfast dishes",
+        "C) As a dressing for salads",
+        "D) As a dessert ingredient"
+      ],
+      "answer": "B",
+      "explanation": "Hemp seeds（麻籽）被撒在早餐食物如酸奶碗上作为营养配料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 813.5,
+      "endTime": 820.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hemp seeds",
+        "topping",
+        "breakfast"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is vanilla extract used for in the video?",
+      "options": [
+        "A) Making coffee",
+        "B) Making the chia pudding",
+        "C) Seasoning chicken",
+        "D) Making salad dressing"
+      ],
+      "answer": "B",
+      "explanation": "Vanilla extract（香草精）被加入到chia pudding（奇亚布丁）中增添风味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 763.7,
+      "endTime": 771.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vanilla extract",
+        "chia pudding",
+        "flavoring"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What did the speaker drizzle on the yogurt bowl?",
+      "options": [
+        "A) Maple syrup",
+        "B) Honey",
+        "C) Chocolate sauce",
+        "D) Caramel"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到在酸奶碗上drizzled some raw honey（淋上生蜂蜜）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1102.2,
+      "endTime": 1111.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "raw honey",
+        "yogurt bowl",
+        "drizzle"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'go-to drink' mean in this context?",
+      "options": [
+        "A) A drink to go",
+        "B) Favorite/reliable drink",
+        "C) Expensive drink",
+        "D) New drink"
+      ],
+      "answer": "B",
+      "explanation": "Go-to drink指的是一个人经常喝的、最喜欢的或习惯性的饮料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 278,
+      "endTime": 286.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "go-to drink",
+        "favorite",
+        "coconut water"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What type of soup is being made in the video?",
+      "options": [
+        "A) Tomato soup",
+        "B) Pumpkin soup",
+        "C) Lemon chicken orzo soup",
+        "D) Mushroom soup"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到正在制作lemon chicken orzo soup（柠檬鸡肉意面汤）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 343.9,
+      "endTime": 351.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lemon chicken orzo soup",
+        "soup",
+        "recipe"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is 'Med dates' referring to?",
+      "options": [
+        "A) Medical appointments",
+        "B) Mediterranean dates",
+        "C) Dates from Saudi Arabia",
+        "D) A type of medication"
+      ],
+      "answer": "B",
+      "explanation": "Med dates是指Mediterranean dates（地中海地区的椰枣），搭配花生酱和黑巧克力食用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1028.2,
+      "endTime": 1034.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Med dates",
+        "peanut butter",
+        "snack"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What kind of pancakes are being made?",
+      "options": [
+        "A) Blueberry pancakes",
+        "B) Protein pancakes",
+        "C) Chocolate pancakes",
+        "D) Banana pancakes"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到正在制作protein pancakes（蛋白质松饼），只需要香蕉、鸡蛋和蛋白粉。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 466.6,
+      "endTime": 475.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "protein pancakes",
+        "breakfast",
+        "recipe"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is added to the chia seeds for breakfast?",
+      "options": [
+        "A) Only water",
+        "B) Coconut milk and protein powder",
+        "C) Coffee",
+        "D) Orange juice"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到早餐的chia pudding加入椰奶、蛋白粉和香草精。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 763.7,
+      "endTime": 771.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chia seeds",
+        "coconut milk",
+        "protein powder"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What vegetables are mentioned in the soup?",
+      "options": [
+        "A) Onions and potatoes",
+        "B) Celery and carrots",
+        "C) Tomatoes and lettuce",
+        "D) Broccoli and cauliflower"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到做汤需要celery（芹菜）和carrots（胡萝卜）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 360.2,
+      "endTime": 367.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "celery",
+        "carrots",
+        "vegetables"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is zucchini in English?",
+      "options": [
+        "A) Cucumber",
+        "B) Courgette/Zucchini",
+        "C) Eggplant",
+        "D) Squash"
+      ],
+      "answer": "B",
+      "explanation": "Zucchini是西葫芦的美式说法，英式英语中称为courgette。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 294.4,
+      "endTime": 312.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "zucchini",
+        "vegetables",
+        "omelette"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What was the dinner at the Italian restaurant?",
+      "options": [
+        "A) Pasta with tomato sauce",
+        "B) Steak with roasted potatoes and peppercorn sauce",
+        "C) Pizza",
+        "D) Risotto"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到晚餐是牛排配烤土豆、芦笋和胡椒酱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1539,
+      "endTime": 1548.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "steak",
+        "roasted potatoes",
+        "peppercorn sauce"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What is 'drizzled' most closely meaning?",
+      "options": [
+        "A) Poured heavily",
+        "B) Sprinkled lightly",
+        "C) Poured in a thin stream",
+        "D) Mixed thoroughly"
+      ],
+      "answer": "C",
+      "explanation": "Drizzled指的是少量地、细心地将液体（如酱汁、蜂蜜）淋在食物上。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1102.2,
+      "endTime": 1111.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "drizzled",
+        "cooking technique",
+        "liquid"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "What does the speaker typically have for breakfast during the week based on the video? Please describe in 2-3 sentences.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，需要根据视频内容描述作者一周的早餐习惯。",
+      "referenceAnswer": "The speaker typically has various breakfast options including protein pancakes, zucchini omelette, chia pudding with coconut milk and protein powder, and yogurt bowls with toppings like cashew butter, hemp seeds, and raw honey.",
+      "hint": "Think about what breakfast items were mentioned: pancakes, omelette, chia pudding, yogurt bowl",
+      "startTime": 466.6,
+      "endTime": 771.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "breakfast",
+        "protein pancakes",
+        "chia pudding",
+        "yogurt bowl"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What ingredients are used to make the electrolytes drink?",
+      "options": [
+        "Coconut water, lime juice, salt, and water",
+        "Orange juice, sugar, salt, and ice",
+        "Apple cider, honey, pepper, and ice",
+        "Tomato juice, vinegar, herbs, and sparkling water"
+      ],
+      "answer": "A",
+      "explanation": "视频中提到用椰莱蒙水、酸橙汁、盐和水制作电解质饮料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 278,
+      "endTime": 286.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "electrolytes drink",
+        "coconut water",
+        "lime juice"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "Where does the video take place?",
+      "options": [
+        "A) New York",
+        "B) London",
+        "C) Sydney",
+        "D) Tokyo"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到他们搬到了悉尼（ Sydney）的新公寓。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 52,
+      "endTime": 59.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Sydney",
+        "location",
+        "new place"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What are some healthy ingredients mentioned in the video that the speaker uses for cooking? List at least 5 ingredients.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，需要列出视频中提到的健康食材。",
+      "referenceAnswer": "Several healthy ingredients were mentioned including: chickpeas, kale, tahini, hemp seeds, chia seeds, coconut milk, protein powder, vanilla extract, raw honey, maple syrup, celery, carrots, cherry tomatoes, butter beans, garlic, olive oil, and various organic vegetables.",
+      "hint": "Think about ingredients used in different recipes: soups, salads, breakfast dishes, snacks",
+      "startTime": 600,
+      "endTime": 700,
+      "difficulty": "medium",
+      "relatedWords": [
+        "ingredients",
+        "healthy",
+        "cooking"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What type of chocolate is mentioned in the video?",
+      "options": [
+        "A) White chocolate",
+        "B) Milk chocolate",
+        "C) Dark chocolate",
+        "D) Ruby chocolate"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到在Med dates上放了一些dark chocolate（黑巧克力）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1028.2,
+      "endTime": 1034.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dark chocolate",
+        "Med dates",
+        "snack"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "If you were to make a similar 'what I eat in a week' video, what would your daily meal plan look like? Describe your breakfast, lunch, and dinner for one day.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放性口语题，需要学生描述自己假设的饮食计划。",
+      "referenceAnswer": "A reasonable answer should include: 1) Breakfast (e.g., eggs, toast, fruit, smoothie, or cereal); 2) Lunch (e.g., salad, sandwich, soup, or leftovers); 3) Dinner (e.g., protein with vegetables, pasta, rice dishes). The answer should be logical and include specific food items.",
+      "hint": "Consider including a variety of foods: protein, vegetables, grains, fruits",
+      "startTime": 37.6,
+      "endTime": 44.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "meal plan",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the speaker use to sweeten the chia pudding?",
+      "options": [
+        "A) Sugar",
+        "B) Maple syrup",
+        "C) Honey",
+        "D) Stevia"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到在chiapudding中加入少量枫糖浆(maple syrup)增加甜味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 771.8,
+      "endTime": 777.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "maple syrup",
+        "chia pudding",
+        "sweetener"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What kind of salad is being prepared with chickpeas?",
+      "options": [
+        "A) Caesar salad",
+        "B) Greek salad",
+        "C) Roasted vegetable salad",
+        "D) Green salad with tahini dressing"
+      ],
+      "answer": "C",
+      "explanation": "视频中展示了一道用鹰嘴豆、樱桃番茄、大蒜等食材制作的烤蔬菜沙拉。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 642.1,
+      "endTime": 663.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chickpeas",
+        "cherry tomatoes",
+        "salad"
+      ]
+    }
+  ]
+}

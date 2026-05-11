@@ -1,0 +1,543 @@
+{
+  "videoId": "uJue4BnVZAo",
+  "title": "The Two Decisions That Shape Your Entire Life - Naval Ravikant",
+  "generatedAt": "2026-05-07T17:33:55.492Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 6,
+    "medium": 13,
+    "hard": 5,
+    "choice": 19,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'autopilot' mean in the context of this video?",
+      "options": [
+        "A) Flying a plane automatically",
+        "B) Living without conscious thought or awareness",
+        "C) Making decisions based on logic",
+        "D) Following societal rules strictly"
+      ],
+      "answer": "B",
+      "explanation": "在视频中，'autopilot'指的是人们无意识地、像自动驾驶一样地生活，没有经过深思熟虑就做出决定。Naval认为很多人在生活中是无意识地进行选择，而不是主动思考。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 53.4,
+      "endTime": 58.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "autopilot",
+        "unconscious",
+        "decision"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is the 'Secretary Theorem' mentioned in the video?",
+      "options": [
+        "A) A theory about hiring employees",
+        "B) A mathematical rule for optimal stopping in decision-making",
+        "C) A method for managing secretaries",
+        "D) A business strategy for startups"
+      ],
+      "answer": "B",
+      "explanation": "秘书定理（Secretary Theorem）是一个最优停止问题的数学解法，教导人们如何在面对一系列选项时选择最佳的时机做出决定，比如在约会、招聘等场景中。Naval用它来解释人生中何时应该做出关键决定。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 182.5,
+      "endTime": 191.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Secretary Theorem",
+        "optimal stopping",
+        "decision"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "According to the video, what does Naval say about repetition and iteration?",
+      "options": [
+        "A) They are the same thing",
+        "B) Repetition means doing the same thing; iteration means modifying and improving",
+        "C) Iteration is worse than repetition",
+        "D) Only repetition leads to expertise"
+      ],
+      "answer": "B",
+      "explanation": "Naval明确区分了'repetition'（重复做同样的事）和'iteration'（通过修改和改进来重复）。他认为迭代是学习的关键，而不是简单的重复。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 279,
+      "endTime": 285,
+      "difficulty": "medium",
+      "relatedWords": [
+        "repetition",
+        "iteration",
+        "improve"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does Naval say about making 10,000 error corrections?",
+      "options": [
+        "A) It's impossible to achieve",
+        "B) It will make you an expert in anything",
+        "C) It only applies to investing",
+        "D) It's a waste of time"
+      ],
+      "answer": "B",
+      "explanation": "Naval说：'get 10,000 error corrections in anything you will be an expert at it'，意思是如果在任何事情上进行一万次错误修正，你就能成为专家。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 289.8,
+      "endTime": 294.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "error corrections",
+        "expert",
+        "practice"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does Naval say about evolutionary theory?",
+      "options": [
+        "A) It's not useful for understanding human nature",
+        "B) It provides one of the best explanatory theories for life and human nature",
+        "C) It only applies to biology",
+        "D) It's been disproven by modern science"
+      ],
+      "answer": "B",
+      "explanation": "Naval认为自然选择进化论是解释生活和人类本性最好的理论之一，他用进化论来理解生活中的许多现象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 330.6,
+      "endTime": 341,
+      "difficulty": "medium",
+      "relatedWords": [
+        "evolution",
+        "natural selection",
+        "theory"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'nonlinear' upside mean in investing according to the video?",
+      "options": [
+        "A) Small and predictable returns",
+        "B) Returns that are disproportionate to the input - either very high or very low",
+        "C) Returns that are always negative",
+        "D) Returns that come slowly over time"
+      ],
+      "answer": "B",
+      "explanation": "在投资的语境中，'nonlinear'（非线性）意味着收益与投入不成正比。当你做空股票时，收益是有限的（最多100%），但损失可能是无限的，这就是非线性的例子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 379.9,
+      "endTime": 385.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "nonlinear",
+        "investing",
+        "returns"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What advice does Naval give about finding your mate/partner?",
+      "options": [
+        "A) Wait until you're 100% sure",
+        "B) Be willing to go all in and move your chips to the center of the table",
+        "C) Never settle down",
+        "D) Let your parents decide for you"
+      ],
+      "answer": "B",
+      "explanation": "Naval说：'you have to be willing to go all in'以及'move your chips at the center of table'，这意味着在找到合适的伴侣后，要愿意全身心投入，把全部筹码押上。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 497.4,
+      "endTime": 506.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "mate",
+        "go all in",
+        "chips"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does Naval say about being an optimist vs. pessimist?",
+      "options": [
+        "A) Always be a pessimist",
+        "B) Always be an optimist",
+        "C) There's no point in being either",
+        "D) Be optimistic in general but context-dependent - some contexts call for pessimism"
+      ],
+      "answer": "D",
+      "explanation": "Naval认为在整体上要保持乐观，但也要根据具体情境调整 - 在某些情况下需要悲观主义。他指出：'there are contexts in which you'll be pessimistic there are contexts in which you'll be optimistic'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 529.5,
+      "endTime": 535.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "optimist",
+        "pessimist",
+        "context"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "According to the video, what is Function in the context of health?",
+      "options": [
+        "A) A gym membership",
+        "B) A company that runs lab tests twice a year to track biomarkers and monitor for early signs of disease",
+        "C) A fitness app",
+        "D) A diet program"
+      ],
+      "answer": "B",
+      "explanation": "Function是一个健康检测公司，它运行实验室测试，每年两次追踪100多种生物标志物，监测数千种疾病的早期迹象，甚至筛查50种疾病。Naval与Function合作推广健康检测。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 611.9,
+      "endTime": 622.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Function",
+        "biomarkers",
+        "lab tests"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does Naval say about staying in a relationship after you know it's not working?",
+      "options": [
+        "A) It's the right thing to do",
+        "B) It's usually the biggest regret",
+        "C) You should stay for the children",
+        "D) It doesn't matter"
+      ],
+      "answer": "B",
+      "explanation": "Naval说：'through failed relationships uh probably the biggest regret will be staying in the relationship after you knew it'，意思是经历失败的感情后，最大的遗憾往往是在你知道关系无法继续后仍然留在其中。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 254.8,
+      "endTime": 260.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "relationship",
+        "regret",
+        "staying"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does Naval say about making decisions about which city to live in?",
+      "options": [
+        "A) It's a small decision",
+        "B) People decide it too quickly without thinking",
+        "C) It should be based on job opportunities only",
+        "D) It doesn't affect your future much"
+      ],
+      "answer": "B",
+      "explanation": "Naval指出人们往往轻率地（frivolously）决定住在哪个城市，他认为这是一个非常重大的决定，因为它会决定你的朋友、工作、机会等很多事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 159.8,
+      "endTime": 164.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "city",
+        "decision",
+        "frivolously"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does Naval say about wanting something you can't get or don't really want?",
+      "options": [
+        "A) It's a good motivation",
+        "B) It's a booby prize - you think you want it but it's not actually what you need",
+        "C) You should always pursue it",
+        "D) It leads to success"
+      ],
+      "answer": "B",
+      "explanation": "Naval区分了'wanting the right things'（想要正确的东西）和'wanting the wrong thing'（想要错误的东西）。后者是一种'booby prize'（安慰奖），即你以为自己想要但实际上并不是真正需要的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 27.1,
+      "endTime": 36.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "wanting",
+        "booby prize",
+        "desire"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does Naval say about labels like 'I have trauma' or 'I have PTSD'?",
+      "options": [
+        "A) They are helpful for treatment",
+        "B) They are a way of locking yourself into your past",
+        "C) They should be shared with everyone",
+        "D) They are not important"
+      ],
+      "answer": "B",
+      "explanation": "Naval认为给自己贴标签（如说'我有创伤'或'我有PTSD'）是一种锁定自己过去的方式，他认为应该向前看，而不是用这些标签来定义自己。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 571.9,
+      "endTime": 576.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "labels",
+        "trauma",
+        "PTSD"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "According to Naval, why is it better to stay flexible?",
+      "options": [
+        "A) Because reality is always changing and you need to adapt",
+        "B) Because it's easier than making commitments",
+        "C) Because flexibility leads to success",
+        "D) Because commitment is bad"
+      ],
+      "answer": "A",
+      "explanation": "Naval说：'better to stay flexible because reality is always changing and you have to be able to adapt to'，意思是现实一直在变化，你必须能够适应，保持灵活是更好的选择。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 585.5,
+      "endTime": 590.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "flexible",
+        "adapt",
+        "reality"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does Naval say about the best outcomes?",
+      "options": [
+        "A) They come from following others",
+        "B) They come when you think it through for yourself and decide for yourself",
+        "C) They come from waiting",
+        "D) They come from taking others' advice"
+      ],
+      "answer": "B",
+      "explanation": "Naval说：'the best outcomes come when you think it through for yourself and decide for yourself'，意思是最好的结果来自于你自己思考并做出决定。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 96,
+      "endTime": 99.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "outcomes",
+        "think it through",
+        "decide"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'plow into' mean in the context of business?",
+      "options": [
+        "A) To avoid completely",
+        "B) To commit fully and deeply into something",
+        "C) To give up on something",
+        "D) To analyze carefully from the outside"
+      ],
+      "answer": "B",
+      "explanation": "在商业语境中，'plow into'意味着全力投入、深入去做某事。Naval说：'business you're meant to plow into and it compound returns'，意思是有些生意是你应该全力投入的，它会产生复利回报。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 435.5,
+      "endTime": 439.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "plow into",
+        "business",
+        "compound returns"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does Naval say about making important decisions like joining a startup?",
+      "options": [
+        "A) Always follow the crowd",
+        "B) Think it through and decide for yourself - it's not about following societal expectations or guilt",
+        "C) Only listen to your parents",
+        "D) Never take risks"
+      ],
+      "answer": "B",
+      "explanation": "Naval强调要根据自己的思考做决定，而不是出于社会期望、他人期望或内疚感。他提到在硅谷，加入初创公司并 Vest 股票是标准的，但你要自己决定是否适合你。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 78.3,
+      "endTime": 87.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "startup",
+        "societal expectations",
+        "guilt"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "Naval mentions that 'the best outcomes come when you think it through for yourself and decide for yourself.' Explain what this means and share an example from your own life where you made a decision by yourself rather than following others' expectations.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生解释Naval关于独立做决定的想法，并结合自身例子说明。",
+      "referenceAnswer": "Key points: 1) Making decisions independently based on your own reasoning rather than following others blindly; 2) Avoiding decisions based on guilt, societal expectations, or peer pressure; 3) Taking ownership of your choices and their outcomes; 4) Example could include career choice, education path, relationship decisions, etc.",
+      "hint": "Think about decisions you've made that were different from what your parents, friends, or society expected. What was the situation and what was the outcome?",
+      "startTime": 96,
+      "endTime": 99.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "decide for yourself",
+        "think it through",
+        "independent"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Naval says that 'repetition is a different thing from iteration' and that iteration leads to improvement. How do you apply the concept of iteration (learning from feedback and making improvements) in your studies or work?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生解释迭代的概念以及如何应用在学习或工作中。",
+      "referenceAnswer": "Key points: 1) Understanding the difference between mere repetition and iterative improvement; 2) How to gather feedback and make changes; 3) Examples from academic work, projects, or skills development; 4) The importance of adapting and modifying approaches based on results",
+      "hint": "Think about a skill or subject where you improved over time. How did you learn from mistakes or feedback and make changes?",
+      "startTime": 279,
+      "endTime": 285,
+      "difficulty": "hard",
+      "relatedWords": [
+        "iteration",
+        "repetition",
+        "improvement"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Naval discusses the importance of being 'willing to go all in' when you find the right opportunity or partner. What does this mean to you? Have you ever experienced a situation where you needed to commit fully?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生讨论'全力投入'的含义以及是否有相关经历。",
+      "referenceAnswer": "Key points: 1) Understanding 'going all in' as full commitment without holding back; 2) The relationship between commitment and success; 3) Examples could include relationships, career decisions, business ventures, or personal projects; 4) Balancing risk and commitment",
+      "hint": "Consider moments in your life when you had to make a big commitment - like choosing a university, starting a project, or being in a relationship. What happened when you committed fully vs. holding back?",
+      "startTime": 497.4,
+      "endTime": 506.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "go all in",
+        "commitment",
+        "opportunity"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Naval mentions that some people stay in relationships 'after you knew it wasn't going to work out' and this becomes their biggest regret. What advice would you give to someone who is struggling to leave a relationship that isn't working?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生给出关于如何离开失败关系的建议。",
+      "referenceAnswer": "Key points: 1) Recognizing when a relationship isn't working; 2) Overcoming fear of leaving; 3) Understanding that staying in a bad relationship is often more costly than leaving; 4) Practical advice about seeking support, focusing on future rather than past; 5) The concept that leaving can be a learning experience, not a failure",
+      "hint": "Think about what keeps people in unhappy relationships - fear, guilt, habit, investment of time. How can someone overcome these barriers?",
+      "startTime": 254.8,
+      "endTime": 260.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "relationship",
+        "regret",
+        "leave"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "In the video, Naval talks about being 'an adapter' and staying flexible because 'reality is always changing.' How do you adapt to unexpected changes in your life, and what strategies help you remain flexible?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生讨论适应变化的能力和策略。",
+      "referenceAnswer": "Key points: 1) Understanding what it means to be adaptable; 2) Strategies for dealing with change (mindset, planning, learning); 3) Examples of adapting to changes in education, career, or personal life; 4) The relationship between adaptability and success; 5) How ancestors who were adapters survived",
+      "hint": "Think about a time when something unexpected happened - a plan changed, you faced a new challenge, or circumstances were different from what you expected. How did you respond?",
+      "startTime": 585.5,
+      "endTime": 601.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "adapt",
+        "flexible",
+        "change"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does Naval suggest about how to handle failure in business or life?",
+      "options": [
+        "A) Avoid it at all costs",
+        "B) It's okay to have 50 small failures - they lead to compound returns",
+        "C) Failure means you're not good enough",
+        "D) You should never take risks"
+      ],
+      "answer": "B",
+      "explanation": "Naval说：'it's okay if you had 50 small fail'，他认为小的失败是可以接受的，因为它们最终会产生复利回报。关键是要从失败中学习并继续迭代。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 435.5,
+      "endTime": 439.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "failure",
+        "compound returns",
+        "business"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does Naval say about 'objective' thinking?",
+      "options": [
+        "A) It means always agreeing with others",
+        "B) It means trying to find what's actually true, not what you want to be true",
+        "C) It means being pessimistic",
+        "D) It means following traditional wisdom"
+      ],
+      "answer": "B",
+      "explanation": "Naval提到要通过'高度激励推理'（highly motivated reasoning）来保持客观，客观意味着试图找出真正的事实，而不是你想要成为事实的东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 551.9,
+      "endTime": 557.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "objective",
+        "truth",
+        "motivated reasoning"
+      ]
+    }
+  ]
+}

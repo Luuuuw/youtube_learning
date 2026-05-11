@@ -1,0 +1,573 @@
+{
+  "videoId": "MdyUk7Y7uuw",
+  "title": "my first time in hong kong 🇭🇰 solo travel, every thing i ate, things to do & exploring a NEW city",
+  "generatedAt": "2026-05-07T16:57:20.867Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 10,
+    "medium": 14,
+    "hard": 1,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker mean when she says 'I'm solo traveling to China specifically Hong Kong'?",
+      "options": [
+        "A) She is traveling with a group to China and Hong Kong",
+        "B) She is traveling alone to Hong Kong",
+        "C) She is traveling for business to Hong Kong",
+        "D) She is traveling with her family to Hong Kong"
+      ],
+      "answer": "B",
+      "explanation": "'Solo traveling' means traveling alone, without companions. The speaker explicitly states this is her first time going to Hong Kong by herself.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 22,
+      "endTime": 28.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "solo traveling",
+        "specifically",
+        "first time"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What time was it when the speaker said she was so jetlagged?",
+      "options": [
+        "A) 5:15 a.m.",
+        "B) 6:15 a.m.",
+        "C) 7:15 a.m.",
+        "D) 8:15 a.m."
+      ],
+      "answer": "C",
+      "explanation": "The speaker explicitly states 'it's 7:15 right now and I'm so jetlagged' after arriving from a long flight.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 72.1,
+      "endTime": 76.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "jetlagged",
+        "time",
+        "morning"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Where did the speaker go for coffee that does really cool latte art?",
+      "options": [
+        "A) Australia Dairy Co",
+        "B) A coffee shop in the city",
+        "C) A cafe near the hotel",
+        "D) A street vendor"
+      ],
+      "answer": "B",
+      "explanation": "The speaker mentions finding a 'coffee shop that does really cool latte art' and wanted to have some caffeine before continuing her day.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 182.6,
+      "endTime": 187.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "coffee shop",
+        "latte art",
+        "caffeine"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What did the speaker say about the weather in a long time?",
+      "options": [
+        "A) It was very sunny",
+        "B) It was very cloudy",
+        "C) It was raining heavily",
+        "D) It was very windy"
+      ],
+      "answer": "C",
+      "explanation": "The speaker says she hasn't seen rain like this 'in such a long time' and mentions her pants are 'soaking wet', indicating heavy rainfall.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 218.9,
+      "endTime": 223.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "rain",
+        "soaking wet",
+        "weather"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'locks in my skincare' mean in this context?",
+      "options": [
+        "A) Losing my skincare products",
+        "B) Securing and maximizing the effectiveness of skincare",
+        "C) Closing the skincare bottles",
+        "D) Forgetting to use skincare"
+      ],
+      "answer": "B",
+      "explanation": "'Locks in' is a skincare term meaning to seal in or secure the products so they work effectively. The speaker says the routine 'really locks in my skincare'.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 456.8,
+      "endTime": 469.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "locks in",
+        "skincare",
+        "routine"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What level does the speaker usually keep the skincare device on?",
+      "options": [
+        "A) Level one",
+        "B) Level two",
+        "C) Level three",
+        "D) Level four"
+      ],
+      "answer": "C",
+      "explanation": "The speaker explicitly states 'I usually keep it on level three' when talking about the skincare device that maximizes product effects.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 428.6,
+      "endTime": 438.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "level three",
+        "skincare device",
+        "routine"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the speaker say the pink peptide serum helps with?",
+      "options": [
+        "A) Only hydrating the skin",
+        "B) Brightening, hydrating, and strengthening the skin",
+        "C) Only brightening the skin",
+        "D) Only strengthening the skin"
+      ],
+      "answer": "B",
+      "explanation": "The speaker mentions 'it helps brighten hydrate and strengthen your skin' when describing the pink peptide serum.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 387.9,
+      "endTime": 395.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pink peptide serum",
+        "brighten",
+        "hydrate",
+        "strengthen"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What did the speaker pick up from a shop?",
+      "options": [
+        "A) A ham and egg sandwich",
+        "B) A ham and egg bun",
+        "C) A ham and egg pizza",
+        "D) A ham and egg toast"
+      ],
+      "answer": "B",
+      "explanation": "The speaker says 'I just picked up a ham and egg bun because I want to go to a really...' - indicating she bought a ham and egg bun.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 323.2,
+      "endTime": 326.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ham and egg bun",
+        "picked up",
+        "shop"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Why did the speaker go to Australia Dairy Co?",
+      "options": [
+        "A) Because it's famous for Hong Kong-style milk tea",
+        "B) Because everyone loves it for Hong Kong-style food",
+        "C) Because it's the cheapest restaurant",
+        "D) Because her friends recommended it"
+      ],
+      "answer": "B",
+      "explanation": "The speaker says 'everyone loves it for Hong Kong' indicating Australia Dairy Co is popular for its Hong Kong-style dishes.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 546.3,
+      "endTime": 551.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Australia Dairy Co",
+        "famous",
+        "Hong Kong"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is in the speaker's bag according to the video?",
+      "options": [
+        "A) Only a portable charger",
+        "B) A portable charger, two cameras, and her GoPro",
+        "C) Just her phone and wallet",
+        "D) A laptop and some books"
+      ],
+      "answer": "B",
+      "explanation": "The speaker lists what's in her bag: 'we have a portable charger two cameras my GoPro' - confirming she carries these items.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 501.4,
+      "endTime": 505.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "portable charger",
+        "cameras",
+        "GoPro",
+        "bag"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What camera model did the speaker buy?",
+      "options": [
+        "A) Canon model",
+        "B) Sony model",
+        "C) Olympus U model",
+        "D) Nikon model"
+      ],
+      "answer": "C",
+      "explanation": "The speaker mentions 'I also did end up getting one digital camera but it's the Olympus U model it's fully functioning'.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 884.9,
+      "endTime": 891.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "digital camera",
+        "Olympus U",
+        "functioning"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker say about Sham Street Bo?",
+      "options": [
+        "A) It's known for its restaurants",
+        "B) It's known to have flea markets on two separate streets",
+        "C) It's known for its shopping malls",
+        "D) It's known for its temples"
+      ],
+      "answer": "B",
+      "explanation": "The speaker states 'it's known to have flea markets on two separate streets' when describing Sham Street Bo.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 711.7,
+      "endTime": 716.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Sham Street Bo",
+        "flea markets",
+        "streets"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What did the speaker think about the strawberry Danish compared to the egg tart?",
+      "options": [
+        "A) The strawberry Danish was better than the egg tart",
+        "B) The egg tart was better than the strawberry Danish",
+        "C) Both were equally good",
+        "D) Neither was good"
+      ],
+      "answer": "B",
+      "explanation": "The speaker says 'this is better than the strawberry Danish but it's not better than the egg tart' - indicating the egg tart is the best.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1145.9,
+      "endTime": 1149.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "strawberry Danish",
+        "egg tart",
+        "comparison"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the phrase 'I would not order it again' suggest about the speaker's experience?",
+      "options": [
+        "A) She loved it and would order again",
+        "B) She thought it was okay",
+        "C) She didn't enjoy it and wouldn't reorder",
+        "D) She wasn't sure about it"
+      ],
+      "answer": "C",
+      "explanation": "This phrase indicates a negative experience - the speaker is saying she didn't like the item and would not order it again.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1149.7,
+      "endTime": 1155.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "order again",
+        "experience",
+        "review"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the speaker looking for in Kennedy Town?",
+      "options": [
+        "A) A restaurant",
+        "B) A pretty photo spot",
+        "C) A shopping mall",
+        "D) A hotel"
+      ],
+      "answer": "B",
+      "explanation": "The speaker mentions 'there's this really pretty photo up in Kennedy town' - indicating she's looking for a scenic photo spot.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1161.3,
+      "endTime": 1179,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Kennedy town",
+        "photo spot",
+        "pretty"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker mean by 'the longest queue I've seen in Hong Kong'?",
+      "options": [
+        "A) The shortest line",
+        "B) The longest line",
+        "C) No line at all",
+        "D) A medium-sized line"
+      ],
+      "answer": "B",
+      "explanation": "'Queue' means a line of people waiting. The speaker is saying this was the longest line she has seen in Hong Kong, indicating it was very busy.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1025.3,
+      "endTime": 1057.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "queue",
+        "longest",
+        "Hong Kong"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "Why did the speaker go to Stussy?",
+      "options": [
+        "A) To eat lunch",
+        "B) To do some shopping and browsing",
+        "C) To meet friends",
+        "D) To take photos"
+      ],
+      "answer": "B",
+      "explanation": "The speaker says she's 'just doing a little bit of shopping and browsing' and is 'headed to Stussy', indicating she went to browse/shop at the store.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1012.1,
+      "endTime": 1016.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Stussy",
+        "shopping",
+        "browsing"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What was the weather like on day three according to the speaker?",
+      "options": [
+        "A) Rainy",
+        "B) Cloudy",
+        "C) Sunny",
+        "D) Windy"
+      ],
+      "answer": "C",
+      "explanation": "The speaker says 'you have no idea how happy I am right now because the sun is out' on day three, indicating sunny weather.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 922.2,
+      "endTime": 927.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sun is out",
+        "day three",
+        "happy"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What view did the speaker hike towards to see?",
+      "options": [
+        "A) The city skyline",
+        "B) Victoria Harbor",
+        "C) The mountains",
+        "D) The beach"
+      ],
+      "answer": "B",
+      "explanation": "The speaker mentions 'hiking towards because it has this really great view of Victoria Harbor', confirming she hiked to see the harbor view.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 257.9,
+      "endTime": 272.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hiking",
+        "Victoria Harbor",
+        "viewpoint"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe a time when you traveled to a new city alone. What did you do and how did you feel?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题是口语表达题，要求考生描述一次独自去新城市旅行的经历，包括做了什么以及感受如何。",
+      "referenceAnswer": "要点：1) 描述旅行目的地和时间 2) 提到做了什么活动（如观光、尝试当地食物、购物等）3) 表达独自旅行的感受（如兴奋、紧张、自由等）4) 可以结合视频中博主的经历作为参考",
+      "hint": "Think about: What city did you visit? What activities did you do? How did you feel about traveling alone?",
+      "startTime": 28.2,
+      "endTime": 33.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "solo travel",
+        "new city",
+        "experience"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What do you think are the advantages and disadvantages of traveling alone?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题是口语表达题，要求考生讨论独自旅行的优缺点。",
+      "referenceAnswer": "要点：1) 优点：自由、随心所欲、锻炼独立性、可以结识新朋友 2) 缺点：可能孤单、安全顾虑、没人帮忙拍照、费用较高 3) 结合个人经历或视频内容进行阐述",
+      "hint": "Consider: freedom, safety, making friends, taking photos, costs, etc.",
+      "startTime": 3,
+      "endTime": 28.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "advantages",
+        "disadvantages",
+        "traveling alone"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "If you visited Hong Kong, what food would you most want to try and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题是口语表达题，结合视频内容讨论香港美食。考生应提到视频中提到的食物如蛋挞、港式奶茶等，并说明原因。",
+      "referenceAnswer": "要点：1) 提及具体食物（如蛋挞、港式奶茶、叉烧饭等）2) 解释为什么想尝试（味道、名气、独特性等）3) 可以结合视频博主的推荐 4) 表达对香港美食文化的看法",
+      "hint": "Refer to foods mentioned in the video: egg tarts, strawberry Danish, Hong Kong-style dishes, etc.",
+      "startTime": 1145.9,
+      "endTime": 1155.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Hong Kong food",
+        "egg tart",
+        "local cuisine"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The speaker mentioned her skincare routine in the video. What is your daily skincare routine?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题是口语表达题，要求考生描述自己的日常护肤程序。",
+      "referenceAnswer": "要点：1) 描述使用的护肤产品（如洗面奶、精华、乳液等）2) 说明使用顺序和频率 3) 提到护肤目标（如保湿、美白、抗衰老等）4) 可以与视频中的护肤routine进行比较",
+      "hint": "Think about: What products do you use? In what order? How often? What are your skincare goals?",
+      "startTime": 383.1,
+      "endTime": 409.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "skincare routine",
+        "products",
+        "daily"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'well-maintained' mean in the context of the video?",
+      "options": [
+        "A) Poorly kept",
+        "B) Good condition and cared for properly",
+        "C) Very old",
+        "D) Abandoned"
+      ],
+      "answer": "B",
+      "explanation": "'Well-maintained' means something is in good condition because it has been properly cared for and kept in good repair.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 986.3,
+      "endTime": 989.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "well-maintained",
+        "condition",
+        "cared for"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I am leaving the house very very late today'?",
+      "options": [
+        "A) She is leaving early in the morning",
+        "B) She is leaving late at night",
+        "C) She is leaving later than planned",
+        "D) She is not leaving today"
+      ],
+      "answer": "C",
+      "explanation": "'Leaving very very late' means she is going out much later than she intended or than would be typical - it's already a late hour when she's heading out.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 905.3,
+      "endTime": 922.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "leaving the house",
+        "late",
+        "schedule"
+      ]
+    }
+  ]
+}

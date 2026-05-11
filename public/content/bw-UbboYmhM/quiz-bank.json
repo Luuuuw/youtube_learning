@@ -1,0 +1,569 @@
+{
+  "videoId": "bw-UbboYmhM",
+  "title": "girls trip to istanbul | turkish food, thrifting & exploring the city",
+  "generatedAt": "2026-05-07T16:31:25.068Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 14,
+    "hard": 2,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the word 'thrift' or 'thrifting' mean in this context?",
+      "options": [
+        "A) Shopping for second-hand items at low prices",
+        "B) Buying expensive luxury items",
+        "C) Selling old clothes",
+        "D) Making clothes by hand"
+      ],
+      "answer": "A",
+      "explanation": "在这个视频中，'thrifting'指的是在复古店或二手店淘宝寻宝。视频中提到了要去找vintage sunglasses（复古太阳镜），以及去antique store（古董店），这都体现了thrifting的概念。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "thrifting",
+        "vintage",
+        "antique"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'crave' mean in 'we are searching for a fish wrap that we are kind of craving'?",
+      "options": [
+        "A) To dislike",
+        "B) To strongly desire",
+        "C) To remember",
+        "D) To cook"
+      ],
+      "answer": "B",
+      "explanation": "'Crave'意思是强烈渴望。视频中她们在找一种很想吃的鱼卷（fish wrap），说明她们非常想吃那个食物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "crave",
+        "desire",
+        "food"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the phrase 'dig in' mean in 'so we're going to dig in'?",
+      "options": [
+        "A) To start eating",
+        "B) To dig a hole",
+        "C) To leave quickly",
+        "D) To ask for the bill"
+      ],
+      "answer": "A",
+      "explanation": "'Dig in'是一个非正式的短语，意思是开始吃饭、开吃。视频中她们准备开始享用食物时说'so we're going to dig in'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dig in",
+        "eat",
+        "food"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the word 'spot' mean in 'I also spotted a really cool pair of vintage sunglasses'?",
+      "options": [
+        "A) A mark or stain",
+        "B) To notice or see",
+        "C) A place or location",
+        "D) To dance"
+      ],
+      "answer": "B",
+      "explanation": "在这个语境中，'spot'是动词，意思是注意到、发现。句意是'我还注意到了一副很酷的复古太阳镜'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spot",
+        "notice",
+        "see"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'got along' mean in 'we also just got along so well'?",
+      "options": [
+        "A) Arrived together",
+        "B) Had a good relationship",
+        "C) Went to the same place",
+        "D) Had an argument"
+      ],
+      "answer": "B",
+      "explanation": "'Get along'意思是相处得好、合得来。视频中说她们相处得非常好，体现了朋友之间的融洽关系。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "get along",
+        "relationship",
+        "friend"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'vintage' mean in the context of shopping?",
+      "options": [
+        "A) Brand new",
+        "B) Old-fashioned or classic from a past era",
+        "C) Cheap and low quality",
+        "D) Made of plastic"
+      ],
+      "answer": "B",
+      "explanation": "'Vintage'指的是过去的经典款式，复古的。在购物语境中，vintage sunglasses就是复古太阳镜，指的是过去时代流行的经典款式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "vintage",
+        "classic",
+        "retro"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'stuff' mean in 'we are like stuffed right now'?",
+      "options": [
+        "A) To fill with information",
+        "B) To be very full from eating",
+        "C) To pack belongings",
+        "D) To decorate"
+      ],
+      "answer": "B",
+      "explanation": "'Be stuffed'是非正式表达，意思是吃得很饱、撑着了。她们吃了太多食物，所以感觉非常饱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stuff",
+        "full",
+        "eat"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'figure out' mean in 'we are just trying to figure out where to go'?",
+      "options": [
+        "A) To draw a picture",
+        "B) To understand or solve",
+        "C) To count numbers",
+        "D) To go outside"
+      ],
+      "answer": "B",
+      "explanation": "'Figure out'意思是弄清楚、弄明白、想办法。她们正在努力弄清楚要去哪里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "figure out",
+        "understand",
+        "decide"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the weather like according to the video? It's mentioned that the temperature is probably around",
+      "options": [
+        "A) 10 degrees",
+        "B) 20 degrees",
+        "C) 30 degrees",
+        "D) 40 degrees"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到'it's probably like 30° or something probably more'，意思是温度大概是30度或更高。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "temperature",
+        "degree",
+        "weather"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What traditional Turkish drink is mentioned that they didn't even order?",
+      "options": [
+        "A) Turkish coffee",
+        "B) Turkish tea",
+        "C) Ayran",
+        "D) Raki"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'they just handed us this turkey tea and we didn't even order it'，服务员给他们端来了土耳其茶，他们甚至没有点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Turkish tea",
+        "drink",
+        "order"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the Galata Tower according to the video?",
+      "options": [
+        "A) A shopping mall",
+        "B) A famous tower they plan to visit",
+        "C) A restaurant",
+        "D) A hotel"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'we're going to check out the Galata Tower'，Galata Tower是伊斯坦布尔的一个著名景点，她们计划去参观。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Galata Tower",
+        "visit",
+        "landmark"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'local tips' mean in the context of the video?",
+      "options": [
+        "A) Cheap prices",
+        "B) Recommendations from local people",
+        "C) Directions to the airport",
+        "D) Warnings about danger"
+      ],
+      "answer": "B",
+      "explanation": "'Local tips'指的是当地人的建议、推荐。视频中提到'I got a lot of local tips which was amazing'，说明她从当地人那里获得了很好的建议。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "local tips",
+        "recommendation",
+        "advice"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'Asian side' refer to in the video?",
+      "options": [
+        "A) The European part of Istanbul",
+        "B) The Asian part of Istanbul",
+        "C) A shopping district",
+        "D) A beach area"
+      ],
+      "answer": "B",
+      "explanation": "伊斯坦布尔分为亚洲区和欧洲区。视频中提到'we're going to explore the Asian side'和'to the Asian side'，指的是探索伊斯坦布尔的亚洲部分。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Asian side",
+        "Istanbul",
+        "explore"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What did they do in a photo booth according to the video?",
+      "options": [
+        "A) Took photos",
+        "B) Bought photos",
+        "C) Printed pictures",
+        "D) Changed clothes"
+      ],
+      "answer": "A",
+      "explanation": "视频中提到'we just took some pictures in the photo booth'，她们在拍照亭里拍了一些照片。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "photo booth",
+        "pictures",
+        "take photos"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What kind of food is mentioned in the Turkish breakfast?",
+      "options": [
+        "A) Only bread",
+        "B) Olives, something sweet, Feta cheese",
+        "C) Just meat",
+        "D) Only fruits"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到早餐有'olives something sweet also a lot of things'和'Feta but it's a bit different'，包括橄榄、甜食和菲达奶酪。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Turkish breakfast",
+        "olives",
+        "Feta"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the phrase 'go with the flow' mean in 'we're also just going to go with the flow'?",
+      "options": [
+        "A) To swim in the river",
+        "B) To follow the current situation flexibly",
+        "C) To leave quickly",
+        "D) To choose the most popular option"
+      ],
+      "answer": "B",
+      "explanation": "'Go with the flow'是一个习语，意思是随遇而安、顺其自然。她们表示会灵活安排，而不是完全按计划行事。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "go with the flow",
+        "flexible",
+        "plan"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'terminal' mean in 'we're just going to a terminal'?",
+      "options": [
+        "A) The end of a movie",
+        "B) A transportation hub",
+        "C) A shop",
+        "D) A house"
+      ],
+      "answer": "B",
+      "explanation": "在交通语境中，'terminal'指的是终点站、航站楼或码头。这里指的是去往亚洲区的交通枢纽。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "terminal",
+        "transportation",
+        "hub"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'got cancelled' mean in 'maa's flight got cancelled'?",
+      "options": [
+        "A) Was delayed",
+        "B) Was postponed to another day",
+        "C) Was stopped or not happening",
+        "D) Was changed"
+      ],
+      "answer": "C",
+      "explanation": "'Get cancelled'意思是取消。视频中说Maa的航班被取消了，所以导致她们延后见面。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cancelled",
+        "flight",
+        "delay"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'content creator' mean in the video?",
+      "options": [
+        "A) Someone who writes books",
+        "B) Someone who creates online videos content",
+        "C) Someone who works in TV",
+        "D) Someone who draws pictures"
+      ],
+      "answer": "B",
+      "explanation": "'Content creator'指的是内容创作者，主要是制作网络视频内容的人。视频中提到她们是content creator和videographer。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "content creator",
+        "videographer",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'gloomy' mean in context? It's used to describe",
+      "options": [
+        "A) Happy and bright",
+        "B) Dark, sad or dismal",
+        "C) Noisy",
+        "D) Hot"
+      ],
+      "answer": "B",
+      "explanation": "虽然该词在提供的字幕中未完整显示，但根据视频主题，'gloomy'通常用于描述阴暗、忧郁的天气或氛围。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "gloomy",
+        "weather",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe what the girls did on their first day in Istanbul based on the video content. Include at least 3 details about their activities.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求根据视频内容描述女孩们在伊斯坦布尔第一天的活动，需要包含至少3个细节。",
+      "referenceAnswer": "1. They arrived in Istanbul and met at the apartment\n2. They had Turkish breakfast with olives, Feta cheese, and Turkish coffee/tea\n3. They explored different neighborhoods and did some thrifting\n4. They visited the Galata Tower area\n5. They had dinner at a local restaurant\n6. They met local people and got local tips about the city",
+      "hint": "Think about: arrival, food, shopping, sightseeing, meeting locals",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Istanbul",
+        "first day",
+        "activities"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What Turkish food and drinks were mentioned in the video? Describe at least 3 of them.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求描述视频中提到的土耳其食物和饮料，至少描述3种。",
+      "referenceAnswer": "1. Turkish breakfast - includes olives, Feta cheese, bread, and something sweet\n2. Turkish coffee - described as strong like Americano\n3. Turkish tea - served without ordering, a traditional drink\n4. Fish wrap - a dish they were craving\n5. Turkish delight (lokum) - mentioned as 'nnia candy'",
+      "hint": "Think about: breakfast items, drinks, main dishes, desserts",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Turkish food",
+        "drinks",
+        " cuisine"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "What places did they plan to visit or explore in Istanbul?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求说出他们计划在伊斯坦布尔参观或探索的地方。",
+      "referenceAnswer": "1. Galata Tower - a famous landmark they wanted to visit\n2. Asian side - the Asian part of Istanbul they were excited to explore\n3. Antique stores - they planned to visit some vintage/antique shops\n4. Photo booth - they took pictures in a photo booth\n5. Local neighborhoods - they walked around different areas",
+      "hint": "Think about: landmarks, areas, shops, attractions",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "places",
+        "visit",
+        "explore",
+        "Istanbul"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "How did they feel about their trip to Istanbul? Give at least 2 examples from the video to support your answer.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求说说他们对伊斯坦布尔之旅的感受，并举出至少2个例子支持你的回答。",
+      "referenceAnswer": "1. They felt excited - 'I am so so excited to be here', 'we're very excited'\n2. They felt surprised by the view - 'we were actually very surprised we weren't expecting this type of like view'\n3. They felt happy about the food - 'so yummy', 'it's actually quite good'\n4. They felt grateful to meet local people - 'so grateful to have met them', 'got along so well'\n5. They felt they experienced the city well - 'we kind of got to experience it quite well'",
+      "hint": "Think about: emotions, reactions, specific quotes from the video",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "feelings",
+        "emotions",
+        "trip",
+        "experience"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "What is 'thrifting' and what did the girls buy while thrifting in Istanbul?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，解释什么是'thrifting'以及女孩们在伊斯坦布尔淘宝时买了什么。",
+      "referenceAnswer": "Thrifting means shopping for second-hand or vintage items at lower prices. In the video:\n1. They looked for vintage sunglasses\n2. They visited antique stores with jewelry, bracelets, and necklaces\n3. They were excited to find unique items\n4. They mentioned finding cool vintage items",
+      "hint": "Think about: second-hand shopping, vintage items, antique stores, what they were looking for",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "thrifting",
+        "vintage",
+        "shopping",
+        "antique"
+      ]
+    }
+  ]
+}

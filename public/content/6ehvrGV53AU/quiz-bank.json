@@ -1,0 +1,576 @@
+{
+  "videoId": "6ehvrGV53AU",
+  "title": "what i eat in a week as a busy girl in NYC | easy recipes + fave places!",
+  "generatedAt": "2026-05-07T16:26:08.142Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 11,
+    "medium": 12,
+    "hard": 2,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'pickme up' mean in 'I'm going to have my midday pickme up'?",
+      "options": [
+        "A) A person who tries to get attention",
+        "B) A small meal or drink that gives energy",
+        "C) A way to lift something up",
+        "D) A method of transportation"
+      ],
+      "answer": "B",
+      "explanation": "'Pick-me-up' 是一个固定表达，指的是在工作间隙或感到疲惫时摄入的食物或饮料，用来提振精神。句中 'midday' 表明这是在中午时分的能量补充。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 67.2,
+      "endTime": 68.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pickme up",
+        "midday",
+        "energy"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'I'm not vibing with this right now' mean?",
+      "options": [
+        "A) I'm not enjoying this experience",
+        "B) I'm not vibrating because of this",
+        "C) I'm not connected to this emotionally",
+        "D) I'm not arguing about this"
+      ],
+      "answer": "C",
+      "explanation": "'Vibe' 在俚语中指情绪氛围或感觉，'vibing with' 表示与某事物产生共鸣或感觉融洽。'I'm not vibing with this' 意思是“我对这个没感觉”或“我不享受这个时刻”。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 194.6,
+      "endTime": 196.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vibing",
+        "feeling",
+        "emotion"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "In 'they are pretty freaking fire', what does 'fire' mean?",
+      "options": [
+        "A) Actually on fire",
+        "B) Very bad",
+        "C) Extremely good",
+        "D) Burning hot temperature"
+      ],
+      "answer": "C",
+      "explanation": "在俚语中，'fire' 用来形容某物非常棒、极好。当作者说 noodles 'are pretty freaking fire'，是在说这些面条非常好吃。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1003.9,
+      "endTime": 1006.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "fire",
+        "slang",
+        "delicious"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'I'm wearing a very Korean outfit low key' imply?",
+      "options": [
+        "A) I'm wearing it secretly",
+        "B) I'm wearing it in a subtle way",
+        "C) I'm wearing it confidently",
+        "D) I'm wearing it reluctantly"
+      ],
+      "answer": "B",
+      "explanation": "'Low key' 在俚语中意为“低调地”、“轻微地”或“说实话”。这句话的意思是她的穿搭很韩国风，但以一种自然不张扬的方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 822.7,
+      "endTime": 824.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "low key",
+        "outfit",
+        "Korean"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is being described in 'We are making summer rolls'?",
+      "options": [
+        "A) A type of sushi",
+        "B) Vietnamese fresh spring rolls",
+        "C) Chinese fried dumplings",
+        "D) Japanese ramen"
+      ],
+      "answer": "B",
+      "explanation": "Summer rolls（越南春卷）是一种使用米纸包裹新鲜蔬菜、肉类或海鲜的冷食料理，通常在夏天食用，是越南和美国常见的菜品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 116.6,
+      "endTime": 120.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "summer rolls",
+        "making",
+        "grocery"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'freaking starving' mean in the video?",
+      "options": [
+        "A) Very hungry",
+        "B) Fainting from hunger",
+        "C) Cooking food",
+        "D) Starving to death literally"
+      ],
+      "answer": "A",
+      "explanation": "'Freaking' 是美国俚语中的加强语气词，相当于“非常”或“简直”。'Freaking starving' 意思是“饿死了”或“非常饿”，是一种夸张的表达方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1042.5,
+      "endTime": 1063.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "freaking",
+        "starving",
+        "hungry"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'Now that I've whisked it' mean?",
+      "options": [
+        "A) I've mixed it quickly with a fork",
+        "B) I've beaten it with a whisk",
+        "C) I've poured it out",
+        "D) I've cooked it"
+      ],
+      "answer": "B",
+      "explanation": "'Whisk' 指用打蛋器或叉子快速搅拌以使液体起泡或混合。作者在说她在搅拌面糊或酱汁，为继续烹饪做准备。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1231.2,
+      "endTime": 1235.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "whisked",
+        "mixing",
+        "cooking"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'Get roasted' likely mean in this context?",
+      "options": [
+        "A) Be cooked in an oven",
+        "B) Be harshly criticized",
+        "C) Be embarrassed",
+        "D) Get complimented"
+      ],
+      "answer": "C",
+      "explanation": "在非正式美语中，'Get roasted' 常指在朋友之间被开玩笑、被调侃或感到尴尬。结合视频内容，这可能是朋友之间的玩笑话。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 817.9,
+      "endTime": 819,
+      "difficulty": "hard",
+      "relatedWords": [
+        "roasted",
+        "joke",
+        "embarrassed"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the speaker describing when she says 'Best matcha of my life'?",
+      "options": [
+        "A) A green tea ice cream",
+        "B) A powdered green tea drink",
+        "C) A Japanese dessert",
+        "D) A coffee alternative"
+      ],
+      "answer": "B",
+      "explanation": "Matcha（抹茶）是一种日本传统的绿茶粉，用来制作抹茶拿铁或直接饮用。作者说这是她喝过的最好的抹茶，表达了极高的赞美。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 89.8,
+      "endTime": 109.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "matcha",
+        "green tea",
+        "best"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I got a scone. It was like a peach vanilla scone'?",
+      "options": [
+        "A) She made a scone herself",
+        "B) She bought or received a scone",
+        "C) She saw a scone in a store",
+        "D) She forgot to buy a scone"
+      ],
+      "answer": "B",
+      "explanation": "'Got' 在这里是“获得”或“得到”的意思，结合后文 'we are eating'，说明作者得到（买到或收到）了一个美味的桃子香草松饼。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1353.6,
+      "endTime": 1366.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "scone",
+        "peach",
+        "vanilla"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'in need of' mean in 'when I'm in need of eating it'?",
+      "options": [
+        "A) Wanting to eat it",
+        "B) Being forced to eat it",
+        "C) Being required to eat it",
+        "D) Planning to eat it"
+      ],
+      "answer": "A",
+      "explanation": "'In need of' 意为“需要”，'when I'm in need of eating it' 意思是“当我想吃它的时候”或“当我想吃它的时候”，表达了对这种食物的渴望。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1003.9,
+      "endTime": 1006.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "in need of",
+        "wanting",
+        "desire"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What time of day is 'midday' according to the video?",
+      "options": [
+        "A) Morning around 9am",
+        "B) Noon time, around 12pm",
+        "C) Afternoon around 3pm",
+        "D) Early evening"
+      ],
+      "answer": "B",
+      "explanation": "Midday 指正午或中午时间。视频中说 'It is now midday' 和 'It's already lunchtime. 3:30 p.m.'，虽然后面提到3:30，但midday通常指12点左右。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 65.8,
+      "endTime": 67.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "midday",
+        "noon",
+        "lunchtime"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is being described as 'Korean American meal'?",
+      "options": [
+        "A) Only Korean food",
+        "B) A fusion of Korean and American cuisine",
+        "C) Traditional American food",
+        "D) Fast food"
+      ],
+      "answer": "B",
+      "explanation": "Korean American meal 指韩式美式餐点，结合了韩国料理和美国烹饪风格或食材，是亚裔美国人常见的饮食文化融合。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1151.4,
+      "endTime": 1154.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Korean American",
+        "fusion",
+        "meal"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'The flavor is amazing' refer to?",
+      "options": [
+        "A) The smell",
+        "B) The taste",
+        "C) The appearance",
+        "D) The texture"
+      ],
+      "answer": "B",
+      "explanation": "Flavor（风味）指的是食物的味道和口感。当作者说 'The flavor is amazing'，她是在赞美这道菜的味道非常好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 362.2,
+      "endTime": 364.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "flavor",
+        "taste",
+        "amazing"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker do with leftover rice according to 'we will freeze it'?",
+      "options": [
+        "A) Throw it away",
+        "B) Keep it in the fridge",
+        "C) Put it in the freezer",
+        "D) Cook it again"
+      ],
+      "answer": "C",
+      "explanation": "Freeze 意思是冷冻保存。作者说如果剩下米饭，她们会冷冻保存，这是很多亚洲家庭常见的食物保存方法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1127.4,
+      "endTime": 1131.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "freeze",
+        "rice",
+        "leftover"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'cheers' mean when the speaker raises her drink?",
+      "options": [
+        "A) Saying thank you",
+        "B) Saying goodbye",
+        "C) Making a toast",
+        "D) Asking for attention"
+      ],
+      "answer": "C",
+      "explanation": "'Cheers' 在举杯时是“干杯”的意思，是祝酒时使用的表达，表示庆祝或祝福。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 782.2,
+      "endTime": 782.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cheers",
+        "toast",
+        "drink"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'I literally have a migraine' mean?",
+      "options": [
+        "A) I have a slight headache",
+        "B) I have a severe headache with specific symptoms",
+        "C) I'm exaggerating my headache",
+        "D) I don't have a headache"
+      ],
+      "answer": "B",
+      "explanation": "Migraine（偏头痛）是一种严重的头痛症状，常伴有恶心、对光敏感等。'Literally' 表示她真的得了偏头痛，不是夸张说法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 179.4,
+      "endTime": 182.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "migraine",
+        "headache",
+        "literally"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is being described in 'Radio Bakery with the girls'?",
+      "options": [
+        "A) A radio station",
+        "B) A bakery name",
+        "C) A cooking show",
+        "D) A grocery store"
+      ],
+      "answer": "B",
+      "explanation": "Radio Bakery 是纽约的一家面包店名称，作者和朋友们一起去那里用餐，文中提到了他们点的豆腐辣椒三明治和玉米面包。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 345.4,
+      "endTime": 352.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bakery",
+        "Radio Bakery",
+        "sandwich"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'Really fresh' describe in the video?",
+      "options": [
+        "A) The weather",
+        "B) The food",
+        "C) The people",
+        "D) The music"
+      ],
+      "answer": "B",
+      "explanation": "结合视频主题和前文关于食物的讨论，'Really fresh' 是在描述食物非常新鲜，通常用于形容沙拉、食材或刚做好的菜品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 379.7,
+      "endTime": 380.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fresh",
+        "food",
+        "delicious"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'yay' express in this context?",
+      "options": [
+        "A) Disappointment",
+        "B) Excitement or happiness",
+        "C) Confusion",
+        "D) Anger"
+      ],
+      "answer": "B",
+      "explanation": "'Yay' 是一个表示兴奋、开心或庆祝的语气词，相当于“好耶！”或“太棒了！”，表达了积极的情绪。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 298.9,
+      "endTime": 301.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "yay",
+        "excitement",
+        "happy"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does 'I think I should have used different noodles' imply?",
+      "options": [
+        "A) She is eating different noodles now",
+        "B) She regrets her choice of noodles",
+        "C) She wants to buy more noodles",
+        "D) She is cooking noodles for someone else"
+      ],
+      "answer": "B",
+      "explanation": "'Should have used' 是虚拟语气，表示对过去的后悔或遗憾。作者认为她本应该用不同的面条，暗示对现在的面条不太满意。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 740.5,
+      "endTime": 742.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "should have",
+        "noodles",
+        "regret"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the phrase 'Come on, bro' mean?",
+      "options": [
+        "A) Please come here",
+        "B) Stop it / Don't do that",
+        "C) Let's go together",
+        "D) Thank you"
+      ],
+      "answer": "B",
+      "explanation": "'Come on, bro' 在这里是表示轻微的催促、不耐烦或劝阻，相当于“别这样”、“算了”。Bro 是 brother 的缩写，是朋友间的称呼。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 237.8,
+      "endTime": 238.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "come on",
+        "bro",
+        "informal"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Please describe what you usually eat for lunch in a day. Use some of the food vocabulary from the video such as 'fresh', 'flavor', or 'amazing'.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生描述自己午餐的饮食情况，并尝试使用视频中出现的词汇如 fresh、flavor、amazing 等，培养学生的英语表达能力。",
+      "referenceAnswer": "学生应描述自己的午餐，可以包括：1) 吃了什么食物 2) 食物的味道如何（可用 amazing, delicious, fresh, flavor 等词）3) 在哪里吃或怎么做的",
+      "hint": "Try to use words like 'fresh', 'flavor', 'delicious', 'amazing' to describe your food. You can talk about what you ate, where you ate, and how it tasted.",
+      "startTime": 26.8,
+      "endTime": 29.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lunch",
+        "food",
+        "meal"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The video shows the speaker making summer rolls and going to the grocery store. Describe a time when you made food at home. What ingredients did you use? How did it taste?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求学生描述一次在家做饭的经历，练习使用英语表达烹饪过程和食物味道，考查学生的综合表达能力。",
+      "referenceAnswer": "答案应包括：1) 做了什么菜 2) 用了什么食材（可以提到视频中的 grocery store, ingredients 等） 3) 烹饪过程 4) 味道如何（可使用学到的词汇）",
+      "hint": "You can mention: making summer rolls, grocery store, ingredients, fresh, flavor, amazing, delicious. Describe the whole process from shopping to cooking.",
+      "startTime": 116.6,
+      "endTime": 120.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cooking",
+        "ingredients",
+        "homemade"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "In the video, the speaker says 'freaking starving' to describe being very hungry. How do you describe feeling very hungry in English? Give your own example sentence.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，考查学生对英语中表达饥饿方式的掌握，要求学生不仅理解视频中的表达，还能创造性地使用其他方式表达饥饿感。",
+      "referenceAnswer": "学生可以回答：1) 直接使用视频中的表达 'freaking starving' 2) 其他表达如 'I'm so hungry I could eat a horse', 'I'm starving', 'I'm really hungry', 'My stomach is growling' 等",
+      "hint": "Try to use different expressions: 'freaking starving', 'I'm so hungry', 'starving', 'could eat a horse', 'my stomach is growling'. Make your own sentence.",
+      "startTime": 1042.5,
+      "endTime": 1063.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hungry",
+        "starving",
+        "feeling"
+      ]
+    }
+  ]
+}

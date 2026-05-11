@@ -1,0 +1,555 @@
+{
+  "videoId": "TpmKcZkmBmE",
+  "title": "back to school 📂 productive days in my life as a college student: studying & what i eat",
+  "generatedAt": "2026-05-07T17:32:17.989Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 10,
+    "medium": 12,
+    "hard": 2,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'I've been cutting it' mean in this context?",
+      "options": [
+        "A) I've been exercising regularly",
+        "B) I've been managing my time poorly",
+        "C) I've been eating healthily",
+        "D) I've been working part-time"
+      ],
+      "answer": "B",
+      "explanation": "在口语中，'cutting it' 通常表示勉强应付或做得很勉强。联系上下文 'I am so tired'，说话者暗示自己状态不佳，时间管理得不太好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 62.4,
+      "endTime": 63,
+      "difficulty": "hard",
+      "relatedWords": [
+        "cutting it",
+        "idiom",
+        "colloquial"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is the speaker's major?",
+      "options": [
+        "A) Business Administration",
+        "B) Pharmacy",
+        "C) Engineering",
+        "D) Psychology"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确提到 'Second last pharmacy school term'，说明说话者是药学专业的学生。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 3.3,
+      "endTime": 5.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pharmacy",
+        "major",
+        "school"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'fading' mean in 'I'm fading so hard'?",
+      "options": [
+        "A) Getting brighter",
+        "B) Becoming very popular",
+        "C) Losing energy/fainting",
+        "D) Feeling excited"
+      ],
+      "answer": "C",
+      "explanation": "'Fading' 在口语中表示精力耗尽、几乎要晕倒的感觉。说话者刚上完3小时的讲座，感到非常疲惫。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 119.5,
+      "endTime": 145.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "fading",
+        "tired",
+        "lecture"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'galore' mean in 'floral galore'?",
+      "options": [
+        "A) Very few",
+        "B) In abundance",
+        "C) Very expensive",
+        "D) Out of season"
+      ],
+      "answer": "B",
+      "explanation": "'Galore' 是一个后缀词，表示大量的、许多的。'Floral galore' 意思是到处都是花、鲜花繁多。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 526.2,
+      "endTime": 529.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "galore",
+        "floral",
+        "abundance"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'cuddling' refer to in this context?",
+      "options": [
+        "A) Cooking together",
+        "B) Physical affection/hugging",
+        "C) Cleaning the house",
+        "D) Studying together"
+      ],
+      "answer": "B",
+      "explanation": "'Cuddling' 指的是拥抱、依偎等亲密的身体接触。说话者在解释有人开车来看她，有人称之为 'cuddling'，其实就是表达关心和亲近。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 672.5,
+      "endTime": 675.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cuddling",
+        "caring",
+        "affection"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'hotspot' refer to in the context?",
+      "options": [
+        "A) A popular meeting place",
+        "B) Mobile internet connection",
+        "C) A warm blanket",
+        "D) A kitchen appliance"
+      ],
+      "answer": "B",
+      "explanation": "这里的 'hotspot' 指的是手机热点（mobile hotspot）。说话者说她的热点不能用，所以需要去学校下载东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 58.2,
+      "endTime": 62.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hotspot",
+        "download",
+        "internet"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is a 'loft' as mentioned in the video?",
+      "options": [
+        "A) A traditional house",
+        "B) An open-plan apartment in the roof",
+        "C) A campus building",
+        "D) A dining hall"
+      ],
+      "answer": "B",
+      "explanation": "'Loft' 指的是阁楼公寓，通常是开放式的高空间住房。视频中说话者提到 'another day in the loft' 和 'first home-cooked meal in this loft'，说明她住在阁楼里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 449.8,
+      "endTime": 451.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "loft",
+        "apartment",
+        "living"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'do my grocery order' mean?",
+      "options": [
+        "A) Go to the supermarket",
+        "B) Order groceries online",
+        "C) Cook dinner",
+        "D) Check my email"
+      ],
+      "answer": "B",
+      "explanation": "'Do my grocery order' 指的是在线下单购买杂货。这是现代大学生常见的生活习惯，通过手机应用订购食材。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 473.7,
+      "endTime": 475.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "grocery",
+        "order",
+        "food"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is 'kimchi jiggae'?",
+      "options": [
+        "A) A Korean vegetable dish",
+        "B) Korean kimchi stew",
+        "C) A Japanese noodle soup",
+        "D) A type of sushi"
+      ],
+      "answer": "B",
+      "explanation": "'Kimchi jiggae' (김치찌개) 是韩国泡菜汤/泡菜锅，是一道经典的韩国家常菜。视频中说话者提到做晚饭和 kimchi stew（也是泡菜锅的意思）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 812.6,
+      "endTime": 815.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "kimchi",
+        "jiggae",
+        "stew",
+        "Korean"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'first pass' mean in studying context?",
+      "options": [
+        "A) First attempt at something",
+        "B) First reading/review of material",
+        "C) First class of the semester",
+        "D) First time meeting someone"
+      ],
+      "answer": "B",
+      "explanation": "'First pass' 在学习语境中指的是第一遍浏览或学习新内容。说话者说这是她学习新内容时的习惯做法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 471,
+      "endTime": 473.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "first pass",
+        "study",
+        "content"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'moving in' mean?",
+      "options": [
+        "A) Going outside",
+        "B) Starting to live in a new place",
+        "C) Exercising more",
+        "D) Changing schools"
+      ],
+      "answer": "B",
+      "explanation": "'Moving in' 指的是搬入新居。说话者说 'I'm still moving in'，表示她还在搬家入住的过程中。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 451.5,
+      "endTime": 454.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "moving in",
+        "new place",
+        "unpack"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'bee bane' likely refer to in the context of food?",
+      "options": [
+        "A) A type of bee product",
+        "B) Bee larvae",
+        "C) A Korean dish",
+        "D) A vegetable"
+      ],
+      "answer": "B",
+      "explanation": "'Bee bane' 可能是对某种蜂虫的翻译或音译。在韩国料理中，蜂幼虫（bee larvae）是一种可食用的食材。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 695.8,
+      "endTime": 698.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "bee bane",
+        "shrimp",
+        "food"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the meaning of 'the girls just get me'?",
+      "options": [
+        "A) The girls are following me",
+        "B) The girls understand me perfectly",
+        "C) The girls are chasing me",
+        "D) The girls are annoying me"
+      ],
+      "answer": "B",
+      "explanation": "'Get someone' 在口语中表示理解某人。'The girls just get me' 意思是朋友们非常理解她。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 513.8,
+      "endTime": 516.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "get me",
+        "understand",
+        "friends"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'therapeutics' refer to in this video?",
+      "options": [
+        "A) A type of therapy",
+        "B) A pharmacy course/subject",
+        "C) A medical treatment",
+        "D) A gym exercise"
+      ],
+      "answer": "B",
+      "explanation": "'Therapeutics' 是药学专业的一门课程，即治疗学。说话者在复习therapeutics课程的讲座内容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 454.9,
+      "endTime": 459.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "therapeutics",
+        "lecture",
+        "pharmacy"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What kind of sweater is described in the video?",
+      "options": [
+        "A) A sweater with patterns on both sides",
+        "B) A plain sweater in front with cool print on back",
+        "C) A colorful sweater",
+        "D) An expensive designer sweater"
+      ],
+      "answer": "B",
+      "explanation": "说话者描述她的毛衣 'just like this plain sweater in the front, but the back print is really cool'，即正面朴素但背面有很酷的印花。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 204.4,
+      "endTime": 207.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sweater",
+        "plain",
+        "print"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'sorted' mean in 'not sorted in any way whatsoever'?",
+      "options": [
+        "A) Organized",
+        "B) Confused",
+        "C) Sold",
+        "D) Fixed"
+      ],
+      "answer": "A",
+      "explanation": "'Sorted' 在这里是分类、整理的意思。说话者在描述她的东西 'not sorted in any way'，表示完全没有整理归类。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 229.5,
+      "endTime": 231.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sorted",
+        "organized",
+        "mess"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'renting this place' indicate about the speaker's living situation?",
+      "options": [
+        "A) She owns the apartment",
+        "B) She is staying temporarily for free",
+        "C) She pays to live there",
+        "D) She is staying at a hotel"
+      ],
+      "answer": "C",
+      "explanation": "'Renting' 表示租住。说话者提到她租这个房子，已经搬了7次家。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 505.2,
+      "endTime": 509.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "renting",
+        "apartment",
+        "moved"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is 'udon'?",
+      "options": [
+        "A) A Korean dish",
+        "B) A Japanese thick noodle",
+        "C) A Chinese rice dish",
+        "D) A type of bread"
+      ],
+      "answer": "B",
+      "explanation": "'Udon' (乌冬) 是日本的粗面条。视频中提到 'frozen udon'，即冷冻乌冬面。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 692.2,
+      "endTime": 694.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "udon",
+        "noodle",
+        "frozen"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Please describe what the speaker does during her first pass of new study material, based on what she said in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "根据视频内容，说话者在学习新内容时通常会做第一遍浏览/复习（first pass）。她没有具体说明用什么方法，但这是她处理新材料的习惯做法。",
+      "hint": "Think about what 'first pass' means in studying context. The answer should include: 1) The concept of first pass 2) What the speaker usually does 3) Her study habit",
+      "startTime": 471,
+      "endTime": 473.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "first pass",
+        "study",
+        "material",
+        "content"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe the sweater the speaker is wearing in the video, including both the front and back features.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "说话者穿着一件舒适的毛衣。正面是素色的（plain），但背面有很酷的印花（back print is really cool）。她提到会放一些照片在上面。",
+      "hint": "The answer should mention: 1) It's a plain sweater in the front 2) The back print is cool 3) She might put photos on it",
+      "startTime": 204.4,
+      "endTime": 207.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sweater",
+        "plain",
+        "back print",
+        "comfy"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Based on the video, what did the speaker make for dinner? Describe the dish and its ingredients.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "说话者做了韩式泡菜锅（kimchi jiggae/kimchi stew）。她还提到可以做成泡菜汤或者加入泡菜炖菜（kimchi stew）。她用了切好的牛肉卷（sliced beef rolls）、蜂蛹（bee bane）、去壳虾仁（peeled shrimp）以及冷冻乌冬面（frozen udon）。",
+      "hint": "The answer should include: 1) Kimchi jiggae/stew 2) Main ingredients like beef, shrimp, bee bane 3) Udon noodles if mentioned",
+      "startTime": 812.6,
+      "endTime": 821.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "kimchi jiggae",
+        "dinner",
+        "beef",
+        "shrimp",
+        "udon"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What are some of the academic responsibilities the speaker mentions in the video? List at least three.",
+      "options": [],
+      "answer": "open",
+      "explanation": "",
+      "referenceAnswer": "说话者提到学业任务包括：作业（assignments）、实验（labs）、小组项目（group projects）等。她还要上3小时的讲座课程（3-hour lecture），学习治疗学（therapeutics）等药学专业课程。",
+      "hint": "Think about what school-related activities she mentions. At least three: assignments, labs, group projects, lectures, etc.",
+      "startTime": 154.5,
+      "endTime": 157,
+      "difficulty": "easy",
+      "relatedWords": [
+        "assignments",
+        "labs",
+        "group projects",
+        "lecture",
+        "academic"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'one ton' refer to in the video?",
+      "options": [
+        "A) A weight measurement for luggage",
+        "B) An exaggeration meaning very heavy/tired",
+        "C) A cooking measurement",
+        "D) The price of something"
+      ],
+      "answer": "B",
+      "explanation": "'One ton' 是夸张说法，表示非常重或非常累。说话者可能是在说她感觉非常沉重/疲惫。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 691.8,
+      "endTime": 692.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "one ton",
+        "exaggeration",
+        "heavy"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'put by this lamp' mean?",
+      "options": [
+        "A) Put this lamp away",
+        "B) Place next to this lamp",
+        "C) Turn on this lamp",
+        "D) Buy this lamp"
+      ],
+      "answer": "B",
+      "explanation": "'Put by' 在这里表示放置在某物旁边。说话者说她把这个Sunseeker Neota放在这盏灯旁边。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 243.4,
+      "endTime": 267.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "put by",
+        "lamp",
+        "place"
+      ]
+    }
+  ]
+}

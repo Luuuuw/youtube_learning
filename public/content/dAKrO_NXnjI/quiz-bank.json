@@ -1,0 +1,571 @@
+{
+  "videoId": "dAKrO_NXnjI",
+  "title": "somewhere at the edge of the world",
+  "generatedAt": "2026-05-07T16:37:38.230Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 12,
+    "medium": 10,
+    "hard": 3,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'wiggling her tail' mean in this context?",
+      "options": [
+        "A) Shaking her tail happily",
+        "B) Wagging her tail quickly",
+        "C) Losing her tail",
+        "D) Holding her tail still"
+      ],
+      "answer": "B",
+      "explanation": "wiggling her tail 指的是狗摇尾巴的动作，通常表示开心或兴奋。视频中提到当主人说Molly时，狗会摇尾巴表示反应。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "wiggling",
+        "tail",
+        "dog"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'marinate' mean in the context of cooking?",
+      "options": [
+        "A) Cook quickly in high heat",
+        "B) Let food soak in seasoning",
+        "C) Fry food with oil",
+        "D) Cut food into small pieces"
+      ],
+      "answer": "B",
+      "explanation": "marinate 意思是腌制，让食物在调味料中浸泡入味。视频中说把东西放在锅里用黄油腌制很长时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "marinate",
+        "butter",
+        "pan"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'recharging' mean in this travel context?",
+      "options": [
+        "A) Charging electronic devices",
+        "B) Restoring energy and relaxation",
+        "C) Buying new batteries",
+        "D) Learning new skills"
+      ],
+      "answer": "B",
+      "explanation": "recharging 在旅行语境中指的是放松休息，恢复精力。视频中说他们需要一点充电时间，表示需要放松和休息。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "recharging",
+        "trip",
+        "relaxation"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What are 'baboons' according to the video?",
+      "options": [
+        "A) Small birds",
+        "B) Large monkeys",
+        "C) Wild dogs",
+        "D) Local fish"
+      ],
+      "answer": "B",
+      "explanation": "视频中解释 baboons 是猴子，它们在当地四处游荡。baboon 是狒狒，一种大型猴子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "baboons",
+        "monkeys",
+        "roaming"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'vibe' mean in the coffee shop description?",
+      "options": [
+        "A) The taste of coffee",
+        "B) The atmosphere or feeling",
+        "C) The price",
+        "D) The service speed"
+      ],
+      "answer": "B",
+      "explanation": "vibe 指的是氛围或感觉。视频中说咖啡和烤三明治的 vibe 很好，意思是整体氛围和感觉很不错。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vibe",
+        "coffee",
+        "sandwiches"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'sunnies' refer to in this context?",
+      "options": [
+        "A) Sunny weather",
+        "B) Sunglasses",
+        "C) Sunny people",
+        "D) Sunny days"
+      ],
+      "answer": "B",
+      "explanation": "sunnies 是 sunglasses（太阳镜）的口语简写。视频中说忘了带太阳镜，这是一个非正式的澳洲/南非英语用法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sunnies",
+        "forgot",
+        "sunglasses"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is a 'crystal' mainly described as in the video?",
+      "options": [
+        "A) A piece of jewelry",
+        "B) A stone with spiritual properties",
+        "C) A decorative item",
+        "D) A drinking glass"
+      ],
+      "answer": "B",
+      "explanation": "视频中描述水晶是具有精神属性的石头，提到新的开始、丰富、繁荣、连接自然、带来平静、激发创造力和热情等功效。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "crystal",
+        "new beginnings",
+        "prosperity"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'essential oil rollon perfume' refer to?",
+      "options": [
+        "A) A spray bottle",
+        "B) A rollerball applicator for perfume",
+        "C) A liquid soap",
+        "D) A candles"
+      ],
+      "answer": "B",
+      "explanation": "rollon 指的是滚珠式涂抹器，这种精油香水是通过滚珠涂抹的。视频中提到发现了这种产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "essential oil",
+        "rollon",
+        "perfume"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'cozy' mean in the video description?",
+      "options": [
+        "A) Spacious and open",
+        "B) Warm and comfortable",
+        "C) Modern and stylish",
+        "D) Cold and empty"
+      ],
+      "answer": "B",
+      "explanation": "cozy 意思是温暖舒适的。视频中说某个地方非常 cozy，表示感觉温馨舒适。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cozy",
+        "comfortable",
+        "warm"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What animals can you find at Boulders Beach according to the video?",
+      "options": [
+        "A) Dolphins",
+        "B) Seals",
+        "C) Penguins",
+        "D) Whales"
+      ],
+      "answer": "C",
+      "explanation": "视频开头提到 Boulders Beach，这个海滩以企鹅闻名，是南非著名的企鹅栖息地。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Boulders Beach",
+        "penguins",
+        "beach"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'popped in' mean in the video?",
+      "options": [
+        "A) Disappeared suddenly",
+        "B) Came in suddenly",
+        "C) Went out quickly",
+        "D) Slept heavily"
+      ],
+      "answer": "B",
+      "explanation": "popped in 意思是突然出现或进来。视频中说一只狗突然跑进来打招呼。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "popped in",
+        "came in",
+        "dog"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'super sunny' mean in the weather context?",
+      "options": [
+        "A) A little sunny",
+        "B) Very sunny",
+        "C) Not sunny at all",
+        "D) Cloudy"
+      ],
+      "answer": "B",
+      "explanation": "super 在口语中表示非常或极其，super sunny 意思是极其阳光明媚的，即非常晴天。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "super sunny",
+        "weather",
+        "sunny"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'sauna' refer to in the video?",
+      "options": [
+        "A) A gym",
+        "B) A hot and humid room",
+        "C) A swimming pool",
+        "D) A bathroom"
+      ],
+      "answer": "B",
+      "explanation": "sauna 是桑拿房，指一个非常热的房间。视频中说热得像桑拿，表示非常炎热潮湿。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sauna",
+        "hot",
+        "sweat"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'chilled' mean in the beach context?",
+      "options": [
+        "A) Cold",
+        "B) Relaxed and leisurely",
+        "C) Sick",
+        "D) Angry"
+      ],
+      "answer": "B",
+      "explanation": "chilled 在这里是放松、悠闲的意思。视频中说在海滩上 chill，表示轻松放松地待着。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chilled",
+        "relaxed",
+        "beach"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'Hi' stand for in the pants context?",
+      "options": [
+        "A) Hello",
+        "B) High",
+        "C) Hiking",
+        "D) Heavy"
+      ],
+      "answer": "A",
+      "explanation": "这里的 Hi 是口语中表示强调的语气词，不是缩写。视频中说 I used to wear these types of pants when I was like 17，Hi 是口语中的语气停顿。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "pants",
+        "wore",
+        "17"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the meaning of 'bikini' in the video?",
+      "options": [
+        "A) A type of hat",
+        "B) A two-piece swimsuit",
+        "C) A pair of shoes",
+        "D) A dress"
+      ],
+      "answer": "B",
+      "explanation": "bikini 比基尼是一种两件式泳装。视频中说要穿一件可爱的比基尼。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bikini",
+        "swimsuit",
+        "wear"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "Describe what the speaker plans to do at home and where they will eat.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容回答。",
+      "referenceAnswer": "They plan to cook something simple at home and eat outside.",
+      "hint": "Think about cooking and eating locations mentioned in the video.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cook",
+        "home",
+        "eat outside"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'convenient' mean in the product description?",
+      "options": [
+        "A) Expensive",
+        "B) Easy to use or handle",
+        "C) Complicated",
+        "D) Traditional"
+      ],
+      "answer": "B",
+      "explanation": "convenient 意思是方便、便利的。视频中说这个东西非常方便和小巧。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "convenient",
+        "small",
+        "product"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "What is the speaker's attitude towards their trip in this village?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容回答。",
+      "referenceAnswer": "They feel it's the best couple of days and they are really happy and enjoying the recharging experience.",
+      "hint": "Look for words describing feelings about the trip.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "best",
+        "village",
+        "happy"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'appreciating the beauty within and all around us' suggest?",
+      "options": [
+        "A) Being unhappy with life",
+        "B) Recognizing and valuing beauty internally and externally",
+        "C) Only caring about outer appearance",
+        "D) Ignoring beautiful things"
+      ],
+      "answer": "B",
+      "explanation": "这句话的意思是欣赏内在和周围的美。视频中提到水晶能激发人们欣赏自身和周围的美好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "appreciating",
+        "beauty",
+        "within"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What animals did the speaker meet at the cafe?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容回答。",
+      "referenceAnswer": "They met many dogs at the cafe.",
+      "hint": "Think about animals mentioned at the cafe location.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dogs",
+        "cafe",
+        "met"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does 'chirp' mean in the context of birds?",
+      "options": [
+        "A) Fly away",
+        "B) Make high-pitched sounds",
+        "C) Build nests",
+        "D) Sleep"
+      ],
+      "answer": "B",
+      "explanation": "chirp 是鸟叫的声音，意思是鸟发出尖细的叫声。视频中说在听鸟儿歌唱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "birds",
+        "chirping",
+        "listen"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'snuck around' mean in the video?",
+      "options": [
+        "A) Walked loudly",
+        "B) Moved quietly and secretly",
+        "C) Ran quickly",
+        "D) Stood still"
+      ],
+      "answer": "B",
+      "explanation": "snuck 是 sneak 的过去式，意思是偷偷地、悄悄地走。视频中说像偷偷溜去看发生了什么。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "snuck",
+        "sneaking",
+        "around"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'towels and a book' represent at the beach?",
+      "options": [
+        "A) Swimming equipment",
+        "B) Beach relaxation items",
+        "C) Photography gear",
+        "D) Camping tools"
+      ],
+      "answer": "B",
+      "explanation": "毛巾和书是海滩休闲的典型物品，表示在海滩上放松休息。视频中说他们没有真正带着这些去海滩。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "towel",
+        "book",
+        "beach"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "What is the speaker doing while watching the sunset?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容回答。",
+      "referenceAnswer": "They are eating dinner while watching the sunset.",
+      "hint": "Think about the activities mentioned in the evening.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dinner",
+        "sunset",
+        "eating"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "videoId": "iReIa5Xp7Sk",
+  "title": "i found my DREAM apartment 🔑 empty apt tour, settling in, new year routines & moving vlog",
+  "generatedAt": "2026-05-07T16:53:51.297Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 14,
+    "medium": 10,
+    "hard": 1,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker say about the ceiling height in the apartment?",
+      "options": [
+        "A) The ceilings are about 8 to 10 feet tall",
+        "B) The ceilings are about 12 to 14 feet tall",
+        "C) The ceilings are about 6 to 8 feet tall",
+        "D) The ceilings are about 16 to 18 feet tall"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第25条，speaker提到 'And the ceilings are like 12 to 14 feet tall'，说明天花板高度大约12到14英尺，非常高。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 481.4,
+      "endTime": 484.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ceiling",
+        "tall",
+        "feet"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What did the speaker's parents help with during the move?",
+      "options": [
+        "A) They helped with cooking and cleaning",
+        "B) They helped with packing and unpacking",
+        "C) They helped with painting the walls",
+        "D) They helped with grocery shopping"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第20条和第45条，speaker提到妈妈在挑选PR物品，爸爸直接开始工作干活（帮搬东西和整理），这说明父母帮忙打包和整理行李。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 830.1,
+      "endTime": 833.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "parents",
+        "help",
+        "move"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is described as one of the speaker's 'non-negotiables' for the apartment?",
+      "options": [
+        "A) A dishwasher",
+        "B) A balcony",
+        "C) A tub (bathtub)",
+        "D) A fireplace"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第33条，speaker说 'And it actually has a tub, which was one of my non-negotiables.' 浴缸是她搬家的必要条件之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 90.8,
+      "endTime": 93.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tub",
+        "non-negotiables",
+        "bathtub"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "How long had the speaker been living in the new apartment when filming?",
+      "options": [
+        "A) 24 hours",
+        "B) 4 hours",
+        "C) 2 days",
+        "D) 1 week"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第39条，speaker说 'I've literally been living here for 4 hours.' 她才住了4个小时。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 475.8,
+      "endTime": 478.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "living",
+        "hours",
+        "new apartment"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What was the brother's birthday doing in the story?",
+      "options": [
+        "A) It was the day before the move",
+        "B) It was during the holidays",
+        "C) It was after the speaker moved in",
+        "D) It was when the speaker arrived at the apartment"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第26条，speaker提到 'It was my brother's birthday, so I just went home'，结合第48条提到假期期间很忙，说明哥哥生日是在假期期间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 825.3,
+      "endTime": 828.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "brother",
+        "birthday",
+        "holidays"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What did the speaker say about sleeping in the new apartment?",
+      "options": [
+        "A) She couldn't sleep well because of the noise",
+        "B) She slept super well after an everything shower",
+        "C) She slept on the floor",
+        "D) She didn't sleep at all"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第40条，speaker说 'I actually slept super well and I feel like I always do after an everything shower'，她在彻底洗了个澡后睡得很好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 561.2,
+      "endTime": 564.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "slept",
+        "shower",
+        "well"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'color coordinate' mean in this context?",
+      "options": [
+        "A) To paint with different colors",
+        "B) To organize things by matching colors",
+        "C) To buy new colorful items",
+        "D) To mix colors together randomly"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第3条，speaker说 'I tried to color coordinate them' 指的是在整理衣物时尝试让颜色搭配协调，即按颜色分类整理。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 978.5,
+      "endTime": 979.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "color coordinate",
+        "organize",
+        "matching"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker need to ask her landlord to do?",
+      "options": [
+        "A) Fix the shower spout",
+        "B) Paint the walls",
+        "C) Take a look at something",
+        "D) Lower the rent"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第15条，speaker说 'So, I'm going to have to ask my landlord to take a look at that.' 她需要让房东看看（某个问题）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 468.3,
+      "endTime": 471.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "landlord",
+        "ask",
+        "take a look"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is described as 'massive' in the apartment?",
+      "options": [
+        "A) The kitchen",
+        "B) The bedroom",
+        "C) The mirror",
+        "D) The closet"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第12条，speaker说 'The mirror here is also massive.' 公寓里的镜子非常大。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 471.1,
+      "endTime": 473,
+      "difficulty": "easy",
+      "relatedWords": [
+        "mirror",
+        "massive",
+        "large"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What did the speaker receive from her landlord as a gift?",
+      "options": [
+        "A) A housewarming gift",
+        "B) A month of free rent",
+        "C) A set of towels",
+        "D) A gift card"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕第36条，speaker说 'And then this is a little housewarming gift that I got from my landlord.' 房东送了她一个乔迁礼物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 173.3,
+      "endTime": 176.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "housewarming",
+        "gift",
+        "landlord"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What was the weather likely like when the speaker sorted t-shirts?",
+      "options": [
+        "A) Cold and rainy",
+        "B) 21 degrees and sunny",
+        "C) Snowy",
+        "D) Windy"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第4条，speaker说 'I tried to sort the t-shirts by 21° and sunny'，她按21度和晴天的天气类别来整理T恤。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 721,
+      "endTime": 740.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "t-shirts",
+        "sort",
+        "21°",
+        "sunny"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What did the speaker say she hasn't done yet in the new year?",
+      "options": [
+        "A) Gone to the gym",
+        "B) Journaled",
+        "C) Unpacked her boxes",
+        "D) Called her parents"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第6条，speaker说 'I'm going to be honest, I haven't journaled in the new year yet, and it's already like January'，她承认新年还没写日记。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1023.8,
+      "endTime": 1028.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "journaled",
+        "new year",
+        "honest"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What was the father's 'love language' mentioned by the speaker?",
+      "options": [
+        "A) Cooking",
+        "B) Giving gifts",
+        "C) Physical touch",
+        "D) Accessorizing"
+      ],
+      "answer": "D",
+      "explanation": "根据字幕第42条，speaker提到爸爸的爱语是'accessors'，指的是搭配配饰或Accessorize（给物品搭配装饰品）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 836.2,
+      "endTime": 839.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "love language",
+        "dad",
+        "accessors"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the second shelf described as?",
+      "options": [
+        "A) The most decorative",
+        "B) The most accessible",
+        "C) The highest",
+        "D) The smallest"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第44条，speaker说 'And then the second shelf is the most accessible.' 第二层是最方便取用的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 992.2,
+      "endTime": 994,
+      "difficulty": "easy",
+      "relatedWords": [
+        "shelf",
+        "accessible",
+        "second"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What kind of sweaters have their own pile?",
+      "options": [
+        "A) Designer sweaters",
+        "B) Winter sweaters",
+        "C) Saison sweaters",
+        "D) Wool sweaters"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第29条，speaker说 'These ones are all my Saison sweaters, so that's why they have their own pile.' 她把季节性(Saison)毛衣单独放一堆。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 979.8,
+      "endTime": 982.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Saison sweaters",
+        "pile",
+        "own"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker say about the water pressure?",
+      "options": [
+        "A) It's too weak",
+        "B) It's really great",
+        "C) It's okay but not special",
+        "D) It's broken"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第49条，speaker说 'The good news is the water pressure is really great here.' 水压非常好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 459.6,
+      "endTime": 462,
+      "difficulty": "easy",
+      "relatedWords": [
+        "water pressure",
+        "great",
+        "good news"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What is the speaker planning to put on one of the walls?",
+      "options": [
+        "A) A TV",
+        "B) A bookshelf",
+        "C) A painting",
+        "D) A clock"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第24条，speaker说 'And then I'm probably going to put a bookshelf or something or another on this wall.' 她打算在这面墙上放一个书架。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 150.6,
+      "endTime": 154.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bookshelf",
+        "wall",
+        "put"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does the speaker think about the built-ins left by the previous tenant?",
+      "options": [
+        "A) She dislikes them",
+        "B) She thinks they're okay",
+        "C) She thinks it's really nice",
+        "D) She wants to remove them"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第31条，speaker说 'And it's really nice that they left these built-ins.' 她觉得前租客留下的内置家具很好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.6,
+      "endTime": 112.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "built-ins",
+        "nice",
+        "left"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "Why did the speaker move to the new place according to the context?",
+      "options": [
+        "A) To be closer to work",
+        "B) To be closer to family",
+        "C) To have a bigger space",
+        "D) To save money"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕第35条，speaker提到搬家意味着她需要搬到离（工作）更近的新地方，结合全文内容，暗示是为了上班方便。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 295.4,
+      "endTime": 299,
+      "difficulty": "medium",
+      "relatedWords": [
+        "move",
+        "closer",
+        "new place"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What did the speaker say about the noise level in the apartment?",
+      "options": [
+        "A) It's very quiet",
+        "B) It's a little bit noisy",
+        "C) It's extremely loud",
+        "D) There's no noise at all"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第19条，speaker说 'I will say though it is a little bit noisy'，她认为有点吵。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 566.2,
+      "endTime": 569.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "noisy",
+        "little bit",
+        "apartment"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe a time when you moved to a new place. What challenges did you face and how did you overcome them?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生描述一次搬家经历，包括遇到的挑战和解决方法。考生需要结合视频中关于搬家的内容，如整理物品、布置新家、与家人一起搬家等话题进行回答。",
+      "referenceAnswer": "1. Mention the reason for moving (job, school, etc.) 2. Describe the challenges faced (packing, organizing, adjusting to new environment) 3. Explain how you overcame these challenges (asking for help, creating routines, staying positive) 4. Share what you learned from the experience",
+      "hint": "Think about: packing and organizing belongings, asking for help from family or friends, adjusting to a new environment, creating new routines",
+      "startTime": 295.4,
+      "endTime": 319.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "move",
+        "new place",
+        "challenges",
+        "overcome"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What is your dream apartment or house like? Describe its features and why they are important to you.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生描述自己梦想中的公寓或房子会是什么样子，为什么这些特点对你很重要。可以结合视频中提到的特点如高天花板、浴缸、良好的水压等。",
+      "referenceAnswer": "1. Describe the size and layout 2. Mention specific features (bathtub, high ceilings, storage space, etc.) 3. Explain why these features matter to you 4. Share how you would organize and decorate the space",
+      "hint": "Consider features like: space, lighting, storage, bathroom facilities, location, neighborhood",
+      "startTime": 90.8,
+      "endTime": 97.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dream apartment",
+        "features",
+        "important"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "How do you usually organize your belongings? Do you prefer to organize by color, category, or other methods? Explain your approach.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生分享自己整理物品的方式方法。视频中提到了按颜色搭配、按类别（如工作装、日常装）等整理方式，考生可以结合自己的经验来回答。",
+      "referenceAnswer": "1. Describe your organization method (by color, category, frequency of use, etc.) 2. Explain why you prefer this method 3. Give examples of how you organize specific items (clothes, books, etc.) 4. Share any tips or strategies that work well for you",
+      "hint": "Think about: color coordination, categorization by type, frequency of use, seasonal organization",
+      "startTime": 977,
+      "endTime": 982.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "organize",
+        "belongings",
+        "method"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What type of clothing item did the speaker mention placing on the top shelf?",
+      "options": [
+        "A) T-shirts",
+        "B) Dresses",
+        "C) Strapless bras",
+        "D) Jeans"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第9条，speaker说 'And then I have the strapless bras in the top.' 她把无肩带文胸放在顶层。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 704.7,
+      "endTime": 706.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "strapless bras",
+        "top",
+        "clothing"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What did the speaker dream of having according to the video?",
+      "options": [
+        "A) A car",
+        "B) A place of her own",
+        "C) A pet",
+        "D) A new job"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第45条，speaker说 'I always dream of having a place of my own.' 她一直梦想拥有自己的地方。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 801.9,
+      "endTime": 819.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dream",
+        "place of my own",
+        "own"
+      ]
+    }
+  ]
+}

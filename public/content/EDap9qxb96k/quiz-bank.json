@@ -1,0 +1,548 @@
+{
+  "videoId": "EDap9qxb96k",
+  "title": "My Solo Trip to Antarctica",
+  "generatedAt": "2026-05-07T16:39:05.599Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 12,
+    "hard": 3,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What body of water is located between the southernmost tip of South America and the South Shetland Islands of Antarctica?",
+      "options": [
+        "A) The Drake Passage",
+        "B) The Antarctic Strait",
+        "C) The Pacific Ocean",
+        "D) The Atlantic Ocean"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕第18条，这个水体是位于南美洲最南端和南极洲南设得兰群岛之间的海域，即德雷克海峡（Drake Passage）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 87.2,
+      "endTime": 93.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Drake Passage",
+        "South America",
+        "South Shetland Islands"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is Port Lockroy nicknamed?",
+      "options": [
+        "A) The Antarctic Gateway",
+        "B) The Penguin Post Office",
+        "C) The Southernmost Base",
+        "D) The British Museum"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第42条，Port Lockroy因其是帝企鹅聚集地而被昵称为'Penguin Post Office'（企鹅邮局），它是世界最南端的邮局。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 520,
+      "endTime": 525.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Port Lockroy",
+        "post office",
+        "penguin colony"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the speaker say about the water during a particular afternoon?",
+      "options": [
+        "A) It was rough and stormy",
+        "B) It was like glass in the fog",
+        "C) It was freezing solid",
+        "D) It was full of icebergs"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第3条，演讲者说坐在雾中、雪中如玻璃般的水面上，描述了那时水面平静如镜的状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 379.1,
+      "endTime": 386,
+      "difficulty": "medium",
+      "relatedWords": [
+        "water like glass",
+        "fog",
+        "Zodiac"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What unique experience does the Seaborn Venture offer to its guests?",
+      "options": [
+        "A) Helicopter tours",
+        "B) Submarine expeditions",
+        "C) Scuba diving",
+        "D) Ice climbing"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第8条和第34条，Seaborn Venture有两艘定制的探险潜艇，客人可以报名参加潜艇体验活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 432.2,
+      "endTime": 441.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "submarine",
+        "expedition",
+        "Seaborn Venture"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "According to the video, when did the volcano at Deception Island last erupt?",
+      "options": [
+        "A) 1960",
+        "B) 1970",
+        "C) 1980",
+        "D) 1990"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第4条，演讲者提到火山口的火山相信最后一次喷发是在1970年。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 667.6,
+      "endTime": 673.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "volcano",
+        "eruption",
+        "Deception Island"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What special feature do the ship suites include according to the video?",
+      "options": [
+        "A) Kitchenette and mini bar",
+        "B) Balconies, walk-in closets and full-size bathrooms",
+        "C) Private hot tub",
+        "D) Personal butler service"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第22条和第48条，船上套房配有阳台、步入式衣橱和全尺寸浴室，非常宽敞。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 652.9,
+      "endTime": 661.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "suite",
+        "balcony",
+        "walk-in closet"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "Why do penguins need to build their nests in dry places according to the video?",
+      "options": [
+        "A) To attract mates",
+        "B) To protect eggs from rain and snow",
+        "C) To escape from predators",
+        "D) To find food more easily"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第16条和第46条，企鹅不仅需要找到干燥的地方筑巢，一旦宝宝出生，它们还需要keep it covered from rain and snow（保持干燥不被雨雪淋湿）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 247.9,
+      "endTime": 252.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "nest",
+        "penguin",
+        "dry place"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker say about the weather condition in a particular area?",
+      "options": [
+        "A) It was sunny and clear",
+        "B) It was snowing the lightest fluffiest snowflakes",
+        "C) It was raining heavily",
+        "D) It was windy"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第43条，演讲者描述当时正在下雪，雪花是最轻盈柔软的，周围的鲸鱼四面八方都是。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 354.9,
+      "endTime": 364,
+      "difficulty": "easy",
+      "relatedWords": [
+        "snow",
+        "whale",
+        "fluffy"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What wildlife did the speaker see swimming alongside the ship in the Lemaire Channel?",
+      "options": [
+        "A) A humpback whale",
+        "B) A seal",
+        "C) A lone Orca",
+        "D) A dolphin"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第2条，在Lemaire Channel航行时，一只孤独的虎鲸（Orca）出现并沿着船游泳。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 558.4,
+      "endTime": 564.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Orca",
+        "Lemaire Channel",
+        "swim"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is described as 'one of the most precious things I've ever seen'?",
+      "options": [
+        "A) A baby penguin",
+        "B) The icebergs",
+        "C) A whale breaching",
+        "D) The sunrise"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕第11条，演讲者说看到小企鹅是'one of the most precious things I've ever seen'（我见过的最珍贵的东西之一）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 213.4,
+      "endTime": 222.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "baby penguin",
+        "precious",
+        "chicks"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What measures are taken to prevent spreading disease according to the video?",
+      "options": [
+        "A) Wearing masks",
+        "B) Walking through disinfecting tubs",
+        "C) Taking medication",
+        "D) Quarantine for 14 days"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第32条，在出行前，游客需要走过消毒池（disinfecting tubs），以确保不会将疾病从一个鸟群传播到另一个鸟群或整个野生动物环境。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 314.8,
+      "endTime": 320.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "disinfecting",
+        "disease",
+        "wildlife"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is Ushuaia known as in the video?",
+      "options": [
+        "A) The capital of Antarctica",
+        "B) The southernmost city in the world",
+        "C) The gateway to Antarctica",
+        "D) A military base"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第44条和第45条，乌斯怀亚（Ushuaia）被称为南极洲的门户（gateway to Antarctica），这是南极探险的起点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 68.4,
+      "endTime": 75,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Ushuaia",
+        "gateway",
+        "Antarctica"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What did the speaker describe as 'like a baby penguin butt'?",
+      "options": [
+        "A) A rock formation",
+        "B) A cloud shape",
+        "C) A little nubby tail of a penguin",
+        "D) An ice formation"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕第15条和第41条，演讲者给小企鹅拍照时，注意到企鹅宝宝有一个小结节状的尾巴（nubby tail），她觉得非常可爱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 222.9,
+      "endTime": 230,
+      "difficulty": "medium",
+      "relatedWords": [
+        "baby penguin",
+        "tail",
+        "cute"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "Why is landing at Brown Bluff mentioned as special?",
+      "options": [
+        "A) It's a volcanic beach",
+        "B) It's an incredible spot with many penguins",
+        "C) It's the only landing site",
+        "D) It's where the ship docks"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第13条，Brown Bluff是一个令人难以置信的地点，有大量的企鹅和其他野生动物，是特别难忘的登陆点之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 193.6,
+      "endTime": 200.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Brown Bluff",
+        "landing",
+        "penguins"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What did the speaker wake up to at 2 a.m.?",
+      "options": [
+        "A) Whale songs",
+        "B) Things sliding in the room",
+        "C) A beautiful aurora",
+        "D) The captain's announcement"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第35条，演讲者在凌晨2点左右醒来，发现房间里的东西开始滑动，这是因为船只摇晃造成的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 105.7,
+      "endTime": 110.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "2 a.m.",
+        "room",
+        "slide"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "How does the speaker describe the crossing of the Drake Passage?",
+      "options": [
+        "A) Very rough and challenging",
+        "B) An easy Drake",
+        "C) Dangerously stormy",
+        "D) Unexpectedly quick"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第24条，演讲者说'we're having a really easy Drake'，表示他们这次德雷克海峡的穿越异常平静，比预想的要容易。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.7,
+      "endTime": 115.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Drake Passage",
+        "easy",
+        "crossing"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker say about penguins as animals?",
+      "options": [
+        "A) They are solitary creatures",
+        "B) They are really social animals",
+        "C) They migrate alone",
+        "D) They are aggressive"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第46条，演讲者说企鹅是'Really social animals'（非常社会化的动物），喜欢互相观察和互动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 252.1,
+      "endTime": 259.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "penguin",
+        "social",
+        "interact"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What do seabirds like to do according to the video?",
+      "options": [
+        "A) Fly ahead of the ship",
+        "B) Follow the wake of the ship",
+        "C) Land on the ship",
+        "D) Avoid the ship entirely"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第28条，一些海鸟喜欢following the wake of the ship（跟随船的尾流），所以它们实际上就在船周围盘旋。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 126.3,
+      "endTime": 131.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "seabirds",
+        "wake",
+        "ship"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What makes the speaker feel giddy according to the video?",
+      "options": [
+        "A) Seeing a whale",
+        "B) Photographing twin penguins",
+        "C) Swimming in the cold water",
+        "D) The submarine ride"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第15条，演讲者说'I was giddy getting this shot'，指的是拍摄到双胞胎企鹅（twins）时的兴奋心情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 222.9,
+      "endTime": 230,
+      "difficulty": "hard",
+      "relatedWords": [
+        "twins",
+        "penguins",
+        "giddy"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What is the Seaborn Venture designed for?",
+      "options": [
+        "A) Scientific research",
+        "B) Luxury expedition",
+        "C) Cargo transport",
+        "D) Fishing"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第12条，Seaborn Venture是一艘luxury expedition ship（豪华探险船），专为南极探险设计。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 601,
+      "endTime": 607.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "luxury",
+        "expedition",
+        "ship"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe your favorite part of an Antarctic expedition and explain why it would be meaningful to you.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生描述南极探险中最喜欢的部分并解释原因。",
+      "referenceAnswer": "1. 描述一个具体的南极景观或活动（如看到企鹅、鲸鱼、冰川等）\n2. 解释为什么这个经历对你有意义\n3. 使用视频中学到的相关词汇和表达\n4. 注意语法准确性和表达的连贯性",
+      "hint": "可以从以下角度展开：野生动物观察（企鹅、鲸鱼）、自然景观（冰川、冰山）、特殊体验（潜艇、冲锋艇）、环境保护意识等",
+      "startTime": 493.3,
+      "endTime": 505.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Antarctica",
+        "expedition",
+        "meaningful"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "If you had the opportunity to visit Antarctica, what wildlife would you most want to see and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生想象如果有机会去南极，最想看到什么野生动物并解释原因。",
+      "referenceAnswer": "1. 选择一种想看到的野生动物（企鹅、鲸鱼、海豹、信天翁等）\n2. 解释选择的原因（外观、行为、稀有性等）\n3. 结合视频中提到的内容进行回答\n4. 表达对自然保护的看法",
+      "hint": "可以结合视频中提到的：humpback whales, orcas, penguins, seals等野生动物展开描述",
+      "startTime": 354.9,
+      "endTime": 364,
+      "difficulty": "medium",
+      "relatedWords": [
+        "wildlife",
+        "penguin",
+        "whale"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "What measures would you take to protect Antarctica's environment while visiting as a tourist?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生讨论作为游客访问南极时可以采取的环保措施。",
+      "referenceAnswer": "1. 列举具体的环保行为（如不喂食野生动物、不带走任何物品、遵守规定路线等）\n2. 解释为什么这些措施重要\n3. 结合视频中提到的消毒程序和环保规定\n4. 表达个人对环境保护的责任感",
+      "hint": "可以参考视频中提到的：disinfecting tubs、not spreading disease、protecting wildlife等环保措施展开",
+      "startTime": 314.8,
+      "endTime": 320.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "protect",
+        "environment",
+        "wildlife"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Compare the experience of traveling to Antarctica with another travel destination you know. What makes Antarctica unique?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生将南极旅行与其他旅行目的地进行比较，说明南极的独特之处。",
+      "referenceAnswer": "1. 简要介绍另一个旅行目的地\n2. 对比两者的主要差异\n3. 重点突出南极的独特之处（极端环境、野生动物、冰雪景观等）\n4. 使用比较级和相关形容词",
+      "hint": "可以从自然景观、野生动物、气候条件、旅行难度等方面进行比较，突出南极作为旅游目的地的独特性",
+      "startTime": 40,
+      "endTime": 57.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Antarctica",
+        "unique",
+        "travel"
+      ]
+    }
+  ]
+}

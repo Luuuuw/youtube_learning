@@ -1,0 +1,553 @@
+{
+  "videoId": "E88wp66j6iE",
+  "title": "adventures of an american living in paris",
+  "generatedAt": "2026-05-07T16:38:19.925Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 10,
+    "hard": 5,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker mean when she describes a certain place as 'lively, busy'?",
+      "options": [
+        "A) The place is quiet and peaceful",
+        "B) The place is full of energy and activity",
+        "C) The place is dangerous and unsafe",
+        "D) The place is closed and empty"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 It's so like lively, busy，lively 意思是充满活力的，busy 意思是繁忙的，这两个词都用来形容某个地方充满生机和热闹的氛围。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 924.9,
+      "endTime": 926.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lively",
+        "busy",
+        "place"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is the speaker describing in the video sponsored by Headspace?",
+      "options": [
+        "A) A fitness workout routine",
+        "B) A guided meditation session",
+        "C) A cooking tutorial",
+        "D) A travel vlog"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 Hi, and welcome to this short guided meditation designed to help bring a moment of calm and clarity，明确提到这是一个引导冥想视频，旨在帮助人们获得平静和清晰的感觉。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 351,
+      "endTime": 357.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "guided meditation",
+        "Headspace",
+        "calm"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "According to the video, how long does the free Headspace trial last?",
+      "options": [
+        "A) 1 month",
+        "B) 2 months",
+        "C) 6 months",
+        "D) 1 year"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 It's 2 months of full free access compared to the standard 2e trial，说明免费试用期的时长是2个月。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 497.6,
+      "endTime": 501.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "free access",
+        "trial",
+        "Headspace"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What color does the speaker say looks good with her brown hair?",
+      "options": [
+        "A) Light blue",
+        "B) Black",
+        "C) Plum (深紫红色)",
+        "D) White"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕 Anything plum looks really good with my brown hair，plum 指深紫红色，李子色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 543,
+      "endTime": 546.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "plum",
+        "brown hair",
+        "color"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What has the speaker been aiming to buy more of recently?",
+      "options": [
+        "A) Light pink clothes",
+        "B) Dark purple items",
+        "C) Green accessories",
+        "D) Yellow dresses"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 So, I've been aiming to buy more dark purple，明确提到她最近想买更多的深紫色单品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 546.6,
+      "endTime": 549.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dark purple",
+        "buying",
+        "aiming"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the word 'chic' mean in the context of the video?",
+      "options": [
+        "A) Cheap and low quality",
+        "B) Stylish and elegant",
+        "C) Old-fashioned",
+        "D) Loud and colorful"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 Girl, it's so chic，结合巴黎的语境，chic 是法语词，意思是优雅、时尚、有品位。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 332.6,
+      "endTime": 337.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chic",
+        "Paris",
+        "fashion"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What product from YSL does the speaker mention?",
+      "options": [
+        "A) A perfume",
+        "B) A candy glaze stick",
+        "C) A lipstick",
+        "D) A foundation"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 Um, the YSL candy glaze stick neutral shade O2，明确提到YSL的糖果光泽笔产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 249.4,
+      "endTime": 253,
+      "difficulty": "medium",
+      "relatedWords": [
+        "YSL",
+        "candy glaze stick",
+        "product"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What do we learn about the speaker's roommate in the video?",
+      "options": [
+        "A) She is visiting from America",
+        "B) She went to a restaurant with the speaker",
+        "C) She is a professional chef",
+        "D) She doesn't live in Paris anymore"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 My roommate and I went to this restaurant together and was really, really good，说明 speaker 和室友一起去了一家餐厅。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 217.4,
+      "endTime": 220.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "roommate",
+        "restaurant",
+        "together"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'regulated' mean in the phrase 'Feel so much more calm and regulated'?",
+      "options": [
+        "A) Confused and lost",
+        "B) Balanced and in control",
+        "C) Tired and sleepy",
+        "D) Excited and happy"
+      ],
+      "answer": "B",
+      "explanation": "在冥想语境中，regulated 指情绪稳定、能够自我调节的状态，与 calm（平静）并列使用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 471.9,
+      "endTime": 475.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "calm",
+        "regulated",
+        "emotions"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the speaker say reduces stress according to the video?",
+      "options": [
+        "A) 1 hour of meditation",
+        "B) 5 minutes of Headspace",
+        "C) 30 minutes of exercise",
+        "D) Drinking coffee"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 And actually, it's been proven that just 5 minutes a day of Headspace reduces stress，说明每天5分钟的Headspace冥想被证明可以减轻压力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 475.5,
+      "endTime": 479.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Headspace",
+        "stress",
+        "5 minutes"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What item does the speaker describe as a 'cute little beach cover up'?",
+      "options": [
+        "A) A scarf",
+        "B) A dress or top for the beach",
+        "C) A pair of shorts",
+        "D) A hat"
+      ],
+      "answer": "B",
+      "explanation": "beach cover up 指海滩防晒罩衫，是去海边时穿在泳装外面的轻薄衣物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 557,
+      "endTime": 558.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "beach cover up",
+        "cute",
+        "fashion"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the speaker obsessed with according to the video?",
+      "options": [
+        "A) Her phone",
+        "B) Her journal",
+        "C) Her job",
+        "D) Her apartment"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 Guys, I'm so obsessed with my journal，说明 speaker 沉迷于/非常喜欢她的日记本。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 506.7,
+      "endTime": 509,
+      "difficulty": "easy",
+      "relatedWords": [
+        "journal",
+        "obsessed",
+        "diary"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the speaker mean when she says 'Bury me in jeans'?",
+      "options": [
+        "A) She wants to be buried wearing jeans",
+        "B) She wants to buy a lot of jeans",
+        "C) She hates jeans",
+        "D) She is giving away jeans"
+      ],
+      "answer": "B",
+      "explanation": "这是一种夸张的表达方式，意思是她非常喜欢牛仔裤，想要买很多牛仔裤把自己埋在里面。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 568.2,
+      "endTime": 570.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "jeans",
+        "bury",
+        "idiom"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the current time mentioned in the video?",
+      "options": [
+        "A) 10:00 AM",
+        "B) 12:30 PM",
+        "C) 3:00 PM",
+        "D) 6:00 PM"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 It's 12:30 now，明确提到了时间是12:30。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 45.5,
+      "endTime": 46.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "time",
+        "12:30",
+        "clock"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker say about the produce at the market?",
+      "options": [
+        "A) It looks bad",
+        "B) It looks expensive",
+        "C) It looks good",
+        "D) It looks old"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕 Look how good the produce looks，说明 speaker 觉得市场的农产品看起来很好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 103.4,
+      "endTime": 105.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "produce",
+        "market",
+        "looks"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the speaker's attitude toward the viewer who says 'You should move here' about Paris?",
+      "options": [
+        "A) She disagrees",
+        "B) She thinks it's too expensive",
+        "C) She finds it flattering and agrees",
+        "D) She is confused"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕 Girl, it's so chic. It's so cute. It's so giving Paris. You should move here，speaker 是在赞美巴黎，并认同应该搬到这里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 332.6,
+      "endTime": 337.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Paris",
+        "move",
+        "chic"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "Why does the speaker mention 'Jaded London' at the beginning?",
+      "options": [
+        "A) She is from London",
+        "B) She recently visited London",
+        "C) She is comparing London to Paris",
+        "D) She lived in London before"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 Jaded London, thank you guys，这很可能是 speaker 之前待过的地方或之前的节目名称，在向观众致谢。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 522.6,
+      "endTime": 524.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Jaded London",
+        "thanks",
+        "audience"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "The speaker talks about her daily meditation practice with Headspace. Based on what you heard, describe a habit or routine you would like to develop to improve your well-being. Explain what it is and why it would be beneficial.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求学生根据视频中提到的冥想习惯，描述自己想要培养的改善身心健康的习惯。",
+      "referenceAnswer": "Should include: 1) A specific habit or routine they want to develop 2) Why it would be beneficial to their well-being 3) How often they would do it",
+      "hint": "Think about healthy habits like exercise, reading, meditation, journaling, or learning a new skill.",
+      "startTime": 475.5,
+      "endTime": 479.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "meditation",
+        "routine",
+        "well-being"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'come up with something' mean in the context of the video?",
+      "options": [
+        "A) Forget something",
+        "B) Find or create something",
+        "C) Give up on something",
+        "D) Put something away"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 I don't know about what, but I'm sure I'll come up with something，come up with 意思是想到、提出、想出（主意、办法等）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 517.9,
+      "endTime": 520.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "come up with",
+        "create",
+        "idea"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "The speaker shows various items she bought or wants to buy, including beauty products and clothes. Describe something you recently purchased that you really like and explain why you chose it.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求学生描述一样最近购买的喜欢的东西并解释选择原因。",
+      "referenceAnswer": "Should include: 1) What item was purchased 2) Why they chose it 3) What they like about it",
+      "hint": "You can talk about clothing, cosmetics, electronics, books, or any other item.",
+      "startTime": 543,
+      "endTime": 549.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "purchase",
+        "like",
+        "shopping"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "Based on the video, what can we infer about the speaker's current living situation?",
+      "options": [
+        "A) She is on vacation in Paris",
+        "B) She lives permanently in Paris",
+        "C) She is visiting Paris for the first time",
+        "D) She hates living in Paris"
+      ],
+      "answer": "B",
+      "explanation": "根据视频标题 adventures of an american living in paris 以及视频内容中提到 home、roommate、daily routine 等，可以推断 speaker 是在巴黎长期居住的美国人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 325.3,
+      "endTime": 326.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "living in Paris",
+        "American",
+        "home"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speaker mentions that she finds a big difference after short 5-minute meditation sessions. Do you think short daily practices can make a difference in someone's life? Give specific reasons for your answer.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语讨论题，要求学生讨论短暂日常练习是否能对生活产生影响。",
+      "referenceAnswer": "Should include: 1) Their opinion on the question 2) At least 2 specific reasons to support their opinion 3) Examples if possible",
+      "hint": "Consider habits like meditation, exercise, reading, or journaling.",
+      "startTime": 467.8,
+      "endTime": 471.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "meditation",
+        "daily practice",
+        "difference"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What is the main purpose of this video according to the content?",
+      "options": [
+        "A) To show tourist attractions in Paris",
+        "B) To promote Headspace meditation app",
+        "C) To teach French lessons",
+        "D) To review YSL products"
+      ],
+      "answer": "B",
+      "explanation": "虽然视频包含多种内容，但有多处明确提到 Headspace 的推广，包括 free trial、sponsor 等，是视频的主要合作方。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 504.1,
+      "endTime": 506.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Headspace",
+        "sponsor",
+        "video"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'reached out' mean in the phrase 'when they reached out, I was like, Hello hi'?",
+      "options": [
+        "A) They called the police",
+        "B) They made contact/approached her",
+        "C) They walked away",
+        "D) They gave her money"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文 when they reached out，应该是指某家公司或品牌联系了她，reach out 在商业语境中常指主动联系、接触。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 524.9,
+      "endTime": 528.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "reached out",
+        "contact",
+        "communication"
+      ]
+    }
+  ]
+}

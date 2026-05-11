@@ -1,0 +1,566 @@
+{
+  "videoId": "NH_Dw0vzrwI",
+  "title": "my 2024 favorites ⋆｡˚ beauty, books & everyday essentials",
+  "generatedAt": "2026-05-07T17:09:36.555Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 5,
+    "medium": 15,
+    "hard": 5,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What benefit of castor oil is mentioned in the video?",
+      "options": [
+        "A) It makes skin whiter",
+        "B) It's super anti-inflammatory",
+        "C) It removes makeup quickly",
+        "D) It cures acne permanently"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到castor oil是一个很好的护肤成分，因为它具有超级抗炎（anti-inflammatory）的特性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 75.6,
+      "endTime": 80.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "castor oil",
+        "anti-inflammatory",
+        "skincare"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the video, what is the speaker's favorite skincare ingredient?",
+      "options": [
+        "A) Vitamin C",
+        "B) Retinol",
+        "C) Hyaluronic acid",
+        "D) Niacinamide"
+      ],
+      "answer": "C",
+      "explanation": "视频明确提到has hyaluronic acid in it, I think that's my favorite skincare ingredient。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 392.6,
+      "endTime": 396.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hyaluronic acid",
+        "skincare ingredient",
+        "favorite"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Where was the speaker born and raised?",
+      "options": [
+        "A) New York City",
+        "B) Los Angeles",
+        "C) Chicago",
+        "D) Boston"
+      ],
+      "answer": "C",
+      "explanation": "视频提到we're back home in Chicago where I was born and raised。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 5.4,
+      "endTime": 9.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Chicago",
+        "born and raised",
+        "home"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the speaker describe herself as?",
+      "options": [
+        "A) A maximalist",
+        "B) A minimalist",
+        "C) An environmentalist",
+        "D) A perfectionist"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到I like to think of myself as a minimalist as in I like to try new things but if I find something。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 41.9,
+      "endTime": 45.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "minimalist",
+        "try new things"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is the SPF level of the Ilia super serum skin tint?",
+      "options": [
+        "A) SPF 30",
+        "B) SPF 40",
+        "C) SPF 50",
+        "D) SPF 60"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到this is the Ilia super serum skin tint with SPF 40。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 330.3,
+      "endTime": 336.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Ilia",
+        "SPF",
+        "skin tint"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What type of product is the Nyx lip liners described as in the video?",
+      "options": [
+        "A) Drugstore brand",
+        "B) Professional makeup",
+        "C) Organic product",
+        "D) Handmade product"
+      ],
+      "answer": "B",
+      "explanation": "视频提到it is the Nyx professional makeup lip liners。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 503.8,
+      "endTime": 508.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Nyx",
+        "lip liners",
+        "professional makeup"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is castor oil NOT mentioned as helpful for according to the video?",
+      "options": [
+        "A) Hair growth",
+        "B) Lashes and brows",
+        "C) Skin inflammation",
+        "D) Weight loss"
+      ],
+      "answer": "D",
+      "explanation": "视频提到castor oil对头发、睫毛、眉毛生长有益处，但没有提到减肥。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 71.4,
+      "endTime": 75.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "castor oil",
+        "hair growth",
+        "lashes"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What are the microfiber makeup removing towels purchased in?",
+      "options": [
+        "A) A 6-pack",
+        "B) A 8-pack",
+        "C) A 10-pack",
+        "D) A 12-pack"
+      ],
+      "answer": "D",
+      "explanation": "视频中提到these on Amazon they came in a 12-pack。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 199.8,
+      "endTime": 205.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "microfiber",
+        "makeup removing towels",
+        "Amazon"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the speaker's current lip product that makes her lips 'sting'?",
+      "options": [
+        "A) Lip balm",
+        "B) Lip plumping oil gloss",
+        "C) Lipstick",
+        "D) Lip mask"
+      ],
+      "answer": "B",
+      "explanation": "视频提到my lips are currently stinging，这是在介绍lip plumping oil gloss时发生的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 410.8,
+      "endTime": 415.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lip plumping",
+        "stinging",
+        "gloss"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What brand is the Flex hairspray from?",
+      "options": [
+        "A) Sephora",
+        "B) Living Proof",
+        "C) Drybar",
+        "D) Schwarzkopf"
+      ],
+      "answer": "B",
+      "explanation": "视频明确提到the name Flex hairspray love living proof。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 598.7,
+      "endTime": 602.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Flex hairspray",
+        "Living Proof"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What problem does the speaker mention having in winter?",
+      "options": [
+        "A) Dry hair",
+        "B) Oily skin",
+        "C) Dry hands",
+        "D) Chapped lips"
+      ],
+      "answer": "C",
+      "explanation": "视频提到I deal with terribly terribly dry hands in the winter。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 227,
+      "endTime": 233.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dry hands",
+        "winter"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker use the makeup removing towels with?",
+      "options": [
+        "A) Cold water",
+        "B) Hot or warm water",
+        "C) No water",
+        "D) Only cleanser"
+      ],
+      "answer": "B",
+      "explanation": "视频提到take it run it under the faucet under some like hot or warm water。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 205.3,
+      "endTime": 210,
+      "difficulty": "medium",
+      "relatedWords": [
+        "microfiber towels",
+        "warm water"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "The speaker says she has been through many bottles of which product?",
+      "options": [
+        "A) Shampoo",
+        "B) Toner",
+        "C) Hair oil",
+        "D) Face cream"
+      ],
+      "answer": "C",
+      "explanation": "视频提到amount of bottles of this I've been through many sizes the original size obsessed，这是在讨论hair oil。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 649.7,
+      "endTime": 654.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "hair oil",
+        "bottles",
+        "obsessed"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the shade name 'Mahogany' mentioned in the video?",
+      "options": [
+        "A) A foundation shade",
+        "B) A concealer shade",
+        "C) A lip liner shade",
+        "D) A blush shade"
+      ],
+      "answer": "C",
+      "explanation": "视频提到check out the shade mahogany，这是在讨论NYX lip liners时提到的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 547.2,
+      "endTime": 551.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Mahogany",
+        "shade",
+        "lip liner"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What kind of hair does the speaker use the Keras Elixir hair oil on?",
+      "options": [
+        "A) Only dry hair",
+        "B) Only wet hair",
+        "C) Dry hair, wet hair, before styling, after styling",
+        "D) Only colored hair"
+      ],
+      "answer": "C",
+      "explanation": "视频提到with this I use it dry hair wet hair before styling after styling you name it。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 579,
+      "endTime": 583.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hair oil",
+        "dry hair",
+        "wet hair"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker say about the Ilia skin tint in terms of coverage?",
+      "options": [
+        "A) Full coverage only",
+        "B) No coverage",
+        "C) Super lightweight but still good coverage",
+        "D) Medium coverage with heavy feeling"
+      ],
+      "answer": "C",
+      "explanation": "视频提到Super lightweight but still good coverage it never leaves me。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 456.4,
+      "endTime": 461.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Ilia",
+        "lightweight",
+        "coverage"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What was the scent of the product mentioned as being in the nightstand drawer?",
+      "options": [
+        "A) Pumpkin spice",
+        "B) Vanilla",
+        "C) Lavender",
+        "D) Rose"
+      ],
+      "answer": "A",
+      "explanation": "视频提到there was like a pumpkin spice scent。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 266.8,
+      "endTime": 272.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "pumpkin spice",
+        "scent",
+        "nightstand"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "According to the video, what problem does castor oil help repair?",
+      "options": [
+        "A) Sunburn",
+        "B) Skin barrier",
+        "C) Dark circles",
+        "D) Wrinkles"
+      ],
+      "answer": "B",
+      "explanation": "视频提到castor oil can act kind of first of all it can repair Your Skin Barrier。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 80.6,
+      "endTime": 84.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "castor oil",
+        "skin barrier",
+        "repair"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What type of concealer is mentioned as the only one used the entire year?",
+      "options": [
+        "A) Drugstore concealer",
+        "B) A specific concealer brand",
+        "C) Cream concealer",
+        "D) Stick concealer"
+      ],
+      "answer": "B",
+      "explanation": "视频提到this is the only concealer I used this entire year，但没有具体说品牌名称。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 406.7,
+      "endTime": 410.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "concealer",
+        "entire year"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe a skincare or beauty product that you discovered this year and explain why you recommend it.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生根据视频主题描述今年发现的美妆或护肤品并说明推荐理由。",
+      "referenceAnswer": "1. 提到产品名称和类型 2. 说明发现途径或使用原因 3. 解释推荐的具体原因（功效、成分、使用感受等） 4. 适合什么肤质或人群",
+      "hint": "Think of a skincare or makeup product you've discovered recently. What makes it special? What problem does it solve for you?",
+      "startTime": 16,
+      "endTime": 20,
+      "difficulty": "medium",
+      "relatedWords": [
+        "skincare",
+        "beauty product",
+        "recommend"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What is your favorite skincare ingredient and why? Explain based on the video context.",
+      "options": [],
+      "answer": "open",
+      "explanation": "口语题，要求考生分享最喜欢的护肤成分并解释原因，可参考视频中提到的透明质酸等成分。",
+      "referenceAnswer": "1. 明确说出最喜欢的护肤成分 2. 解释为什么喜欢（功效、适用肤质等） 3. 描述使用后的效果 4. 推荐给什么类型的皮肤",
+      "hint": "Consider ingredients like hyaluronic acid, vitamin C, retinol, or others you know about. What benefits do they have?",
+      "startTime": 392.6,
+      "endTime": 400,
+      "difficulty": "medium",
+      "relatedWords": [
+        "skincare ingredient",
+        "favorite",
+        "benefit"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speaker describes herself as a 'minimalist.' What do you think this means in the context of beauty products?",
+      "options": [],
+      "answer": "open",
+      "explanation": "口语题，要求考生解释视频中提到的minimalist在美妆产品语境下的含义。",
+      "referenceAnswer": "1. 解释minimalist的含义（追求简单、不频繁更换产品） 2. 结合视频内容说明 3. 分享自己是否是minimalist 4. 讨论这种方式的优缺点",
+      "hint": "Think about whether you like to try many products or stick to a few favorites. Both approaches have their merits.",
+      "startTime": 41.9,
+      "endTime": 48,
+      "difficulty": "hard",
+      "relatedWords": [
+        "minimalist",
+        "beauty products",
+        "try new things"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "If you were to create a 2024 favorites video, what three products would you include and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "口语题，模拟视频中的favorites主题，要求考生设想自己会推荐哪三款产品。",
+      "referenceAnswer": "1. 介绍第一款产品及推荐理由 2. 介绍第二款产品及推荐理由 3. 介绍第三款产品及推荐理由 4. 总结这些产品的共同特点或适用人群",
+      "hint": "Think about products you've loved using this year - they could be skincare, makeup, haircare, or even everyday essentials.",
+      "startTime": 13.5,
+      "endTime": 17.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "favorites",
+        "products",
+        "recommend"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What is the main topic of this video?",
+      "options": [
+        "A) Travel recommendations",
+        "B) 2024 beauty and lifestyle favorites",
+        "C) Cooking recipes",
+        "D) Fitness routine"
+      ],
+      "answer": "B",
+      "explanation": "视频标题明确提到my 2024 favorites, beauty, books & everyday essentials，内容主要是美妆、护肤、护发产品的年度推荐。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0.5,
+      "endTime": 5.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "2024 favorites",
+        "beauty",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does the speaker say about the Keras Elixir hair oil?",
+      "options": [
+        "A) It's too greasy",
+        "B) It's empty and needs repurchase",
+        "C) It's discontinued",
+        "D) It's too expensive"
+      ],
+      "answer": "B",
+      "explanation": "视频提到the Keras Elixir UL team hair oil it's literally it's done for she's empty there's nothing left I've。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 564,
+      "endTime": 569.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Keras Elixir",
+        "hair oil",
+        "empty"
+      ]
+    }
+  ]
+}

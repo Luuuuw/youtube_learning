@@ -1,0 +1,548 @@
+{
+  "videoId": "nBMCZAz1lZo",
+  "title": "thrift with me in NYC 🍸 *my best thrift tips* & try-on haul!",
+  "generatedAt": "2026-05-07T17:35:23.121Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 6,
+    "medium": 13,
+    "hard": 5,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'thrifting' mean in this video context?",
+      "options": [
+        "A) Buying new clothes at regular stores",
+        "B) Buying second-hand clothes at low prices",
+        "C) Selling clothes online",
+        "D) Trading clothes with friends"
+      ],
+      "answer": "B",
+      "explanation": "Thrifting refers to shopping for second-hand items at thrift stores, which is exactly what the creator is doing in this NYC video.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 12,
+      "endTime": 21.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "thrifting",
+        "second-hand",
+        "vintage"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is the main goal the creator mentions for her thrift shopping?",
+      "options": [
+        "A) Finding shoes and bags",
+        "B) Finding sweaters and cardigans",
+        "C) Finding formal dresses",
+        "D) Finding accessories"
+      ],
+      "answer": "B",
+      "explanation": "She explicitly states 'cardigan I need a lot of sweaters so that's the main goal is just sweater sweater sweater'.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 140,
+      "endTime": 144.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sweater",
+        "cardigan",
+        "goal"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Which school is mentioned in the video?",
+      "options": [
+        "A) Parsons School of Design",
+        "B) Fashion Institute of Technology (FIT)",
+        "C) NYU Stern School",
+        "D) Columbia University"
+      ],
+      "answer": "B",
+      "explanation": "She mentions 'I currently go to Fashion Institute of Technology' which is commonly abbreviated as FIT.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 377.6,
+      "endTime": 383.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "FIT",
+        "fashion school",
+        "education"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What colors are mentioned as part of her preferred color palette?",
+      "options": [
+        "A) Bright reds and yellows",
+        "B) Browns, charcoal, gray, black, white, cream",
+        "C) Neon colors only",
+        "D) Pastel pinks and blues"
+      ],
+      "answer": "B",
+      "explanation": "She lists 'browns charcoal gray light gray black and white cream just simple Sleek clothing that I can definitely layer'.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.2,
+      "endTime": 116.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "color palette",
+        "charcoal",
+        "cream"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the creator mean when she says she has become a 'picky shopper'?",
+      "options": [
+        "A) She only shops at expensive stores",
+        "B) She is very selective about what she buys",
+        "C) She refuses to try on clothes",
+        "D) She shops only on weekends"
+      ],
+      "answer": "B",
+      "explanation": "Being a 'picky shopper' means she is very selective and intentional about her purchases, carefully choosing items that match her style and needs.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 562.2,
+      "endTime": 566.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "picky",
+        "selective",
+        "intentional"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Which thrift store is described as having 'the most insanely loud music'?",
+      "options": [
+        "A) Goodwill",
+        "B) Beacon's Closet",
+        "C) Crossroads",
+        "D) Thrift NYC"
+      ],
+      "answer": "C",
+      "explanation": "She mentions entering 'a thrift store and it is the most obnoxiously loud music blasting throughout the store'. Based on context, this appears to be Crossroads.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 319.6,
+      "endTime": 325.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Crossroads",
+        "music",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is the downside mentioned about the brown heels she found?",
+      "options": [
+        "A) They were too expensive",
+        "B) She didn't see a fitting room",
+        "C) The color didn't match her outfit",
+        "D) They were damaged"
+      ],
+      "answer": "B",
+      "explanation": "She says 'downside is I didn't see a fitting room' after showing the brown heels she loved.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 479.9,
+      "endTime": 485.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "fitting room",
+        "heels",
+        "downside"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'layer' mean in the context of her clothing discussion?",
+      "options": [
+        "A) A type of cake",
+        "B) Wearing multiple pieces of clothing on top of each other",
+        "C) A floor in a building",
+        "D) A geological formation"
+      ],
+      "answer": "B",
+      "explanation": "She mentions 'clothing that I can definitely layer', referring to wearing multiple items like a cardigan over a shirt for warmth and style.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.2,
+      "endTime": 116.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "layer",
+        "clothing",
+        "winter"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What feature does the creator like about the gray button-up cardigan she found?",
+      "options": [
+        "A) The color",
+        "B) The pearl buttons",
+        "C) The price",
+        "D) The brand"
+      ],
+      "answer": "B",
+      "explanation": "She specifically mentions 'I really like the Pearl buttons' on the gray cardigan she found.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 510.8,
+      "endTime": 534.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cardigan",
+        "pearl buttons",
+        "gray"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What criticism does she have about a coat she tried on?",
+      "options": [
+        "A) The color was wrong",
+        "B) It was too warm",
+        "C) It was flimsy and not very warm",
+        "D) It was too expensive"
+      ],
+      "answer": "C",
+      "explanation": "She says 'it is like very flimsy I guess you could say it's very thin the sleeves don't keep me warm'.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 617.1,
+      "endTime": 620.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "flimsy",
+        "warm",
+        "coat"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What advice does she give about going thrifting?",
+      "options": [
+        "A) Go without any plan",
+        "B) Go in with a clear vision or mood board",
+        "C) Always buy the first thing you see",
+        "D) Don't try things on"
+      ],
+      "answer": "B",
+      "explanation": "She suggests it's 'smart to go in with a clear vision in mind maybe make a mood board on Pinterest'.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 83.5,
+      "endTime": 87.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "vision",
+        "mood board",
+        "Pinterest"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the difference she mentions between thrift stores and curated vintage stores?",
+      "options": [
+        "A) They sell the same items",
+        "B) Curated vintage stores are more expensive",
+        "C) Thrift stores have higher prices",
+        "D) There's no difference"
+      ],
+      "answer": "B",
+      "explanation": "She mentions 'stores around Manhattan that are mostly secondhand stores they're not like curated vintage stores', implying curated stores tend to be pricier.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 60.3,
+      "endTime": 65.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "curated",
+        "vintage",
+        "secondhand"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What item did she find with a hole in the sleeves that upset her?",
+      "options": [
+        "A) A coat",
+        "B) A sweater",
+        "C) A dress",
+        "D) A jacket"
+      ],
+      "answer": "B",
+      "explanation": "She mentions finding 'holes holes in the sleeves this was the most upsetting thing' when talking about a sweater.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 295.7,
+      "endTime": 301.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hole",
+        "sleeve",
+        "upsetting"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does she mean by 'the world is my oyster'?",
+      "options": [
+        "A) She wants to eat oysters",
+        "B) She has many opportunities to find good items",
+        "C) She's hungry",
+        "D) She only shops at seafood markets"
+      ],
+      "answer": "B",
+      "explanation": "'The world is my oyster' means she has many possibilities and opportunities ahead - in this context, she has many thrift stores to explore.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 159.9,
+      "endTime": 168.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "oyster",
+        "opportunity",
+        "possibilities"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What was special about the location near Crossroads?",
+      "options": [
+        "A) It was next to a beach",
+        "B) It was next to a fashion school",
+        "C) It was next to a hospital",
+        "D) It was next to a park"
+      ],
+      "answer": "B",
+      "explanation": "She mentions 'was next to a fashion school when I got to trying on', referring to Crossroads being near a fashion school.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 213.8,
+      "endTime": 218.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Crossroads",
+        "fashion school",
+        "location"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is her reaction to the coat that complemented her at the end?",
+      "options": [
+        "A) She was embarrassed",
+        "B) She was glowing and beaming with joy",
+        "C) She was indifferent",
+        "D) She refused the compliment"
+      ],
+      "answer": "B",
+      "explanation": "She says 'I'm just like beaming with joy I love it like it was made for me', showing her excitement about the compliment on her coat.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 645.8,
+      "endTime": 649.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "glowing",
+        "joy",
+        "compliment"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does she mean when she says the selection at Crossroads was 'insane'?",
+      "options": [
+        "A) It was frightening",
+        "B) It was extremely good or large",
+        "C) It was terrible",
+        "D) It was at a mental hospital"
+      ],
+      "answer": "B",
+      "explanation": "In informal American English, 'insane' is often used to mean 'extremely good' or 'amazing'. She describes the selection as incredible.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 208.9,
+      "endTime": 213.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "insane",
+        "selection",
+        "Crossroads"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "Why does she mention Uggs when trying on clothes?",
+      "options": [
+        "A) She's advertising for Uggs",
+        "B) She can easily try things on with her winter boots",
+        "C) She wants to buy Uggs",
+        "D) Uggs gave her a sponsorship"
+      ],
+      "answer": "B",
+      "explanation": "She says 'you can try things on easily and see how it would look I'm wearing Uggs', indicating her boots allow her to try on pants and outfits easily.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 438.4,
+      "endTime": 442.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Uggs",
+        "trying on",
+        "boots"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "What are three tips would you give someone who wants to start thrifting for winter clothing?",
+      "options": [],
+      "answer": "open",
+      "explanation": "This is an open-ended question asking the test-taker to provide thrifting advice based on the video content.",
+      "referenceAnswer": "1. Go with a clear vision or mood board\n2. Know your color palette\n3. Look for versatile layering pieces\n4. Check for damage like holes\n5. Try things on when possible\n6. Be patient and visit multiple stores",
+      "hint": "Think about what tips she mentioned in the video - planning, color palette, checking quality, etc.",
+      "startTime": 83.5,
+      "endTime": 116.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "thrifting tips",
+        "winter wardrobe",
+        "advice"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe a time when you found something special while shopping. How did you know it was the right item for you?",
+      "options": [],
+      "answer": "open",
+      "explanation": "This question asks the test-taker to relate to the video's theme of finding special items while shopping.",
+      "referenceAnswer": "Consider mentioning: matching personal style, quality, price, how it fits, emotional connection to the item",
+      "hint": "Think about what made certain items stand out in the video - pearl buttons, perfect fit, color matching",
+      "startTime": 510.8,
+      "endTime": 544.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "shopping experience",
+        "finding items",
+        "personal style"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What factors do you consider when deciding whether to buy second-hand clothing versus new clothing?",
+      "options": [],
+      "answer": "open",
+      "explanation": "This question tests understanding of the video's theme comparing thrifting to buying new.",
+      "referenceAnswer": "Consider: price, quality, sustainability, uniqueness, condition of item, availability of fitting rooms, store selection",
+      "hint": "Think about what she mentioned - price differences between stores, quality of items, being a picky shopper",
+      "startTime": 50.4,
+      "endTime": 56.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "second-hand",
+        "new clothing",
+        "decision making"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "If you could create your ideal winter wardrobe from thrift stores, what colors and items would you look for and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "This question tests comprehension of her color palette and wardrobe preferences discussed in the video.",
+      "referenceAnswer": "Should mention: browns, charcoal, gray, black, white, cream, olive, chocolate - and items like sweaters, cardigans, coats, layering pieces",
+      "hint": "Refer back to her color palette discussion and what she was looking for",
+      "startTime": 106.3,
+      "endTime": 116.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "winter wardrobe",
+        "color palette",
+        "thrift shopping"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'fitting room' refer to?",
+      "options": [
+        "A) A room for fitting carpets",
+        "B) A room in a store to try on clothes",
+        "C) A room for tailor alterations",
+        "D) A fitting for a job interview"
+      ],
+      "answer": "B",
+      "explanation": "A fitting room (also called dressing room) is a private area in a store where customers can try on clothes before purchasing.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 438.4,
+      "endTime": 442.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fitting room",
+        "dressing room",
+        "trying on"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What did she mean when she said her apartment 'heater she's picky with'?",
+      "options": [
+        "A) The heater is broken",
+        "B) Her heater has high standards",
+        "C) She's particular about when the heater runs",
+        "D) The heater is too expensive"
+      ],
+      "answer": "C",
+      "explanation": "This is a playful way of saying she's picky about using the heater (probably to save on heating bills), so she wants warmer clothes.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 676.6,
+      "endTime": 680.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "heater",
+        "picky",
+        "apartment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "videoId": "0EqunhSq-7c",
+  "title": "LA VLOG 🍵 travelling alone, busy days in my life, productivity apps, erewhon & escaping winter blues",
+  "generatedAt": "2026-05-07T12:41:42.768Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 8,
+    "medium": 13,
+    "hard": 3,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the phrase 'popped into' mean in 'I actually popped into a Sephora'?",
+      "options": [
+        "A) Jumped into",
+        "B) Visited briefly",
+        "C) Ran away from",
+        "D) Called"
+      ],
+      "answer": "B",
+      "explanation": "'Popped into' 是一个非正式表达，意思是\"顺道去一下\"、\"短暂访问\"。在这里博主表示她顺便去了丝芙兰逛了一下。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 495.1,
+      "endTime": 499.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "popped into",
+        "Sephora",
+        "informal expression"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is 'Clinique' mentioned in the video?",
+      "options": [
+        "A) A coffee brand",
+        "B) A cosmetics brand",
+        "C) A clothing brand",
+        "D) A fitness app"
+      ],
+      "answer": "B",
+      "explanation": "Clinique（倩碧）是一个知名的美国化妆品品牌。视频中博主说她在丝芙兰买了倩碧的旅行装产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 495.1,
+      "endTime": 499.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Clinique",
+        "cosmetics",
+        "Sephora"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'that would make me feel the best' mean in context?",
+      "options": [
+        "A) That would make me feel the most expensive",
+        "B) That would make me feel the most comfortable",
+        "C) That would make me feel the tallest",
+        "D) That would make me feel the strongest"
+      ],
+      "answer": "B",
+      "explanation": "在这里'feel the best'意思是\"感觉最好\"、\"最舒服\"。博主说她想洗澡因为这会让她感觉更舒服。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 124,
+      "endTime": 127.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "feel the best",
+        "comfortable",
+        "shower"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is a 'combo plate' based on the context?",
+      "options": [
+        "A) A single dish",
+        "B) A set meal with multiple items",
+        "C) A drink combination",
+        "D) A dessert"
+      ],
+      "answer": "B",
+      "explanation": "'Combo plate'通常指组合套餐，包含多种食物。视频中博主提到她点了一个组合盘，价格是20美元。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 293.7,
+      "endTime": 298.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "combo plate",
+        "meal",
+        "restaurant"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'That is really good' refer to in the video?",
+      "options": [
+        "A) The weather",
+        "B) The yogurt",
+        "C) The coffee",
+        "D) The towel"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'Some really nice yogurt, but that's That is really good'，这里的'That'指的是博主提到的非常好吃的酸奶。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 330,
+      "endTime": 342.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "yogurt",
+        "really good",
+        "food"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'scene' mean in 'Air1 is definitely not going to be my scene'?",
+      "options": [
+        "A) A place to take photos",
+        "B) A type of music",
+        "C) Something that suits one's preference",
+        "D) A movie location"
+      ],
+      "answer": "C",
+      "explanation": "'Scene' 在口语中可以指\"风格\"、\"类型\"、\"适合某人的东西\"。博主说Air1不是她的菜，她还是想去看看。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 237.6,
+      "endTime": 240.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "scene",
+        "my scene",
+        "preference"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is 'Monster Pop' based on the context?",
+      "options": [
+        "A) A monster toy",
+        "B) An energy drink",
+        "C) A dessert",
+        "D) A fitness equipment"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文'So much caffeine to have like the Earl is Manner and Monster Pop'，Monster Pop是一种含有咖啡因的能量饮料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 203.6,
+      "endTime": 208.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Monster Pop",
+        "caffeine",
+        "energy drink"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'pretty early in the day' mean?",
+      "options": [
+        "A) Very late at night",
+        "B) Still early morning",
+        "C) About to noon",
+        "D) Early evening"
+      ],
+      "answer": "B",
+      "explanation": "'Pretty early' 表示\"相当早\"，指的是一天中比较早的时间，比如早上或上午。博主说那天还很早。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 103.9,
+      "endTime": 106.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pretty early",
+        "morning",
+        "time"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is 'Soho House' in the video?",
+      "options": [
+        "A) A clothing store",
+        "B) A private members' club",
+        "C) A restaurant chain",
+        "D) A museum"
+      ],
+      "answer": "B",
+      "explanation": "Soho House是一个著名的私人会员俱乐部，在全球多个城市有分店，提供餐饮、社交等设施。视频中博主说去Soho House吃晚餐。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 447.8,
+      "endTime": 458.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Soho House",
+        "dinner",
+        "club"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'decoration' mean in 'There are definitely more decorations here than there are downtown'?",
+      "options": [
+        "A) People",
+        "B) Shop owners",
+        "C) Holiday ornaments and displays",
+        "D) Cars"
+      ],
+      "answer": "C",
+      "explanation": "'Decorations' 指装饰物、装潢。博主在对比不同地区，说这里的装饰比市中心更多。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 380.2,
+      "endTime": 383.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "decorations",
+        "downtown",
+        "compare"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the price of the smoothie mentioned in the video?",
+      "options": [
+        "A) 12 USD",
+        "B) 20 USD",
+        "C) 28 USD",
+        "D) Not mentioned"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'This was 20 USD'，指的是前面提到的希拉里·比伯奶昔的价格是20美元。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 290.2,
+      "endTime": 293.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "20 USD",
+        "smoothie",
+        "price"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'miso black cod' refer to?",
+      "options": [
+        "A) A soup",
+        "B) A fish dish",
+        "C) A dessert",
+        "D) A drink"
+      ],
+      "answer": "B",
+      "explanation": "'Miso black cod'（味噌银鳕鱼）是一道著名的日本料理，将银鳕鱼用味噌腌制后烤制而成。视频中博主提到了这道菜。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 298.2,
+      "endTime": 299.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "miso black cod",
+        "fish",
+        "Japanese food"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'travel size' mean in the context?",
+      "options": [
+        "A) Large size for traveling",
+        "B) Small size for convenient carrying",
+        "C) Size for travel agencies",
+        "D) Expensive size"
+      ],
+      "answer": "B",
+      "explanation": "'Travel size' 指旅行装，即容量较小、方便携带的尺寸。视频中博主说她在丝芙兰买了旅行装的倩碧产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 495.1,
+      "endTime": 499.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "travel size",
+        "Clinique",
+        "product"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'the skies are crystal clear' mean?",
+      "options": [
+        "A) The skies are dark",
+        "B) The skies are very clear and bright",
+        "C) The skies are cloudy",
+        "D) The skies are rainy"
+      ],
+      "answer": "B",
+      "explanation": "'Crystal clear' 意思是\"像水晶一样清澈透明\"，用来形容天气晴朗、天空湛蓝。博主说她很喜欢这次散步，因为天空湛蓝、阳光明媚。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 222.6,
+      "endTime": 227.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "crystal clear",
+        "skies",
+        "weather"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'I'm officially back from my big day out' mean?",
+      "options": [
+        "A) I'm going out now",
+        "B) I've returned from my full day trip",
+        "C) I'm getting ready to leave",
+        "D) I'm still traveling"
+      ],
+      "answer": "B",
+      "explanation": "'Big day out' 指\"充实的外出一天\"。博主说'officially back'，表示她正式结束了一天的外出，回到酒店。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 474.2,
+      "endTime": 487.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "big day out",
+        "back",
+        "officially"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'espresso' mean? It's mentioned as 'Earl is Manner'.",
+      "options": [
+        "A) A type of coffee",
+        "B) A type of tea",
+        "C) A brand name",
+        "D) A dessert"
+      ],
+      "answer": "A",
+      "explanation": "根据上下文推测，'Earl is Manner' 应该是 'Earl Grey'（伯爵茶）和 'espresso'（意式浓缩咖啡）的误听或口语表达。espresso是意式浓缩咖啡。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 203.6,
+      "endTime": 208.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "espresso",
+        "Earl Grey",
+        "coffee"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'makes sense' mean in everyday English?",
+      "options": [
+        "A) Is delicious",
+        "B) Is reasonable or understandable",
+        "C) Is expensive",
+        "D) Is complicated"
+      ],
+      "answer": "B",
+      "explanation": "'Makes sense' 意思是\"有道理\"、\"合理\"、\"可以理解\"。用于表示某件事情符合逻辑或让人理解。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 380.2,
+      "endTime": 383.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "makes sense",
+        "reasonable",
+        "understand"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "Based on the video, what can we infer about the vlogger's shopping habits?",
+      "options": [
+        "A) She only buys expensive items",
+        "B) She enjoys trying different products and brands",
+        "C) She never shops when traveling",
+        "D) She prefers online shopping"
+      ],
+      "answer": "B",
+      "explanation": "从视频中可以看出，博主去了丝芙兰买化妆品，尝试了不同的饮品和餐厅，探索不同的店铺，这表明她喜欢尝试不同的产品和品牌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 495.1,
+      "endTime": 499.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "shopping",
+        "trying",
+        "products"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Describe the vlogger's morning routine and explain why she decided to shower before going out.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放性问题，要求考生根据视频内容描述博主的早晨安排。",
+      "referenceAnswer": "She decided to shower because she always feels disgusting after flying. She mentioned that she has to shower and said 'Long story short, I decided to shower because I feel like that would make me feel the best.' It was still early in the day when she got ready.",
+      "hint": "Use phrases like 'morning routine', 'decided to', 'because she feels', 'make her feel better'",
+      "startTime": 96.6,
+      "endTime": 127.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "shower",
+        "morning routine",
+        "flying"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "The vlogger visited several places in the video. Describe her day out including where she went and what she did.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生复述博主的出行路线和活动。",
+      "referenceAnswer": "Key places she visited include: Sephora (bought Clinique travel size products), tried drinks like the Haley Bieber smoothie and espresso, walked down Fairfax Avenue, visited Air1, tried miso black cod and other food at a restaurant, and had dinner at Soho House. She mentioned 'I hope you guys had fun tagging along with me.'",
+      "hint": "Include places like Sephora, Fairfax Avenue, Air1, restaurant, Soho House and activities like shopping, walking, dining",
+      "startTime": 218.5,
+      "endTime": 495.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "places visited",
+        "day out",
+        "activities"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What did the vlogger buy at Sephora and why might this be useful for travel?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生根据视频内容回答关于购物的问题。",
+      "referenceAnswer": "She bought a travel size Clinique product (makeup remover). The 'travel size' is specifically designed to be small and convenient for carrying while traveling. She also mentioned she forgot her favorite makeup remover at home, so travel size products are practical for trips.",
+      "hint": "Use words like 'travel size', 'Clinique', 'makeup remover', 'convenient for travel'",
+      "startTime": 492.8,
+      "endTime": 499.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Sephora",
+        "travel size",
+        "Clinique",
+        "makeup remover"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does 'in over 12 hours' indicate in 'I just haven't eaten in over 12 hours'?",
+      "options": [
+        "A) Exactly 12 hours",
+        "B) Less than 12 hours",
+        "C) More than 12 hours",
+        "D) About 12 hours"
+      ],
+      "answer": "C",
+      "explanation": "'In over 12 hours' 意思是\"超过12小时\"，即超过12个小时没吃东西。博主说她已经超过12个小时没吃饭了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 235.7,
+      "endTime": 237.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "over 12 hours",
+        "haven't eaten",
+        "time expression"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'brunch' mean? It's related to the time context in the video.",
+      "options": [
+        "A) Breakfast and lunch combined",
+        "B) Early morning meal",
+        "C) Late night snack",
+        "D) Dinner"
+      ],
+      "answer": "A",
+      "explanation": "'Brunch' 是\"早午餐\"，指介于早餐和午餐之间的一餐，通常在周末或较晚的早餐时间吃。视频中提到早上很早和很长时间没吃饭，暗示了可能是在吃早午餐的时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 103.9,
+      "endTime": 235.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "brunch",
+        "breakfast",
+        "lunch"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'tagging along' mean in 'I hope you guys had fun tagging along with me'?",
+      "options": [
+        "A) Taking photos",
+        "B) Following along",
+        "C) Playing games",
+        "D) Shopping together"
+      ],
+      "answer": "B",
+      "explanation": "'Tag along' 意思是\"跟随\"、\"一起同行\"。博主在视频结束时对观众说希望他们跟着她一起逛得很开心，是一种友好的告别方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 489.2,
+      "endTime": 491.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tagging along",
+        "following",
+        "company"
+      ]
+    }
+  ]
+}

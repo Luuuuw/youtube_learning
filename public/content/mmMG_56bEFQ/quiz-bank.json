@@ -1,0 +1,555 @@
+{
+  "videoId": "mmMG_56bEFQ",
+  "title": "Inside Kendall Jenner’s Cozy Mountain Home | Open Door | Architectural Digest",
+  "generatedAt": "2026-05-07T16:58:01.425Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 7,
+    "medium": 12,
+    "hard": 5,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What did Kendall Jenner say about the design approach for her mountain home?",
+      "options": [
+        "A) There were many rules to follow",
+        "B) There were no rules when designing",
+        "C) The design was strictly traditional",
+        "D) She copied other people's designs"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，Kendall说\"I felt like there were no rules when designing\"，表明她在设计这座房子时没有太多限制，自由发挥。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 85,
+      "endTime": 87.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "designing",
+        "rules",
+        "felt like"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the word 'charming' mean in the context of Kendall's description?",
+      "options": [
+        "A) Expensive and luxurious",
+        "B) Attractive and pleasing",
+        "C) Dark and mysterious",
+        "D) Modern and futuristic"
+      ],
+      "answer": "B",
+      "explanation": "charming在描述房间时意为\"吸引人的、迷人的\"，Kendall用这个词形容她想要的感觉。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 404.5,
+      "endTime": 407.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "charming",
+        "cute",
+        "house"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What did Kendall mention about the couch in the living room?",
+      "options": [
+        "A) It's very small and uncomfortable",
+        "B) She filled it for the first time recently",
+        "C) It was bought from a local store",
+        "D) It's made of leather"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说\"the other night I filled the couch for the first time from one end to the other\"，表明她最近才把沙发填满。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 108.9,
+      "endTime": 114,
+      "difficulty": "medium",
+      "relatedWords": [
+        "couch",
+        "filled",
+        "living room"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Which word best describes Kendall's feeling about the fireplace area?",
+      "options": [
+        "A) Scary",
+        "B) Cozy",
+        "C) Boring",
+        "D) Empty"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，Kendall提到\"we have the fireplace which also feels really cozy\"，cozy（温馨舒适）是形容壁炉区域的关键词。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 464.9,
+      "endTime": 481.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fireplace",
+        "cozy",
+        "feels"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What architectural features does Kendall mention about the space?",
+      "options": [
+        "A) Flat ceilings and small windows",
+        "B) Vaulted ceilings and big windows",
+        "C) No windows at all",
+        "D) Underground rooms"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说\"Between the vaulted ceilings and just all the windows and how big it is\"，提到了高拱天花板和大窗户。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 487.8,
+      "endTime": 491.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vaulted ceilings",
+        "windows",
+        "big"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What was Kendall's goal for creating this space?",
+      "options": [
+        "A) A loud party place",
+        "B) A really fun, peaceful place",
+        "C) An office space",
+        "D) A gym"
+      ],
+      "answer": "B",
+      "explanation": "Kendall明确表示\"So, I wanted to create a really fun, peaceful place\"，她的目标是创造一个有趣又宁静的地方。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 248.6,
+      "endTime": 254.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fun",
+        "peaceful",
+        "place"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What do we learn about the piano in the house?",
+      "options": [
+        "A) Kendall plays it professionally",
+        "B) Many friends have played on it",
+        "C) It was imported from Europe",
+        "D) It's broken"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，\"A lot of friends have ended up on this piano\"，说明很多朋友在这架钢琴上弹奏过。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 104.9,
+      "endTime": 107,
+      "difficulty": "medium",
+      "relatedWords": [
+        "piano",
+        "friends",
+        "played"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is Kendall's attitude toward the iron red bed?",
+      "options": [
+        "A) She hates it",
+        "B) She's obsessed with it",
+        "C) She wants to replace it",
+        "D) She finds it uncomfortable"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说\"I'm obsessed with this iron red bed\"，obsessed（着迷）表达了她的喜爱之情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 627.7,
+      "endTime": 630.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "iron red bed",
+        "obsessed"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'sleepy little mountain town' suggest about the location?",
+      "options": [
+        "A) It's a busy city",
+        "B) It's a quiet, relaxed mountain town",
+        "C) It's dangerous at night",
+        "D) It's near the ocean"
+      ],
+      "answer": "B",
+      "explanation": "sleepy town意为\"宁静的小镇\"，暗示这是一个安静、放松的山间小镇。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 275.6,
+      "endTime": 279.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sleepy",
+        "mountain town",
+        "fun"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Where did most of the books on the table come from?",
+      "options": [
+        "A) Online stores",
+        "B) Friends' houses",
+        "C) Locally found",
+        "D) Foreign countries"
+      ],
+      "answer": "C",
+      "explanation": "Kendall说\"most of the books on this table have been found locally\"，书大部分是在当地找到的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 65.8,
+      "endTime": 69.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "books",
+        "locally",
+        "found"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What are the Campbell mugs to Kendall?",
+      "options": [
+        "A) She bought them herself",
+        "B) They were a gift from someone she calls her second mom",
+        "C) They belong to her mother",
+        "D) They are from a famous designer"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说\"My Campbell mugs were a gift from... I call her like my second mom\"，马克杯是她称之为\"第二个妈妈\"的人送的礼物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 279.6,
+      "endTime": 284.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Campbell mugs",
+        "gift",
+        "second mom"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'chintz fabric' refer to in the context?",
+      "options": [
+        "A) A type of wood",
+        "B) A type of printed cotton fabric",
+        "C) A color scheme",
+        "D) A furniture style"
+      ],
+      "answer": "B",
+      "explanation": "chintz是一种印花开司米布料，Kendall提到他们选择了这种织物来装饰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 41.4,
+      "endTime": 43,
+      "difficulty": "hard",
+      "relatedWords": [
+        "chintz fabric",
+        "picked",
+        "design"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What color does Kendall say is one of her favorites in the world?",
+      "options": [
+        "A) Yellow",
+        "B) Blue",
+        "C) Burgundy",
+        "D) Green"
+      ],
+      "answer": "C",
+      "explanation": "Kendall明确表示\"This burgundy color is like one of my favorite colors in the world\"，她是颜色是深红色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 482.3,
+      "endTime": 485.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "burgundy",
+        "favorite",
+        "color"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'childlike self' imply about how Kendall feels in a particular room?",
+      "options": [
+        "A) She feels like a child again",
+        "B) She feels mature",
+        "C) She feels stressed",
+        "D) She feels like a guest"
+      ],
+      "answer": "A",
+      "explanation": "childlike self（童真的自我）暗示Kendall在那个房间里感觉自己又像孩子一样天真快乐。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 437.8,
+      "endTime": 440.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "childlike",
+        "self",
+        "room"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What do the 'vaulted ceilings' refer to?",
+      "options": [
+        "A) Flat roofs",
+        "B) Curved or arched high ceilings",
+        "C) Underground ceilings",
+        "D) Glass ceilings"
+      ],
+      "answer": "B",
+      "explanation": "vaulted ceilings指的是拱形或高耸的天花板，是建筑中常见的特色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 487.8,
+      "endTime": 491.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "vaulted",
+        "ceilings",
+        "windows"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does Kendall say about the exterior of the house?",
+      "options": [
+        "A) It looks complicated",
+        "B) It feels really simple and clean",
+        "C) It looks old and rusty",
+        "D) It looks like a castle"
+      ],
+      "answer": "B",
+      "explanation": "Kendall描述房子外观\"the house feels really simple and really clean\"，外部看起来简洁干净。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 673.9,
+      "endTime": 677.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "outside",
+        "simple",
+        "clean"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What was Kendall's experience with bidding online for house pieces?",
+      "options": [
+        "A) She gave up immediately",
+        "B) She had the best time finding pieces",
+        "C) She didn't trust online shopping",
+        "D) She only bought from stores"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说\"I had the best time bidding online and finding a couple pieces for the house\"，表明她很享受在线竞标寻找家具的过程。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 386,
+      "endTime": 389.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bidding online",
+        "finding pieces",
+        "best time"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does the phrase 'come to life' mean in this context?",
+      "options": [
+        "A) Start walking",
+        "B) Become alive or animated",
+        "C) Die",
+        "D) Leave the house"
+      ],
+      "answer": "B",
+      "explanation": "\"come to life\"意为\"变得生动、鲜活\"，形容事物变得有活力，这里指房子焕发活力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 610,
+      "endTime": 612.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "come to life",
+        "moment",
+        "fingers crossed"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Describe Kendall Jenner's design philosophy for her mountain home based on what she said about 'no rules'. Use your own words to explain.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生用自己的话描述Kendall的设计理念。",
+      "referenceAnswer": "Kendall mentioned that she felt there were no rules when designing her mountain home. This suggests she approached the design with freedom and creativity, not following strict guidelines or traditional constraints. She wanted to create a space that felt personal and unique to her vision.",
+      "hint": "Think about: What does \"no rules\" suggest about creativity? What kind of atmosphere would this create?",
+      "startTime": 85,
+      "endTime": 87.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "design",
+        "rules",
+        "freedom",
+        "creativity"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What does the house tell us about Kendall Jenner's personal style and taste? Explain your answer based on the video content.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生根据视频内容分析Kendall的个人风格和审美。",
+      "referenceAnswer": "From the video, we can see Kendall enjoys: 1) Cozy and comfortable spaces (cozy couch, fireplace), 2) Personal touches (Campbell mugs from her second mom, books found locally), 3) Bold colors (burgundy, red bed), 4) Unique furniture (custom red ladder, piano), 5) Connection to nature (mountain town setting). Her style blends comfort with personal memories and bold color choices.",
+      "hint": "Consider: What colors does she mention? What personal items does she show? How would you describe the overall vibe?",
+      "startTime": 23,
+      "endTime": 50.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "personal style",
+        "taste",
+        "cozy",
+        "colors"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "If you were designing your dream home, what elements from Kendall's house would you want to incorporate and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生想象自己设计梦想之家并借鉴Kendall house的元素。",
+      "referenceAnswer": "Possible elements to mention: 1) Vaulted ceilings and big windows for openness, 2) Fireplace for coziness, 3) Large comfy couch for gathering, 4) Personal items and gifts that tell a story, 5) Local finds for character, 6) Bold color choices like burgundy, 7) Unique pieces found through online bidding. Explain why each element would enhance your living space.",
+      "hint": "Think about: What makes a house feel like home? Which features appeal to you most?",
+      "startTime": 33.7,
+      "endTime": 38.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "dream home",
+        "design",
+        "incorporate",
+        "elements"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the 'custom red ladder' serve as in the house?",
+      "options": [
+        "A) A toy for children",
+        "B) A decorative and functional piece",
+        "C) A door handle",
+        "D) A lamp"
+      ],
+      "answer": "B",
+      "explanation": "custom red ladder是定制红色的梯子，在房子里既作为装饰品也有实用功能。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 543.5,
+      "endTime": 544.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "custom red ladder",
+        "decorative",
+        "functional"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does Kendall mean when she says the house is 'semi-experimental'?",
+      "options": [
+        "A) It's completely traditional",
+        "B) It's partly experimental or trying new things",
+        "C) It's unfinished",
+        "D) It's abandoned"
+      ],
+      "answer": "B",
+      "explanation": "semi-experimental意为\"半实验性的\"，表明这座房子在设计上部分是实验性的，尝试了一些新的东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 78.1,
+      "endTime": 82.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "semi-experimental",
+        "design",
+        "fun"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "How does Kendall describe the bathroom she 'adores'?",
+      "options": [
+        "A) It's small and cramped",
+        "B) It turned out beautifully",
+        "C) It needs more work",
+        "D) It's too dark"
+      ],
+      "answer": "B",
+      "explanation": "Kendall说\"I adore this bathroom\"，并且认为它\"turned out so beautifully\"，表明她非常喜欢这个浴室，觉得它非常漂亮。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 559,
+      "endTime": 567.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bathroom",
+        "adore",
+        "beautiful"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "videoId": "pUBbIjDrr8g",
+  "title": "My Solo Trip to Switzerland 🇨🇭 one week in the swiss alps travel vlog ⛰️",
+  "generatedAt": "2026-05-07T17:24:36.906Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 8,
+    "medium": 13,
+    "hard": 3,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'car-free town' mean in this context?",
+      "options": [
+        "A) A town without any vehicles allowed inside",
+        "B) A town where cars are not for rent",
+        "C) A town with limited parking spaces",
+        "D) A town that sells cars at cheap prices"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕内容，Miran是一个car-free town（无车小镇），这意味着镇上不允许车辆行驶，只有楼梯或坡道。游客只能步行或使用其他非机动车方式出行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 350.7,
+      "endTime": 363.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "car-free",
+        "town",
+        "vehicle"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'risk-free' mean in the context of the flight booking?",
+      "options": [
+        "A) The flight might be cancelled",
+        "B) There is no financial risk if not accepted",
+        "C) The flight is guaranteed to be safe",
+        "D) There are no safety concerns on the flight"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到如果你的申请没有被接受，你不需要支付任何额外费用，只需保留原价票。这说明这个预订选项是没有财务风险的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 101.1,
+      "endTime": 104.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "risk-free",
+        "accepted",
+        "fare"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Why did the speaker decide to stay in Miran?",
+      "options": [
+        "A) Because it's the cheapest place",
+        "B) Because it's less crowded as a car-free town",
+        "C) Because it has the best restaurants",
+        "D) Because it's close to the airport"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到：I decided to stay in Miran this time because it's a car-free town, so it's less crowded. 这解释了选择Miran的原因。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 444.7,
+      "endTime": 452.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Miran",
+        "car-free",
+        "crowded"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'overstimulated' mean in this context?",
+      "options": [
+        "A) Very excited and energetic",
+        "B) Feeling overwhelmed by too many sensations",
+        "C) Extremely happy and content",
+        "D) Fully focused on one thing"
+      ],
+      "answer": "B",
+      "explanation": "当作者说I was getting so overstimulated时，是指在走了一段时间后，感官受到了太多刺激而感到疲惫不堪，需要转身回去。这是一个描述感官过载的词汇。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 899.7,
+      "endTime": 905.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "overstimulated",
+        "sensory",
+        "tired"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is a 'trail' in hiking context?",
+      "options": [
+        "A) A type of food for hiking",
+        "B) A marked path for walking/hiking",
+        "C) A vehicle for mountain travel",
+        "D) A rest area with benches"
+      ],
+      "answer": "B",
+      "explanation": "在徒步旅行的语境中，trail指的是徒步小径、山路。视频中多次提到trails，如shorter versions of trails that lead you to the same destination。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 704.2,
+      "endTime": 711.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "trail",
+        "hiking",
+        "path"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'reflection' mean in 'we will see a reflection'?",
+      "options": [
+        "A) Thinking deeply about something",
+        "B) The image seen in water/mirror",
+        "C) A story about the past",
+        "D) A second attempt at something"
+      ],
+      "answer": "B",
+      "explanation": "在描述山景时，reflection指的是倒影。视频中说going to take us straight up to the lake where we will see a reflection，意思是在湖边可以看到山景的倒影。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1547.5,
+      "endTime": 1547.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "reflection",
+        "lake",
+        "view"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'stumbled upon' mean in this context?",
+      "options": [
+        "A) Planned to visit deliberately",
+        "B) Found something by accident",
+        "C) Got lost while looking for",
+        "D) Decided to avoid something"
+      ],
+      "answer": "B",
+      "explanation": "stumbled upon意思是偶然发现、意外遇到。视频中说I stumbled upon this gift shop，意思是她原本没有计划去那个礼品店，但是偶然发现了它。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 531,
+      "endTime": 531,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stumbled upon",
+        "discovered",
+        "accident"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'heading to the trail head' mean?",
+      "options": [
+        "A) Leaving the trail completely",
+        "B) Starting to walk on the trail",
+        "C) Returning from the trail",
+        "D) Looking for the trail on a map"
+      ],
+      "answer": "B",
+      "explanation": "trail head指的是徒步路线的起点/入口。heading to the trail head意思是朝徒步路线的起点走去，准备开始徒步。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 625.2,
+      "endTime": 638.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "trail head",
+        "hiking",
+        "starting"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'highlight' mean in 'one of the highlights of my trip'?",
+      "options": [
+        "A) The most difficult part",
+        "B) The most interesting or memorable part",
+        "C) The cheapest part",
+        "D) The longest part"
+      ],
+      "answer": "B",
+      "explanation": "highlight在这里指的是旅行中最精彩、最令人难忘的部分。作者说Main成为了她旅程的亮点之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 991.9,
+      "endTime": 998.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "highlight",
+        "memorable",
+        "trip"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'fully developed frontal' refer to in the context of turning 26?",
+      "options": [
+        "A) Physical appearance",
+        "B) Brain development (frontal lobe)",
+        "C) Financial status",
+        "D) Social skills"
+      ],
+      "answer": "B",
+      "explanation": "这是关于大脑发育的幽默说法。额叶（frontal lobe）通常在25岁左右才完全发育成熟。作者在26岁时说自己终于拥有了完全发育的额叶，是一种自嘲。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 37.4,
+      "endTime": 40.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "frontal",
+        "brain",
+        "development"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "speaking",
+      "question": "Describe a time when you got lost during a trip and how you handled it.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放式口语题，要求考生根据自身经历描述一次旅行中迷路的经历及解决办法。",
+      "referenceAnswer": "考生应描述：1) 迷路的地点和情况 2) 当时的感受 3) 如何找到方向或求助 4) 从中学到了什么",
+      "hint": "Try to include: where you were, how you felt, what you did to find your way, and what you learned from the experience.",
+      "startTime": 207.6,
+      "endTime": 212.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lost",
+        "trip",
+        "navigation"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'Baby steps' mean in this context?",
+      "options": [
+        "A) Walking with a baby",
+        "B) Taking small, gradual progress",
+        "C) Going backwards slowly",
+        "D) Making quick decisions"
+      ],
+      "answer": "B",
+      "explanation": "Baby steps是一个习语，意思是小步前进、循序渐进。作者用这个词来表示她正在慢慢尝试新事物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 186.5,
+      "endTime": 194.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "baby steps",
+        "progress",
+        "gradual"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the main transportation option mentioned for getting around Miran?",
+      "options": [
+        "A) Cars and taxis",
+        "B) Bicycles only",
+        "C) Walking on stairs or ramps",
+        "D) Buses and trams"
+      ],
+      "answer": "C",
+      "explanation": "因为Miran是无车小镇（car-free town），所以主要交通方式是步行，可以使用楼梯或坡道。视频中明确提到：Stairs or ramp?",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 350.7,
+      "endTime": 363.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "stairs",
+        "ramp",
+        "walking"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'make this the healthy decision' imply?",
+      "options": [
+        "A) Choosing to eat unhealthy food",
+        "B) Choosing a healthier option",
+        "C) Going to the doctor",
+        "D) Doing more exercise"
+      ],
+      "answer": "B",
+      "explanation": "在视频中，作者在选择食物时说I'm going to make this the healthy decision，意思是选择更健康的选择。这是一个关于饮食选择的情境表达。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1259.4,
+      "endTime": 1259.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "healthy",
+        "decision",
+        "choice"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "speaking",
+      "question": "What do you usually do to prepare for a hiking trip? Please describe your preparation process.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放式口语题，要求考生描述徒步旅行前的准备工作。",
+      "referenceAnswer": "考生应描述：1) 需要准备的物品（如水、食物、地图、合适的鞋子） 2) 了解路线和天气 3) 告知他人行程 4) 身体准备",
+      "hint": "You can mention: packing essentials (water, snacks, proper shoes), checking the route, informing someone about your plans, and physical warm-up.",
+      "startTime": 667.8,
+      "endTime": 667.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hiking",
+        "preparation",
+        "trip"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "Why did the speaker say 'Switzerland is not for the week'?",
+      "options": [
+        "A) Switzerland is only open on weekdays",
+        "B) One week is not enough time to explore Switzerland",
+        "C) You need at least a month to see Switzerland",
+        "D) Switzerland is too expensive for a week trip"
+      ],
+      "answer": "B",
+      "explanation": "这是一个感叹，表达一周的时间不足以充分体验瑞士。作者在经历了一次散步后感到疲惫，发出了这样的感叹，表达瑞士幅员辽阔值得更多时间探索。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 556.8,
+      "endTime": 568.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "exhausted",
+        "Switzerland",
+        "week"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'connect to' mean in 'Main is also the connect to Grindlevald'?",
+      "options": [
+        "A) To disconnect from",
+        "B) To serve as a link or gateway to",
+        "C) To be similar to",
+        "D) To be far away from"
+      ],
+      "answer": "B",
+      "explanation": "connect to在这里意思是连接、连通。Main是瑞士的一个山峰，也是前往Grindlewald的连接点/中转站。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 988.3,
+      "endTime": 991.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "connect",
+        "Main",
+        "Grindlevald"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is a 'balcony' and why does the speaker prefer hotels with balconies in the Swiss Alps?",
+      "options": [
+        "A) A small kitchen in the hotel",
+        "B) An outdoor space to enjoy the view",
+        "C) A bathroom with a window",
+        "D) A meeting room for guests"
+      ],
+      "answer": "B",
+      "explanation": "balcony是阳台。在瑞士阿尔卑斯山这样风景优美的地方，作者喜欢订有阳台的酒店，以便能欣赏外面的美景。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1315.4,
+      "endTime": 1319.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "balcony",
+        "view",
+        "hotel"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'gliding' refer to in 'I see somebody gliding outside'?",
+      "options": [
+        "A) Swimming",
+        "B) Paragliding / hang gliding",
+        "C) Running very fast",
+        "D) Riding a bicycle"
+      ],
+      "answer": "B",
+      "explanation": "在瑞士阿尔卑斯山的语境中，gliding指的是滑翔（可能是滑翔伞）。作者在山上看到有人在外面滑翔，这是一个常见的极限运动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 812.5,
+      "endTime": 822.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "gliding",
+        "paragliding",
+        "mountain"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What do you think is the best season to visit the Swiss Alps and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放式口语题，要求考生分析去瑞士阿尔卑斯山的最佳季节。",
+      "referenceAnswer": "考生可以从以下角度回答：1) 冬季（滑雪、欣赏雪景） 2) 夏季（徒步、登山） 3) 春秋季（人少、色彩丰富）并解释原因",
+      "hint": "Consider factors like weather, activities available, crowds, and what you want to experience.",
+      "startTime": 1463.4,
+      "endTime": 1463.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Swiss Alps",
+        "season",
+        "travel"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does 'the whole way' mean in 'one road that you walk down for the whole time'?",
+      "options": [
+        "A) Only part of the journey",
+        "B) The entire journey from start to finish",
+        "C) A very short distance",
+        "D) A circular route"
+      ],
+      "answer": "B",
+      "explanation": "the whole way意思是全程、整个路段。作者在描述一条路时说you walk down for the whole time，意思是这条路人可以一直走到底。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 483.8,
+      "endTime": 493,
+      "difficulty": "easy",
+      "relatedWords": [
+        "whole way",
+        "road",
+        "walking"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does 'figure out' mean in 'figure out how to use the coffee maker'?",
+      "options": [
+        "A) To forget how to use",
+        "B) To understand or learn how to use",
+        "C) To break the coffee maker",
+        "D) To avoid using"
+      ],
+      "answer": "B",
+      "explanation": "figure out是一个常用短语，意思是弄清楚、理解、学会使用。作者说要学会使用咖啡机来烧水。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1436.8,
+      "endTime": 1444.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "figure out",
+        "coffee maker",
+        "use"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What is the speaker's attitude towards the restaurant car experience?",
+      "options": [
+        "A) Very disappointed",
+        "B) Indifferent",
+        "C) Happy but the ride was short",
+        "D) Angry about the service"
+      ],
+      "answer": "C",
+      "explanation": "作者说I also got to ride in the restaurant car for the first time, but the ride was kind of...（省略了内容，可能是short或quick），表达了第一次坐餐车的愉快体验，但同时也暗示旅程比较短暂。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 324.3,
+      "endTime": 327.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "restaurant car",
+        "first time",
+        "ride"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "If you had $50 for a meal while traveling, what would you choose to eat and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放式口语题，要求考生假设在旅行中有50美元用于一顿饭，会如何选择。",
+      "referenceAnswer": "考生可以描述：1) 会选择什么类型的食物 2) 为什么这个选择对她/他有意义 3) 是否会考虑当地特色或营养价值",
+      "hint": "Think about local cuisine, nutritional value, personal preferences, and whether it's a special occasion.",
+      "startTime": 1112.8,
+      "endTime": 1112.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "meal",
+        "travel",
+        "choice"
+      ]
+    }
+  ]
+}

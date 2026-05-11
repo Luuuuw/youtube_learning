@@ -1,0 +1,569 @@
+{
+  "videoId": "HR61Hwt2qUA",
+  "title": "what I EAT in a busy week in NYC | high protein & balanced recipes",
+  "generatedAt": "2026-05-07T16:47:31.631Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 8,
+    "medium": 14,
+    "hard": 3,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'a rotation of different meals' mean in this context?",
+      "options": [
+        "A) A cycle of repeating the same meal",
+        "B) A variety of different meals that replace each other",
+        "C) A circular arrangement of food",
+        "D) A combination of meals mixed together"
+      ],
+      "answer": "B",
+      "explanation": "在这个上下文中，'rotation'指的是轮换、交替的意思。视频中作者说早餐有不同的餐点轮换，意味着她每天会吃不同的早餐，而不是总吃同一种。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 121,
+      "endTime": 125.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "rotation",
+        "meals",
+        "different"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'time consuming' mean in the video?",
+      "options": [
+        "A) Saving time",
+        "B) Taking a lot of time",
+        "C) Being on time",
+        "D) Telling time"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到制作胡萝卜沙拉时切胡萝卜比较耗时。'Time consuming'是一个形容词，意思是耗费时间的、需要花很长时间的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 320.3,
+      "endTime": 325.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "time consuming",
+        "easy to make"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is 'feta cheese' mentioned in the video?",
+      "options": [
+        "A) A type of bread",
+        "B) A Greek cheese made from sheep's milk",
+        "C) A French butter",
+        "D) An Italian sauce"
+      ],
+      "answer": "B",
+      "explanation": "视频中多次提到在鸡蛋和沙拉中添加feta cheese（羊奶酪）。Feta是一种传统的希腊奶酪，由羊奶制成，通常呈白色块状，味道略带咸味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 97.6,
+      "endTime": 101,
+      "difficulty": "medium",
+      "relatedWords": [
+        "feta cheese",
+        "melts",
+        "chopped chives"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'on a whim' mean in this context?",
+      "options": [
+        "A) After careful planning",
+        "B) Suddenly or without much thought",
+        "C) In a serious manner",
+        "D) With strong determination"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'decided to add some' on a whim，表示作者一时兴起、突发奇想地添加了某些食材。这个短语意思是凭冲动或突然的想法做某事。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 911.5,
+      "endTime": 915.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "whim",
+        "boiled eggs",
+        "difference"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is 'kimchi' as mentioned in the video?",
+      "options": [
+        "A) A Korean fermented vegetable dish",
+        "B) A Japanese rice dish",
+        "C) A Chinese noodle soup",
+        "D) An Italian pasta"
+      ],
+      "answer": "A",
+      "explanation": "视频中提到you take a good amount of kimchi，kimchi是韩国泡菜，是一种传统的韩国发酵食品，通常由白菜或萝卜腌制而成，含有益生菌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1141,
+      "endTime": 1146.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "kimchi",
+        "probiotics",
+        "chop"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'incorporates into' mean in the sentence?",
+      "options": [
+        "A) Separates from",
+        "B) Mixes or blends into",
+        "C) Removes from",
+        "D) Opposes"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'incorporates into the eggs well'，意思是很好地融入到鸡蛋中。这个短语表示将某物混合或纳入到另一物中，使其成为整体的一部分。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 101,
+      "endTime": 106.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "incorporates",
+        "eggs",
+        "toasted bread"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'refreshing' mean when describing a dish?",
+      "options": [
+        "A) Making someone tired",
+        "B) Pleasant and cooling",
+        "D) Extremely hot",
+        "C) Very salty"
+      ],
+      "answer": "B",
+      "explanation": "视频中it is very refreshing表示这道菜非常清爽。Refreshing通常用来形容食物或饮料给人清新、提神的感觉，特别是在炎热天气或吃完油腻食物后。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 320.3,
+      "endTime": 325.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "refreshing",
+        "easy to make"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'ribboning the carrots' refer to?",
+      "options": [
+        "A) Cutting carrots into thin strips",
+        "B) Making carrot juice",
+        "C) Cooking carrots in soup",
+        "D) Peeling carrots"
+      ],
+      "answer": "A",
+      "explanation": "视频中提到the most time consuming part was ribboning the carrots。Ribboning是一种切菜技法，将胡萝卜切成细长的条状，看起来像丝带一样。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 287.5,
+      "endTime": 293,
+      "difficulty": "hard",
+      "relatedWords": [
+        "ribboning",
+        "carrots",
+        "time consuming"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the speaker's usual seasoning for chicken thighs?",
+      "options": [
+        "A) Garlic powder",
+        "B) Trader Joe's onion salt",
+        "C) Black pepper only",
+        "D) Lemon juice"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到with some chicken thighs that I seasoned with my usual Trader Joe's onion salt，作者说她用Trader Joe's的洋葱盐来腌制鸡腿肉。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 236.1,
+      "endTime": 241.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "chicken thighs",
+        "Trader Joe's",
+        "onion salt"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'a mix of' mean in this context?",
+      "options": [
+        "A) One single item",
+        "B) A combination of different things",
+        "C) A separate arrangement",
+        "D) An opposite pair"
+      ],
+      "answer": "B",
+      "explanation": "视频开头说a mix of scrambled eggs with different ingredients，意思是将不同配料与炒鸡蛋混合在一起。'A mix of'表示混合、组合的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 70.4,
+      "endTime": 76.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "mix",
+        "scrambled eggs",
+        "ingredients"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is 'probiotics' mentioned in the video?",
+      "options": [
+        "A) Artificial sweeteners",
+        "B) Live beneficial bacteria for gut health",
+        "C) Protein supplements",
+        "D) Artificial food coloring"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到your probiotics nice and early，probiotics是益生菌，是对健康有益的活菌，主要存在于发酵食品中，有助于肠道健康。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1193.8,
+      "endTime": 1199.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "probiotics",
+        "kimchi",
+        "morning"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'crispy lettuce' refer to?",
+      "options": [
+        "A) Cooked lettuce",
+        "B) Fresh and crunchy lettuce",
+        "C) Wilted lettuce",
+        "D) Frozen lettuce"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到I plated everything on a bed of crispy lettuce，crispy lettuce指新鲜脆爽的生菜，通常用于沙拉或作为盘底装饰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1058.9,
+      "endTime": 1064.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "crispy lettuce",
+        "topped",
+        "bed"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'come together' mean in cooking context?",
+      "options": [
+        "A) Arrive at the location",
+        "B) Be combined and ready",
+        "C) Start cooking",
+        "D) Fall apart"
+      ],
+      "answer": "B",
+      "explanation": "视频中说came together quite quickly，意思是这道菜很快就做好了/食材很快就融合在一起。这个短语在烹饪中表示食材准备就绪或菜品制作完成。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 287.5,
+      "endTime": 293,
+      "difficulty": "medium",
+      "relatedWords": [
+        "came together",
+        "quickly",
+        "carrots"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the speaker's attitude toward the carrot salad recipe?",
+      "options": [
+        "A) She thinks it's too complicated",
+        "B) She has been wanting to make it for a while",
+        "C) She doesn't like raw carrots",
+        "D) She finds it boring"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到I've been wanting to make this carrot salad recipe，作者说她一直想做这个胡萝卜沙拉食谱，表达了对这道菜的期待。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 217,
+      "endTime": 225.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "carrot salad",
+        "recipe",
+        "raw"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'skeptical' mean in the video?",
+      "options": [
+        "A) Very confident",
+        "B) Doubtful or uncertain",
+        "C) Extremely excited",
+        "D) Completely satisfied"
+      ],
+      "answer": "B",
+      "explanation": "视频中说I'm skeptical that it might not be good，意思是作者对这食物持怀疑态度，觉得它可能没那么好吃。Skeptical表示怀疑的、不确定的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 937.4,
+      "endTime": 943.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "skeptical",
+        "amazing",
+        "packed"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What kind of protein dish is mentioned for lunch?",
+      "options": [
+        "A) Fish",
+        "B) Chicken thighs",
+        "C) Tofu",
+        "D) Beef steak"
+      ],
+      "answer": "B",
+      "explanation": "视频中多次提到鸡肉大腿作为蛋白质来源，特别是用Trader Joe's洋葱盐调味的鸡腿肉，是午餐的主要蛋白质来源。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 246.8,
+      "endTime": 253.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "chicken thighs",
+        "protein",
+        "pepper"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'get started on' mean in this context?",
+      "options": [
+        "A) Finish doing something",
+        "B) Begin working on something",
+        "C) Avoid doing something",
+        "D) Forget about something"
+      ],
+      "answer": "B",
+      "explanation": "视频中I got started on those early表示作者很早就开始做那些事情（可能是牛排或其他食材）。这个短语意思是开始着手做某事。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1640.1,
+      "endTime": 1644.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "started",
+        "early",
+        "steak"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'in terms of' mean when used in the video?",
+      "options": [
+        "A) Regarding or concerning",
+        "B) At the end of",
+        "C) Instead of",
+        "D) Because of"
+      ],
+      "answer": "A",
+      "explanation": "视频中说in terms of like slicing the carrots，意思是关于切胡萝卜这方面。'In terms of'是一个短语，意思是就...而言、在...方面。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 325.1,
+      "endTime": 334.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "terms of",
+        "slicing",
+        "carrots"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What is 'boiled eggs' in the video?",
+      "options": [
+        "A) Fried eggs",
+        "B) Eggs cooked in boiling water",
+        "C) Scrambled eggs",
+        "D) Raw eggs"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到of your boiled eggs，boiled eggs就是水煮蛋，是把鸡蛋放在沸水中煮熟的一种烹饪方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 906.6,
+      "endTime": 911.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "boiled eggs",
+        "feta",
+        "chives"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe your typical high-protein breakfast based on what you learned from the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频内容描述典型的高蛋白早餐。",
+      "referenceAnswer": "Include: 1) Scrambled eggs or protein pancake 2) Added ingredients like feta cheese, chives 3) Toast on the side 4) Rotation of different meals",
+      "hint": "Think about: What protein foods were mentioned? How were they prepared? What toppings or sides were added?",
+      "startTime": 70.4,
+      "endTime": 106.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "scrambled eggs",
+        "protein",
+        "breakfast"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What are some tips mentioned in the video for making a good carrot salad?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频内容描述制作胡萝卜沙拉的技巧。",
+      "referenceAnswer": "Include: 1) Ribboning the carrots (cutting into thin strips) 2) Using vinegar and hot water 3) Dressing with hands for best taste 4) Adding green onions",
+      "hint": "Consider: What specific techniques were used? What ingredients were added? How long did it take?",
+      "startTime": 287.5,
+      "endTime": 320.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "carrot salad",
+        "ribboning",
+        "vinegar"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What does the speaker recommend for adding flavor to dishes?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频内容描述增加菜肴风味的建议。",
+      "referenceAnswer": "Include: 1) Using Trader Joe's onion salt for chicken 2) Adding feta cheese 3) Putting salt and pepper on top 4) Adding chopped chives",
+      "hint": "Think about: What seasonings and toppings were mentioned? Which ingredients were emphasized?",
+      "startTime": 236.1,
+      "endTime": 253.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "seasoning",
+        "flavor",
+        "feta cheese"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "If you were planning a week's worth of high-protein meals in NYC, what would you include based on this video?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频内容规划一周的高蛋白餐食。",
+      "referenceAnswer": "Include: 1) Breakfast options: scrambled eggs, protein pancakes 2) Lunch: chicken thighs with seasoning, carrot salad 3) Snacks: kimchi, boiled eggs 4) At farmers market: fresh tomatoes",
+      "hint": "Consider: What meals were shown? What ingredients were purchased? What recipes were highlighted?",
+      "startTime": 121,
+      "endTime": 320.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "high protein",
+        "NYC",
+        "recipes"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'a must' mean in the video when talking about the tuna?",
+      "options": [
+        "A) Something forbidden",
+        "B) Something unnecessary",
+        "C) Something essential or required",
+        "D) Something optional"
+      ],
+      "answer": "C",
+      "explanation": "视频中说I think this is a must because that tuna quality is...，意思是作者认为这是必须的/必不可少的。'A must'是一个固定表达，意思是必不可少的东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1072.9,
+      "endTime": 1078.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "must",
+        "tuna",
+        "jar"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does 'ran out of' mean in this context?",
+      "options": [
+        "A) Bought more of",
+        "B) Used up or exhausted",
+        "C) Stored properly",
+        "D) Found more of"
+      ],
+      "answer": "B",
+      "explanation": "视频中说I just kind of like ran out of skin care，意思是作者的护肤品用完了。'Ran out of'是一个短语，意思是用完、耗尽。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 176.7,
+      "endTime": 183.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "ran out",
+        "Sephora",
+        "skin care"
+      ]
+    }
+  ]
+}

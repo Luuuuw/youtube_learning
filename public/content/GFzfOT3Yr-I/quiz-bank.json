@@ -1,0 +1,578 @@
+{
+  "videoId": "GFzfOT3Yr-I",
+  "title": "If You Truly Want To Understand Jensen Huang, You Need To Take A Good Look At This | 黃仁勳精彩訪談：值得一聽",
+  "generatedAt": "2026-05-07T16:39:56.380Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 3,
+    "medium": 16,
+    "hard": 6,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "According to the interview, where did Jensen Huang work as a waiter?",
+      "options": [
+        "A) McDonald's",
+        "B) Denny's",
+        "C) Burger King",
+        "D) KFC"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到Jensen Huang在Oregon State时在Denny's工作当服务员，这是一个关于他早期经历的问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 53.4,
+      "endTime": 64.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "waiter",
+        "Denny's",
+        "Oregon State"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What grade did Jensen give himself for his keynote performance review?",
+      "options": [
+        "A) A",
+        "B) A+",
+        "B+",
+        "C) A-"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到Jensen Huang在keynote performance review中给自己打了A+的成绩。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 149.4,
+      "endTime": 154.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "performance review",
+        "keynote",
+        "A+"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does Jensen say keeps him and his team working?",
+      "options": [
+        "A) Money and bonuses",
+        "B) Fear of failure",
+        "C) Inspiration and vision",
+        "D) Competition with rivals"
+      ],
+      "answer": "C",
+      "explanation": "视频中问到是什么激励他们、是什么让他们熬夜工作，暗示答案是关于愿景和灵感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 164.8,
+      "endTime": 169.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "inspire",
+        "keep you up",
+        "work"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does Jensen say about loving every day of his job?",
+      "options": [
+        "A) He loves every single day",
+        "B) He doesn't love every day but keeps going",
+        "C) He only works on good days",
+        "D) He quit his job frequently"
+      ],
+      "answer": "B",
+      "explanation": "视频中Jensen提到not easy to do, you're not always enjoying it, I don't love every day of my job，说明他并非每天都喜欢自己的工作但仍然坚持。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 398.5,
+      "endTime": 405,
+      "difficulty": "medium",
+      "relatedWords": [
+        "enjoy",
+        "job",
+        "every day"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "How many people report directly to Jensen Huang according to the interview?",
+      "options": [
+        "A) About 30",
+        "B) About 60",
+        "C) About 100",
+        "D) About 20"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到60 plus 60 people, and they all report to you，明确指出大约60人直接向他汇报。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 633,
+      "endTime": 639.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "report to",
+        "60 people",
+        "management"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Why does Jensen Huang say the layer of hierarchy matters in a company?",
+      "options": [
+        "A) It creates power dynamics",
+        "B) Information really matters",
+        "C) It reduces creativity",
+        "D) It increases salary costs"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到the layer of hierarchy in your company really matters information uh really matters，说明层级制度影响信息传递。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 670.9,
+      "endTime": 678.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hierarchy",
+        "information",
+        "company"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "According to Jensen, what is the first important thing for a leader?",
+      "options": [
+        "A) Making profits",
+        "B) Empowering people",
+        "C) Hiring the best",
+        "D) Reducing costs"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到it empowers people and so that's number one empowering，说明赋权他人是领导者的首要职责。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 759.2,
+      "endTime": 768.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "empowering",
+        "leader",
+        "people"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does Jensen say about giving up on people?",
+      "options": [
+        "A) It's sometimes necessary",
+        "B) He doesn't like giving up on people because they can improve",
+        "C) People should be fired immediately",
+        "D) It's a waste of time"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到I don't like giving up on people because I think they could they could improve，体现了Jensen相信员工可以进步的理念。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1009.7,
+      "endTime": 1013.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "give up",
+        "improve",
+        "people"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What advice does Jensen give about achieving greatness?",
+      "options": [
+        "A) Give up immediately if it's hard",
+        "B) Don't give up, they're so close",
+        "C) Work only on weekends",
+        "D) Let others do it for you"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到oftentimes they're so close don't give up they're so close，意思是不要放弃，离成功很近。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1034.4,
+      "endTime": 1040.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "give up",
+        "greatness",
+        "close"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What feeling does Jensen describe when someone didn't get something yesterday?",
+      "options": [
+        "A) Satisfaction",
+        "B) Frustration and determination",
+        "C) Indifference",
+        "D) Anger"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到that feeling that you didn't get it yesterday，暗示一种挫败感和继续尝试的决心。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1044.3,
+      "endTime": 1047.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "feeling",
+        "didn't get it",
+        "yesterday"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does Jensen say about the moment right before achieving something?",
+      "options": [
+        "A) You should give up",
+        "B) You shouldn't give up on that",
+        "C) It's already too late",
+        "D) You need to celebrate first"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到moment right before you got it you know so I don't want you to give up on that，鼓励人们在成功前不要放弃。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1053,
+      "endTime": 1056.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "moment",
+        "give up",
+        "achieve"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What did Jensen say about his work-life balance?",
+      "options": [
+        "A) He works very little",
+        "B) His work-life balance is really great, he works as much as needed",
+        "C) He never works overtime",
+        "D) He prioritizes family over work"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到my my work life balance is really great um I work I work as as as as much，说明他认为自己的工作生活平衡很好，且工作投入。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1077,
+      "endTime": 1083.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "work-life balance",
+        "work",
+        "great"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does Jensen do every day according to the interview?",
+      "options": [
+        "A) He ignores his beliefs",
+        "B) He gut checks against his core beliefs",
+        "C) He changes his beliefs",
+        "D) He forgets his beliefs"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到I gut checked against my core beliefs every day I still do，说明他每天都会根据核心信念进行自我检视。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1995.8,
+      "endTime": 2001.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "gut check",
+        "core beliefs",
+        "every day"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is CUDA described as in the interview?",
+      "options": [
+        "A) A type of computer game",
+        "B) A programming platform for GPUs",
+        "C) A new smartphone",
+        "D) A social media platform"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到case of Cuda and other cudas that have existed over the course of nvidia's history，CUDA是NVIDIA开发的GPU计算平台。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1980,
+      "endTime": 1984.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "CUDA",
+        "Nvidia",
+        "history"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What did generative AI open according to Jensen?",
+      "options": [
+        "A) The floodgates of every industry",
+        "B) A new restaurant",
+        "C) A new country",
+        "D) A physical building"
+      ],
+      "answer": "A",
+      "explanation": "视频中明确提到it opened the floodgates of every industry being，说明生成式AI为各行各业打开了大门。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2762.5,
+      "endTime": 2770.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "generative AI",
+        "floodgates",
+        "industry"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What did Jensen say about Llama in democratizing AI?",
+      "options": [
+        "A) It made generative AI accessible",
+        "B) It closed down AI research",
+        "C) It made AI more expensive",
+        "D) It stopped AI development"
+      ],
+      "answer": "A",
+      "explanation": "视频中提到I think llama democratized AI and made generative AI accessible，说明Llama让生成式AI变得更容易获取。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2792,
+      "endTime": 2799.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Llama",
+        "democratized",
+        "accessible"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "How often does Jensen say AI accuracy doubles according to the interview?",
+      "options": [
+        "A) Every month",
+        "B) Every year",
+        "C) Every decade",
+        "D) Every week"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到we're going to double its accuracy every single year，说明AI准确率每年翻倍。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2608.6,
+      "endTime": 2614.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "accuracy",
+        "double",
+        "every year"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does Jensen say about Moore's Law in the interview?",
+      "options": [
+        "A) It no longer applies",
+        "B) Performance doubles every year",
+        "C) Error reduced in half",
+        "D) It's exactly the same"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到error reduced in half or otherwise known as mors law okay so so you double the performance，说明错误率减少一半即所谓的摩尔定律。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2552.8,
+      "endTime": 2559.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Moore's Law",
+        "error",
+        "performance"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What can AI do with a human trigger according to the interview?",
+      "options": [
+        "A) Only calculate numbers",
+        "B) Send an email, text, or trigger an event",
+        "C) Only play games",
+        "D) Only write poems"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到a human trigger an event send an email to somebody or text to somebody get a response，说明AI可以被人类触发执行各种任务。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2661.8,
+      "endTime": 2666.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "trigger",
+        "email",
+        "event"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What advice would you give to someone who is about to give up on their dream job? Use the ideas from Jensen Huang's interview to explain.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求学生根据Jensen Huang在访谈中表达的观点，给想要放弃梦想的人一些建议。可以结合视频中提到的不要放弃、相信自己能进步等观点。",
+      "referenceAnswer": "Based on Jensen's advice: 1) Don't give up when you're close to success 2) Believe people can improve 3) Gut check against your core beliefs 4) Work hard even when you don't love every day 5) Stay inspired by your vision",
+      "hint": "Think about: persistence, belief in improvement, hard work, and staying motivated by vision",
+      "startTime": 1034.4,
+      "endTime": 1083.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "advice",
+        "give up",
+        "dream",
+        "persistence"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Explain why Jensen Huang thinks empowering people is important for a leader. Would you agree with this approach? Why or why not?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求学生解释Jensen关于赋权的观点，并表达是否同意该管理方式。",
+      "referenceAnswer": "Jensen mentioned empowering people as number one for leaders. This means giving team members authority, resources, and trust to do their work. This creates motivation, innovation, and ownership.",
+      "hint": "Consider: leadership style, team motivation, and company culture",
+      "startTime": 759.2,
+      "endTime": 768.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "empowering",
+        "leader",
+        "important"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "According to Jensen Huang, how has generative AI changed industries? What future changes might we see?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求学生根据Jensen的观点讨论生成式AI如何改变了行业，以及未来的变化。",
+      "referenceAnswer": "Generative AI opened the floodgates of every industry. It made AI accessible to everyone through tools like ChatGPT and Llama. In the future, AI accuracy will double every year, and AI will be able to handle more complex tasks like sending emails and triggering events.",
+      "hint": "Think about: accessibility, industry impact, and future predictions",
+      "startTime": 2762.5,
+      "endTime": 2822.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "generative AI",
+        "industries",
+        "future",
+        "changes"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does Jensen say about trying to solve a problem?",
+      "options": [
+        "A) Always give up if it's too hard",
+        "B) Sometimes you could do even better, sometimes you just try",
+        "C) Never try new problems",
+        "D) Only solve easy problems"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到could do even better or sometimes it's just trying to solve a problem，说明尝试解决问题有时可以做得更好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1147.7,
+      "endTime": 1152.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "solve",
+        "problem",
+        "try"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does Jensen say about 'good enough' in technology?",
+      "options": [
+        "A) Never settle for good enough",
+        "B) At some point you get to good enough",
+        "C) Good enough is never acceptable",
+        "D) Only beginners accept good enough"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到at some point you get to good enough you can reliably convert，说明在某个点技术会达到足够好的状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2486.7,
+      "endTime": 2490,
+      "difficulty": "medium",
+      "relatedWords": [
+        "good enough",
+        "technology",
+        "reliably"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does Jensen believe about things that can be learned in life?",
+      "options": [
+        "A) Some things cannot be learned",
+        "B) Many things can be learned if you're given the chance",
+        "C) Learning is only for young people",
+        "D) Learning is waste of time"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到lot of things in life that I believe you can learn and you just have to be given，说明很多生活中的事情只要给予机会就可以学会。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 994.2,
+      "endTime": 997,
+      "difficulty": "easy",
+      "relatedWords": [
+        "learn",
+        "life",
+        "chance"
+      ]
+    }
+  ]
+}
