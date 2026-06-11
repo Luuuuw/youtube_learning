@@ -4,8 +4,6 @@ import { authenticateUser, initAdminIfEmpty, addLoginLog, markExpiredTempPasswor
 import { AuthService } from '@/lib/auth-service';
 import { AUTH_CONSTANTS } from '@/lib/auth-constants';
 
-initAdminIfEmpty();
-
 function getClientIp(req: NextRequest): string {
   return req.headers.get('x-forwarded-for')?.split(',')[0]?.trim()
     || req.headers.get('x-real-ip')

@@ -35,14 +35,18 @@ export interface ReviewLog {
 }
 
 function ensureDb() {
-  if (!fs.existsSync(DB_DIR)) {
-    fs.mkdirSync(DB_DIR, { recursive: true });
-  }
-  if (!fs.existsSync(VOCAB_FILE)) {
-    fs.writeFileSync(VOCAB_FILE, '[]', 'utf-8');
-  }
-  if (!fs.existsSync(REVIEW_LOG_FILE)) {
-    fs.writeFileSync(REVIEW_LOG_FILE, '[]', 'utf-8');
+  try {
+    if (!fs.existsSync(DB_DIR)) {
+      fs.mkdirSync(DB_DIR, { recursive: true });
+    }
+    if (!fs.existsSync(VOCAB_FILE)) {
+      fs.writeFileSync(VOCAB_FILE, '[]', 'utf-8');
+    }
+    if (!fs.existsSync(REVIEW_LOG_FILE)) {
+      fs.writeFileSync(REVIEW_LOG_FILE, '[]', 'utf-8');
+    }
+  } catch (err) {
+    console.warn('[vocab-db] ensureDb skipped:', (err as Error).message);
   }
 }
 

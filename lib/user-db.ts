@@ -61,14 +61,22 @@ interface UserDB {
 }
 
 function ensureDb() {
-  if (!fs.existsSync(DB_DIR)) {
-    fs.mkdirSync(DB_DIR, { recursive: true });
-  }
-  if (!fs.existsSync(BACKUP_DIR)) {
-    fs.mkdirSync(BACKUP_DIR, { recursive: true });
-  }
-  if (!fs.existsSync(USER_FILE)) {
-    fs.writeFileSync(USER_FILE, JSON.stringify({ users: [], issuanceLogs: [], auditLogs: [], loginLogs: [] }, null, 2), 'utf-8');
+  try {
+    if (!fs.existsSync(DB_DIR)) {
+      fs.mkdirSync(DB_DIR, { recursive: true });
+    }
+    if (!fs.existsSync(BACKUP_DIR)) {
+      fs.mkdirSync(BACKUP_DIR, { recursive: true });
+    }
+    if (!fs.existsSync(USER_FILE)) {
+      fs.writeFileSync(USER_FILE, JSON.stringify({ users: [], issuanceLogs: [], auditLogs: [], loginLogs: [] }, null, 2), 'utf-8');
+    }
+  } catch (err) {
+    // build 时可能无 disk 挂载权限，runtime 再次调用即可
+    if (process.env.NODE_ENV !== 'production' || process.env.RENDER) {
+      // dev 或 Render 上记录但不抛
+      console.warn('[user-db] ensureDb skipped:', (err as Error).message);
+    }
   }
 }
 

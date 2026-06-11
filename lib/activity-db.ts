@@ -13,11 +13,15 @@ export interface DailyActivity {
 }
 
 function ensureDb() {
-  if (!fs.existsSync(DB_DIR)) {
-    fs.mkdirSync(DB_DIR, { recursive: true });
-  }
-  if (!fs.existsSync(ACTIVITY_FILE)) {
-    fs.writeFileSync(ACTIVITY_FILE, '[]', 'utf-8');
+  try {
+    if (!fs.existsSync(DB_DIR)) {
+      fs.mkdirSync(DB_DIR, { recursive: true });
+    }
+    if (!fs.existsSync(ACTIVITY_FILE)) {
+      fs.writeFileSync(ACTIVITY_FILE, '[]', 'utf-8');
+    }
+  } catch (err) {
+    console.warn('[activity-db] ensureDb skipped:', (err as Error).message);
   }
 }
 
