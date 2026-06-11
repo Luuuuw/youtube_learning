@@ -64,7 +64,9 @@ export function getVideoList(): VideoMeta[] {
       const metaPath = path.join(CONTENT_DIR, dir, 'meta.json');
       const videoPath = path.join(CONTENT_DIR, dir, 'video.mp4');
 
-      if (!fs.existsSync(videoPath)) continue;
+      // 启用 CDN 时 mp4 不在本地，用 meta.json 作为视频存在标志；
+      // 未启用 CDN（dev）则要求本地 mp4 存在
+      if (!fs.existsSync(metaPath) && !fs.existsSync(videoPath)) continue;
 
       if (fs.existsSync(metaPath)) {
         const raw = fs.readFileSync(metaPath, 'utf-8');
@@ -100,14 +102,15 @@ export function getVideoById(id: string): VideoData | null {
 
   try {
     const videoPath = path.join(CONTENT_DIR, id, 'video.mp4');
-    if (!fs.existsSync(videoPath)) return null;
+    const metaPath = path.join(CONTENT_DIR, id, 'meta.json');
+    // CDN 模式下 mp4 不在本地，只要 meta.json 存在即视为有效视频
+    if (!fs.existsSync(metaPath) && !fs.existsSync(videoPath)) return null;
 
     let title = id;
     let description: string | undefined;
     let duration: number | undefined;
     let thumbnail: string | undefined;
 
-    const metaPath = path.join(CONTENT_DIR, id, 'meta.json');
     if (fs.existsSync(metaPath)) {
       try {
         const raw = fs.readFileSync(metaPath, 'utf-8');
