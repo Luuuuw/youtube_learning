@@ -46,7 +46,10 @@ function cleanWord(word: string): string {
 
 async function lookupVocabBank(word: string): Promise<VocabBankEntry | null> {
   try {
-    const res = await fetch(`/api/vocab/lookup?word=${encodeURIComponent(word)}`);
+    const token = typeof window !== 'undefined' ? localStorage.getItem('ve-session-token') : '';
+    const res = await fetch(`/api/vocab/lookup?word=${encodeURIComponent(word)}`, {
+      headers: token ? { Authorization: `Bearer ${token}` } : undefined,
+    });
     if (!res.ok) return null;
     const data = await res.json();
     if (data.found && data.word) {

@@ -1,4 +1,7 @@
-type AuthSession = { createdAt: number; code: string; role: 'admin' | 'guest'; mustChangePassword?: boolean };
+import { AUTH_CONSTANTS } from '@/lib/auth-constants';
+import { atomicWriteJsonSync } from '@/lib/atomic-write';
+
+export type AuthSession = { createdAt: number; code: string; role: 'admin' | 'guest'; mustChangePassword?: boolean };
 
 import fs from 'fs';
 import path from 'path';
@@ -21,7 +24,7 @@ if (!globalForSessions.__authSessions) {
       const entries: [string, AuthSession][] = JSON.parse(raw);
       const now = Date.now();
       for (const [token, session] of entries) {
-        if (now - session.createdAt < 7 * 24 * 60 * 60 * 1000) {
+        if (now - session.createdAt < AUTH_CONSTANTS.SESSION_EXPIRY_MS) {
           authSessions.set(token, session);
         }
       }
@@ -35,10 +38,11 @@ export function persistSessions() {
   if (saveTimer) clearTimeout(saveTimer);
   saveTimer = setTimeout(() => {
     try {
-      if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
       const entries = Array.from(authSessions.entries());
-      fs.writeFileSync(SESSION_FILE, JSON.stringify(entries), 'utf-8');
-    } catch {}
+      atomicWriteJsonSync(SESSION_FILE, entries);
+    } catch (err) {
+      console.error('[auth-sessions] persistSessions 失败', err);
+    }
   }, 2000);
 }
 
@@ -50,7 +54,7 @@ export function loadSessionsFromDisk() {
       const now = Date.now();
       authSessions.clear();
       for (const [token, session] of entries) {
-        if (now - session.createdAt < 7 * 24 * 60 * 60 * 1000) {
+        if (now - session.createdAt < AUTH_CONSTANTS.SESSION_EXPIRY_MS) {
           authSessions.set(token, session);
         }
       }
@@ -83,11 +87,12 @@ function readAttempts(): Map<string, LoginAttempt> {
 
 function writeAttempts(map: Map<string, LoginAttempt>) {
   try {
-    if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
     const obj: Record<string, LoginAttempt> = {};
     map.forEach((v, k) => { obj[k] = v; });
-    fs.writeFileSync(ATTEMPTS_FILE, JSON.stringify(obj), 'utf-8');
-  } catch {}
+    atomicWriteJsonSync(ATTEMPTS_FILE, obj);
+  } catch (err) {
+    console.error('[auth-sessions] writeAttempts 失败', err);
+  }
 }
 
 export function checkRateLimit(username: string): { locked: boolean; remaining?: number } {

@@ -1,6 +1,8 @@
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
+import { verifyAuth, unauthorizedResponse } from '@/lib/auth-middleware';
+import { getVideoUrl } from '@/lib/video-cdn';
 
 const ACTIVITY_FILE = path.join(process.cwd(), 'data', 'activity.json');
 const CONTENT_DIR = path.join(process.cwd(), 'public', 'content');
@@ -30,6 +32,14 @@ function readActivities(): DailyActivity[] {
   }
 }
 
+function resolveThumbnail(videoId: string, raw: unknown): string | undefined {
+  if (!raw || typeof raw !== 'string') return undefined;
+  if (raw.startsWith('http://') || raw.startsWith('https://')) return raw;
+  const prefix = `/content/${videoId}/`;
+  const file = raw.startsWith(prefix) ? raw.slice(prefix.length) : raw.replace(/^\//, '');
+  return getVideoUrl(videoId, file);
+}
+
 function getVideoMeta(videoId: string): VideoMetaBasic | null {
   try {
     const metaPath = path.join(CONTENT_DIR, videoId, 'meta.json');
@@ -39,7 +49,7 @@ function getVideoMeta(videoId: string): VideoMetaBasic | null {
     return {
       id: videoId,
       title: meta.title || videoId,
-      thumbnail: meta.thumbnail?.startsWith('/') ? meta.thumbnail : meta.thumbnail ? `/content/${videoId}/${meta.thumbnail}` : undefined,
+      thumbnail: resolveThumbnail(videoId, meta.thumbnail),
       category: meta.category,
       difficulty: meta.difficulty,
       duration: meta.duration,
@@ -49,7 +59,9 @@ function getVideoMeta(videoId: string): VideoMetaBasic | null {
   }
 }
 
-export async function GET() {
+export async function GET(req: NextRequest) {
+  const auth = verifyAuth(req);
+  if (!auth.valid) return unauthorizedResponse();
   const activities = readActivities();
 
   const viewCounts = new Map<string, number>();

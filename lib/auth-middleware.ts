@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import authSessions, { persistSessions } from '@/lib/auth-sessions';
-import { getUserByUsername } from '@/lib/user-db';
+import { AuthService } from '@/lib/auth-service';
 
 export interface AuthInfo {
   valid: boolean;
@@ -11,18 +10,18 @@ export interface AuthInfo {
 export function verifyAuth(req: NextRequest): AuthInfo {
   const authHeader = req.headers.get('authorization');
   if (!authHeader) return { valid: false };
+
   const token = authHeader.replace('Bearer ', '');
-  const session = authSessions.get(token);
-  if (!session) return { valid: false };
-  const age = Date.now() - session.createdAt;
-  if (age > 7 * 24 * 60 * 60 * 1000) {
-    authSessions.delete(token);
-    persistSessions();
+  const result = AuthService.validateSession(token);
+
+  if (!result.valid) {
+    if (result.shouldDelete) {
+      AuthService.cleanupInvalidSession(token);
+    }
     return { valid: false };
   }
-  const user = getUserByUsername(session.code);
-  if (!user || user.disabled) return { valid: false };
-  return { valid: true, code: session.code, role: session.role };
+
+  return { valid: true, code: result.session!.code, role: result.session!.role };
 }
 
 export function verifyAdmin(req: NextRequest): AuthInfo {

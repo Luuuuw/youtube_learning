@@ -138,7 +138,24 @@ function getProgress(): ProcessProgress {
     };
   }
   try {
-    return JSON.parse(fs.readFileSync(PROCESS_PROGRESS_FILE, 'utf-8'));
+    const data = JSON.parse(fs.readFileSync(PROCESS_PROGRESS_FILE, 'utf-8'));
+    // 自动清理陈旧的 running 状态（>5 分钟无更新）
+    if (data.status === 'running' && data.updatedAt) {
+      const age = Date.now() - new Date(data.updatedAt).getTime();
+      if (age > 5 * 60 * 1000) {
+        return {
+          ...data,
+          status: 'error',
+          logs: [...(data.logs || []), '[自动清理] 任务超时 5 分钟，状态已重置'],
+          results: data.results || {},
+        };
+      }
+    }
+    return {
+      ...data,
+      results: data.results || {},
+      logs: data.logs || [],
+    };
   } catch {
     return {
       status: 'idle',
@@ -281,6 +298,25 @@ async function processTranslate(videoId: string): Promise<StepResult> {
   return { step: '字幕翻译', status: 'done', message: `翻译${result.length}条` };
 }
 
+async function processTranslateForce(videoId: string): Promise<StepResult> {
+  const enVttPath = path.join(CONTENT_DIR, videoId, 'video.en.vtt');
+  if (!fs.existsSync(enVttPath)) {
+    return { step: '字幕翻译', status: 'skipped', message: '无英文字幕' };
+  }
+
+  const zhVttPath = path.join(CONTENT_DIR, videoId, 'video.zh-Hans.vtt');
+  const zhJsonPath = path.join(CONTENT_DIR, videoId, 'video.zh-Hans.json');
+  if (fs.existsSync(zhVttPath)) fs.unlinkSync(zhVttPath);
+  if (fs.existsSync(zhJsonPath)) fs.unlinkSync(zhJsonPath);
+
+  const result = await translateVideoFromRawVtt(videoId);
+  if (result.length === 0) {
+    return { step: '字幕翻译', status: 'error', message: '翻译失败' };
+  }
+
+  return { step: '字幕翻译', status: 'done', message: `重新翻译${result.length}条` };
+}
+
 async function processQuiz(videoId: string, apiKey: string): Promise<StepResult> {
   if (!needsQuiz(videoId)) {
     return { step: '题库生成', status: 'skipped', message: '已有题库' };
@@ -402,6 +438,9 @@ export async function POST(req: NextRequest) {
   try {
     const body = await req.json().catch(() => ({}));
     const forceRetag = body.force === true;
+    const selectedIds: string[] | null = Array.isArray(body.videoIds) && body.videoIds.length > 0 ? body.videoIds : null;
+    // step: 'all' | 'tag' | 'translate' | 'quiz' | 'vocab'
+    const step: string = body.step || 'all';
     const videoIds = getVideoIdsNeedingProcessing();
 
     if (videoIds.length === 0) {
@@ -413,28 +452,46 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: '未配置 MINIMAX_API_KEY' }, { status: 500 });
     }
 
-    const toProcess = forceRetag
-      ? videoIds
-      : videoIds.filter(id => needsTagging(id) || needsTranslation(id) || needsQuiz(id));
+    let toProcess: string[];
+    if (step === 'all') {
+      toProcess = selectedIds
+        ? selectedIds.filter(id => videoIds.includes(id))
+        : forceRetag
+          ? videoIds
+          : videoIds.filter(id => needsTagging(id) || needsTranslation(id) || needsQuiz(id));
+    } else {
+      // 单步模式：只处理需要该步骤的视频
+      const filterFn = step === 'tag' ? needsTagging
+        : step === 'translate' ? needsTranslation
+        : step === 'quiz' ? needsQuiz
+        : () => true; // vocab 等其他步骤
+      toProcess = selectedIds
+        ? (forceRetag ? selectedIds : selectedIds.filter(id => videoIds.includes(id)))
+        : forceRetag
+          ? videoIds
+          : videoIds.filter(filterFn);
+    }
 
     if (toProcess.length === 0) {
       return NextResponse.json({ message: '所有视频已处理完毕', total: videoIds.length, processed: 0 });
     }
+
+    const stepLabel = step === 'all' ? '全部处理' : step === 'tag' ? '标签分类' : step === 'translate' ? '字幕翻译' : step === 'quiz' ? '题库生成' : step === 'vocab' ? '单词分类' : step;
 
     setProgress({
       status: 'running',
       total: toProcess.length,
       current: 0,
       currentVideoId: toProcess[0],
-      currentStep: '标签分类',
+      currentStep: stepLabel,
       results: {},
-      logs: [`开始处理 ${toProcess.length} 个视频...`],
+      logs: [`开始${stepLabel} ${toProcess.length} 个视频...`],
       updatedAt: new Date().toISOString(),
     });
 
     (async () => {
       const allResults: Record<string, StepResult[]> = {};
-      const logs: string[] = [`开始处理 ${toProcess.length} 个视频...`];
+      const logs: string[] = [`开始${stepLabel} ${toProcess.length} 个视频...`];
 
       for (let i = 0; i < toProcess.length; i++) {
         const videoId = toProcess[i];
@@ -448,69 +505,106 @@ export async function POST(req: NextRequest) {
         const videoLabel = meta.title || videoId;
         logs.push(`[${i + 1}/${toProcess.length}] 处理: ${videoLabel}`);
 
-        setProgress({
-          status: 'running',
-          total: toProcess.length,
-          current: i + 1,
-          currentVideoId: videoId,
-          currentStep: '标签分类',
-          results: allResults,
-          logs: [...logs],
-          updatedAt: new Date().toISOString(),
-        });
+        // 根据步骤决定执行哪些操作
+        const doTag = step === 'all' || step === 'tag';
+        const doTranslate = step === 'all' || step === 'translate';
+        const doQuiz = step === 'all' || step === 'quiz';
+        const doVocab = step === 'all' || step === 'vocab';
 
-        try {
-          const tagResult = forceRetag
-            ? await processTagVideoForce(videoId, apiKey)
-            : await processTagVideo(videoId, apiKey);
-          steps.push(tagResult);
-          logs.push(`  标签分类: ${tagResult.status}${tagResult.message ? ' - ' + tagResult.message : ''}`);
-        } catch (e: unknown) {
-          const msg = e instanceof Error ? e.message : '未知错误';
-          steps.push({ step: '标签分类', status: 'error', message: msg });
-          logs.push(`  标签分类: 错误 - ${msg}`);
+        if (doTag) {
+          setProgress({
+            status: 'running',
+            total: toProcess.length,
+            current: i + 1,
+            currentVideoId: videoId,
+            currentStep: '标签分类',
+            results: allResults,
+            logs: [...logs],
+            updatedAt: new Date().toISOString(),
+          });
+
+          try {
+            const tagResult = forceRetag
+              ? await processTagVideoForce(videoId, apiKey)
+              : await processTagVideo(videoId, apiKey);
+            steps.push(tagResult);
+            logs.push(`  标签分类: ${tagResult.status}${tagResult.message ? ' - ' + tagResult.message : ''}`);
+          } catch (e: unknown) {
+            const msg = e instanceof Error ? e.message : '未知错误';
+            steps.push({ step: '标签分类', status: 'error', message: msg });
+            logs.push(`  标签分类: 错误 - ${msg}`);
+          }
         }
 
-        setProgress({
-          status: 'running',
-          total: toProcess.length,
-          current: i + 1,
-          currentVideoId: videoId,
-          currentStep: '字幕翻译',
-          results: allResults,
-          logs: [...logs],
-          updatedAt: new Date().toISOString(),
-        });
+        if (doTranslate) {
+          setProgress({
+            status: 'running',
+            total: toProcess.length,
+            current: i + 1,
+            currentVideoId: videoId,
+            currentStep: '字幕翻译',
+            results: allResults,
+            logs: [...logs],
+            updatedAt: new Date().toISOString(),
+          });
 
-        try {
-          const transResult = await processTranslate(videoId);
-          steps.push(transResult);
-          logs.push(`  字幕翻译: ${transResult.status}${transResult.message ? ' - ' + transResult.message : ''}`);
-        } catch (e: unknown) {
-          const msg = e instanceof Error ? e.message : '未知错误';
-          steps.push({ step: '字幕翻译', status: 'error', message: msg });
-          logs.push(`  字幕翻译: 错误 - ${msg}`);
+          try {
+            const transResult = (forceRetag || selectedIds)
+              ? await processTranslateForce(videoId)
+              : await processTranslate(videoId);
+            steps.push(transResult);
+            logs.push(`  字幕翻译: ${transResult.status}${transResult.message ? ' - ' + transResult.message : ''}`);
+          } catch (e: unknown) {
+            const msg = e instanceof Error ? e.message : '未知错误';
+            steps.push({ step: '字幕翻译', status: 'error', message: msg });
+            logs.push(`  字幕翻译: 错误 - ${msg}`);
+          }
         }
 
-        setProgress({
-          status: 'running',
-          total: toProcess.length,
-          current: i + 1,
-          currentVideoId: videoId,
-          currentStep: '题库生成',
-          results: allResults,
-          logs: [...logs],
-          updatedAt: new Date().toISOString(),
-        });
+        if (doQuiz) {
+          setProgress({
+            status: 'running',
+            total: toProcess.length,
+            current: i + 1,
+            currentVideoId: videoId,
+            currentStep: '题库生成',
+            results: allResults,
+            logs: [...logs],
+            updatedAt: new Date().toISOString(),
+          });
 
-        try {
-          const quizResult = await processQuiz(videoId, apiKey);
-          steps.push(quizResult);
-          logs.push(`  题库生成: ${quizResult.status}${quizResult.message ? ' - ' + quizResult.message : ''}`);
-        } catch (e: unknown) {
-          const msg = e instanceof Error ? e.message : '未知错误';
-          steps.push({ step: '题库生成', status: 'error', message: msg });
-          logs.push(`  题库生成: 错误 - ${msg}`);
+          try {
+            const quizResult = await processQuiz(videoId, apiKey);
+            steps.push(quizResult);
+            logs.push(`  题库生成: ${quizResult.status}${quizResult.message ? ' - ' + quizResult.message : ''}`);
+          } catch (e: unknown) {
+            const msg = e instanceof Error ? e.message : '未知错误';
+            steps.push({ step: '题库生成', status: 'error', message: msg });
+            logs.push(`  题库生成: 错误 - ${msg}`);
+          }
+        }
+
+        if (doVocab) {
+          setProgress({
+            status: 'running',
+            total: toProcess.length,
+            current: i + 1,
+            currentVideoId: videoId,
+            currentStep: '单词分类',
+            results: allResults,
+            logs: [...logs],
+            updatedAt: new Date().toISOString(),
+          });
+
+          try {
+            const vocabResult = await processVocab(videoId);
+            steps.push(vocabResult);
+            logs.push(`  单词分类: ${vocabResult.status}${vocabResult.message ? ' - ' + vocabResult.message : ''}`);
+          } catch (e: unknown) {
+            const msg = e instanceof Error ? e.message : '未知错误';
+            steps.push({ step: '单词分类', status: 'error', message: msg });
+            logs.push(`  单词分类: 错误 - ${msg}`);
+          }
         }
 
         allResults[videoId] = steps;
@@ -523,7 +617,7 @@ export async function POST(req: NextRequest) {
         currentVideoId: '',
         currentStep: '',
         results: allResults,
-        logs: [...logs, '全部处理完成'],
+        logs: [...logs, `${stepLabel}完成`],
         updatedAt: new Date().toISOString(),
       });
 
@@ -535,6 +629,11 @@ export async function POST(req: NextRequest) {
     const msg = e instanceof Error ? e.message : '未知错误';
     return NextResponse.json({ error: msg }, { status: 500 });
   }
+}
+
+async function processVocab(videoId: string): Promise<StepResult> {
+  // 单词分类是全局操作，这里只标记跳过（由独立的"单词分类"按钮触发全局构建）
+  return { step: '单词分类', status: 'skipped', message: '请使用独立按钮构建词汇库' };
 }
 
 async function processTagVideoForce(videoId: string, apiKey: string): Promise<StepResult> {
@@ -571,6 +670,9 @@ async function processTagVideoForce(videoId: string, apiKey: string): Promise<St
   return { step: '标签分类', status: 'done', message: `${category} / ${difficulty}` };
 }
 
-export async function GET() {
+export async function GET(req: NextRequest) {
+  if (!verifyAdmin(req)) {
+    return NextResponse.json({ error: '需要管理员权限' }, { status: 403 });
+  }
   return NextResponse.json(getProgress());
 }

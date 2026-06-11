@@ -12,6 +12,12 @@ export async function POST(req: NextRequest) {
     if (!newPassword || typeof newPassword !== 'string') {
       return NextResponse.json({ error: '请输入新密码' }, { status: 400 });
     }
+    if (newPassword.length > 128) {
+      return NextResponse.json({ error: '新密码过长' }, { status: 400 });
+    }
+    if (oldPassword !== undefined && (typeof oldPassword !== 'string' || oldPassword.length > 128)) {
+      return NextResponse.json({ error: '旧密码格式错误' }, { status: 400 });
+    }
 
     const authHeader = req.headers.get('authorization');
     const token = authHeader!.replace('Bearer ', '');

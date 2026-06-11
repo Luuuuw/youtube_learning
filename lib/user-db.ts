@@ -1,10 +1,12 @@
 import fs from 'fs';
 import path from 'path';
 import bcrypt from 'bcryptjs';
+import { atomicWriteTextSync } from '@/lib/atomic-write';
 
 const DB_DIR = path.join(process.cwd(), 'data');
 const USER_FILE = path.join(DB_DIR, 'users.json');
 const BACKUP_DIR = path.join(DB_DIR, 'backups');
+const INITIAL_ADMIN_FILE = path.join(DB_DIR, '.initial-admin-password.txt');
 
 let writeLock = false;
 
@@ -420,10 +422,27 @@ export function getLoginLogs(limit = 100): LoginLog[] {
   return logs.slice(-limit).reverse();
 }
 
+function generateInitialAdminPassword(): string {
+  const upper = 'ABCDEFGHJKLMNPQRSTUVWXYZ';
+  const lower = 'abcdefghjkmnpqrstuvwxyz';
+  const digits = '23456789';
+  const special = '!@#$%&*';
+  const all = upper + lower + digits + special;
+  const pick = (s: string) => s[Math.floor(Math.random() * s.length)];
+  let pwd = pick(upper) + pick(lower) + pick(digits) + pick(special);
+  for (let i = 0; i < 12; i++) pwd += pick(all);
+  return pwd.split('').sort(() => Math.random() - 0.5).join('');
+}
+
 export function initAdminIfEmpty(): void {
   const db = readDb();
   if (db.users.length === 0) {
-    const tempPassword = 'Admin@2026';
+    const envPassword = process.env.INITIAL_ADMIN_PASSWORD?.trim();
+    const tempPassword = envPassword && envPassword.length >= 8
+      ? envPassword
+      : generateInitialAdminPassword();
+    const fromEnv = tempPassword === envPassword;
+
     const tempPasswordHash = bcrypt.hashSync(tempPassword, 10);
     db.users.push({
       id: generateId(),
@@ -448,6 +467,22 @@ export function initAdminIfEmpty(): void {
       expiredAt: null,
     });
     writeDb(db);
-    console.log('[user-db] 初始管理员已创建: admin / Admin@2026');
+
+    if (fromEnv) {
+      console.log('[user-db] 初始管理员已创建: admin（密码来自 INITIAL_ADMIN_PASSWORD 环境变量）');
+    } else {
+      try {
+        atomicWriteTextSync(
+          INITIAL_ADMIN_FILE,
+          `username: admin\npassword: ${tempPassword}\ncreatedAt: ${new Date().toISOString()}\n` +
+          `note: 该临时密码 24 小时内有效，首次登录后必须修改。请妥善保管并在使用后删除本文件。\n`,
+        );
+        try { fs.chmodSync(INITIAL_ADMIN_FILE, 0o600); } catch {}
+        console.log(`[user-db] 初始管理员已创建: admin（临时密码已写入 ${INITIAL_ADMIN_FILE}）`);
+      } catch (err) {
+        console.error('[user-db] 写入初始管理员密码文件失败，请检查 data 目录权限', err);
+        throw err;
+      }
+    }
   }
 }

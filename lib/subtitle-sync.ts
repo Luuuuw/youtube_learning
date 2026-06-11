@@ -1,4 +1,4 @@
-import { Subtitle } from '@/lib/vtt-parser';
+import { Subtitle, WordTiming } from '@/lib/vtt-parser';
 
 export function binarySearchSubtitleIndex(subtitles: Subtitle[], currentTime: number): number {
   let left = 0;
@@ -28,6 +28,30 @@ export function binarySearchSubtitleIndex(subtitles: Subtitle[], currentTime: nu
 export function getSubtitleAtTime(subtitles: Subtitle[], currentTime: number): Subtitle | null {
   const index = binarySearchSubtitleIndex(subtitles, currentTime);
   return index >= 0 ? subtitles[index] : null;
+}
+
+export function getActiveWordIndex(
+  text: string,
+  currentTime: number,
+  startTime: number,
+  endTime: number,
+  wordTimings?: WordTiming[]
+): number {
+  const words = text.split(/\s+/).filter(Boolean);
+  if (words.length === 0) return -1;
+
+  if (wordTimings && wordTimings.length === words.length) {
+    for (let i = wordTimings.length - 1; i >= 0; i--) {
+      if (currentTime >= wordTimings[i].startTime) {
+        return i;
+      }
+    }
+    return 0;
+  }
+
+  const duration = Math.max(endTime - startTime, 0.001);
+  const progress = Math.max(0, Math.min(1, (currentTime - startTime) / duration));
+  return Math.min(Math.floor(progress * words.length), words.length - 1);
 }
 
 export function buildSubtitleTranslationMap(

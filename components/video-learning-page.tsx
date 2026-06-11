@@ -1,15 +1,17 @@
 'use client';
 
-import React, { useState, useRef, useEffect, useCallback } from 'react';
+import React, { useState, useRef, useEffect, useCallback, useMemo } from 'react';
 import Link from 'next/link';
-import { ChevronLeft, Settings, HelpCircle, Ear, EarOff, X, Keyboard, Zap, BookOpen, MessageSquare, Lightbulb, User, Brain } from 'lucide-react';
+import { ChevronLeft, Settings, HelpCircle, Ear, EarOff, X, Keyboard, Zap, BookOpen, MessageSquare, Lightbulb, User, Brain, Mic } from 'lucide-react';
 import VideoPlayer from './video-player';
 import SubtitlePanel from './subtitle-panel';
 import ThemeToggle from './theme-toggle';
 import VideoQuiz from './video-quiz';
+import ShadowSpeak from './shadow-speak';
 import { Subtitle } from '@/lib/vtt-parser';
 import { useAuth } from '@/lib/auth-context';
-import { binarySearchSubtitleIndex } from '@/lib/subtitle-sync';
+import { binarySearchSubtitleIndex, getSubtitleAtTime, buildSubtitleTranslationMap, getActiveWordIndex } from '@/lib/subtitle-sync';
+import { classifyWord } from '@/lib/word-classify';
 
 interface VideoLearningPageProps {
   id: string;
@@ -18,6 +20,7 @@ interface VideoLearningPageProps {
   videoUrl: string;
   subtitles: Subtitle[];
   zhSubtitles: Subtitle[];
+  zhNeedsRetranslate?: boolean;
 }
 
 export default function VideoLearningPage({
@@ -27,16 +30,26 @@ export default function VideoLearningPage({
   videoUrl,
   subtitles,
   zhSubtitles: initialZhSubtitles,
+  zhNeedsRetranslate,
 }: VideoLearningPageProps) {
   const [currentTime, setCurrentTime] = useState(0);
   const [blindMode, setBlindMode] = useState(false);
   const [zhSubtitles, setZhSubtitles] = useState(initialZhSubtitles);
+
+  // Build zh translation map (same logic as SubtitlePanel)
+  const subtitleZhMap = useMemo(() => buildSubtitleTranslationMap(subtitles, zhSubtitles), [subtitles, zhSubtitles]);
+
+  const getZhText = useCallback((sub: Subtitle): string | null => {
+    if (sub.translation) return sub.translation;
+    return subtitleZhMap.get(sub.id) ?? null;
+  }, [subtitleZhMap]);
   const [showSettings, setShowSettings] = useState(false);
   const [showHelp, setShowHelp] = useState(false);
   const [autoScroll, setAutoScroll] = useState(true);
   const [highlightWords, setHighlightWords] = useState(true);
   const [defaultSpeed, setDefaultSpeed] = useState(1);
   const [quizOpen, setQuizOpen] = useState(false);
+  const [shadowSpeakOpen, setShadowSpeakOpen] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
   const settingsRef = useRef<HTMLDivElement>(null);
   const lastSubtitleSyncAtRef = useRef(0);
@@ -64,6 +77,43 @@ export default function VideoLearningPage({
       }
     }
   }, [userCode, id]);
+
+  // 后台翻译轮询：每隔 10s 拉一次翻译状态，翻译完成自动刷新
+  const [translating, setTranslating] = useState(
+    initialZhSubtitles.length === 0 || !!zhNeedsRetranslate
+  );
+  useEffect(() => {
+    if (initialZhSubtitles.length > 0 && !zhNeedsRetranslate) return;
+    let cancelled = false;
+    const poll = async () => {
+      if (cancelled) return;
+      try {
+        const res = await fetch(`/api/translate-subtitles?videoId=${encodeURIComponent(id)}&check=1`, {
+          headers: { Authorization: `Bearer ${localStorage.getItem('ve-session-token') || ''}` },
+        });
+        if (res.ok) {
+          const data = await res.json();
+          if (data.done) {
+            // 拉取最新字幕
+            const r2 = await fetch(`/api/videos/${id}`, {
+              headers: { Authorization: `Bearer ${localStorage.getItem('ve-session-token') || ''}` },
+            });
+            if (r2.ok) {
+              const v = await r2.json();
+              if (Array.isArray(v.zhSubtitles) && v.zhSubtitles.length > 0) {
+                setZhSubtitles(v.zhSubtitles);
+                setTranslating(false);
+                return;
+              }
+            }
+          }
+        }
+      } catch {}
+      if (!cancelled) setTimeout(poll, 10000);
+    };
+    const t = setTimeout(poll, 10000);
+    return () => { cancelled = true; clearTimeout(t); };
+  }, [id, initialZhSubtitles.length, zhNeedsRetranslate]);
 
   useEffect(() => {
     try {
@@ -115,7 +165,7 @@ export default function VideoLearningPage({
   useEffect(() => {
     const handleKey = (e: KeyboardEvent) => {
       if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
-      if (quizOpen || showHelp) return;
+      if (quizOpen || showHelp || shadowSpeakOpen) return;
       const video = videoRef.current;
       if (!video) return;
 
@@ -154,21 +204,24 @@ export default function VideoLearningPage({
     };
     window.addEventListener('keydown', handleKey);
     return () => window.removeEventListener('keydown', handleKey);
-  }, [videoRef, quizOpen, showHelp]);
+  }, [videoRef, quizOpen, showHelp, shadowSpeakOpen]);
 
   const handleTimeUpdate = useCallback((t: number) => {
     const nextActiveIndex = binarySearchSubtitleIndex(subtitles, t);
-    const now = Date.now();
     const indexChanged = nextActiveIndex !== activeSubtitleIndexRef.current;
-    const throttleExpired = now - lastSubtitleSyncAtRef.current >= 50;
 
-    if (!indexChanged && !throttleExpired) {
+    if (indexChanged) {
+      activeSubtitleIndexRef.current = nextActiveIndex;
+      lastSubtitleSyncAtRef.current = Date.now();
+      setCurrentTime(t);
       return;
     }
 
-    activeSubtitleIndexRef.current = nextActiveIndex;
-    lastSubtitleSyncAtRef.current = now;
-    setCurrentTime(t);
+    const now = Date.now();
+    if (now - lastSubtitleSyncAtRef.current >= 200) {
+      lastSubtitleSyncAtRef.current = now;
+      setCurrentTime(t);
+    }
   }, [subtitles]);
 
   const handleSeek = useCallback((time: number) => {
@@ -218,6 +271,18 @@ export default function VideoLearningPage({
             >
               <Brain className="h-3.5 w-3.5" />
               <span className="hidden sm:inline">测试</span>
+            </button>
+            <button
+              onClick={() => setShadowSpeakOpen(true)}
+              className={`flex items-center gap-1 px-2 py-1 rounded-md text-xs font-medium transition-colors ${
+                shadowSpeakOpen
+                  ? 'bg-violet-500 text-white'
+                  : 'text-muted-foreground hover:text-foreground hover:bg-muted'
+              }`}
+              title="影子跟读"
+            >
+              <Mic className="h-3.5 w-3.5" />
+              <span className="hidden sm:inline">跟读</span>
             </button>
             {role !== 'admin' && (
               <Link href="/profile" className="flex items-center justify-center w-7 h-7 rounded-md bg-primary/10 text-primary hover:bg-primary/20 transition-colors" title="个人主页">
@@ -375,12 +440,45 @@ export default function VideoLearningPage({
             blindMode={blindMode}
           />
           <div className="mt-1 sm:mt-3 px-1 hidden sm:block">
-            <h2 className="text-base sm:text-lg font-semibold truncate">{title}</h2>
-            {description && (
-              <p className="text-sm text-muted-foreground mt-1 line-clamp-2">
-                {description}
-              </p>
-            )}
+            {(() => {
+              const currentSub = getSubtitleAtTime(subtitles, currentTime);
+              if (!currentSub) {
+                return <p className="text-sm text-muted-foreground italic">等待播放...</p>;
+              }
+              const zhText = getZhText(currentSub);
+              const activeWordIdx = getActiveWordIndex(
+                currentSub.text, currentTime, currentSub.startTime, currentSub.endTime, currentSub.wordTimings
+              );
+              // Render words with green-follow effect
+              const parts = currentSub.text.split(/(\s+)/);
+              let wordCounter = 0;
+              const wordElements = parts.map((part, i) => {
+                if (!part.trim()) return <span key={i}>{part}</span>;
+                const cls = classifyWord(part);
+                const currentWordIdx = wordCounter++;
+                const isCurrentWord = currentWordIdx === activeWordIdx;
+                const className = isCurrentWord
+                  ? 'bg-green-400/25 text-green-700 dark:text-green-300 rounded px-0.5 ring-2 ring-green-500/70 shadow-[0_0_6px_rgba(34,197,94,0.25)] transition-all duration-75'
+                  : cls.isKeyVocab
+                    ? `${cls.bgColor} ${cls.color} rounded px-0.5 transition-colors`
+                    : 'px-0.5 rounded transition-colors';
+                return <span key={i} className={className}>{part}</span>;
+              });
+              return (
+                <div className="bg-muted/50 rounded-lg px-4 py-3 space-y-1.5">
+                  <p className="text-base font-medium leading-relaxed">{wordElements}</p>
+                  {zhText && (
+                    <p className="text-sm text-muted-foreground">{zhText}</p>
+                  )}
+                  {!zhText && translating && (
+                    <p className="text-xs text-muted-foreground/70 flex items-center gap-1.5">
+                      <span className="inline-block w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse" />
+                      中文字幕后台翻译中，完成后自动出现
+                    </p>
+                  )}
+                </div>
+              );
+            })()}
           </div>
         </div>
 
@@ -411,6 +509,16 @@ export default function VideoLearningPage({
         videoUrl={videoUrl}
         subtitles={subtitles.map(s => ({ id: s.id, text: s.text, startTime: s.startTime, endTime: s.endTime }))}
         videoRef={videoRef}
+      />
+
+      <ShadowSpeak
+        open={shadowSpeakOpen}
+        onClose={() => setShadowSpeakOpen(false)}
+        subtitles={subtitles}
+        videoRef={videoRef}
+        videoUrl={videoUrl}
+        videoId={id}
+        isAdmin={isAdmin}
       />
     </div>
   );

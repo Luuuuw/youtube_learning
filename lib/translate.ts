@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { parseVtt, Subtitle } from '@/lib/vtt-parser';
-
+import { invalidateVideoCache } from '@/lib/videos';
 const MINIMAX_API_URL = 'https://api.minimaxi.com/v1/text/chatcompletion_v2';
 const CONTENT_DIR = path.join(process.cwd(), 'public', 'content');
 const BATCH_SIZE = 20;
@@ -177,20 +177,20 @@ async function requestBatchTranslation(
 
 ## 核心规则（必须严格遵守）
 
-### 规则1: 逐行独立翻译
-- 每一行必须**独立翻译**，不要参考其他行的内容
-- 不要将上一行的信息带入当前行的翻译
-- 不要因为上下文而增减当前行的内容
+### 规则1: 参考上下文翻译
+- 每行翻译时参考前后几行的内容，理解完整语境
+- 字幕经常断句，同一句话可能被切分成多行，翻译时要保证语义连贯
+- 但翻译结果只写当前行的内容，不要把其他行的内容混入
 
 ### 规则2: 行数与ID一致
 - 输出行数必须与输入行数**完全相等**
 - 每行开头的 [[ID:数字]] 必须**原样保留**
 - 严禁合并或拆分任何行
 
-### 规则3: 精准翻译
-- 准确翻译原文的每一个语义单元，不要遗漏
-- 不要添加原文没有的内容
-- 口语化表达，避免生硬直译
+### 规则3: 自然通顺的中文
+- 翻译成自然流畅的中文口语，像中国人日常说话那样
+- 英文是SVO语序，中文也是SVO语序，直接按中文语序翻译，不要按英文词序逐词翻译
+- 遇到从句、倒装、插入语时，按中文习惯调整语序
 - 中文建议控制在15-20字以内
 
 ### 规则4: 专有名词保留
@@ -209,12 +209,16 @@ async function requestBatchTranslation(
 ## 输出示例
 
 输入:
-[[ID:1]] Good morning. I'm so happy this morning.
-[[ID:2]] The sun is shining in Copenhagen.
+[[ID:1]] Good morning. I'm so happy
+[[ID:2]] this morning.
+[[ID:3]] The sun is shining in Copenhagen.
 
 输出:
-[[ID:1]] 早上好。我今天早上好开心。
-[[ID:2]] 哥本哈根阳光明媚。
+[[ID:1]] 早上好。我今天好开心
+[[ID:2]] 早上好开心。
+[[ID:3]] 哥本哈根阳光明媚。
+
+注意：ID:1和ID:2是同一句话被切分，翻译时需要理解上下文，但每行独立输出自己的翻译。
 
 ## 待翻译内容
 必须完整翻译以下ID: ${expectedIds}
@@ -232,13 +236,15 @@ async function requestBatchTranslation(
 - 所有 [[ID:数字]] 标识符必须原样保留
 
 ### 规则2: 修正重点
+- 修正语序错误：中文必须按中文语序组织，不能按英文词序直译
 - 修正误译：确保中文准确传达英文原意
 - 修正重复翻译：如果中文包含了不属于当前行的内容，删除多余部分
 - 修正漏译：补充缺失的关键信息
 - 优化表达：将生硬直译改为自然口语
 
-### 规则3: 每行独立
-- 每行翻译必须只对应当前行的英文原文
+### 规则3: 参考上下文
+- 参考前后几行理解完整语境
+- 但每行翻译只对应当前行的英文原文
 - 不要将其他行的内容混入当前行
 
 ### 规则4: 保留专有名词
@@ -283,15 +289,12 @@ async function translateBatch(
     if (missing.length === 0) break;
 
     const retry = await requestBatchTranslation(missing, apiKey, 'translate');
-    retry.forEach((text, id) => translated.set(id, text));
+    retry.forEach((text, id) => {
+      if (text) translated.set(id, text);
+    });
   }
 
-  for (const s of subtitles) {
-    if (!translated.has(s.id)) {
-      translated.set(s.id, '');
-    }
-  }
-
+  // Do NOT fill missing IDs with empty strings — let callers handle gaps
   return translated;
 }
 
@@ -363,6 +366,29 @@ export async function translateSubtitlesForVideo(
     try {
       if (fs.existsSync(zhJsonPath)) {
         const jsonMap = JSON.parse(fs.readFileSync(zhJsonPath, 'utf-8'));
+        const entries = Object.entries(jsonMap) as [string, string][];
+        const isTimestampKey = entries.some(([k]) => k.includes('-'));
+        if (isTimestampKey) {
+          const tsMap = new Map<string, string>();
+          for (const [k, v] of entries) {
+            if (v && v.trim()) tsMap.set(k, v);
+          }
+          return subtitles.map(sub => {
+            const tsKey = `${sub.startTime.toFixed(3)}-${sub.endTime.toFixed(3)}`;
+            let text = tsMap.get(tsKey) || '';
+            if (!text) {
+              const candidates = Array.from(tsMap.entries());
+              for (const [k, v] of candidates) {
+                const [s, e] = k.split('-').map(Number);
+                if (Math.abs(s - sub.startTime) < 0.15 && Math.abs(e - sub.endTime) < 0.15) {
+                  text = v;
+                  break;
+                }
+              }
+            }
+            return { id: sub.id, startTime: sub.startTime, endTime: sub.endTime, text };
+          });
+        }
         return subtitles.map(sub => ({
           id: sub.id,
           startTime: sub.startTime,
@@ -446,7 +472,8 @@ export async function translateSubtitlesForVideo(
 
   fs.writeFileSync(zhVttPath, lines.join('\n'), 'utf-8');
 
-  const translationMap: Record<number, string> = {};
+  // 用时间戳作为 key，避免 ID 不匹配
+  const tsMap: Record<string, string> = {};
   const zhResult: Subtitle[] = [];
   let transIdx2 = 0;
   for (let i = 0; i < subtitles.length; i++) {
@@ -458,7 +485,10 @@ export async function translateSubtitlesForVideo(
       translation = finalTranslations.get(translatableSubs[transIdx2].id) || '';
       transIdx2++;
     }
-    translationMap[sub.id] = translation;
+    if (translation) {
+      const tsKey = `${sub.startTime.toFixed(3)}-${sub.endTime.toFixed(3)}`;
+      tsMap[tsKey] = translation;
+    }
     zhResult.push({
       id: sub.id,
       startTime: sub.startTime,
@@ -467,17 +497,25 @@ export async function translateSubtitlesForVideo(
     });
   }
 
-  fs.writeFileSync(zhJsonPath, JSON.stringify(translationMap, null, 2), 'utf-8');
+  fs.writeFileSync(zhJsonPath, JSON.stringify(tsMap, null, 2), 'utf-8');
 
   return zhResult;
 }
 
-const NON_SPEECH_RE = /^\s*(\[music\]|\[applause\]|\[laughter\]|\[coughs\]|\[sighs\]|\[groans\]|\[cheers\]|\[booing\]|\[indistinct\]|\[inaudible\])\s*$/i;
+const NON_SPEECH_RE = /^\s*(\[music\]|\[applause\]|\[laughter\]|\[coughs\]|\[sighs\]|\[groans\]|\[cheers\]|\[booing\]|\[indistinct\]|\[inaudible\]|\[laughs\]|\[clears throat\]|\[sneezes\]|\[whispers\]|\[gasps\]|\[sniffs\]|\[breathes\]|\[humming\]|\[singing\]|\[upbeat music\]|\[dramatic music\]|\[soft music\]|\[gentle music\]|\[suspenseful music\]|\[upbeat music playing\]|\[music playing\]|\[music continues\]|\[music fades\]|\[instrumental\]|\[intro music\]|\[outro music\]|\[background music\])\s*$/i;
+const MUSIC_SYMBOL_RE = /^[♪♫🎵🎶\s\(\)\[\]]+$/;
+const LYRICS_RE = /^\s*[♪♫]\s*.+[♪♫]\s*$/;
 const SPEAKER_MARKER_RE = /^>>\s*/;
 const FILLER_WORDS_RE = /\b(uh+|um+|uhm+|like,|you know,?)\b/gi;
 
 function isNonSpeechLine(text: string): boolean {
-  return NON_SPEECH_RE.test(text.trim());
+  const trimmed = text.trim();
+  if (NON_SPEECH_RE.test(trimmed)) return true;
+  if (MUSIC_SYMBOL_RE.test(trimmed)) return true;
+  if (LYRICS_RE.test(trimmed)) return true;
+  if (/^\(.*music.*\)$/i.test(trimmed)) return true;
+  if (/^\[.*music.*\]$/i.test(trimmed)) return true;
+  return false;
 }
 
 function cleanSubtitleText(text: string): string {
@@ -499,6 +537,29 @@ export async function translateVideoFromRawVtt(videoId: string): Promise<Subtitl
         if (fs.existsSync(enVttPath)) {
           const en = parseVtt(fs.readFileSync(enVttPath, 'utf-8'));
           const jsonMap = JSON.parse(fs.readFileSync(zhJsonPath, 'utf-8'));
+          const entries = Object.entries(jsonMap) as [string, string][];
+          const isTimestampKey = entries.some(([k]) => k.includes('-'));
+          if (isTimestampKey) {
+            const tsMap = new Map<string, string>();
+            for (const [k, v] of entries) {
+              if (v && v.trim()) tsMap.set(k, v);
+            }
+            return en.map(sub => {
+              const tsKey = `${sub.startTime.toFixed(3)}-${sub.endTime.toFixed(3)}`;
+              let text = tsMap.get(tsKey) || '';
+              if (!text) {
+                const candidates = Array.from(tsMap.entries());
+                for (const [k, v] of candidates) {
+                  const [s, e] = k.split('-').map(Number);
+                  if (Math.abs(s - sub.startTime) < 0.15 && Math.abs(e - sub.endTime) < 0.15) {
+                    text = v;
+                    break;
+                  }
+                }
+              }
+              return { id: sub.id, startTime: sub.startTime, endTime: sub.endTime, text };
+            });
+          }
           return en.map(sub => ({
             id: sub.id,
             startTime: sub.startTime,
@@ -586,6 +647,13 @@ export async function translateVideoFromRawVtt(videoId: string): Promise<Subtitl
     finalTranslations.set(id, reviewedTranslations.get(id) || text);
   });
 
+  // 检查翻译覆盖率：如果低于 70% 则不写入，避免不完整结果
+  const coverage = finalTranslations.size / translatableSubs.length;
+  if (coverage < 0.7) {
+    console.warn(`[translate] ${videoId} 翻译覆盖率 ${Math.round(coverage * 100)}%，低于 70% 阈值，不写入文件`);
+    return [];
+  }
+
   const lines = ['WEBVTT', ''];
   let transIdx = 0;
 
@@ -608,7 +676,8 @@ export async function translateVideoFromRawVtt(videoId: string): Promise<Subtitl
 
   fs.writeFileSync(zhVttPath, lines.join('\n'), 'utf-8');
 
-  const translationMap: Record<number, string> = {};
+  // 用 "startTime-endTime" 时间戳作为 key，避免 parseVtt 重新解析后 ID 不匹配
+  const tsMap: Record<string, string> = {};
   const zhResult: Subtitle[] = [];
   let transIdx2 = 0;
   for (let i = 0; i < finalEnSubtitles.length; i++) {
@@ -620,7 +689,10 @@ export async function translateVideoFromRawVtt(videoId: string): Promise<Subtitl
       translation = finalTranslations.get(translatableSubs[transIdx2].id) || '';
       transIdx2++;
     }
-    translationMap[enSub.id] = translation;
+    if (translation) {
+      const tsKey = `${enSub.startTime.toFixed(3)}-${enSub.endTime.toFixed(3)}`;
+      tsMap[tsKey] = translation;
+    }
     zhResult.push({
       id: enSub.id,
       startTime: enSub.startTime,
@@ -629,9 +701,41 @@ export async function translateVideoFromRawVtt(videoId: string): Promise<Subtitl
     });
   }
 
-  fs.writeFileSync(zhJsonPath, JSON.stringify(translationMap, null, 2), 'utf-8');
+  fs.writeFileSync(zhJsonPath, JSON.stringify(tsMap, null, 2), 'utf-8');
 
   return zhResult;
+}
+
+// Fire-and-forget 后台翻译，避免阻塞页面渲染
+const inflightTranslations = new Set<string>();
+const TRANSLATE_TIMEOUT_MS = 5 * 60 * 1000; // 单个视频翻译上限 5 分钟
+
+export function triggerBackgroundTranslation(videoId: string): void {
+  if (inflightTranslations.has(videoId)) return;
+  inflightTranslations.add(videoId);
+
+  const timeout = setTimeout(() => {
+    if (inflightTranslations.has(videoId)) {
+      inflightTranslations.delete(videoId);
+      console.warn(`[translate] ${videoId} 翻译超时 ${TRANSLATE_TIMEOUT_MS / 1000}s，已放弃`);
+    }
+  }, TRANSLATE_TIMEOUT_MS);
+
+  translateVideoFromRawVtt(videoId)
+    .then((result) => {
+      if (result.length > 0) {
+        try { saveZhSubtitles(videoId, result); } catch (e) { console.error('saveZhSubtitles failed:', e); }
+        invalidateVideoCache(videoId);
+        console.log(`[translate] ${videoId} 后台翻译完成 ${result.length} 条`);
+      }
+    })
+    .catch((err) => {
+      console.error(`[translate] ${videoId} 后台翻译失败:`, err?.message || err);
+    })
+    .finally(() => {
+      clearTimeout(timeout);
+      inflightTranslations.delete(videoId);
+    });
 }
 
 export function saveZhSubtitles(videoId: string, subtitles: Subtitle[]): void {

@@ -9,7 +9,7 @@ import {
   SkipBack,
   SkipForward,
   Maximize,
-   EarOff,
+  EarOff,
 } from 'lucide-react';
 import { Subtitle, formatTime } from '@/lib/vtt-parser';
 import { getSubtitleAtTime } from '@/lib/subtitle-sync';
@@ -45,8 +45,24 @@ export default function VideoPlayer({
   const [showControls, setShowControls] = useState(true);
   const [hoverTime, setHoverTime] = useState<number | null>(null);
   const [hoverX, setHoverX] = useState(0);
+  const [overlayCaptionsOn, setOverlayCaptionsOn] = useState(false);
   const hideTimerRef = useRef<NodeJS.Timeout | null>(null);
   const durationRef = useRef(0);
+
+  useEffect(() => {
+    const saved = typeof window !== 'undefined'
+      ? window.localStorage.getItem('ve-overlay-captions')
+      : null;
+    if (saved === 'off') setOverlayCaptionsOn(false);
+  }, []);
+
+  const toggleOverlayCaptions = () => {
+    setOverlayCaptionsOn(prev => {
+      const next = !prev;
+      try { window.localStorage.setItem('ve-overlay-captions', next ? 'on' : 'off'); } catch {}
+      return next;
+    });
+  };
 
   const readDuration = useCallback(() => {
     const video = videoRef.current;
@@ -244,9 +260,13 @@ export default function VideoPlayer({
           onDurationChange={handleDurationChange}
           onClick={handlePlayPause}
           preload="metadata"
+          playsInline
+          webkit-playsinline="true"
+          x5-video-player-type="h5"
+          x5-video-player-fullscreen="false"
         />
 
-        {currentSubtitle && !blindMode && (
+        {currentSubtitle && !blindMode && overlayCaptionsOn && (
           <div className="absolute bottom-16 left-1/2 -translate-x-1/2 max-w-[80%] text-center pointer-events-none max-h-[33%] overflow-hidden">
             <span className="inline-block bg-black/80 text-white px-4 py-2 rounded-lg text-base leading-relaxed line-clamp-3">
               {currentSubtitle.text}
@@ -393,6 +413,15 @@ export default function VideoPlayer({
               ) : (
                 <Volume2 className="h-4 w-4" />
               )}
+            </button>
+
+            <button
+              onClick={toggleOverlayCaptions}
+              className={`transition-colors shrink-0 text-xs font-bold font-mono ${overlayCaptionsOn ? 'text-foreground' : 'text-muted-foreground hover:text-foreground'}`}
+              title={overlayCaptionsOn ? '隐藏视频上的字幕' : '显示视频上的字幕'}
+              aria-label={overlayCaptionsOn ? '关闭画面字幕' : '开启画面字幕'}
+            >
+              CC
             </button>
 
             <div className="flex items-center gap-0.5 sm:gap-1">

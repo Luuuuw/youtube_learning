@@ -84,23 +84,23 @@ export default function LearningCalendar({ userCode, role }: LearningCalendarPro
 
   return (
     <div className="group relative">
-      <div className="flex items-center gap-2 px-3 py-2 rounded-xl bg-card border border-border hover:border-primary/30 transition-all duration-300 cursor-default">
-        <div className="flex flex-col items-center gap-0.5 mr-1">
-          <span className={`text-[10px] font-bold leading-none ${streak >= 7 ? 'text-orange-400' : streak >= 3 ? 'text-amber-400' : 'text-muted-foreground'}`}>
+      <div className="flex items-center gap-1.5 sm:gap-2 px-2 sm:px-3 h-9 rounded-xl bg-card border border-border hover:border-primary/30 transition-all duration-300 cursor-default">
+        <div className="flex flex-col items-center gap-0.5 mr-0.5 sm:mr-1">
+          <span className={`text-[9px] sm:text-[10px] font-bold leading-none ${streak >= 7 ? 'text-orange-400' : streak >= 3 ? 'text-amber-400' : 'text-muted-foreground'}`}>
             {streak}
           </span>
-          <span className="text-[8px] text-muted-foreground leading-none">天</span>
+          <span className="text-[7px] sm:text-[8px] text-muted-foreground leading-none">天</span>
         </div>
 
-        <div className="w-px h-8 bg-border" />
+        <div className="w-px h-6 sm:h-8 bg-border" />
 
-        <div className="grid grid-cols-7 gap-[3px]" style={{ perspective: '600px' }}>
+        <div className="grid grid-cols-7 gap-[2px] sm:gap-[3px]" style={{ perspective: '600px' }}>
           {days.map((day, i) => (
             <button
               key={i}
               onMouseEnter={() => setHoverCell(day.date)}
               onMouseLeave={() => setHoverCell(null)}
-              className={`w-[11px] h-[11px] rounded-sm transition-all duration-200 ${getDotStyle(day.count, i)} ${
+              className={`w-[9px] h-[9px] sm:w-[11px] sm:h-[11px] rounded-sm transition-all duration-200 ${getDotStyle(day.count, i)} ${
                 day.isToday ? 'ring-1 ring-primary/50 scale-110 z-10' : 'hover:scale-125 hover:z-10'
               } ${
                 day.count > 0 && !day.isToday ? 'group-hover:brightness-110' : ''

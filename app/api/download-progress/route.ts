@@ -65,7 +65,10 @@ function setProgress(progress: DownloadProgress) {
   }
 }
 
-export async function GET() {
+export async function GET(req: NextRequest) {
+  if (!verifyAdmin(req)) {
+    return NextResponse.json({ error: '需要管理员权限' }, { status: 403 });
+  }
   try {
     return NextResponse.json(getProgress());
   } catch (e: any) {

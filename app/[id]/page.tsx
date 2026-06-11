@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { ChevronLeft } from 'lucide-react';
 import { redirect } from 'next/navigation';
 import { getVideoById } from '@/lib/videos';
-import { translateVideoFromRawVtt } from '@/lib/translate';
+import { triggerBackgroundTranslation } from '@/lib/translate';
 import VideoLearningPage from '@/components/video-learning-page';
 import { checkPageAuth } from '@/lib/auth-check';
 
@@ -37,25 +37,9 @@ export default async function VideoPage({
     );
   }
 
-  if (videoData.zhSubtitles.length === 0) {
-    try {
-      const zhSubtitles = await translateVideoFromRawVtt(videoData.id);
-      if (zhSubtitles.length > 0) {
-        videoData.zhSubtitles = zhSubtitles;
-        const translationMap = new Map<number, string>();
-        for (const zh of zhSubtitles) {
-          translationMap.set(zh.id, zh.text);
-        }
-        for (const sub of videoData.subtitles) {
-          const translation = translationMap.get(sub.id);
-          if (translation) {
-            sub.translation = translation;
-          }
-        }
-      }
-    } catch (err) {
-      console.error('Translation failed:', err);
-    }
+  // 如果需要翻译（无字幕或覆盖率 < 50%），后台触发但不阻塞页面
+  if (videoData.zhSubtitles.length === 0 || videoData.zhNeedsRetranslate) {
+    triggerBackgroundTranslation(videoData.id);
   }
 
   return (
@@ -66,6 +50,7 @@ export default async function VideoPage({
       videoUrl={videoData.videoUrl}
       subtitles={videoData.subtitles}
       zhSubtitles={videoData.zhSubtitles}
+      zhNeedsRetranslate={videoData.zhNeedsRetranslate}
     />
   );
 }

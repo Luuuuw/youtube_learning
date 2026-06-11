@@ -1,6 +1,5 @@
 import { cookies } from 'next/headers';
-import authSessions from '@/lib/auth-sessions';
-import { getUserByUsername } from '@/lib/user-db';
+import { AuthService } from '@/lib/auth-service';
 
 export interface AuthResult {
   authenticated: boolean;
@@ -14,17 +13,14 @@ export async function checkPageAuth(): Promise<AuthResult> {
 
   if (!token) return { authenticated: false };
 
-  const session = authSessions.get(token);
-  if (!session) return { authenticated: false };
+  const result = AuthService.validateSession(token);
 
-  const age = Date.now() - session.createdAt;
-  if (age > 7 * 24 * 60 * 60 * 1000) {
-    authSessions.delete(token);
+  if (!result.valid) {
+    if (result.shouldDelete) {
+      AuthService.cleanupInvalidSession(token);
+    }
     return { authenticated: false };
   }
 
-  const user = getUserByUsername(session.code);
-  if (!user || user.disabled) return { authenticated: false };
-
-  return { authenticated: true, username: session.code, role: session.role };
+  return { authenticated: true, username: result.session!.code, role: result.session!.role };
 }

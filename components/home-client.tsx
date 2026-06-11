@@ -3,10 +3,13 @@
 import { useState, useMemo, useCallback, useEffect } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { BookOpen, NotebookPen, Download, BarChart3, X, Tags, Loader2, Check, ChevronDown, RefreshCw, Search, TrendingUp, Play, Flame, Trash2, Zap, FileText, Users } from 'lucide-react';
+import { BookOpen, NotebookPen, Download, BarChart3, X, Tags, Loader2, Check, ChevronDown, RefreshCw, Search, TrendingUp, Play, Flame, Trash2, Zap, FileText, Users, Languages, MessageSquareText, BookMarked } from 'lucide-react';
 import VideoCardClient from '@/components/video-card-client';
 import Sidebar from '@/components/sidebar';
 import LearningCalendar from '@/components/learning-calendar';
+import AnnouncementModal from '@/components/announcement-modal';
+import TodayRecommend from '@/components/today-recommend';
+import DailySummary, { shouldShowDailySummary } from '@/components/daily-summary';
 import { useAuth } from '@/lib/auth-context';
 import { UserNav } from '@/components/user-nav';
 import AdminUserPanel from '@/components/admin-user-panel';
@@ -46,7 +49,10 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
 
   const [showProcessDialog, setShowProcessDialog] = useState(false);
   const [showUserPanel, setShowUserPanel] = useState(false);
+  const [showAnnouncement, setShowAnnouncement] = useState(false);
+  const [showDailySummary, setShowDailySummary] = useState(false);
   const [processRunning, setProcessRunning] = useState(false);
+  const [selectedVideoIds, setSelectedVideoIds] = useState<Set<string>>(new Set());
   const [processProgress, setProcessProgress] = useState<{
     status: string;
     total: number;
@@ -113,7 +119,7 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
     setDeleting(false);
   }, [deletingVideoId, getAuthToken]);
 
-  const startProcessAll = useCallback(async (force = false) => {
+  const startProcessAll = useCallback(async (force = false, videoIds?: string[], step?: string) => {
     setProcessRunning(true);
     setShowProcessDialog(true);
     const token = getAuthToken();
@@ -124,7 +130,7 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
           'Content-Type': 'application/json',
           'Authorization': `Bearer ${token}`,
         },
-        body: JSON.stringify({ force }),
+        body: JSON.stringify({ force, videoIds, step }),
       });
       if (!res.ok) {
         const data = await res.json();
@@ -140,22 +146,44 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
   }, [getAuthToken]);
 
   const pollProcessProgress = useCallback(() => {
+    let elapsed = 0;
+    const MAX_POLL_SECONDS = 3 * 60 * 60; // 最多轮询 3 小时
     const interval = setInterval(async () => {
+      elapsed += 2;
       try {
-        const res = await fetch('/api/process-all');
+        const token = getAuthToken();
+        const res = await fetch('/api/process-all', {
+          headers: token ? { Authorization: `Bearer ${token}` } : undefined,
+        });
         const data = await res.json();
-        setProcessProgress(data);
-        if (data.status === 'completed' || data.status === 'error') {
+        setProcessProgress({
+          ...data,
+          results: data.results || {},
+          logs: data.logs || [],
+        });
+        if (data.status === 'completed' || data.status === 'error' || elapsed >= MAX_POLL_SECONDS) {
           setProcessRunning(false);
           clearInterval(interval);
+          if (elapsed >= MAX_POLL_SECONDS) {
+            setProcessProgress(prev => prev ? { ...prev, status: 'error', logs: [...(prev.logs || []), '[超时] 轮询超时，已自动停止'] } : prev);
+          }
           router.refresh();
         }
-      } catch {}
+      } catch {
+        // 网络错误时继续轮询，除非超时
+        if (elapsed >= MAX_POLL_SECONDS) {
+          setProcessRunning(false);
+          clearInterval(interval);
+        }
+      }
     }, 2000);
-  }, [router]);
+  }, [router, getAuthToken]);
 
   useEffect(() => {
-    fetch('/api/videos/popular')
+    const token = getAuthToken();
+    fetch('/api/videos/popular', {
+      headers: token ? { Authorization: `Bearer ${token}` } : {},
+    })
       .then(res => res.json())
       .then(data => {
         if (data.videos?.length > 0) {
@@ -165,6 +193,15 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
       .catch(() => {})
       .finally(() => setPopularLoaded(true));
   }, []);
+
+  useEffect(() => {
+    if (!userCode) return;
+    const hasSeenOnboarding = localStorage.getItem('ve-seen-onboarding');
+    const dontShowToday = localStorage.getItem('ve-dont-show-announcement');
+    if (dontShowToday === new Date().toISOString().slice(0, 10)) return;
+    const timer = setTimeout(() => setShowAnnouncement(true), 800);
+    return () => clearTimeout(timer);
+  }, [userCode]);
 
   const openTagDialog = useCallback(() => {
     setTagVideos(videos.map(v => ({ ...v })));
@@ -276,23 +313,36 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
 
       <div className="pl-0 lg:pl-[240px] transition-all duration-300 overflow-x-hidden">
         <div className="min-h-screen bg-background text-foreground">
-          <header className="py-8 px-4 sm:px-6 border-b border-border">
-            <div className="max-w-6xl mx-auto flex items-center justify-between">
+          <header className="py-6 sm:py-8 px-4 sm:px-6 border-b border-border">
+            <div className="max-w-6xl mx-auto flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
               <div>
-                <div className="flex items-center gap-3 mb-2">
-                  <BookOpen className="h-8 w-8" />
-                  <h1 className="text-3xl font-bold tracking-tight">VibeEnglish</h1>
+                <div className="flex items-center gap-3 mb-1 sm:mb-2">
+                  <BookOpen className="h-6 w-6 sm:h-8 sm:w-8" />
+                  <h1 className="text-2xl sm:text-3xl font-bold tracking-tight">VibeEnglish</h1>
                 </div>
-                <p className="text-muted-foreground text-lg">
+                <p className="text-muted-foreground text-sm sm:text-lg">
                   通过 YouTube 视频沉浸式学习英语
                 </p>
               </div>
-              <div className="flex items-center gap-2">
+              <div className="flex items-center gap-2 flex-shrink-0">
+                {userCode && role !== 'admin' && (
+                  <button
+                    onClick={() => setShowDailySummary(true)}
+                    className="flex items-center justify-center h-9 px-2 rounded-lg text-xs font-medium text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
+                    title="今日学习总结"
+                  >
+                    📋 总结
+                  </button>
+                )}
                 <LearningCalendar userCode={userCode} role={role} />
                 <UserNav />
               </div>
             </div>
           </header>
+
+          {userCode && role !== 'admin' && (
+            <TodayRecommend videos={videos} userCode={userCode} />
+          )}
 
           <main className="max-w-6xl mx-auto py-8 px-4 sm:px-6">
             <div className="flex items-center justify-between mb-6 flex-wrap gap-3">
@@ -304,37 +354,43 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                   </p>
                 )}
               </div>
-              <div className="flex items-center gap-3">
+              <div className="flex items-center gap-2 sm:gap-3 flex-wrap">
                 {role === 'admin' && (
                   <>
-                    <Link href="/dashboard" className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors">
-                      <BarChart3 className="h-4 w-4" /> 数据看板
+                    <Link href="/dashboard" className="flex items-center gap-1 text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors">
+                      <BarChart3 className="h-3.5 w-3.5 sm:h-4 sm:w-4" /> <span className="hidden sm:inline">数据</span>看板
                     </Link>
-                    <Link href="/download" className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors">
-                      <Download className="h-4 w-4" /> 批量下载
+                    <Link href="/download" className="flex items-center gap-1 text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors">
+                      <Download className="h-3.5 w-3.5 sm:h-4 sm:w-4" /> <span className="hidden sm:inline">批量</span>下载
                     </Link>
                     <button
                       onClick={openTagDialog}
-                      className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+                      className="flex items-center gap-1 text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors"
                     >
-                      <Tags className="h-4 w-4" /> 批量标签
+                      <Tags className="h-3.5 w-3.5 sm:h-4 sm:w-4" /> <span className="hidden sm:inline">批量</span>标签
                     </button>
                     <button
                       onClick={() => startProcessAll(false)}
-                      className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+                      className="flex items-center gap-1 text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors"
                     >
-                      <Zap className="h-4 w-4" /> 一键处理
+                      <Zap className="h-3.5 w-3.5 sm:h-4 sm:w-4" /> <span className="hidden sm:inline">一键</span>处理
                     </button>
                     <button
                       onClick={() => setShowUserPanel(true)}
-                      className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+                      className="flex items-center gap-1 text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors"
                     >
-                      <Users className="h-4 w-4" /> 用户管理
+                      <Users className="h-3.5 w-3.5 sm:h-4 sm:w-4" /> <span className="hidden sm:inline">用户</span>管理
+                    </button>
+                    <button
+                      onClick={() => setShowAnnouncement(true)}
+                      className="flex items-center gap-1 text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors"
+                    >
+                      <FileText className="h-3.5 w-3.5 sm:h-4 sm:w-4" /> <span className="hidden sm:inline">修改</span>公告
                     </button>
                   </>
                 )}
-                <Link href="/vocab" className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors">
-                  <NotebookPen className="h-4 w-4" /> 生词本
+                <Link href="/vocab" className="flex items-center gap-1 text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors">
+                  <NotebookPen className="h-3.5 w-3.5 sm:h-4 sm:w-4" /> 生词本
                 </Link>
               </div>
             </div>
@@ -774,37 +830,161 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
               </button>
             </div>
 
-            <div className="p-6 border-b border-border flex items-center gap-4 flex-wrap">
-              <button
-                onClick={() => startProcessAll(false)}
-                disabled={processRunning}
-                className="flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm font-medium hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
-              >
-                {processRunning ? (
-                  <><Loader2 className="h-4 w-4 animate-spin" /> 处理中...</>
-                ) : (
-                  <><Zap className="h-4 w-4" /> 处理未完成视频</>
+            <div className="p-6 border-b border-border space-y-4">
+              <p className="text-sm text-muted-foreground">选择要执行的 AI 处理功能：</p>
+              <div className="grid grid-cols-2 gap-3">
+                {/* 标签分类 */}
+                <button
+                  onClick={() => startProcessAll(false, undefined, 'tag')}
+                  disabled={processRunning}
+                  className="flex items-center gap-3 px-4 py-3 border border-border rounded-xl text-sm font-medium hover:bg-muted disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-left"
+                >
+                  <Tags className="h-5 w-5 text-indigo-500 shrink-0" />
+                  <div>
+                    <div>标签分类</div>
+                    <div className="text-xs text-muted-foreground font-normal">场景分类 + 难度等级</div>
+                  </div>
+                </button>
+                {/* 字幕翻译 */}
+                <button
+                  onClick={() => startProcessAll(false, undefined, 'translate')}
+                  disabled={processRunning}
+                  className="flex items-center gap-3 px-4 py-3 border border-border rounded-xl text-sm font-medium hover:bg-muted disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-left"
+                >
+                  <Languages className="h-5 w-5 text-blue-500 shrink-0" />
+                  <div>
+                    <div>字幕翻译</div>
+                    <div className="text-xs text-muted-foreground font-normal">英文字幕 → 中文字幕</div>
+                  </div>
+                </button>
+                {/* 题库生成 */}
+                <button
+                  onClick={() => startProcessAll(false, undefined, 'quiz')}
+                  disabled={processRunning}
+                  className="flex items-center gap-3 px-4 py-3 border border-border rounded-xl text-sm font-medium hover:bg-muted disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-left"
+                >
+                  <MessageSquareText className="h-5 w-5 text-amber-500 shrink-0" />
+                  <div>
+                    <div>题库生成</div>
+                    <div className="text-xs text-muted-foreground font-normal">选择题 + 口语题</div>
+                  </div>
+                </button>
+                {/* 单词分类 */}
+                <button
+                  onClick={async () => {
+                    setProcessRunning(true);
+                    setShowProcessDialog(true);
+                    const token = getAuthToken();
+                    try {
+                      const res = await fetch('/api/vocab/bank/build', {
+                        method: 'POST',
+                        headers: {
+                          'Content-Type': 'application/json',
+                          'Authorization': `Bearer ${token}`,
+                        },
+                        body: JSON.stringify({ force: true }),
+                      });
+                      const data = await res.json();
+                      if (!res.ok) {
+                        alert(data.error || '构建失败');
+                      } else {
+                        setProcessProgress({
+                          status: 'completed',
+                          total: data.totalWords || 0,
+                          current: data.totalWords || 0,
+                          currentVideoId: '',
+                          currentStep: '单词分类',
+                          results: {},
+                          logs: [`词汇库构建完成：${data.totalWords} 个单词`],
+                        });
+                      }
+                    } catch {
+                      alert('网络错误');
+                    }
+                    setProcessRunning(false);
+                  }}
+                  disabled={processRunning}
+                  className="flex items-center gap-3 px-4 py-3 border border-border rounded-xl text-sm font-medium hover:bg-muted disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-left"
+                >
+                  <BookMarked className="h-5 w-5 text-green-500 shrink-0" />
+                  <div>
+                    <div>单词分类</div>
+                    <div className="text-xs text-muted-foreground font-normal">全局词汇库构建</div>
+                  </div>
+                </button>
+              </div>
+
+              {/* 强制重做 + 选中视频翻译 */}
+              <div className="flex items-center gap-3 flex-wrap pt-2 border-t border-border">
+                <button
+                  onClick={() => startProcessAll(true, undefined, 'all')}
+                  disabled={processRunning}
+                  className="flex items-center gap-2 px-3 py-1.5 border border-border text-foreground rounded-lg text-xs font-medium hover:bg-muted disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                >
+                  <RefreshCw className="h-3.5 w-3.5" /> 强制重做全部
+                </button>
+                <button
+                  onClick={() => {
+                    if (selectedVideoIds.size === 0) return;
+                    startProcessAll(true, Array.from(selectedVideoIds), 'translate');
+                  }}
+                  disabled={processRunning || selectedVideoIds.size === 0}
+                  className="flex items-center gap-2 px-3 py-1.5 border border-blue-500/30 text-blue-600 dark:text-blue-400 rounded-lg text-xs font-medium hover:bg-blue-500/10 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                >
+                  <Languages className="h-3.5 w-3.5" />
+                  重新翻译选中 ({selectedVideoIds.size})
+                </button>
+                {processProgress && processProgress.status === 'running' && (
+                  <div className="flex-1 h-2 bg-muted rounded-full overflow-hidden">
+                    <div
+                      className="h-full bg-primary rounded-full transition-all duration-500"
+                      style={{ width: `${processProgress.total > 0 ? (processProgress.current / processProgress.total) * 100 : 0}%` }}
+                    />
+                  </div>
                 )}
-              </button>
-              <button
-                onClick={() => startProcessAll(true)}
-                disabled={processRunning}
-                className="flex items-center gap-2 px-4 py-2 border border-border text-foreground rounded-lg text-sm font-medium hover:bg-muted disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
-              >
-                {processRunning ? (
-                  <><Loader2 className="h-4 w-4 animate-spin" /> 处理中...</>
-                ) : (
-                  <><RefreshCw className="h-4 w-4" /> 强制重新处理全部</>
-                )}
-              </button>
-              {processProgress && processProgress.status === 'running' && (
-                <div className="flex-1 h-2 bg-muted rounded-full overflow-hidden">
-                  <div
-                    className="h-full bg-primary rounded-full transition-all duration-500"
-                    style={{ width: `${processProgress.total > 0 ? (processProgress.current / processProgress.total) * 100 : 0}%` }}
-                  />
+              </div>
+
+              <div className="border border-border rounded-lg max-h-48 overflow-y-auto">
+                <div className="sticky top-0 bg-card px-3 py-2 border-b border-border flex items-center justify-between">
+                  <span className="text-xs text-muted-foreground">选择视频重新翻译</span>
+                  <div className="flex items-center gap-2">
+                    <button
+                      onClick={() => setSelectedVideoIds(new Set(videos.map(v => v.id)))}
+                      className="text-xs text-primary hover:underline"
+                    >全选</button>
+                    <button
+                      onClick={() => setSelectedVideoIds(new Set())}
+                      className="text-xs text-muted-foreground hover:underline"
+                    >清空</button>
+                  </div>
                 </div>
-              )}
+                <div className="divide-y divide-border">
+                  {videos.map(v => {
+                    const checked = selectedVideoIds.has(v.id);
+                    return (
+                      <label
+                        key={v.id}
+                        className={`flex items-center gap-3 px-3 py-2 cursor-pointer hover:bg-muted/50 transition-colors ${checked ? 'bg-blue-500/5' : ''}`}
+                      >
+                        <input
+                          type="checkbox"
+                          checked={checked}
+                          onChange={() => {
+                            const next = new Set(selectedVideoIds);
+                            if (checked) { next.delete(v.id); } else { next.add(v.id); }
+                            setSelectedVideoIds(next);
+                          }}
+                          className="rounded border-border"
+                        />
+                        <span className="text-sm truncate flex-1">{v.title || v.id}</span>
+                        {v.category && (
+                          <span className="text-xs text-muted-foreground shrink-0">{CATEGORY_LABELS[v.category as VideoCategory]?.label || v.category}</span>
+                        )}
+                      </label>
+                    );
+                  })}
+                </div>
+              </div>
             </div>
 
             <div className="flex-1 overflow-y-auto p-6">
@@ -812,8 +992,8 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                 <div className="space-y-4">
                   {processProgress.status === 'running' && (
                     <div className="flex items-center gap-3 p-4 rounded-xl bg-primary/5 border border-primary/20">
-                      <Loader2 className="h-5 w-5 animate-spin text-primary" />
-                      <div>
+                      <Loader2 className="h-5 w-5 animate-spin text-primary shrink-0" />
+                      <div className="flex-1 min-w-0">
                         <p className="text-sm font-medium">
                           正在处理 {processProgress.current}/{processProgress.total}：{processProgress.currentStep}
                         </p>
@@ -821,6 +1001,12 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                           视频：{processProgress.currentVideoId}
                         </p>
                       </div>
+                      <button
+                        onClick={() => { setProcessRunning(false); setProcessProgress(prev => prev ? { ...prev, status: 'error' } : prev); }}
+                        className="shrink-0 px-2 py-1 text-xs text-muted-foreground hover:text-foreground border border-border rounded-lg hover:bg-muted transition-colors"
+                      >
+                        取消
+                      </button>
                     </div>
                   )}
 
@@ -840,7 +1026,7 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                     </div>
                   )}
 
-                  {Object.entries(processProgress.results).length > 0 && (
+                  {processProgress.results && Object.entries(processProgress.results).length > 0 && (
                     <div className="space-y-2">
                       <h3 className="text-sm font-semibold text-muted-foreground">处理结果</h3>
                       {Object.entries(processProgress.results).map(([videoId, steps]) => (
@@ -871,7 +1057,7 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                     </div>
                   )}
 
-                  {processProgress.logs.length > 0 && (
+                  {processProgress.logs && processProgress.logs.length > 0 && (
                     <details className="group">
                       <summary className="cursor-pointer text-xs text-muted-foreground hover:text-foreground transition-colors select-none">
                         展开日志 ({processProgress.logs.length})
@@ -893,8 +1079,8 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
               ) : (
                 <div className="text-center py-12 text-muted-foreground">
                   <Zap className="h-10 w-10 mx-auto mb-3 opacity-30" />
-                  <p className="text-sm">点击上方按钮开始一键处理</p>
-                  <p className="text-xs mt-1">将自动为所有视频执行标签分类、字幕翻译和题库生成</p>
+                  <p className="text-sm">点击上方按钮选择要执行的功能</p>
+                  <p className="text-xs mt-1">标签分类、字幕翻译、题库生成、单词分类</p>
                 </div>
               )}
             </div>
@@ -903,6 +1089,21 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
       )}
 
       <AdminUserPanel open={showUserPanel} onClose={() => setShowUserPanel(false)} />
+
+      <AnnouncementModal
+        isOpen={showAnnouncement}
+        onClose={() => setShowAnnouncement(false)}
+        isAdmin={role === 'admin'}
+        adminEdit={role === 'admin'}
+      />
+
+      {userCode && role !== 'admin' && (
+        <DailySummary
+          open={showDailySummary}
+          onClose={() => setShowDailySummary(false)}
+          userCode={userCode}
+        />
+      )}
     </>
   );
 }

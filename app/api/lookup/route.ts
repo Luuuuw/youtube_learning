@@ -26,6 +26,15 @@ export async function POST(req: NextRequest) {
     if (!word || typeof word !== 'string') {
       return NextResponse.json({ error: '缺少 word 参数' }, { status: 400 });
     }
+    if (word.length > 2000) {
+      return NextResponse.json({ error: 'word 参数过长' }, { status: 400 });
+    }
+    if (body.context !== undefined && (typeof body.context !== 'string' || body.context.length > 2000)) {
+      return NextResponse.json({ error: 'context 参数格式错误或过长' }, { status: 400 });
+    }
+    if (typeof promptType !== 'string' || promptType.length > 64) {
+      return NextResponse.json({ error: 'promptType 参数错误' }, { status: 400 });
+    }
 
     const apiKey = process.env.MINIMAX_API_KEY;
     if (!apiKey) {

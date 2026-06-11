@@ -1,0 +1,75 @@
+{
+  "0.00-5.00": {
+    "level": "beginner",
+    "levelLabel": "入门",
+    "speed": {
+      "wpm": 132,
+      "label": "正常",
+      "tip": "语速适中，适合初学者跟读，注意保持节奏平稳"
+    },
+    "connectedSpeech": [
+      {
+        "words": "this is",
+        "type": "连读",
+        "description": "this结尾的/s/与is开头的/ɪ/可以连读，读作/ðɪsɪz/"
+      },
+      {
+        "words": "a test",
+        "type": "连读",
+        "description": "a弱读为/ə/，与test开头辅音/t/连读，读作/ətest/"
+      },
+      {
+        "words": "world, this",
+        "type": "省音",
+        "description": "world末尾辅音/d/与this开头辅音/ð/可略微省音过渡"
+      }
+    ],
+    "stress": [
+      {
+        "word": "world",
+        "reason": "实义词，句中第一个重要信息点"
+      },
+      {
+        "word": "test",
+        "reason": "核心实义词，表达测试意图"
+      },
+      {
+        "word": "sentence",
+        "reason": "实义词，说明内容性质"
+      },
+      {
+        "word": "shadow",
+        "reason": "核心实义词，表明练习方法"
+      },
+      {
+        "word": "speaking",
+        "reason": "实义词，说明练习类型"
+      },
+      {
+        "word": "practice",
+        "reason": "句末实义词，语义重点，结句用降调"
+      }
+    ],
+    "swallowed": [
+      {
+        "word": "is",
+        "description": "弱读为/ɪz/，发音短而轻"
+      },
+      {
+        "word": "a",
+        "description": "弱读为/ə/，几乎只看到口型"
+      },
+      {
+        "word": "for",
+        "description": "可弱读为/fər/，发音轻短"
+      }
+    ],
+    "tips": [
+      "将句子分成3个意群跟读：Hello world | this is a test sentence | for shadow speaking practice，每个意群之间自然停顿",
+      "Hello用升调（↗）表示友好问候，world用降调（↘）",
+      "句中实义词（world, test, sentence, shadow, speaking, practice）要读得清晰有力，虚词（this, is, a, for）轻读即可",
+      "注意'world'的/l/要舌尖抵上齿龈，'test'的/e/开口适中，'practice'的/æ/要饱满",
+      "跟读时先放慢速度，确保每个单词发音准确，特别是th音(/θ/和/ð/)、r音(/r/)，熟练后再逐步提速"
+    ]
+  }
+}

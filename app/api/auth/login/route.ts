@@ -1,43 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
 import authSessions, { persistSessions, checkRateLimit, recordFailedAttempt, clearFailedAttempts } from '@/lib/auth-sessions';
 import { authenticateUser, initAdminIfEmpty, addLoginLog, markExpiredTempPasswords } from '@/lib/user-db';
+import { AuthService } from '@/lib/auth-service';
+import { AUTH_CONSTANTS } from '@/lib/auth-constants';
 
 initAdminIfEmpty();
-
-const MAX_SESSIONS_PER_USER = 3;
-const MAX_LOGIN_ATTEMPTS = 5;
-const LOCKOUT_DURATION = 15 * 60 * 1000;
-
-function cleanExpiredSessions() {
-  const now = Date.now();
-  authSessions.forEach((session, token) => {
-    if (now - session.createdAt > 7 * 24 * 60 * 60 * 1000) {
-      authSessions.delete(token);
-    }
-  });
-}
-
-function checkSessionLimit(userCode: string): NextResponse | null {
-  const userSessions: string[] = [];
-  authSessions.forEach((session, token) => {
-    if (session.code === userCode) {
-      userSessions.push(token);
-    }
-  });
-  if (userSessions.length >= MAX_SESSIONS_PER_USER) {
-    return NextResponse.json(
-      { success: false, error: `该账号已在 ${MAX_SESSIONS_PER_USER} 个终端登录，请先退出其他设备` },
-      { status: 403 }
-    );
-  }
-  return null;
-}
-
-function generateToken(): string {
-  const bytes = new Uint8Array(32);
-  crypto.getRandomValues(bytes);
-  return Array.from(bytes, b => b.toString(16).padStart(2, '0')).join('');
-}
 
 function getClientIp(req: NextRequest): string {
   return req.headers.get('x-forwarded-for')?.split(',')[0]?.trim()
@@ -53,6 +20,12 @@ export async function POST(req: NextRequest) {
 
     if (!username || !password) {
       return NextResponse.json({ success: false, error: '请输入用户名和密码' }, { status: 400 });
+    }
+    if (typeof username !== 'string' || typeof password !== 'string') {
+      return NextResponse.json({ success: false, error: '参数格式错误' }, { status: 400 });
+    }
+    if (username.length > 100 || password.length > 128) {
+      return NextResponse.json({ success: false, error: '用户名或密码过长' }, { status: 400 });
     }
 
     const rateLimit = checkRateLimit(username);
@@ -70,7 +43,7 @@ export async function POST(req: NextRequest) {
     const userAgent = req.headers.get('user-agent') || '';
 
     if (result.error) {
-      recordFailedAttempt(username, MAX_LOGIN_ATTEMPTS, LOCKOUT_DURATION);
+      recordFailedAttempt(username, AUTH_CONSTANTS.MAX_LOGIN_ATTEMPTS, AUTH_CONSTANTS.LOCKOUT_DURATION_MS);
       addLoginLog(username, false, ip, userAgent);
       return NextResponse.json({ success: false, error: result.error }, { status: 401 });
     }
@@ -78,12 +51,11 @@ export async function POST(req: NextRequest) {
     clearFailedAttempts(username);
     addLoginLog(username, true, ip, userAgent);
 
-    cleanExpiredSessions();
+    AuthService.cleanExpiredSessions();
 
-    const limitHit = checkSessionLimit(username);
-    if (limitHit) return limitHit;
+    AuthService.checkAndEvictOldestSession(username);
 
-    const token = generateToken();
+    const token = AuthService.generateToken();
     authSessions.set(token, {
       createdAt: Date.now(),
       code: username,

@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { useRouter } from 'next/navigation';
 import { Lock, Loader2, CheckCircle2, XCircle, Eye, EyeOff, ArrowLeft } from 'lucide-react';
 import { useAuth } from '@/lib/auth-context';
 
@@ -13,7 +13,6 @@ export default function ChangePasswordPage() {
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const router = useRouter();
-  const searchParams = useSearchParams();
   const { mustChangePassword, clearMustChangePassword, isAuthenticated, isLoading: authLoading } = useAuth();
 
   const isForced = mustChangePassword;

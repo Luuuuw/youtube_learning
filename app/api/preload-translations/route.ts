@@ -66,7 +66,10 @@ export async function POST(req: NextRequest) {
   }
 }
 
-export async function GET() {
+export async function GET(req: NextRequest) {
+  if (!verifyAdmin(req)) {
+    return NextResponse.json({ error: '需要管理员权限' }, { status: 403 });
+  }
   const videos = getVideosNeedingTranslation();
   const toTranslate = videos.filter((v) => v.hasEn && !v.hasZh);
   return NextResponse.json({

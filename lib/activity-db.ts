@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { atomicWriteJsonSync } from '@/lib/atomic-write';
 
 const DB_DIR = path.join(process.cwd(), 'data');
 const ACTIVITY_FILE = path.join(DB_DIR, 'activity.json');
@@ -31,7 +32,7 @@ function readActivities(): DailyActivity[] {
 
 function writeActivities(data: DailyActivity[]) {
   ensureDb();
-  fs.writeFileSync(ACTIVITY_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  atomicWriteJsonSync(ACTIVITY_FILE, data);
 }
 
 export function recordView(code: string, videoId: string): void {

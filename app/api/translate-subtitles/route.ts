@@ -4,7 +4,6 @@ import { parseVtt } from '@/lib/vtt-parser';
 import fs from 'fs';
 import path from 'path';
 import authSessions from '@/lib/auth-sessions';
-
 const CONTENT_DIR = path.join(process.cwd(), 'public', 'content');
 const VALID_VIDEO_ID = /^[a-zA-Z0-9_-]+$/;
 
@@ -72,19 +71,28 @@ export async function POST(req: NextRequest) {
       if (fs.existsSync(zhJsonPath)) {
         try {
           const jsonMap = JSON.parse(fs.readFileSync(zhJsonPath, 'utf-8'));
-          const zhSubtitles = subtitles.map((s) => ({
-            id: s.id,
-            startTime: s.startTime,
-            endTime: s.endTime,
-            text: jsonMap[s.id] || '',
-          }));
-          return NextResponse.json({ message: '中文字幕已存在', cached: true, zhSubtitles });
+          const entries = Object.entries(jsonMap) as [string, string][];
+          const nonEmpty = entries.filter(([, v]) => v && v.trim());
+          // If more than 50% translations are empty, treat as missing and re-translate
+          const isBadCache = entries.length > 0 && nonEmpty.length / entries.length < 0.5;
+          if (!isBadCache) {
+            const zhSubtitles = subtitles.map((s) => ({
+              id: s.id,
+              startTime: s.startTime,
+              endTime: s.endTime,
+              text: jsonMap[s.id] || '',
+            }));
+            return NextResponse.json({ message: '中文字幕已存在', cached: true, zhSubtitles });
+          }
+          // Bad cache — delete and re-translate
+          try { fs.unlinkSync(zhVttPath); } catch {}
+          try { fs.unlinkSync(zhJsonPath); } catch {}
         } catch {}
-      }
-
-      const zhSubtitles = parseVtt(fs.readFileSync(zhVttPath, 'utf-8'));
-      if (hasGoodAlignment(subtitles, zhSubtitles)) {
-        return NextResponse.json({ message: '中文字幕已存在', cached: true, zhSubtitles });
+      } else {
+        const zhSubtitles = parseVtt(fs.readFileSync(zhVttPath, 'utf-8'));
+        if (hasGoodAlignment(subtitles, zhSubtitles)) {
+          return NextResponse.json({ message: '中文字幕已存在', cached: true, zhSubtitles });
+        }
       }
     }
 
@@ -111,4 +119,33 @@ export async function POST(req: NextRequest) {
     const msg = e instanceof Error ? e.message : '未知错误';
     return NextResponse.json({ error: msg }, { status: 500 });
   }
+}
+
+// 客户端轮询用：检查某个视频的中文字幕是否已就绪
+export async function GET(req: NextRequest) {
+  if (!verifyAuth(req)) {
+    return NextResponse.json({ error: '请先登录' }, { status: 401 });
+  }
+  const { searchParams } = new URL(req.url);
+  const videoId = searchParams.get('videoId');
+  if (!videoId || !VALID_VIDEO_ID.test(videoId)) {
+    return NextResponse.json({ error: '无效的 videoId' }, { status: 400 });
+  }
+  const zhVttPath = path.join(CONTENT_DIR, videoId, 'video.zh-Hans.vtt');
+  const zhJsonPath = path.join(CONTENT_DIR, videoId, 'video.zh-Hans.json');
+  const exists = fs.existsSync(zhVttPath) || fs.existsSync(zhJsonPath);
+  let hasContent = false;
+  if (fs.existsSync(zhJsonPath)) {
+    try {
+      const map = JSON.parse(fs.readFileSync(zhJsonPath, 'utf-8'));
+      const vals = Object.values(map) as string[];
+      hasContent = vals.filter(v => v && v.trim()).length > vals.length * 0.3;
+    } catch {}
+  } else if (fs.existsSync(zhVttPath)) {
+    try {
+      const subs = parseVtt(fs.readFileSync(zhVttPath, 'utf-8'));
+      hasContent = subs.some(s => s.text && s.text.trim());
+    } catch {}
+  }
+  return NextResponse.json({ done: exists && hasContent });
 }

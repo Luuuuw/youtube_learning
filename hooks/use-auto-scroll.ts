@@ -43,13 +43,14 @@ export function useAutoScroll(autoScrollProp: boolean) {
 
   const scrollToIndex = useCallback((index: number, behavior: ScrollBehavior) => {
     const viewport = scrollViewportRef.current;
-    if (!viewport || index < 0 || index >= (viewport.children.length || 0)) return;
+    if (!viewport) return;
 
-    const subtitleId = viewport.querySelector(`[data-subtitle-id]`) as HTMLElement | null;
-    if (!subtitleId) return;
+    const allRows = viewport.querySelectorAll('[data-subtitle-id]');
+    const target = allRows[index] as HTMLElement | undefined;
+    if (!target) return;
 
     programmaticScrollRef.current = true;
-    subtitleId.scrollIntoView({ behavior, block: 'center' });
+    target.scrollIntoView({ behavior, block: 'center' });
 
     window.setTimeout(() => {
       programmaticScrollRef.current = false;

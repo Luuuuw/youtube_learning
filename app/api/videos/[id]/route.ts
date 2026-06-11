@@ -4,6 +4,7 @@ import path from 'path';
 import { getVideoById } from '@/lib/videos';
 import authSessions from '@/lib/auth-sessions';
 import { revalidatePath } from 'next/cache';
+import { verifyAuth, unauthorizedResponse } from '@/lib/auth-middleware';
 
 const CONTENT_DIR = path.join(process.cwd(), 'public', 'content');
 const VALID_VIDEO_ID = /^[a-zA-Z0-9_-]+$/;
@@ -20,9 +21,11 @@ function verifyAdmin(req: NextRequest): boolean {
 }
 
 export async function GET(
-  _request: Request,
+  request: NextRequest,
   { params }: { params: { id: string } }
 ) {
+  const auth = verifyAuth(request);
+  if (!auth.valid) return unauthorizedResponse();
   try {
     const video = getVideoById(params.id);
     if (!video) {

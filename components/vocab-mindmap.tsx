@@ -175,7 +175,7 @@ export default function VocabMindMap({ items }: { items: MindMapItem[] }) {
     return calculateNodeDegrees(filteredData.nodes, filteredData.links);
   }, [filteredData]);
 
-  const maxDegree = Math.max(...nodeDegrees.values(), 1);
+  const maxDegree = Math.max(...Array.from(nodeDegrees.values()), 1);
 
   useEffect(() => {
     if (!svgRef.current || filteredData.nodes.length === 0) return;
@@ -362,7 +362,7 @@ export default function VocabMindMap({ items }: { items: MindMapItem[] }) {
 
     svg.on('click', () => setFocusedNodeId(null));
 
-    return () => simulation.stop();
+    return () => { simulation.stop(); };
   }, [filteredData, colorMode, focusedNodeId]);
 
   useEffect(() => {

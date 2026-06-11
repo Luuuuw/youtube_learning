@@ -26,7 +26,7 @@ export function UserNav() {
       <div ref={ref} className="relative">
         <button
           onClick={() => setOpen(!open)}
-          className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-primary/10 text-primary hover:bg-primary/20 transition-colors text-sm"
+          className="flex items-center gap-1.5 h-9 px-2.5 rounded-lg bg-primary/10 text-primary hover:bg-primary/20 transition-colors text-sm"
         >
           <User className="h-4 w-4" />
           <span className="max-w-[80px] truncate">{userCode}</span>

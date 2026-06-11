@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { atomicWriteJsonSync } from '@/lib/atomic-write';
 
 const DB_DIR = path.join(process.cwd(), 'data');
 const VOCAB_FILE = path.join(DB_DIR, 'vocab.json');
@@ -56,7 +57,7 @@ function readVocabFile(): VocabWord[] {
 
 function writeVocabFile(words: VocabWord[]) {
   ensureDb();
-  fs.writeFileSync(VOCAB_FILE, JSON.stringify(words, null, 2), 'utf-8');
+  atomicWriteJsonSync(VOCAB_FILE, words);
 }
 
 function readReviewLogFile(): ReviewLog[] {
@@ -71,7 +72,7 @@ function readReviewLogFile(): ReviewLog[] {
 
 function writeReviewLogFile(logs: ReviewLog[]) {
   ensureDb();
-  fs.writeFileSync(REVIEW_LOG_FILE, JSON.stringify(logs, null, 2), 'utf-8');
+  atomicWriteJsonSync(REVIEW_LOG_FILE, logs);
 }
 
 function generateId(): string {

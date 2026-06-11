@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
+import { verifyAuth, unauthorizedResponse } from '@/lib/auth-middleware';
 
 const BANK_PATH = path.join(process.cwd(), 'public', 'vocab-bank.json');
 
@@ -35,6 +36,8 @@ function getBank(): Record<string, VocabEntry> | null {
 }
 
 export async function GET(req: NextRequest) {
+  const auth = verifyAuth(req);
+  if (!auth.valid) return unauthorizedResponse();
   const { searchParams } = new URL(req.url);
   const word = searchParams.get('word');
   const prefix = searchParams.get('prefix');

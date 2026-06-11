@@ -128,7 +128,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         localStorage.setItem(ROLE_KEY, data.role);
         setUserCode(data.code || username);
         localStorage.setItem(CODE_KEY, data.code || username);
-        document.cookie = `ve-session-token=${data.token}; path=/; max-age=${7 * 24 * 60 * 60}; SameSite=Lax`;
+        document.cookie = `ve-session-token=${data.token}; path=/; max-age=${7 * 24 * 60 * 60}; SameSite=Lax; Secure`;
         setIsAuthenticated(true);
         setRole(data.role);
         setUserCode(data.code || username);

@@ -146,11 +146,11 @@ export default function VocabStats() {
                   background: '#fff',
                 }}
                 labelStyle={{ color: '#94a3b8', fontSize: '11px' }}
-                labelFormatter={(label: string) => {
+                labelFormatter={(label) => {
                   const d = String(label).slice(0, 5);
                   return d;
                 }}
-                formatter={(value: number) => [value, '词']}
+                formatter={(value) => [Number(value), '词']}
                 cursor={{ stroke: '#a78bfa', strokeWidth: 1, strokeDasharray: '3 3' }}
               />
               <Area

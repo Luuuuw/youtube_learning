@@ -14,7 +14,7 @@ import {
   WordCategory,
   WordClassResult,
   classifyWord,
-  getKeyVocabFromSubtitles,
+  getVideoVocab,
 } from '@/lib/word-classify';
 import { binarySearchSubtitleIndex, buildSubtitleTranslationMap } from '@/lib/subtitle-sync';
 
@@ -25,7 +25,7 @@ import { useSubtitleTooltip } from '@/hooks/use-subtitle-tooltip';
 import { useAutoScroll } from '@/hooks/use-auto-scroll';
 
 import { SubtitleHeader } from './subtitle-header';
-import { KeyVocabPanel } from './key-vocab-panel';
+import { VideoVocabPanel } from './video-vocab-panel';
 import { SubtitleTooltip } from './subtitle-tooltip';
 
 interface SubtitlePanelProps {
@@ -357,7 +357,7 @@ export default function SubtitlePanel({
     scrollToIndex(activeVisibleIndex, 'smooth');
   }, [activeVisibleIndex, autoScrollProp, followActiveSubtitle, scrollToIndex]);
 
-  const keyVocabCount = useMemo(() => getKeyVocabFromSubtitles(subtitles).size, [subtitles]);
+  const keyVocabCount = useMemo(() => getVideoVocab(subtitles).length, [subtitles]);
 
   return (
     <div className="relative flex h-full min-h-0 flex-col rounded-lg border border-border bg-card">
@@ -434,7 +434,28 @@ export default function SubtitlePanel({
             </div>
           )
         ) : (
-          <KeyVocabPanel subtitles={subtitles} />
+          <VideoVocabPanel
+            subtitles={subtitles}
+            onSeekToSubtitle={(index) => {
+              if (index >= 0 && index < subtitles.length) {
+                onSeek(subtitles[index].startTime);
+              }
+            }}
+            onAddVocab={async (word) => {
+              const token = typeof window !== 'undefined' ? localStorage.getItem('ve-session-token') : null;
+              if (!token) return;
+              const context = subtitles.find(s => s.text.toLowerCase().includes(word))?.text || '';
+              const timestamp = subtitles.find(s => s.text.toLowerCase().includes(word))?.startTime || 0;
+              await fetch('/api/vocab', {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                  Authorization: `Bearer ${token}`,
+                },
+                body: JSON.stringify({ word, context, videoId, videoTitle, timestamp }),
+              });
+            }}
+          />
         )}
       </div>
 

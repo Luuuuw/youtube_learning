@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { verifyAuth, unauthorizedResponse } from '@/lib/auth-middleware';
-import authSessions, { persistSessions } from '@/lib/auth-sessions';
+import { AuthService } from '@/lib/auth-service';
 
 export async function POST(req: NextRequest) {
   const auth = verifyAuth(req);
@@ -8,7 +8,6 @@ export async function POST(req: NextRequest) {
 
   const authHeader = req.headers.get('authorization');
   const token = authHeader!.replace('Bearer ', '');
-  const deleted = authSessions.delete(token);
-  persistSessions();
+  const deleted = AuthService.cleanupInvalidSession(token);
   return NextResponse.json({ success: true, loggedOut: deleted });
 }
