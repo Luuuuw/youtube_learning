@@ -3,8 +3,8 @@ import fs from 'fs';
 import path from 'path';
 import authSessions from '@/lib/auth-sessions';
 import { verifyAuth, unauthorizedResponse, verifyAdmin, forbiddenResponse } from '@/lib/auth-middleware';
+import { DATA_DIR } from '@/lib/data-dir';
 
-const DATA_DIR = path.join(process.cwd(), 'data');
 const FILE = path.join(DATA_DIR, 'announcement.json');
 
 function readAnnouncement() {

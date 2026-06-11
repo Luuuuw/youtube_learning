@@ -3,8 +3,9 @@ import fs from 'fs';
 import path from 'path';
 import { verifyAuth, unauthorizedResponse } from '@/lib/auth-middleware';
 import { getVideoUrl } from '@/lib/video-cdn';
+import { DATA_DIR } from '@/lib/data-dir';
 
-const ACTIVITY_FILE = path.join(process.cwd(), 'data', 'activity.json');
+const ACTIVITY_FILE = path.join(DATA_DIR, 'activity.json');
 const CONTENT_DIR = path.join(process.cwd(), 'public', 'content');
 
 interface DailyActivity {

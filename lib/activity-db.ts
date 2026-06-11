@@ -1,8 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 import { atomicWriteJsonSync } from '@/lib/atomic-write';
+import { DATA_DIR } from '@/lib/data-dir';
 
-const DB_DIR = path.join(process.cwd(), 'data');
+const DB_DIR = DATA_DIR;
 const ACTIVITY_FILE = path.join(DB_DIR, 'activity.json');
 
 export interface DailyActivity {

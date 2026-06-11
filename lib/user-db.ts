@@ -2,8 +2,9 @@ import fs from 'fs';
 import path from 'path';
 import bcrypt from 'bcryptjs';
 import { atomicWriteTextSync } from '@/lib/atomic-write';
+import { DATA_DIR } from '@/lib/data-dir';
 
-const DB_DIR = path.join(process.cwd(), 'data');
+const DB_DIR = DATA_DIR;
 const USER_FILE = path.join(DB_DIR, 'users.json');
 const BACKUP_DIR = path.join(DB_DIR, 'backups');
 const INITIAL_ADMIN_FILE = path.join(DB_DIR, '.initial-admin-password.txt');

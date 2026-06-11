@@ -1,12 +1,11 @@
 import { AUTH_CONSTANTS } from '@/lib/auth-constants';
 import { atomicWriteJsonSync } from '@/lib/atomic-write';
+import { DATA_DIR } from '@/lib/data-dir';
 
 export type AuthSession = { createdAt: number; code: string; role: 'admin' | 'guest'; mustChangePassword?: boolean };
 
 import fs from 'fs';
 import path from 'path';
-
-const DATA_DIR = path.join(process.cwd(), 'data');
 const SESSION_FILE = path.join(DATA_DIR, 'sessions.json');
 const ATTEMPTS_FILE = path.join(DATA_DIR, 'login-attempts.json');
 
