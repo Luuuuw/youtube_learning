@@ -14,9 +14,10 @@ interface DownloadProgress {
   logs: string[];
 }
 
-function parseDownloadPercent(logs: string[]): number {
+function parseDownloadPercent(logs: string[] | undefined | null): number {
+  if (!Array.isArray(logs)) return 0;
   for (let i = logs.length - 1; i >= 0; i--) {
-    const m = logs[i].match(/(\d+(?:\.\d+)?)\s*%\s*of/i);
+    const m = logs[i]?.match(/(\d+(?:\.\d+)?)\s*%\s*of/i);
     if (m) return parseFloat(m[1]);
   }
   return 0;
@@ -108,8 +109,14 @@ export default function DownloadClient() {
     if (pollRef.current) clearInterval(pollRef.current);
     pollRef.current = setInterval(async () => {
       try {
-        const res = await fetch('/api/download-progress');
+        const token = typeof window !== 'undefined' ? localStorage.getItem('ve-session-token') : '';
+        const res = await fetch('/api/download-progress', {
+          headers: token ? { Authorization: `Bearer ${token}` } : undefined,
+        });
+        if (!res.ok) return; // 401/403 等错误直接跳过本次轮询
         const data = await res.json();
+        // 防御：API 返回错误对象时不要污染 progress 状态
+        if (!data || typeof data.status !== 'string' || !Array.isArray(data.logs)) return;
         setProgress(data);
         if (data.status === 'completed' || data.status === 'error') {
           setIsDownloading(false);
