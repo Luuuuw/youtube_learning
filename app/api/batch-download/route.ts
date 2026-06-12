@@ -74,6 +74,7 @@ export async function POST(req: NextRequest) {
       currentUrl: urls[0],
       currentTitle: '',
       logs: [`开始下载 ${urls.length} 个视频...`],
+      perVideo: {} as Record<string, { url: string; title?: string; status: string; pct: number; error?: string }>,
       updatedAt: new Date().toISOString(),
     });
 
@@ -100,24 +101,56 @@ export async function POST(req: NextRequest) {
         try {
           const lines = data.toString().split('\n').filter(Boolean);
           for (const line of lines) {
-            if (line.includes('下载完成')) {
-              const match = line.match(/下载完成:\s*(.+)/);
-              if (match) completed++;
-              else completed++;
-            }
-            if (line.includes('下载失败')) failed++;
-
-            const currentUrl = urls[Math.min(completed + failed, urls.length - 1)] || '';
             const prev = getProgress();
+            const perVideo = (prev.perVideo || {}) as Record<string, { url: string; title?: string; status: string; pct: number; error?: string }>;
 
+            // 解析结构化进度行 [VPROG] <vid> <status> <rest>
+            const vprog = line.match(/^\[VPROG\]\s+(\S+)\s+(\S+)(?:\s+(.*))?$/);
+            if (vprog) {
+              const [, vid, status, rest] = vprog;
+              const cur = perVideo[vid] || { url: '', status: 'queued', pct: 0 };
+              if (status === 'queued') {
+                cur.status = 'queued'; cur.url = rest || cur.url;
+              } else if (status === 'started') {
+                cur.status = 'downloading'; cur.url = rest || cur.url;
+              } else if (status === 'downloading') {
+                cur.status = 'downloading';
+                const p = parseFloat(rest || '0');
+                if (!isNaN(p)) cur.pct = p;
+              } else if (status === 'done') {
+                cur.status = 'done'; cur.pct = 100; cur.title = rest || cur.title;
+                completed++;
+              } else if (status === 'failed') {
+                cur.status = 'failed'; cur.error = rest;
+                failed++;
+              } else if (status === 'skipped') {
+                cur.status = 'skipped'; cur.pct = 100;
+                completed++;
+              }
+              perVideo[vid] = cur;
+              setProgress({
+                ...prev,
+                status: 'running',
+                total: urls.length,
+                completed,
+                failed,
+                currentUrl: cur.url || prev.currentUrl,
+                currentTitle: cur.title || '',
+                perVideo,
+                updatedAt: new Date().toISOString(),
+              });
+              continue;
+            }
+
+            // 兼容旧的中文日志（仅用于 logs 滚动显示，不再用作计数）
             setProgress({
+              ...prev,
               status: 'running',
               total: urls.length,
               completed,
               failed,
-              currentUrl,
-              currentTitle: line.includes('下载完成') ? (line.match(/下载完成:\s*(.+)/)?.[1] || '') : '',
-              logs: [...prev.logs.slice(-49), line.replace(/^\S+\s+\[\w+\]\s*/, '')],
+              perVideo,
+              logs: [...(prev.logs || []).slice(-49), line.replace(/^\S+\s+\[\w+\]\s*/, '')],
               updatedAt: new Date().toISOString(),
             });
           }

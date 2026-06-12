@@ -190,9 +190,18 @@ def download_video(youtube_url, proxy_url=None):
 
     video_id = video_id_match.group(1)
     output_dir = os.path.join('public', 'content', video_id)
+    print(f"[VPROG] {video_id} started {youtube_url}", flush=True)
 
-    if os.path.exists(os.path.join(output_dir, 'meta.json')) and os.path.exists(os.path.join(output_dir, 'video.mp4')):
-        logger.info(f"已存在完整下载，跳过: {video_id}")
+    # 重复跳过：只要 meta.json 存在就视为下载过
+    # （video.mp4 可能被推到 R2 后从 git 排除，不能作为判断依据）
+    meta_path = os.path.join(output_dir, 'meta.json')
+    mp4_path = os.path.join(output_dir, 'video.mp4')
+    if os.path.exists(meta_path):
+        if os.path.exists(mp4_path):
+            logger.info(f"已存在完整下载，跳过: {video_id}")
+        else:
+            logger.info(f"已有 meta.json（mp4 可能在 R2），跳过: {video_id}")
+        print(f"[VPROG] {video_id} skipped", flush=True)
         return {'id': video_id, 'status': 'skipped'}
 
     os.makedirs(output_dir, exist_ok=True)
@@ -218,6 +227,21 @@ def download_video(youtube_url, proxy_url=None):
     else:
         logger.warning("未配置代理，将尝试直连（如果在国内可能失败）")
 
+    def _progress_hook(d):
+        # 结构化输出，供 batch-download API 解析单视频进度
+        # 格式：[VPROG] <video_id> downloading <percent>
+        status = d.get('status')
+        if status == 'downloading':
+            try:
+                total = d.get('total_bytes') or d.get('total_bytes_estimate') or 0
+                downloaded = d.get('downloaded_bytes') or 0
+                pct = round(downloaded * 100 / total, 1) if total else 0
+                print(f"[VPROG] {video_id} downloading {pct}", flush=True)
+            except Exception:
+                pass
+        elif status == 'finished':
+            print(f"[VPROG] {video_id} downloading 100", flush=True)
+
     ydl_opts = {
         'format': 'bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080][ext=mp4]/best[height<=1080]/best',
         'outtmpl': os.path.join(output_dir, 'video.%(ext)s'),
@@ -233,6 +257,7 @@ def download_video(youtube_url, proxy_url=None):
         'retries': MAX_RETRIES,
         'fragment_retries': MAX_RETRIES,
         'extractor_retries': MAX_RETRIES,
+        'progress_hooks': [_progress_hook],
     }
 
     if proxy_url:
@@ -295,6 +320,9 @@ def download_video(youtube_url, proxy_url=None):
                     json.dump(meta, f, ensure_ascii=False, indent=2)
 
                 logger.info(f"下载完成: {title} ({video_id}), 口音: {accent}")
+                # 给 batch-download API 解析的结构化日志（紧凑 JSON 一行，title 可能含特殊字符）
+                title_safe = title.replace('\n', ' ').replace('\r', ' ')[:200]
+                print(f"[VPROG] {video_id} done {title_safe}", flush=True)
                 return meta
 
         except yt_dlp.utils.DownloadError as e:
@@ -321,6 +349,8 @@ def download_video(youtube_url, proxy_url=None):
                 time.sleep(RETRY_DELAY)
 
     logger.error(f"下载失败（已重试{MAX_RETRIES}次）: {youtube_url} - 最后错误: {last_error}")
+    err_safe = (last_error or 'unknown').replace('\n', ' ')[:200]
+    print(f"[VPROG] {video_id} failed {err_safe}", flush=True)
     return None
 
 
@@ -354,6 +384,9 @@ def batch_download(url_file):
 
     proxy_url = get_proxy_url()
     logger.info(f"共 {len(urls)} 个视频待下载")
+    # 提前广播队列，让前端立刻显示完整列表
+    for u, vid in deduped:
+        print(f"[VPROG] {vid} queued {u}", flush=True)
     success = 0
     skipped = 0
     failed_list = []

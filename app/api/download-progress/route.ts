@@ -5,6 +5,14 @@ import authSessions from '@/lib/auth-sessions';
 
 const PROGRESS_FILE = path.join(process.cwd(), 'download-progress.json');
 
+export interface VideoProgressItem {
+  url: string;
+  title?: string;
+  status: 'queued' | 'downloading' | 'done' | 'failed' | 'skipped';
+  pct: number;
+  error?: string;
+}
+
 export interface DownloadProgress {
   status: 'idle' | 'running' | 'completed' | 'error';
   total: number;
@@ -13,6 +21,7 @@ export interface DownloadProgress {
   currentUrl: string;
   currentTitle: string;
   logs: string[];
+  perVideo?: Record<string, VideoProgressItem>;
   updatedAt: string;
 }
 

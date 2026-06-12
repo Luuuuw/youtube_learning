@@ -4,6 +4,14 @@ import React, { useState, useRef, useEffect, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import { Upload, Play, Loader2, CheckCircle, XCircle, FileText, Trash2, Home } from 'lucide-react';
 
+interface VideoProgressItem {
+  url: string;
+  title?: string;
+  status: 'queued' | 'downloading' | 'done' | 'failed' | 'skipped';
+  pct: number;
+  error?: string;
+}
+
 interface DownloadProgress {
   status: 'idle' | 'running' | 'completed' | 'error';
   total: number;
@@ -12,6 +20,7 @@ interface DownloadProgress {
   currentUrl: string;
   currentTitle: string;
   logs: string[];
+  perVideo?: Record<string, VideoProgressItem>;
 }
 
 function parseDownloadPercent(logs: string[] | undefined | null): number {
@@ -278,6 +287,47 @@ export default function DownloadClient() {
               <Home className="h-4 w-4" />
               返回首页查看新视频
             </button>
+          )}
+
+          {progress.perVideo && Object.keys(progress.perVideo).length > 0 && (
+            <div className="space-y-1.5 max-h-[360px] overflow-y-auto pr-1">
+              {Object.entries(progress.perVideo).map(([vid, v]) => {
+                const statusColor =
+                  v.status === 'done' ? 'bg-green-500' :
+                  v.status === 'failed' ? 'bg-destructive' :
+                  v.status === 'skipped' ? 'bg-muted-foreground/50' :
+                  v.status === 'downloading' ? 'bg-primary' :
+                  'bg-muted-foreground/30';
+                const statusLabel =
+                  v.status === 'done' ? '✓ 完成' :
+                  v.status === 'failed' ? '✗ 失败' :
+                  v.status === 'skipped' ? '⏭ 已存在' :
+                  v.status === 'downloading' ? `↓ ${v.pct.toFixed(0)}%` :
+                  '等待中';
+                const display = v.title || v.url || vid;
+                return (
+                  <div key={vid} className="flex items-center gap-2 text-xs">
+                    <div className="flex-shrink-0 w-16 text-right tabular-nums font-medium text-muted-foreground">
+                      {statusLabel}
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <div className="truncate text-foreground">{display}</div>
+                      {v.status === 'downloading' && (
+                        <div className="h-1 bg-muted rounded-full overflow-hidden mt-0.5">
+                          <div
+                            className={`h-full ${statusColor} transition-all duration-300`}
+                            style={{ width: `${Math.min(v.pct, 100)}%` }}
+                          />
+                        </div>
+                      )}
+                      {v.status === 'failed' && v.error && (
+                        <div className="text-destructive/80 truncate text-[10px]">{v.error}</div>
+                      )}
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
           )}
 
           <details className="group">
