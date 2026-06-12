@@ -79,8 +79,11 @@ export default function AnnouncementModal({
 
   useEffect(() => {
     if (isOpen) {
+      const token = typeof window !== 'undefined' ? localStorage.getItem('ve-session-token') : '';
+      const authHeaders: HeadersInit | undefined = token ? { Authorization: `Bearer ${token}` } : undefined;
+
       if (adminEdit && isAdmin) {
-        fetch('/api/announcement')
+        fetch('/api/announcement', { headers: authHeaders })
           .then(r => r.json())
           .then(data => {
             if (data.announcement?.content) {
@@ -103,7 +106,7 @@ export default function AnnouncementModal({
       const hasSeenOnboarding = localStorage.getItem('ve-seen-onboarding');
       setShowOnboarding(!hasSeenOnboarding);
 
-      fetch('/api/announcement')
+      fetch('/api/announcement', { headers: authHeaders })
         .then(r => r.json())
         .then(data => {
           if (data.announcement?.content) setAnnouncementContent(data.announcement.content);
