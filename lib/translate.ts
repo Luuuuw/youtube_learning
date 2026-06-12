@@ -4,9 +4,10 @@ import { parseVtt, Subtitle } from '@/lib/vtt-parser';
 import { invalidateVideoCache } from '@/lib/videos';
 const MINIMAX_API_URL = 'https://api.minimaxi.com/v1/text/chatcompletion_v2';
 const CONTENT_DIR = path.join(process.cwd(), 'public', 'content');
-const BATCH_SIZE = 20;
+const BATCH_SIZE = 8;
 const MAX_CONCURRENT = 2;
 const API_TIMEOUT_MS = 120_000;
+const MAX_BATCH_RETRIES = 3;
 
 interface SubtitleItem {
   id: number;
@@ -165,106 +166,31 @@ async function requestBatchTranslation(
   apiKey: string,
   mode: 'translate' | 'review'
 ): Promise<Map<number, string>> {
-  const lines = subtitles.map((s) => `[[ID:${s.id}]] ${s.text}`).join('\n');
-  const expectedIds = subtitles.map((s) => s.id).join(', ');
+  // 优先用 JSON 数组格式（比 [[ID:N]] 文本稳定得多），fallback 回旧的文本格式
+  const items = subtitles.map((s) => ({ id: s.id, text: s.text }));
 
   const systemPrompt =
     mode === 'translate'
-      ? `# 字幕翻译指令
+      ? `你是专业视频字幕翻译，把每条英文翻译成自然口语化中文。
 
-## 身份
-你是专业视频字幕翻译官，精通英语到中文的口语化翻译。
+【输出格式】严格 JSON 数组，每项格式 { "id": 数字, "zh": "中文" }。
+【必须】
+- 必须返回输入的全部 ${items.length} 条，按 id 一一对应
+- 每条独立翻译，但要参考上下文理解语义
+- 中文 15-25 字以内，按中文语序，不要逐词直译
+- 专有名词（人名/地名/品牌如 Sally, Copenhagen, YouTube）保留英文原样
+- 忽略 "uhm/uh/um/you know" 等填充词
+- 只输出 JSON 数组，不要任何解释、markdown、代码块`
+      : `你是专业字幕审校专家，修正机器翻译质量。
 
-## 核心规则（必须严格遵守）
+【输出格式】严格 JSON 数组，每项 { "id": 数字, "zh": "修正后的中文" }。
+【必须】
+- 必须返回输入的全部 ${items.length} 条
+- 修正语序、误译、漏译、生硬直译
+- 保留专有名词的英文原样
+- 只输出 JSON 数组，无任何解释`;
 
-### 规则1: 参考上下文翻译
-- 每行翻译时参考前后几行的内容，理解完整语境
-- 字幕经常断句，同一句话可能被切分成多行，翻译时要保证语义连贯
-- 但翻译结果只写当前行的内容，不要把其他行的内容混入
-
-### 规则2: 行数与ID一致
-- 输出行数必须与输入行数**完全相等**
-- 每行开头的 [[ID:数字]] 必须**原样保留**
-- 严禁合并或拆分任何行
-
-### 规则3: 自然通顺的中文
-- 翻译成自然流畅的中文口语，像中国人日常说话那样
-- 英文是SVO语序，中文也是SVO语序，直接按中文语序翻译，不要按英文词序逐词翻译
-- 遇到从句、倒装、插入语时，按中文习惯调整语序
-- 中文建议控制在15-20字以内
-
-### 规则4: 专有名词保留
-人名、地名、品牌名等专有名词保持英文原样
-示例: Sally, Copenhagen, YouTube, React
-
-### 规则5: 语气词处理
-忽略无意义的填充词: uhm, uh, um, you know, right?
-但保留有实际意义的语气词
-
-### 规则6: 输出格式
-- 只输出翻译结果，不要任何解释
-- 不要使用Markdown代码块
-- 不要使用特殊符号
-
-## 输出示例
-
-输入:
-[[ID:1]] Good morning. I'm so happy
-[[ID:2]] this morning.
-[[ID:3]] The sun is shining in Copenhagen.
-
-输出:
-[[ID:1]] 早上好。我今天好开心
-[[ID:2]] 早上好开心。
-[[ID:3]] 哥本哈根阳光明媚。
-
-注意：ID:1和ID:2是同一句话被切分，翻译时需要理解上下文，但每行独立输出自己的翻译。
-
-## 待翻译内容
-必须完整翻译以下ID: ${expectedIds}
-
-`
-      : `# 字幕审校指令
-
-## 身份
-你是专业字幕审校专家，负责修正机器翻译的质量问题。
-
-## 审校规则
-
-### 规则1: 保持结构不变
-- 总行数必须与输入完全相等
-- 所有 [[ID:数字]] 标识符必须原样保留
-
-### 规则2: 修正重点
-- 修正语序错误：中文必须按中文语序组织，不能按英文词序直译
-- 修正误译：确保中文准确传达英文原意
-- 修正重复翻译：如果中文包含了不属于当前行的内容，删除多余部分
-- 修正漏译：补充缺失的关键信息
-- 优化表达：将生硬直译改为自然口语
-
-### 规则3: 参考上下文
-- 参考前后几行理解完整语境
-- 但每行翻译只对应当前行的英文原文
-- 不要将其他行的内容混入当前行
-
-### 规则4: 保留专有名词
-人名、地名、品牌名保持英文原样
-
-### 规则5: 只输出修正结果
-不要输出任何解释或说明
-
-## 输出格式
-[[ID:N]] 修正后的中文翻译
-
-## 待审校内容
-必须完整处理以下ID: ${expectedIds}
-
-`;
-
-  const userPrompt =
-    mode === 'translate'
-      ? `${lines}`
-      : `${lines}`;
+  const userPrompt = JSON.stringify(items);
 
   const content = await callMiniMax(
     [
@@ -274,6 +200,9 @@ async function requestBatchTranslation(
     apiKey
   );
 
+  // 先尝试 JSON 解析（新格式），失败回退到 [[ID:N]] 文本解析（兼容老 prompt 偶尔遗留）
+  const jsonResult = parseJsonTranslationResponse(content);
+  if (jsonResult.size > 0) return jsonResult;
   return parseTranslationResponse(content);
 }
 
@@ -281,20 +210,38 @@ async function translateBatch(
   subtitles: SubtitleItem[],
   apiKey: string
 ): Promise<Map<number, string>> {
-  const translated = await requestBatchTranslation(subtitles, apiKey, 'translate');
-  if (translated.size === subtitles.length) return translated;
+  const translated = new Map<number, string>();
 
-  for (let attempt = 0; attempt < 2; attempt++) {
+  // 1) 整批翻译，重试 MAX_BATCH_RETRIES 次直到全 / 收益边际
+  for (let attempt = 0; attempt < MAX_BATCH_RETRIES; attempt++) {
     const missing = subtitles.filter((s) => !translated.has(s.id));
-    if (missing.length === 0) break;
-
-    const retry = await requestBatchTranslation(missing, apiKey, 'translate');
-    retry.forEach((text, id) => {
-      if (text) translated.set(id, text);
-    });
+    if (missing.length === 0) return translated;
+    try {
+      const result = await requestBatchTranslation(missing, apiKey, 'translate');
+      result.forEach((text, id) => {
+        if (text) translated.set(id, text);
+      });
+      if (translated.size === subtitles.length) return translated;
+    } catch (err) {
+      console.error(`[translate] batch attempt ${attempt + 1} failed:`, (err as Error).message);
+    }
   }
 
-  // Do NOT fill missing IDs with empty strings — let callers handle gaps
+  // 2) 单条 fallback：批仍不全的最后兜底，保证每条都尝试过单独翻译
+  const stillMissing = subtitles.filter((s) => !translated.has(s.id));
+  if (stillMissing.length > 0) {
+    console.warn(`[translate] falling back to per-item translation for ${stillMissing.length} cues`);
+    for (const sub of stillMissing) {
+      try {
+        const single = await requestBatchTranslation([sub], apiKey, 'translate');
+        const text = single.get(sub.id);
+        if (text) translated.set(sub.id, text);
+      } catch (err) {
+        console.error(`[translate] per-item ${sub.id} failed:`, (err as Error).message);
+      }
+    }
+  }
+
   return translated;
 }
 
@@ -647,11 +594,16 @@ export async function translateVideoFromRawVtt(videoId: string): Promise<Subtitl
     finalTranslations.set(id, reviewedTranslations.get(id) || text);
   });
 
-  // 检查翻译覆盖率：如果低于 70% 则不写入，避免不完整结果
+  // 阈值降到 30%：batch=8 + JSON + 单条 fallback 后基本不会到这条线下；
+  // 但极端情况（MiniMax 大面积 5xx）下，宁可写入部分翻译，也比返回空让 process-all
+  // 报 "翻译失败" 又删了旧数据更好
   const coverage = finalTranslations.size / translatableSubs.length;
-  if (coverage < 0.7) {
-    console.warn(`[translate] ${videoId} 翻译覆盖率 ${Math.round(coverage * 100)}%，低于 70% 阈值，不写入文件`);
+  if (coverage < 0.3) {
+    console.warn(`[translate] ${videoId} 翻译覆盖率 ${Math.round(coverage * 100)}% < 30%，不写入文件（保留旧 zh-Hans 若存在）`);
     return [];
+  }
+  if (coverage < 0.95) {
+    console.warn(`[translate] ${videoId} 翻译覆盖率 ${Math.round(coverage * 100)}%，写入但部分缺漏；可后续跑 scripts/fix-translation-gaps.mjs ${videoId} 补足`);
   }
 
   const lines = ['WEBVTT', ''];
