@@ -1041,11 +1041,14 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                                     ? 'bg-green-500/15 text-green-600 dark:text-green-400'
                                     : step.status === 'skipped'
                                     ? 'bg-muted text-muted-foreground'
+                                    : step.status === 'partial'
+                                    ? 'bg-amber-500/15 text-amber-600 dark:text-amber-400'
                                     : 'bg-red-500/15 text-red-500'
                                 }`}
                               >
                                 {step.status === 'done' && <Check className="h-3 w-3" />}
                                 {step.status === 'skipped' && '—'}
+                                {step.status === 'partial' && '⚠'}
                                 {step.status === 'error' && <X className="h-3 w-3" />}
                                 {step.step}
                                 {step.message && <span className="opacity-70">· {step.message}</span>}

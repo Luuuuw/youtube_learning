@@ -109,7 +109,7 @@ function verifyAdmin(req: NextRequest): boolean {
 
 interface StepResult {
   step: string;
-  status: 'skipped' | 'done' | 'error';
+  status: 'skipped' | 'done' | 'error' | 'partial';
   message?: string;
 }
 
@@ -280,6 +280,23 @@ async function processTagVideo(videoId: string, apiKey: string): Promise<StepRes
   return { step: '标签分类', status: 'done', message: `${category} / ${difficulty}` };
 }
 
+function classifyTranslateResult(result: { text?: string }[], videoId: string, prefix = '翻译'): StepResult {
+  if (result.length === 0) {
+    return { step: '字幕翻译', status: 'error', message: '翻译失败（无数据）' };
+  }
+  const withZh = result.filter(s => s.text && s.text.trim()).length;
+  const pct = Math.round((withZh / result.length) * 100);
+  if (pct >= 95) {
+    return { step: '字幕翻译', status: 'done', message: `${prefix}${result.length}条 (${pct}%)` };
+  }
+  // 半成品：文件已写入，但部分缺漏。标 partial 让用户知道要补
+  return {
+    step: '字幕翻译',
+    status: 'partial',
+    message: `${prefix}${result.length}条，仅${pct}%覆盖。补足: node scripts/fix-translation-gaps.mjs ${videoId}`,
+  };
+}
+
 async function processTranslate(videoId: string): Promise<StepResult> {
   if (!needsTranslation(videoId)) {
     return { step: '字幕翻译', status: 'skipped', message: '已有翻译' };
@@ -291,11 +308,7 @@ async function processTranslate(videoId: string): Promise<StepResult> {
   }
 
   const result = await translateVideoFromRawVtt(videoId);
-  if (result.length === 0) {
-    return { step: '字幕翻译', status: 'error', message: '翻译失败' };
-  }
-
-  return { step: '字幕翻译', status: 'done', message: `翻译${result.length}条` };
+  return classifyTranslateResult(result, videoId, '翻译');
 }
 
 async function processTranslateForce(videoId: string): Promise<StepResult> {
@@ -310,11 +323,7 @@ async function processTranslateForce(videoId: string): Promise<StepResult> {
   if (fs.existsSync(zhJsonPath)) fs.unlinkSync(zhJsonPath);
 
   const result = await translateVideoFromRawVtt(videoId);
-  if (result.length === 0) {
-    return { step: '字幕翻译', status: 'error', message: '翻译失败' };
-  }
-
-  return { step: '字幕翻译', status: 'done', message: `重新翻译${result.length}条` };
+  return classifyTranslateResult(result, videoId, '重新翻译');
 }
 
 async function processQuiz(videoId: string, apiKey: string): Promise<StepResult> {
