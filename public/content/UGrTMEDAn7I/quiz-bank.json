@@ -1,0 +1,551 @@
+{
+  "videoId": "UGrTMEDAn7I",
+  "title": "JENNIE Answers The Web's Most Searched Questions | WIRED",
+  "generatedAt": "2026-06-13T16:55:55.054Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 6,
+    "medium": 12,
+    "hard": 6,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does JENNIE say about working as a solo artist compared to being in a group?",
+      "options": [
+        "A) She prefers working with the group",
+        "B) It's definitely different working as a solo artist",
+        "C) She finds it easier to work alone",
+        "D) She misses the group members when solo"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE明确表示作为solo艺术家工作与在组合中完全不同，她说：\"definitely different working as a solo artist I'm in the studio alone\"。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 87.4,
+      "endTime": 93.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "solo artist",
+        "studio",
+        "group"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is JENNIE's current favorite fruit?",
+      "options": [
+        "A) Strawberries",
+        "B) Kiwis",
+        "C) Apples",
+        "D) Oranges"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说她的水果偏好经常变化，\"it used to be strawberries nowadays I'm really into kiwis\"。所以她现在最喜欢猕猴桃。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 200.5,
+      "endTime": 210.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "favorite fruit",
+        "strawberries",
+        "kiwis"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is the name of JENNIE's dog?",
+      "options": [
+        "A) Kuma",
+        "B) Coco",
+        "C) Luna",
+        "D]Max"
+      ],
+      "answer": "A",
+      "explanation": "JENNIE在采访中提到她的狗叫Kuma：\"Jenny Jenny dog a my dog is named Kuma he's back home\"。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 320.6,
+      "endTime": 334.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dog",
+        "Kuma",
+        "pet"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "According to the video, when did JENNIE release her solo debut?",
+      "options": [
+        "A) 3 years ago",
+        "B) 4 years ago",
+        "C) 5 years ago",
+        "D) 6 years ago"
+      ],
+      "answer": "C",
+      "explanation": "JENNIE提到她的solo作品是在5年前发布的：\"when did Jenny release solo 5 years ago I think five my BET's on five\"。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 71,
+      "endTime": 75.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "solo",
+        "release",
+        "years ago"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is JENNIE's current favorite BLACKPINK song?",
+      "options": [
+        "A) How You Like That",
+        "B) Pink Venom",
+        "C) Lovesick Girls",
+        "D) Ddu-Du Ddu-Du"
+      ],
+      "answer": "C",
+      "explanation": "JENNIE说：\"is always a tough one I want to say love sick girls right now\"，表明她现在最喜欢的歌曲是《Lovesick Girls》。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 210.6,
+      "endTime": 215.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "favorite song",
+        "Lovesick Girls",
+        "BLACKPINK"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "How many piercings does JENNIE currently have?",
+      "options": [
+        "A) Two",
+        "B) Three",
+        "C) Four",
+        "D) Five"
+      ],
+      "answer": "C",
+      "explanation": "JENNIE说：\"I used to have a lot of piercings as a teenager year but I got rid of it throughout the years and I think I am left with four piercings\"，所以她现在有4个穿孔。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 301,
+      "endTime": 314.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "piercings",
+        "teenager",
+        "four"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "Which nickname did JENNIE say is a Korean nickname?",
+      "options": [
+        "A) Nene",
+        "B) Jenny",
+        "C) Chandi",
+        "D) Jisoo"
+      ],
+      "answer": "C",
+      "explanation": "JENNIE提到她的昵称时说：\"I have chandi that's a Korean nickname\"，Chandi是她的韩语昵称。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 236.1,
+      "endTime": 242.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "nickname",
+        "Chandi",
+        "Korean"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What was special about JENNIE's experience at the Jack Moose show in May?",
+      "options": [
+        "A) It was her first time singing solo",
+        "B) It was her first time running on a runway",
+        "C) It was her first time meeting fans",
+        "D) It was her first time meeting other celebrities"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说：\"the Jack moose show in May and Capri and it was my first time running on a Runway\"，这是她第一次走秀。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 433.9,
+      "endTime": 439.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Jack Moose show",
+        "runway",
+        "first time"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does JENNIE say about her personality off stage?",
+      "options": [
+        "A) She is very outgoing",
+        "B) She is very shy",
+        "C) She is very loud",
+        "D) She is very competitive"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说：\"like I am a very shy person um even when I'm around my friends I'm likely to be the quiet one\"，她表示自己私底下很害羞。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 180.4,
+      "endTime": 187.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "shy",
+        "quiet",
+        "personality"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the phrase 'stuck with me' mean in this context?",
+      "options": [
+        "A) Got stuck on me",
+        "B) Became permanently associated with me",
+        "C) Attached to my body",
+        "D) Followed me around"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说她的昵称是\"like my friends and then it just stuck with me\"，意思是这个昵称一直伴随着她，成为她的固定称呼。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 155.2,
+      "endTime": 160.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "stuck with me",
+        "nickname",
+        "friends"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'be left with' mean in the context of piercings?",
+      "options": [
+        "A) To be abandoned by",
+        "B) To still have remaining",
+        "C) To be punished with",
+        "D) To be given"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说\"I think I am left with four piercings\"，这里的\"be left with\"意思是仍然保留着、剩下。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 301,
+      "endTime": 314.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "be left with",
+        "remaining",
+        "piercings"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does JENNIE say about her accent?",
+      "options": [
+        "A) People often guess she's from New Zealand",
+        "B) People never notice her accent",
+        "C) People don't ever guess she's from New Zealand anymore",
+        "D) She has a strong Korean accent"
+      ],
+      "answer": "C",
+      "explanation": "JENNIE说：\"it's completely God people don't ever guess that I'm from New Zealand anymore\"，意思是人们完全猜不出她来自新西兰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 43.5,
+      "endTime": 49.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "accent",
+        "New Zealand",
+        "guess"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the phrase 'a tough one' refer to in this interview?",
+      "options": [
+        "A) A difficult question",
+        "B) A strong person",
+        "C) A tough competitor",
+        "D) A difficult situation"
+      ],
+      "answer": "A",
+      "explanation": "JENNIE说favorite song的问题是\"is always a tough one\"，意思是这是一个难以回答的问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 210.6,
+      "endTime": 215.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "tough one",
+        "favorite song",
+        "difficult"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does JENNIE say about changing outfits on tour?",
+      "options": [
+        "A) They never change outfits",
+        "B) They like to change outfits a lot",
+        "C) They only have one outfit",
+        "D) They hate changing outfits"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说：\"Jenny outfits stage we like to change around like our tour outfits a lot when we're on tour\"，表示他们喜欢经常换演出服。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 125.1,
+      "endTime": 133.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "outfits",
+        "tour",
+        "change"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'Match the vibe of the city' mean?",
+      "options": [
+        "A) Copy the city's clothes",
+        "B) Adapt to the atmosphere of the city",
+        "C) Fight with the city",
+        "D) Leave the city"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说：\"especially cuz we like to just match the vibe of the city that we're in\"，意思是根据城市的气氛/风格来调整。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 133.8,
+      "endTime": 138.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "match the vibe",
+        "city",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What was JENNIE's reaction to the questions in the interview?",
+      "options": [
+        "A) She was very surprised",
+        "B) She wasn't surprised at all",
+        "C) She was nervous",
+        "D) She was bored"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说：\"for me thankfully I wasn't surprised by any of the questions\"，表示她对这些问题并不感到意外。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 454.4,
+      "endTime": 461.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "surprised",
+        "questions",
+        "wasn't surprised"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does JENNIE say about her new single 'Mantra'?",
+      "options": [
+        "A) It's a slow ballad",
+        "B) It's a great opener",
+        "C) It's a sad song",
+        "D) It's a cover song"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说：\"this specific song Mantra is I think a great opener\"，她认为《Mantra》是一个很棒的开场曲。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 264.4,
+      "endTime": 271.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Mantra",
+        "great opener",
+        "single"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does JENNIE say about making her album?",
+      "options": [
+        "A) It was easy",
+        "B) It was definitely a big step",
+        "C) It was boring",
+        "D) It was not challenging"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说：\"making of this whole album was definitely a big step for me\"，制作整张专辑对她来说是一个很大的进步。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 256.9,
+      "endTime": 264.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "album",
+        "big step",
+        "making"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "What does JENNIE say about the differences between her stage persona and her real personality?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容回答。JENNIE在采访中提到她私下是一个非常害羞的人，即使在朋友身边也可能是比较安静的那个，和舞台上看到的形象完全不同。",
+      "referenceAnswer": "JENNIE mentions that she is actually a very shy person in real life. Even when she's around her friends, she's likely to be the quiet one. This is very different from what people see on stage where she is stronger and more charismatic.",
+      "hint": "Think about how JENNIE describes herself off stage versus on stage",
+      "startTime": 180.4,
+      "endTime": 187.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "shy",
+        "stage",
+        "personality",
+        "quiet"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Please describe what JENNIE says about her experience walking on a runway for the first time.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容回答。JENNIE提到了她在Capri的Jack Moose Show第一次走秀的经历。",
+      "referenceAnswer": "JENNIE says it was a very special occasion for her. She thought she would be very nervous and anxious about it, but from the moment she arrived at Capri, she felt comfortable. It was her first time running on a runway and she has only good memories from that day.",
+      "hint": "Consider the emotions and expectations JENNIE had before and during the runway",
+      "startTime": 439.4,
+      "endTime": 450.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "runway",
+        "first time",
+        "nervous",
+        "special"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What advice does JENNIE seem to give about handling fame and success?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容自由回答。JENNIE在采访中提到了一些关于工作态度和心态的内容。",
+      "referenceAnswer": "From the interview, JENNIE suggests that she wants to have fun and enjoy the process. She mentions \"let me just have fun\" as a proud moment. She also talks about being excited for her album to drop and hopes fans will enjoy her songs.",
+      "hint": "Think about what JENNIE says about enjoying her work and staying positive",
+      "startTime": 450.1,
+      "endTime": 461.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "fun",
+        "proud",
+        "excited",
+        "album"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What does JENNIE say about her nickname 'Nene' and how did she get it?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容回答。JENNIE提到她的朋友们叫她Nene。",
+      "referenceAnswer": "JENNIE says she has a lot of nicknames. One of them is Nene, which her friends call her. She also mentions that she has another Korean nickname called Chandi.",
+      "hint": "Consider the origin of the nickname Nene",
+      "startTime": 236.1,
+      "endTime": 242.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "nickname",
+        "Nene",
+        "friends"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What was the music video experience JENNIE mentioned as 'one of the best day ever'?",
+      "options": [
+        "A) The Lovesick Girls music video",
+        "B) The ice cream music video one year ago",
+        "C) The How You Like That music video",
+        "D) The Mantra music video"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说：\"music video with one years ago for ice cream that was one of the best day ever\"，她提到一年前的冰淇淋音乐视频是最棒的日子之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 414.4,
+      "endTime": 422.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "music video",
+        "ice cream",
+        "best day"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does JENNIE say about her dog Kuma?",
+      "options": [
+        "A) He is very naughty",
+        "B) He is the best behaved dog ever",
+        "C) He lives with her",
+        "D) He is very big"
+      ],
+      "answer": "B",
+      "explanation": "JENNIE说：\"he's the best behaved dog ever he loves me\"，她认为Kuma是最乖的狗。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 334.6,
+      "endTime": 340.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Kuma",
+        "dog",
+        "best behaved"
+      ]
+    }
+  ]
+}

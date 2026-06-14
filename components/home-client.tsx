@@ -812,7 +812,7 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
 
       {showProcessDialog && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm p-4">
-          <div className="bg-card border border-border rounded-2xl shadow-2xl w-full max-w-2xl max-h-[85vh] flex flex-col">
+          <div className="bg-card border border-border rounded-2xl shadow-2xl w-full max-w-3xl max-h-[90vh] flex flex-col">
             <div className="flex items-center justify-between p-6 border-b border-border">
               <div>
                 <h2 className="text-lg font-semibold flex items-center gap-2">
@@ -944,7 +944,7 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                 )}
               </div>
 
-              <div className="border border-border rounded-lg max-h-48 overflow-y-auto">
+              <div className="border border-border rounded-lg max-h-32 overflow-y-auto">
                 <div className="sticky top-0 bg-card px-3 py-2 border-b border-border flex items-center justify-between">
                   <span className="text-xs text-muted-foreground">选择视频重新翻译</span>
                   <div className="flex items-center gap-2">
@@ -1058,12 +1058,10 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                   )}
 
                   {processProgress.logs && processProgress.logs.length > 0 && (
-                    <details className="group">
-                      <summary className="cursor-pointer text-xs text-muted-foreground hover:text-foreground transition-colors select-none">
-                        展开日志 ({processProgress.logs.length})
-                      </summary>
-                      <div className="mt-2 bg-muted rounded-lg p-3 max-h-[200px] overflow-y-auto text-xs font-mono space-y-1">
-                        {processProgress.logs.slice(-50).map((log, i) => (
+                    <div className="space-y-1">
+                      <h3 className="text-xs text-muted-foreground font-semibold">处理日志 ({processProgress.logs.length})</h3>
+                      <div className="bg-muted rounded-lg p-3 max-h-[500px] overflow-y-auto text-xs font-mono space-y-1">
+                        {processProgress.logs.slice(-100).map((log, i) => (
                           <div key={i} className={`whitespace-pre-wrap break-all ${
                             log.includes('错误') ? 'text-red-500' :
                             log.includes('完成') || log.includes('done') ? 'text-green-600 dark:text-green-400' :
@@ -1073,7 +1071,7 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                           </div>
                         ))}
                       </div>
-                    </details>
+                    </div>
                   )}
                 </div>
               ) : (

@@ -1,0 +1,576 @@
+{
+  "videoId": "FZh_0uRgrg4",
+  "title": "2026 CMU Commencement Keynote Speaker: Jensen Huang",
+  "generatedAt": "2026-06-13T18:11:44.554Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 7,
+    "medium": 17,
+    "hard": 1,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'first-generation immigrant' mean in this context?",
+      "options": [
+        "A) Someone who immigrated alone without family",
+        "B) A child of immigrants born in a new country",
+        "C) Someone who immigrated for the first time",
+        "D) A immigrant who speaks no English"
+      ],
+      "answer": "B",
+      "explanation": "first-generation immigrant指的是第一代移民的后代，即本人出生在移民到的国家，而父母是移民。这是常见的用法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "first-generation",
+        "immigrant",
+        "context"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to Jensen Huang, what did his mother do for work?",
+      "options": [
+        "A) She was a teacher at a Catholic school",
+        "B) She worked as a maid at a Catholic school",
+        "C) She was a nurse at a hospital",
+        "D) She ran a small restaurant"
+      ],
+      "answer": "B",
+      "explanation": "在演讲中，Jensen Huang提到他的母亲在一所天主教学校做女仆（maid）工作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "mother",
+        "maid",
+        "Catholic school"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the word 'vaporize' mean in the context of Nvidia's early days?",
+      "options": [
+        "A) To evaporate like water",
+        "B) To disappear or cease to exist",
+        "C) To become famous quickly",
+        "D) To expand rapidly"
+      ],
+      "answer": "B",
+      "explanation": "在商业语境中，'vaporize'比喻公司倒闭或彻底消失。Jensen Huang说没有钱Nvidia就会倒闭。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vaporize",
+        "Nvidia",
+        "money"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "When did Jensen Huang start Nvidia?",
+      "options": [
+        "A) In 1979",
+        "B) In 1989",
+        "C) In 1993",
+        "D) In 1999"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕内容，Jensen Huang在30岁时与Chris Malachowsky一起创办了Nvidia。Jensen Huang出生于1963年，所以30岁大约是1993年。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "started",
+        "Nvidia",
+        "30"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Who helped Jensen Huang get his first job?",
+      "options": [
+        "A) His father",
+        "B) His mother",
+        "C) His older brother",
+        "D) His friend"
+      ],
+      "answer": "C",
+      "explanation": "Jensen Huang提到他的哥哥（older brother）帮他找到了在Denny's洗盘子的工作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "older brother",
+        "job",
+        "Denny's"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What was Jensen Huang's first job?",
+      "options": [
+        "A) Software engineer",
+        "B) Dishwasher at Denny's",
+        "C) Robot designer",
+        "D) Teacher"
+      ],
+      "answer": "B",
+      "explanation": "演讲中明确提到他在Denny's做洗碗工（dishwasher）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dishwasher",
+        "Denny's",
+        "job"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "In the speech, what does 'paradigm is over' refer to?",
+      "options": [
+        "A) The old computing paradigm based on human coding",
+        "B) The end of artificial intelligence research",
+        "C) The closure of Carnegie Mellon",
+        "D) The end of the technology industry"
+      ],
+      "answer": "A",
+      "explanation": "Jensen Huang在演讲中提到AI已经彻底改变了计算方式，从人类编码转向机器学习，这代表着旧范式的终结。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "paradigm",
+        "computing",
+        "over"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "According to Jensen Huang, what is artificial intelligence the automation of?",
+      "options": [
+        "A) Manufacturing and production",
+        "B) Understanding, reasoning and problem-solving",
+        "C) Data collection and storage",
+        "D) Physical labor"
+      ],
+      "answer": "B",
+      "explanation": "演讲中明确定义了AI是理解、推理和问题解决的自动化。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "artificial intelligence",
+        "automation",
+        "understanding"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What did Carnegie Mellon found in 1979?",
+      "options": [
+        "A) The first AI research lab",
+        "B) The first computer science department",
+        "C) The Robotics Institute",
+        "D) The first technology company"
+      ],
+      "answer": "C",
+      "explanation": "演讲中提到1979年CMU成立了机器人研究所（Robotics Institute）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "1979",
+        "Carnegie Mellon",
+        "Robotics Institute"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'clear-eyed' mean in this context?",
+      "options": [
+        "A) Having clear vision or being realistic",
+        "B) Wearing glasses",
+        "C) Being emotional",
+        "D) Having doubts"
+      ],
+      "answer": "A",
+      "explanation": "'clear-eyed'在这里的意思是头脑清醒、实事求是的，指对AI技术有清醒的认识和理解。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "clear-eyed",
+        "realistic",
+        "understanding"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What major shift in computing did Jensen Huang describe?",
+      "options": [
+        "A) From human coding to machine learning",
+        "B) From desktop to mobile computing",
+        "C) From slow to fast processors",
+        "D) From local to cloud computing"
+      ],
+      "answer": "A",
+      "explanation": "演讲中提到AI重新发明了计算，从人类编码转向机器学习。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "reinvented",
+        "human coding",
+        "machine learning"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "According to the speech, what fear does every major technological revolution create?",
+      "options": [
+        "A) Fear of job loss",
+        "B) Fear alongside opportunity",
+        "C) Fear of the unknown",
+        "D) Fear of change"
+      ],
+      "answer": "B",
+      "explanation": "Jensen Huang提到历史上每个重大技术革命都同时创造了恐惧和机遇。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "technological revolution",
+        "fear",
+        "opportunity"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does Jensen Huang say about teaching fear of the future?",
+      "options": [
+        "A) We should teach it in schools",
+        "B) We should not teach fear of the future",
+        "C) Fear is the best motivation",
+        "D) Fear helps students succeed"
+      ],
+      "answer": "B",
+      "explanation": "演讲中明确说我们不应该教导对未来的恐惧。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "teach",
+        "fear",
+        "future"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "According to Jensen Huang, what happens when society engages technology responsibly?",
+      "options": [
+        "A) It stops progress",
+        "B) It diminishes human potential",
+        "C) It expands human potential far more than it diminishes it",
+        "D) It creates more problems"
+      ],
+      "answer": "C",
+      "explanation": "当社会负责任地参与技术时，我们会大大扩展人类潜力，而不是减少它。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "responsibly",
+        "human potential",
+        "expand"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is described as 'the largest technology infrastructure buildout in human history'?",
+      "options": [
+        "A) The internet",
+        "B) The current AI infrastructure",
+        "C) Mobile networks",
+        "D) Cloud computing"
+      ],
+      "answer": "B",
+      "explanation": "Jensen Huang称当前的AI基础设施建设是人类历史上最大的技术基础设施建设。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "technology infrastructure",
+        "buildout",
+        "history"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does Jensen Huang say AI is creating?",
+      "options": [
+        "A) A new computing industry only",
+        "B) A new industrial era",
+        "C) More jobs in manufacturing",
+        "D) New educational institutions"
+      ],
+      "answer": "B",
+      "explanation": "Jensen Huang说AI不仅在创造一个新的计算产业，而是在创造一个新的工业时代。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "AI",
+        "new industrial era",
+        "creating"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the phrase 'America's opportunity to build again' refer to?",
+      "options": [
+        "A) Building more houses",
+        "B) Building more factories",
+        "C) Building with AI technology",
+        "D) Building better roads"
+      ],
+      "answer": "C",
+      "explanation": "Jensen Huang提到AI给了美国再次建设的机会，这里指的是利用AI技术进行建设。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "America",
+        "build again",
+        "AI"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "How does Jensen Huang describe his experience of being asked to release from a contract?",
+      "options": [
+        "A) Exciting and memorable",
+        "B) Embarrassing, humiliating, and one of the hardest things",
+        "C) A minor setback",
+        "D) A learning opportunity"
+      ],
+      "answer": "B",
+      "explanation": "Jensen Huang描述那个经历是尴尬的、羞辱的，是他做过的最难的事情之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "embarrassing",
+        "humiliating",
+        "contract"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What advice does Jensen Huang give about jobs in the AI era?",
+      "options": [
+        "A) Jobs will completely disappear",
+        "B) Jobs will remain unchanged",
+        "C) We should not fear the future while allowing innovation to move forward",
+        "D) We should stop all automation"
+      ],
+      "answer": "C",
+      "explanation": "Jensen Huang建议我们不应该害怕未来，同时让创新、发现和进步继续前进。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "jobs",
+        "fear",
+        "innovation"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What did Jensen Huang and his co-founder almost run out of?",
+      "options": [
+        "A) Ideas",
+        "B) Time",
+        "C) Money",
+        "D) Customers"
+      ],
+      "answer": "C",
+      "explanation": "演讲中提到他们几乎耗尽资金（ran out of money）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ran out of",
+        "money",
+        "Nvidia"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What is Jensen Huang's main advice to the CMU Class of 2026? Please summarize in your own words.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求学生用自己的话总结Jensen Huang对毕业生的主要建议。",
+      "referenceAnswer": "1. Be clear-eyed about AI technology 2. Don't fear the future 3. Engage technology responsibly and optimistically 4. This is the time to realize your dreams 5. AI creates opportunities alongside challenges",
+      "hint": "Think about what Jensen Huang said about fear, opportunity, and the timing for graduates.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "advice",
+        "graduates",
+        "dreams"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe Jensen Huang's personal background and journey to success as mentioned in the speech.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求学生描述Jensen Huang的个人背景和成功之路。",
+      "referenceAnswer": "1. First-generation immigrant 2. Father had dream to raise family in America 3. Mother worked as maid at Catholic school 4. Older brother got him a job as dishwasher 5. Started Nvidia at age 30 with Chris Malachowsky 6. Company nearly went bankrupt but survived",
+      "hint": "Include details about his family background, early jobs, and创业经历.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "background",
+        "immigrant",
+        "success"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "According to Jensen Huang, what are the benefits and challenges of artificial intelligence? Please explain.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求学生根据演讲内容解释AI的益处和挑战。",
+      "referenceAnswer": "Benefits: 1. Automation of understanding, reasoning and problem-solving 2. Creates new industrial era 3. Expands human potential 4. Opportunity to build again 5. Drives energy infrastructure investment Challenges: 1. Creates fear alongside opportunity 2. Jobs may disappear 3. People wonder what happens next 4. Requires responsible engagement",
+      "hint": "Refer to what Jensen Huang said about technology revolution, fear, opportunity, and human potential.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "benefits",
+        "challenges",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What computing platform shifts has Jensen Huang lived through?",
+      "options": [
+        "A) Only the internet and mobile",
+        "B) Mainframes, PCs, the internet, mobile, and cloud",
+        "C) Only PCs and mobile",
+        "D) Mainframes and PCs only"
+      ],
+      "answer": "B",
+      "explanation": "Jensen Huang说他经历了每一个主要的计算平台转变：大型机、个人电脑、互联网、移动和云。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "computing platform",
+        "shift",
+        "mainframes"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What is the tone of Jensen Huang's speech primarily about AI?",
+      "options": [
+        "A) Fearful and warning",
+        "B) Optimistic but realistic",
+        "C) Indifferent and neutral",
+        "D) Pessimistic about the future"
+      ],
+      "answer": "B",
+      "explanation": "Jensen Huang对AI的态度是乐观但现实的。他承认AI带来恐惧，但也强调它带来机遇；他主张负责任地参与技术，而不是回避它。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tone",
+        "optimistic",
+        "realistic"
+      ]
+    }
+  ]
+}

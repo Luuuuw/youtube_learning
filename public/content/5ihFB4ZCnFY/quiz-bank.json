@@ -1,0 +1,552 @@
+{
+  "videoId": "5ihFB4ZCnFY",
+  "title": "Rosé Cooks Kimchi Fried Rice Dinner | Now Serving | Vogue",
+  "generatedAt": "2026-06-13T16:17:29.745Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 5,
+    "medium": 13,
+    "hard": 6,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'cilantro' refer to in this video?",
+      "options": [
+        "A) A Korean vegetable",
+        "B) Coriander leaves",
+        "C) A type of mushroom",
+        "D) Korean fermented cabbage"
+      ],
+      "answer": "B",
+      "explanation": "Rosé多次提到她非常喜欢cilantro（香菜），她说她的梦想是拥有自己的香菜农场（cilantro farm），并且吃炸鸡时一定要配香菜。cilantro就是香菜的英文名称。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 193.4,
+      "endTime": 200.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cilantro",
+        "farm",
+        "dream"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is 'so and mech' according to Rosé?",
+      "options": [
+        "A) A Korean drinking game",
+        "B) A combination of soju and makgeolli",
+        "C) A type of Korean rice cake",
+        "D) A traditional Korean soup"
+      ],
+      "answer": "B",
+      "explanation": "在字幕中Rosé解释说她mix the two words so from Soju and Mech from mechu，所以so and mech是韩国烧酒（soju）和米酒（makgeolli/mechu）的混合。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 38.4,
+      "endTime": 44.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "soju",
+        "mech",
+        "combination"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is AP in the video?",
+      "options": [
+        "A) A Korean drink",
+        "B) A Korean drinking game",
+        "C) A music album",
+        "D) A cooking technique"
+      ],
+      "answer": "B",
+      "explanation": "Rosé在视频开头提到AP是a Korean drinking game（韩国饮酒游戏），这也是她在吃炸鸡时最喜欢的搭配。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 25.8,
+      "endTime": 31.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "AP",
+        "game",
+        "drinking"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Why is Rosé's album named 'Rosie'?",
+      "options": [
+        "A) It was her stage name",
+        "B) Her friends and family call her Rosie",
+        "C) It's her real name",
+        "D) It was her first song title"
+      ],
+      "answer": "B",
+      "explanation": "Rosé解释说her album name is Rosie and it's called that because her friends and family call me Rosie，她的专辑名字Rosie来源于家人和朋友对她的昵称。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 302.3,
+      "endTime": 310.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Rosie",
+        "album",
+        "family"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'kimchi fried rice' contain according to the video?",
+      "options": [
+        "A) Only rice and kimchi",
+        "B) Rice, kimchi, Spam, chili, olive oil, eggs and sugar",
+        "C) Rice, vegetables and meat",
+        "D) Rice, kimchi and beef"
+      ],
+      "answer": "B",
+      "explanation": "Rosé列出做泡菜炒饭需要的食材：a whole chunk spam, so chili face, olive oil, eggs and rice, oh and sugar。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 249.8,
+      "endTime": 263.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "kimchi",
+        "fried rice",
+        "ingredients"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What is Rosé's dream according to the video?",
+      "options": [
+        "A) To own a cilantro farm",
+        "B) To become a chef",
+        "C) To open a restaurant",
+        "D) To travel around the world"
+      ],
+      "answer": "A",
+      "explanation": "Rosé多次提到她想在20到30年后拥有自己的香菜农场（cilantro Farm），她甚至说要trademark那个名字。她的梦想是坐在香菜农场里喝香菜鸡尾酒。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 630.6,
+      "endTime": 635.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cilantro",
+        "farm",
+        "dream"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What warning does Rosé give when handling chili?",
+      "options": [
+        "A) Don't eat too much at once",
+        "B) Never touch your eyes or you'll be crying all night",
+        "C) Always wear gloves",
+        "D) Don't mix it with other ingredients"
+      ],
+      "answer": "B",
+      "explanation": "Rosé提醒观众说by the way in the process of this you should never touch your eyes you'll just be crying the whole night，因为辣椒会刺激眼睛。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 134,
+      "endTime": 139,
+      "difficulty": "easy",
+      "relatedWords": [
+        "chili",
+        "eyes",
+        "crying"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "At what age did Rosé debut with BLACKPINK?",
+      "options": [
+        "A) 18",
+        "B) 19",
+        "C) 20",
+        "D) 21"
+      ],
+      "answer": "B",
+      "explanation": "Rosé提到她of four years I was 20 and I came out as black pink wa I guess 19，说明她大约19岁加入BLACKPINK并出道。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 294.4,
+      "endTime": 298.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "BLACKPINK",
+        "debut",
+        "age"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'set the record straight' mean in this context?",
+      "options": [
+        "A) To play a record",
+        "B) To clarify or correct misinformation",
+        "C) To start a new project",
+        "D) To organize something"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说let's set the record straight I was born in New Zealand and I moved to Australia，她想澄清纠正关于她出生地的误解。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 272.6,
+      "endTime": 277.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "record",
+        "straight",
+        "clarify"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the 'perfect bite' according to Rosé?",
+      "options": [
+        "A) Rice with kimchi",
+        "B) Rice with Spam",
+        "C) Egg with yolk",
+        "D) Rice with egg and yolk"
+      ],
+      "answer": "D",
+      "explanation": "Rosé说the perfect bite with the egg yolk，yolk是她最喜欢的部分，她喜欢把鸡蛋和蛋黄一起吃。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 593.7,
+      "endTime": 608,
+      "difficulty": "medium",
+      "relatedWords": [
+        "perfect bite",
+        "egg yolk"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'freak out' mean in the sentence 'home kind of freaked out'?",
+      "options": [
+        "A) Got excited",
+        "B) Got angry or worried",
+        "C) Got sick",
+        "D) Got surprised"
+      ],
+      "answer": "B",
+      "explanation": "从语境来看，home kind of freaked out是指她的家人对她写歌的事情感到担心和紧张，freak out在这是指惊慌、担忧的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 149,
+      "endTime": 152.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "freaked out",
+        "home",
+        "worried"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does Rosé say about making music?",
+      "options": [
+        "A) It's like a therapy session",
+        "B) It's very difficult",
+        "C) It's like a game",
+        "D) It's like a job"
+      ],
+      "answer": "A",
+      "explanation": "Rosé说to do this for the rest of my life it was like my own personal like therapy session，表明做音乐对她来说就像个人治疗课程。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 481.9,
+      "endTime": 486.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "music",
+        "therapy",
+        "session"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the traditional Korean dish that Rosé is making?",
+      "options": [
+        "A) Bibimbap",
+        "B) Kimchi fried rice",
+        "C) Tteokbokki",
+        "D) Japchae"
+      ],
+      "answer": "B",
+      "explanation": "视频标题明确写出Rosé Cooks Kimchi Fried Rice Dinner，而且视频中Rosé确实在制作泡菜炒饭（kimchi fried rice）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 15.7,
+      "endTime": 25.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "kimchi",
+        "fried rice",
+        "cooking"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'therapy session' imply in this context?",
+      "options": [
+        "A) A medical treatment",
+        "B) A personal healing process",
+        "C) A formal meeting",
+        "D) A music lesson"
+      ],
+      "answer": "B",
+      "explanation": "Rosé把做音乐比作个人治疗过程，说明音乐对她有治愈和抒发情感的作用，是一种个人情感疗愈的过程。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 481.9,
+      "endTime": 486.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "therapy",
+        "music",
+        "healing"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What ingredient does Rosé say is essential for kimchi fried rice?",
+      "options": [
+        "A) Beef",
+        "B) Pork",
+        "C) Spam",
+        "D) Chicken"
+      ],
+      "answer": "C",
+      "explanation": "Rosé在列出食材时特别提到need is a whole chunk spam，Spam午餐肉是韩式泡菜炒饭的重要食材。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 249.8,
+      "endTime": 263.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Spam",
+        "essential",
+        "ingredient"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does Rosé say about the plating of the dish?",
+      "options": [
+        "A) It doesn't matter",
+        "B) It's the most important part",
+        "C) It should be simple",
+        "D) It takes too much time"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说the plating is the most important，她认为摆盘是最重要的环节。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 529.6,
+      "endTime": 536,
+      "difficulty": "medium",
+      "relatedWords": [
+        "plating",
+        "important",
+        "dish"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'Happy tears' mean in the video?",
+      "options": [
+        "A) Sad crying",
+        "B) Crying from happiness",
+        "C) Angry tears",
+        "D) Confused tears"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说made the person know I was like this is Happy teers by the way I'm not sad，happy tears是指喜悦的泪水，不是悲伤的泪水。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 437.6,
+      "endTime": 440.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Happy tears",
+        "happiness",
+        "crying"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "What is your impression of Rosé based on this cooking video? Please describe her personality and what makes her unique.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生根据视频内容描述对Rosé的印象，包括她的性格特点和独特之处。",
+      "referenceAnswer": "Rosé appears to be warm, passionate about cooking, loves cilantro, has a playful personality, is close to her fans, and genuinely enjoys sharing her culture through food and music.",
+      "hint": "Talk about her love for cooking, her personality, and how she connects with her fans.",
+      "startTime": 15.7,
+      "endTime": 25.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "impression",
+        "personality",
+        "unique"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does Rosé think about spicy food?",
+      "options": [
+        "A) She doesn't like it",
+        "B) She loves it and finds most people would think it's too spicy",
+        "C) She is neutral about it",
+        "D) She only eats mild food"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说I love spicy things，并且认为most people would probably find it a bit too spicy，表明她非常喜欢辣的食物，而且认为大多数人可能会觉得太辣。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 188.1,
+      "endTime": 193.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spicy",
+        "food",
+        "love"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'offline meeting' mean in this context?",
+      "options": [
+        "A) A meeting without internet",
+        "B) An in-person meeting",
+        "C) A phone call",
+        "D) An online video call"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说this morning I actually had my very first meeting it was like offline meeting，她说的offline meeting是指线下的、面对面的会议。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 418.9,
+      "endTime": 426.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "offline",
+        "meeting",
+        "in-person"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "If you were making kimchi fried rice, what ingredients would you use? Please describe your version of the dish.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生描述自己版本的泡菜炒饭食材，培养实际应用和表达能力。",
+      "referenceAnswer": "I would use kimchi, rice, eggs, Spam, chili, soy sauce, and maybe add some vegetables like onions or garlic. I would also consider adding sesame oil for flavor.",
+      "hint": "Think about the key ingredients mentioned in the video and add your own preferences.",
+      "startTime": 249.8,
+      "endTime": 263.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "kimchi fried rice",
+        "ingredients",
+        "cooking"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does Rosé say about her album being a reflection of?",
+      "options": [
+        "A) Her fans",
+        "B) Her friends",
+        "C) Herself",
+        "D) Her family"
+      ],
+      "answer": "C",
+      "explanation": "Rosé说as much as this album really is kind of a reflection of，我，她的专辑是她个人的一种反映。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 310.4,
+      "endTime": 316.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "album",
+        "reflection",
+        "herself"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Why do you think Rosé is so passionate about her cilantro farm dream? What does this tell about her as a person?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生分析Rosé对香菜农场梦想的热情，并推断这反映了她的什么特质。",
+      "referenceAnswer": "This shows Rosé has a whimsical, fun-loving personality. Her cilantro farm dream reflects her simple pleasures, her love for nature, and her creative imagination. It also shows she's relatable and has a playful sense of humor.",
+      "hint": "Consider what the cilantro farm dream symbolizes - simplicity, nature, creativity, and her fun personality.",
+      "startTime": 576.5,
+      "endTime": 584.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "cilantro farm",
+        "dream",
+        "passion"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What game does Rosé describe where people stack their hands?",
+      "options": [
+        "A) A counting game",
+        "B) A clapping game",
+        "C) A hand-stacking game",
+        "D) A guessing game"
+      ],
+      "answer": "C",
+      "explanation": "Rosé描述说hands in the middle and I say like nine and everyone Stacks their hand from bottom up，这是一个韩国饮酒游戏，玩家把手叠在一起并报数。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 121.3,
+      "endTime": 126,
+      "difficulty": "medium",
+      "relatedWords": [
+        "game",
+        "hands",
+        "stack"
+      ]
+    }
+  ]
+}

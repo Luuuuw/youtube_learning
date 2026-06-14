@@ -1,0 +1,554 @@
+{
+  "videoId": "2yeBbZwTdS0",
+  "title": "my go-to glowy summer makeup look | GET READY WITH ME",
+  "generatedAt": "2026-06-13T18:22:04.922Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 11,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'go-to' mean in the context of this makeup video?",
+      "options": [
+        "A) A makeup technique for applying foundation",
+        "B) A favorite or standard choice that someone regularly uses",
+        "C) A type of cosmetic product",
+        "D) A method for blending concealer"
+      ],
+      "answer": "B",
+      "explanation": "'Go-to' 是一个常用表达，意思是\"常去的\"或\"首选的\"。在美妆视频中，'my go-to glowy summer makeup look' 指的是她最常化的夏日妆容，即她的标准/首选妆容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 425.9,
+      "endTime": 441.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "go-to",
+        "makeup look",
+        "summer"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'GET READY WITH ME' typically mean in a beauty video?",
+      "options": [
+        "A) Wait for me to get ready",
+        "B) Watch me do my makeup while I explain the steps",
+        "C) Get ready for a surprise",
+        "D) Prepare your makeup tools"
+      ],
+      "answer": "B",
+      "explanation": "'Get Ready With Me' (GRWM) 是YouTube美妆视频的常见标题，意思是博主在化妆的过程中，观众可以一起观看学习。这是一个互动性很强的视频形式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 6.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "tutorial",
+        "makeup",
+        "beauty video"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'glowy' refer to in the context of summer makeup?",
+      "options": [
+        "A) Shiny or luminous skin appearance",
+        "B) Oily skin texture",
+        "C) Heavy contouring",
+        "D) Matte finish"
+      ],
+      "answer": "A",
+      "explanation": "'Glowy' 指的是皮肤呈现出有光泽、发光的效果。这是夏日妆容的流行趋势，给人一种健康、自然的光泽感，而不是哑光或油光满面的效果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 285.5,
+      "endTime": 293.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "glowy",
+        "dewy",
+        "summer skin"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is the purpose of 'contouring' mentioned in this video?",
+      "options": [
+        "A) To add color to cheeks",
+        "B) To create shadows and define facial structure",
+        "C) To highlight the face",
+        "D) To set makeup with powder"
+      ],
+      "answer": "B",
+      "explanation": "Contouring（修容）是使用深色产品来创造阴影，从而定义和塑造面部轮廓。视频中提到使用 contour and concealer 来打造瘦脸效果，即\"snatched\"效果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 239.1,
+      "endTime": 247.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "contour",
+        "define",
+        "facial structure"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "According to the video, what is a 'skin tint' compared to foundation?",
+      "options": [
+        "A) It provides heavier coverage",
+        "B) It's really light and beautiful, allows skin to breathe",
+        "C) It requires more powder",
+        "D) It's only for dry skin types"
+      ],
+      "answer": "B",
+      "explanation": "视频中说 skin tint \"it's really light really beautiful gives such a nice glow but also a nice coverage but isn't too overpowering\"。Skin tint 比粉底液更轻薄，让皮肤可以自由呼吸。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 223.6,
+      "endTime": 230.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "skin tint",
+        "foundation",
+        "light coverage"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'snatched' mean in the context of this makeup tutorial?",
+      "options": [
+        "A) Stolen or taken away",
+        "B) Perfectly defined and sculpted facial features",
+        "C) Dried out skin",
+        "D) Broken makeup"
+      ],
+      "answer": "B",
+      "explanation": "'Snatched' 是美妆界的流行语，意思是面部轮廓被完美定义和塑造，看起来非常精致。视频中说 \"the snatch you get from this technique is pretty undefeated\"（这个技巧带来的紧致轮廓效果非常棒）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 143.5,
+      "endTime": 154.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "snatched",
+        "contouring",
+        "technique"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'buff' mean in makeup application?",
+      "options": [
+        "A) To eat or consume",
+        "B) To blend or smooth out product into skin",
+        "C) To add more product",
+        "D) To clean makeup brushes"
+      ],
+      "answer": "B",
+      "explanation": "'Buff' 是美妆术语，意思是\"打磨\"或\"融合\"，即用刷子或工具将产品均匀地推开并融入皮肤，使妆容看起来更自然无缝。视频中 \"I'm going to just buff it out\" 就是在说要将产品晕染开。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 194,
+      "endTime": 200.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "buff",
+        "blend",
+        "application"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is the difference between 'dewy' and 'matte' finishes?",
+      "options": [
+        "A) They mean the same thing",
+        "B) Dewy is shiny/luminous, matte is flat without shine",
+        "C) Dewy is for oily skin only",
+        "D) Matte is more expensive"
+      ],
+      "answer": "B",
+      "explanation": "'Dewy' 指的是有光泽、滋润的妆效，而 'matte' 指的是哑光、雾面的妆效。视频中多次提到 \"glowy dewy Summer Skin\"，说明夏日妆容追求的是有光泽的滋润感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 285.5,
+      "endTime": 293.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dewy",
+        "matte",
+        "finish"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'buildable' coverage mean in makeup?",
+      "options": [
+        "A) One layer provides full coverage",
+        "B) Product can be layered to increase coverage intensity",
+        "C) The product expires quickly",
+        "D) Coverage fades throughout the day"
+      ],
+      "answer": "B",
+      "explanation": "'Buildable' 指的是产品可以层层叠加，从轻薄到遮盖力强可以根据需要调整。视频中说 \"this concealer is really creamy and beautiful but has really good coverage too and it's buildable\"，说明这款遮瑕膏可以根据需要叠加。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 187.4,
+      "endTime": 194,
+      "difficulty": "medium",
+      "relatedWords": [
+        "buildable",
+        "coverage",
+        "concealer"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What type of product does the speaker use for under-eye area?",
+      "options": [
+        "A) Setting powder",
+        "B) Contour product",
+        "C) Concealer",
+        "D) Bronzer"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到在眼周区域使用遮瑕膏（concealer）。具体是在 \"I'm going to go in with this hourglass Veil\" 之后，使用遮瑕膏来遮盖黑眼圈和瑕疵。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 212,
+      "endTime": 218,
+      "difficulty": "easy",
+      "relatedWords": [
+        "concealer",
+        "under-eye",
+        "coverage"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'nudie' color refer to in makeup?",
+      "options": [
+        "A) Bright red lip color",
+        "B) Natural-looking nude/beige tone",
+        "C) Dark purple shade",
+        "D) Blue-toned lip color"
+      ],
+      "answer": "B",
+      "explanation": "'Nudie' 指的是裸色或米色系，接近皮肤自然色调的颜色。视频中说 \"it's like a nudie color it brings more definition to the lips\"，指的是一种自然的裸色唇妆。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 387.5,
+      "endTime": 394.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "nudie",
+        "lip color",
+        "natural"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "Which brand is mentioned multiple times throughout this video?",
+      "options": [
+        "A) MAC",
+        "B) Sephora",
+        "C) Hourglass",
+        "D) NARS"
+      ],
+      "answer": "C",
+      "explanation": "Hourglass 是视频中多次提到的美妆品牌。视频中提到了 Hourglass Veil（妆前乳）、Hourglass 睫毛膏、Hourglass 刷子等多款产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 218,
+      "endTime": 223.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Hourglass",
+        "brand",
+        "products"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What two blush shades does the speaker use?",
+      "options": [
+        "A) Bright red and coral",
+        "B) Nudie beigey pink and baby ballerina pink",
+        "C) Purple and blue",
+        "D) Orange and brown"
+      ],
+      "answer": "B",
+      "explanation": "视频中说 \"do two different blush Shades a nudie beigey pink and I like to do that first because it\" 以及提到 \"a little bit more of like a baby ballerina pink\"，所以使用的是裸米色和婴儿芭蕾粉两种腮红。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 271.3,
+      "endTime": 279.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "blush",
+        "shades",
+        "pink"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the last step mentioned in this makeup look?",
+      "options": [
+        "A) Applying setting spray",
+        "B) Using peptide lip treatment",
+        "C) Filling in eyebrows",
+        "D) Adding highlighter"
+      ],
+      "answer": "B",
+      "explanation": "视频最后提到 \"the last thing I'm gonna do is my peptide lip treatment\"，所以最后一个步骤是使用肽类唇部护理产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 399.5,
+      "endTime": 410.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lip treatment",
+        "last step",
+        "peptide"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does it mean when the speaker says 'it's back' about a product?",
+      "options": [
+        "A) The product has returned after being discontinued or unavailable",
+        "B) She is turning around",
+        "C) The product is expired",
+        "D) She is returning the product"
+      ],
+      "answer": "A",
+      "explanation": "视频中说 \"look what's back vanilla cake\" 和 \"I'm so happy that it's back I really missed this scent\"，这里 'it's back' 指的是这款产品之前停产或缺货，现在又重新上市了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 418.6,
+      "endTime": 425.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "product",
+        "discontinued",
+        "back in stock"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'seamless' mean in makeup application?",
+      "options": [
+        "A) Having visible makeup lines",
+        "B) Perfectly blended with no visible edges or lines",
+        "C) Using multiple products at once",
+        "D) Applying makeup quickly"
+      ],
+      "answer": "B",
+      "explanation": "'Seamless' 意思是\"无缝的\"，指妆容完美融合，看不到任何边界或痕迹。视频中说 \"it makes everything look really really even and seamless\"，指的是产品完美融入皮肤。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 122.2,
+      "endTime": 128.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "seamless",
+        "blend",
+        "even"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What is the purpose of bronzer in this summer makeup look?",
+      "options": [
+        "A) To lighten the skin",
+        "B) To add warmth and sun-kissed dimension to the skin",
+        "C) To cover blemishes",
+        "D) To set concealer"
+      ],
+      "answer": "B",
+      "explanation": "Bronzer（古铜粉/修容粉）用于为皮肤添加温暖的感觉和阳光吻过的立体感。视频中说 \"almost bronzes up the skin a little bit\"，目的是让皮肤看起来有阳光般的健康色泽。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 279.2,
+      "endTime": 285.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bronzer",
+        "warmth",
+        "sun-kissed"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'hydration packed' mean about a product?",
+      "options": [
+        "A) The product is waterproof",
+        "B) The product contains a lot of moisturizing ingredients",
+        "C) The product is heavy on skin",
+        "D) The product expires quickly"
+      ],
+      "answer": "B",
+      "explanation": "'Hydration packed' 意思是\"富含水分/保湿成分\"，形容产品含有丰富的保湿成分。视频中说 \"is so hydration packed and it looks so stunning under my makeup\"，指的是妆前产品保湿效果非常好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 63.1,
+      "endTime": 69.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hydration",
+        "moisturizer",
+        "moisture"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Describe the skin preparation steps shown in this video and explain why they are important for a glowy summer makeup look.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生描述视频中的护肤准备步骤并解释其重要性。",
+      "referenceAnswer": "1. Start with skin prep 2. Apply moisturizer 3. Use Hourglass Veil primer 4. These steps create hydrated, smooth base 5. Help makeup blend seamlessly 6. Achieve the glowy, dewy finish",
+      "hint": "Try to mention: skin prep, moisturizer, primer, hydration, smooth base, glowing finish",
+      "startTime": 6.2,
+      "endTime": 23.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "skin prep",
+        "moisturizer",
+        "primer",
+        "glowy"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Explain the difference between using a skin tint versus a foundation, based on what was mentioned in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生解释 skin tint 和 foundation 的区别。",
+      "referenceAnswer": "1. Skin tint is lighter and more natural 2. Foundation provides more coverage 3. Skin tint allows skin to breathe 4. Skin tint gives a nice glow 5. Foundation can be too heavy for summer 6. Skin tint is better for light summer makeup",
+      "hint": "Use words like: light coverage, natural, breathable, glowy, heavy vs light",
+      "startTime": 212,
+      "endTime": 230.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "skin tint",
+        "foundation",
+        "difference"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe how to achieve the 'snatched' jawline look mentioned in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生描述如何打造紧致的下颚线效果。",
+      "referenceAnswer": "1. Use contour product along jawline 2. Apply concealer for additional sculpting 3. Blend well using buffing technique 4. Creates definition and shadow 5. Makes face look more sculpted and lifted",
+      "hint": "Try to include: contour, jawline, concealer, blend, definition, technique",
+      "startTime": 143.5,
+      "endTime": 154.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "snatched",
+        "jawline",
+        "contour"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What is the purpose of setting powder according to the video?",
+      "options": [
+        "A) To make the skin glowier",
+        "B) To keep makeup in place and prevent it from sliding",
+        "C) To add more coverage",
+        "D) To moisturize the skin"
+      ],
+      "answer": "B",
+      "explanation": "视频中说 \"like it's necessary to set my makeup\"，意思是定妆粉是用来固定妆容的，防止妆面脱落或移位。虽然博主说用量不多因为想保持 glowy 效果，但定妆粉的基本作用仍是持久定妆。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 316.7,
+      "endTime": 322.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "setting powder",
+        "set makeup",
+        "long-lasting"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "How does the speaker brush her eyebrows?",
+      "options": [
+        "A) Always in one direction",
+        "B) First in reverse direction, then normal direction",
+        "C) Only using finger",
+        "D) Without brushing them"
+      ],
+      "answer": "B",
+      "explanation": "视频中说 \"so I'm just gonna brush them up I like to go the reverse way like this and then\"，意思是她喜欢先逆着眉毛方向梳，然后再顺着梳，这样可以起到更好的塑形效果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 322.3,
+      "endTime": 329.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "brows",
+        "brush",
+        "direction"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'enhance' mean in the context of lip makeup?",
+      "options": [
+        "A) To completely change lip color",
+        "B) To bring out or emphasize natural features",
+        "C) To remove lip makeup",
+        "D) To make lips smaller"
+      ],
+      "answer": "B",
+      "explanation": "'Enhance' 意思是\"增强\"或\"突出\"，在美妆中指的是强调和突出自然的特征。视频中说 \"kind of just like enhanced my lips\"，意思是这款唇部产品让她的嘴唇看起来更立体、更有光泽。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 387.5,
+      "endTime": 394.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "enhance",
+        "lips",
+        "definition"
+      ]
+    }
+  ]
+}

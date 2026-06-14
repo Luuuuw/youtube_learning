@@ -1,0 +1,584 @@
+{
+  "videoId": "IhA4XU8ju7A",
+  "title": "Rosé Takes a Lie Detector Test | Vanity Fair",
+  "generatedAt": "2026-06-13T16:43:21.098Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 8,
+    "medium": 13,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is Rosé's full name according to the video?",
+      "options": [
+        "A) Roseanne Park",
+        "B) Rose Park",
+        "C) Rosanne Kim",
+        "D) Rose Park Kim"
+      ],
+      "answer": "A",
+      "explanation": "在视频中，Rosé确认她的全名是Roseanne Park，这是她的本名。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 46,
+      "endTime": 56.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "full name",
+        "Roseanne Park",
+        "identity"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "Which BLACKPINK member does Rosé say sends the best memes?",
+      "options": [
+        "A) Jisoo",
+        "B) Jennie",
+        "C) Lisa",
+        "D) Rosé herself"
+      ],
+      "answer": "C",
+      "explanation": "在提到谁发送最好的表情包时，Rosé说是Lisa（JC是指Jisoo和Jennie）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 299.1,
+      "endTime": 307.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "BLACKPINK",
+        "memes",
+        "Lisa",
+        "members"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "When did Rosé first join BLACKPINK?",
+      "options": [
+        "A) 2014",
+        "B) 2016",
+        "C) 2018",
+        "D) 2020"
+      ],
+      "answer": "B",
+      "explanation": "Rosé在视频中确认她是在2016年加入BLACKPINK的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 270.8,
+      "endTime": 278.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "BLACKPINK",
+        "joined",
+        "2016",
+        "career"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does Rosé say about rosé wine?",
+      "options": [
+        "A) She loves it",
+        "B) She doesn't like it",
+        "C) She has never tried it",
+        "D) She drinks it every day"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说实际上她不喜欢rosé wine，这是唯一一款她不喜欢的酒。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 417.8,
+      "endTime": 423.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "rosé wine",
+        "drink",
+        "preference"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What song did Rosé collaborate on with Bruno Mars?",
+      "options": [
+        "A) Pink Venom",
+        "B) APT.",
+        "C) Ice",
+        "D) DDU-DU DDU-DU"
+      ],
+      "answer": "B",
+      "explanation": "在视频中提到APT.是Rosé与Bruno Mars合作的歌曲，这首歌在2024年10月16日发布。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 668.6,
+      "endTime": 676.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "APT",
+        "Bruno Mars",
+        "collaboration",
+        "song"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Has Rosé ever forgotten to bleach her roots?",
+      "options": [
+        "A) No, never",
+        "B) Yes, and she hated it",
+        "C) Yes, but she didn't mind",
+        "D) She doesn't bleach her roots"
+      ],
+      "answer": "B",
+      "explanation": "Rosé承认她曾忘记漂白头发根部，她很不喜欢那个样子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 768.7,
+      "endTime": 776.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bleach",
+        "roots",
+        "hair",
+        "blonde"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does Rosé say about having an 'old soul'?",
+      "options": [
+        "A) She doesn't have one",
+        "B) She thinks she has one",
+        "C) She doesn't know",
+        "D) She wants to have one"
+      ],
+      "answer": "B",
+      "explanation": "当被问到是否有old soul时，Rosé说'I think I have an old soul'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 566.7,
+      "endTime": 574.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "old soul",
+        "personality",
+        "character"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What was the song 'Number One Girl' inspired by?",
+      "options": [
+        "A) Her fans",
+        "B) Toxic comments on social media",
+        "C) Her family",
+        "D) Her breakup with an ex"
+      ],
+      "answer": "B",
+      "explanation": "Rosé透露'Number One Girl'的灵感来自她在社交媒体上看到的恶意评论。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 574.2,
+      "endTime": 579.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Number One Girl",
+        "inspiration",
+        "toxic comments",
+        "social media"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "According to the video, is social media always a bad thing for Rosé?",
+      "options": [
+        "A) Yes, always",
+        "B) No, she appreciates supportive fans",
+        "C) She doesn't have an opinion",
+        "D) She avoids social media"
+      ],
+      "answer": "B",
+      "explanation": "Rosé认为社交媒体不总是坏的，因为她感谢那些支持她的粉丝。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 579.6,
+      "endTime": 585.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "social media",
+        "bad thing",
+        "fans",
+        "supportive"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Who did Rosé collaborate with on the song 'Ice'?",
+      "options": [
+        "A) Bruno Mars",
+        "B) Selena Gomez",
+        "C) Lady Gaga",
+        "Beyonce"
+      ],
+      "answer": "B",
+      "explanation": "在视频中提到Rosé与Selena Gomez合作了歌曲'Ice'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 456.7,
+      "endTime": 471.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Ice",
+        "Selena Gomez",
+        "collaboration"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "Has Rosé ever read fanfiction about herself?",
+      "options": [
+        "A) Yes, she loves it",
+        "B) No, she hasn't",
+        "C) She writes her own",
+        "D) She doesn't know what fanfiction is"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说她没有读过关于自己的同人小说。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 716.2,
+      "endTime": 723.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fanfic",
+        "read",
+        "yourself"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "Does Rosé think she could be a good art teacher?",
+      "options": [
+        "A) Yes, she's confident",
+        "B) No, she's not good at drawing",
+        "C) She already is one",
+        "D) She wants to try"
+      ],
+      "answer": "B",
+      "explanation": "当被问到是否想成为艺术老师时，Rosé说她画得不好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 132,
+      "endTime": 137.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "art teacher",
+        "drawing",
+        "regret"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the word 'incursive' mean according to the fans?",
+      "options": [
+        "A) Something positive",
+        "B) Something negative",
+        "C) A type of music",
+        "D) Rosé doesn't know"
+      ],
+      "answer": "D",
+      "explanation": "Rosé被问到'singing incursive'是什么意思，她说她不知道。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 488.6,
+      "endTime": 506,
+      "difficulty": "hard",
+      "relatedWords": [
+        "incursive",
+        "meaning",
+        "singing"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "Has Rosé ever been a matchmaker for any celebrity friends?",
+      "options": [
+        "A) Yes, several times",
+        "B) No, never",
+        "C) She is currently doing it",
+        "D) She doesn't know any celebrities"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说她从来没有做过媒人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 471.8,
+      "endTime": 478.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "matchmaker",
+        "celebrity friends",
+        "dating"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "Is Bruno Mars a liar according to the lie detector test?",
+      "options": [
+        "A) Yes",
+        "B) No",
+        "C) The test was inconclusive",
+        "D) Rosé refused to answer"
+      ],
+      "answer": "A",
+      "explanation": "测谎仪测试结果显示Bruno Mars是个骗子（liar）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 691.8,
+      "endTime": 701.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Bruno Mars",
+        "liar",
+        "lie detector"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What decade did Rosé say she would have been happier living in?",
+      "options": [
+        "A) 1920s",
+        "B) 1950s",
+        "C) 1980s",
+        "D) 2000s"
+      ],
+      "answer": "A",
+      "explanation": "当被问到是否会在1920年代更快乐时，Rosé说'No'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 522.5,
+      "endTime": 529.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "1920s",
+        "happier",
+        "decade"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "Does Rosé think she's a better singer than Nicole Kidman?",
+      "options": [
+        "A) Yes, definitely",
+        "B) No, Nicole is better",
+        "C) They are equal",
+        "D) She doesn't know"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说她不认为自己是比Nicole Kidman更好的歌手，并承认Nicole Kidman唱得很好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 898.5,
+      "endTime": 905,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Nicole Kidman",
+        "singer",
+        "better"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "Which actress/musician inspired Rosé according to the video?",
+      "options": [
+        "A) Lady Gaga",
+        "B) Ariana Grande",
+        "C) A specific actress mentioned",
+        "D) No one"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到Rosé被某位女性灵感启发，但没有明确说出名字。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 878.7,
+      "endTime": 886.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "inspired",
+        "woman",
+        "actress"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Please describe what you learned about Rosé's personality from this lie detector test video. What interesting facts did you discover about her?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生根据视频内容描述Rosé的性格特点和有趣的事实。",
+      "referenceAnswer": "考生应提到：1) 她的真名和韩国出生背景 2) 对音乐的真实态度 3) 对社交媒体的看法 4) 与BLACKPINK成员的关系 5) 她对各种问题的诚实回答",
+      "hint": "可以从她的回答内容、语气、表情等方面描述她的性格特点",
+      "startTime": 0.2,
+      "endTime": 905,
+      "difficulty": "medium",
+      "relatedWords": [
+        "personality",
+        "lie detector",
+        "character",
+        "Rosé"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What do you think about the concept of a lie detector test? Would you be willing to take one? Explain your reasoning.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，考查考生对测谎仪测试这一概念的理解和表达能力。",
+      "referenceAnswer": "考生应表达对测谎仪测试的看法，包括：1) 是否相信测谎仪的准确性 2) 参加此类测试的意愿 3) 对公开个人隐私的看法 4) 测试的娱乐价值",
+      "hint": "可以从隐私、真实性、娱乐性等角度展开",
+      "startTime": 39.3,
+      "endTime": 46,
+      "difficulty": "hard",
+      "relatedWords": [
+        "lie detector",
+        "test",
+        "truth",
+        "privacy"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Based on the video, what can you infer about the relationship between Rosé and her BLACKPINK members? Give specific examples.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，考查考生对Rosé与BLACKPINK成员关系的理解和推理能力。",
+      "referenceAnswer": "考生应提到：1) 她提到Lisa发送最好的表情包 2) 她对成员的评价都很正面 3) 团队合作的重要性 4) 彼此之间的支持和互动",
+      "hint": "注意视频中提到的具体成员互动细节",
+      "startTime": 299.1,
+      "endTime": 317,
+      "difficulty": "medium",
+      "relatedWords": [
+        "BLACKPINK",
+        "members",
+        "relationship",
+        "team"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Why do you think celebrities like Rosé agree to participate in fun challenge videos like this lie detector test? What are the benefits and potential drawbacks?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道分析性口语题，考查考生对名人参加此类挑战视频的原因和影响的理解。",
+      "referenceAnswer": "考生应从以下角度分析：1) 增加与粉丝的互动 2) 展示真实自我 3) 提高曝光度 4) 可能涉及隐私 5) 公众形象管理",
+      "hint": "可以从名人和观众两个角度思考",
+      "startTime": 7.4,
+      "endTime": 15.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "celebrity",
+        "challenge",
+        "benefits",
+        "drawbacks"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does the phrase 'slipped into the wrong language while singing' refer to?",
+      "options": [
+        "A) Singing in the wrong key",
+        "B) Accidentally using Korean instead of English or vice versa",
+        "C) Forgetting the lyrics",
+        "D) Singing off-tune"
+      ],
+      "answer": "B",
+      "explanation": "这个片段指的是Rosé在唱歌时不小心切换到另一种语言（韩语或英语）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 92,
+      "endTime": 97.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "language",
+        "singing",
+        "Korean",
+        "English"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "Has Rosé ever considered changing her hair color to a different color besides blonde?",
+      "options": [
+        "A) No, she never considered it",
+        "B) Yes, but she always decides against it",
+        "C) She changes it frequently",
+        "D) She is naturally brunette"
+      ],
+      "answer": "B",
+      "explanation": "Rosé说她考虑过把头发染成其他颜色，但最终总是决定不染。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 761.4,
+      "endTime": 768.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hair color",
+        "blonde",
+        "brunette",
+        "change"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "In the video, what does the lie detector test reveal about Bruno Mars?",
+      "options": [
+        "A) He tells the truth",
+        "B) He is a liar",
+        "C) He is nervous",
+        "D) He is excited"
+      ],
+      "answer": "B",
+      "explanation": "测谎仪测试结果显示Bruno Mars在某些问题上说了谎。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 681.8,
+      "endTime": 691.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Bruno Mars",
+        "lie detector",
+        "truth",
+        "result"
+      ]
+    }
+  ]
+}

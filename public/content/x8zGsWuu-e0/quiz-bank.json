@@ -1,0 +1,548 @@
+{
+  "videoId": "x8zGsWuu-e0",
+  "title": "Every Outfit Kendall Jenner Wears in a Week | 7 Days, 7 Looks | Vogue India",
+  "generatedAt": "2026-06-13T17:06:59.682Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 6,
+    "medium": 14,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does Kendall mean when she says she 'can't leave the house or a hotel without a pair of sunglasses'?",
+      "options": [
+        "A) She is allergic to sunlight",
+        "B) She feels incomplete or unsafe without them",
+        "C) She only wears them at night",
+        "D) She collects sunglasses as a hobby"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第66.0s-71.9s的内容，Kendall说：'I just feel safe behind them or something'，意思是她没有太阳镜就会觉得缺少安全感，这是一种心理依赖。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 66,
+      "endTime": 71.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sunglasses",
+        "vintage",
+        "safe"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'vintage' mean in the context of Kendall's Gucci sunglasses?",
+      "options": [
+        "A) Expensive and new",
+        "B) Old but valuable or classic",
+        "C) Cheap and low quality",
+        "D) Handmade by artisans"
+      ],
+      "answer": "B",
+      "explanation": "字幕第71.9s-77.0s提到'vintage Gucci'，vintage在这里指复古的、有年代感的经典款式，通常是二手或早期生产的正品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 71.9,
+      "endTime": 77,
+      "difficulty": "easy",
+      "relatedWords": [
+        "vintage",
+        "Gucci",
+        "sunglasses"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'form-fitting' refer to in Kendall's description of her outfits?",
+      "options": [
+        "A) Loose and comfortable clothing",
+        "B) Tight and body-hugging clothing",
+        "C) Traditional and classic style",
+        "D) Colorful and patterned clothing"
+      ],
+      "answer": "B",
+      "explanation": "字幕第425.5s-431.0s提到'form-fitting'，第463.8s-469.1s也提到'super form fitting'，意思是紧身的、贴合身体曲线的服装版型。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 425.5,
+      "endTime": 431,
+      "difficulty": "medium",
+      "relatedWords": [
+        "form-fitting",
+        "cute",
+        "sexy"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What brand are the 'Kate' jeans that Kendall mentions as her favorite?",
+      "options": [
+        "A) Gucci",
+        "B) Bottega",
+        "C) Levi's",
+        "D) Ralph Lauren"
+      ],
+      "answer": "C",
+      "explanation": "字幕第307.3s-314.3s明确提到：'they're the Kate jeans so these are Levi's 501s'，说明Kate jeans是Levi's 501的款式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 307.3,
+      "endTime": 314.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Kate",
+        "Levi's",
+        "jeans"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Which designer brand does Kendall mention multiple times as one of her favorites?",
+      "options": [
+        "A) Chanel",
+        "B) Prada",
+        "C) Bottega",
+        "D) Dior"
+      ],
+      "answer": "C",
+      "explanation": "字幕第476.3s-480.2s提到'Bottega'，第25条字幕443.8s-448.5s也提到'I love Bottega right now they're one of my favorite Italian designers'，Bottega是Kendall非常喜欢的品牌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 443.8,
+      "endTime": 448.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Bottega",
+        "designer",
+        "Italian"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'get it twisted' mean in Kendall's airport look description?",
+      "options": [
+        "A) Get confused about clothing choices",
+        "B) Don't misunderstand or get the wrong idea",
+        "C) Change your mind",
+        "D) Make a mistake"
+      ],
+      "answer": "B",
+      "explanation": "字幕第272.0s-277.1s提到'don't get it twisted'，这是一个常用口语表达，意思是'别搞错了'或'别误解'，Kendall用这个词提醒大家不要误解她穿leggings的做法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 272,
+      "endTime": 277.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "get it twisted",
+        "airport",
+        "leggings"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What kind of outfit does Kendall wear for her workout day according to the video?",
+      "options": [
+        "A) Formal business suit",
+        "B) Running shoes and a dress",
+        "C) Gym shoes and a sweatshirt for Pilates",
+        "D) High heels and jeans"
+      ],
+      "answer": "C",
+      "explanation": "字幕第519.5s-526.3s提到：'this is my going to Pilates look I guess I'd add a sweatshirt'，以及第508.3s-514.1s提到'workout day'，说明她的锻炼日穿搭是运动鞋和运动衫。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 519.5,
+      "endTime": 526.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "workout",
+        "Pilates",
+        "gym shoe"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is Kendall's airport look according to the video?",
+      "options": [
+        "A) High heels and a dress",
+        "B) Formal business attire",
+        "C) Comfortable clothes with leggings",
+        "D) Designer outfits only"
+      ],
+      "answer": "C",
+      "explanation": "字幕第277.1s-282.1s提到'am not wearing these jeans on the airplane I always have a pair of leggings in my carry-on'，以及第286.5s-291.2s说'my leggings on the actual plane'，说明她的机场穿搭以舒适为主，会穿leggings。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 277.1,
+      "endTime": 282.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "airport",
+        "leggings",
+        "comfortable"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Which brand is 'The Row' described as in the video?",
+      "options": [
+        "A) A budget brand",
+        "B) Kendall's favorite brand she wears all the time",
+        "C) A sports brand",
+        "D) A new emerging brand"
+      ],
+      "answer": "B",
+      "explanation": "字幕第172.1s-185.3s提到'something this coat which is the row shocker that's all I wear'，第554.8s-567.0s也提到'again the row'，说明The Row是Kendall经常穿的品牌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 172.1,
+      "endTime": 185.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "The Row",
+        "coat",
+        "wear"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does Kendall say about the Levi's 501 jeans she tailored?",
+      "options": [
+        "A) They were too small originally",
+        "B) They were huge on her when she got them",
+        "C) They were already the perfect fit",
+        "D) She didn't like the color"
+      ],
+      "answer": "B",
+      "explanation": "字幕第298.9s-302.9s提到'were huge on me when I got them and I tailored them to fit me just once again'，意思是这些牛仔裤最初很大，她改过之後合身。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 298.9,
+      "endTime": 302.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Levi's",
+        "tailored",
+        "huge"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What type of bag does Kendall describe as a 'good slouchy tote bag goes with literally everything'?",
+      "options": [
+        "A) A small clutch",
+        "B) A designer tote from The Row",
+        "C) A backpack",
+        "D) A crossbody bag"
+      ],
+      "answer": "B",
+      "explanation": "字幕第554.8s-567.0s提到'again the row and it's just a good slouchy tote bag goes with literally everything'，说明这是一款The Row的慵懒托特包。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 554.8,
+      "endTime": 567,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tote bag",
+        "The Row",
+        "slouchy"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'errands' refer to in the everyday look description?",
+      "options": [
+        "A) Fashion shows",
+        "B) Running various daily tasks like shopping and appointments",
+        "C) Business meetings",
+        "D) Workout sessions"
+      ],
+      "answer": "B",
+      "explanation": "字幕第16.4s-22.6s提到'running errands running around town look'，errands是指日常琐事，如购物、办事等。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 16.4,
+      "endTime": 22.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "errands",
+        "everyday",
+        "town"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "Which designer jacket does Kendall mention wearing in the video?",
+      "options": [
+        "A) Gucci jacket",
+        "B) Bottega jacket",
+        "C) Ralph Lauren vintage jacket from 2018",
+        "D) Prada jacket"
+      ],
+      "answer": "C",
+      "explanation": "字幕第291.2s-298.9s提到'Ralph Lauren jacket from 2018 vintage tea'，是一款复古的Ralph Lauren夹克。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 291.2,
+      "endTime": 298.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Ralph Lauren",
+        "vintage",
+        "jacket"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'snatched waist' mean in Kendall's description?",
+      "options": [
+        "A) A lost waist",
+        "B) A very defined, slim waistline that accentuates the figure",
+        "C) A wide waist",
+        "D) A decorated waist"
+      ],
+      "answer": "B",
+      "explanation": "字幕第431.0s-436.7s提到'love a little snatched waist'，snatched waist是时尚术语，指非常紧致、凸显身材的腰线设计。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 431,
+      "endTime": 436.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "snatched",
+        "waist",
+        "Bottega"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What kind of shoes does Kendall say she wears 'all the time' according to the video?",
+      "options": [
+        "A) High heels",
+        "B) Vintage Gucci boots",
+        "C) Running shoes",
+        "D) Sandals"
+      ],
+      "answer": "B",
+      "explanation": "字幕第121.5s-127.4s提到'see me in these boots all the time this throw bag is again just a good basic'，以及第115.7s-121.5s提到'vintage Gucci boots'，说明她经常穿Gucci靴子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 121.5,
+      "endTime": 127.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "boots",
+        "Gucci",
+        "vintage"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is Kendall's 'night out' look typically like?",
+      "options": [
+        "A) Very casual with sweatpants",
+        "B) Form-fitting and cute from Bottega",
+        "C) Athletic wear",
+        "D) Business formal"
+      ],
+      "answer": "B",
+      "explanation": "字幕第480.2s-484.7s提到'night out to a birthday party or a friend's dinner'，第431.0s-436.7s提到'love a little snatched waist the whole look is Bottega'，说明她的夜店造型是Bottega的紧身款式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 480.2,
+      "endTime": 484.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "night out",
+        "Bottega",
+        "birthday"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'uniform' refer to in Kendall's description of her everyday style?",
+      "options": [
+        "A) A specific work outfit",
+        "B) Her regular, repeated outfit formula",
+        "C) A designer collaboration",
+        "D) A special occasion outfit"
+      ],
+      "answer": "B",
+      "explanation": "字幕第162.8s-167.1s提到'this is a uniform for me again'，uniform在这里指她日常重复穿着的固定穿搭公式，而非真正的制服。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 162.8,
+      "endTime": 167.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "uniform",
+        "everyday",
+        "vibe"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What feature of the boots does Kendall particularly like according to the video?",
+      "options": [
+        "A) They are very flat",
+        "B) They go up to the knee with a small heel",
+        "C) They are completely flat",
+        "D) They are very colorful"
+      ],
+      "answer": "B",
+      "explanation": "字幕第314.3s-319.1s提到'High they go up to the knee but have a small little heel which is my favorite'，说明她喜欢高到膝盖、有小跟的靴子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 314.3,
+      "endTime": 319.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "boots",
+        "knee",
+        "heel"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'forward' refer to in the context of the video?",
+      "options": [
+        "A) A direction",
+        "B) A fashion retailer or website",
+        "C) A modeling agency",
+        "D) A brand name"
+      ],
+      "answer": "B",
+      "explanation": "字幕第463.8s-469.1s提到'I got this whole look on forward'，第32条字幕也提到'I work for forward'，Forward是一个时尚电商平台。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 463.8,
+      "endTime": 469.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Forward",
+        "website",
+        "shopping"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe your everyday style and the key pieces in your wardrobe. What brands do you prefer and why?",
+      "options": [],
+      "answer": "",
+      "explanation": "这是一道口语表达题，要求考生用英语描述自己的日常穿搭风格、衣橱必备单品以及偏好的品牌。",
+      "referenceAnswer": "Should include: 1) Description of everyday style 2) Key wardrobe pieces (jeans, t-shirts, etc.) 3) Preferred brands and reasons 4) Comfort vs fashion balance",
+      "hint": "Think about: What do you typically wear? What are your must-have items? Which brands do you like and why?",
+      "startTime": 12,
+      "endTime": 30,
+      "difficulty": "medium",
+      "relatedWords": [
+        "style",
+        "wardrobe",
+        "everyday"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What would you wear for a workout or exercise session? Describe your ideal gym outfit.",
+      "options": [],
+      "answer": "",
+      "explanation": "这是一道口语表达题，要求考生描述运动时的穿搭选择，包括运动鞋、运动服等单品。",
+      "referenceAnswer": "Should include: 1) Type of exercise (Pilates, gym, running, etc.) 2) Key clothing items (sneakers, leggings, sports bra, sweatshirt) 3) Comfort and functionality considerations 4) Brand preferences if any",
+      "hint": "Consider: What activities do you do? What do you wear? Why is comfort important for workout?",
+      "startTime": 508,
+      "endTime": 526,
+      "difficulty": "easy",
+      "relatedWords": [
+        "workout",
+        "gym",
+        "exercise"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe your perfect airport look. What factors do you consider when choosing outfits for travel?",
+      "options": [],
+      "answer": "",
+      "explanation": "这是一道口语表达题，要求考生描述理想的机场穿搭，并解释选择服装时考虑的因素。",
+      "referenceAnswer": "Should include: 1) Comfortable clothing choices (leggings, loose tops, etc.) 2) Practical considerations for travel 3) Accessories (sunglasses, etc.) 4) Balance between comfort and style",
+      "hint": "Think about: What makes a good travel outfit? Why is comfort important on planes? What do you typically pack?",
+      "startTime": 272,
+      "endTime": 290,
+      "difficulty": "medium",
+      "relatedWords": [
+        "airport",
+        "travel",
+        "comfortable"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "If you were going to a birthday party or a fancy dinner, what would you wear? Describe your night out outfit.",
+      "options": [],
+      "answer": "",
+      "explanation": "这是一道口语表达题，要求考生描述参加生日派对或正式晚餐的穿搭选择。",
+      "referenceAnswer": "Should include: 1) Type of event (birthday party, dinner, etc.) 2) Outfit choices (dress, form-fitting clothes, heels or boots) 3) Accessories (bag, jewelry) 4) Brand preferences",
+      "hint": "Consider: What's the occasion? Do you prefer dresses or outfits? What shoes would you wear?",
+      "startTime": 480,
+      "endTime": 495,
+      "difficulty": "medium",
+      "relatedWords": [
+        "night out",
+        "party",
+        "birthday"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What is Kendall's 'everyday kind of' look mentioned at the beginning of the video?",
+      "options": [
+        "A) A formal business suit",
+        "B) A little black tee with jeans",
+        "C) An athletic outfit",
+        "D) A glamorous evening gown"
+      ],
+      "answer": "B",
+      "explanation": "字幕第1.2s-16.4s提到'hey Vogue I'm Kendall Jenner and this is so this I'd say is my everyday kind of'，第16.4s-22.6s具体描述为'running errands running around town look I am wearing a little black tee by Sunday's best my jeans'，所以她的日常造型是黑色T恤搭配牛仔裤。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1.2,
+      "endTime": 22.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "everyday",
+        "black tee",
+        "jeans"
+      ]
+    }
+  ]
+}

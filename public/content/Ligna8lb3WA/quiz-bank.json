@@ -1,0 +1,567 @@
+{
+  "videoId": "Ligna8lb3WA",
+  "title": "behind the scenes of my monochromatic glam for the Academy Museum Gala | GET READY WITH ME",
+  "generatedAt": "2026-06-13T18:13:40.198Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 6,
+    "medium": 12,
+    "hard": 7,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'monochromatic' mean in the context of this video?",
+      "options": [
+        "A) Multiple colors in one outfit",
+        "B) A single color or shades of one color",
+        "C) Very bright and colorful",
+        "D) Black and white only"
+      ],
+      "answer": "B",
+      "explanation": "在视频中，主人公多次提到'monochromatic look'，指的是全身造型使用单一颜色或同一色系的不同深浅。她解释说自己选择了棕色系的妆容和服装，打造统一的单色造型。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 22,
+      "endTime": 35,
+      "difficulty": "easy",
+      "relatedWords": [
+        "monochromatic",
+        "look",
+        "color"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'glam it up' mean in this video?",
+      "options": [
+        "A) Put on comfortable clothes",
+        "B) Make yourself look glamorous and polished",
+        "C) Go to sleep early",
+        "D) Clean up your room"
+      ],
+      "answer": "B",
+      "explanation": "'Glam it up'是'glamorous'的动词形式，意思是让自己看起来更华丽、更有魅力。在视频开头，主人公说'let's do it Glam it up'，意思是让我们打扮得美美的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 7.6,
+      "endTime": 15,
+      "difficulty": "easy",
+      "relatedWords": [
+        "glam",
+        "glamorous",
+        "polish"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is a 'GET READY WITH ME' video?",
+      "options": [
+        "A) A video showing cooking recipes",
+        "B) A video showing the process of getting dressed and ready for an event",
+        "C) A workout video tutorial",
+        "D) A travel vlog"
+      ],
+      "answer": "B",
+      "explanation": "'GET READY WITH ME'是YouTube上非常流行的视频类型，博主会展示自己为某个场合做准备的全过程，包括化妆、换衣服、做头发等。视频标题明确表明这是一个此类视频。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0.1,
+      "endTime": 7.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "get ready",
+        "vlog",
+        "process"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'pivot' mean in the sentence 'we'll have to quickly pivot'?",
+      "options": [
+        "A) Give up completely",
+        "B) Change direction or strategy",
+        "C) Sit down and rest",
+        "D) Take a photo"
+      ],
+      "answer": "B",
+      "explanation": "'Pivot'原意是旋转、支点，在口语中常用作动词表示'转变'或'调整方向'。这里主人公说如果妆容效果不好，'we'll have to quickly pivot'意思是我们需要迅速改变策略。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 105.6,
+      "endTime": 110.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pivot",
+        "change",
+        "strategy"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'voluminous' mean in 'voluminous 90s blowout'?",
+      "options": [
+        "A) Flat and straight",
+        "B) Big and full of volume",
+        "C) Short and neat",
+        "D) Wavy but small"
+      ],
+      "answer": "B",
+      "explanation": "'Voluminous'意思是'体积大的、丰满的'。在描述发型时，'voluminous blowout'指的是蓬松、丰盈的吹风造型，是90年代的流行风格。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.6,
+      "endTime": 123.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "voluminous",
+        "blowout",
+        "volume"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'set' mean in 'we usually set aside at least two two and a half hours'?",
+      "options": [
+        "A) Put on makeup",
+        "B) Reserve or save (time)",
+        "C) Fix hair in place",
+        "D) Decorate"
+      ],
+      "answer": "B",
+      "explanation": "'Set aside'是一个固定搭配，意思是'预留、留出（时间或金钱）'。主人公说他们通常会预留至少两个半小时来准备，说明化妆造型需要比较长的时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 168.5,
+      "endTime": 172.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "set aside",
+        "reserve",
+        "time"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is 'barrier restore cream' mentioned in the video?",
+      "options": [
+        "A) A type of perfume",
+        "B) A skincare product for skin barrier repair",
+        "C) A hair styling product",
+        "D) A type of lip gloss"
+      ],
+      "answer": "B",
+      "explanation": "'Barrier restore cream'是护肤产品中的'屏障修复霜'，用于修复和保护皮肤屏障。视频中主人公提到使用peptide glazing fluid和barrier restore cream，这些都是护肤品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 141.7,
+      "endTime": 147.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "barrier",
+        "cream",
+        "skincare"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'game day decision' mean in this context?",
+      "options": [
+        "A) A decision made during exercise",
+        "B) A final decision made at the last moment",
+        "C) A decision about playing games",
+        "D) A decision about buying video games"
+      ],
+      "answer": "B",
+      "explanation": "'Game day'原本指比赛日，后来引申为'关键的一天、决定性时刻'。'Game day decision'指的是在最后时刻做出的决定。视频中主人公需要在出发前最终确定造型选择。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 254.6,
+      "endTime": 261.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "game day",
+        "decision",
+        "final"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "speaking",
+      "question": "Describe what kind of monochromatic look the creator is going for in this video. What colors are involved?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求考生根据视频内容描述主人公追求的单色造型。答案应涉及棕色系（brown）、浆果色（berry colors）、米色（beiges）等秋季色调的搭配。",
+      "referenceAnswer": "The creator is going for a monochromatic look using fall colors like browns, berry colors, and beiges. The dress is brown, the hair is brown, and the makeup coordinates with these earthy tones to create a cohesive single-color ensemble.",
+      "hint": "Think about the colors mentioned in the video - brown, berry, beige. Consider how they relate to the monochromatic theme.",
+      "startTime": 22,
+      "endTime": 62.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "monochromatic",
+        "brown",
+        "fall colors"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the word 'inspired' mean in 'I get very inspired by the seasons'?",
+      "options": [
+        "A) Bored",
+        "B) Motivated or influenced",
+        "C) Tired",
+        "D) Confused"
+      ],
+      "answer": "B",
+      "explanation": "'Inspired'意思是'受启发的、有灵感的'。主人公说她会根据季节获得灵感来选择造型，比如秋季她会受到棕色系、浆果色系等秋日色调的启发。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 97.3,
+      "endTime": 105.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "inspired",
+        "season",
+        "motivation"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the Academy Museum Gala?",
+      "options": [
+        "A) A sports award ceremony",
+        "B) A formal event at a film museum",
+        "C) A music concert",
+        "D) A cooking competition"
+      ],
+      "answer": "B",
+      "explanation": "Academy Museum指的是Academy Museum of Motion Pictures（电影艺术与科学学院博物馆），位于洛杉矶。Gala是盛大的晚宴/慈善晚会。电影博物馆的Gala通常是非常正式的红毯场合，需要盛装出席。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0.1,
+      "endTime": 7.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Academy Museum",
+        "Gala",
+        "formal event"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'custom' mean in 'they made this really beautiful custom brown color for me'?",
+      "options": [
+        "A) Expensive",
+        "B) Made to order for specific requirements",
+        "C) Ready-made",
+        "D) Second-hand"
+      ],
+      "answer": "B",
+      "explanation": "'Custom'在服装语境中意为'定制的、量身制作的'。YSL为主人公定制了一款专属的棕色服装颜色，这就是'custom brown color'的含义。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 203.9,
+      "endTime": 213.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "custom",
+        "tailor-made",
+        "designer"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "speaking",
+      "question": "The creator mentions using some skincare products before makeup. What are they and what do you think is their purpose?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求考生回忆视频中提到的护肤品并解释其用途。根据字幕，主人公提到了'peptide glazing fluid'和'barrier restore cream'。",
+      "referenceAnswer": "She mentions using peptide glazing fluid and barrier restore cream. These are skincare products used to hydrate and repair the skin barrier before applying makeup, ensuring a smooth base for the makeup to adhere to.",
+      "hint": "Look for the segment around 141.7s-147.6s where she talks about skincare routine.",
+      "startTime": 141.7,
+      "endTime": 147.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "peptide",
+        "barrier",
+        "skincare"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'flip' refer to in 'little flipped blowout'?",
+      "options": [
+        "A) Turning over completely",
+        "B) A curved or turned-up end of hair",
+        "C) Flying in the wind",
+        "D) A type of hair dye"
+      ],
+      "answer": "B",
+      "explanation": "在发型描述中，'flip'指的是头发向外或向上翻翘的造型。90年代的流行发型常常在发尾有一个向外翻的小卷儿，形成所谓的'flip'效果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.6,
+      "endTime": 123.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "flip",
+        "blowout",
+        "hairstyle"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is Tiffany's?",
+      "options": [
+        "A) A clothing brand",
+        "B) A famous jewelry company",
+        "C) A restaurant chain",
+        "D) A cosmetics brand"
+      ],
+      "answer": "B",
+      "explanation": "Tiffany & Co.是世界上最著名的珠宝品牌之一，以钻石和订婚戒指闻名。视频中主人公提到她的珠宝来自Tiffany's，是非常贵重的首饰品牌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 213.5,
+      "endTime": 227.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Tiffany's",
+        "jewelry",
+        "gemstones"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'piggy' refer to in the video?",
+      "options": [
+        "A) A savings account",
+        "B) The creator's pet dog",
+        "C) A type of makeup brush",
+        "D) A hairstyle product"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'piggy'是Oscar的妹妹，是一只小狗。主人公称这只小狗为'piggy'，并形容她'she's very small she's a really sweet little girl'（她很小，是一只很可爱的小狗）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 236.6,
+      "endTime": 254.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "piggy",
+        "dog",
+        "pet"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "If you were attending a formal gala, what factors would you consider when choosing your makeup, hair, and outfit? Use examples from the video as reference.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生结合视频内容讨论参加正式活动时的造型考虑因素。可以从颜色搭配、场合、整体协调性等方面回答。",
+      "referenceAnswer": "I would consider factors like: 1) The formality of the event - a gala requires elegant makeup and formal attire; 2) Color coordination - matching the outfit, hair and makeup (monochromatic look); 3) Time needed for preparation - setting aside 2-3 hours; 4) The overall vibe or theme of the event; 5) Comfort and confidence - choosing something that makes you feel good.",
+      "hint": "Think about what the creator mentioned: monochromatic look, setting aside time, matching the dress with makeup and hair, the vibe of the event.",
+      "startTime": 160,
+      "endTime": 195,
+      "difficulty": "hard",
+      "relatedWords": [
+        "gala",
+        "outfit",
+        "makeup",
+        "coordination"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'archival' mean in 'that's from the archive'?",
+      "options": [
+        "A) Very old and outdated",
+        "B) From a collection of past designs",
+        "C) Already thrown away",
+        "D) Sold in regular stores"
+      ],
+      "answer": "B",
+      "explanation": "'Archive'在时尚界指品牌的历史设计档案。'From the archive'意思是'来自档案款'，指现在重新推出或使用的是品牌过去的设计，通常非常有价值且不再公开发售。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 227.4,
+      "endTime": 232.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "archive",
+        "vintage",
+        "collection"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'suitable' mean in the context of 'suitable this is piggy'?",
+      "options": [
+        "A) Appropriate or fitting",
+        "B) Not suitable",
+        "C) Very surprised",
+        "D) Unable to decide"
+      ],
+      "answer": "A",
+      "explanation": "这里'suitable'可能是口语化的表达，相当于'so here is'或'this is'。但从语境理解，主人公是在介绍她的宠物狗'suitable this is piggy'，意思是'这是piggy'。可能是一个口语中的习惯用法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 236.6,
+      "endTime": 240,
+      "difficulty": "hard",
+      "relatedWords": [
+        "suitable",
+        "introduction",
+        "pet"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'figure it out' mean in the video?",
+      "options": [
+        "A) Draw a picture",
+        "B) Solve a problem or decide something",
+        "C) Look at something carefully",
+        "D) Take a break"
+      ],
+      "answer": "B",
+      "explanation": "'Figure it out'是常用口语表达，意思是'想办法解决、弄清楚、做出决定'。视频中主人公说'figure it out get everything done'，意思是想办法把一切都准备好、做好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 172.9,
+      "endTime": 180,
+      "difficulty": "medium",
+      "relatedWords": [
+        "figure it out",
+        "decide",
+        "solve"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What does the creator mean by 'the vibe' when planning her look? How does she describe the vibe for this event?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生理解'vibe'（氛围/风格）的概念，并描述主人公为这次活动设定的风格。",
+      "referenceAnswer": "By 'the vibe', the creator means the overall mood or style of her look. She mentioned thinking about what vibe she wanted for the event, and decided to go with a monochromatic, elegant look that matched the formality of the Academy Museum Gala.",
+      "hint": "Look for the segment around 164.4s-168.5s where she talks about the vibe.",
+      "startTime": 164.4,
+      "endTime": 168.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vibe",
+        "style",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What is a 'blowout' in hairstyling terms?",
+      "options": [
+        "A) An explosion",
+        "B) A voluminous blow-dried hairstyle",
+        "C) A type of hair cut",
+        "D) Washing hair with water"
+      ],
+      "answer": "B",
+      "explanation": "'Blowout'在美发中指使用吹风机吹干并造型的方式，通常打造出蓬松、有体积感的发型。视频中主人公提到的'90s blowout'是一种复古的蓬松吹风造型。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.6,
+      "endTime": 120,
+      "difficulty": "medium",
+      "relatedWords": [
+        "blowout",
+        "blow dry",
+        "hairstyle"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'peptide glazing fluid' refer to?",
+      "options": [
+        "A) A type of face mask",
+        "B) A hydrating skincare serum",
+        "C) A hair product",
+        "D) A nail polish"
+      ],
+      "answer": "B",
+      "explanation": "'Peptide glazing fluid'是一种含有胜肽成分的护肤品，通常是精华液或肌底液类型的产品，具有保湿、提亮肤色等功效。'Glazing'在这里形容其质地如玻璃般光滑透亮。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 141.7,
+      "endTime": 145,
+      "difficulty": "hard",
+      "relatedWords": [
+        "peptide",
+        "glazing",
+        "serum"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'feed into' mean in 'it feeds a little bit more into like the monochromatic look'?",
+      "options": [
+        "A) Eat food",
+        "B) Contribute to or align with",
+        "C) Fight against",
+        "D) Hide"
+      ],
+      "answer": "B",
+      "explanation": "'Feed into'是短语动词，意思是'有助于、促进、符合'。主人公说某个发型选择'feeds into the monochromatic look'，意思是这个发型更符合单色造型的整体风格。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 129.1,
+      "endTime": 133.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "feed into",
+        "contribute",
+        "align"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Why do you think the creator decided to have her hair down instead of up for this event? What might be the reason behind this choice?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道推理题，需要考生结合视频内容推断主人公选择披肩发而非盘发的原因。视频中她提到'feel like I don't know just wanted'以及后来对两种发型的比较。",
+      "referenceAnswer": "The creator mentioned that she often wears her hair up, so she might have wanted to try something different. Also, the hair down look might complement the monochromatic brown look better and create a more romantic, elegant vibe suitable for a gala event. The final decision seemed to be made during the 'game day decision' moment.",
+      "hint": "Consider what she said about wearing hair up often, and think about what complements a formal gown look.",
+      "startTime": 123.9,
+      "endTime": 133.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hair down",
+        "hair up",
+        "style choice"
+      ]
+    }
+  ]
+}

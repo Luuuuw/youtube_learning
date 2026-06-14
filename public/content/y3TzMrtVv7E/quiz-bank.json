@@ -1,0 +1,555 @@
+{
+  "videoId": "y3TzMrtVv7E",
+  "title": "my makeup routine for date night! | GET READY WITH ME",
+  "generatedAt": "2026-06-13T17:09:33.707Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 5,
+    "medium": 13,
+    "hard": 6,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'concealer' refer to in this makeup context?",
+      "options": [
+        "A) A product for making lips fuller",
+        "B) A product for covering imperfections on skin",
+        "C) A product for coloring cheeks",
+        "D) A product for removing makeup"
+      ],
+      "answer": "B",
+      "explanation": "在美妆语境中，concealer（遮瑕膏）是一种用于遮盖皮肤瑕疵、斑点、黑眼圈的化妆品。视频中多次提到使用concealer来遮盖需要遮盖的部位。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 51.2,
+      "endTime": 56,
+      "difficulty": "easy",
+      "relatedWords": [
+        "concealer",
+        "makeup",
+        "coverage"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'highlight' mean in this video?",
+      "options": [
+        "A) Adding light colors to make certain face areas appear more prominent",
+        "B) Removing dark spots on the skin",
+        "C) Cleaning the face",
+        "D) Making the face look smaller"
+      ],
+      "answer": "A",
+      "explanation": "在美妆中，highlight（高光）是指在面部特定位置（如颧骨、鼻梁）使用带闪的产品，使这些部位看起来更加立体、突出。视频中提到用高光stick来提亮面部。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 178.7,
+      "endTime": 183.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "highlight",
+        "glow",
+        "bronze"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the phrase 'GET READY WITH ME' imply in this video title?",
+      "options": [
+        "A) The creator will help viewers get dressed",
+        "B) The creator will show her makeup process while viewers watch",
+        "C) The creator is going on a date",
+        "D) The creator is teaching viewers how to cook"
+      ],
+      "answer": "B",
+      "explanation": "'Get Ready With Me'是YouTube美妆视频的常见标题，意思是创作者在化妆/准备的过程中拍摄视频，让观众跟着一起看，就像一起做准备一样。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 5.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "get ready",
+        "makeup routine",
+        "date night"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What was the FIRST product the creator used in this video?",
+      "options": [
+        "A) Concealer",
+        "B) Foundation",
+        "C) Skin prep product (peptide glazing fluid)",
+        "D) Mascara"
+      ],
+      "answer": "C",
+      "explanation": "视频开头，Haley首先使用了road peptide glazing fluid进行皮肤准备（skin prep），然后才开始化妆。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 13.2,
+      "endTime": 24.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "skin prep",
+        "peptide glazing fluid",
+        "first"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'blender' refer to in makeup context?",
+      "options": [
+        "A) A kitchen appliance",
+        "B) A makeup tool for blending products",
+        "C) A type of eyeshadow",
+        "D) A facial cleanser"
+      ],
+      "answer": "B",
+      "explanation": "在美妆中，blender（美妆蛋）是一种用于晕染和混合化妆品（如遮瑕、粉底）的工具。视频中多次提到使用beauty blender来推开和定妆产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 124.3,
+      "endTime": 134.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "blender",
+        "beauty blender",
+        "makeup tool"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'glowy' mean when describing skin or makeup?",
+      "options": [
+        "A) Matte and flat",
+        "B) Healthy-looking with a subtle shine",
+        "C) Very dry",
+        "D) Pale without color"
+      ],
+      "answer": "B",
+      "explanation": "'Glowy'形容皮肤或妆容看起来健康、有光泽但不是油腻的亮泽感。视频中描述最终妆容是'glowy and dewy'，意思是健康有光泽的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 24.2,
+      "endTime": 40.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "glowy",
+        "dewy",
+        "finish"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "Which blush product did the creator use in this video?",
+      "options": [
+        "A) Rare Beauty Blush",
+        "B) Westmin Atelier Solar Tint Blush Duo",
+        "C) Fenty Beauty Blush",
+        "D) NARS Blush"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到使用了'semi Haze solar tint blush duo'，这是一款腮红产品，Haley表示她很喜欢这个颜色的腮红。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 220.9,
+      "endTime": 228.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "blush",
+        "solar tint",
+        "cheek"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'buildable' mean when describing concealer?",
+      "options": [
+        "A) Cannot be changed once applied",
+        "B) Can be layered to increase coverage as needed",
+        "C) Goes on very thick",
+        "D) Lasts for a long time"
+      ],
+      "answer": "B",
+      "explanation": "'Buildable'指的是产品可以层层叠加，根据需要增加遮盖度。视频中提到concealer是buildable的，意思是可以在需要更多遮盖的地方多涂几层。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 95.8,
+      "endTime": 100.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "buildable",
+        "coverage",
+        "layer"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the 'Marc Jacobs Spotlight Glow Stick' used for?",
+      "options": [
+        "A) As a lipstick",
+        "B) As a highlighter",
+        "C) As a concealer",
+        "D) As a skincare product"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到使用Marc Jacobs的高光棒（glow stick）来提亮面部的高光区域，这是用于增加面部立体感的产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 282.5,
+      "endTime": 289,
+      "difficulty": "medium",
+      "relatedWords": [
+        "highlight stick",
+        "glow stick",
+        "Marc Jacobs"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'seal in' mean in the makeup context?",
+      "options": [
+        "A) Open up pores",
+        "B) Lock in the makeup product to make it last longer",
+        "C) Remove makeup",
+        "D) Mix products together"
+      ],
+      "answer": "B",
+      "explanation": "'Seal in'在美妆中指的是通过定妆产品（如散粉）来锁住之前涂抹的化妆品，使其更持久。视频中提到用粉来'seal in'遮瑕。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 368.2,
+      "endTime": 373.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "seal in",
+        "powder",
+        "set"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the final lip product mentioned at the end of the video?",
+      "options": [
+        "A) Lip gloss",
+        "B) Lipstick",
+        "C) Salted caramel peptide lip treatment",
+        "D) Lip balm"
+      ],
+      "answer": "C",
+      "explanation": "视频最后，Haley提到使用了'salted caramel peptide lip treatment'（咸焦糖肽唇部护理产品）来护理嘴唇。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 412.4,
+      "endTime": 422,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lip treatment",
+        "salted caramel",
+        "lip"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'dewy' describe in makeup finish?",
+      "options": [
+        "A) Dry and powdery",
+        "B) Wet-looking and fresh",
+        "C) Flat and matte",
+        "D) Dark and heavy"
+      ],
+      "answer": "B",
+      "explanation": "'Dewy'描述的是一种水润、清新的妆容效果，看起来像皮肤自带光泽感。视频中描述最终效果是'glowy and dewy'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 310.6,
+      "endTime": 320.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dewy",
+        "glowy",
+        "finish"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the LAST step in this makeup routine according to the video?",
+      "options": [
+        "A) Applying mascara",
+        "B) Applying lip product",
+        "C) Sealing concealer with powder",
+        "D) Putting on highlight"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到最后一个步骤是用粉来定妆（seal in the concealer with powder），这是妆容的最后一步。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 402.6,
+      "endTime": 412.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "final step",
+        "powder",
+        "seal"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'monochromatic look' mean in this context?",
+      "options": [
+        "A) Using many different colors",
+        "B) Using the same color family on different face areas",
+        "C) A very dramatic makeup look",
+        "D) A natural-looking makeup"
+      ],
+      "answer": "B",
+      "explanation": "'Monochromatic'指的是单色系妆容，即在脸颊、眼部、嘴唇等部位使用同一色系的产品。视频中提到'like the same thing on the cheek on the lid on the lip'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 252.6,
+      "endTime": 257.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "monochromatic",
+        "color",
+        "look"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'bronze up' mean in the makeup context?",
+      "options": [
+        "A) Make the face look darker/tanned",
+        "B) Remove makeup",
+        "C) Add white color to face",
+        "D) Clean the face"
+      ],
+      "answer": "A",
+      "explanation": "'Bronze up'指的是使用古铜色或深色化妆品来模拟晒黑的效果，增加面部轮廓感。视频中提到用高光棒来bronze up the face。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 178.7,
+      "endTime": 183.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "bronze",
+        "contour",
+        "tanned"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "Why does the creator say her face is 'always much more pale than my body'?",
+      "options": [
+        "A) She has a skin disease",
+        "B) She keeps her face out of the sun",
+        "C) She uses too much concealer",
+        "D) She is naturally pale"
+      ],
+      "answer": "B",
+      "explanation": "Haley解释说她face比身体pale是因为'she keeps her face out of the sun'（她不让脸晒太阳），这是因为日常护肤保护。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 158.5,
+      "endTime": 164.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pale",
+        "face",
+        "sun"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'shade' refer to in 'using the shade 11c'?",
+      "options": [
+        "A) The price of the product",
+        "B) The color variant of the product",
+        "C) The size of the product",
+        "D) The brand name"
+      ],
+      "answer": "B",
+      "explanation": "在美妆产品中，'shade'指的是化妆品的色号。视频中提到使用'shade 11c'的concealer，这是该产品的特定颜色编号。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 59.9,
+      "endTime": 67.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "shade",
+        "color",
+        "concealer"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the purpose of using 'peptide glazing fluid' according to the video?",
+      "options": [
+        "A) To remove makeup",
+        "B) To prep the skin before makeup",
+        "C) To replace moisturizer",
+        "D) To fix makeup mistakes"
+      ],
+      "answer": "B",
+      "explanation": "视频开始时，Haley使用peptide glazing fluid进行'skin prep'（皮肤准备），这是用在化妆品之前的基础护肤步骤。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 13.2,
+      "endTime": 24.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "peptide glazing fluid",
+        "skin prep",
+        "skincare"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What is the overall style of the final makeup look described in the video?",
+      "options": [
+        "A) Dramatic and heavy",
+        "B) Minimal, easy and chill",
+        "C) Dark and smoky",
+        "D) Very colorful"
+      ],
+      "answer": "B",
+      "explanation": "视频结束时，Haley总结说这是'super minimal easy chill'的妆容风格，意思是简约、轻松自然的日常妆容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 428,
+      "endTime": 442.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "minimal",
+        "easy",
+        "chill",
+        "final look"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Please describe the sequence of makeup steps shown in this video in your own words.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生用自己的话描述视频中的化妆步骤顺序。",
+      "referenceAnswer": "Key points: 1) Skin prep with peptide glazing fluid 2) Concealer application 3) Blush on cheeks 4) Highlighter on face points 5) Mascara 6) Lip treatment 7) Powder to seal in",
+      "hint": "Try to mention at least 5 main steps in logical order",
+      "startTime": 0,
+      "endTime": 443.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "makeup routine",
+        "steps",
+        "sequence"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What is your favorite makeup product mentioned in the video and why? Please explain in English.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生讨论视频中提到的喜欢的美妆产品并解释原因。",
+      "referenceAnswer": "Should mention specific product names and give personal reasons (e.g., glow stick, concealer, blush duo, lip treatment)",
+      "hint": "You can choose any product mentioned and explain why you like it",
+      "startTime": 51.2,
+      "endTime": 442.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "favorite product",
+        "makeup",
+        "reason"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "How would you describe a 'glowy and dewy' makeup finish to someone who doesn't know about makeup?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生向不懂美妆的人解释什么是'glowy and dewy'的妆容效果。",
+      "referenceAnswer": "Should describe it as healthy-looking skin with natural shine, like skin has moisture and light reflecting from it, not oily but fresh and radiant",
+      "hint": "Use simple comparisons like 'like morning dew' or 'healthy skin that looks hydrated'",
+      "startTime": 24.2,
+      "endTime": 40.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "glowy",
+        "dewy",
+        "finish",
+        "explain"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "Why does the creator apply concealer 'two or three times' in certain areas?",
+      "options": [
+        "A) The product is low quality",
+        "B) To build up coverage where needed",
+        "C) She forgot to apply it the first time",
+        "D) The product dried too quickly"
+      ],
+      "answer": "B",
+      "explanation": "因为之前提到concealer是'buildable'的，所以可以在需要更多遮盖的地方多涂几层来增加遮盖度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 398.4,
+      "endTime": 402.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "concealer",
+        "build up",
+        "coverage"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What did the creator use to cover 'little dark marks' on her face?",
+      "options": [
+        "A) Foundation",
+        "B) Concealer with a specific trick",
+        "C) Sunscreen",
+        "D) Moisturizer"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到她用concealer来遮盖little dark marks，并提到会使用一个小技巧（little trick）来处理这些斑点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 109.3,
+      "endTime": 124.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "dark marks",
+        "concealer",
+        "blemishes"
+      ]
+    }
+  ]
+}

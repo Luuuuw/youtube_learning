@@ -1,0 +1,574 @@
+{
+  "videoId": "uItbDkyohZM",
+  "title": "passionfruit spritz cocktails & layered dip with kenny! | what's in my kitchen?",
+  "generatedAt": "2026-06-13T17:00:47.544Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 10,
+    "hard": 6,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'passionfruit' refer to in this video?",
+      "options": [
+        "A) A tropical fruit used in cocktails",
+        "B) A type of cheese",
+        "C) A vegetable for the dip",
+        "D) A cooking utensil"
+      ],
+      "answer": "A",
+      "explanation": "视频中制作的是百香果鸡尾酒（passionfruit spritz cocktails），passionfruit是一种热带水果，中文常称为百香果或西番莲。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 597.2,
+      "endTime": 608.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "passionfruit",
+        "cocktail",
+        "fruit"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'drizzle' mean in the context of adding cheese?",
+      "options": [
+        "A) To pour quickly in large amounts",
+        "B) To pour slowly in thin streams",
+        "C) To mix thoroughly",
+        "D) To cut into small pieces"
+      ],
+      "answer": "B",
+      "explanation": "drizzle是指像细雨一样慢慢地倾倒液体或半液体食物。视频中说'we're literally just going to drizzle cheese drizzle'，指的是像淋雨一样慢慢倒奶酪。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 812.1,
+      "endTime": 820.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "drizzle",
+        "cheese",
+        "pour"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is 'guacamole' according to the video?",
+      "options": [
+        "A) A type of cheese dip",
+        "B) An avocado-based dip",
+        "C) A spicy sauce",
+        "D) A fruit salad"
+      ],
+      "answer": "B",
+      "explanation": "guacamole是墨西哥牛油果酱，由牛油果（avocado）制成。视频中多次提到 avocados in 和 guacamole，确认这是牛油果酱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 338,
+      "endTime": 354.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "guacamole",
+        "avocado",
+        "dip"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'a dash more' mean in cooking?",
+      "options": [
+        "A) A large amount",
+        "B) A small amount",
+        "C) A complete replacement",
+        "D) No addition"
+      ],
+      "answer": "B",
+      "explanation": "'a dash'是烹饪中常用的量词，表示少量、一点的调味料。视频中说'just like a dash more of the FL'，意思是再加一点点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 635.4,
+      "endTime": 640.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dash",
+        "amount",
+        "cooking"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is 'pecante' likely to be in this recipe?",
+      "options": [
+        "A) A type of nut",
+        "B) A spicy seasoning sauce",
+        "C) A cooking tool",
+        "D) A fruit"
+      ],
+      "answer": "B",
+      "explanation": "视频中多次提到'pecante mild sauce'（温和的pecante酱料），这是一种调味料。从上下文看，pecante是一种辣酱或调味料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 555.5,
+      "endTime": 563.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "pecante",
+        "sauce",
+        "seasoning"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'squeeze' refer to in the context of lime?",
+      "options": [
+        "A) To cut lime into pieces",
+        "B) To press lime to get its juice",
+        "C) To peel the lime skin",
+        "D) To store lime"
+      ],
+      "answer": "B",
+      "explanation": "squeeze是指挤压水果以获取汁液。视频中说'now we're squeezing limes'，指的是在榨酸橙汁。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 230.5,
+      "endTime": 235.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "squeeze",
+        "lime",
+        "juice"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'layered dip' mean in this video?",
+      "options": [
+        "A) A dip that is poured randomly",
+        "B) A dip with multiple ingredients stacked in layers",
+        "C) A single-layer sauce",
+        "D) A dip served on bread"
+      ],
+      "answer": "B",
+      "explanation": "layered dip是指分层叠放的蘸酱。视频标题就提到了layered dip，节目中也在一层层地放奶酪、牛油果酱等食材。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 687,
+      "endTime": 692.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "layered",
+        "dip",
+        "stack"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'dollop' mean when adding sour cream?",
+      "options": [
+        "A) To stir quickly",
+        "B) To add a small mound or spoonful",
+        "C) To mix with water",
+        "D) To spread evenly"
+      ],
+      "answer": "B",
+      "explanation": "dollop是指一小团、一勺的量，通常用于描述软质食物如酸奶油、奶油等。视频中说'have to dollop it and then spread it'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 744.9,
+      "endTime": 749.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "dollop",
+        "sour cream",
+        "spoon"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'stunning' describe in the video?",
+      "options": [
+        "A) The taste of the food",
+        "B) The appearance of something",
+        "C) The sound of cooking",
+        "D) The temperature"
+      ],
+      "answer": "B",
+      "explanation": "stunning是形容词，意思是令人惊艳的、极美的。在视频中说'literally stunning'是用来形容某样东西看起来非常漂亮。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 365.9,
+      "endTime": 380.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "stunning",
+        "beautiful",
+        "appearance"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'compost' refer to in the video?",
+      "options": [
+        "A) A type of food",
+        "B) Organic waste for recycling",
+        "C) A cooking method",
+        "D) A kitchen tool"
+      ],
+      "answer": "B",
+      "explanation": "compost是指堆肥，将有机废料如食物残渣转化为肥料。视频中说'after I like to compost because it reduces food waste'，表明他们喜欢把厨余做成堆肥。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 531,
+      "endTime": 538.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "compost",
+        "waste",
+        "recycle"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'roll' mean in the context of preparing ingredients?",
+      "options": [
+        "A) To mix ingredients in a bowl",
+        "B) To flatten dough with a rolling pin",
+        "C) To turn something over with hands",
+        "D) To cook in a pan"
+      ],
+      "answer": "C",
+      "explanation": "在烹饪语境中，roll通常指用手滚动或卷起食材。视频中说'I just like roll'，是在描述处理食材的动作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 458.2,
+      "endTime": 462.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "roll",
+        "hands",
+        "prepare"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the 'spritz' in 'passionfruit spritz cocktails'?",
+      "options": [
+        "A) A type of glass",
+        "B) A method of adding carbonated water",
+        "C) A fruit flavor",
+        "D) A cooking technique"
+      ],
+      "answer": "B",
+      "explanation": "spritz指的是含气泡的饮料，通常指加入苏打水或碳酸饮料。视频制作的是百香果气泡鸡尾酒。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 320.4,
+      "endTime": 326.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "spritz",
+        "soda",
+        "carbonated"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'clean and pretty' describe in the video?",
+      "options": [
+        "A) The kitchen",
+        "B) The final presentation of the dish",
+        "C) The cooking tools",
+        "D) The ingredients"
+      ],
+      "answer": "B",
+      "explanation": "在烹饪节目中，'clean and pretty'通常指菜肴的摆盘或呈现效果。视频中说'so we want it to be clean and pretty'，指的是要把酱料摆得干净好看。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 692.9,
+      "endTime": 700.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "clean",
+        "pretty",
+        "presentation"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'spicy' refer to in the context of sauce?",
+      "options": [
+        "A) Sweet taste",
+        "B) Hot and pungent taste",
+        "C) Sour taste",
+        "D) Salty taste"
+      ],
+      "answer": "B",
+      "explanation": "spicy是指辣的、有刺激性的味道。视频中说'I don't like spicy so I would use the spicy'，这里有点反讽，实际是在讨论辣度选择。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 563.4,
+      "endTime": 568.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "spicy",
+        "hot",
+        "mild"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'spreading' mean in the context of making the dip?",
+      "options": [
+        "A) Scattering ingredients randomly",
+        "B) Applying an even layer of topping",
+        "C) Mixing ingredients together",
+        "D) Cutting into thin slices"
+      ],
+      "answer": "B",
+      "explanation": "spreading是指均匀地涂抹、铺开。视频中多次说'spread it'，是把酸奶油、奶酪等食材均匀地铺在蘸酱表面。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 708.2,
+      "endTime": 720.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "spread",
+        "layer",
+        "topping"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "speaking",
+      "question": "Describe what ingredients and steps would be needed to make a layered dip similar to the one shown in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求根据视频内容描述制作分层蘸酱的食材和步骤。",
+      "referenceAnswer": "Key ingredients: guacamole/avocado, cheese, sour cream, pecante sauce, seasonings (garlic salt, seasoned salt), lime. Steps: layer ingredients in order, spread each layer evenly, add seasonings between layers, drizzle cheese, add lime juice.",
+      "hint": "Think about the order of layers: cheese first, then guacamole, then sour cream, with seasonings in between.",
+      "startTime": 677.1,
+      "endTime": 692.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "layered dip",
+        "guacamole",
+        "cheese",
+        "sour cream"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'seasoned salt' likely contain based on the video?",
+      "options": [
+        "A) Only salt",
+        "B) Salt with various herbs and spices",
+        "C) Sugar and salt",
+        "D) Pepper only"
+      ],
+      "answer": "B",
+      "explanation": "seasoned salt是调味盐，含有盐和多种香草、香料的混合物。视频中提到'seasoned salt garlic salt pecante'作为调味料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 654.4,
+      "endTime": 662.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "seasoned salt",
+        "garlic salt",
+        "seasoning"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'tray' refer to in the video?",
+      "options": [
+        "A) A cooking pan",
+        "B) A flat container for serving or holding food",
+        "C) A cutting board",
+        "D) A drinking glass"
+      ],
+      "answer": "B",
+      "explanation": "tray是指托盘、浅盘，用于盛放或端送食物。视频中说'I love this little tray too'，是指用来放食物的小托盘。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 476,
+      "endTime": 481.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "tray",
+        "serving",
+        "container"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "If you were making a passionfruit spritz cocktail, what would you need and how would you make it based on the video content?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求根据视频描述制作百香果鸡尾酒的食材和步骤。",
+      "referenceAnswer": "Key ingredients: passionfruit, some alcoholic base, soda water/sprite for spritz, lime juice, ice. Steps: add ice, pour passionfruit, add lime juice, top with soda water, stir.",
+      "hint": "Remember it's a 'spritz' which involves carbonated water, and lime is an important ingredient mentioned in the video.",
+      "startTime": 320.4,
+      "endTime": 326.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "passionfruit",
+        "spritz",
+        "cocktail",
+        "lime"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'arm workout' humorously refer to in the video?",
+      "options": [
+        "A) Going to the gym",
+        "B) The physical effort of mixing or spreading the dip",
+        "C) Lifting heavy pots",
+        "D) Exercise equipment"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'arem workout that's this definitely happening'，是在开玩笑说制作蘸酱时不停搅拌、涂抹的动作很像在锻炼手臂。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 700.2,
+      "endTime": 708.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "arm workout",
+        "mix",
+        "spread"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What is the 'difference' that the video mentions about lemon versus lime?",
+      "options": [
+        "A) Their color",
+        "B) Their price",
+        "C) Their taste and usage in the recipe",
+        "D) Their size"
+      ],
+      "answer": "C",
+      "explanation": "视频中说'see there's the KJ KJ difference yeah here's a difference I didn't know she us lemon'，在讨论柠檬和酸橙在味道和使用上的区别。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 619.9,
+      "endTime": 624.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lemon",
+        "lime",
+        "difference"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What are some tips mentioned in the video for making a good layered dip?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求根据视频内容总结制作美味分层蘸酱的技巧。",
+      "referenceAnswer": "Tips: 1) Don't eat all the guac before layering (issue mentioned); 2) Spread evenly for clean presentation; 3) Use the right amount of lime (important); 4) Add seasonings like pecante, garlic salt, seasoned salt between layers; 5) Add cheese by drizzling.",
+      "hint": "Think about what 'issues' and 'tips' are mentioned, such as not eating the guac early, using proper amounts of lime, and the order of layering.",
+      "startTime": 33.1,
+      "endTime": 677.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tips",
+        "layered dip",
+        "presentation",
+        "seasoning"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'chop' mean in cooking context?",
+      "options": [
+        "A) To boil ingredients",
+        "B) To cut ingredients into pieces",
+        "C) To stir continuously",
+        "D) To fry quickly"
+      ],
+      "answer": "B",
+      "explanation": "chop是烹饪术语，意思是切碎、剁碎。视频中说'but like it was a gorgeous chop'，是在评论切食材的动作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 246.9,
+      "endTime": 261.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "chop",
+        "cut",
+        "slice"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'mild' describe in 'mild sauce'?",
+      "options": [
+        "A) Spicy taste",
+        "B) Not spicy, gentle taste",
+        "C) Very salty",
+        "D) Sour taste"
+      ],
+      "answer": "B",
+      "explanation": "mild是指温和的、不辣的。与spicy相对，视频中对比了'spicy'和'mild'两种酱料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 555.5,
+      "endTime": 563.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "mild",
+        "spicy",
+        "sauce"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Based on the video, what is the host's attitude toward food waste and how does it reflect in their cooking habits?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道理解题，要求根据视频内容分析主持人对食物浪费的态度和烹饪习惯。",
+      "referenceAnswer": "The host shows environmental consciousness by composting food waste ('I like to compost because it reduces food waste'). They also try to use ingredients efficiently, like not wasting lime ('we can't waste cuz we need lime for later').",
+      "hint": "Look for statements about composting and not wasting ingredients.",
+      "startTime": 531,
+      "endTime": 538.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "compost",
+        "food waste",
+        "environmental"
+      ]
+    }
+  ]
+}

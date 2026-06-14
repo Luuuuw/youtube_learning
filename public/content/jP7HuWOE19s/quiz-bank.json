@@ -1,0 +1,581 @@
+{
+  "videoId": "jP7HuWOE19s",
+  "title": "JENNIE Creates a Sculpture of Herself | Vanity Fair",
+  "generatedAt": "2026-06-13T16:42:01.446Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 6,
+    "medium": 15,
+    "hard": 4,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'lifestyle' mean in this context?",
+      "options": [
+        "A) A type of clothing",
+        "B) A way of living or thinking",
+        "C) A musical genre",
+        "D) A destination"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，JENNIE说'more of a lifestyle than one era'，结合后面关于冥想的讨论，她在表达冥想已经成为了她的一种生活方式，而不仅仅是某个阶段做的事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 55.1,
+      "endTime": 64.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lifestyle",
+        "era",
+        "meditation"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does JENNIE say she loves most about the present moment?",
+      "options": [
+        "A) The future opportunities",
+        "B) Her past achievements",
+        "C) Being able to enjoy this life as a pop star",
+        "D) Her past memories"
+      ],
+      "answer": "C",
+      "explanation": "在106.6s-114.2s片段中，JENNIE谈到她最喜欢当下时刻，并且她说'I want to enjoy this life as a pop star'，表达了她享受作为流行歌手的当前生活。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 106.6,
+      "endTime": 114.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "present moment",
+        "pop star",
+        "lifetime"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "According to JENNIE, what is her album related to?",
+      "options": [
+        "A) Only her music",
+        "B) Her entire life and mindset",
+        "C) Her friends",
+        "D) Her fashion choices"
+      ],
+      "answer": "B",
+      "explanation": "在64.6s-72.5s片段中，JENNIE说'for me everything regarding what I do is to do with my album my mindset'，表明她的专辑与她的生活和心态都有关。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 64.6,
+      "endTime": 72.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "album",
+        "mindset",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does JENNIE say she wants to do more in the future?",
+      "options": [
+        "A) Work more",
+        "B) Go on vacations and stay in bed",
+        "C) Meet more fans",
+        "D) Record more music"
+      ],
+      "answer": "B",
+      "explanation": "在174.2s-181.3s片段中，JENNIE提到'something that I want to do more in the future and maybe go on vacations stay in bed'，表达了她未来想要多去度假、待在床上的愿望。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 174.2,
+      "endTime": 181.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "future",
+        "vacations",
+        "stay in bed"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What did JENNIE start doing a lot more during the pandemic?",
+      "options": [
+        "A) Recording music",
+        "B) Traveling",
+        "C) Meditation",
+        "D) Painting"
+      ],
+      "answer": "C",
+      "explanation": "在363.5s-374.4s和374.4s-386.1s两个片段中，JENNIE明确提到'started doing it a lot more during the pandemic'指的是meditation（冥想），并且说这成为了她的一种生活方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 363.5,
+      "endTime": 374.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "meditate",
+        "pandemic",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does JENNIE say she brings with her everywhere?",
+      "options": [
+        "A) Her dog",
+        "B) Her luggage with essentials from home",
+        "C) Her manager",
+        "D) Her guitar"
+      ],
+      "answer": "B",
+      "explanation": "在208.5s-215.8s片段中，JENNIE说'that I bring every where I go and it basically has everything um from my house I think'，指的是她从家里带来的必需品行李箱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 208.5,
+      "endTime": 215.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "luggage",
+        "every where",
+        "house"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does JENNIE say about her journey?",
+      "options": [
+        "A) It was always easy",
+        "B) She faced new situations and learned things each time",
+        "C) She never worked hard",
+        "D) She gave up many times"
+      ],
+      "answer": "B",
+      "explanation": "在302.2s-315.0s片段中，JENNIE说'say that this journey was easy but every time I I faced a new situation or learned anything'，表明她的旅程并不容易，但每次都能面对新情况或学到新东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 302.2,
+      "endTime": 315,
+      "difficulty": "medium",
+      "relatedWords": [
+        "journey",
+        "easy",
+        "new situation"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "How does JENNIE envision herself with her album Ruby coming out?",
+      "options": [
+        "A) Sad and tired",
+        "B) Peaceful, Zen, and blooming like a ruby red flower",
+        "C) Angry and frustrated",
+        "D) Confused and lost"
+      ],
+      "answer": "B",
+      "explanation": "在464.9s-472.3s和472.3s-482.0s两个片段中，JENNIE描述她的自画像是'I am peaceful I am Zen I'm blooming in the ruby red color and I'm just sitting there meditating'，表达了平静、禅意和如红宝石般绽放的状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 464.9,
+      "endTime": 472.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "envision",
+        "Ruby",
+        "peaceful"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "According to the video, what can change over time according to JENNIE?",
+      "options": [
+        "A) Her name",
+        "B) What she wants and likes",
+        "C) Her age",
+        "D) Her nationality"
+      ],
+      "answer": "B",
+      "explanation": "在425.7s-432.8s片段中，JENNIE说'I want and what I like and it can change over time from learning new things and experiencing'，表明她的喜好会随着学习新事物和经历而改变。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 425.7,
+      "endTime": 432.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "change",
+        "wants",
+        "likes"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Why does JENNIE say she has to look at herself really close?",
+      "options": [
+        "A) She's a professional sculptor",
+        "B) She's blind and can't see well",
+        "C) She loves mirrors",
+        "D) She's very tall"
+      ],
+      "answer": "B",
+      "explanation": "在49.7s-55.1s片段中，JENNIE说'I'm kind of blind I can't see well so I have to like look at myself really close'，表明她视力不好所以需要凑近看自己。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 49.7,
+      "endTime": 55.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "blind",
+        "see",
+        "close"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does JENNIE bring from home that makes her feel at home?",
+      "options": [
+        "A) Her clothes",
+        "B) Her pillow and blanket",
+        "C) Her photos",
+        "D) Her books"
+      ],
+      "answer": "B",
+      "explanation": "在186.4s-198.8s和198.8s-208.5s片段中，JENNIE说'I like to bring my pillow and my blanket with me so I feel as closely as being at home'，表明她带着枕头和毯子让自己有家的感觉。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 198.8,
+      "endTime": 208.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pillow",
+        "blanket",
+        "home"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'pushing myself' mean in this context?",
+      "options": [
+        "A) Physically pushing furniture",
+        "B) Forcing herself to do more and challenge herself",
+        "C) Leaving a place",
+        "D) Ignoring others"
+      ],
+      "answer": "B",
+      "explanation": "在315.0s-324.6s片段中，JENNIE说'I kind of kept pushing myself to do more in Within Myself'，这里的'pushing myself'意思是强迫自己、激励自己去做更多事情和挑战自己。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 315,
+      "endTime": 324.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pushing myself",
+        "challenge",
+        "Within Myself"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does JENNIE say about her limit?",
+      "options": [
+        "A) She has already reached it",
+        "B) She hasn't met her limit yet",
+        "C) She doesn't have a limit",
+        "D) She doesn't care about limits"
+      ],
+      "answer": "B",
+      "explanation": "在150.6s-158.8s片段中，JENNIE说'so I haven't meet met my limit yet I'm planning'，表明她还没有达到自己的极限。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 150.6,
+      "endTime": 158.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "limit",
+        "meet",
+        "planning"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does JENNIE love most about her job?",
+      "options": [
+        "A) The money",
+        "B) Being able to sculpt something in front of 30 people",
+        "C) The fame",
+        "D) The free time"
+      ],
+      "answer": "B",
+      "explanation": "在114.2s-119.3s片段中，当被问及最喜欢这份工作的什么时，JENNIE回答'that I get to sculpt something in front of 30'，即她可以在30人面前雕刻东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 114.2,
+      "endTime": 119.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "job",
+        "sculpt",
+        "in front of"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'slowing things down' mean in this context?",
+      "options": [
+        "A) Making things faster",
+        "B) Reducing pace or taking things easier",
+        "C) Stopping completely",
+        "D) Making things more complicated"
+      ],
+      "answer": "B",
+      "explanation": "在158.8s-165.1s片段中，JENNIE说'maybe I could start slowing things down'，意思是减少工作节奏，放慢脚步，多待在家里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 158.8,
+      "endTime": 165.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "slowing things down",
+        "stay home",
+        "pace"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does JENNIE mean by 'it's more of a comfort thing'?",
+      "options": [
+        "A) It's about making money",
+        "B) It's about feeling comfortable and at ease",
+        "C) It's about competition",
+        "D) It's about performance"
+      ],
+      "answer": "B",
+      "explanation": "在215.8s-221.0s片段中，JENNIE说'it's more of a comfort thing like I'm sure we I can buy the same thing but just'，意思是这是一种舒适的感觉，让她感到安心和自在。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 215.8,
+      "endTime": 221,
+      "difficulty": "hard",
+      "relatedWords": [
+        "comfort",
+        "thing",
+        "comfortable"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does JENNIE say helps her focus on herself?",
+      "options": [
+        "A) Watching TV",
+        "B) Going to parties",
+        "C) Meditation in a safe place",
+        "D) Talking to friends"
+      ],
+      "answer": "C",
+      "explanation": "在392.4s-400.2s片段中，JENNIE说'Expressions because I know it's in a safe place it really just helps me focus on myself'，指的是在安全的地方冥想能够帮助她专注于自己。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 392.4,
+      "endTime": 400.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "focus",
+        "safe place",
+        "meditation"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "According to JENNIE, what makes the better version of you appear?",
+      "options": [
+        "A) Having more money",
+        "B) Feeling stronger and more confident",
+        "C) Working longer hours",
+        "D) Having more friends"
+      ],
+      "answer": "B",
+      "explanation": "在400.2s-410.7s片段中，JENNIE说'the stronger and confident you feel about yourself like the better version of you appears'，表明当你感觉更强壮、更自信时，更好的自己就会出现。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 400.2,
+      "endTime": 410.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "stronger",
+        "confident",
+        "better version"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does JENNIE say she doesn't have?",
+      "options": [
+        "A) Self-doubt",
+        "B) Talent",
+        "C) Friends",
+        "D) Time"
+      ],
+      "answer": "A",
+      "explanation": "在416.6s-425.7s片段中，JENNIE说'I don't have self-doubt that's how I got here I'm just really clear on what'，表明她没有自我怀疑，这就是她成功的原因。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 416.6,
+      "endTime": 425.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "self-doubt",
+        "clear",
+        "album"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What was challenging for JENNIE in making her solo album?",
+      "options": [
+        "A) It was her first time working on a solo album",
+        "B) She had no ideas",
+        "C) She didn't like the music",
+        "D) She had too much time"
+      ],
+      "answer": "A",
+      "explanation": "在330.4s-336.9s片段中，JENNIE说'a challenge for me this was my very first time working on an on a solo album'，表明制作个人专辑对她来说是一个挑战，因为这是她第一次做个人专辑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 330.4,
+      "endTime": 336.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "challenge",
+        "first time",
+        "solo album"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What does JENNIE say is her favorite thing about being at home? Please explain in your own words.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，需要考生根据视频内容回答关于JENNIE对家中最喜欢的事情的理解。",
+      "referenceAnswer": "JENNIE mentions that she likes to bring her pillow and blanket from home when traveling, because it makes her feel as close to being at home as possible. She also talks about wanting to slow things down and stay home more after the pandemic.",
+      "hint": "Think about what she says about her pillow, blanket, and wanting to stay home",
+      "startTime": 158.8,
+      "endTime": 208.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "home",
+        "pillow",
+        "blanket",
+        "stay home"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "How does JENNIE describe her self-portrait? Please describe what the sculpture looks like based on what she says.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，需要考生描述JENNIE的自画像雕塑是什么样子。",
+      "referenceAnswer": "JENNIE describes her self-portrait as peaceful, Zen, and blooming in ruby red color, sitting there meditating. She also mentions making a red rose as a flower element. The sculpture represents who she is right now with her album Ruby coming out.",
+      "hint": "Think about the colors, expressions, and pose she mentions",
+      "startTime": 464.9,
+      "endTime": 489.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "self-portrait",
+        "peaceful",
+        "Zen",
+        "ruby red",
+        "meditating"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "What is JENNIE's attitude toward working on her album? Please explain based on what she shares in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，需要考生根据视频内容总结JENNIE对专辑工作的态度。",
+      "referenceAnswer": "JENNIE shows a positive and determined attitude. She says she pushes herself to do more and hasn't met her limit yet. She doesn't have self-doubt and is clear about what she wants. She also mentions that meditation became a lifestyle during the pandemic and is part of her album.",
+      "hint": "Think about what she says about pushing herself, self-doubt, and meditation",
+      "startTime": 315,
+      "endTime": 425.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "album",
+        "mindset",
+        "pushing myself",
+        "self-doubt",
+        "meditation"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does JENNIE say about learning new things?",
+      "options": [
+        "A) She dislikes learning",
+        "B) Learning new things helps change what she wants and likes over time",
+        "C) She only learns from books",
+        "D) She learns very slowly"
+      ],
+      "answer": "B",
+      "explanation": "在425.7s-432.8s片段中，JENNIE说'I want and what I like and it can change over time from learning new things and experiencing'，表明学习新事物和经历会让她的喜好随时间改变。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 425.7,
+      "endTime": 432.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "learning new things",
+        "change",
+        "experiencing"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "How does JENNIE feel about making her first solo album?",
+      "options": [
+        "A) She regrets it",
+        "B) She is proud and loves it",
+        "C) She finds it boring",
+        "D) She is scared"
+      ],
+      "answer": "B",
+      "explanation": "在324.6s-330.4s片段中，JENNIE说'was made so I'm so proud of it and I love that about me everything thing was'，表达了她对首张个人专辑感到骄傲和喜爱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 324.6,
+      "endTime": 330.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "proud",
+        "love",
+        "solo album"
+      ]
+    }
+  ]
+}

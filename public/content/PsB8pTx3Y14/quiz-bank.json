@@ -1,0 +1,557 @@
+{
+  "videoId": "PsB8pTx3Y14",
+  "title": "Inside Hailey Bieber’s Saint Laurent Bag | In the Bag? | Vogue",
+  "generatedAt": "2026-06-13T16:53:21.527Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 10,
+    "hard": 5,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does Hailey Bieber say about her hand cream in this video?",
+      "options": [
+        "A) It's for her face",
+        "B) She uses it when her hands feel dry",
+        "C) It's a new product she just bought",
+        "D) She doesn't use it often"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕第30-32行，Hailey说'this is my hand cream that I have with me at all times, you know, just for when my hands are feeling a little bit dry.'（这是我的手霜，我随时带着，主要是当手感觉干燥时使用。）",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 13.2,
+      "endTime": 22.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hand cream",
+        "dry",
+        "skincare"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the word 'Obsessed' mean in the context of 'Obsessed with this'?",
+      "options": [
+        "A) Bored with",
+        "B) Very fond of",
+        "C) Tired of",
+        "D) Confused about"
+      ],
+      "answer": "B",
+      "explanation": "在第15和33行，Hailey多次说'I'm obsessed with it'和'Obsessed with this'，在美式口语中'obsessed'表示非常喜欢、迷恋某物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 47.4,
+      "endTime": 48.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "obsessed",
+        "love",
+        "favorite"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is the lip treatment product that Hailey mentions as her 'road lip treatment'?",
+      "options": [
+        "A) Lipstick",
+        "B) Lip balm",
+        "C) Lip gloss",
+        "D) Lip oil"
+      ],
+      "answer": "B",
+      "explanation": "第18行提到'this, of course, is my road lip treatment'，结合上下文，这是她在路上使用的唇部护理产品，属于润唇膏类的护唇产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 79.1,
+      "endTime": 82,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lip treatment",
+        "road",
+        "balm"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does Hailey use her phone for according to the video?",
+      "options": [
+        "A) Taking photos only",
+        "B) Making calls only",
+        "C) Social media and anonymous activities",
+        "D) Playing games"
+      ],
+      "answer": "C",
+      "explanation": "第4行提到'surfing anonymously, commenting, stalking'，这些都是在描述手机用于社交媒体活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 146.3,
+      "endTime": 154.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "phone",
+        "social media",
+        "anonymous"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is the 'Haley Bieber smoothie' mentioned in the video?",
+      "options": [
+        "A) A drink she makes",
+        "B) A beauty product",
+        "C) A food item",
+        "D) A vitamin supplement"
+      ],
+      "answer": "B",
+      "explanation": "第5行和第9-11行提到'this specifically for me'和'She told me that it would make a young Canadian pop star fall in me'，这似乎是一种美容产品或补品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 304.1,
+      "endTime": 310.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "smoothie",
+        "tincture",
+        "potion"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does Hailey say about her sleeping mask?",
+      "options": [
+        "A) She wears it at parties",
+        "B) She wears it when sleeping",
+        "C) She uses it as a hand cream",
+        "D) She doesn't like it"
+      ],
+      "answer": "B",
+      "explanation": "第48行明确说'this is my sleeping mask that I wear when I'm'，这是一个睡眠面膜，睡觉时使用的产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 24.5,
+      "endTime": 43.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sleeping mask",
+        "sleep",
+        "mask"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'gatekeeping' mean in 'I have been gatekeeping this one because it's really special'?",
+      "options": [
+        "A) Sharing freely",
+        "B) Keeping to herself",
+        "C) Selling it",
+        "D) Throwing it away"
+      ],
+      "answer": "B",
+      "explanation": "第23行提到'gatekeeping'，在网络流行语中意为'藏着掖着'、不与人分享。Hailey说这个产品对她很特别，所以一直留着不舍得分享。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 172.5,
+      "endTime": 177.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "gatekeeping",
+        "special",
+        "keeping"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is Hailey's favorite perfume described as?",
+      "options": [
+        "A) Smells like flowers",
+        "B) Smells like vanilla",
+        "C) Smells like fruit",
+        "D) Smells like musk"
+      ],
+      "answer": "B",
+      "explanation": "第35行明确说'It smells really vanilla'，这是Hailey描述她最喜欢的香水的特点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 48.6,
+      "endTime": 50,
+      "difficulty": "easy",
+      "relatedWords": [
+        "perfume",
+        "vanilla",
+        "smell"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does Hailey use the pocket mirror for?",
+      "options": [
+        "A) Checking her hair",
+        "B) Touch-ups",
+        "C) Applying makeup",
+        "D) Looking at her clothes"
+      ],
+      "answer": "B",
+      "explanation": "第19行说'this is a little pocket mirror that I keep with me for touch-ups and what have you'，即用于补妆等整理仪表的用途。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 131.4,
+      "endTime": 138.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pocket mirror",
+        "touch-ups",
+        "mirror"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does Hailey say about the tincture potion she got?",
+      "options": [
+        "A) It's for cooking",
+        "B) It's for her skin",
+        "C) It would make someone fall in love with her",
+        "D) It's a medicine"
+      ],
+      "answer": "C",
+      "explanation": "第10-11行提到'a little tincture potion that I got. She told me that it would make a young Canadian pop star fall in love with me.'这是一种据说能让人爱上她的爱情魔药。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 292.2,
+      "endTime": 310.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tincture",
+        "potion",
+        "love"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "How does Hailey describe her DNA mask?",
+      "options": [
+        "A) It's made with fish eggs",
+        "B) It contains rare ingredients",
+        "C) It's very cheap",
+        "D) She doesn't like it"
+      ],
+      "answer": "B",
+      "explanation": "第42-47行提到需要追踪非常稀有的太阳鱼并收获它们的卵，但1000个中只能收获1个因为那些卵有正确的DNA。这是一个非常稀有珍贵的面膜。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 197.1,
+      "endTime": 216.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "DNA",
+        "mask",
+        "rare"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'at all times' mean in the video?",
+      "options": [
+        "A) Sometimes",
+        "B) Never",
+        "C) All the time",
+        "D) Once in a while"
+      ],
+      "answer": "C",
+      "explanation": "第12行和第21行都提到'at all times'，意思是'ready all the time'（随时），表示她总是带着某些东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 13.2,
+      "endTime": 18.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "at all times",
+        "always",
+        "with me"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is Bonnie in the video?",
+      "options": [
+        "A) Hailey's sister",
+        "B) Hailey's friend",
+        "C) A pet dog",
+        "D) Hailey's assistant"
+      ],
+      "answer": "C",
+      "explanation": "第25行说'I read online that videos with small animals get a lot more likes'，结合第43行'So, this is Bonnie'和第267行的画面，Bonnie是Hailey的宠物狗。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 267.2,
+      "endTime": 270.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Bonnie",
+        "dog",
+        "pet"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does Hailey say about her scrunchie?",
+      "options": [
+        "A) She doesn't use it",
+        "B) She keeps it with her",
+        "C) She lost it",
+        "D) She gave it away"
+      ],
+      "answer": "B",
+      "explanation": "第39行说'this is my scrunchie that obviously I keep with me'，Hailey说她把这个发圈随身带着。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 199.8,
+      "endTime": 216.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "scrunchie",
+        "keep",
+        "hair"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'touch-ups' refer to in the video?",
+      "options": [
+        "A) Making phone calls",
+        "B) Quick corrections or refreshes",
+        "C) Exercising",
+        "D) Eating"
+      ],
+      "answer": "B",
+      "explanation": "'Touch-ups'指的是快速整理、补妆，在第19行提到pocket mirror用于'touch-ups'，即补妆、整理仪表。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 131.4,
+      "endTime": 138.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "touch-ups",
+        "mirror",
+        "makeup"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "How old was Hailey when she first tried the tincture potion?",
+      "options": [
+        "A) Around 10 years old",
+        "B) Around 12 years old",
+        "C) Around 15 years old",
+        "D) Around 18 years old"
+      ],
+      "answer": "B",
+      "explanation": "第46行说'I would say probably when I was around 12'，这是Hailey提到她大概12岁左右尝试了这个爱情魔药。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 296.8,
+      "endTime": 299.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "12 years old",
+        "potion",
+        "try"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does Hailey say at the end of the video?",
+      "options": [
+        "A) I love you",
+        "B) Thank you, Vogue",
+        "C) See you next time",
+        "D) Both A and B"
+      ],
+      "answer": "D",
+      "explanation": "第3行说'Thank you, Vogue'，第37行说'Love you'，视频结尾Hailey既感谢了Vogue也表达了感谢。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 337.8,
+      "endTime": 341.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "thank you",
+        "love you",
+        "Vogue"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'Delicious' refer to in the video context?",
+      "options": [
+        "A) The smoothie",
+        "B) The perfume",
+        "C) The hand cream",
+        "D) The lip treatment"
+      ],
+      "answer": "A",
+      "explanation": "第5行提到'This is my Haley Bieber smoothie'，第16行Hailey说'Delicious'，这是在品尝她的smoothie后的评价。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 233.2,
+      "endTime": 236.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "delicious",
+        "smoothie",
+        "taste"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Please describe what items Hailey Bieber shows in her bag and their purposes. Use your own words to summarize.",
+      "options": [],
+      "answer": "open",
+      "explanation": "口语题要求学生用自己的话复述视频中Hailey包里的物品及其用途。",
+      "referenceAnswer": "Hailey展示了包里的多种物品：1) hand cream - 用于滋润干燥的手部；2) sleeping mask - 睡眠时使用的面膜；3) perfume - 她最喜欢的香水，有香草味；4) lip treatment - 唇部护理产品；5) phone - 用于社交媒体；6) pocket mirror - 用于补妆；7) scrunchie - 发圈；8) 一个神秘的tincture potion据说是爱情魔药；9) 还有她的宠物狗Bonnie。",
+      "hint": "Try to mention at least 5 items and their uses. You can start with 'In this video, Hailey Bieber shows several items in her bag, including...'",
+      "startTime": 3.1,
+      "endTime": 340.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "items",
+        "bag",
+        "purposes",
+        "describe"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What is your opinion about sharing personal items like skincare products with friends? Would you 'gatekeep' certain items? Explain your reasoning.",
+      "options": [],
+      "answer": "open",
+      "explanation": "开放式口语题，让学生表达对于分享个人物品（如护肤品）的看法，以及是否会像Hailey一样对某些特别的东西进行'gatekeeping'（藏着掖着）。",
+      "referenceAnswer": "这道题没有标准答案，学生可以自由表达观点。可以从以下几个角度回答：1) 分享的好处（增进友谊、试用新产品）；2) 不分享的原因（个人卫生、特别的意义、昂贵的价格）；3) 是否认同'gatekeeping'这种行为。",
+      "hint": "You can express your opinion by saying 'In my opinion...' or 'I think...' and give reasons. For example, 'I would share basic items but keep special ones to myself because...'",
+      "startTime": 172.5,
+      "endTime": 177.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "opinion",
+        "sharing",
+        "gatekeeping",
+        "personal items"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "If you were to create a 'magic potion' like Hailey mentioned, what would you want it to do? Describe your imaginary potion.",
+      "options": [],
+      "answer": "open",
+      "explanation": "创意口语题，让学生发挥想象力，描述如果他们像Hailey一样有一瓶魔法药剂，会希望它有什么效果。",
+      "referenceAnswer": "本题为开放性题目，学生可以自由发挥想象力，例如：1) 让考试顺利的聪明药水；2) 让心情永远愉快的快乐药水；3) 让人实现梦想的梦想药水；4) 让友谊长存的友情药水等。",
+      "hint": "Use your imagination! You can say 'If I could create a magic potion, I would want it to...' and describe what effect you want it to have.",
+      "startTime": 292.2,
+      "endTime": 310.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "magic potion",
+        "imagine",
+        "create",
+        "effect"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What is the main purpose of Hailey's pocket mirror according to the video?",
+      "options": [
+        "A) For checking teeth",
+        "B) For touch-ups and quick fixes",
+        "C) As a decoration",
+        "D) For checking posture"
+      ],
+      "answer": "B",
+      "explanation": "第19行明确说'for touch-ups and what have you'，即用于快速整理仪表、补妆等用途。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 131.4,
+      "endTime": 138.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pocket mirror",
+        "touch-ups",
+        "purpose"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'what have you' mean in the phrase 'for touch-ups and what have you'?",
+      "options": [
+        "A) And other things like that",
+        "B) And nothing else",
+        "C) And what you want",
+        "D) And specific items"
+      ],
+      "answer": "A",
+      "explanation": "'What have you'是一个常见的口语表达，意思是'等等'、'诸如此类的东西'，用于列举未尽事宜。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 131.4,
+      "endTime": 138.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "what have you",
+        "etc",
+        "and so on"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "Why does Hailey mention that she reads online that videos with small animals get more likes?",
+      "options": [
+        "A) To explain why Bonnie is in the video",
+        "B) To complain about her low views",
+        "C) To show she doesn't care about likes",
+        "D) To ask viewers to like her video"
+      ],
+      "answer": "A",
+      "explanation": "第25行Hailey说'I read online that videos with small animals get a lot more likes and comments'，然后第43行介绍'So, this is Bonnie'，这解释了为什么她要在视频中展示她的狗狗。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 261,
+      "endTime": 267.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "small animals",
+        "likes",
+        "comments",
+        "Bonnie"
+      ]
+    }
+  ]
+}

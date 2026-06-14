@@ -1,0 +1,566 @@
+{
+  "videoId": "kaPgGH5HC0w",
+  "title": "a week in my life vlog",
+  "generatedAt": "2026-06-13T18:12:13.766Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 8,
+    "medium": 15,
+    "hard": 2,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'hyperfixation' mean in 'That's my new hyperfixation breakfast'?",
+      "options": [
+        "A) A temporary food preference",
+        "B) An intense, focused interest in something",
+        "C) A healthy eating habit",
+        "D) A new cooking technique"
+      ],
+      "answer": "B",
+      "explanation": "'Hyperfixation'是指对某事物强烈且专注的兴趣/着迷。在这个语境中，说话者表示这个早餐是她最近特别着迷的食物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1091.9,
+      "endTime": 1093.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "hyperfixation",
+        "breakfast",
+        "interest"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is a 'vision board'?",
+      "options": [
+        "A) A board for displaying photos",
+        "B) A visual collage of goals and aspirations",
+        "C) A type of whiteboard used in offices",
+        "D) A menu at a restaurant"
+      ],
+      "answer": "B",
+      "explanation": "'Vision board'（愿景板）是一种将个人目标、梦想和愿望以图片形式拼贴在一起的视觉工具，常用于自我提升和目标设定。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 483.2,
+      "endTime": 484.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vision board",
+        "goals",
+        "aspirations"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'I've developed an aversion to it' mean?",
+      "options": [
+        "A) I've become to like it",
+        "B) I've started to dislike it",
+        "C) I've become addicted to it",
+        "D) I've learned to cook it"
+      ],
+      "answer": "B",
+      "explanation": "'Aversion'意为厌恶或反感。'Developed an aversion to it'表示她因为吃了太多次而开始讨厌这个食物了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 314.9,
+      "endTime": 318.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "aversion",
+        "dislike",
+        "food"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'gatekeeping' mean in 'Sorry, I'm gatekeeping'?",
+      "options": [
+        "A) Keeping a gate closed",
+        "B) Keeping something exclusive or secret",
+        "C) Opening a door for someone",
+        "D) Building a fence"
+      ],
+      "answer": "B",
+      "explanation": "在网络用语中，'gatekeeping'指的是垄断信息或资源，不与他人分享。说话者在这里表示她不想分享（可能是某种美食或信息）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 253.8,
+      "endTime": 255,
+      "difficulty": "hard",
+      "relatedWords": [
+        "gatekeeping",
+        "exclusive",
+        "sharing"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'went live' mean in 'my summer collection just went live for Ailia'?",
+      "options": [
+        "A) Became physically available in stores",
+        "B) Was launched/released online",
+        "C) Started a live stream",
+        "D) Became popular suddenly"
+      ],
+      "answer": "B",
+      "explanation": "'Go live'在电商和营销语境中指产品正式上线/发布，可以在网站或平台上购买了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 657.4,
+      "endTime": 663.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "went live",
+        "collection",
+        "launch"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'behind the scenes' mean in 'I get to see the behind the scenes'?",
+      "options": [
+        "A) Watching a movie",
+        "B) Seeing how things are actually made/processed",
+        "C) Working backstage at a show",
+        "D) Looking at old photographs"
+      ],
+      "answer": "B",
+      "explanation": "'Behind the scenes'指的是幕后的工作过程、制作过程，通常指公众看不到的内部运作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 938.7,
+      "endTime": 940.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "behind the scenes",
+        "process",
+        "work"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is a 'stir fry'?",
+      "options": [
+        "A) A type of salad",
+        "B) A cooking method where food is quickly cooked in a wok",
+        "C) A dessert made with fruits",
+        "D) A type of soup"
+      ],
+      "answer": "B",
+      "explanation": "'Stir fry'（炒）是一种快速烹饪方法，用旺火在锅中翻炒食材，通常使用中式锅（wok）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 282.1,
+      "endTime": 284.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "stir fry",
+        "cooking",
+        "chicken"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'summer collection' refer to in this context?",
+      "options": [
+        "A) A group of summer clothes",
+        "B) A set of new products released for summer",
+        "C) A museum exhibit",
+        "D) A photo album"
+      ],
+      "answer": "B",
+      "explanation": "'Collection'在商业语境中指一系列新产品。'Summer collection'即夏季系列，是品牌推出的应季产品线。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 657.4,
+      "endTime": 663.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "collection",
+        "summer",
+        "products"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "speaking",
+      "question": "What did the speaker learn to do for the first time? Describe what she says about this experience.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求根据字幕内容回答关于说话者第一次学做某事的问题。",
+      "referenceAnswer": "She learned to cook consistently for the first time. She mentions she's not the best chef and she's learning. She says she didn't cook at all in college, so this is a new skill she's developing.",
+      "hint": "Think about what cooking-related activities she mentions she's learning.",
+      "startTime": 401.7,
+      "endTime": 406.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cooking",
+        "learn",
+        "chef"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'editing my vlog' mean?",
+      "options": [
+        "A) Writing a blog post",
+        "B) Recording a video",
+        "C) Post-processing video footage",
+        "D) Taking photos"
+      ],
+      "answer": "C",
+      "explanation": "'Editing'指的是视频后期制作，包括剪辑、添加音乐、调整画面等。'Vlog'是视频博客的缩写。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 956.1,
+      "endTime": 960.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "editing",
+        "vlog",
+        "video"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What are 'chia seeds'?",
+      "options": [
+        "A) A type of nut",
+        "B) Small edible seeds from a plant native to Central America",
+        "C) A kind of grain",
+        "D) Dried fruit"
+      ],
+      "answer": "B",
+      "explanation": "'Chia seeds'（奇亚籽）是一种来自中美洲的植物种子，富含营养，常用于早餐碗、冰沙等健康食品中。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 327.3,
+      "endTime": 329.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chia seeds",
+        "food",
+        "healthy"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'perfect' mean in 'I've really perfected my recipe'?",
+      "options": [
+        "A) Tried for the first time",
+        "B) Made minor changes to",
+        "C) Improved until it was flawless",
+        "D) Learned how to make"
+      ],
+      "answer": "C",
+      "explanation": "'Perfected'表示完善/使完美，意味着她不断改进直到配方达到完美的程度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 897.7,
+      "endTime": 899.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "perfect",
+        "recipe",
+        "cooking"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "speaking",
+      "question": "According to the video, what time did the speaker start working and what was she doing?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求根据字幕描述她一天的工作安排。",
+      "referenceAnswer": "She started working at 8:00 a.m. and she was working together with someone (likely on a project). She mentions getting to see behind the scenes of something.",
+      "hint": "Look for the specific time mentioned and what activity was happening.",
+      "startTime": 934.4,
+      "endTime": 938.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "working",
+        "8:00 a.m.",
+        "together"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'avocado toast' refer to?",
+      "options": [
+        "A) Fried bread with avocado",
+        "B) Sliced bread topped with mashed avocado",
+        "C) A sandwich with avocado",
+        "D) A salad with avocado"
+      ],
+      "answer": "B",
+      "explanation": "'Avocado toast'是吐司面包上放上捣碎的牛油果，是一道流行的早餐或早午餐食品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 888.9,
+      "endTime": 891.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "avocado toast",
+        "breakfast",
+        "recipe"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'I always underestimate the time on everything' mean?",
+      "options": [
+        "A) I always think tasks take too long",
+        "B) I always think tasks take less time than they actually do",
+        "C) I always have too much free time",
+        "D) I never have enough time"
+      ],
+      "answer": "B",
+      "explanation": "'Underestimate'意为低估。说话者表示她总是低估做每件事所需的时间，意思是她经常低估。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1041.5,
+      "endTime": 1046,
+      "difficulty": "medium",
+      "relatedWords": [
+        "underestimate",
+        "time",
+        "planning"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'launch' mean in 'summer launch coming on Thursday'?",
+      "options": [
+        "A) A party",
+        "B) The release or introduction of a product",
+        "C) A rocket taking off",
+        "D) A meeting"
+      ],
+      "answer": "B",
+      "explanation": "'Launch'在商业语境中指产品的发布/推出。'Summer launch'即夏季新品发布会。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 122.9,
+      "endTime": 127.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "launch",
+        "product",
+        "Thursday"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "What did the speaker buy at the grocery store and what was her reason for going there?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，关于她在杂货店买了什么以及为什么去。",
+      "referenceAnswer": "She bought chia seeds and sunflower seed butter cups. She decided to stop at the grocery store because she had no food at home and needed to find a new breakfast option since she got tired of her previous one.",
+      "hint": "Think about what food items are mentioned and her breakfast situation.",
+      "startTime": 255.8,
+      "endTime": 259.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "grocery store",
+        "chia seeds",
+        "breakfast"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is a 'rice bowl' in 'chicken fajita rice bowl'?",
+      "options": [
+        "A) A bowl made of rice",
+        "B) A dish with rice and toppings",
+        "C) A type of soup",
+        "D) A dessert"
+      ],
+      "answer": "B",
+      "explanation": "'Rice bowl'指的是米饭上放上配料（这里是鸡肉法吉塔）做成的一碗式餐点，是常见的餐饮形式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 373,
+      "endTime": 375.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "rice bowl",
+        "chicken",
+        "fajita"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'consistently' mean in 'my first time cooking consistently'?",
+      "options": [
+        "A) Occasionally",
+        "B) In a regular, ongoing way",
+        "C) Very quickly",
+        "D) Without planning"
+      ],
+      "answer": "B",
+      "explanation": "'Consistently'意为持续地、有规律地。说话者表示这是她第一次持续性地做饭。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 401.7,
+      "endTime": 406.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "consistently",
+        "cooking",
+        "regular"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'out of my apartment' mean in 'We do everything out of my apartment'?",
+      "options": [
+        "A) Leaving my apartment",
+        "B) From within my apartment",
+        "C) Except my apartment",
+        "D) Towards my apartment"
+      ],
+      "answer": "B",
+      "explanation": "'Out of'在这里表示从...地方（进行活动）。她们在她的公寓里做所有的事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 976.5,
+      "endTime": 981.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "apartment",
+        "working",
+        "business"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What does the speaker say about her neighbor, and what problem does she mention?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，关于她提到的邻居问题和什么问题。",
+      "referenceAnswer": "She says her neighbor below her is very loud. This seems to be a noise problem she's experiencing living in her apartment.",
+      "hint": "Listen for complaints about living conditions.",
+      "startTime": 942.4,
+      "endTime": 945,
+      "difficulty": "easy",
+      "relatedWords": [
+        "neighbor",
+        "loud",
+        "apartment"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does 'discard' mean in 'I move on and I discard it'?",
+      "options": [
+        "A) Keep it for later",
+        "B) Throw it away or give it up",
+        "C) Improve it",
+        "D) Share it with others"
+      ],
+      "answer": "B",
+      "explanation": "'Discard'意为丢弃/放弃。这里指她找到新的早餐后会放弃旧的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 304.3,
+      "endTime": 305.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "discard",
+        "move on",
+        "breakfast"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'sell out' mean in 'it sold out or some of the pieces sold out'?",
+      "options": [
+        "A) Was displayed in stores",
+        "B) Was completely purchased/unavailable",
+        "C) Was returned to the factory",
+        "D) Was put on sale"
+      ],
+      "answer": "B",
+      "explanation": "'Sell out'指商品全部售完/脱销。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 991.4,
+      "endTime": 996.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sell out",
+        "sold out",
+        "product"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "What is the speaker's attitude toward cooking, based on what she says in the video?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容总结她对烹饪的态度。",
+      "referenceAnswer": "She says she's not a good chef and didn't cook at all in college. However, she's now learning to cook consistently for the first time. She seems to be improving and trying new recipes like chicken stir fry and chicken fajita rice bowls.",
+      "hint": "Think about what she says about her cooking skills and what she's learning to make.",
+      "startTime": 389.4,
+      "endTime": 397.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cooking",
+        "chef",
+        "learn"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does 'aspects' mean in 'learn all aspects of the business'?",
+      "options": [
+        "A) Only the important parts",
+        "B) Different parts or sides of something",
+        "C) The difficult parts",
+        "D) The financial parts"
+      ],
+      "answer": "B",
+      "explanation": "'Aspects'意为方面/层面。说话者表示想学习业务的各个方面，无论大小。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 981.4,
+      "endTime": 986.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "aspects",
+        "business",
+        "learn"
+      ]
+    }
+  ]
+}

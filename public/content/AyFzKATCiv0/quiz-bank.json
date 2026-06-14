@@ -1,0 +1,579 @@
+{
+  "videoId": "AyFzKATCiv0",
+  "title": "Inside Lisa's First Met Gala Look | The Final Fitting | Vogue",
+  "generatedAt": "2026-06-13T18:11:16.789Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 11,
+    "hard": 5,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the word 'chic' mean in this context?",
+      "options": [
+        "A) Cheap and simple",
+        "B) Stylish and elegant",
+        "C) Old-fashioned",
+        "D) Casual and comfortable"
+      ],
+      "answer": "B",
+      "explanation": "'Chic' 是一个法语词，在时尚语境中表示优雅、时尚、别致的风格。视频中多次用来形容Lisa的造型非常时尚漂亮。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 116.7,
+      "endTime": 120.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "chic",
+        "stylish",
+        "fashion"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is a 'brooch'?",
+      "options": [
+        "A) A type of shoe",
+        "B) A decorative pin worn on clothing",
+        "C) A kind of necklace",
+        "D) A hair accessory"
+      ],
+      "answer": "B",
+      "explanation": "Brooch（胸针）是一种别在衣服上的装饰别针，通常用于点缀服装。视频中讨论了是否要添加胸针作为配饰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 87.9,
+      "endTime": 93.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "brooch",
+        "accessory",
+        "decoration"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'snatched the hell out of it' mean in this context?",
+      "options": [
+        "A) Lost something completely",
+        "B) Looked absolutely amazing/stunning",
+        "C) Threw something away",
+        "D) Started to cry"
+      ],
+      "answer": "B",
+      "explanation": "这是非正式口语表达，'snatched' 在网络用语中表示'惊艳'、'太美了'、'太震撼了'。这句话表达了对造型效果的极致赞美。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 160.3,
+      "endTime": 163,
+      "difficulty": "hard",
+      "relatedWords": [
+        "snatched",
+        "stunning",
+        "amazing"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Who designed the outfit Lisa is wearing?",
+      "options": [
+        "A) Henry Taylor",
+        "B) Farel",
+        "C) Taylor Swift",
+        "D) A unknown designer"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到Lisa穿的是'Louis Vuitton by Farel'，即Farel设计的路易威登品牌服装。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 42.7,
+      "endTime": 45.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Louis Vuitton",
+        "Farel",
+        "designer"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Whose artwork does the outfit recreate?",
+      "options": [
+        "A) Picasso",
+        "B) Vincent van Gogh",
+        "C) Henry Taylor",
+        "D) Warhol"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到服装'recreates an artwork by Henry Taylor'，即重新创作了Henry Taylor的艺术作品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 45.4,
+      "endTime": 48.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "artwork",
+        "Henry Taylor",
+        "recreate"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What colors did Lisa choose for her outfit?",
+      "options": [
+        "A) Red and gold",
+        "B) Black and white",
+        "C) Black and pearl",
+        "D) Pink and blue"
+      ],
+      "answer": "C",
+      "explanation": "视频中Lisa说'I chose the black and the pearl'，选择了黑色和珍珠色作为服装的主色调。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 114.4,
+      "endTime": 116.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "black",
+        "pearl",
+        "color"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does Lisa mean when she says 'I'm wearing art'?",
+      "options": [
+        "A) She is an artist",
+        "B) Her outfit is a piece of art itself",
+        "C) She painted her clothes",
+        "D) She is visiting an art gallery"
+      ],
+      "answer": "B",
+      "explanation": "Lisa表示她穿的衣服本身就是一件艺术品，因为服装重新创作了艺术家Henry Taylor的作品，所以她说's wearing art'（穿着艺术）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 232.4,
+      "endTime": 233.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "art",
+        "wearable",
+        "fashion"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is Lisa thinking about doing with her hair?",
+      "options": [
+        "A) Cutting it short",
+        "B) Dyeing it a different color",
+        "C) Tying it up",
+        "D) Adding extensions"
+      ],
+      "answer": "C",
+      "explanation": "Lisa说I'm thinking of like, should I just tie my hair up，思考是否要把头发扎起来，以便让大家能更好地看到她的造型。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 120.2,
+      "endTime": 126.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hair",
+        "tie up",
+        "style"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'embroidery' mean?",
+      "options": [
+        "A) Painting on canvas",
+        "B) Decorative stitching on fabric",
+        "C) A type of jewelry",
+        "D) Hair styling"
+      ],
+      "answer": "B",
+      "explanation": "Embroidery（刺绣）是一种用针线在织物上装饰图案的工艺。视频中提到服装上有Henry Taylor的刺绣细节。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 183.2,
+      "endTime": 187,
+      "difficulty": "medium",
+      "relatedWords": [
+        "embroidery",
+        "stitching",
+        "detail"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What did they add more of based on Lisa's request?",
+      "options": [
+        "A) Feathers",
+        "B) Crystals",
+        "C) Pearls",
+        "D) Gold elements"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'unpon your request we put more crystals'，应Lisa的要求添加了更多的水晶装饰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 189.8,
+      "endTime": 191.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "crystals",
+        "request",
+        "add"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'the sweetest spot' refer to in this context?",
+      "options": [
+        "A) The most comfortable position",
+        "B) The best moment for camera focus",
+        "C) The sweetest food",
+        "D) The most expensive item"
+      ],
+      "answer": "B",
+      "explanation": "Lisa说'the sweetest moment where you know the cameras is like focused'，指的是在红毯上知道相机聚焦在自己身上的最佳时刻。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 8.3,
+      "endTime": 14.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sweetest spot",
+        "camera",
+        "focus"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "How many times has Lisa been to the Met Gala before this?",
+      "options": [
+        "A) Once",
+        "B) Twice",
+        "C) This is her first time",
+        "D) Many times"
+      ],
+      "answer": "C",
+      "explanation": "视频开头Lisa说'This is my first time'，并且说'This is my first Met today'，表明这是她第一次参加Met Gala。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0.1,
+      "endTime": 2.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "first time",
+        "Met Gala",
+        "debut"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'vibe' mean in this context?",
+      "options": [
+        "A) A musical instrument",
+        "B) A feeling or atmosphere",
+        "C) A type of clothing",
+        "D) A physical vibration"
+      ],
+      "answer": "B",
+      "explanation": "'Vibe' 是vibration的缩写，在口语中表示氛围、感觉、气场。Lisa说'my whole vibe'指的是她的整体风格和气场。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 217,
+      "endTime": 224,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vibe",
+        "atmosphere",
+        "style"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'eating the carpet up' mean in this context?",
+      "options": [
+        "A) Falling on the floor",
+        "B) Walking confidently and dominating the red carpet",
+        "C) Cleaning the floor",
+        "D) Looking down at the carpet"
+      ],
+      "answer": "B",
+      "explanation": "这是口语化的表达，'eating the carpet up' 是一种夸张的说法，表示在红毯上走得非常有气势、非常自信，成为全场焦点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 197.7,
+      "endTime": 203.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "confidence",
+        "carpet",
+        "dominate"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What kind of shoes do they mention people love?",
+      "options": [
+        "A) White shoes",
+        "B) Red shoes",
+        "C) Black shoes",
+        "D) Brown shoes"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到'They love black shoes'，讨论到黑色鞋子是人们喜爱的款式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 248,
+      "endTime": 249.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "black shoes",
+        "shoes",
+        "fashion"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is a 'pearl' in this context?",
+      "options": [
+        "A) A type of fruit",
+        "B) A white gemstone from oysters",
+        "C) A type of flower",
+        "D) A musical instrument"
+      ],
+      "answer": "B",
+      "explanation": "Pearl（珍珠）是一种从牡蛎中获取的白色宝石，常用于珠宝和服装装饰。Lisa选择了black and pearl（黑色和珍珠色）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 114.4,
+      "endTime": 116.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pearl",
+        "jewelry",
+        "color"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the phrase 'the main attraction' refer to?",
+      "options": [
+        "A) The main entrance",
+        "B) The most important or impressive part/Person",
+        "C) A type of show",
+        "D) The main course of a meal"
+      ],
+      "answer": "B",
+      "explanation": "'Main attraction' 指的是主要吸引力、焦点。视频中说'so they can see the main attraction'，指的是让人们能看见最抢眼的部分。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 174.7,
+      "endTime": 177.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "attraction",
+        "focus",
+        "center"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'predicated on three things' mean?",
+      "options": [
+        "A) Based on three things",
+        "B) Contrary to three things",
+        "C) Without three things",
+        "D) After three things"
+      ],
+      "answer": "A",
+      "explanation": "'Predicated on' 意思是'基于'、'取决于'。Lisa说她的整个气场'predicated on three things'，即基于三件事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 224,
+      "endTime": 226.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "predicated",
+        "based",
+        "foundation"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What mode of transportation is mentioned as something black people like?",
+      "options": [
+        "A) Black bikes",
+        "B) Black cars and planes",
+        "C) Black trains",
+        "D) Black boats"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'They like black cars, black planes, even black pink'，讨论到黑人群体喜欢黑色汽车、黑色飞机，甚至blackpink（可能双关）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 251.4,
+      "endTime": 255.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "black cars",
+        "planes",
+        "transportation"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'taste level' refer to in this context?",
+      "options": [
+        "A) The flavor of food",
+        "B) Sense of style and quality",
+        "C) The level of hunger",
+        "D) A musical preference"
+      ],
+      "answer": "B",
+      "explanation": "'Taste level' 指的是审美品味和档次。视频中说'highlight the taste level and taste buds of black people'，指的是展示黑人的时尚品味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 256.2,
+      "endTime": 261.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "taste",
+        "style",
+        "fashion"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe what Lisa is wearing to the Met Gala and explain why it's special.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生根据视频内容描述Lisa的Met Gala造型并解释特别之处。",
+      "referenceAnswer": "Lisa is wearing a Louis Vuitton outfit designed by Farel. The special thing is that it recreates an artwork by Henry Taylor, so she is essentially 'wearing art.' She chose black and pearl colors. The outfit has Henry Taylor embroidery details and crystals added upon her request. It's her first time at the Met Gala.",
+      "hint": "Think about: designer, artwork inspiration, colors, special details, and the significance of it being her first Met Gala.",
+      "startTime": 42.7,
+      "endTime": 48.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Louis Vuitton",
+        "artwork",
+        "Henry Taylor",
+        "special"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "How does Lisa feel about her first Met Gala appearance? Use details from the video to support your answer.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生分析Lisa在视频中表达的情感和态度。",
+      "referenceAnswer": "Lisa seems both nervous and excited. She says 'I'm super nervous' and 'This is my first time.' However, she also shows confidence, saying she wants to 'eat the carpet up' and stand with confidence. She carefully considers details like her hair, accessories (brooch vs necklace), and wants to make sure the camera understands 'the level' of her look.",
+      "hint": "Look for statements about nervousness, confidence, and her careful attention to details.",
+      "startTime": 39.1,
+      "endTime": 42.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "nervous",
+        "confident",
+        "first time",
+        "Met Gala"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "What three things does Lisa say her whole 'vibe' is predicated on?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生回忆Lisa提到的三个关键点。",
+      "referenceAnswer": "The video mentions that Lisa's vibe 'is like predicated on three things' but the specific three things are not fully shown in the provided subtitles. This appears to be a moment where she explains the three key elements that define her overall look and confidence for the Met Gala.",
+      "hint": "This question tests careful listening to the complete thought. The answer requires information that may span across multiple subtitle segments.",
+      "startTime": 224,
+      "endTime": 226.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "vibe",
+        "three things",
+        "predicated"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'fit' mean in the sentence 'no idea that it's going to be fitted the way it is'?",
+      "options": [
+        "A) To believe something",
+        "B) To adjust clothing to someone's body",
+        "C) To break something",
+        "D) To complete a task"
+      ],
+      "answer": "B",
+      "explanation": "在这个语境中，'fitted' 指的是试穿、调整服装使其合身。Fitting是时尚行业的专业术语，指试穿调整衣服的过程。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 177.3,
+      "endTime": 180.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "fitted",
+        "fitting",
+        "adjust"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What is the main topic of this video?",
+      "options": [
+        "A) A cooking show",
+        "B) A music performance",
+        "C) Lisa's Met Gala fashion fitting",
+        "D) A travel vlog"
+      ],
+      "answer": "C",
+      "explanation": "视频标题是'Inside Lisa's First Met Gala Look | The Final Fitting | Vogue'，内容是关于BLACKPINK成员Lisa首次参加Met Gala的最终试装过程。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0.1,
+      "endTime": 1.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Met Gala",
+        "Vogue",
+        "fashion",
+        "fitting"
+      ]
+    }
+  ]
+}

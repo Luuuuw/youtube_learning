@@ -1,0 +1,570 @@
+{
+  "videoId": "96jN2OCOfLs",
+  "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering w/ Stephanie Zhan",
+  "generatedAt": "2026-06-13T16:33:53.331Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 10,
+    "medium": 11,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What term did Andrej Karpathy coin last year related to programming with LLMs?",
+      "options": [
+        "A) Agentic coding",
+        "B) Vibe coding",
+        "C) Neural programming",
+        "D) LLM engineering"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕内容，And Andrej Karpathy在去年创造了'verify coding'这个术语来描述使用LLM进行编程的方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 946.6,
+      "endTime": 950.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "vibe coding",
+        "term",
+        "coined"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the video, what makes something tractable in the current AI paradigm?",
+      "options": [
+        "A) Large amounts of training data",
+        "B) Verifiability",
+        "C) Complex neural networks",
+        "D) Human oversight"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'Verifiability makes something tractable in the current paradigm because you can throw huge amount of RL at it'，说明可验证性使得任务在当前范式下变得可处理。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 854.8,
+      "endTime": 860.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "verifiability",
+        "tractable",
+        "paradigm"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What concept does Andrej Karpathy want to come back to later in the conversation?",
+      "options": [
+        "A) Fine-tuning",
+        "B) Reinforcement learning",
+        "C) Jagged intelligence",
+        "D) Neural networks"
+      ],
+      "answer": "C",
+      "explanation": "字幕显示'I'd love to come back to the concept of jagged intelligence in a little bit'，说明他想在稍后讨论'锯齿状智能'这个概念。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 816.6,
+      "endTime": 819.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "jagged intelligence",
+        "concept",
+        "come back"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What example does Andrej Karpathy give to illustrate 'jaggedness'?",
+      "options": [
+        "A) Image generation",
+        "B) Walking instructions",
+        "C) Chess playing",
+        "D) Language translation"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，'And the models would famously get this wrong and it's an example of jaggedness'，以及'state-of-the-art models today will tell you to walk because it's so close'，说明模型在给出行走指令时会犯错，这是锯齿状智能的例子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 684,
+      "endTime": 700.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "jaggedness",
+        "walk",
+        "wrong"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What did Andrej Karpathy help do inside the office mentioned in the video?",
+      "options": [
+        "A) Train neural networks",
+        "B) Co-found OpenAI",
+        "C) Develop new algorithms",
+        "D) Write shell scripts"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示'He actually helped co-found OpenAI right inside of this office'，说明他帮助在那个办公室里共同创立了OpenAI。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 14.5,
+      "endTime": 18.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "co-found",
+        "OpenAI",
+        "office"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "How does Andrej Karpathy describe LLMs in this video?",
+      "options": [
+        "A) As a new programming language",
+        "B) As a new computer",
+        "C) As a search engine",
+        "D) As a database"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'You've talked a lot about this idea of LLMs as a new computer'，说明他将LLM描述为一台新计算机。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 148,
+      "endTime": 152.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "LLMs",
+        "new computer",
+        "idea"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What problem with AI models is illustrated by the chess improvement from GPT-3.5 to GPT-4?",
+      "options": [
+        "A) Overfitting",
+        "B) Jagged intelligence",
+        "C) Data contamination",
+        "D) Slow training"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'From GPT-3.5 to GPT-4, people noticed that chess improved'，这个例子被用来说明AI模型的'锯齿状智能'问题——不同能力的提升不是均匀的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 744.7,
+      "endTime": 751.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chess",
+        "GPT-3.5",
+        "GPT-4",
+        "improved"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "According to the video, what do state-of-the-art models sometimes get wrong due to 'jaggedness'?",
+      "options": [
+        "A) Mathematical calculations",
+        "B) Walking directions",
+        "C) Text summarization",
+        "D) Code writing"
+      ],
+      "answer": "B",
+      "explanation": "字幕明确提到'and state-of-the-art models today will tell you to walk because it's so close'，说明模型会给出错误的行走指令。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 696.2,
+      "endTime": 700.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "state-of-the-art",
+        "walk",
+        "wrong"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What do the models receive according to the verification rewards system?",
+      "options": [
+        "A) Training data",
+        "B) Verification rewards",
+        "C) Fine-tuning signals",
+        "D) Human feedback"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示'So, they are given a verification rewards'，说明模型会根据验证奖励系统获得奖励。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 624.5,
+      "endTime": 626.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "verification rewards",
+        "given"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does Andrej Karpathy say about capabilities that are 'not that useful to have'?",
+      "options": [
+        "A) They should be removed from models",
+        "B) They end up creating more environments",
+        "C) They're just not that useful to have around",
+        "D) They need more training"
+      ],
+      "answer": "C",
+      "explanation": "字幕显示'mix because they're just not that useful to have the capability around'，说明那些不太有用的能力最终不会被保留在模型中。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 671.6,
+      "endTime": 674.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "not that useful",
+        "capability",
+        "around"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What advice does Andrej Karpathy give to founders in the audience?",
+      "options": [
+        "A) Focus on large models",
+        "B) Look at fine-tuning",
+        "C) Pay attention to circuits",
+        "D) Avoid agentic workflows"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'if you're not in the circuits, then you have to really look at fine-tuning'，这是他对创始人的建议。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 807.1,
+      "endTime": 810.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "advice",
+        "founders",
+        "fine-tuning"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "According to the video, what makes something tractable that you can throw RL at?",
+      "options": [
+        "A) Complexity",
+        "B) Verifiability",
+        "C) Data availability",
+        "D) Model size"
+      ],
+      "answer": "B",
+      "explanation": "字幕明确说'So, verifiability makes something tractable in the current paradigm because you can throw huge amount of RL at it'，可验证性使得任务可以应用大量强化学习。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 854.8,
+      "endTime": 860.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "verifiability",
+        "tractable",
+        "RL"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is mentioned as a replacement for Google search for people in their 30s?",
+      "options": [
+        "A) Wikipedia",
+        "B) LLMs",
+        "C) Traditional search engines",
+        "D) Social media"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示'So, if you're in your 30s, you use it as a Google search replacement'，这里的'it'指的是LLM/AI工具。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1048.5,
+      "endTime": 1052.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "30s",
+        "Google search",
+        "replacement"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does Andrej Karpathy say about the old mindset regarding programming?",
+      "options": [
+        "A) It's no longer relevant",
+        "B) It's not just about programming becoming faster",
+        "C) It needs to be revived",
+        "D) It's more efficient"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示'in the old mindset because it's not just about programming and programming becoming faster'，说明旧的思维模式不仅仅是关于编程变得更快。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 399.5,
+      "endTime": 403.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "old mindset",
+        "programming",
+        "faster"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does Andrej Karpathy think is 'more exciting'?",
+      "options": [
+        "A) Bigger models",
+        "B) The menu generation progression",
+        "C) Faster computers",
+        "D) More data"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示'And I almost think that that's more exciting'，这里的'that'指的是'menu gen progression'（菜单生成进展）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 455,
+      "endTime": 457.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "more exciting",
+        "menu gen"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What kind of way of thinking does Andrej Karpathy say is 'very different'?",
+      "options": [
+        "A) Traditional programming",
+        "B) Agentic coherent workflow",
+        "C) Database management",
+        "D) Hardware design"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'because things have changed fundamentally and uh especially on this like agentic coherent workflow that really started'，说明这种代理协调工作流程是一种非常不同的思维方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 117.2,
+      "endTime": 123.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "different",
+        "way of thinking",
+        "agentic"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "What is 'jagged intelligence' as discussed in the video? Please explain this concept in your own words.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生根据视频内容解释'jagged intelligence'（锯齿状智能）这个概念。",
+      "referenceAnswer": "Jagged intelligence refers to the uneven capability development in AI models. Just like in the walking example, models may perform extremely well in some areas while making obvious mistakes in other seemingly simple tasks. This creates a 'jagged' rather than smooth intelligence curve across different capabilities.",
+      "hint": "Think about the walking example mentioned in the video - what does it illustrate about AI capabilities?",
+      "startTime": 816.6,
+      "endTime": 819.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "jagged intelligence",
+        "capability",
+        "uneven"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "According to Andrej Karpathy, what is the relationship between verifiability and making something tractable for AI?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生解释可验证性与AI任务可处理性之间的关系。",
+      "referenceAnswer": "Verifiability makes something tractable in the current AI paradigm because when you can verify the output, you can apply large amounts of Reinforcement Learning (RL) to improve the model. This is why tasks with clear verification criteria are more amenable to AI automation.",
+      "hint": "Consider what Andrej Karpathy said about throwing RL at something.",
+      "startTime": 854.8,
+      "endTime": 860.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "verifiability",
+        "tractable",
+        "RL"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "What advice does Andrej Karpathy give to founders regarding AI development? Please summarize the key point.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生总结Andrej Karpathy给创始人的建议。",
+      "referenceAnswer": "He suggests that if you're not working on the core circuits of the base models (which are controlled by labs), then you really need to look at fine-tuning as your main approach for customizing AI for your specific needs.",
+      "hint": "Think about what he said about 'circuits' and 'fine-tuning'.",
+      "startTime": 807.1,
+      "endTime": 810.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "advice",
+        "founders",
+        "fine-tuning"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What historical period does Andrej Karpathy reference when discussing computing direction?",
+      "options": [
+        "A) The 1940s and 1950s",
+        "B) The 1950s and 1960s",
+        "C) The 1970s and 1980s",
+        "D) The 1990s and 2000s"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示'And in '50s and '60s, it was not really obvious which way would go'，提到了50年代和60年代计算发展的不确定性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 527.8,
+      "endTime": 531.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "50s",
+        "60s",
+        "computing"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What happened to neural networks according to the video?",
+      "options": [
+        "A) They replaced CPUs entirely",
+        "B) They became kind of like co-processors",
+        "C) They were abandoned",
+        "D) They became the main processor"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示'And the CPUs become kind of like the co-processor'，说明CPU变成了协处理器，神经网络成为了主要的计算单元。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 543.8,
+      "endTime": 546.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "CPUs",
+        "co-processor",
+        "neural networks"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What can the latest round of LLMs easily automate according to the video?",
+      "options": [
+        "A) Things you can verify",
+        "B) Things you can imagine",
+        "C) Things you can design",
+        "D) Things you can measure"
+      ],
+      "answer": "A",
+      "explanation": "字幕显示'kind of this latest round of LLMs can easily automate what you can uh, verify in'，说明最新的LLM可以轻松自动化你可以验证的东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 612.8,
+      "endTime": 617.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "LLMs",
+        "automate",
+        "verify"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does Andrej Karpathy think about the extrapolation of AI development?",
+      "options": [
+        "A) It looks very normal",
+        "B) It looks very weird",
+        "C) It looks very promising",
+        "D) It looks very concerning"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示'Um I do think that the extrapolation looks very weird because you could basically imagine'，说明他对AI发展的推断感到很奇怪。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 496,
+      "endTime": 501.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "extrapolation",
+        "weird",
+        "imagine"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What example does Andrej Karpathy use when discussing the progression of programming?",
+      "options": [
+        "A) ImageGen",
+        "B) MenuGen",
+        "C) CodeGen",
+        "D) DataGen"
+      ],
+      "answer": "B",
+      "explanation": "字幕多次提到'MenuGen'作为编程进展的例子，包括'Going with the example of MenuGen, I guess'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 489.3,
+      "endTime": 491.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "MenuGen",
+        "example",
+        "progression"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Explain the difference between 'vibe coding' and 'agentic engineering' as discussed in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生解释vibe coding和agentic engineering的区别。",
+      "referenceAnswer": "Vibe coding is a term Andrej Karpathy coined last year to describe a new way of programming where developers work with LLMs in a more intuitive, vibe-based manner. Agentic engineering represents the next evolution where AI agents can perform more autonomous, coherent workflows. The video discusses moving from vibe coding to this more advanced agentic approach.",
+      "hint": "Consider what Andrej Karpathy said about the progression from last October to early this year.",
+      "startTime": 946.6,
+      "endTime": 950.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "vibe coding",
+        "agentic engineering",
+        "difference"
+      ]
+    }
+  ]
+}
