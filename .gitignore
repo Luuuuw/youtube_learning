@@ -26,6 +26,12 @@ download-progress.json
 
 # video files (too large for git, deploy separately)
 public/content/*/video.mp4
+# yt-dlp temporary fragments (e.g. video.f399.mp4.part)
+public/content/**/*.part
+public/content/**/*.ytdl
+public/content/**/*.tmp
+# proxy config (contains local proxy address, do not commit)
+proxy_config.json
 
 # python cache
 __pycache__/
