@@ -1,0 +1,576 @@
+{
+  "videoId": "wXPNGTUTFYo",
+  "title": "Living Alone Diaries | An introvert's self care day of not leaving the house and eating all day!",
+  "generatedAt": "2026-06-15T09:07:53.811Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 12,
+    "hard": 4,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'cushion foundation' refer to in this video?",
+      "options": [
+        "A) A type of face mask",
+        "B) A liquid makeup product in a compact case",
+        "C) A facial cleanser",
+        "D) A hair styling product"
+      ],
+      "answer": "B",
+      "explanation": "Cushion foundation是一种气垫粉底，是一种液态粉底液浸在海绵垫中的化妆品包装，需要用粉扑按压取妆。视频中提到的Clio cushion foundation就是这类产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 536.5,
+      "endTime": 546,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cushion foundation",
+        "makeup",
+        "Clio"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the speaker mean by 'glowy and dewy' when describing her skin?",
+      "options": [
+        "A) Dry and flaky",
+        "B) Shiny and moisturized looking",
+        "C) Pale and dull",
+        "D) Red and irritated"
+      ],
+      "answer": "B",
+      "explanation": "'Glowy and dewy'是形容皮肤看起来有光泽、滋润、有水分的状态，通常是使用了高光或保湿产品后的效果。这是美妆中常见的描述词汇。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 546,
+      "endTime": 548,
+      "difficulty": "easy",
+      "relatedWords": [
+        "glowy",
+        "dewy",
+        "skin"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Why did the speaker cancel all her plans for the day?",
+      "options": [
+        "A) She was feeling sick",
+        "B) She was waiting for a UPS pickup",
+        "C) She had a work deadline",
+        "D) She was in a bad mood"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，她说她'leave my house until that shipment gets picked up so I canceled all my plans today'，意思是她要等UPS来取货，所以不能出门。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 89,
+      "endTime": 93.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "UPS",
+        "shipment",
+        "cancel plans"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is 'PCOS' mentioned in the video?",
+      "options": [
+        "A) A skin care brand",
+        "B) A hormonal disorder affecting women",
+        "C) A type of makeup product",
+        "D) A fitness program"
+      ],
+      "answer": "B",
+      "explanation": "PCOS是多囊卵巢综合征(Polycystic Ovary Syndrome)的缩写，是一种影响女性的激素失衡疾病。视频中博主提到因为PCOS导致腋下出现激素失衡问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 747,
+      "endTime": 760,
+      "difficulty": "hard",
+      "relatedWords": [
+        "PCOS",
+        "hormonal imbalance",
+        "health"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What product is 'Dior Blooming Bouquet' according to the video?",
+      "options": [
+        "A) A lipstick",
+        "B) A perfume/sccent",
+        "C) A moisturizer",
+        "D) An eyeshadow"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'This is the Dior Blooming Bouquet It just smells so feminine so beautiful'，说明Dior Blooming Bouquet是一款香水。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 694,
+      "endTime": 704,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Dior Blooming Bouquet",
+        "perfume",
+        "scent"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What type of highlighter does the speaker prefer according to the video?",
+      "options": [
+        "A) Matte highlighter",
+        "B) Very shimmery highlighter",
+        "C) Cream highlighter",
+        "D) Powder highlighter"
+      ],
+      "answer": "B",
+      "explanation": "视频中她说'i'm a huge fan of very shimmery highlighters'，表明她非常喜欢带有很多闪片的高光产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 560,
+      "endTime": 567,
+      "difficulty": "easy",
+      "relatedWords": [
+        "highlighter",
+        "shimmery",
+        "makeup"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is the speaker waiting for at the beginning of the video?",
+      "options": [
+        "A) A package delivery",
+        "B) A friend to visit",
+        "C) A doctor appointment",
+        "D) Her food order"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕，她提到'i'm actually waiting for the UPS driver to come and pick up a million boxes'，说明她在等UPS司机来取包裹。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 79.1,
+      "endTime": 85,
+      "difficulty": "easy",
+      "relatedWords": [
+        "UPS driver",
+        "boxes",
+        "pickup"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker mean by 'solo date' in the video?",
+      "options": [
+        "A) A date with a stranger",
+        "B) Spending time alone by herself",
+        "C) A video call with fans",
+        "D) A business meeting"
+      ],
+      "answer": "B",
+      "explanation": "'Solo date'指的是与自己单独约会，即独自一人度过放松的时光。视频中她说'i'm supposed to have a little solo date today with myself'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 74,
+      "endTime": 79.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "solo date",
+        "alone",
+        "self-care"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Which jewelry brand collaborated with Helzburg Diamonds?",
+      "options": [
+        "A) Cartier",
+        "B) Tiffany & Co",
+        "C) Aurate New York",
+        "D) Harry Winston"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到'Helzberg Diamonds teamed out with Aurate New York And together they created a new beautiful collection'，说明Aurate New York与Helzburg Diamonds合作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 299.3,
+      "endTime": 303,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Aurate New York",
+        "Helzburg Diamonds",
+        "collaboration"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the speaker's mood at the beginning of the video?",
+      "options": [
+        "A) Sad and lonely",
+        "B) Feeling chatty and wants to talk",
+        "C) Angry and frustrated",
+        "D) Tired and sleepy"
+      ],
+      "answer": "B",
+      "explanation": "视频中她说'I was feeling very chatty So I wanted to do like an old school YouTube style sit down talk about favorite products'，表明她当时心情很好，想和大家聊天。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 521,
+      "endTime": 526.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chatty",
+        "YouTube",
+        "talk"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does it mean when the speaker says 'putting things on the back burner'?",
+      "options": [
+        "A) Cooking something",
+        "B) Delaying or postponing something",
+        "C) Warming up food",
+        "D) Planning a trip"
+      ],
+      "answer": "B",
+      "explanation": "'Put on the back burner'是一个习语，意思是把某件事情暂时搁置或推迟处理。视频中博主说'i have a habit of putting a lot of things on the back burner'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 145,
+      "endTime": 154.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "back burner",
+        "habit",
+        "postpone"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the main topic of this YouTube video?",
+      "options": [
+        "A) A cooking tutorial",
+        "B) A day at home doing self-care",
+        "C) A travel vlog",
+        "D) A workout routine"
+      ],
+      "answer": "B",
+      "explanation": "视频标题是'Living Alone Diaries | An introvert's self care day of not leaving the house and eating all day!'，主要内容是一个内向者的居家自我护理日。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 66.8,
+      "endTime": 74,
+      "difficulty": "easy",
+      "relatedWords": [
+        "self-care",
+        "day at home",
+        "living alone"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What color is the Chanel lipstick mentioned in the video?",
+      "options": [
+        "A) Red",
+        "B) Brown",
+        "C) Rosy/pink",
+        "D) Purple"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到'This is the Chanel 798 A very beautiful like rozy color'，说明是玫瑰粉色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 599,
+      "endTime": 612.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Chanel",
+        "798",
+        "rozy color"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'exposed shoulder' mean in the context of the video?",
+      "options": [
+        "A) A shoulder injury",
+        "B) Showing skin on the shoulder area",
+        "C) A type of clothing",
+        "D) A make-up technique"
+      ],
+      "answer": "B",
+      "explanation": "'Exposed shoulder'指的是露出肩膀。视频中她提到穿搭时露出肩膀的设计。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 586,
+      "endTime": 597,
+      "difficulty": "easy",
+      "relatedWords": [
+        "exposed shoulder",
+        "clothing",
+        "fashion"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the speaker's goal regarding time in the past few years?",
+      "options": [
+        "A) To work more hours",
+        "B) To soak in and enjoy each moment",
+        "C) To forget the past",
+        "D) To travel more"
+      ],
+      "answer": "B",
+      "explanation": "视频中她说'my goal is to really soak'，意思是她想好好享受和珍惜每一刻。根据上下文'soak in the moment'是沉浸其中的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 224,
+      "endTime": 229,
+      "difficulty": "hard",
+      "relatedWords": [
+        "goal",
+        "soak",
+        "moment"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What product does the speaker recommend for creating content?",
+      "options": [
+        "A) A ring light",
+        "B) A tripod",
+        "C) A microphone",
+        "D) A camera"
+      ],
+      "answer": "B",
+      "explanation": "视频中她说'for my content creators I love tripods This is the fun one'，推荐了用于拍摄的三脚架。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 821,
+      "endTime": 834,
+      "difficulty": "easy",
+      "relatedWords": [
+        "tripod",
+        "content creators",
+        "filming"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "Describe a day when you stay at home for self-care. What activities would you do?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求描述一个居家自我护理日的经历和活动。",
+      "referenceAnswer": "要点：1) 描述居家活动的具体内容 2) 说明为什么选择这些活动进行自我护理 3) 分享放松身心的感受",
+      "hint": "你可以参考视频中博主的居家安排，如：化妆、试新产品、听音乐、休息等",
+      "startTime": 66.8,
+      "endTime": 74,
+      "difficulty": "medium",
+      "relatedWords": [
+        "self-care",
+        "day at home",
+        "activities"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the speaker's opinion about the Clio cushion foundation?",
+      "options": [
+        "A) It's not as good as drugstore products",
+        "B) It's better than many high-end cushion foundations",
+        "C) It's too expensive",
+        "D) She doesn't like it"
+      ],
+      "answer": "B",
+      "explanation": "视频中她说'I think these are better than a lot of like high-end cushion foundations'，表示她认为Clio的气垫粉底比很多高端品牌的气垫粉底更好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 536.5,
+      "endTime": 546,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Clio cushion",
+        "high-end",
+        "better"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the speaker say about the necklace she is wearing?",
+      "options": [
+        "A) It's too formal for everyday wear",
+        "B) It's great for layering and everyday use",
+        "C) It's uncomfortable to wear",
+        "D) It's not valuable"
+      ],
+      "answer": "B",
+      "explanation": "视频中她说'it's such a great layering piece...simple enough to just have it for everyday wear'，表示这是一条很适合日常佩戴的项链。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 329,
+      "endTime": 334,
+      "difficulty": "medium",
+      "relatedWords": [
+        "necklace",
+        "layering",
+        "everyday wear"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What is your favorite beauty product and why? Explain what makes it special.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求分享最喜欢的一款美妆产品及其特别之处。",
+      "referenceAnswer": "要点：1) 介绍产品名称和类型 2) 说明产品的特点（如效果、质地、色号等） 3) 解释为什么喜欢这款产品",
+      "hint": "可以参考视频中提到的产品类型，如粉底、腮红、高光、香水等",
+      "startTime": 516,
+      "endTime": 521,
+      "difficulty": "medium",
+      "relatedWords": [
+        "favorite product",
+        "beauty",
+        "makeup"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What did the speaker lose because her microphone wasn't plugged in?",
+      "options": [
+        "A) Her video footage",
+        "B) Her voice recordings",
+        "C) Her photos",
+        "D) Her document"
+      ],
+      "answer": "B",
+      "explanation": "视频中她说'I did it again my mic was once again not plugged in And I lost all my...'，从上下文推断她丢失的是录制的声音/音频内容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 128.8,
+      "endTime": 132,
+      "difficulty": "easy",
+      "relatedWords": [
+        "microphone",
+        "plugged in",
+        "recording"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What is the speaker planning to do with Blurry Salsa Man?",
+      "options": [
+        "A) Open a restaurant",
+        "B) Book a flight to Korea",
+        "C) Start a dance class",
+        "D) Record a music video"
+      ],
+      "answer": "B",
+      "explanation": "视频中她说'i'm also booking a flight to Korea again with Blurry Salsa Man'，表示她要和这个人一起预订去韩国的机票。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 172,
+      "endTime": 184.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Blurry Salsa Man",
+        "flight to Korea",
+        "booking"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "If you were looking for a holiday gift for a beauty lover, what would you recommend and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求为美妆爱好者推荐节日礼物。",
+      "referenceAnswer": "要点：1) 推荐具体的产品类型 2) 解释礼物的适用性和受欢迎程度 3) 说明选择这个礼物的原因",
+      "hint": "可以参考视频中提到的产品，如香水、化妆品、珠宝等作为礼物推荐",
+      "startTime": 370,
+      "endTime": 378,
+      "difficulty": "hard",
+      "relatedWords": [
+        "holiday gift",
+        "beauty lover",
+        "recommend"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'a touch of diamond sparkle' describe in the video?",
+      "options": [
+        "A) A ring",
+        "B) A necklace",
+        "C) An earring",
+        "D) A bracelet"
+      ],
+      "answer": "B",
+      "explanation": "视频中她说'two-tone white and yellow 14 karat gold with a touch of diamond sparkle Next this is the Diamond...Necklace'，描述的是一条项链。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 349.8,
+      "endTime": 355,
+      "difficulty": "medium",
+      "relatedWords": [
+        "diamond sparkle",
+        "necklace",
+        "gold"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does the speaker say about the tripod filming angle?",
+      "options": [
+        "A) It shows weird angles from too high up",
+        "B) It provides the best close-ups",
+        "C) It's only for professional use",
+        "D) It makes the video too dark"
+      ],
+      "answer": "A",
+      "explanation": "视频中她说'those like weird angles that are filmed from like so high up It's this tripod'，表示这种三脚架拍出的角度是从高处拍摄的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 839,
+      "endTime": 846.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tripod",
+        "weird angles",
+        "filming"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "videoId": "iDBjauJYQ-A",
+  "title": "I Visited the Top 10 Places in America - Los Angeles",
+  "generatedAt": "2026-06-15T10:04:53.168Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 11,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'banger photos' mean in this context?",
+      "options": [
+        "A) Noisy photos",
+        "B) Amazing photos",
+        "C) Broken photos",
+        "D) Boring photos"
+      ],
+      "answer": "B",
+      "explanation": "'Banger' is slang meaning something excellent or cool. 'Banger photos' means amazing/great photos.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "banger",
+        "photos",
+        "slang"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'bucket list' refer to in the video?",
+      "options": [
+        "A) A list of things to buy",
+        "B) A list of experiences to have before dying",
+        "C) A shopping list",
+        "D) A list of places to visit"
+      ],
+      "answer": "B",
+      "explanation": "'Bucket list' refers to a list of things a person wants to do or experience before they die, often related to travel or adventures.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bucket list",
+        "travel",
+        "experience"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "According to the video, how do people generally rate Santa Monica Pier on the scale of underrated to overrated?",
+      "options": [
+        "A) Underrated",
+        "B) Slightly underrated",
+        "C) Overrated",
+        "D) Neither underrated nor overrated"
+      ],
+      "answer": "C",
+      "explanation": "The video states that 'people generally consider Santa Monica Pier to be overrated.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Santa Monica Pier",
+        "overrated",
+        "rating"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is a 'Dodger dog'?",
+      "options": [
+        "A) A type of dog breed",
+        "B) A popular hot dog at Dodger Stadium",
+        "C) A baseball player",
+        "D) A special sauce"
+      ],
+      "answer": "B",
+      "explanation": "'Dodger dog' is a trademarked hot dog sold at Dodger Stadium in Los Angeles, a popular stadium food.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Dodger dog",
+        "stadium",
+        "food"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'photo op' mean in this context?",
+      "options": [
+        "A) A photography class",
+        "B) A photo operation",
+        "C) An opportunity to take photos",
+        "D) A photo gallery"
+      ],
+      "answer": "C",
+      "explanation": "'Photo op' is short for 'photo opportunity', meaning a chance or situation suitable for taking photographs.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "photo op",
+        "photography",
+        "opportunity"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'eventful' mean in 'It's going to be an eventful day'?",
+      "options": [
+        "A) Boring",
+        "B) Full of events/activities",
+        "C) Tiring",
+        "D) Short"
+      ],
+      "answer": "B",
+      "explanation": "'Eventful' means full of events or activities that happen, often suggesting an exciting or busy day.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "eventful",
+        "day",
+        "activities"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'shout out' mean when the vlogger says 'Shout out to the Joyide Runners'?",
+      "options": [
+        "A) Yelling at someone",
+        "B) Giving recognition or thanks to someone",
+        "C) Saying goodbye",
+        "D) Calling someone"
+      ],
+      "answer": "B",
+      "explanation": "'Shout out' is slang meaning to publicly acknowledge, thank, or give credit to someone.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "shout out",
+        "recognition",
+        "thanks"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'sick' mean in 'Still looks sick'?",
+      "options": [
+        "A) Ill",
+        "B) Cool/awesome",
+        "C) Strange",
+        "D) Old"
+      ],
+      "answer": "B",
+      "explanation": "In informal American English, 'sick' is often used to describe something as cool, impressive, or awesome.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sick",
+        "slang",
+        "cool"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'literally' emphasize in 'We literally did that'?",
+      "options": [
+        "A) Not really happening",
+        "B) Actually doing it",
+        "C) Pretending to do it",
+        "D) Almost doing it"
+      ],
+      "answer": "B",
+      "explanation": "'Literally' is used to emphasize that something really happened or is true, even though it might sound exaggerated.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "literally",
+        "emphasis",
+        "real"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What attraction is described as 'one of the most photographed signs in the entire world'?",
+      "options": [
+        "A) Santa Monica Pier",
+        "B) Hollywood sign",
+        "C) Dodger Stadium",
+        "D) Target store"
+      ],
+      "answer": "B",
+      "explanation": "The video mentions 'Number two, the Hollywood sign' and describes it as 'one of the most photographed signs in the entire world.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Hollywood sign",
+        "photographed",
+        "famous"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'underrated' mean?",
+      "options": [
+        "A) Better than expected",
+        "B) Worse than expected",
+        "C) Not as popular or good as it should be",
+        "D) Very popular"
+      ],
+      "answer": "C",
+      "explanation": "'Underrated' means something is not valued or praised as much as it deserves to be, often used to describe places or things that are better than their reputation suggests.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "underrated",
+        "rating",
+        "value"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the vlogger trying to do at the stadium - 'set a new world record'?",
+      "options": [
+        "A) Break a sports record",
+        "B) Have the most people do something together",
+        "C) Score the most points",
+        "D) Meet a famous player"
+      ],
+      "answer": "B",
+      "explanation": "The video mentions 'We need 200 people from every US state to set this world record' and 'We are going to set a new world record.' This suggests they need many people to participate together.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "world record",
+        "stadium",
+        "participate"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "How does the vlogger describe watching sports in person according to the video?",
+      "options": [
+        "A) It's boring",
+        "B) It's the most fun to watch in person",
+        "C) It's not worth it",
+        "D) It's too expensive"
+      ],
+      "answer": "B",
+      "explanation": "The video states 'I think out of all the sports, it's probably the most fun to watch in person.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sports",
+        "watch",
+        "fun"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the vlogger mean by 'We took an hour-long Uber to our first tourist attraction'?",
+      "options": [
+        "A) They walked for an hour",
+        "B) They drove themselves for an hour",
+        "C) They took a ride-sharing car for an hour",
+        "D) They took a bus for an hour"
+      ],
+      "answer": "C",
+      "explanation": "Uber is a ride-sharing service. 'An hour-long Uber' means taking an Uber ride that lasted approximately one hour.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Uber",
+        "transportation",
+        "tourist"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What attraction has a ferris wheel according to the video?",
+      "options": [
+        "A) Hollywood sign",
+        "B) Dodger Stadium",
+        "C) Santa Monica Pier",
+        "D) The airport"
+      ],
+      "answer": "C",
+      "explanation": "The video mentions 'It has 8 million visitors per year, and it has a ferris wheel' in reference to Santa Monica Pier.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ferris wheel",
+        "Santa Monica Pier",
+        "attraction"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "speaking",
+      "question": "Describe a tourist attraction you have visited. What makes it special? Use the vocabulary from the video like 'underrated', 'overrated', or 'eventful'.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生描述一个去过的旅游景点，并使用视频中提到的词汇如'underrated'、'overrated'或'eventful'来描述。",
+      "referenceAnswer": "考生应描述一个具体的旅游地点，说明它的特点，可以对比'underrated'或'overrated'的评价，并描述是否'e ventful'（多姿多彩的）。可以提到照片、体验等活动。",
+      "hint": "Consider mentioning: 1) A specific place you visited 2) Whether it's underrated or overrated 3) What made it memorable 4) Use words like 'eventful', 'photo op', or 'banger photos'",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tourist attraction",
+        "underrated",
+        "overrated",
+        "eventful"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'We got some banger photos' mean?",
+      "options": [
+        "A) We took noisy photos",
+        "B) We got some great photos",
+        "C) We broke our cameras",
+        "D) We didn't get any photos"
+      ],
+      "answer": "B",
+      "explanation": "'Banger' is modern slang meaning 'awesome' or 'excellent'. The phrase means they got some really great/amazing photos.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "banger",
+        "photos",
+        "slang"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "If you could visit Los Angeles, which place would you want to go first - Santa Monica Pier, Hollywood sign, or Dodger Stadium? Explain why.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生选择想去洛杉矶的哪个地方并解释原因。",
+      "referenceAnswer": "考生应选择Santa Monica Pier、Hollywood sign或Dodger Stadium中的一个，说明原因。可以提到：1) 为什么选择这个地方 2) 想做什么（如看比赛、拍照、坐摩天轮） 3) 是否会成为'photo op'",
+      "hint": "Think about: 1) Which place interests you most 2) What activities you would do there 3) Would it be a good 'photo op'? 4) Use vocabulary from the video",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Los Angeles",
+        "tourist attraction",
+        "preference"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "In the video, the vlogger says 'It doesn't get much more American than this.' What does this expression mean?",
+      "options": [
+        "A) This is not very American",
+        "B) This is very typical/traditional American",
+        "C) This is not American enough",
+        "D) This is too American"
+      ],
+      "answer": "B",
+      "explanation": "'It doesn't get much more American than this' is an expression meaning 'this is extremely American' or 'this represents typical American culture' - in this case, referring to a classic American sports experience.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "American",
+        "expression",
+        "typical"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'We might just have to get two or three or four' likely mean in context?",
+      "options": [
+        "A) We need to buy multiple items",
+        "B) We need to leave early",
+        "C) We need to call more people",
+        "D) We need to find more places"
+      ],
+      "answer": "A",
+      "explanation": "Based on the context of buying food or items at the stadium, this phrase likely means they might need to get several of something (probably food or drinks).",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "get",
+        "multiple",
+        "purchase"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "The vlogger says Santa Monica Pier is 'overrated' while some might say it's 'underrated'. Which perspective do you agree with and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生表达对Santa Monica Pier评价的看法。",
+      "referenceAnswer": "考生应表明立场：认为被overrated（高估）还是underrated（低估），并给出理由。可以说因为人多、门票贵等因素认为overrated，或者说因为海滩、摩天轮等活动认为underrated。",
+      "hint": "Consider: 1) Do you think popular tourist spots are usually overrated or underrated? 2) What factors make a place overrated or underrated? 3) Give specific reasons for your opinion",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "overrated",
+        "underrated",
+        "opinion",
+        "reason"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does 'We are going to set a new world record' imply about the activity?",
+      "options": [
+        "A) It will be done individually",
+        "B) It requires many people participating together",
+        "C) It is very easy to accomplish",
+        "D) It has never been tried before"
+      ],
+      "answer": "B",
+      "explanation": "Setting a world record typically involves a group of people doing something together to achieve a collective goal, as mentioned in the video about needing 200 people from every US state.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "world record",
+        "participate",
+        "group"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'the doors are opening to the stadium' mean?",
+      "options": [
+        "A) The stadium is closing",
+        "B) The stadium is opening/allowing entry",
+        "C) There are no doors",
+        "D) They are leaving the stadium"
+      ],
+      "answer": "B",
+      "explanation": "'The doors are opening' means the stadium is opening its gates to allow people to enter, similar to how venues announce when they start letting audiences in.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "stadium",
+        "doors",
+        "enter"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "What do you think makes a tourist attraction 'underrated' or 'overrated'? Can you give an example from your own experience?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求考生解释什么使得一个景点被高估或低估，并给出自己的例子。",
+      "referenceAnswer": "考生应解释：1) 什么是underrated（被低估）和overrated（被高估） 2) 什么因素导致这种评价（媒体宣传、社交网络、个人期望等） 3) 可以给出自己去过的一个景点的例子",
+      "hint": "Think about: 1) What causes a place to be overrated? (Social media hype, too many tourists, etc.) 2) What causes a place to be underrated? (Lack of promotion, hidden gems) 3) Give a specific example from your experience",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "underrated",
+        "overrated",
+        "tourist attraction",
+        "experience"
+      ]
+    }
+  ]
+}

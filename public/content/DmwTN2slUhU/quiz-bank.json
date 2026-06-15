@@ -1,0 +1,554 @@
+{
+  "videoId": "DmwTN2slUhU",
+  "title": "A Day in the Life of a Harvard Computer Science Student",
+  "generatedAt": "2026-06-15T14:13:20.582Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 7,
+    "medium": 12,
+    "hard": 5,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'freshman' refer to in this context?",
+      "options": [
+        "A) A first-year university student",
+        "B) A high school student",
+        "C) A teaching assistant",
+        "D) A graduate student"
+      ],
+      "answer": "A",
+      "explanation": "在哈佛的语境中，'freshman'指的是大学一年级学生。视频中John Fish明确说他是一名freshman studying computer science。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 32.6,
+      "endTime": 37.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "freshman",
+        "student",
+        "Harvard"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is a 'guest lecture' as mentioned in the video?",
+      "options": [
+        "A) A regular class taught by the professor",
+        "B) A special lecture given by someone from outside the school",
+        "C) A recorded video lecture",
+        "D) A group study session"
+      ],
+      "answer": "B",
+      "explanation": "guest lecture指的是由外部人士（通常是行业专家或其他学校的教授）来进行的特别讲座。视频中提到CS课程有一场客座讲座。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 219.9,
+      "endTime": 227.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "guest lecture",
+        "class",
+        "course"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'kill some time' mean in this context?",
+      "options": [
+        "A) End someone's life",
+        "B) Waste time doing something unimportant",
+        "C) Finish a difficult task",
+        "D) Solve a time-related problem"
+      ],
+      "answer": "B",
+      "explanation": "'Kill some time'是一个常用表达，意思是消磨时间、做些事情来打发空闲时间。视频中John说他有一个小时的课间时间，要'kill some time'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 227.3,
+      "endTime": 233.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "kill some time",
+        "idiom",
+        "free time"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'hit nine hours of sleep' mean?",
+      "options": [
+        "A) Impact someone who sleeps nine hours",
+        "B) Achieve the goal of sleeping nine hours",
+        "C) Fall asleep at nine o'clock",
+        "D) Knock someone who is sleeping"
+      ],
+      "answer": "B",
+      "explanation": "'Hit'在这里是达到、实现的意思。'Hit nine hours of sleep'意思是达到睡九小时的目标。这是John当天的目标之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 120.3,
+      "endTime": 126.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hit",
+        "goal",
+        "sleep"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What programming language is mentioned as being used by Jane Street?",
+      "options": [
+        "A) Python",
+        "B) Java",
+        "C) OCaml",
+        "D) C++"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到Jane Street是一家投资公司，他们使用OCaml，这是一种函数式编程语言。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 247.5,
+      "endTime": 253.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "OCaml",
+        "Jane Street",
+        "programming language"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Which of the following is NOT one of the courses John is taking?",
+      "options": [
+        "A) Swedish",
+        "B) Expos",
+        "C) Physics",
+        "D) Linear algebra"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到他选的课程有：Swedish（瑞典语）、Expos（写作课程）、Linear algebra（线性代数）和CS51。没有提到Physics（物理）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 574.6,
+      "endTime": 580,
+      "difficulty": "easy",
+      "relatedWords": [
+        "courses",
+        "Swedish",
+        "Expos",
+        "Linear algebra"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is CS51 primarily about?",
+      "options": [
+        "A) Web development",
+        "B) Functional programming",
+        "C) Database management",
+        "D) Computer hardware"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到CS51是函数式编程课程（functional programming class），John在描述今天的讲座时也提到了functional programming。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 242.1,
+      "endTime": 247.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "CS51",
+        "functional programming",
+        "computer science"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'problem set' refer to in the video?",
+      "options": [
+        "A) A set of problems in a restaurant",
+        "B) A collection of homework exercises",
+        "C) A difficult situation",
+        "D) A broken set of tools"
+      ],
+      "answer": "B",
+      "explanation": "'Problem set'是学术用语，指一系列作业练习或问题。视频中John提到'work on a problem set'就是做作业练习的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 233.2,
+      "endTime": 239,
+      "difficulty": "medium",
+      "relatedWords": [
+        "problem set",
+        "homework",
+        "exercise"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Where does John eat breakfast according to the video?",
+      "options": [
+        "A) His dorm room",
+        "B) Widener Library",
+        "C) Annenberg",
+        "D) A local café"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到Annenberg是哈佛新生餐厅，John要去那里吃早餐（grab some breakfast）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 42,
+      "endTime": 46.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Annenberg",
+        "breakfast",
+        "dining hall"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is 'Expos' short for in Harvard's curriculum?",
+      "options": [
+        "A) Exposure therapy",
+        "B) Exposition writing",
+        "C) Expository writing course",
+        "D) Export studies"
+      ],
+      "answer": "C",
+      "explanation": "Expos是哈佛大学的写作课程，全称是Expository Writing（说明文写作），是所有新生必修的写作课程。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 574.6,
+      "endTime": 580,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Expos",
+        "writing course",
+        "Harvard"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does John plan to do at 9 p.m. according to the video?",
+      "options": [
+        "A) Go to a party",
+        "B) Start reading and brushing teeth",
+        "C) Meet his friends",
+        "D) Watch a movie"
+      ],
+      "answer": "B",
+      "explanation": "视频中John说'it's like 9 o'clock - well, 9:05, and I'm going to start reading and brushing my teeth'，这是他晚上的计划。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 622.8,
+      "endTime": 622.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "reading",
+        "brushing teeth",
+        "evening"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the name of the famous library mentioned in the video?",
+      "options": [
+        "A) Boston Public Library",
+        "B) Widener Library",
+        "C) Cambridge Library",
+        "D) Kennedy Library"
+      ],
+      "answer": "B",
+      "explanation": "视频中John特别提到There's Widener Library by the way。Widener Library是哈佛最著名的图书馆。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 189.1,
+      "endTime": 189.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Widener Library",
+        "Harvard",
+        "library"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the phrase 'rolling back from lunch' mean?",
+      "options": [
+        "A) Returning from lunch in a vehicle",
+        "B) Going back to have lunch again",
+        "C) Walking back from lunch",
+        "D) Cancelling a lunch appointment"
+      ],
+      "answer": "C",
+      "explanation": "'Rolling back'在这里是非正式的口语表达，意思是返回、回去。'Rolling back from lunch'就是吃完午餐后走回来。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 205.6,
+      "endTime": 219.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "rolling back",
+        "lunch",
+        "informal"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'growth book' refer to in the video?",
+      "options": [
+        "A) A book about growing plants",
+        "B) A journal for tracking personal development",
+        "C) A textbook for growth",
+        "D) A library book about success"
+      ],
+      "answer": "B",
+      "explanation": "John说他有一个'growth book'，用来记录个人成长和目标。这是一个用来追踪个人发展和成长的日志或笔记本。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 85.8,
+      "endTime": 89.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "growth book",
+        "personal development",
+        "journal"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "Why does John say the guest lecture was 'pretty insightful'?",
+      "options": [
+        "A) Because it was very boring",
+        "B) Because it provided valuable and deep understanding",
+        "C) Because it was too technical",
+        "D) Because it was recorded"
+      ],
+      "answer": "B",
+      "explanation": "'Insightful'意为有深刻见解的、有启发性的。John说客座讲座'pretty insightful'是在赞美讲座内容很有价值，让他学到了新东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 310.5,
+      "endTime": 312.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "insightful",
+        "lecture",
+        "valuable"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'brush up on' mean in the context of the video?",
+      "options": [
+        "A) To clean something with a brush",
+        "B) To review and improve skills",
+        "C) To give up on something",
+        "D) To push something forward"
+      ],
+      "answer": "B",
+      "explanation": "'Brush up on'是固定搭配，意思是复习、温习（某方面的知识或技能）。视频中提到用来复习和加强学习。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 654.8,
+      "endTime": 661.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "brush up on",
+        "review",
+        "skills"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What time does John's first class begin according to the video?",
+      "options": [
+        "A) 8:00 a.m.",
+        "B) 8:15 a.m.",
+        "C) 9:00 a.m.",
+        "D) 10:00 a.m."
+      ],
+      "answer": "C",
+      "explanation": "视频中John说'it's now 8:15 a.m. And my first class begins at 9:00'，所以他的第一节课是早上9点开始。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 72.4,
+      "endTime": 80,
+      "difficulty": "easy",
+      "relatedWords": [
+        "first class",
+        "9:00",
+        "schedule"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the main purpose of using Brilliant.org according to John?",
+      "options": [
+        "A) To watch videos",
+        "B) To reinforce learning and learn new things",
+        "C) To find a job",
+        "D) To communicate with friends"
+      ],
+      "answer": "B",
+      "explanation": "John提到Brilliant能够both reinforce what you're learning and to learn new things，这是一个学习平台，用来巩固所学和 学习新知识。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 654.8,
+      "endTime": 661.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Brilliant.org",
+        "learning",
+        "reinforce"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'sub goals' mean in the video?",
+      "options": [
+        "A) Inferior goals",
+        "B) Secondary or smaller goals that support the main goal",
+        "C) Goals about submarines",
+        "D) Failed goals"
+      ],
+      "answer": "B",
+      "explanation": "'Sub goals'指的是子目标、次要目标，是为实现主要目标而设定的较小目标。视频中提到用目标和子目标来规划生活。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 464,
+      "endTime": 470.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sub goals",
+        "goals",
+        "planning"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe your typical daily schedule based on what you learned from John's video. What classes does he take and what activities does he do in a day?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频内容描述John的日程安排，包括他上什么课以及一天中做哪些活动。",
+      "referenceAnswer": "John wakes up early, has breakfast at Annenberg, attends classes including Swedish, Expos, Linear algebra, and CS51. He studies at Widener Library, does homework and problem sets, and has a goal to get 9 hours of sleep.",
+      "hint": "Think about his morning routine, classes, study time, and evening activities. Mention the specific courses he takes.",
+      "startTime": 32.6,
+      "endTime": 37.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "schedule",
+        "daily routine",
+        "classes"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What study strategies or learning tips did John mention in the video? Explain how he uses Brilliant.org and his 'growth book'.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求学生解释John提到的学习策略，包括他如何使用Brilliant.org和他的growth book。",
+      "referenceAnswer": "John uses Brilliant.org to reinforce learning and learn new things. He also keeps a 'growth book' to track his personal development and motivation. He mentioned reviewing lecture materials and working on problem sets.",
+      "hint": "Focus on the study tools he mentioned: Brilliant.org and the growth book. Also mention his approach to reviewing materials.",
+      "startTime": 85.8,
+      "endTime": 100.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "study strategies",
+        "Brilliant",
+        "growth book"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "If you were a computer science student at Harvard like John, which of his courses would you find most interesting and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，让学生假想自己是哈佛CS学生，讨论对John所上课程中哪门最感兴趣以及为什么。",
+      "referenceAnswer": "Students should mention one or more of the courses: Swedish, Expos (writing), Linear algebra, or CS51 (functional programming). They should explain why it would be interesting based on the video content, such as the guest lecture about functional programming or Jane Street using OCaml.",
+      "hint": "Refer to the courses mentioned in the video: Swedish, Expos, Linear algebra, and CS51. Consider the guest lecture about functional programming.",
+      "startTime": 242.1,
+      "endTime": 264.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "courses",
+        "computer science",
+        "functional programming"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'clear up my confusion' mean in the video?",
+      "options": [
+        "A) Make things dirty",
+        "B) Resolve or eliminate confusion",
+        "C) Cover things up",
+        "D) Make things more confusing"
+      ],
+      "answer": "B",
+      "explanation": "'Clear up'意思是澄清、消除（困惑）。'Clear up my confusion'就是解决疑问、消除困惑的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 668,
+      "endTime": 672.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "clear up",
+        "confusion",
+        "understand"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What did John create that was produced by a company?",
+      "options": [
+        "A) A new app",
+        "B) A video",
+        "C) A series of educational content",
+        "D) A computer program"
+      ],
+      "answer": "C",
+      "explanation": "视频中John说'I actually just had a company produce a bunch of them'，这里的'them'指的是他制作的内容（from his YouTube channel）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 136.1,
+      "endTime": 141,
+      "difficulty": "hard",
+      "relatedWords": [
+        "produce",
+        "company",
+        "content"
+      ]
+    }
+  ]
+}

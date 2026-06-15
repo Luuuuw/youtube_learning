@@ -1,0 +1,548 @@
+{
+  "videoId": "y46hvE9JAXo",
+  "title": "‘clean girl’ makeup & hair tutorial",
+  "generatedAt": "2026-06-15T09:10:57.360Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 7,
+    "medium": 13,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'slicked' mean in the context of hair styling?",
+      "options": [
+        "A) Wet and messy",
+        "B) Smooth and neatly styled",
+        "C) Curly and voluminous",
+        "D) Dyed in bright colors"
+      ],
+      "answer": "B",
+      "explanation": "在这个美妆教程中，'slicked' 指的是将头发梳得光滑平整，例如 'slicked up' 表示把头发向后梳得光滑整洁，这是 'clean girl' 发型的典型特征。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 136.3,
+      "endTime": 141.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "slicked",
+        "hair",
+        "sleek"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "In the video, what does the speaker mean by 'ride or die'?",
+      "options": [
+        "A) A product that is very cheap",
+        "B) A product the speaker cannot live without",
+        "C) A product that expires quickly",
+        "D) A product for sensitive skin"
+      ],
+      "answer": "B",
+      "explanation": "'Ride or die' 是一个俚语，表示非常重要、离不开的人或事物。在这个上下文中，美妆博主说她使用的 Kylie lip and cheek glow balm 是她的 'ride or die'，意思是这是她每天必用的产品，离不开它。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 317.9,
+      "endTime": 322.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "ride or die",
+        "product",
+        "everyday"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is 'blending' in makeup terminology as used in this video?",
+      "options": [
+        "A) Mixing different foundations together",
+        "B) Smoothly spreading and merging makeup products",
+        "C) Adding more product to a specific area",
+        "D) Removing makeup completely"
+      ],
+      "answer": "B",
+      "explanation": "在美妆教程中，'blending' 指的是将化妆品平滑地晕开、融合，使其过渡自然。视频中提到 'with the blending for blush'，意思是她正在晕开腮红，使其看起来自然。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 312.6,
+      "endTime": 317.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "blending",
+        "blush",
+        "makeup"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'overlining lips' mean in this tutorial?",
+      "options": [
+        "A) Applying lip balm on lips",
+        "B) Drawing the lip liner slightly outside the natural lip line",
+        "C) Wearing lipstick inside the mouth",
+        "D) Removing old lip makeup"
+      ],
+      "answer": "B",
+      "explanation": "'Overlining' 是一种化妆技巧，指的是将唇线画在自然唇线之外，以使嘴唇看起来更饱满。视频中提到 'taking a darker lip liner and overlining my lips'，就是这个意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 485.4,
+      "endTime": 491,
+      "difficulty": "medium",
+      "relatedWords": [
+        "overlining",
+        "lip liner",
+        "lips"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is the main characteristic of 'clean girl' makeup according to this video?",
+      "options": [
+        "A) Heavy contouring and dramatic eyes",
+        "B) Bold red lipstick",
+        "C) Minimal, natural-looking with glowing skin",
+        "D) Dark smoky eyeshadow"
+      ],
+      "answer": "C",
+      "explanation": "视频中描述 'clean girl' 妆容是 'girls with perfect glossy glowy skin just looking absolutely Flawless with minimal makeup'，即完美有光泽的皮肤，看起来无瑕，妆容 minimal（minimal makeup）即简约自然的妆容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 166.7,
+      "endTime": 175.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "clean girl",
+        "minimal makeup",
+        "glowy skin"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the speaker suggest about using powder products in this tutorial?",
+      "options": [
+        "A) Use powder for full coverage",
+        "B) Avoid heavy powder, prefer cream/liquid products",
+        "C) Apply powder before primer",
+        "D) Use powder on eyebrows"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到 'I'm going to stick to a majority of like cream liquid products' 以及 'liquid products are so much better'，博主建议尽量使用 cream（膏状）和 liquid（液体）产品，而不是粉状产品，以保持妆容的自然感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 279,
+      "endTime": 284.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cream liquid products",
+        "powder",
+        "natural"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is a 'scrunchie' used for in this hair tutorial?",
+      "options": [
+        "A) Cleaning hair",
+        "B) Pulling hair up into a bun or ponytail",
+        "C) Dying hair",
+        "D) Curling hair"
+      ],
+      "answer": "B",
+      "explanation": "'Scrunchie' 是一种发圈，通常用于扎头发。视频中多次提到 'I'm going to grab my scrunchie and pull my hair up'，意思是使用发圈把头发扎起来。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 52.2,
+      "endTime": 56.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "scrunchie",
+        "hair",
+        "pull up"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'get the hang of' mean in this context?",
+      "options": [
+        "A) Get rid of something",
+        "B) Learn how to do something properly",
+        "C) Hang something on the wall",
+        "D) Lose interest in something"
+      ],
+      "answer": "B",
+      "explanation": "'Get the hang of' 是固定搭配，意思是 '掌握、学会（某事）'。视频中说 'anyone can rock you know once you get the hang of it'，意思是任何人都可以驾驭这个造型，一旦你学会了技巧。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 15.8,
+      "endTime": 20.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "get the hang of",
+        "tutorial",
+        "learn"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the function of 'brow gel' as shown in the video?",
+      "options": [
+        "A) To fill in sparse eyebrows",
+        "B) To brush and set eyebrows in place",
+        "C) To remove eyebrows",
+        "D) To color eyebrows"
+      ],
+      "answer": "B",
+      "explanation": "视频中 'I'm now just taking a brow gel and really brushing my brows up and out'，说明 brow gel（眉毛胶）的作用是梳理眉毛，将其固定在一定位置，使眉毛看起来更整齐有形。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 379.7,
+      "endTime": 385,
+      "difficulty": "medium",
+      "relatedWords": [
+        "brow gel",
+        "eyebrows",
+        "brushing"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'rock' mean in the phrase 'anyone can rock this look'?",
+      "options": [
+        "A) To wear a rock/stone",
+        "B) To successfully wear or pull off a style",
+        "C) To shake the body",
+        "D) To play music"
+      ],
+      "answer": "B",
+      "explanation": "'Rock' 在口语中表示 '驾驭、成功展示（某个造型）'。'Anyone can rock this look' 意思是任何人都能驾驭这个造型，都适合这个妆容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 15.8,
+      "endTime": 20.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "rock",
+        "look",
+        "anyone"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is 'setting spray' used for in makeup?",
+      "options": [
+        "A) To remove makeup",
+        "B) To make makeup last longer and stay in place",
+        "C) To hydrate the skin",
+        "D) To clean makeup brushes"
+      ],
+      "answer": "B",
+      "explanation": "Setting spray（定妆喷雾）的作用是固定妆容，让妆面更持久。视频中提到 'there is no other setting spray or any spray like this'，说明这是用于定妆的重要产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 543.6,
+      "endTime": 548,
+      "difficulty": "medium",
+      "relatedWords": [
+        "setting spray",
+        "makeup",
+        "last"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker mean when she says 'embrace the flaws'?",
+      "options": [
+        "A) Cover up all imperfections with makeup",
+        "B) Accept and be comfortable with natural imperfections",
+        "C) Remove all blemishes from skin",
+        "D) Apply more concealer on flaws"
+      ],
+      "answer": "B",
+      "explanation": "'Embrace the flaws' 意思是接受并拥抱自己的不完美。视频中说 'makeup is very minimal so it is important to embrace the flaws'，意思是既然妆容很淡，就应该接受自己原本的样貌，不要力求完美。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 184.6,
+      "endTime": 189.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "embrace",
+        "flaws",
+        "minimal makeup"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is 'highlighter' used for in this clean girl makeup look?",
+      "options": [
+        "A) To contour the face",
+        "B) To add shine/glow to high points of the face",
+        "C) To cover dark circles",
+        "D) To fill in eyebrows"
+      ],
+      "answer": "B",
+      "explanation": "Highlighter（高光）用于提亮面部的高光区域，如颧骨、鼻梁、眉骨等，使皮肤看起来有光泽感。视频中反复提到高光产品，用于打造 'glowy' 有光泽的妆效。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 432.7,
+      "endTime": 439.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "highlighter",
+        "glow",
+        "face"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'lifted' refer to when describing the makeup result?",
+      "options": [
+        "A) Raised eyebrows",
+        "B) Face looking more lifted/youthful",
+        "C) Hair pulled up high",
+        "D) Eyes open wider"
+      ],
+      "answer": "B",
+      "explanation": "视频中多次提到 'look at how lifted this side looks'，'honestly lifted my face so much'，指的是通过化妆技巧（如下高光、腮红位置）让面部看起来更紧致、更年轻、更有立体感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 265.2,
+      "endTime": 269,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lifted",
+        "face",
+        "contouring"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What type of products does the speaker recommend for achieving a natural look?",
+      "options": [
+        "A) Powder-based products",
+        "B) Cream and liquid products",
+        "C) Water-based products only",
+        "D) Matte products"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到 'I'm going to stick to a majority of like cream liquid products'，博主建议使用膏状和液体产品，因为它们更贴合皮肤，能打造自然有光泽的妆容效果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 279,
+      "endTime": 284.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cream liquid products",
+        "natural look",
+        "makeup"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the 'wing liner' mentioned in the video?",
+      "options": [
+        "A) A type of setting spray",
+        "B) Eyeliner that extends outward at the corner",
+        "C) Lip liner",
+        "D) Eyebrow liner"
+      ],
+      "answer": "B",
+      "explanation": "'Wing liner' 指的是 '眼线' 的一种画法，即在眼角向外延伸，形成翅膀般的形状。视频中说 'since we aren't wearing a wing liner today'，说明她们今天不画这种外眼线。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 515.6,
+      "endTime": 520.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "wing liner",
+        "eyeliner",
+        "eyes"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker say about using this hairstyle for 'greasy end of the week pre wash hair'?",
+      "options": [
+        "A) This hairstyle works well for day-old unwashed hair",
+        "B) You must wash your hair before this style",
+        "C) This style makes hair more greasy",
+        "D) This hairstyle requires freshly washed hair"
+      ],
+      "answer": "A",
+      "explanation": "视频中说 'this hairstyle is great for like greasy end of the week pre wash hair'，意思是这个发型非常适合周末前头发变油、还没洗头的时候，说明这个 slicked 发型可以掩盖油腻的头发。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 26.2,
+      "endTime": 32.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "greasy",
+        "pre wash hair",
+        "hairstyle"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "Describe the key steps to achieve the 'clean girl' makeup look based on the video. What products and techniques are mentioned?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频内容描述 'clean girl' 妆容的关键步骤和使用的技巧及产品。",
+      "referenceAnswer": "1. Hair: slicked back/sleek style using scrunchie, hair slicker\n2. Skin: minimal, natural, glowy skin with light concealer\n3. Cheeks: blush and highlighter for glowy effect\n4. Lips: lip balm, lip liner for overlining\n5. Brows: brow gel to brush brows up and out\n6. Products: mainly cream/liquid products, minimal powder\n7. Setting: setting spray to lock the look",
+      "hint": "Think about: hair preparation, skin base, cheek products, lip care, eyebrows, and final setting step",
+      "startTime": 81.8,
+      "endTime": 597.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "clean girl makeup",
+        "steps",
+        "products"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "What does the speaker mean by 'minimal makeup'? Explain the philosophy behind this makeup style.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语理解题，要求学生解释 'minimal makeup' 的含义以及这种妆容风格的理念。",
+      "referenceAnswer": "Minimal makeup means using very little makeup products to enhance natural beauty rather than covering it up. The philosophy behind 'clean girl' aesthetic is: 1) embrace natural skin texture and imperfections 2) use products that enhance rather than mask 3) aim for a fresh, youthful, 'glowy' appearance 4) keep it simple and easy for everyday routine",
+      "hint": "Consider: natural vs. dramatic, embracing flaws, simplicity, everyday wearability",
+      "startTime": 206.8,
+      "endTime": 212.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "minimal makeup",
+        "philosophy",
+        "natural"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Why does the speaker recommend cream and liquid products over powder products for this look? Explain the reasoning.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生解释为什么博主推荐使用膏状和液体产品而不是粉状产品。",
+      "referenceAnswer": "The speaker prefers cream and liquid products because: 1) they provide more natural finish 2) they blend better for a seamless look 3) they create the desired 'glowy' effect 4) they don't strip moisture from the skin 5) they work better for the minimal/no-makeup makeup look 6) powder can look too heavy or cakey",
+      "hint": "Think about: natural finish, blending, glowy skin effect, moisture, overall look",
+      "startTime": 293.3,
+      "endTime": 297.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "cream liquid products",
+        "powder",
+        "reasoning"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What are the benefits of the hairstyle shown in this tutorial? For what occasions or hair conditions is it suitable?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频描述这个发型的优点以及适合的场合和发质条件。",
+      "referenceAnswer": "Benefits: 1) keeps hair away from face 2) looks sleek and polished 3) easy to do 4) professional and neat appearance. Suitable for: 1) 'greasy' day-old hair that needs hiding 2) everyday routine 3) quick polished look 4) warm weather when hair might get in the way 5) minimal effort styling",
+      "hint": "Consider: practical benefits, hair conditions mentioned, ease of maintenance",
+      "startTime": 496.5,
+      "endTime": 500.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hairstyle",
+        "benefits",
+        "suitable"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the speaker imply when she says 'there is no other setting spray or any spray like this'?",
+      "options": [
+        "A) Setting spray is not important",
+        "B) This particular setting spray is unique and essential",
+        "C) She doesn't use setting spray",
+        "D) All setting sprays are the same"
+      ],
+      "answer": "B",
+      "explanation": "这是夸张的表达，意思是这个定妆喷雾非常好用，无可替代。视频中说 'do without this spray there is no other setting spray or any spray like this'，暗示这是她最爱用的定妆产品，效果独一无二。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 543.6,
+      "endTime": 548,
+      "difficulty": "medium",
+      "relatedWords": [
+        "setting spray",
+        "unique",
+        "essential"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "In the context of this video, what does 'flawless' skin mean?",
+      "options": [
+        "A) Skin with many blemishes covered",
+        "B) Skin that looks perfect and smooth",
+        "C) Skin treated with laser",
+        "D) Skin that needs no skincare"
+      ],
+      "answer": "B",
+      "explanation": "'Flawless' 意思是完美无瑕的。视频中描述 'clean girl' 妆容是 'girls with perfect glossy glowy skin just looking absolutely Flawless'，指的是皮肤看起来完美光滑，有光泽但无明显瑕疵。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 166.7,
+      "endTime": 175.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "flawless",
+        "skin",
+        "perfect"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What is the purpose of using a 'hair slicker' in this tutorial?",
+      "options": [
+        "A) To curl the hair",
+        "B) To smooth down baby hairs and flyaways",
+        "C) To add volume to hair",
+        "D) To dye the hair"
+      ],
+      "answer": "B",
+      "explanation": "Hair slicker（梳子）用于梳理头发。视频中 'I'm taking this little hair Slicker I'm just brushing down any of my baby hairs'，意思是使用小梳子梳理碎发，使发型更整洁光滑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.9,
+      "endTime": 116.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hair slicker",
+        "baby hairs",
+        "smooth"
+      ]
+    }
+  ]
+}

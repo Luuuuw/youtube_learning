@@ -1,0 +1,547 @@
+{
+  "videoId": "Nb47nyC70uU",
+  "title": "I'm building a real liminal space.",
+  "generatedAt": "2026-06-15T10:05:34.084Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 8,
+    "medium": 11,
+    "hard": 5,
+    "choice": 19,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'liminal space' refer to in this video?",
+      "options": [
+        "A) A physical room with furniture",
+        "B) A transitional psychological state between different phases of life",
+        "C) A type of video game",
+        "D) A social media platform"
+      ],
+      "answer": "B",
+      "explanation": "视频中解释了liminal space是一个让你从日常干扰中脱离出来的空间，帮助人们进行内在探索和自我发现。它不是一个物理房间或游戏，而是一种心理状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 17.9,
+      "endTime": 23,
+      "difficulty": "easy",
+      "relatedWords": [
+        "liminal space",
+        "psychological",
+        "transition"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "When did the speaker first become aware of liminal spaces?",
+      "options": [
+        "A) In 2015",
+        "B) In 2017",
+        "C) In 2019 or 2020",
+        "D) In 2023"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到'Really since I came to know liminal spaces back in 2019, 2020'，即2019年或2020年。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 12.6,
+      "endTime": 17.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "2019",
+        "2020",
+        "liminal spaces"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is described as 'not pure' and 'not really of you'?",
+      "options": [
+        "A) Your dreams and aspirations",
+        "B) Insecurities, doubts, fears, and limiting beliefs",
+        "C) Your friends and family",
+        "D) Your physical body"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确列出：'what is not pure, what is not really of you... insecurities, doubts, fears, limiting beliefs, and you know, skewed perspectives'。这些都是阻碍个人成长的负面因素。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 347.7,
+      "endTime": 360.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "insecurities",
+        "doubts",
+        "fears",
+        "limiting beliefs"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "According to the speaker, where is our identity found?",
+      "options": [
+        "A) In external achievements",
+        "B) In social media followers",
+        "C) Within ourselves",
+        "D) In other people's opinions"
+      ],
+      "answer": "C",
+      "explanation": "视频中说'So, if we want to understand our identity to a deeper degree, and our identity is found within'，表明身份认同是向内寻找的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 259,
+      "endTime": 266.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "identity",
+        "within",
+        "understand"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the speaker compare the liminal space experience to?",
+      "options": [
+        "A) A workout session",
+        "B) A detox from external distractions",
+        "C) A party",
+        "D) A shopping trip"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'So, you could think of it like a detox from those things in a way'，将阈限空间比作一种排毒体验，帮助人们远离干扰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 398.5,
+      "endTime": 402.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "detox",
+        "distractions",
+        "experience"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What are the 'things that hold us back' according to the video?",
+      "options": [
+        "A) Money and wealth",
+        "B) Education and knowledge",
+        "C) Insecurities, doubts, fears, and limiting beliefs",
+        "D) Friends and family"
+      ],
+      "answer": "C",
+      "explanation": "视频明确提到'All the things that hold us back as individuals cuz they aren't of you'，紧接着列举了inscurities, doubts, fears, limiting beliefs等。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 363.9,
+      "endTime": 368.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hold us back",
+        "insecurities",
+        "doubts",
+        "fears"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the speaker want to create that is 'tangible'?",
+      "options": [
+        "A) A mobile app",
+        "B) A real liminal space experience in real life",
+        "C) A new video game",
+        "D) A social media platform"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'And my goal is to bring this experience into real life, something that's tangible'，表明 speaker 想把阈限空间的体验带入现实生活。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 139.7,
+      "endTime": 147.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tangible",
+        "real life",
+        "experience"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is described as 'the very reason' for accomplishing the speaker's lifelong goals?",
+      "options": [
+        "A) Money",
+        "B) The audience and community",
+        "C) External validation",
+        "D) Liminal spaces and self-reflection"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'The very reason that I've accomplished all my lifelong goals'，这里指的是观众和社群的支持。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 476.8,
+      "endTime": 480.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "lifelong goals",
+        "accomplished",
+        "reason"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker say is 'rare' in our daily lives?",
+      "options": [
+        "A) Making money",
+        "B) Being with ourselves in silence and without distraction",
+        "C) Watching TV",
+        "D) Going to work"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'It's really rare that we're ever just kind of with ourselves in silence and without distraction'，表明在安静中与自我相处是很稀有的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 300.8,
+      "endTime": 307.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "rare",
+        "silence",
+        "distraction"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the speaker plan to do in the future according to the video?",
+      "options": [
+        "A) Only make online content",
+        "B) Host events and speak to audience face-to-face",
+        "C) Close all social media accounts",
+        "D) Move to another country"
+      ],
+      "answer": "B",
+      "explanation": "视频中多次提到'host events and speak to you guys face-to-face'，表明 speaker 计划举办活动并与观众面对面交流。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 498.9,
+      "endTime": 504.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "host events",
+        "face-to-face",
+        "speak"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What do people often do in the comments according to the video?",
+      "options": [
+        "A) Only write short emojis",
+        "B) Write paragraphs describing their feelings and mental states",
+        "C) Only post links to other videos",
+        "D) Complain about the content"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'People write paragraphs in the comments and they're describing what they feel and the kind of mental state'，表明观众会在评论区写长段落描述他们的感受。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 102.7,
+      "endTime": 109.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "comments",
+        "paragraphs",
+        "feelings"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What kind of environment is the current world described as?",
+      "options": [
+        "A) Peaceful and calm",
+        "B) Filled with distraction and chaos",
+        "C) Empty and boring",
+        "D) Organized and structured"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'It's filled with distraction and chaos'，描述当今世界充满了干扰和混乱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 160.7,
+      "endTime": 167,
+      "difficulty": "easy",
+      "relatedWords": [
+        "distraction",
+        "chaos",
+        "environment"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the speaker say about 'external' things we invest in?",
+      "options": [
+        "A) They help us understand ourselves better",
+        "B) They can never truly define who we are",
+        "C) They are the most important things in life",
+        "D) They make us happier"
+      ],
+      "answer": "B",
+      "explanation": "视频开头提到'invested in things that are external, outside of us, then how can we understand who and what we really are?'，暗示外部事物无法让我们真正了解自己。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 313.8,
+      "endTime": 321,
+      "difficulty": "hard",
+      "relatedWords": [
+        "external",
+        "invested",
+        "understand"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is described as 'the truest things in life'?",
+      "options": [
+        "A) Money and fame",
+        "B) Things that are better felt than said",
+        "C) Social media followers",
+        "D) Material possessions"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'the truest things in life are better felt than said'，表明最真实的东西是那些难以言喻、需要用心感受的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 460.3,
+      "endTime": 466.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "truest things",
+        "felt than said",
+        "life"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker want to remove to see the 'real self'?",
+      "options": [
+        "A) Money",
+        "B) The noise and distractions",
+        "C) All friends",
+        "D) Technology entirely"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'We need to remove the noise, and allow the dust to settle so that we can see what'，这里的'noise'指的是干扰和噪音，需要清除它们才能看清真正的自我。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 268.9,
+      "endTime": 274.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "remove the noise",
+        "dust settle",
+        "see"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What are early stages of something described as in the video?",
+      "options": [
+        "A) The final stages",
+        "B) Not important",
+        "C) Just the beginning of the journey",
+        "D) Something to avoid"
+      ],
+      "answer": "C",
+      "explanation": "视频中说'But these are the early stages'，这是对某个过程的描述，暗示这些只是早期阶段。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 509,
+      "endTime": 511,
+      "difficulty": "easy",
+      "relatedWords": [
+        "early stages",
+        "progress",
+        "journey"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker say about the liminal space being built?",
+      "options": [
+        "A) It's already completed",
+        "B) It's specifically designed to remove people from distraction and chaos",
+        "C) It's only for video game players",
+        "D) It's impossible to create"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'The liminal space that I'm creating will be specifically designed to allow somebody to remove themselves from this type of environment, one of distraction and chaos'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 187.1,
+      "endTime": 193.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "specifically designed",
+        "remove",
+        "distraction"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does the speaker want to do with followers' comments?",
+      "options": [
+        "A) Ignore them",
+        "B) Read through all of them",
+        "C) Delete them",
+        "D) Only read the short ones"
+      ],
+      "answer": "B",
+      "explanation": "视频结尾说'So, you can bet that I will be reading through all of your comments about liminality'，表明 speaker 会阅读所有关于阈限性的评论。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 586.2,
+      "endTime": 591.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "reading through",
+        "comments",
+        "liminality"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Describe what a 'liminal space' means to you based on what you learned from this video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频内容描述对'liminal space'的理解。学生需要结合视频中提到的概念，如内在探索、去除干扰、自我发现等来作答。",
+      "referenceAnswer": "A liminal space is a transitional environment that allows individuals to step away from daily distractions and chaos. It provides an opportunity for deep self-reflection and internal transformation, helping people discover their true identity beyond external validations. The speaker wants to create a tangible experience that brings this concept into real life.",
+      "hint": "Think about: 1) What is liminal space? 2) Why is it important? 3) How does it help with self-discovery?",
+      "startTime": 17.9,
+      "endTime": 23,
+      "difficulty": "medium",
+      "relatedWords": [
+        "liminal space",
+        "transition",
+        "self-discovery"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What are some things that 'hold us back' according to the video? Explain why they prevent personal growth.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生列出视频中提到的阻碍个人成长的因素，并解释为什么它们会阻碍成长。",
+      "referenceAnswer": "According to the video, things that hold us back include insecurities, doubts, fears, limiting beliefs, and skewed perspectives. These are described as 'not pure' and 'not really of you' - they are external attachments that don't represent our true identity. They prevent personal growth because they create mental barriers and distort how we see ourselves, keeping us stuck in a cycle of self-doubt rather than allowing us to connect with our authentic selves.",
+      "hint": "List: insecurities, doubts, fears, limiting beliefs. Explain: how they create barriers and prevent authentic self-discovery.",
+      "startTime": 347.7,
+      "endTime": 360.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "insecurities",
+        "doubts",
+        "fears",
+        "limiting beliefs"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Why does the speaker compare the liminal space experience to a 'detox'? Use details from the video to explain your answer.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生解释为什么 speaker 把阈限空间比作' detox（排毒）'，需要用到视频中的具体细节。",
+      "referenceAnswer": "The speaker compares it to a detox because just as a detox cleanses the body from harmful substances, a liminal space cleanses the mind from distractions and external noises. The video explains that we need to 'remove the noise' and 'allow the dust to settle' - similar to how toxins are removed during a detox. This allows us to see our 'real identity' clearly, just like a detox helps the body function better. The liminal space is designed to help people disconnect from the chaotic world and reconnect with their true selves.",
+      "hint": "Key points: 1) Remove noise 2) See clearly 3) Reconnect with true self 4) Like cleansing harmful things",
+      "startTime": 398.5,
+      "endTime": 402.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "detox",
+        "remove the noise",
+        "clear"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What does the speaker hope to achieve by hosting face-to-face events?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频内容描述 speaker 举办线下活动的目的。",
+      "referenceAnswer": "By hosting face-to-face events, the speaker hopes to dive deeper into the concepts and ideas about liminality with their audience directly. The video mentions 'host events and speak to you guys face-to-face about these ideas and about these concepts' and 'traveling around the world and actually speaking with you guys face-to-face, diving deeper into this concept'. This shows the speaker wants to create a more personal and immersive experience to spread their vision and connect with their community on a deeper level.",
+      "hint": "Think about: 1) Direct communication 2) Deeper exploration of concepts 3) Building community 4) Sharing vision personally",
+      "startTime": 498.9,
+      "endTime": 504.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "face-to-face",
+        "events",
+        "diving deeper"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "According to the video, why is it important to spend time in silence without distraction?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生解释为什么在安静无干扰的环境中独处很重要，需要结合视频中的观点。",
+      "referenceAnswer": "According to the video, it's important because 'it's really rare that we're ever just kind of with ourselves in silence and without distraction.' The speaker emphasizes that in today's world filled with 'distraction and chaos,' we rarely have the opportunity to truly connect with ourselves. This silence allows us to understand our identity better since 'our identity is found within.' Without distractions, we can see our 'real self' and experience internal transformation, which is the core purpose of the liminal space the speaker is building.",
+      "hint": "Key reasons: 1) Rare opportunity 2) Understand true identity 3) See real self 4) Experience transformation",
+      "startTime": 300.8,
+      "endTime": 307.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "silence",
+        "distraction",
+        "identity",
+        "rare"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What example does the speaker give of early stages of achieving something?",
+      "options": [
+        "A) Getting a job",
+        "B) Achieving 100,000 followers or subscribers on YouTube",
+        "C) Buying a house",
+        "D) Learning to drive"
+      ],
+      "answer": "B",
+      "explanation": "视频中举例说'like, you know, achieving 100,000 followers or subscribers on on YouTube'，这是 speaker 提到的关于早期阶段的例子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 480.4,
+      "endTime": 485.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "100,000 followers",
+        "YouTube",
+        "early stages"
+      ]
+    }
+  ]
+}

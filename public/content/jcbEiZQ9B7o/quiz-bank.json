@@ -1,0 +1,548 @@
+{
+  "videoId": "jcbEiZQ9B7o",
+  "title": "our conception of love is messed up.",
+  "generatedAt": "2026-06-15T08:07:26.099Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 7,
+    "medium": 10,
+    "hard": 7,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "According to the video, what does Fromm compare love to?",
+      "options": [
+        "A) A science",
+        "B) An art",
+        "C) A business",
+        "D) A game"
+      ],
+      "answer": "B",
+      "explanation": "Fromm compares love to an art, suggesting that like playing a musical instrument, love requires practice, dedication, and skill development.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 514.2,
+      "endTime": 520.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Fromm",
+        "art",
+        "love"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the video say about playing piano?",
+      "options": [
+        "A) It's easier than love",
+        "B) You can't be good only by playing when you feel like it",
+        "C) It's not worth the effort",
+        "D) It's similar to watching TV"
+      ],
+      "answer": "B",
+      "explanation": "The video uses piano playing as an analogy - just as you can't become good at piano by only practicing when you feel like it, the same applies to love.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 527.5,
+      "endTime": 534.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "piano",
+        "practice",
+        "effort"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the term 'hyperreality' refer to in this context?",
+      "options": [
+        "A) Real-life experiences",
+        "B) Reality being imitated until it's more real than reality itself",
+        "C) Historical documentaries",
+        "D) Scientific facts"
+      ],
+      "answer": "B",
+      "explanation": "Hyperreality refers to when we end up imitating copies of reality so much that the imitation becomes more real to us than actual reality.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1065.1,
+      "endTime": 1072.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "hyperreality",
+        "imitation",
+        "copies"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What example does the video give about how media shapes our perception?",
+      "options": [
+        "A) Cooking shows",
+        "B) Vietnam War and romantic movies",
+        "C) Sports broadcasts",
+        "D) News documentaries"
+      ],
+      "answer": "B",
+      "explanation": "The video uses Vietnam War and romantic movies (like Friends, How I Met Your Mother) as examples of how media shapes what we consider real.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1001.8,
+      "endTime": 1022.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Vietnam War",
+        "media",
+        "perception"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the 'hyper girlfriend, calm boyfriend trope' refer to?",
+      "options": [
+        "A) A new dating trend",
+        "B) A stereotypical pattern often seen in media",
+        "C) A scientific theory",
+        "D) A type of social media content"
+      ],
+      "answer": "B",
+      "explanation": "This refers to a stereotypical relationship pattern commonly portrayed in movies and TV shows - the hyperactive/emotional girlfriend and the calm/collected boyfriend.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1142.3,
+      "endTime": 1148.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "trope",
+        "girlfriend",
+        "boyfriend"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "According to the video, what happens when we see magical love moments on screen?",
+      "options": [
+        "A) We become more realistic about love",
+        "B) We build expectations of having the same in real life",
+        "C) We stop watching romantic movies",
+        "D) We appreciate our partners more"
+      ],
+      "answer": "B",
+      "explanation": "The video suggests that seeing perfect love stories on screen makes us build unrealistic expectations for our own relationships.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1119.5,
+      "endTime": 1125.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "expectations",
+        "screen",
+        "magical"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is one of the two things about the 'trope mindset' that bothers the speaker?",
+      "options": [
+        "A) It makes people watch too much TV",
+        "B) It builds expectations that men should know what to do without communication",
+        "C) It promotes unhealthy eating",
+        "D) It costs too much money"
+      ],
+      "answer": "B",
+      "explanation": "One concern is that it creates expectations that partners (especially men) should intuitively know what to do without needing to communicate.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1161.8,
+      "endTime": 1168.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "expectations",
+        "men",
+        "communicate"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "The video mentions that our culture is based on what?",
+      "options": [
+        "A) Love and compassion",
+        "B) Consumerism and material possessions",
+        "C) Education and knowledge",
+        "D) Sports and entertainment"
+      ],
+      "answer": "B",
+      "explanation": "The video states that our culture is based on consumerism and 'who has what,' which affects how we approach relationships.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 936.6,
+      "endTime": 943.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "consumerism",
+        "culture",
+        "material"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What question does the video ask about love at the beginning?",
+      "options": [
+        "A) Is love a choice or feeling?",
+        "B) Is love passive or active?",
+        "C) Is love genetic or learned?",
+        "D) Is love universal or cultural?"
+      ],
+      "answer": "B",
+      "explanation": "The video poses the question 'Is love passive or active?' suggesting we should think about love as something we actively do, not just feel.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 107.1,
+      "endTime": 107.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "passive",
+        "active",
+        "love"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What happens when people see happy relationships on social media according to the video?",
+      "options": [
+        "A) They feel happy for those people",
+        "B) They feel sad or jealous that they are not in one",
+        "C) They immediately get into relationships",
+        "D) They stop using social media"
+      ],
+      "answer": "B",
+      "explanation": "The video mentions that seeing other people in happy relationships prompts us to feel sad or slightly jealous that we are not in one ourselves.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 468.7,
+      "endTime": 475.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "jealous",
+        "relationships",
+        "social media"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does the video say about 'giving without expecting anything in return'?",
+      "options": [
+        "A) It's always easy to do",
+        "B) It sounds romantic but we all secretly want something in return",
+        "C) It's the only way to love",
+        "D) It's not mentioned in the video"
+      ],
+      "answer": "B",
+      "explanation": "The video suggests that as romantic as giving without expecting returns sounds, we all have some expectation of receiving something.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 891.2,
+      "endTime": 897.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "giving",
+        "expecting",
+        "return"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the video say we take for granted?",
+      "options": [
+        "A) Our jobs",
+        "B) Our concept of love itself",
+        "C) Our education",
+        "D) Our technology"
+      ],
+      "answer": "B",
+      "explanation": "The video states that we seem to take our concept of love itself for granted - we don't question where our ideas about love come from.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 488.2,
+      "endTime": 488.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "concept",
+        "love",
+        "granted"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the speaker say about doing things for a partner - should they need to be asked?",
+      "options": [
+        "A) No, they should know automatically",
+        "B) Yes, communication is important",
+        "C) No, it's not worth the effort",
+        "D) Yes, but only for special occasions"
+      ],
+      "answer": "B",
+      "explanation": "The video implies that proper loving requires communication - partners shouldn't just 'know' what to do without being told.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1161.8,
+      "endTime": 1168.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "communication",
+        "knowing",
+        "expectations"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What example of media is specifically mentioned as influencing our real-life expectations?",
+      "options": [
+        "A) Netflix original series only",
+        "B) TikTok videos",
+        "C) Friends and How I Met Your Mother",
+        "D) Only Hollywood movies"
+      ],
+      "answer": "C",
+      "explanation": "The video mentions 'Friends' and 'How I Met Your Mother' as examples of TV shows that influence how we expect love to work in real life.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1099.8,
+      "endTime": 1099.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Friends",
+        "TV shows",
+        "expectations"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the video say about loving as being 'counter culture'?",
+      "options": [
+        "A) It's the mainstream view",
+        "B) It goes against what society typically teaches us",
+        "C) It's only for young people",
+        "D) It's promoted by companies"
+      ],
+      "answer": "B",
+      "explanation": "The video states that proper loving is 'counter culture' - meaning it goes against or opposes the typical cultural norms around love and relationships.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 917.4,
+      "endTime": 925,
+      "difficulty": "hard",
+      "relatedWords": [
+        "counter culture",
+        "society",
+        "loving"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker say about the imaginary dictating reality?",
+      "options": [
+        "A) It's a good thing",
+        "B) It leads to unrealistic expectations",
+        "C) It only affects artists",
+        "D) It doesn't happen in modern society"
+      ],
+      "answer": "B",
+      "explanation": "The video suggests that when our imagined expectations (from media) dictate how we see real relationships, it creates problems.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1125.4,
+      "endTime": 1134.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "imaginary",
+        "reality",
+        "dictates"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What quality does the video suggest is needed for success in love (like in any art)?",
+      "options": [
+        "A) Luck",
+        "B) Faith and dedicated effort",
+        "C) Money",
+        "D) Good genetics"
+      ],
+      "answer": "B",
+      "explanation": "The video says you need to have faith in eventually succeeding and dedicate effort to that art until you succeed - this applies to love as well.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 546.6,
+      "endTime": 552.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "faith",
+        "effort",
+        "succeed"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "In your own words, explain what the video means by 'our conception of love is messed up.' What are the main reasons given for this?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放式口语题，要求考生根据视频内容总结对'爱情观念被扭曲'的理解，并列举主要原因。",
+      "referenceAnswer": "主要观点包括：1）媒体和社交平台向我们展示了不切实际的爱情范本，让我们对爱情有了错误的期待；2）我们把从电视、电影里看到的'浪漫模板'当成真实的爱情标准；3）消费主义文化影响了我们对爱情的看法；4）我们把爱情当成被动等待而非主动经营的事情；5）我们常常把自己在社交媒体上看到的'完美关系'与现实进行比较，产生不必要的焦虑。",
+      "hint": "Think about media influence, social media comparisons, and consumerist culture",
+      "startTime": 22.3,
+      "endTime": 29.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "conception",
+        "messed up",
+        "media influence"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "The video mentions that 'love is not passive but active.' How do you understand this idea? Do you agree or disagree? Please explain with examples.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生表达对'爱情是主动的而非被动的'这一观点的理解和看法，并举例说明。",
+      "referenceAnswer": "参考要点：1）被动等待爱情意味着等待感觉自然发生，而不付出努力；2）主动经营爱情意味着像学习艺术一样，需要不断练习、沟通、付出；3）同意：爱情需要双方主动表达需求、沟通、妥协、共同成长；4）不同意：爱情应该是自然发生的，过度主动会显得刻意或不真诚。",
+      "hint": "Consider what it means to actively love versus passively waiting for love",
+      "startTime": 107.1,
+      "endTime": 107.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "active",
+        "passive",
+        "love"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "The video argues that what we see on screen affects our expectations in real relationships. Have you ever felt influenced by movies, TV shows, or social media regarding your expectations of a partner or relationship? Please share your experience.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生分享个人经历，讲述影视作品或社交媒体是否影响了自己对恋爱关系的期望。",
+      "referenceAnswer": "参考要点：1）描述具体经历（如受到电影/电视剧情节影响、看到社交媒体上的'完美情侣'感到羡慕等）；2）说明这种影响如何改变了自己对理想伴侣的期望；3）反思这种影响是正面还是负面的；4）如何调整心态，更理性地看待媒体呈现的爱情。",
+      "hint": "Share a personal example of how media shaped your expectations about love",
+      "startTime": 1119.5,
+      "endTime": 1125.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "screen",
+        "expectations",
+        "relationships"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "The video mentions 'hyperreality' - when copies of reality become more real than reality itself. Can you think of examples in modern dating culture where this applies? How might this affect people's real relationships?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求考生举例说明现代约会文化中的'超现实'现象及其对真实恋爱关系的影响。",
+      "referenceAnswer": "参考要点：1）举例：社交媒体上的'完美情侣'、TikTok上的恋爱套路、约会软件上的'理想对象'形象等；2）这些经过精心策划的内容比普通人的真实恋爱更'真实'（即更有戏剧性、更有看头）；3）影响：人们开始用这些'标准'来评判自己的恋情，产生不满或焦虑；4）可能让人不断寻找'更好'的选项，而不是珍惜眼前人。",
+      "hint": "Think about social media, dating apps, and how they present idealized relationships",
+      "startTime": 1065.1,
+      "endTime": 1078.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "hyperreality",
+        "dating",
+        "social media"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the video say happens when people compare their relationships to what they see online?",
+      "options": [
+        "A) They become more satisfied",
+        "B) They sometimes doubt their whole relationship",
+        "C) They stop using social media",
+        "D) They improve their communication"
+      ],
+      "answer": "B",
+      "explanation": "The video mentions that people start to doubt their whole relationship just because they saw one random person on TikTok say something.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 558.6,
+      "endTime": 569.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "comparing",
+        "relationships",
+        "doubt"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does the speaker say about people who 'think of love actively'?",
+      "options": [
+        "A) They are too logical",
+        "B) They ask 'How do I love?'",
+        "C) They don't need relationships",
+        "D) They are boring"
+      ],
+      "answer": "B",
+      "explanation": "Someone who thinks of love actively asks 'How do I love?' - suggesting they actively think about the practice of loving rather than just waiting for feelings.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 397.7,
+      "endTime": 397.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "actively",
+        "thinking",
+        "love"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What is the main message about love being a 'bargain' on the market?",
+      "options": [
+        "A) It's a romantic idea",
+        "B) Love should be about finding the best value deal",
+        "C) It's not discussed in the video",
+        "D) It's the speaker's favorite theory"
+      ],
+      "answer": "B",
+      "explanation": "The video mentions this as a 'dominant idea' - the conception of love as finding the best bargain on the market, treating relationships like transactions.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 867.8,
+      "endTime": 874.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "bargain",
+        "market",
+        "transaction"
+      ]
+    }
+  ]
+}

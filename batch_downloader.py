@@ -44,6 +44,50 @@ MAX_RETRIES = 3
 RETRY_DELAY = 5
 
 PROXY_CONFIG_PATH = os.path.join(os.getcwd(), 'proxy_config.json')
+ENV_LOCAL_PATH = os.path.join(os.getcwd(), '.env.local')
+
+
+def get_cdn_base():
+    """读取 .env.local 里的 NEXT_PUBLIC_VIDEO_CDN_BASE；缺失返回 None。"""
+    env = os.environ.get('NEXT_PUBLIC_VIDEO_CDN_BASE', '').strip()
+    if env:
+        return env.rstrip('/')
+    if os.path.exists(ENV_LOCAL_PATH):
+        try:
+            with open(ENV_LOCAL_PATH, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if not line or line.startswith('#'):
+                        continue
+                    if '=' not in line:
+                        continue
+                    k, v = line.split('=', 1)
+                    if k.strip() == 'NEXT_PUBLIC_VIDEO_CDN_BASE':
+                        return v.strip().rstrip('/')
+        except Exception:
+            pass
+    return None
+
+
+def cdn_has_mp4(video_id, cdn_base):
+    """HEAD 探测 CDN 上 mp4 是否存在。网络异常时保守返回 True（避免假阴性触发重下）。"""
+    if not cdn_base:
+        return False
+    url = f"{cdn_base}/{video_id}/video.mp4"
+    try:
+        req = urllib.request.Request(url, method='HEAD')
+        req.add_header('User-Agent', 'Mozilla/5.0')
+        with urllib.request.urlopen(req, timeout=8) as resp:
+            return 200 <= resp.status < 400
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return False
+        # 其他 HTTP 错误：保守视为存在，不主动覆盖
+        logger.warning(f"CDN HEAD {video_id} HTTP {e.code}，保守跳过")
+        return True
+    except Exception as e:
+        logger.warning(f"CDN HEAD {video_id} 失败 ({e})，保守跳过")
+        return True
 
 
 def get_proxy_url():
@@ -192,17 +236,27 @@ def download_video(youtube_url, proxy_url=None):
     output_dir = os.path.join('public', 'content', video_id)
     print(f"[VPROG] {video_id} started {youtube_url}", flush=True)
 
-    # 重复跳过：只要 meta.json 存在就视为下载过
-    # （video.mp4 可能被推到 R2 后从 git 排除，不能作为判断依据）
+    # 跳过条件：meta.json 在 + (本地 mp4 在 OR CDN 上有 mp4)
+    # 防御 batch_downloader 早期版本的 bug：只有 meta 没 mp4 也跳过，
+    # 导致"meta 在 + 本地无 mp4 + R2 也无"的假阳性视频前端 404 看不了。
     meta_path = os.path.join(output_dir, 'meta.json')
     mp4_path = os.path.join(output_dir, 'video.mp4')
     if os.path.exists(meta_path):
         if os.path.exists(mp4_path):
             logger.info(f"已存在完整下载，跳过: {video_id}")
-        else:
-            logger.info(f"已有 meta.json（mp4 可能在 R2），跳过: {video_id}")
-        print(f"[VPROG] {video_id} skipped", flush=True)
-        return {'id': video_id, 'status': 'skipped'}
+            print(f"[VPROG] {video_id} skipped", flush=True)
+            return {'id': video_id, 'status': 'skipped'}
+        cdn_base = get_cdn_base()
+        if cdn_base and cdn_has_mp4(video_id, cdn_base):
+            logger.info(f"已有 meta.json，CDN 上 mp4 存在，跳过: {video_id}")
+            print(f"[VPROG] {video_id} skipped", flush=True)
+            return {'id': video_id, 'status': 'skipped'}
+        # 本地+CDN 都没 mp4，删除残留 meta 让 yt-dlp 重新走完整流程
+        logger.warning(f"{video_id}: meta 在但本地+CDN 都无 mp4，强制重下")
+        try:
+            os.remove(meta_path)
+        except Exception as e:
+            logger.warning(f"删除残留 meta.json 失败: {e}")
 
     os.makedirs(output_dir, exist_ok=True)
 

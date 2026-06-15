@@ -1,0 +1,553 @@
+{
+  "videoId": "e7JNRf07bhA",
+  "title": "20 Years of Anxiety Treatment in 15 Minutes",
+  "generatedAt": "2026-06-14T17:37:12.907Z",
+  "version": 1,
+  "totalQuestions": 23,
+  "stats": {
+    "easy": 5,
+    "medium": 12,
+    "hard": 6,
+    "choice": 20,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "According to the speaker, what is the relationship between anxiety and excitement?",
+      "options": [
+        "A) They are complete opposites",
+        "B) They feel almost the same in the body",
+        "C) Excitement is a cure for anxiety",
+        "D) They have no connection whatsoever"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'anxiety and excitement are siblings'，并且'But anxiety as a sibling, excitement, they feel almost the same in the body'，说明焦虑和兴奋是兄弟姐妹关系，在身体上的感觉几乎相同。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 87.3,
+      "endTime": 110.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "anxiety",
+        "excitement",
+        "siblings",
+        "body"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'micro dose the discomfort' mean in this context?",
+      "options": [
+        "A) Take medication for anxiety",
+        "B) Expose yourself to small amounts of discomfort gradually",
+        "C) Avoid all uncomfortable situations",
+        "D) Ignore negative emotions completely"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'Micro dose the discomfort'，这是指逐渐地、小剂量地接触让你感到不适的事物，从而建立耐受性。配合'Start small, like really small'这个建议，可以看出是逐步暴露的策略。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 137.4,
+      "endTime": 176.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "micro dose",
+        "discomfort",
+        "small",
+        "tolerance"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does monitoring the breath help you do?",
+      "options": [
+        "A) Fall asleep faster",
+        "B) Force your attention back to your body",
+        "C) Speak more clearly",
+        "D) Eliminate all stress permanently"
+      ],
+      "answer": "B",
+      "explanation": "视频明确提到'And monitoring the breath forces your attention back to your body'，说明呼吸监测的作用是将注意力拉回到身体上。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 692.6,
+      "endTime": 697,
+      "difficulty": "easy",
+      "relatedWords": [
+        "breath",
+        "monitoring",
+        "attention",
+        "body"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the speaker say about creating versus extinguishing anxiety?",
+      "options": [
+        "A) Anxiety is easier to extinguish than create",
+        "B) Anxiety is equally difficult to create and extinguish",
+        "C) Anxiety is a lot easier to create than it is to extinguish",
+        "D) Creating anxiety is impossible for most people"
+      ],
+      "answer": "C",
+      "explanation": "视频中直接说'Anxiety is a lot easier to create than it is to extinguish and calm down'，表明焦虑更容易被产生，而不是被熄灭和平静下来。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 572.8,
+      "endTime": 577.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "create",
+        "extinguish",
+        "anxiety",
+        "easier"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What happens when you constantly pull back from uncomfortable situations?",
+      "options": [
+        "A) Your world becomes larger",
+        "B) You become more confident",
+        "C) Your world becomes smaller",
+        "D) The discomfort disappears naturally"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到'But pulling back again and again only makes your world smaller'，说明一次又一次地退缩只会让你的世界变小。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 145.8,
+      "endTime": 150.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pulling back",
+        "world",
+        "smaller",
+        "avoid"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "According to the video, when does anxiety become a problem?",
+      "options": [
+        "A) When you feel any anxiety at all",
+        "B) When it makes you choose to stop",
+        "C) Only when it's extremely severe",
+        "D) When you talk about it with others"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'Anxiety is only a problem when it makes you choose to stop'，表明焦虑只有在你因为它而停止（逃避）时才成为问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 499.5,
+      "endTime": 504.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "anxiety",
+        "problem",
+        "choose",
+        "stop"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the speaker suggest instead of avoiding anxiety?",
+      "options": [
+        "A) You need to avoid it completely",
+        "B) You need to ignore it completely",
+        "C) You need to survive it",
+        "D) You need to accept it as permanent"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确说'You don't need to avoid it. You need to survive it'，建议我们不需要逃避焦虑，而是需要生存下去（面对它）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 508.1,
+      "endTime": 511.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "avoid",
+        "survive",
+        "anxiety",
+        "face"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "How does anxiety affect our perception of risk?",
+      "options": [
+        "A) It minimizes potential risks",
+        "B) It accurately assesses risks",
+        "C) It always exaggerates the risks",
+        "D) It has no effect on risk perception"
+      ],
+      "answer": "C",
+      "explanation": "视频中说'Anxiety always exaggerates the risks'，表明焦虑总是夸大风险，使我们对危险产生过度估计。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 511.5,
+      "endTime": 515,
+      "difficulty": "medium",
+      "relatedWords": [
+        "anxiety",
+        "exaggerate",
+        "risks",
+        "perception"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What happens to emotions like anxiety if you just observe them?",
+      "options": [
+        "A) They become permanent",
+        "B) They rise, peak, and then fall",
+        "C) They get stronger",
+        "D) They disappear immediately"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'They rise, they peak, and then they fall if you don't fight them and you just observe'，说明情绪会升起、达到顶峰，然后如果你不与之抗争而是观察它们，它们就会回落。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 249.1,
+      "endTime": 256.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "rise",
+        "peak",
+        "fall",
+        "observe"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the real damage anxiety does according to the speaker?",
+      "options": [
+        "A) It causes physical illness",
+        "B) It makes you avoid what feels uncomfortable",
+        "C) It makes you too confident",
+        "D) It prevents you from sleeping"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确说'Anxiety does its real damage by making you avoid what feels uncomfortable'，焦虑造成的真正伤害是让你逃避让你感到不舒服的事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 140.8,
+      "endTime": 145.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "damage",
+        "avoid",
+        "uncomfortable",
+        "anxiety"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "Where should you let anxiety hang out according to the video?",
+      "options": [
+        "A) In the foreground of your life",
+        "B) In your dreams",
+        "C) In the background while you go about living",
+        "D) In a locked room"
+      ],
+      "answer": "C",
+      "explanation": "视频中说'Just let it hang out in the background while you go about living your life'，建议让焦虑停留在后台，继续你的生活。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 443.6,
+      "endTime": 447.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "background",
+        "living",
+        "life",
+        "anxiety"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does confidence come from according to this video?",
+      "options": [
+        "A) Avoiding the feared outcome",
+        "B) Waiting for perfect conditions",
+        "C) Showing yourself you can handle it",
+        "D) Avoiding all risks"
+      ],
+      "answer": "C",
+      "explanation": "视频中说'You stop needing things to go perfectly because you've shown yourself you can handle it'以及'So confidence doesn't come from avoiding the feared outcome'，说明信心来自于展示自己能handle（应对）问题，而不是避免所害怕的结果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 537.4,
+      "endTime": 546.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "confidence",
+        "handle",
+        "avoid",
+        "outcome"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the speaker say about worry?",
+      "options": [
+        "A) Worry helps you solve problems",
+        "B) Worry is a waste of time, energy, and stress",
+        "C) Worry protects you from danger",
+        "D) Worry makes you more productive"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确说'That is a lot of wasted time, energy, and stress. And that is what worry does'，表明担忧是浪费时间、精力和压力的行为。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 339.4,
+      "endTime": 344.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "waste",
+        "time",
+        "energy",
+        "stress"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "According to the speaker, what is the key to taking important steps in life?",
+      "options": [
+        "A) Wait until all risks are gone",
+        "B) Take steps even when some risk remains",
+        "C) Only take safe steps",
+        "D) Never take any risks"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'You can't wait until the risk is gone or you will never take the steps that matter'，表明你不能等到风险消失才采取行动，否则你永远不会迈出重要的步伐。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 307,
+      "endTime": 311.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "risk",
+        "steps",
+        "wait",
+        "matter"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker say about things that go wrong?",
+      "options": [
+        "A) They are always what we expect",
+        "B) They are rarely the ones we are bracing for",
+        "C) We can predict all problems",
+        "D) We should always prepare for the worst"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'The things that actually go wrong are rarely the ones you are bracing for'，实际出问题的很少是你正在防备的那些。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 275,
+      "endTime": 279.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "wrong",
+        "rarely",
+        "brace",
+        "expect"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does it mean to 'aim that energy in a better direction'?",
+      "options": [
+        "A) Use anxiety energy productively",
+        "B) Save energy for later",
+        "C) Direct anxiety toward exercise",
+        "D) Ignore anxiety completely"
+      ],
+      "answer": "A",
+      "explanation": "视频中说'You need to aim that energy you have in a better direction'，意思是将焦虑带来的能量导向更好的方向，而不是被焦虑所困扰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 133.3,
+      "endTime": 137.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "energy",
+        "direction",
+        "anxiety",
+        "aim"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "The speaker mentions 'micro dose the discomfort' as a strategy. Explain what this means and describe a situation where you might apply this strategy in daily life.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生解释'micro dose the discomfort'策略的含义，并描述在日常生活中如何应用。",
+      "referenceAnswer": "1. 含义：逐渐地、小剂量地接触让自己感到不适的事物，以建立耐受性。2. 应用场景示例：比如害怕在公众面前说话的人，可以先从在熟悉的朋友面前练习开始，然后逐渐增加观众数量和场合的正式程度。或者对于害怕社交媒体负面评价的人，可以先发布一些不太重要的内容，逐步建立信心。",
+      "hint": "Think about situations where you feel uncomfortable but want to overcome that discomfort. Start very small and gradually increase the challenge.",
+      "startTime": 137.4,
+      "endTime": 174.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "micro dose",
+        "discomfort",
+        "strategy",
+        "gradually"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "According to the video, what is the relationship between anxiety and avoidance? Why does the speaker say pulling back from uncomfortable situations makes your world smaller?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生解释焦虑和逃避的关系，以及为什么逃避会让世界变小。",
+      "referenceAnswer": "1. 关系：焦虑会导致人们逃避让他们感到不舒服的情况/事物。2. 世界变小的原因：每一次逃避都是一次强化的机会，让你在下一次面对同样情况时更加恐惧；同时，逃避限制了你的生活范围和体验，使你能做的事情越来越少。",
+      "hint": "Consider how avoiding something reinforces the fear and limits your experiences and opportunities.",
+      "startTime": 145.8,
+      "endTime": 150.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "avoidance",
+        "world",
+        "smaller",
+        "pulling back"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "The speaker says 'You don't need to avoid it. You need to survive it.' What does this mean in the context of dealing with anxiety? How is this different from traditional advice to avoid or reduce anxiety?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要考生理解'生存而非逃避'这一理念，并比较与传统焦虑管理方法的区别。",
+      "referenceAnswer": "1. 含义：不要试图消除或逃避焦虑感觉，而是接受它的存在并学会在焦虑中继续前进。2. 与传统方法的区别：传统方法可能强调放松、远离压力源或使用技巧来'消灭'焦虑；而这个方法强调与焦虑共处，即使感到不舒服也要继续行动，最终证明焦虑不会真正伤害你。",
+      "hint": "Think about the difference between running away from anxiety versus learning to function despite feeling anxious.",
+      "startTime": 508.1,
+      "endTime": 511.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "avoid",
+        "survive",
+        "anxiety",
+        "continue"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What is the key difference between 'being anxious' and 'identifying with the anxiety'?",
+      "options": [
+        "A) They mean the same thing",
+        "B) Identifying with anxiety means seeing the world only through its lens",
+        "C) Being anxious is a choice",
+        "D) Identifying with anxiety leads to quick recovery"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'when you identify with the anxiety, when you only see the world through its'，意思是当你与焦虑认同时，你只能通过它的视角看待世界，这意味着焦虑完全主导了你的认知。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 199.3,
+      "endTime": 205.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "identify",
+        "anxiety",
+        "world",
+        "see"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "According to the speaker, what should you do instead of fighting your anxious feelings?",
+      "options": [
+        "A) Pretend they don't exist",
+        "B) Observe them and let them change naturally",
+        "C) Try to think positively all the time",
+        "D) Seek professional medication immediately"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'They rise, they peak, and then they fall if you don't fight them and you just observe'以及'Watch them as they change'，建议不要与焦虑情绪对抗，而是观察它们，让它们自然变化。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 262,
+      "endTime": 264.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "observe",
+        "change",
+        "fight",
+        "emotions"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the speaker compare worry to in terms of saving resources?",
+      "options": [
+        "A) Saving money for important things",
+        "B) Saving water for real fires",
+        "C) Saving energy for exercise",
+        "D) Saving time for work"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'So save your water for real fires'，这是一个比喻，意思是不要把担心浪费在小事情上，要把精力留给真正重要的问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 352.3,
+      "endTime": 355.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "save",
+        "water",
+        "fires",
+        "resources"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What do 'insecurity guards' refer to in the video?",
+      "options": [
+        "A) Security systems for your home",
+        "B) Thoughts or behaviors that keep you feeling insecure",
+        "C) Bodyguards that protect you",
+        "D) Financial advisors"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'They help you settle and become more like yourself. 18. Fire your insecurity guards.'以及'They're keeping you insecure'，指的是那些让你保持不安全感的想法或行为模式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 786.1,
+      "endTime": 788.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "insecurity",
+        "guards",
+        "fire",
+        "keeping"
+      ]
+    }
+  ]
+}

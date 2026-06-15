@@ -1,0 +1,577 @@
+{
+  "videoId": "rbzm_RyS-Uk",
+  "title": "to be loved is to be understood, but to be human is to change",
+  "generatedAt": "2026-06-15T08:34:33.032Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 7,
+    "medium": 11,
+    "hard": 7,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "According to the video, what is love described as at the beginning?",
+      "options": [
+        "A) A purely personal emotion",
+        "B) A profoundly social emotion",
+        "C) A religious feeling",
+        "D) A biological instinct"
+      ],
+      "answer": "B",
+      "explanation": "视频开头明确指出\"Love is a profoundly social emotion\"，说明爱是一种深刻的社会情感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0.1,
+      "endTime": 2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "love",
+        "social",
+        "emotion"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the video say about the concept of love?",
+      "options": [
+        "A) It has never changed throughout history",
+        "B) It remains eternal and unchanging",
+        "C) It does change over time",
+        "D) It is only relevant in modern times"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到\"Yet it's clear that the concept of love does change\"，说明爱的概念会随着时间变化。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 37.2,
+      "endTime": 40.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "concept",
+        "love",
+        "change"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "In the 16th century, according to the video, what question did Machiavelli ask about leadership?",
+      "options": [
+        "A) Should leaders be honest or deceptive?",
+        "B) Whether to be feared or loved",
+        "C) How to maintain power forever",
+        "D) What is the best form of government"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到\"In the 16th century, Machiavelli asked whether to be feared or loved\"，这是马基雅维利关于领导力的经典问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 40.4,
+      "endTime": 44.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Machiavelli",
+        "feared",
+        "loved"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What did Alexandra Kollontai observe during the Russian Civil War according to the video?",
+      "options": [
+        "A) The rise of romantic love",
+        "B) The lack of something",
+        "C) The importance of marriage",
+        "D) The change in family structure"
+      ],
+      "answer": "B",
+      "explanation": "视频字幕显示\"During the Russian Civil War, Alexandra Kollontai observed the lack of\"，但具体内容被截断，题目考察对这句话的理解。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 98.8,
+      "endTime": 102.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Russian Civil War",
+        "Alexandra Kollontai",
+        "observed"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What was happening in the historical period mentioned when \"the clarion call of revolution was sounding\"?",
+      "options": [
+        "A) A time of peace and prosperity",
+        "B) A time of revolutionary movements",
+        "C) A time of economic growth",
+        "D) A time of religious reformation"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"a time when the clarion call of revolution was sounding\"，指的是革命呼声高涨的历史时期，通常指革命时代。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 138.7,
+      "endTime": 141.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "revolution",
+        "clarion call",
+        "historical"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What did people want according to the video when conditions allowed?",
+      "options": [
+        "A) Something shallower and temporary",
+        "B) Something deeper and longer lasting",
+        "C) More material possessions",
+        "D) Greater social status"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到\"People wanted something deeper, something longer lasting, conditions allowed for that\"，说明人们在条件允许时渴望更深刻、更持久的感情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 148.7,
+      "endTime": 154,
+      "difficulty": "easy",
+      "relatedWords": [
+        "deeper",
+        "longer lasting",
+        "conditions"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the video say everyone encounters in relation to love?",
+      "options": [
+        "A) A universal mathematical formula",
+        "B) A special and intimate psychological experience",
+        "C) A purely physical attraction",
+        "D) A random chemical reaction"
+      ],
+      "answer": "B",
+      "explanation": "视频明确提到\"Everybody encounters a special and intimate psychological experience associated with what we call love\"，说明每个人都会遇到与爱相关的特殊亲密心理体验。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 170.3,
+      "endTime": 176.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "intimate",
+        "psychological experience",
+        "love"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "According to the video, how does the interpretation of love experiences change?",
+      "options": [
+        "A) It depends on individual personality",
+        "B) Depending on the social context",
+        "C) Based on economic conditions only",
+        "D) According to geographical location"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到\"But the interpretation of that experience changes depending on the social context\"，说明对爱 experience的解释取决于社会背景。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 176.7,
+      "endTime": 180.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "interpretation",
+        "experience",
+        "social context"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What did being respected feel like in the 1700s according to the video?",
+      "options": [
+        "A) An ordinary occurrence",
+        "B) Something rare and special",
+        "C) A burden",
+        "D) A necessity"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"special intimate feeling in the 1700s when respect was more rare\"，说明在1700年代尊重是稀有的，所以被尊重是一种特殊的感觉。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 184.7,
+      "endTime": 189.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "1700s",
+        "respect",
+        "rare"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Why is being understood described as crucial to romantic relationships in the video?",
+      "options": [
+        "A) Because it is the easiest to achieve",
+        "B) Because it makes relationships more convenient",
+        "C) Because it represents a deeper connection",
+        "D) Because it is required by law"
+      ],
+      "answer": "C",
+      "explanation": "视频问题\"But why does understanding feel so crucial to romantic relationships\"暗示理解代表了更深层次的联系。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 697.3,
+      "endTime": 700.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "understanding",
+        "crucial",
+        "romantic relationships"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What are we told is special about the individual according to the video?",
+      "options": [
+        "A) Their popularity",
+        "B) Their unique particularity",
+        "C) Their wealth",
+        "D) Their intelligence"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"The unique particularity of each individual is precisely what gets in the way of understanding\"，说明每个人的独特性正是理解受阻的原因。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 731.6,
+      "endTime": 736.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "unique particularity",
+        "individual",
+        "understanding"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the \"fitting term\" mentioned in the video to interpret love?",
+      "options": [
+        "A) Trust",
+        "B) Understanding",
+        "C) Passion",
+        "D) Commitment"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"why being understood is now the fitting term to interpret love\"，说明\"被理解\"是解释爱的合适术语。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 199.3,
+      "endTime": 203.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "fitting term",
+        "interpret",
+        "love"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "According to the video, what does the digital age make materially possible?",
+      "options": [
+        "A) To eliminate all diseases",
+        "B) To know more about others than ever before",
+        "C) To travel to other planets",
+        "D) To communicate with animals"
+      ],
+      "answer": "B",
+      "explanation": "视频明确提到\"The digital age makes it materially possible to know more about others than ever before\"，说明数字时代使了解他人变得比以往任何时候都更容易。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 279.1,
+      "endTime": 283.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "digital age",
+        "know more",
+        "others"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What can now be accomplished by an act of data collection according to the video?",
+      "options": [
+        "A) Finding true love",
+        "B) An act that once required emotional attunement",
+        "C) Winning a lottery",
+        "D) Learning a new language"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"An act that once required emotional attunement can now be accomplished by an act of data collection\"，说明曾经需要情感共鸣的行为现在可以通过数据收集完成。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 314.1,
+      "endTime": 319.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "data collection",
+        "emotional attunement",
+        "accomplished"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What example does the video give of ChatGPT's capabilities in relationships?",
+      "options": [
+        "A) It can fall in love with you",
+        "B) It can give relationship advice tailored to your specific life details",
+        "C) It can replace your partner",
+        "D) It can predict the future of your relationship"
+      ],
+      "answer": "B",
+      "explanation": "视频明确提到\"ChatGPT can give relationship advice tailored to your specific life details\"，说明ChatGPT可以针对你的具体生活细节提供关系建议。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 336.2,
+      "endTime": 340.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "ChatGPT",
+        "relationship advice",
+        "specific details"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What have we voluntarily done according to the video in the digital age?",
+      "options": [
+        "A) Given up eating meat",
+        "B) Handed out personal information for others to consume",
+        "C) Stopped using smartphones",
+        "D) Moved to rural areas"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"We also voluntarily hand out personal information for others to consume, posting our internal thoughts, photos\"，说明我们在数字时代自愿分享个人信息供他人消费。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 320.3,
+      "endTime": 325.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "voluntarily",
+        "personal information",
+        "consume"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "According to the video, why is accuracy of knowledge not special anymore?",
+      "options": [
+        "A) Because it's too expensive",
+        "B) Because technology has made information easily accessible",
+        "C) Because people don't care about it",
+        "D) Because it's illegal"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"Again, accuracy of knowledge is not special anymore\"，暗示技术使信息变得容易获取，准确的知识不再特别。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 413.5,
+      "endTime": 416.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "accuracy",
+        "knowledge",
+        "special"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What are \"quirks or flaws\" mentioned in the video?",
+      "options": [
+        "A) Things that make everyone the same",
+        "B) Personal characteristics that can annoy others",
+        "C) Medical conditions",
+        "D) Financial problems"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"our quirks or flaws that can rub people the wrong way\"，说明这些是个人的怪癖或缺陷，可能会惹恼他人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 432.3,
+      "endTime": 434.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "quirks",
+        "flaws",
+        "rub people the wrong way"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What example does the video give about personal preferences that someone might share?",
+      "options": [
+        "A) Their favorite color",
+        "B) Whether they prefer apples peeled or not",
+        "C) Their political views",
+        "D) Their salary"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"Like whether they prefer apples peeled or not\"，这是一个关于个人偏好的具体例子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 611.6,
+      "endTime": 613.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "apples peeled",
+        "personal preference",
+        "example"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "According to the video, what made the speaker start taking their data off the market?",
+      "options": [
+        "A) A friend's recommendation",
+        "B) A data breach affecting millions of accounts",
+        "C) Running out of storage space",
+        "D) Getting a new phone"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"So, it was pretty important for me to start taking my data off the market\"，结合前文提到的数据泄露事件，说明是因为数据泄露。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 483.6,
+      "endTime": 487.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "data breach",
+        "data",
+        "market"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "According to the video, what does it mean to say \"to be loved is to be understood\"? Please explain your understanding of this statement.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生根据视频内容解释\"被爱就是被理解\"这句话的含义，需要结合视频中关于爱、理解和社会情感的观点来回答。",
+      "referenceAnswer": "要点：1) 爱是一种社会情感；2) 理解代表更深层次的连接；3) 在数字时代，理解变得更重要但也更难；4) 每个人的独特性会影响被理解的程度",
+      "hint": "结合视频中关于love、understanding和social emotion的观点来回答",
+      "startTime": 50,
+      "endTime": 70,
+      "difficulty": "hard",
+      "relatedWords": [
+        "loved",
+        "understood",
+        "meaning"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The video discusses how the concept of love has changed over time. What are the main factors that have influenced how we understand love according to the content?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求考生根据视频内容讨论影响爱这个概念变化的主要因素。",
+      "referenceAnswer": "要点：1) 社会历史条件的变化；2) 经济因素的影响；3) 数字化时代的影响；4) 革命等社会变革；5) 个人心理体验与社会背景的互动",
+      "hint": "可以从历史、社会、技术等角度分析",
+      "startTime": 100,
+      "endTime": 150,
+      "difficulty": "hard",
+      "relatedWords": [
+        "concept of love",
+        "changed",
+        "factors"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "How has the digital age changed the way we experience love and understanding in relationships? Give specific examples from the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求考生讨论数字时代如何改变了我们在关系中体验爱和理解的方式，需要结合视频中的具体例子。",
+      "referenceAnswer": "要点：1) 数据收集可以替代情感共鸣；2) 更容易获取关于他人的信息；3) ChatGPT可以提供个性化建议；4) 人们自愿分享更多信息；5) 信息准确性变得不那么特别",
+      "hint": "可以结合data collection、ChatGPT、personal information等视频关键词",
+      "startTime": 300,
+      "endTime": 350,
+      "difficulty": "hard",
+      "relatedWords": [
+        "digital age",
+        "love",
+        "understanding",
+        "relationships"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the video suggest is safe from obsolescence according to the content?",
+      "options": [
+        "A) Physical objects like phones and computers",
+        "B) Our immaterial recognition of each other",
+        "C) Traditional marriage customs",
+        "D) Printed books"
+      ],
+      "answer": "B",
+      "explanation": "视频提到\"safe from obsolescence is our immaterial recognition of each other\"，说明我们对他人的非物质认可不会过时。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 258.5,
+      "endTime": 263.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "immaterial recognition",
+        "obsolescence",
+        "safe"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "According to the video, what is NOT something we love about another person?",
+      "options": [
+        "A) The combination of qualities they have",
+        "B) The particular individual themselves",
+        "C) Only their physical appearance",
+        "D) What they represent"
+      ],
+      "answer": "C",
+      "explanation": "视频提到\"we love the particular individual, not just the combination of qualities they have\"，说明我们爱的是特别的个体和他们品质的组合，而不仅仅是外表。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 704.3,
+      "endTime": 708.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "love",
+        "particular individual",
+        "qualities"
+      ]
+    }
+  ]
+}

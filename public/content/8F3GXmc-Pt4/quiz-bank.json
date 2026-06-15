@@ -1,0 +1,543 @@
+{
+  "videoId": "8F3GXmc-Pt4",
+  "title": "Why Aren't You Using Your Heroes' Tools?",
+  "generatedAt": "2026-06-14T17:19:23.845Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 6,
+    "medium": 14,
+    "hard": 4,
+    "choice": 19,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'bottleneck' mean in the context of the video?",
+      "options": [
+        "A) A type of bottle used for writing",
+        "B) A limiting factor that prevents progress",
+        "C) A fast production method",
+        "D) A creative technique"
+      ],
+      "answer": "B",
+      "explanation": "在视频中，演讲者提到'efficiency is not the bottleneck'，意思是效率并不是限制因素。bottleneck指的是限制整体发展的瓶颈或限制因素。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 166.6,
+      "endTime": 171.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bottleneck",
+        "efficiency",
+        "limiting"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the video, what did the speaker realize about great authors?",
+      "options": [
+        "A) They type faster than others",
+        "B) They are limited by their typing speed",
+        "C) They are limited by their ability to reduce distraction",
+        "D) They use computers most of the time"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到'a great author is generally not limited by their typing speed they are limited by their ability to reduce new ideas great ideas and distraction'，说明伟大作家的限制因素是减少干扰和新想法的能力，而非打字速度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 171.9,
+      "endTime": 178.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "great author",
+        "typing speed",
+        "distraction"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'counter to producing great work' mean?",
+      "options": [
+        "A) Helpful for producing great work",
+        "B) Against or detrimental to producing great work",
+        "C) The same as producing great work",
+        "D) Necessary for producing great work"
+      ],
+      "answer": "B",
+      "explanation": "'Counter to'意为'与...相反'或'违背'。这句话的意思是'如果你的目标是创作伟大的原创作品，那么你的工具可能正在产生反作用'，即工具可能对创作伟大作品不利。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 297.4,
+      "endTime": 302.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "counter",
+        "great work",
+        "goal"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Where did the speaker first see Octavia Butler's manuscript?",
+      "options": [
+        "A) In a library",
+        "B) At a museum exhibit",
+        "C) In a bookstore",
+        "D) At a university"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到'I first started thinking about this idea at a museum exhibit that had an Octavia Butler manuscript'，说明演讲者是在博物馆展览上首次看到Octavia Butler的手稿。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 97,
+      "endTime": 102.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Octavia Butler",
+        "manuscript",
+        "museum"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What observation did the speaker make about working on airplanes?",
+      "options": [
+        "A) He cannot work on airplanes",
+        "B) He does some of his best work on airplanes",
+        "C) Airplanes have too many distractions",
+        "D) Airplane mode doesn't help"
+      ],
+      "answer": "B",
+      "explanation": "视频提到'thing that I've long noticed about myself is that I do some of my best work when I'm on airplanes'，说明演讲者发现在飞机上工作时效率最高。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 246.2,
+      "endTime": 249.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "airplanes",
+        "best work",
+        "notice"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What is the 'pretty common phenomenon' the speaker mentions?",
+      "options": [
+        "A) Writers cannot type fast",
+        "B) People do better work on airplanes",
+        "C) Computers cause distractions",
+        "D) Handwriting is better than typing"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'it's not just me this is a pretty common phenomenon I've talked about it with'，指的是在飞机上工作效果更好这一普遍现象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 249.7,
+      "endTime": 253.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "airplanes",
+        "phenomenon",
+        "common"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'prolific' mean in the video?",
+      "options": [
+        "A) Poor quality",
+        "B) Very productive",
+        "C) Slow working",
+        "D) Lazy"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'someone who I look up to a prolific creative who created work that has influenced the world'，prolific意为'多产的'，形容创作者作品丰富且影响深远。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 115.4,
+      "endTime": 120.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "prolific",
+        "creative",
+        "influenced"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is one issue with writing on a computer according to the video?",
+      "options": [
+        "A) It's too slow",
+        "B) It has too many distractions",
+        "C) It's hard to edit",
+        "D) It's not professional"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到'a computer has many distractions on it'以及'digital tools are really good at making us feel busy'，说明电脑写作的主要问题是干扰太多。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 145.6,
+      "endTime": 151.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "computer",
+        "distractions",
+        "digital tools"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker say about the tools used to create 'great works' throughout human history?",
+      "options": [
+        "A) They were always advanced technology",
+        "B) They were pretty basic tools",
+        "C) They were imported from other countries",
+        "D) They were very expensive"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确说'throughout human history a majority of the great works that have ever been produced were produced with pretty basic tools'，即历史上大多数伟大作品都是用相当基本的工具创作出来的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 34.1,
+      "endTime": 40.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "great works",
+        "basic tools",
+        "history"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the speaker's attitude toward airplane mode hours?",
+      "options": [
+        "A) He thinks it's useless",
+        "B) He's willing to try it",
+        "C) He already uses it daily",
+        "D) He doesn't believe in it"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'the first thing that I'm going to try is I'm going to try actually creating airplane mode hours'，说明演讲者愿意尝试这种方法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 328.1,
+      "endTime": 331.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "airplane mode",
+        "try",
+        "first thing"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does the speaker mean by 'making us feel busy'?",
+      "options": [
+        "A) Making us work harder",
+        "B) Making us feel productive while not actually being productive",
+        "C) Helping us complete tasks",
+        "D) Making us feel tired"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'digital tools are really good at making us feel busy when I'm on my computer I can be feeling like I'm productive like I'm doing work'，意思是数字工具让我们感觉忙碌且有生产力，但实际上可能并没有真正产出高质量作品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 223.3,
+      "endTime": 229.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "feel busy",
+        "productive",
+        "digital tools"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'aligned with' mean in the video?",
+      "options": [
+        "A) Different from",
+        "B) In agreement with",
+        "C) Opposite to",
+        "D) Unrelated to"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'questioning whether or not that's aligned with what it is that you're trying to do'，'aligned with'意为'与...一致/对齐'，即工具是否与你的目标一致。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 282.8,
+      "endTime": 288.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "aligned",
+        "goal",
+        "outcome"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the 'big if' mentioned when comparing writing by hand vs. on computer?",
+      "options": [
+        "A) If you have good handwriting",
+        "B) If the computer doesn't distract you",
+        "C) If you can type fast enough",
+        "D) If you have enough paper"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'you're going to waste less paper but there's a big if'，然后提到电脑有很多干扰，暗示这个'big if'是指能否避免电脑的干扰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 210.4,
+      "endTime": 214.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "big if",
+        "distraction",
+        "computer"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'trade-off' mean in this context?",
+      "options": [
+        "A) A type of trade",
+        "B) Something for nothing",
+        "C) Exchanging one thing for another",
+        "D) A business deal"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到'trade-off the end result here might just be that I go back to using my computer'，'trade-off'指的是权衡取舍，即用电脑写作的效率与创作质量的权衡。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 346.8,
+      "endTime": 350.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "trade-off",
+        "efficiency",
+        "quality"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What realization did the speaker have at the library?",
+      "options": [
+        "A) Libraries are outdated",
+        "B) Brilliant authors used basic tools",
+        "C) He wanted to become a librarian",
+        "D) Books are too expensive"
+      ],
+      "answer": "B",
+      "explanation": "视频开头提到演讲者在图书馆工作，接触到杰出作家的信件和手稿，这让他意识到这些伟大作品都是用基本工具创作的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 4.3,
+      "endTime": 11.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "library",
+        "brilliant authors",
+        "basic tools"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the speaker's main question about tools?",
+      "options": [
+        "A) Which tool is the cheapest",
+        "B) How tools influence outcomes and whether that aligns with goals",
+        "C) Which tool is the fastest",
+        "D) Which tool is the most popular"
+      ],
+      "answer": "B",
+      "explanation": "视频开头就提到'is understanding how your tools might influence your outcomes and questioning whether or not that's aligned with what'，这是演讲者探讨的核心问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 282.8,
+      "endTime": 288.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tools",
+        "outcomes",
+        "aligned"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker suggest about modern tools and 'high reward' activities?",
+      "options": [
+        "A) Modern tools are always best for high reward work",
+        "B) Using modern tools can be counter to high reward work",
+        "C) Modern tools have no effect on work quality",
+        "D) High reward work doesn't need tools"
+      ],
+      "answer": "B",
+      "explanation": "视频提到'using modern tools can be so what does this mean actionably'，暗示使用现代工具可能与获得高回报的创作工作相悖。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 277.6,
+      "endTime": 282.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "modern tools",
+        "high reward",
+        "counter"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'insightful Revelation' mean?",
+      "options": [
+        "A) A boring statement",
+        "B) A surprising and perceptive realization",
+        "C) A confusing idea",
+        "D) A common opinion"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'I was struck by what I thought was a kind of insightful Revelation'，insightful意为'有洞察力的'，Revelation意为'启示/领悟'，合起来指令人印象深刻的有见地的领悟。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 23.2,
+      "endTime": 28.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "insightful",
+        "Revelation",
+        "struck"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What is the speaker's advice about choosing writing tools?",
+      "options": [
+        "A) Always use the most advanced tools",
+        "B) Consider whether the tools help achieve your goals",
+        "C) Only use pen and paper",
+        "D) Avoid thinking about tools"
+      ],
+      "answer": "B",
+      "explanation": "整个视频的核心观点是，我们应该思考工具如何影响我们的成果，以及工具是否与我们想要达成的目标一致。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 292.7,
+      "endTime": 297.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tools",
+        "goals",
+        "advice"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What tools do you prefer for creative work and why? How do you think these tools affect the quality of your work?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生分享他们偏好的创作工具及其对工作质量的影响。",
+      "referenceAnswer": "Students should discuss: 1) What tools they use (computer, pen and paper, etc.) 2) Why they prefer these tools 3) How these tools affect their creativity and productivity 4) Whether they have noticed any differences in work quality when using different tools",
+      "hint": "Consider both advantages and disadvantages of different tools, and reflect on whether your tool choice aligns with your goals.",
+      "startTime": 355.2,
+      "endTime": 359.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tools",
+        "creative work",
+        "quality"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Do you agree that digital tools can be distracting? Can you share an experience where you were distracted by digital devices while working or studying?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生讨论数字工具的干扰问题并分享个人经历。",
+      "referenceAnswer": "Students should: 1) Give their opinion on digital distractions 2) Provide a specific example 3) Explain how they dealt with the distraction 4) Suggest ways to minimize digital distractions",
+      "hint": "Think about notifications, social media, or other apps that might interrupt your focus.",
+      "startTime": 151.1,
+      "endTime": 155.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "digital tools",
+        "distraction",
+        "experience"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speaker mentions doing his best work on airplanes. Where do you do your best work? What conditions help you be most productive?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生分享最佳工作环境和条件。",
+      "referenceAnswer": "Students should describe: 1) Where they do their best work (quiet room, library, coffee shop, etc.) 2) What makes that environment conducive to productivity 3) Whether they need complete silence or some background noise 4) How they create those conditions",
+      "hint": "Think about what helps you focus - silence, music, specific time of day, etc.",
+      "startTime": 246.2,
+      "endTime": 253.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "best work",
+        "environment",
+        "productive"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The video suggests that the difference between a good writer and a great author is not typing speed, but the ability to reduce distraction. Do you agree? What do you think are the key factors that limit creative output?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生讨论限制创意产出的关键因素。",
+      "referenceAnswer": "Students should: 1) Express whether they agree with the statement 2) Identify limiting factors (distraction, fear of failure, lack of ideas, etc.) 3) Compare their views with the speaker's perspective 4) Suggest how to overcome these limitations",
+      "hint": "Consider both internal factors (motivation, creativity) and external factors (environment, tools).",
+      "startTime": 178.4,
+      "endTime": 185.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "limiting factors",
+        "distraction",
+        "creative output"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The speaker talks about trying 'airplane mode hours' to focus better. What strategies do you use or would you like to try to improve your focus and reduce distractions?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生分享提高专注力和减少干扰的策略。",
+      "referenceAnswer": "Students should describe: 1) Strategies they currently use to focus 2) New strategies they would like to try 3) How effective these strategies are 4) What challenges they face in staying focused",
+      "hint": "Think about methods like turning off notifications, setting specific work hours, using productivity apps, or finding a quiet workspace.",
+      "startTime": 328.1,
+      "endTime": 337.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "airplane mode",
+        "focus",
+        "strategies"
+      ]
+    }
+  ]
+}

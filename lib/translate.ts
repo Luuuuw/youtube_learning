@@ -2,6 +2,17 @@ import fs from 'fs';
 import path from 'path';
 import { parseVtt, Subtitle } from '@/lib/vtt-parser';
 import { invalidateVideoCache } from '@/lib/videos';
+import { reviewAndFillGaps } from '@/lib/deepseek';
+import {
+  loadState,
+  initState,
+  saveState,
+  markDone,
+  markFailed,
+  getDoneTranslation,
+  cueKey,
+  countDone,
+} from '@/lib/translate-state';
 const MINIMAX_API_URL = 'https://api.minimaxi.com/v1/text/chatcompletion_v2';
 const CONTENT_DIR = path.join(process.cwd(), 'public', 'content');
 const BATCH_SIZE = 8;
@@ -245,29 +256,10 @@ async function translateBatch(
   return translated;
 }
 
-async function reviewBatch(
-  enSubtitles: SubtitleItem[],
-  zhTranslations: Map<number, string>,
-  apiKey: string
-): Promise<Map<number, string>> {
-  if (enSubtitles.length === 0) return zhTranslations;
-
-  const subtitles = enSubtitles.map((s) => ({
-    id: s.id,
-    text: `EN: ${s.text}\nZH: ${zhTranslations.get(s.id) || ''}`,
-  }));
-
-  const reviewed = await requestBatchTranslation(subtitles, apiKey, 'review');
-  if (reviewed.size === enSubtitles.length) return reviewed;
-
-  // Keep already translated text as safe fallback when review misses ids.
-  enSubtitles.forEach((s) => {
-    if (!reviewed.has(s.id)) {
-      const old = zhTranslations.get(s.id);
-      if (old) reviewed.set(s.id, old);
-    }
-  });
-  return reviewed;
+// 审校阶段交给 DeepSeek（见 lib/deepseek.ts:reviewAndFillGaps）。
+// 这里只保留一个工具函数：当 DeepSeek key 缺失时降级为"原样返回 MiniMax 结果"。
+function passthroughReview(zhTranslations: Map<number, string>): Map<number, string> {
+  return new Map(zhTranslations);
 }
 
 function formatVttTime(seconds: number): string {
@@ -367,35 +359,81 @@ export async function translateSubtitlesForVideo(
 
   if (translatableSubs.length === 0) return [];
 
-  const batches: SubtitleItem[][] = [];
-  for (let i = 0; i < translatableSubs.length; i += BATCH_SIZE) {
-    batches.push(translatableSubs.slice(i, i + BATCH_SIZE));
+  // 状态持久化：已 done 的 cue 直接复用
+  const cueTimeById = new Map<number, { start: number; end: number }>();
+  for (const sub of subtitles) {
+    cueTimeById.set(sub.id, { start: sub.startTime, end: sub.endTime });
+  }
+  const state = initState(videoId, translatableSubs.length, loadState(videoId));
+
+  const allTranslations = new Map<number, string>();
+  const remaining: SubtitleItem[] = [];
+  for (const ts of translatableSubs) {
+    const t = cueTimeById.get(ts.id);
+    if (!t) { remaining.push(ts); continue; }
+    const cached = getDoneTranslation(state, cueKey(t.start, t.end), ts.text);
+    if (cached) allTranslations.set(ts.id, cached);
+    else remaining.push(ts);
+  }
+  if (allTranslations.size > 0) {
+    console.log(`[translate] ${videoId} 复用状态文件 ${allTranslations.size}/${translatableSubs.length} 条，剩余 ${remaining.length} 条待翻译`);
   }
 
+  const batches: SubtitleItem[][] = [];
+  for (let i = 0; i < remaining.length; i += BATCH_SIZE) {
+    batches.push(remaining.slice(i, i + BATCH_SIZE));
+  }
+
+  const runBatchWithState = async (batch: SubtitleItem[]): Promise<Map<number, string>> => {
+    let result: Map<number, string>;
+    try {
+      result = await translateBatch(batch, apiKey);
+    } catch (err) {
+      console.error('[translate] batch failed:', (err as Error).message);
+      result = new Map();
+    }
+    for (const sub of batch) {
+      const t = cueTimeById.get(sub.id);
+      if (!t) continue;
+      const key = cueKey(t.start, t.end);
+      const zh = result.get(sub.id);
+      if (zh) markDone(state, key, sub.text, zh, 'minimax');
+      else markFailed(state, key, sub.text);
+    }
+    saveState(state);
+    return result;
+  };
+
   const batchResults = await runWithConcurrencyLimit(
-    batches.map((batch) => () => translateBatch(batch, apiKey)),
+    batches.map((batch) => () => runBatchWithState(batch)),
     MAX_CONCURRENT
   );
 
-  const allTranslations = new Map<number, string>();
   for (const result of batchResults) {
     result.forEach((text, id) => allTranslations.set(id, text));
   }
 
-  const reviewResults = await runWithConcurrencyLimit(
-    batches.map((batch) => () => reviewBatch(batch, allTranslations, apiKey)),
-    MAX_CONCURRENT
-  );
+  // DeepSeek 审校 + 补漏（缺 key 时降级为直接用 MiniMax 结果）
+  const deepseekKey = process.env.DEEPSEEK_API_KEY;
+  const finalTranslations = deepseekKey
+    ? await reviewAndFillGaps(translatableSubs, allTranslations, deepseekKey)
+    : passthroughReview(allTranslations);
 
-  const reviewedTranslations = new Map<number, string>();
-  for (const result of reviewResults) {
-    result.forEach((text, id) => reviewedTranslations.set(id, text));
+  // 回写 DeepSeek 改动到 state
+  for (const sub of translatableSubs) {
+    const t = cueTimeById.get(sub.id);
+    if (!t) continue;
+    const key = cueKey(t.start, t.end);
+    const finalZh = finalTranslations.get(sub.id);
+    if (!finalZh) continue;
+    const mmZh = allTranslations.get(sub.id);
+    if (finalZh !== mmZh) {
+      markDone(state, key, sub.text, finalZh, 'deepseek');
+    } else if (!state.cues[key] || state.cues[key].status !== 'done') {
+      markDone(state, key, sub.text, finalZh, 'minimax');
+    }
   }
-
-  const finalTranslations = new Map<number, string>();
-  allTranslations.forEach((text, id) => {
-    finalTranslations.set(id, reviewedTranslations.get(id) || text);
-  });
+  saveState(state);
 
   const lines = ['WEBVTT', ''];
   let transIdx = 0;
@@ -547,56 +585,92 @@ export async function translateVideoFromRawVtt(videoId: string): Promise<Subtitl
   const apiKey = process.env.MINIMAX_API_KEY;
   if (!apiKey) return [];
 
-  const batches: SubtitleItem[][] = [];
-  for (let i = 0; i < translatableSubs.length; i += BATCH_SIZE) {
-    batches.push(translatableSubs.slice(i, i + BATCH_SIZE));
+  // 状态持久化：相同 (start,end) 已 done 的 cue 直接复用，避免重复 API 调用
+  const cueTimeById = new Map<number, { start: number; end: number }>();
+  for (const sub of finalEnSubtitles) {
+    cueTimeById.set(sub.id, { start: sub.startTime, end: sub.endTime });
   }
+  const state = initState(videoId, translatableSubs.length, loadState(videoId));
 
   const allTranslations = new Map<number, string>();
+  const remaining: SubtitleItem[] = [];
+  for (const ts of translatableSubs) {
+    const t = cueTimeById.get(ts.id);
+    if (!t) { remaining.push(ts); continue; }
+    const cached = getDoneTranslation(state, cueKey(t.start, t.end), ts.text);
+    if (cached) allTranslations.set(ts.id, cached);
+    else remaining.push(ts);
+  }
+  if (allTranslations.size > 0) {
+    console.log(`[translate] ${videoId} 复用状态文件 ${allTranslations.size}/${translatableSubs.length} 条，剩余 ${remaining.length} 条待翻译`);
+  }
+
+  const batches: SubtitleItem[][] = [];
+  for (let i = 0; i < remaining.length; i += BATCH_SIZE) {
+    batches.push(remaining.slice(i, i + BATCH_SIZE));
+  }
 
   for (let batchIdx = 0; batchIdx < batches.length; batchIdx++) {
     try {
       const result = await translateBatch(batches[batchIdx], apiKey);
-      result.forEach((text, id) => allTranslations.set(id, text));
+      for (const sub of batches[batchIdx]) {
+        const t = cueTimeById.get(sub.id);
+        if (!t) continue;
+        const key = cueKey(t.start, t.end);
+        const zh = result.get(sub.id);
+        if (zh) {
+          allTranslations.set(sub.id, zh);
+          markDone(state, key, sub.text, zh, 'minimax');
+        } else {
+          markFailed(state, key, sub.text);
+        }
+      }
+      saveState(state);
     } catch (err) {
       console.error(`Batch ${batchIdx} translate failed:`, (err as Error).message);
+      for (const sub of batches[batchIdx]) {
+        const t = cueTimeById.get(sub.id);
+        if (t) markFailed(state, cueKey(t.start, t.end), sub.text);
+      }
+      saveState(state);
     }
     if ((batchIdx + 1) % 5 === 0 || batchIdx === batches.length - 1) {
-      console.log(`Translate progress: ${batchIdx + 1}/${batches.length} batches, ${allTranslations.size}/${translatableSubs.length} subtitles`);
+      console.log(`Translate progress: ${batchIdx + 1}/${batches.length} batches, ${allTranslations.size}/${translatableSubs.length} subtitles (state-done=${countDone(state)})`);
     }
   }
 
-  const reviewedTranslations = new Map<number, string>();
-
-  for (let batchIdx = 0; batchIdx < batches.length; batchIdx++) {
-    const batch = batches[batchIdx];
-    const batchTranslations = new Map<number, string>();
-    for (const s of batch) {
-      const t = allTranslations.get(s.id);
-      if (t !== undefined) batchTranslations.set(s.id, t);
-    }
-    if (batchTranslations.size === 0) continue;
-
+  // DeepSeek 审校 + 补漏：替代过去用 MiniMax 逐批 review 的方式，一次调用搞定整批。
+  // 缺 DEEPSEEK_API_KEY 时降级为直接用 MiniMax 结果（不阻塞主流程）。
+  const deepseekKey = process.env.DEEPSEEK_API_KEY;
+  let finalTranslations: Map<number, string>;
+  if (deepseekKey) {
     try {
-      const result = await reviewBatch(batch, batchTranslations, apiKey);
-      result.forEach((text, id) => reviewedTranslations.set(id, text));
+      finalTranslations = await reviewAndFillGaps(translatableSubs, allTranslations, deepseekKey);
     } catch (err) {
-      console.error(`Batch ${batchIdx} review failed:`, (err as Error).message);
-      batchTranslations.forEach((text, id) => reviewedTranslations.set(id, text));
+      console.error(`[translate] ${videoId} DeepSeek 审校失败，回退 MiniMax 结果:`, (err as Error).message);
+      finalTranslations = new Map(allTranslations);
     }
-    if ((batchIdx + 1) % 5 === 0 || batchIdx === batches.length - 1) {
-      console.log(`Review progress: ${batchIdx + 1}/${batches.length} batches`);
-    }
+  } else {
+    console.warn('[translate] DEEPSEEK_API_KEY 未配置，跳过审校阶段');
+    finalTranslations = new Map(allTranslations);
   }
 
-  const finalTranslations = new Map<number, string>();
-  allTranslations.forEach((text, id) => {
-    finalTranslations.set(id, reviewedTranslations.get(id) || text);
-  });
+  // DeepSeek 改过的条目要回写到 state，未改的保持 minimax 标记不变
+  for (const sub of translatableSubs) {
+    const t = cueTimeById.get(sub.id);
+    if (!t) continue;
+    const key = cueKey(t.start, t.end);
+    const finalZh = finalTranslations.get(sub.id);
+    if (!finalZh) continue;
+    const mmZh = allTranslations.get(sub.id);
+    if (finalZh !== mmZh) {
+      markDone(state, key, sub.text, finalZh, 'deepseek');
+    } else if (!state.cues[key] || state.cues[key].status !== 'done') {
+      markDone(state, key, sub.text, finalZh, 'minimax');
+    }
+  }
+  saveState(state);
 
-  // 阈值降到 30%：batch=8 + JSON + 单条 fallback 后基本不会到这条线下；
-  // 但极端情况（MiniMax 大面积 5xx）下，宁可写入部分翻译，也比返回空让 process-all
-  // 报 "翻译失败" 又删了旧数据更好
   const coverage = finalTranslations.size / translatableSubs.length;
   if (coverage < 0.3) {
     console.warn(`[translate] ${videoId} 翻译覆盖率 ${Math.round(coverage * 100)}% < 30%，不写入文件（保留旧 zh-Hans 若存在）`);

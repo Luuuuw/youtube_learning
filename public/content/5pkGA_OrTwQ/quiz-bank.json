@@ -1,0 +1,577 @@
+{
+  "videoId": "5pkGA_OrTwQ",
+  "title": "I Visited the Top 10 Places in America - Finale",
+  "generatedAt": "2026-06-14T17:17:35.397Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 13,
+    "hard": 3,
+    "choice": 22,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'the real deal' mean in the context of the video?",
+      "options": [
+        "A) Something fake or imitation",
+        "B) Something genuine or authentic",
+        "C) Something expensive",
+        "D) Something dangerous"
+      ],
+      "answer": "B",
+      "explanation": "'The real deal' is an idiomatic expression meaning something genuine, authentic, or truly what it claims to be. In the video, the speaker says 'this guy must be the real deal' to indicate they believe the person is authentic or impressive.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 61.8,
+      "endTime": 66,
+      "difficulty": "medium",
+      "relatedWords": [
+        "real deal",
+        "authentic",
+        "idiom"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'second to none' mean as used in the video?",
+      "options": [
+        "A) Very poor quality",
+        "B) The best among all options",
+        "C) Almost the best",
+        "D) Equal to everything else"
+      ],
+      "answer": "B",
+      "explanation": "'Second to none' means being the best; nothing or no one is better. The speaker says 'I think I just understood what second to none meant for the first time', indicating they now comprehend this phrase means being unparalleled or the top.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 661.4,
+      "endTime": 665.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "second to none",
+        "unparalleled",
+        "best"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'y'all' mean in American English?",
+      "options": [
+        "A) You all (plural)",
+        "B) You one person",
+        "C) Goodbye",
+        "D) Hello"
+      ],
+      "answer": "A",
+      "explanation": "'Y'all' is a colloquial contraction of 'you all' commonly used in American English, particularly in the Southern United States, to address or refer to multiple people.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 693.1,
+      "endTime": 694.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "y'all",
+        "colloquial",
+        "you all"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'acoustically' mean in the context of Louis's performance?",
+      "options": [
+        "A) With heavy electronic equipment",
+        "B) Without amplification, using natural sound",
+        "C) With a full band",
+        "D) With pre-recorded music"
+      ],
+      "answer": "B",
+      "explanation": "When a performance is described as 'acoustically', it means the musician performs without electric amplification, using acoustic instruments like guitar, piano, or voice alone, creating a raw and natural sound.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 827.3,
+      "endTime": 830.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "acoustically",
+        "acoustic",
+        "performance"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is the state capital of Colorado?",
+      "options": [
+        "A) Denver",
+        "B) Colorado Springs",
+        "C) Boulder",
+        "D) Aspen"
+      ],
+      "answer": "A",
+      "explanation": "Denver is the state capital of Colorado. The video mentions 'That is the state capital of Colorado' when referring to Denver.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 101.8,
+      "endTime": 103.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Colorado",
+        "Denver",
+        "capital"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'pass it down' mean in the video context?",
+      "options": [
+        "A) To give something to someone younger",
+        "B) To throw something away",
+        "C) To forget something",
+        "D) To buy something new"
+      ],
+      "answer": "A",
+      "explanation": "'Pass it down' means to give or transmit something to the next generation or to someone else, often referring to traditions, items, or knowledge being transferred.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 551.6,
+      "endTime": 552.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pass it down",
+        "tradition",
+        "give"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What attraction is mentioned as number two in the video?",
+      "options": [
+        "A) Disneyland",
+        "B) Yellowstone National Park",
+        "C) Red Rocks Amphitheater",
+        "D) Times Square"
+      ],
+      "answer": "C",
+      "explanation": "The video clearly states 'Number two, Red Rocks Amphitheater' which is a famous outdoor concert venue located in Morrison, Colorado, near Denver.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 128.9,
+      "endTime": 131,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Red Rocks",
+        "Amphitheater",
+        "Colorado"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'pretty crazy' mean in this context?",
+      "options": [
+        "A) Mentally unwell",
+        "B) Something surprising or impressive",
+        "C) Something boring",
+        "D) Something very small"
+      ],
+      "answer": "B",
+      "explanation": "'Pretty crazy' in casual conversation often means something is surprising, amazing, or impressive, rather than actually being insane or unwell. It's an expression of astonishment.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 667.1,
+      "endTime": 668.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "crazy",
+        "surprising",
+        "amazing"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is Ben's Chili Bowl?",
+      "options": [
+        "A) A clothing store",
+        "B) A famous restaurant in Washington DC",
+        "C) A museum",
+        "D) A park"
+      ],
+      "answer": "B",
+      "explanation": "Ben's Chili Bowl is a famous and historic restaurant located in Washington DC, known for its chili dogs and half-smokes. It's a iconic eatery in the capital.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 467,
+      "endTime": 470.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Ben's Chili Bowl",
+        "Washington DC",
+        "restaurant"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'Five stars' mean in the context of the video?",
+      "options": [
+        "A) A hotel rating",
+        "B) Something of excellent quality",
+        "C) A military rank",
+        "D) A price"
+      ],
+      "answer": "B",
+      "explanation": "'Five stars' is commonly used to indicate something is of the highest quality or excellence, similar to a five-star rating system for hotels, restaurants, or products.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 660.6,
+      "endTime": 661.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "five stars",
+        "excellent",
+        "quality"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'put a smile on her face' mean?",
+      "options": [
+        "A) To make someone happy",
+        "B) To draw a picture",
+        "C) To confuse someone",
+        "D) To say goodbye"
+      ],
+      "answer": "A",
+      "explanation": "'To put a smile on someone's face' is an idiomatic expression meaning to make someone feel happy or to bring joy to them.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 752.5,
+      "endTime": 754.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "smile",
+        "happy",
+        "joy"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'unreal' mean in the context of the video?",
+      "options": [
+        "A) Not real or fictional",
+        "B) Amazing or incredible",
+        "C) Boring",
+        "D) Confusing"
+      ],
+      "answer": "B",
+      "explanation": "In casual American English, 'unreal' is often used to describe something that is amazing, incredible, or hard to believe - not literally 'not real'.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 470.1,
+      "endTime": 471.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "unreal",
+        "amazing",
+        "incredible"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What are 'Mickey ears' referring to?",
+      "options": [
+        "A) A character's ears from a movie",
+        "B) Disney-themed ear headwear",
+        "C) A food item",
+        "D) A musical instrument"
+      ],
+      "answer": "B",
+      "explanation": "Mickey ears are iconic Disney-themed headwear shaped like Mickey Mouse's ears, commonly worn by visitors to Disney parks. The speaker mentions 'I really did like my Mickey ears' indicating they purchased and wore these.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 511,
+      "endTime": 512.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Mickey ears",
+        "Disney",
+        "headwear"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'clicks for me' mean in the video?",
+      "options": [
+        "A) Makes a sound",
+        "B) Becomes understandable",
+        "C) Stops working",
+        "D) Gets broken"
+      ],
+      "answer": "B",
+      "explanation": "'Clicks' in this context is an idiomatic expression meaning something suddenly makes sense or becomes understood. 'That one clicks for me instantly' means 'I suddenly understand that'.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 674.6,
+      "endTime": 676.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "clicks",
+        "understand",
+        "realize"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'Bucket List' refer to in the video?",
+      "options": [
+        "A) A list of things to buy",
+        "B) A list of goals to achieve before dying",
+        "C) A shopping list",
+        "D) A book"
+      ],
+      "answer": "B",
+      "explanation": "A 'Bucket List' refers to a list of experiences or achievements a person wants to accomplish before they 'kick the bucket' (die). The video mentions 'the entire Bucket List series' indicating this is a travel series visiting top attractions.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 459.3,
+      "endTime": 463.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bucket list",
+        "goals",
+        "travel"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the main topic of this video series?",
+      "options": [
+        "A) Testing the top 10 tourist attractions in America",
+        "B) Cooking American food",
+        "C) Learning American history",
+        "D) Shopping in America"
+      ],
+      "answer": "A",
+      "explanation": "The video clearly states 'It is the final day of testing the top 10 tourist attractions in America' at the beginning, indicating this is a travel series visiting America's top attractions.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2.1,
+      "endTime": 6.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "top 10",
+        "tourist attractions",
+        "America"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "Describe a memorable moment from your own trip or an experience you'd like to have. What made it special?",
+      "options": [],
+      "answer": "open",
+      "explanation": "This is an open-ended speaking question.参考答案要点：需要描述一个令人难忘的经历或旅行，说明为什么它特别。可以提到具体的人、地方、活动，以及个人感受。提示：可以谈论视频中提到的内容，如Red Rocks音乐会场、迪士尼乐园、华盛顿DC的本氏 chili bowl等，或者分享自己的类似经历。",
+      "referenceAnswer": "Describe a memorable travel experience, mentioning specific details about the place, people, or activities that made it special.",
+      "hint": "Think about a trip you've taken or want to take. What made it memorable? You can reference places mentioned in the video like concerts, famous restaurants, or tourist attractions.",
+      "startTime": 528.6,
+      "endTime": 530.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "memorable",
+        "experience",
+        "travel"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'scrapbook pages' refer to in the video?",
+      "options": [
+        "A) Digital photos",
+        "B) Photo albums with decorated pages",
+        "C) Books about scrapbooking",
+        "D) Online profiles"
+      ],
+      "answer": "B",
+      "explanation": "Scrapbook pages are decorated pages in a scrapbook where people place photos, tickets, and other memorabilia from trips or events, often with decorative elements. The video mentions making 'scrapbook pages for each' location visited.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 544.9,
+      "endTime": 548.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "scrapbook",
+        "photos",
+        "memories"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What is Red Rocks Amphitheater known for?",
+      "options": [
+        "A) Being an indoor theater",
+        "B) Hosting outdoor concerts with natural rock formations",
+        "C) Being a sports stadium",
+        "D) Being a museum"
+      ],
+      "answer": "B",
+      "explanation": "Red Rocks Amphitheater is a world-famous outdoor concert venue in Colorado, known for its massive natural sandstone rock formations that serve as a natural acoustic backdrop for performances.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 602.6,
+      "endTime": 604.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Red Rocks",
+        "concert",
+        "outdoor"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "If you could visit any one place in America, where would you go and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "开放式口语题。参考答案要点：选择美国的一个地点，说明想去的原因。可以提及自然风光、城市景点、文化地标等。提示：可以参考视频中提到的地点，如丹佛、红岩音乐厅、华盛顿特区等，或者其他著名的美国景点。",
+      "referenceAnswer": "Choose one place in America and explain why you want to visit it. Include specific reasons related to what makes that place special.",
+      "hint": "You can reference places from the video or other famous American attractions. Think about what interests you - nature, cities, food, music, etc.",
+      "startTime": 582,
+      "endTime": 583.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "America",
+        "travel",
+        "destination"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does 'superlatives' mean in the video context?",
+      "options": [
+        "A) A type of grammar",
+        "B) Expressions showing the highest degree",
+        "C) A kind of food",
+        "D) A person's name"
+      ],
+      "answer": "B",
+      "explanation": "Superlatives are grammatical forms used to express the highest degree of comparison (e.g., best, most beautiful, tallest). The speaker says 'I love superlatives' when discussing ranking the best meal, indicating they enjoy making comparisons like 'the best' or 'the most'.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 451.9,
+      "endTime": 453.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "superlatives",
+        "grammar",
+        "comparison"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does 'it will be cold and rainy' suggest about the weather concern?",
+      "options": [
+        "A) They hope for good weather for the concert",
+        "B) They want rainy weather",
+        "C) They don't care about the weather",
+        "D) They prefer cold weather"
+      ],
+      "answer": "A",
+      "explanation": "The video mentions 'Haley is very scared that it will be cold and rainy at the concert' - this indicates concern about bad weather affecting an outdoor concert event, suggesting they hoped for good weather.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 272.8,
+      "endTime": 284,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cold",
+        "rainy",
+        "weather",
+        "concert"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'that one clicks for me instantly' imply?",
+      "options": [
+        "A) The speaker broke something",
+        "B) The speaker immediately understood something",
+        "C) The speaker took a photo",
+        "D) The speaker clicked a button"
+      ],
+      "answer": "B",
+      "explanation": "As explained earlier, 'clicks' here means suddenly understanding something. 'That one clicks for me instantly' means the speaker immediately understood or realized something.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 674.6,
+      "endTime": 676.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "clicks",
+        "understood",
+        "instantly"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "What is your favorite type of travel experience - adventure, relaxation, cultural exploration, or food tourism? Explain why.",
+      "options": [],
+      "answer": "open",
+      "explanation": "开放式口语题。参考答案要点：选择一种旅行类型并解释原因。可以结合视频中提到的活动，如参观景点、尝试美食、观看音乐会等。提示：视频中涵盖了多种体验，包括观光（红岩音乐厅）、美食（本氏 chili bowl、热狗）、音乐会的文化体验等。",
+      "referenceAnswer": "Explain your preferred type of travel experience and why. Reference specific activities or examples.",
+      "hint": "Think about what you enjoy most when traveling. The video showed various experiences including sightseeing, trying local food, and attending concerts.",
+      "startTime": 765.9,
+      "endTime": 770.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "travel",
+        "experience",
+        "adventure"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "Based on the video, what seems to be the speaker's attitude toward the trip?",
+      "options": [
+        "A) Bored and tired",
+        "B) Negative and complaining",
+        "C) Positive and appreciative",
+        "D) Indifferent and neutral"
+      ],
+      "answer": "C",
+      "explanation": "Throughout the video, the speaker expresses gratitude ('thank you guys so much for watching'), excitement about various attractions, and positive emotions about the experiences, indicating a positive and appreciative attitude toward the trip.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 554.1,
+      "endTime": 557.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "positive",
+        "appreciative",
+        "grateful"
+      ]
+    }
+  ]
+}

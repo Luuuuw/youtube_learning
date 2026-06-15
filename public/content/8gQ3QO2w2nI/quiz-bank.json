@@ -1,0 +1,575 @@
+{
+  "videoId": "8gQ3QO2w2nI",
+  "title": "what i spend in a week living in nyc",
+  "generatedAt": "2026-06-14T17:23:41.100Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 11,
+    "medium": 10,
+    "hard": 3,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the speaker mainly concerned about in this video?",
+      "options": [
+        "A) How much money she spends on food in NYC",
+        "B) Her gym membership costs",
+        "C) Her apartment rent",
+        "D) Her transportation expenses"
+      ],
+      "answer": "A",
+      "explanation": "从字幕[551.6s-554.2s]可以看到 'Last time I looked at my Amex bills, all of my money was on food'，说明视频主要讨论在纽约的饮食开支。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 551.6,
+      "endTime": 554.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "spending",
+        "money",
+        "food",
+        "NYC"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the speaker mean by 'gym replacement' in the video?",
+      "options": [
+        "A) A home workout equipment",
+        "B) An outdoor physical activity that's free",
+        "C) A gym membership discount",
+        "D) A fitness app"
+      ],
+      "answer": "B",
+      "explanation": "字幕[126.2s-130.2s]提到 'This is my like gym replacement in the summertime often, and it's also free'，指的是夏天免费的户外运动替代健身房。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 126.2,
+      "endTime": 130.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "gym",
+        "replacement",
+        "free",
+        "summertime"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'cacao nibs' refer to in the smoothie context?",
+      "options": [
+        "A) A type of fruit",
+        "B) Chocolate chips used in baking",
+        "C) Crushed cocoa beans for smoothies",
+        "D) A brand of protein powder"
+      ],
+      "answer": "C",
+      "explanation": "字幕[327.4s-330.8s]明确提到 'This is the secret ingredient in my smoothies, the cacao nibs'，cacao nibs是碎可可豆，是 smoothie 的秘密原料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 327.4,
+      "endTime": 330.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cacao nibs",
+        "smoothie",
+        "ingredient",
+        "secret"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is ThreadUp according to the video?",
+      "options": [
+        "A) A food delivery app",
+        "B) A clothing resale platform",
+        "C) A fitness website",
+        "D) A movie streaming service"
+      ],
+      "answer": "B",
+      "explanation": "字幕[257.8s-260.2s]说 'So I just went on ThreadUp and I found a couple things'，结合上下文她在购物，ThreadUp是一个二手服装交易平台。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 257.8,
+      "endTime": 260.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "ThreadUp",
+        "shopping",
+        "clothes",
+        "found"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the speaker say about her eating habits?",
+      "options": [
+        "A) She always eats alone",
+        "B) She rarely eats with others",
+        "C) They usually eat together as a family",
+        "D) She prefers eating at restaurants"
+      ],
+      "answer": "C",
+      "explanation": "字幕[211.6s-213.4s]提到 'We actually usually eat together'，说明她通常和家人一起吃饭。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 211.6,
+      "endTime": 213.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "eat",
+        "together",
+        "usually",
+        "family"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What is the speaker's opinion about the outdoor theater experience?",
+      "options": [
+        "A) It's too expensive",
+        "B) It's a fun activity",
+        "C) It's not worth the time",
+        "D) It's only for couples"
+      ],
+      "answer": "B",
+      "explanation": "字幕[870.3s-873.0s]中说 'but I feel like this is a fun activity to do that isn't'，表示她认为这是一个有趣的活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 870.3,
+      "endTime": 873,
+      "difficulty": "medium",
+      "relatedWords": [
+        "fun",
+        "activity",
+        "outdoor",
+        "theater"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'pop-ups' mean in the context of New York?",
+      "options": [
+        "A) Birthday decorations",
+        "B) Temporary stores or exhibitions",
+        "C) Emergency services",
+        "D) Email notifications"
+      ],
+      "answer": "B",
+      "explanation": "字幕[404.2s-409.2s]说 'One of the things I love the most about New York is there's just the most random pop-ups'，在纽约的语境中，pop-ups指的是临时的popup商店或展览。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 404.2,
+      "endTime": 409.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "pop-ups",
+        "New York",
+        "random",
+        "love"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is the approximate cost of the iced protein latte mentioned?",
+      "options": [
+        "A) Around $5",
+        "B) Around $10",
+        "C) Around $15",
+        "D) Around $20"
+      ],
+      "answer": "C",
+      "explanation": "字幕[587.5s-589.7s]说 'I think it's like $15-ish'，指的是冰镇蛋白质拿铁的价格大约15美元。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 587.5,
+      "endTime": 589.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "iced protein latte",
+        "cost",
+        "dollars"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker think about her cousin?",
+      "options": [
+        "A) They just met recently",
+        "B) They've known each other for a long time",
+        "C) They never see each other",
+        "D) They don't get along well"
+      ],
+      "answer": "B",
+      "explanation": "字幕[856.7s-860.0s]说 'Her cousin. We go way back'，'go way back'意思是认识很久了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 856.7,
+      "endTime": 860,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cousin",
+        "go way back",
+        "known"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What ingredients are mentioned in the speaker's meal?",
+      "options": [
+        "A) Chicken, rice, and vegetables",
+        "B) Ground beef, white sweet potato, and cottage cheese",
+        "C) Fish, pasta, and cheese",
+        "D) Pork, broccoli, and tofu"
+      ],
+      "answer": "B",
+      "explanation": "字幕[225.2s-228.2s]明确提到 'It's ground beef, white sweet potato, cottage cheese'，这是她的餐食材料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 225.2,
+      "endTime": 228.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ground beef",
+        "sweet potato",
+        "cottage cheese",
+        "meal"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does the speaker say about her spending this year?",
+      "options": [
+        "A) She's been spending more than before",
+        "B) She's been doing better at managing money",
+        "C) She hasn't been tracking her expenses",
+        "D) She owes a lot of money"
+      ],
+      "answer": "B",
+      "explanation": "字幕[245.8s-247.7s]说 'And I think I've been doing a lot better at that this year'，意思是她在理财方面进步了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 245.8,
+      "endTime": 247.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spending",
+        "better",
+        "managing",
+        "year"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the speaker planning to do when her parents visit?",
+      "options": [
+        "A) Take them to a museum",
+        "B) Take them to a restaurant",
+        "C) Have them stay at her apartment",
+        "D) Go shopping with them"
+      ],
+      "answer": "B",
+      "explanation": "字幕[446.7s-449.6s]说 'When my parents visit me in a couple weeks, I'm going to take them here'，这里指带父母去某个地方，结合前文应该是指一家餐厅。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 446.7,
+      "endTime": 449.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "parents",
+        "visit",
+        "take them",
+        "restaurant"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'leftovers' mean in this context?",
+      "options": [
+        "A) Cooking ingredients",
+        "B) Food saved for later meals",
+        "C) Kitchen utensils",
+        "D) Table decorations"
+      ],
+      "answer": "B",
+      "explanation": "字幕[220.8s-223.7s]说 'It's just so easy, and it's actually makes for good leftovers'，leftovers指剩饭剩菜。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 220.8,
+      "endTime": 223.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "leftovers",
+        "food",
+        "meal",
+        "easy"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the speaker's attitude toward filming this video?",
+      "options": [
+        "A) Very excited",
+        "B) A bit reluctant",
+        "C) Completely indifferent",
+        "D) Very nervous"
+      ],
+      "answer": "B",
+      "explanation": "字幕[11.3s-15.3s]说 'I've been avoiding filming this video because I don't want to know how much I spent'，表明她有点不情愿拍摄这个视频。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 11.3,
+      "endTime": 15.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "avoiding",
+        "filming",
+        "spent",
+        "money"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'last minute' mean in the video?",
+      "options": [
+        "A) Very early in the morning",
+        "B) At the end of the day",
+        "C) With little advance notice",
+        "D) After midnight"
+      ],
+      "answer": "C",
+      "explanation": "字幕[470.1s-471.6s]说 'I It's kind of last minute'，'last minute'意思是临时决定、没怎么提前通知。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 470.1,
+      "endTime": 471.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "last minute",
+        "decision",
+        "spontaneous"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker think about the pastries?",
+      "options": [
+        "A) They're terrible",
+        "B) They're okay",
+        "C) They're good",
+        "D) They're overpriced"
+      ],
+      "answer": "C",
+      "explanation": "字幕[390.5s-391.4s]说 'They're good'，这是对糕点的评价。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 390.5,
+      "endTime": 391.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pastries",
+        "good",
+        "taste"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the phrase 'kind of upset' mean?",
+      "options": [
+        "A) Very happy",
+        "B) Slightly unhappy",
+        "C) Completely angry",
+        "D) Very surprised"
+      ],
+      "answer": "B",
+      "explanation": "字幕[291.5s-293.0s]说 'Actually, I'm kind of upset'，'kind of'表示有点、略微，'upset'表示难过或沮丧。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 291.5,
+      "endTime": 293,
+      "difficulty": "easy",
+      "relatedWords": [
+        "upset",
+        "kind of",
+        "emotion"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the cost of the outdoor theater experience with popcorn?",
+      "options": [
+        "A) $17",
+        "B) $27",
+        "C) $37",
+        "D) $47"
+      ],
+      "answer": "B",
+      "explanation": "字幕[860.0s-866.0s]说 'Birth This outdoor theater experience costs $27 with popcorn'，明确提到票价是27美元。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 860,
+      "endTime": 866,
+      "difficulty": "easy",
+      "relatedWords": [
+        "outdoor theater",
+        "cost",
+        "$27",
+        "popcorn"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "What does the speaker spend most of her money on in New York? Please explain based on the video content.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要学生根据视频内容回答问题并复述要点。",
+      "referenceAnswer": "According to the video, the speaker spends most of her money on food. She mentions that when she looked at her Amex bills, all of her money was on food. She also buys coffee, pastries, goes to restaurants, and purchases various food items throughout the week.",
+      "hint": "Think about what the speaker explicitly mentions about her spending habits. Consider the specific examples of food-related purchases mentioned in the video.",
+      "startTime": 551.6,
+      "endTime": 554.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spending",
+        "food",
+        "money",
+        "NYC",
+        "Amex"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe what the speaker typically eats for one of her meals mentioned in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要学生描述视频中提到的餐食。",
+      "referenceAnswer": "The speaker mentions a meal that includes ground beef, white sweet potato, and cottage cheese. She also talks about making smoothies with cacao nibs as a secret ingredient. Additionally, she mentions buying pastries and doing a taste test.",
+      "hint": "Look for details about the specific food items and ingredients mentioned when she describes her meals.",
+      "startTime": 225.2,
+      "endTime": 330.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "meal",
+        "ground beef",
+        "sweet potato",
+        "cottage cheese",
+        "smoothie"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What activities does the speaker do in New York that are mentioned in the video? Please list at least three.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要学生列出视频中提到的活动。",
+      "referenceAnswer": "The speaker mentions several activities: 1) Going to the gym or doing outdoor exercises as a gym replacement; 2) Shopping on ThreadUp for clothes; 3) Eating at restaurants; 4) Going to an outdoor theater to watch a movie with her cousin; 5) Visiting pop-up shops.",
+      "hint": "Think about the different places and activities the speaker talks about throughout the video, from morning routines to evening activities.",
+      "startTime": 126.2,
+      "endTime": 873,
+      "difficulty": "hard",
+      "relatedWords": [
+        "activities",
+        "New York",
+        "gym",
+        "shopping",
+        "theater",
+        "pop-ups"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the speaker mean by 'the best smoothie recipe ever'?",
+      "options": [
+        "A) A recipe she invented herself",
+        "B) A recipe that is extremely good",
+        "C) A recipe that takes forever to make",
+        "D) A recipe from a famous chef"
+      ],
+      "answer": "B",
+      "explanation": "字幕[308.8s-310.3s]说 'It's just the best smoothie recipe ever'，意思是这是有史以来最好的smoothie配方，是一种夸张的说法表示非常好喝。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 308.8,
+      "endTime": 310.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "smoothie",
+        "recipe",
+        "best",
+        "ever"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'I feel like I need to' suggest in the video?",
+      "options": [
+        "A) The speaker is certain about something",
+        "B) The speaker feels obligated or thinks she should",
+        "C) The speaker wants something",
+        "D) The speaker is asking a question"
+      ],
+      "answer": "B",
+      "explanation": "字幕[420.4s-422.4s]说 'I feel like I need to'，'feel like I need to'表示感觉应该做某事，有义务感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 420.4,
+      "endTime": 422.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "feel like",
+        "need to",
+        "obligation"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the speaker say about her 'favorite things' she got?",
+      "options": [
+        "A) She bought them a long time ago",
+        "B) She wants to show them to viewers",
+        "C) She regrets buying them",
+        "D) She received them as gifts"
+      ],
+      "answer": "B",
+      "explanation": "字幕[802.3s-804.5s]说 'And I might as well show you my favorite things that I got'，她想向观众展示她买的东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 802.3,
+      "endTime": 804.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "favorite things",
+        "show",
+        "got",
+        "bought"
+      ]
+    }
+  ]
+}

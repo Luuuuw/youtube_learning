@@ -1,0 +1,556 @@
+{
+  "videoId": "0PTNj4q08cI",
+  "title": "Watch this before you enter your next chapter.",
+  "generatedAt": "2026-06-14T17:18:26.261Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 11,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'the safest decision on paper' mean in this context?",
+      "options": [
+        "A) The decision that looks perfect on a resume",
+        "B) The decision that appears most logical and safe when analyzed theoretically",
+        "C) The decision that is approved by everyone",
+        "D) The decision that requires the least effort"
+      ],
+      "answer": "B",
+      "explanation": "这个短语指的是表面上看起来最安全、最合理的决定，但在实际生活中可能并不是最适合自己的选择。视频中提到人们有时会做出'not the smartest on paper'的选择，因为跟随热爱更重要。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 196.7,
+      "endTime": 199.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "decision",
+        "paper",
+        "safe"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the speaker, what should we do with parts of our life that feel unideal?",
+      "options": [
+        "A) Try to change them immediately",
+        "B) Ignore them and move on",
+        "C) Not try to reject those parts",
+        "D) Feel ashamed about them"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到'to not try to reject those parts of your life that feel unideal'，即不应该试图拒绝生活中那些感觉不完美的部分，要学会接受它们。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 290.2,
+      "endTime": 296.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "unideal",
+        "reject",
+        "accept"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'sweet spot' mean in the context of finding balance?",
+      "options": [
+        "A) A place where you feel uncomfortable",
+        "B) The perfect balance point where things feel just right",
+        "C) A dangerous situation",
+        "D) A competition"
+      ],
+      "answer": "B",
+      "explanation": "'Sweet spot'是一个常用表达，意思是最佳点、最理想的状态。视频中提到'finding my sweet spot where things feel just right'，指的是在生活各方面找到平衡、感觉恰到好处的状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 209.2,
+      "endTime": 215.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sweet spot",
+        "balance",
+        "feel right"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'average Joe' refer to in this video?",
+      "options": [
+        "A) A famous person",
+        "B) An ordinary, typical person",
+        "C) A intelligent person",
+        "D) A wealthy person"
+      ],
+      "answer": "B",
+      "explanation": "'Average Joe'是一个常用习语，指普通人、平常人。视频中'nnecessarily your average Joe'暗示说话者认为自己不是普通人，有着特别的追求。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 339.2,
+      "endTime": 341.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "average Joe",
+        "ordinary",
+        "typical"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'all your ducks in a row' mean?",
+      "options": [
+        "A) Being disorganized",
+        "B) Having everything in order and well-prepared",
+        "C) Going backwards",
+        "D) Being confused"
+      ],
+      "answer": "B",
+      "explanation": "这是一个著名的英语习语，意思是把所有事情安排得井井有条、准备就绪。视频中说'Having all your ducks in a row is good'，但也提醒人们不要太过于追求完美。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 22.1,
+      "endTime": 40.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "ducks in a row",
+        "organized",
+        "prepared"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What advice does the speaker give about putting yourself in a vulnerable position?",
+      "options": [
+        "A) Avoid it at all costs",
+        "B) Don't be afraid to do it",
+        "C) Only do it with friends",
+        "D) It's always dangerous"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确建议'Don't be afraid to put yourself in a position that is maybe more vulnerable'，即不要害怕让自己处于可能更脆弱的位置，这是成长的一部分。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 46.1,
+      "endTime": 51.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "vulnerable",
+        "position",
+        "afraid"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'not hold back' mean in this context?",
+      "options": [
+        "A) Stop completely",
+        "B) Restrain yourself",
+        "C) Do something fully without reservations",
+        "D) Be careful"
+      ],
+      "answer": "C",
+      "explanation": "'Not hold back'意思是毫无保留、尽情投入。视频中'do it fully and not hold back'是在鼓励人们追求热爱时要全力以赴，不要克制或保留。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 747.3,
+      "endTime": 750,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hold back",
+        "fully",
+        "reserve"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is the speaker's attitude toward pursuing what you love despite potential negative outcomes?",
+      "options": [
+        "A) Avoid it completely",
+        "B) Face whatever outcome arises",
+        "C) Only pursue safe goals",
+        "D) Wait until you're ready"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确表达'face whatever outcome arises in the event of me pursuing what I love'，即准备好面对追求热爱可能带来的任何结果，这是一种积极面对风险的态度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 719,
+      "endTime": 726.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "outcome",
+        "pursue",
+        "face"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker say about being 'too focused on having things just right'?",
+      "options": [
+        "A) It's necessary for success",
+        "B) It's really dangerous",
+        "C) It's the only way",
+        "D) It's comfortable"
+      ],
+      "answer": "B",
+      "explanation": "视频开头就警告说'it's really dangerous to be too focused on having things just right'，过于追求完美可能是危险的，因为会阻碍你尝试新事物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 9.4,
+      "endTime": 22.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "focused",
+        "just right",
+        "dangerous"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'everything happens for a reason' express in this video?",
+      "options": [
+        "A) We should control everything",
+        "B) Everything is predetermined and we should accept it",
+        "C) Random events have purposes we may not see",
+        "D) We should question everything"
+      ],
+      "answer": "C",
+      "explanation": "这是视频中表达的一个生活哲学观点，即生活中发生的事情都有其原因和意义，即使我们现在可能不理解。这是一种积极接受生活际遇的态度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 747.3,
+      "endTime": 750,
+      "difficulty": "medium",
+      "relatedWords": [
+        "happens",
+        "reason",
+        "purpose"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "Based on the video, what does the speaker compare life to?",
+      "options": [
+        "A) A competition",
+        "B) A beautiful story",
+        "C) A test",
+        "D) A journey"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'you should try to live your life like a beautiful story'，鼓励人们把生活当作一个美丽的故事来度过，意味着要丰富、有意义、有起伏。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 64.9,
+      "endTime": 75.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "life",
+        "beautiful story",
+        "live"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker say about doing something spontaneously?",
+      "options": [
+        "A) It's always wrong",
+        "B) It's something we should do",
+        "C) It's dangerous",
+        "D) It's illogical"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'it's spontaneous'，将其与'because you love it'联系在一起，暗示追随热情有时需要冲动和 spontaneity（自发性），不要总是权衡利弊。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 189.2,
+      "endTime": 190.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spontaneous",
+        "love",
+        "decision"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the speaker mean by 'transformation' in this video?",
+      "options": [
+        "A) Physical changes",
+        "B) A fundamental change in one's life or perspective",
+        "C) Changing others",
+        "D) Moving to a new place"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'to make that type of transformation'，指的是人生转变或蜕变——从一种状态到另一种状态的成长过程，不仅仅是外表的改变，而是内在的转变。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 677.2,
+      "endTime": 681.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "transformation",
+        "change",
+        "growth"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the speaker say about expectations from others?",
+      "options": [
+        "A) We should always meet them",
+        "B) There is an expectation that everyone should approve",
+        "C) We should ignore all expectations",
+        "D) Expectations are always fair"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'this expectation that everyone around you is supposed to approve of it'，指的是人们常常有的一个误解，认为身边的每个人都应该认可自己的选择。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 497.4,
+      "endTime": 502.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "expectation",
+        "approve",
+        "others"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'belief in myself' represent in the speaker's journey?",
+      "options": [
+        "A) arrogance",
+        "B) confidence and self-trust to pursue dreams",
+        "C) overconfidence",
+        "D) doubt"
+      ],
+      "answer": "B",
+      "explanation": "视频结尾提到'belief in myself'，这是支持speaker追求热爱、实现人生转变的核心力量，是对自己能力和选择的确信。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 694.5,
+      "endTime": 695.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "belief",
+        "myself",
+        "confidence"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'anticlimactic' mean as used by the speaker?",
+      "options": [
+        "A) Very exciting",
+        "B) Disappointingly ordinary after anticipation",
+        "C) Very dramatic",
+        "D) Unexpected"
+      ],
+      "answer": "B",
+      "explanation": "'Anticlimactic'指的是虎头蛇尾、高潮后的平淡。Speaker在展示某物时说'Anticlimactic. I promise you'，是一种幽默的表达，暗示东西看起来可能不如预期那么激动人心。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 629,
+      "endTime": 632.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "anticlimactic",
+        "disappointing",
+        "expectation"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "What is the main life lesson the speaker is trying to convey in this video? Please summarize in your own words.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语复述题，需要考生根据视频内容总结核心观点。答案应涵盖：不要过于追求完美，要敢于追求自己热爱的事物，接受生活的不完美，敢于让自己处于脆弱的位置，愿意承担后果等要点。",
+      "referenceAnswer": "The main lesson is about pursuing what you love despite uncertainties. Key points: 1) Don't be too focused on having everything perfect; 2) It's okay to make decisions that aren't the safest on paper; 3) Don't be afraid to put yourself in vulnerable positions; 4) Accept the unideal parts of life; 5) Face whatever outcomes arise when pursuing your passion; 6) Have belief in yourself throughout your journey.",
+      "hint": "Think about the key themes: balance, pursuing passion, accepting vulnerability, taking risks for what you love.",
+      "startTime": 763.6,
+      "endTime": 773.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "life lesson",
+        "pursue",
+        "love",
+        "balance"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "The speaker mentions being vulnerable is important for growth. Do you agree? Explain your opinion with examples.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生就'脆弱对成长重要性'发表观点。需要给出一个观点（同意或不同意），并用例子支持。",
+      "referenceAnswer": "I agree that being vulnerable is important for growth. When we put ourselves in vulnerable positions, we push beyond our comfort zone and discover new possibilities. For example, trying a new career, speaking in public, or expressing feelings to someone - these all require vulnerability but lead to personal growth. However, being vulnerable doesn't mean being reckless; it means being willing to take calculated risks for growth.",
+      "hint": "Consider both the benefits and potential risks of vulnerability. Use personal examples if possible.",
+      "startTime": 46.1,
+      "endTime": 51.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "vulnerable",
+        "growth",
+        "comfort zone",
+        "risk"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "How do you interpret the phrase 'find your sweet spot' in balancing life? What does this mean to you?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语理解题，要求考生解释'找到最佳点'在生活平衡中的含义，并结合自身理解。",
+      "referenceAnswer": "Finding your sweet spot means discovering the balance point where different aspects of life feel just right - not too overwhelming, not too stagnant. For me, it's about balancing work and rest, ambition and contentment, social life and personal time. It's a dynamic process that requires constant adjustment as circumstances change.",
+      "hint": "Think about different areas of life: work, relationships, health, personal growth. What balance looks like for you?",
+      "startTime": 209.2,
+      "endTime": 215.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sweet spot",
+        "balance",
+        "life",
+        "adjustment"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does the speaker say about making decisions because you love something?",
+      "options": [
+        "A) Only make decisions that are practical",
+        "B) Do something because you love it, not for practical reasons",
+        "C) Never follow your passion",
+        "D) Love is not important in decisions"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确提到'Do something because you love it'，这是speaker核心观点之一——追随热情而行动，而不是仅仅基于实际考虑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 190.1,
+      "endTime": 192.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "love",
+        "decision",
+        "passion"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does the speaker imply about 'mainstream' choices?",
+      "options": [
+        "A) Everyone should follow them",
+        "B) They are always the best choices",
+        "C) Not everyone needs to follow the mainstream path",
+        "D) Mainstream is dangerous"
+      ],
+      "answer": "C",
+      "explanation": "视频中提到'it's not mainstream or anything like that'，表达了speaker选择了一条非主流的道路，暗示不是每个人都需要跟随主流。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 436.4,
+      "endTime": 443.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "mainstream",
+        "different",
+        "path"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the speaker say about feeling control over oneself?",
+      "options": [
+        "A) It's impossible to achieve",
+        "B) The speaker feels like they have total control over themselves",
+        "C) Control is not important",
+        "D) Control leads to isolation"
+      ],
+      "answer": "B",
+      "explanation": "视频中两处提到'I feel like I have total control over myself'和'I have total control over the things around me'，表达了speaker对自我掌控的感受。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 225.1,
+      "endTime": 230.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "control",
+        "self",
+        "feeling"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does the speaker compare the journey from starting position to current position to?",
+      "options": [
+        "A) A straight line",
+        "B) Something that didn't take a long time",
+        "C) A short moment",
+        "D) A quick success"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'it didn't take for'（这里似乎是未完成的，但从语境看，speaker暗示这个转变过程并没有人们想象的那么久），强调的是旅程的相对速度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 662.1,
+      "endTime": 669.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "journey",
+        "started",
+        "position"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the speaker say about the 'greatest most important life lesson' they've learned?",
+      "options": [
+        "A) It was an easy lesson",
+        "B) It's about pursuing what you love despite risks",
+        "C) It's about being safe",
+        "D) It's about following rules"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'this is one of the greatest most important life lessons that I've learned'，结合上下文，这个 lesson 就是关于追求热爱、接受风险和后果的生活智慧。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 763.6,
+      "endTime": 773.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "life lesson",
+        "important",
+        "learned"
+      ]
+    }
+  ]
+}

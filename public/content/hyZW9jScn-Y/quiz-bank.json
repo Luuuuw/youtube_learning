@@ -1,0 +1,561 @@
+{
+  "videoId": "hyZW9jScn-Y",
+  "title": "Vintage Shopping in Paris & Florence, Shopping My Sister’s Closet and Birthday Trip to Italy",
+  "generatedAt": "2026-06-15T07:54:35.578Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 14,
+    "medium": 9,
+    "hard": 1,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker say about the eyewear presentation she needs to attend?",
+      "options": [
+        "A) She has already attended it",
+        "B) She is excited because they have many brands she loves",
+        "C) She refused to go",
+        "D) She plans to skip it"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，speaker说 'I have to go to an eyewear presentation of the King group, which I'm so excited cuz they have so many brands I love.' 说明她很期待这个眼镜展示活动，因为她喜欢的品牌很多。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 82.4,
+      "endTime": 89.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "eyewear",
+        "presentation",
+        "excited",
+        "brands"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What type of denim is mentioned in the video?",
+      "options": [
+        "A) Skinny denim",
+        "B) Flare denim",
+        "C) Balloon type of denim",
+        "Ripped denim"
+      ],
+      "answer": "C",
+      "explanation": "字幕中明确提到 'with the balloon type of denim'，指的是宽松的、类似气球形状的牛仔裤款式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 141.8,
+      "endTime": 145.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "denim",
+        "balloon type",
+        "fashion"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Why is the speaker waiting for someone according to the video?",
+      "options": [
+        "A) Waiting for a taxi",
+        "B) Waiting for her sister Lisa to help her",
+        "C) Waiting for a delivery",
+        "D) Waiting for the bus"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示 'I mean I am waiting on my sister Lisa' 和 'I'm waiting on her cuz she was supposed to come and help me'，说明她在等姐姐Lisa来帮助她。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 502.7,
+      "endTime": 512.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "waiting",
+        "sister",
+        "Lisa",
+        "help"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the speaker say about what to wear tonight?",
+      "options": [
+        "A) She knows exactly what to wear",
+        "B) She doesn't know what to wear because the place is super fancy",
+        "C) She doesn't care about the outfit",
+        "D) She will wear casual clothes"
+      ],
+      "answer": "B",
+      "explanation": "字幕中她说 'I was like I don't know what to wear tonight cuz the place we're going super fancy'，说明她不知道穿什么因为要去的地方非常正式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 599.6,
+      "endTime": 603.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "wear",
+        "tonight",
+        "fancy",
+        "outfit"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is the speaker going to do according to the video?",
+      "options": [
+        "A) Get hair and makeup done",
+        "B) Go shopping",
+        "C) Meet friends",
+        "D) Go to sleep"
+      ],
+      "answer": "A",
+      "explanation": "字幕显示 'Simple simple. and ready to get to hair and makeup'，说明她准备好去做头发和化妆了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 687.2,
+      "endTime": 724.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hair",
+        "makeup",
+        "ready"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What is described as 'only half day, which is great'?",
+      "options": [
+        "A) Shopping time",
+        "B) A work schedule",
+        "C) The event",
+        "D) The trip"
+      ],
+      "answer": "A",
+      "explanation": "在购物相关的内容中，字幕提到 'It's only half day, which is great'，结合上下文可能是指购物时间或某个活动的一半时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 645.8,
+      "endTime": 647.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "half day",
+        "great",
+        "time"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What kind of look is described for a birthday celebration?",
+      "options": [
+        "A) The Dolceita vibe",
+        "B) Casual look",
+        "C) Professional look",
+        "D) Sporty look"
+      ],
+      "answer": "A",
+      "explanation": "字幕中明确提到 'The Dolceita vibe, but we love the look for a birthday'，说明这是一种适合生日的Dolceita风格。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 877.9,
+      "endTime": 884.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Dolceita",
+        "vibe",
+        "birthday",
+        "look"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker say she was supposed to do?",
+      "options": [
+        "A) Go shopping alone",
+        "B) Be an assistant",
+        "C) Take photos",
+        "D) Drive the car"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示 'I said I was supposed to go with you and just be, you know, an assistant'，说明她本应该作为助理一起去。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 929.6,
+      "endTime": 937,
+      "difficulty": "medium",
+      "relatedWords": [
+        "assistant",
+        "supposed",
+        "go with"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What happened when the speaker saw something?",
+      "options": [
+        "A) She ignored it",
+        "B) She decided they needed to buy it",
+        "C) She showed it to her friend",
+        "D) She put it back"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说 'So when I saw it, I was like, we need to buy it'，说明她看到后觉得需要买下来。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1078.8,
+      "endTime": 1081.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "saw",
+        "buy",
+        "need"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What Italian word does the speaker say she loves to say for 'mouse'?",
+      "options": [
+        "A) Topolino",
+        "B) Gatto",
+        "C) Cane",
+        "D) Pizza"
+      ],
+      "answer": "A",
+      "explanation": "字幕中明确提到 'I actually love the word topolino to say mouse in Italian'，topolino是意大利语中小老鼠的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1657.6,
+      "endTime": 1664.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "topolino",
+        "mouse",
+        "Italian",
+        "word"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What price is mentioned for the Chanel pants?",
+      "options": [
+        "A) €300",
+        "B) €400",
+        "C) €500",
+        "D) €600"
+      ],
+      "answer": "C",
+      "explanation": "字幕中提到 'the Chanel pants I showed you, the jeans, it was €500'，香奈儿牛仔裤价格是500欧元。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1842.3,
+      "endTime": 1846.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Chanel",
+        "pants",
+        "€500",
+        "price"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What are they watching according to the video?",
+      "options": [
+        "A) A movie",
+        "B) F1 qualies",
+        "C) A concert",
+        "D) A TV show"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示 'We were watching the qualies the F1 qualies uh Monaco from yesterday'，他们在看F1排位赛。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1891.1,
+      "endTime": 1899.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "F1",
+        "qualies",
+        "Monaco",
+        "watching"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "When do they leave according to the video?",
+      "options": [
+        "A) Today afternoon",
+        "B) Tomorrow morning",
+        "C) Tonight",
+        "D) Next week"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说 'We have the full day ahead of us since we leave only tomorrow morning'，他们明天早上才离开。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1911.8,
+      "endTime": 1916.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "leave",
+        "tomorrow morning",
+        "full day"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What dilemma are they having at 3 p.m.?",
+      "options": [
+        "A) Which restaurant to choose",
+        "B) Watching the Hollang Yahoo finals vs something else",
+        "C) Buying clothes",
+        "D) Taking a nap"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'we're having a huge dilemma because at 3 p.m. you have the Hollang Yahoo finals'，他们在纠结3点要看的比赛。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1919.8,
+      "endTime": 1926.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "dilemma",
+        "3 p.m.",
+        "Hollang Yahoo finals"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "Where did they go to chill according to the video?",
+      "options": [
+        "A) To the beach",
+        "B) Back to the hotel",
+        "C) To a cafe",
+        "D) To the mall"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说 'So, we went back to the hotel to chill a little bit cuz it was really warm'，因为天气很热，他们回酒店休息。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2025.5,
+      "endTime": 2030,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hotel",
+        "chill",
+        "warm"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the speaker's feeling described in the video?",
+      "options": [
+        "A) I am on a fashion high",
+        "B) I am tired",
+        "C) I am bored",
+        "D) I am hungry"
+      ],
+      "answer": "A",
+      "explanation": "字幕中明确说 'I am on a fashion high'，说明她正处于时尚的兴奋状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1804.6,
+      "endTime": 1807.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fashion high",
+        "feeling",
+        "excited"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "Describe what the speaker is planning for the evening based on what you heard. What outfit challenge is she facing?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要根据视频内容描述speaker的晚间计划和她面临的服装挑战。",
+      "referenceAnswer": "She mentions she doesn't know what to wear tonight because the place they're going is super fancy. She needs to choose an appropriate outfit for a fancy occasion.",
+      "hint": "Think about what she says about the event and the place they are going",
+      "startTime": 599.6,
+      "endTime": 603.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "wear",
+        "tonight",
+        "fancy",
+        "outfit"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "What happened at Kmart according to the video? Describe what the speaker and her companion were doing.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，需要描述在Kmart发生的事情。",
+      "referenceAnswer": "They had lunch together and went to Kmart. They were standing in the queue (waiting in line).",
+      "hint": "Think about the sequence of activities mentioned",
+      "startTime": 1052.4,
+      "endTime": 1057.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Kmart",
+        "lunch",
+        "queue"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "The speaker mentions a 'little sister moment' at the end of the day. Based on the context, what do you think this refers to?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道理解题，需要根据上下文推断'little sister moment'的含义。",
+      "referenceAnswer": "This likely refers to a bonding moment with her sister, possibly shopping together, helping each other, or having a special sister-to-sister conversation.",
+      "hint": "Think about what activities involve her sister throughout the video",
+      "startTime": 763.5,
+      "endTime": 768.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "little sister moment",
+        "sister",
+        "end of day"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What food and drink are mentioned for a celebration?",
+      "options": [
+        "A) Pizza and soda",
+        "B) Champagne and cheese",
+        "C) Coffee and cake",
+        "D) Wine and bread"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'We'll have champagne and you can have some cheese. I love this little plate.'，这是庆祝活动中的香槟和奶酪。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 524.6,
+      "endTime": 530.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "champagne",
+        "cheese",
+        "celebration"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What item is described as a clutch?",
+      "options": [
+        "A) A dress",
+        "B) A bag",
+        "C) A shoes",
+        "D) A hat"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说 'I love it because it's a clutch'，clutch是一种手拿包/手包。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 163.2,
+      "endTime": 165.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "clutch",
+        "bag",
+        "love"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What colors are mentioned for the bag?",
+      "options": [
+        "A) Black and silver",
+        "B) Red and gold",
+        "C) Blue and white",
+        "D) Pink and purple"
+      ],
+      "answer": "A",
+      "explanation": "字幕中提到 'White t-shirts and like and a black and silver bag'，包是黑色和银色的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 755.7,
+      "endTime": 761.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "black",
+        "silver",
+        "bag",
+        "colors"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does the speaker say about the prices in the video?",
+      "options": [
+        "A) They were all cheap",
+        "B) There was all types of prices",
+        "C) Prices were too high",
+        "D) Prices were discounted"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确说 'There was all types of prices'，说明价格有高有低，种类多样。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1834.2,
+      "endTime": 1836.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "prices",
+        "types",
+        "various"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the speaker think about one of the items she saw?",
+      "options": [
+        "A) She loved it",
+        "B) She didn't like it that much",
+        "C) It was too expensive",
+        "D) It was too small"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说 'I didn't like that much'，说明她不是特别喜欢那样东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1850.8,
+      "endTime": 1851.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "didn't like",
+        "that much"
+      ]
+    }
+  ]
+}

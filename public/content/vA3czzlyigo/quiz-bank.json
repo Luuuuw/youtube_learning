@@ -1,0 +1,575 @@
+{
+  "videoId": "vA3czzlyigo",
+  "title": "Slow Days at Home: Cooking, Packing for a Special Trip, New Makeup Try-On and Event Night",
+  "generatedAt": "2026-06-15T08:52:20.545Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 8,
+    "medium": 11,
+    "hard": 6,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker mean by 'two weeks in Bali'?",
+      "options": [
+        "A) She will stay in Bali for two months",
+        "B) She will travel to Bali for two weeks",
+        "C) She just returned from Bali",
+        "D) She is planning to move to Bali"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'no, not two months, two weeks in Bali'，说话者明确纠正了时间长度，表示要去Bali（巴厘岛）两周，而不是两个月。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1986.6,
+      "endTime": 1993.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Bali",
+        "travel",
+        "weeks"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the phrase 'hold close to my heart' mean in this context?",
+      "options": [
+        "A) Keep physically close to my heart",
+        "B) Value it emotionally",
+        "C) Hold it tightly with hands",
+        "D) Remember it temporarily"
+      ],
+      "answer": "B",
+      "explanation": "'Hold close to my heart' 是一个英语习语，意思是'珍藏在心里'，表示对某样东西或某个地方有深厚的感情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2409.8,
+      "endTime": 2412.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hold",
+        "heart",
+        "emotional"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the speaker mean by 'editing' her clothes for packing?",
+      "options": [
+        "A) Changing the colors of clothes",
+        "B) Selecting and narrowing down what to bring",
+        "C) Fixing damaged clothes",
+        "D) Taking photos of clothes"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'I'm doing a first like I put everything I think I love and then I edit it'，这里的editing指的是从所有喜欢的物品中筛选、精简要带去的行李。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2136.6,
+      "endTime": 2143.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "edit",
+        "packing",
+        "select"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the phrase 'really really old' emphasize?",
+      "options": [
+        "A) The object is somewhat old",
+        "B) The object is extremely old",
+        "C) The object is new",
+        "D) The object is modern"
+      ],
+      "answer": "B",
+      "explanation": "'Really really' 是程度副词的重复使用，表示加强语气，'really really old' 意思是'非常非常旧'，强调年代久远。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 68.8,
+      "endTime": 70,
+      "difficulty": "easy",
+      "relatedWords": [
+        "old",
+        "emphasis",
+        "degree"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is the speaker planning to do according to 'I'm going to eat'?",
+      "options": [
+        "A) Cook a meal",
+        "B) Have lunch or dinner",
+        "C) Feed someone",
+        "D) Order food delivery"
+      ],
+      "answer": "B",
+      "explanation": "'I'm going to eat' 是一个日常表达，意思是'我要去吃饭了'，通常指吃正餐（午餐或晚餐）。结合前面的 'It's lunchtime'，这里表示要去吃午饭。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 10.5,
+      "endTime": 11.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "eat",
+        "lunch",
+        "meal"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the speaker mean by '10 orders to go'?",
+      "options": [
+        "A) 10 orders have arrived",
+        "B) 10 orders are remaining to complete",
+        "C) 10 orders were cancelled",
+        "D) 10 orders are on the way"
+      ],
+      "answer": "B",
+      "explanation": "'To go' 在这里是'还剩、尚待'的意思。'10 orders to go' 意思是还剩10个订单需要处理完成。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 874.6,
+      "endTime": 878,
+      "difficulty": "medium",
+      "relatedWords": [
+        "orders",
+        "remaining",
+        "complete"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'gorgeous' mean in the context of 'they're going to look so gorgeous'?",
+      "options": [
+        "A) Ordinary",
+        "B) Extremely beautiful",
+        "C) Strange",
+        "D) Cheap"
+      ],
+      "answer": "B",
+      "explanation": "'Gorgeous' 是一个形容词，意思是'非常美丽的'、'绚丽的'，用于形容外观非常好看。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 115.1,
+      "endTime": 118.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "gorgeous",
+        "beautiful",
+        "appearance"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I love this' in this context?",
+      "options": [
+        "A) I hate this thing",
+        "B) I'm neutral about this",
+        "C) I really like this thing",
+        "D) I want to buy this"
+      ],
+      "answer": "C",
+      "explanation": "'I love this' 是一个表达喜爱和欣赏的常见口语，意思是'我喜欢这个'、'我爱这个'，表示对某事物的正面情感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 46.6,
+      "endTime": 47.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "love",
+        "like",
+        "emotion"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the speaker doing according to 'I'm definitely packing this'?",
+      "options": [
+        "A) Selling clothes",
+        "B) Putting clothes in a suitcase",
+        "C) Washing clothes",
+        "D) Trying on clothes"
+      ],
+      "answer": "B",
+      "explanation": "'Packing' 在这里是动词，意思是'打包（行李）'。'I'm definitely packing this' 意思是'我一定要把这个打包带走'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2245.3,
+      "endTime": 2246.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "packing",
+        "suitcase",
+        "travel"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the phrase 'as you can see' indicate in this context?",
+      "options": [
+        "A) You cannot see it",
+        "B) I'm about to describe something invisible",
+        "C) I'm directing your attention to something visible",
+        "D) There's nothing to see"
+      ],
+      "answer": "C",
+      "explanation": "'As you can see' 是一个引导短语，意思是'如你所见'，用于引导观众注意眼前可见的事物或画面。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 101.6,
+      "endTime": 104.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "see",
+        "attention",
+        "visual"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'gifted me' mean in 'Summer Swim actually gifted me a two-piece'?",
+      "options": [
+        "A) Sold to me at a discount",
+        "B) Lent me temporarily",
+        "C) Gave me as a free gift",
+        "D) Borrowed from me"
+      ],
+      "answer": "C",
+      "explanation": "'Gift' 作为动词意思是'赠送'、'送给'。'Gifted me' 意思是'送给了我'、'赠送给我'，表示免费送给博主。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2045.4,
+      "endTime": 2051.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "gifted",
+        "gift",
+        "free"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker mean by 'transformative year'?",
+      "options": [
+        "A) A year with no changes",
+        "B) A year that brought significant personal changes",
+        "C) A year of vacation",
+        "D) A year of illness"
+      ],
+      "answer": "B",
+      "explanation": "'Transformative' 来源于'transform'（转变、改变），意思是'变革性的'、'带来重大变化的'。'Transformative year' 意思是'转变的一年'、'发生重大改变的一年'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2359.8,
+      "endTime": 2368.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "transformative",
+        "change",
+        "year"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'on the sides' mean in 'you basically can tie it up however you want on the sides'?",
+      "options": [
+        "A) In the middle",
+        "B) On the left and right edges",
+        "C) At the top",
+        "D) At the bottom"
+      ],
+      "answer": "B",
+      "explanation": "'On the sides' 指的是物体的两侧边缘。在这个语境中，是指衣服或行李在侧面可以按自己的方式系紧或调节。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2034.9,
+      "endTime": 2038.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sides",
+        "tie",
+        "edges"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the speaker imply by 'a hard but extremely transformative year'?",
+      "options": [
+        "A) The year was easy but changed nothing",
+        "B) The year was difficult but brought important growth",
+        "C) The year was boring and uneventful",
+        "D) The year was happy and relaxing"
+      ],
+      "answer": "B",
+      "explanation": "这个表达对比了'hard'（艰难的）和'transformative'（变革性的），暗示虽然这一年很困难，但带来了积极的个人成长和改变。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2359.8,
+      "endTime": 2368.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "hard",
+        "transformative",
+        "growth"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'keyhole' refer to in 'it has this keyhole'?",
+      "options": [
+        "A) A door lock",
+        "B) A small opening or design feature",
+        "C) A musical instrument",
+        "D) A kitchen tool"
+      ],
+      "answer": "B",
+      "explanation": "'Keyhole' 原意是'钥匙孔'，在服装设计中可以指衣服上钥匙孔形状的设计细节，通常是领口或胸前的小开口设计。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2081.8,
+      "endTime": 2082.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "keyhole",
+        "design",
+        "clothing"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'secondhand' mean in 'I buy most of little pieces of secondhand'?",
+      "options": [
+        "A) Brand new items",
+        "B) Used or pre-owned items",
+        "C) Expensive luxury items",
+        "D) Handmade items"
+      ],
+      "answer": "B",
+      "explanation": "'Secondhand' 意思是'二手的'、'旧的'，指已经被人使用过的物品。'Secondhand pieces' 指的是二手服装或配饰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 23.4,
+      "endTime": 28.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "secondhand",
+        "used",
+        "pre-owned"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker mean by 'the melody of this music is so fresh but also nostalgic'?",
+      "options": [
+        "A) The music sounds old and outdated",
+        "B) The music sounds new but reminds of the past",
+        "C) The music is confusing and strange",
+        "D) The music is very sad"
+      ],
+      "answer": "B",
+      "explanation": "'Fresh' 意思是'新颖的、清新的'，'nostalgic' 意思是'怀旧的'。这个表达描述音乐既有新意又带有怀旧感，是一种复杂的情感体验。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 862.1,
+      "endTime": 870.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "melody",
+        "fresh",
+        "nostalgic"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "Describe a special trip you have taken or would like to take. What makes it memorable for you?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生描述一次特别的旅行。题目基于视频中提到的Bali旅行内容，但考生可以自由描述自己的经历或愿望。",
+      "referenceAnswer": "考生应提到：1) 旅行目的地 2) 旅行时长 3) 旅行中难忘的经历或活动 4) 为什么这次旅行对自己有意义",
+      "hint": "You can talk about: destination, duration, memorable moments, and why it's special to you.",
+      "startTime": 1986.6,
+      "endTime": 1993.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "travel",
+        "trip",
+        "Bali",
+        "memorable"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'integrated skirt' mean in 'it's the one with the bodysuit and this like integrated skirt'?",
+      "options": [
+        "A) A separate skirt that can be removed",
+        "B) A skirt that is attached as part of the garment",
+        "C) A very long skirt",
+        "D) A skirt made of different material"
+      ],
+      "answer": "B",
+      "explanation": "'Integrated' 意思是'整合的'、'一体式的'。'Integrated skirt' 指的是与上衣连为一体的裙子设计，不是单独分开的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2149.3,
+      "endTime": 2154.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "integrated",
+        "bodysuit",
+        "skirt"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "How do you usually pack for a trip? What are your tips for efficient packing?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求考生分享打包行李的技巧和经验。视频中展示了博主打包去Bali行李的过程，考生可以借鉴或提出自己的方法。",
+      "referenceAnswer": "考生应提到：1) 打包前的准备 2) 如何选择带什么 3) 整理技巧 4) 必备物品",
+      "hint": "You can mention: making a list, choosing versatile clothes, using packing cubes, etc.",
+      "startTime": 2006.9,
+      "endTime": 2013.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "packing",
+        "trip",
+        "tips",
+        "efficient"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does 'a package' refer to in 'I have got a package'?",
+      "options": [
+        "A) A gift box",
+        "B) A delivery or shipment",
+        "C) A group of items",
+        "D) A building"
+      ],
+      "answer": "B",
+      "explanation": "'Package' 在口语中常指'包裹'、'快递'。'I have got a package' 意思是'我收到了一个包裹'，通常是快递送来的物品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 11.6,
+      "endTime": 15.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "package",
+        "delivery",
+        "parcel"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Talk about a time when you went through a difficult period in your life but it eventually led to personal growth.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，灵感来自视频中提到的'2023 was such a hard but extremely transformative year'。考生需要描述一段困难时期以及如何从中成长。",
+      "referenceAnswer": "考生应描述：1) 困难是什么 2) 为什么困难 3) 如何应对 4) 学到了什么/有什么成长",
+      "hint": "Think about challenges like moving to a new place, relationship changes, or career transitions.",
+      "startTime": 2339.3,
+      "endTime": 2347.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "difficult",
+        "growth",
+        "transformative",
+        "challenge"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does 'missing from the production' mean in the context of the video?",
+      "options": [
+        "A) Not popular in production",
+        "B) Lost or not available in the inventory",
+        "C) Not filmed for the video",
+        "D) Not designed yet"
+      ],
+      "answer": "B",
+      "explanation": "'Missing from the production' 在商业语境中指的是产品缺货、库存缺失。'A full box is missing with one specific style and one specific size' 意思是某一特定款式和尺码的一整箱货丢失了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 752.6,
+      "endTime": 760.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "missing",
+        "production",
+        "inventory"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'butter yellow' refer to in 'it's in black and butter yellow'?",
+      "options": [
+        "A) A type of butter",
+        "B) A pale yellow color similar to butter",
+        "C) A brand name",
+        "D) A pattern"
+      ],
+      "answer": "B",
+      "explanation": "'Butter yellow' 是一种颜色名称，意思是'黄油色'、'淡黄色'，是一种柔和的浅黄色，类似黄油的颜色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2182.3,
+      "endTime": 2186.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "butter yellow",
+        "color",
+        "fashion"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "What is your approach to shopping for clothes? Do you prefer buying new items or secondhand? Explain your preference.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，基于视频中提到的' I buy most of little pieces here and there of secondhand'。考生需要表达自己的购物偏好和理由。",
+      "referenceAnswer": "考生应提到：1) 偏好哪种购物方式 2) 为什么 3) 有什么优缺点 4) 实际的购物习惯",
+      "hint": "You can discuss factors like price, sustainability, style variety, and personal values.",
+      "startTime": 23.4,
+      "endTime": 28.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "shopping",
+        "secondhand",
+        "clothes",
+        "preference"
+      ]
+    }
+  ]
+}

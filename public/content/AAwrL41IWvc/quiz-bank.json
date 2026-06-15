@@ -1,0 +1,568 @@
+{
+  "videoId": "AAwrL41IWvc",
+  "title": "How to ACTUALLY become an academic weapon in 2026",
+  "generatedAt": "2026-06-14T17:30:29.564Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 6,
+    "medium": 14,
+    "hard": 5,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "Where does the speaker currently study?",
+      "options": [
+        "A) Cambridge University",
+        "B) Oxford University",
+        "C) Harvard University",
+        "D) Stanford University"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕，演讲者说'now I'm a student at Oxford University'，明确指出他在牛津大学就读。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 7.7,
+      "endTime": 13.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Oxford",
+        "University",
+        "student"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the speaker, what are the five key areas that will be covered?",
+      "options": [
+        "A) motivation, time management, note-taking, study methods, and exam prep",
+        "B) reading, writing, listening, speaking, and grammar",
+        "C) planning, organizing, reviewing, practicing, and testing",
+        "D) focus, memory, understanding, analysis, and creation"
+      ],
+      "answer": "A",
+      "explanation": "演讲者明确提到'I will cover five key areas: motivation, time management, note-taking, study methods, and exam prep.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 25.6,
+      "endTime": 31.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "motivation",
+        "time management",
+        "note-taking"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is the first tip mentioned in the video?",
+      "options": [
+        "A) Start early",
+        "B) Limit distractions",
+        "C) Use flashcards",
+        "D) Plan your week"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示'First tip I have is limit distractions.'这是演讲者给出的第一个建议。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 139.5,
+      "endTime": 142,
+      "difficulty": "easy",
+      "relatedWords": [
+        "tip",
+        "limit",
+        "distractions"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the speaker say about where your drive should come from?",
+      "options": [
+        "A) From your parents",
+        "B) From your teachers",
+        "C) From within yourself",
+        "D) From your friends"
+      ],
+      "answer": "C",
+      "explanation": "演讲者明确指出'Your drive needs to come within yourself.'你的动力需要来自内心。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 80,
+      "endTime": 82.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "drive",
+        "within",
+        "yourself"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "How does the speaker plan their week according to the video?",
+      "options": [
+        "A) In 30-minute time blocks",
+        "B) In 1-hour time blocks",
+        "C) In 2-hour time blocks",
+        "D) Without time blocks"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说'I actually plan out my whole week in 1 hour time blocks'，他用1小时的时间块来规划整周。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 358.7,
+      "endTime": 363.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "plan",
+        "week",
+        "time blocks"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What happens if you only sit down to study because someone else tells you to?",
+      "options": [
+        "A) You will become more motivated",
+        "B) You will never have the drive to succeed",
+        "C) You will get better grades",
+        "D) You will make more friends"
+      ],
+      "answer": "B",
+      "explanation": "演讲者警告说'If you only sit down to study because someone else tells you to, you will never have the'——暗示你永远不会拥有成功的动力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 102.4,
+      "endTime": 106.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "study",
+        "someone else tells you",
+        "drive"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "According to the video, when should you start preparing your study material for an exam?",
+      "options": [
+        "A) One week before",
+        "B) The night before",
+        "C) Even if the exam is months away",
+        "D) After the first class"
+      ],
+      "answer": "C",
+      "explanation": "演讲者明确建议'With any class that you take, even if your exam is months away, start preparing your study material'，即使考试还有几个月，也要开始准备学习材料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 376.6,
+      "endTime": 382.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "exam",
+        "months away",
+        "preparing"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker say about preparing not just notes but also other materials?",
+      "options": [
+        "A) Just lecture notes are enough",
+        "B) Only reading notes matter",
+        "C) Prepare flashcards and exam questions as well",
+        "D) Don't waste time preparing in advance"
+      ],
+      "answer": "C",
+      "explanation": "演讲者提到 prepared my lecture notes or my reading notes, but I also prepared flashcards and exam questions，说明他还准备了闪卡和考试题目。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 407.1,
+      "endTime": 413.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "flashcards",
+        "exam questions",
+        "prepare"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'working smarter and not harder' refer to in this context?",
+      "options": [
+        "A) Working longer hours",
+        "B) A classic strategy of efficient study",
+        "C) Avoiding difficult subjects",
+        "D) Studying with friends"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说'It is a classic strategy of working smarter and not harder.'这是关于更聪明地学习而不是更辛苦学习的经典策略。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 241.4,
+      "endTime": 244.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "working smarter",
+        "strategy",
+        "classic"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the speaker say about students who don't ask questions in class?",
+      "options": [
+        "A) They are all paying attention",
+        "B) They weren't listening or are too shy to ask",
+        "C) They already know the answers",
+        "D) They will fail the exam"
+      ],
+      "answer": "B",
+      "explanation": "演讲者提到'It is very likely that most of them either weren't listening at all...or they are too shy to ask as well.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 659,
+      "endTime": 663.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "listening",
+        "shy",
+        "ask questions"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What advice does the speaker give about exam preparation?",
+      "options": [
+        "A) Just read your notes once",
+        "B) Don't worry about different exam conditions",
+        "C) Know that different exams have different conditions",
+        "D) Avoid practicing past exams"
+      ],
+      "answer": "C",
+      "explanation": "演讲者说'Honestly, two exams could have completely different conditions and you don't want to enter the exam room not'——暗示要了解不同考试的不同条件。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 682.6,
+      "endTime": 688.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "exams",
+        "different conditions",
+        "prepare"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker suggest about identifying what is important in study?",
+      "options": [
+        "A) Learn everything by heart",
+        "B) Have a plan and identify what is actually important",
+        "C) Only study the night before",
+        "D) Ignore the textbook"
+      ],
+      "answer": "B",
+      "explanation": "演讲者建议'so instead of blindly starting and like trying to learn everything by heart in one go, you need to have a plan and identify what is actually important.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 225.9,
+      "endTime": 229.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "plan",
+        "identify",
+        "important"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the speaker say about social media usage?",
+      "options": [
+        "A) It helps with studying",
+        "B) It takes up much time if you spend 2 hours a day",
+        "C) It's necessary for success",
+        "D) It improves memory"
+      ],
+      "answer": "B",
+      "explanation": "演讲者提到'much time, especially if you spend about 2 hours a day scrolling through social media, that is more'，暗示每天刷2小时社交媒体会占用很多时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 159.9,
+      "endTime": 165.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "social media",
+        "2 hours",
+        "time"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the speaker say about the benefits of asking questions in class?",
+      "options": [
+        "A) It only benefits you",
+        "B) It benefits both you and people around you",
+        "C) It's embarrassing",
+        "D) Teachers don't like questions"
+      ],
+      "answer": "B",
+      "explanation": "演讲者明确说'So, it doesn't only benefit you, but it also benefits the people around you.'问问题不仅对自己有益，也对周围的人有益。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 672.8,
+      "endTime": 677,
+      "difficulty": "medium",
+      "relatedWords": [
+        "benefit",
+        "asking questions",
+        "people around you"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'game changer' mean in this context?",
+      "options": [
+        "A) A video game",
+        "B) Something that dramatically improves the situation",
+        "C) A type of test",
+        "D) A study method"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说'These tips honestly really were a game changer for me.'意思是这些建议对他来说产生了巨大的改变，改变了游戏规则。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 841.7,
+      "endTime": 844.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "game changer",
+        "tips",
+        "improve"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'overwhelmed' mean in the context of not knowing where to start?",
+      "options": [
+        "A) Excited",
+        "B) Confused and stressed by the amount of work",
+        "C) Bored",
+        "D) Confident"
+      ],
+      "answer": "B",
+      "explanation": "演讲者提到'overwhelming not knowing where to start and more importantly not knowing where to stop.'overwhelmed表示因工作量太大而感到压力和困惑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 201.4,
+      "endTime": 206.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "overwhelmed",
+        "knowing where to start",
+        "stressed"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'narrow down' mean when discussing exam answers?",
+      "options": [
+        "A) Make the answers longer",
+        "B) Reduce the number of possible answers",
+        "C) Write more answers",
+        "D) Delete all answers"
+      ],
+      "answer": "B",
+      "explanation": "演讲者提到'which answers are definitely wrong because then you can narrow down the answers from four all the way'，意思是排除错误答案后缩小范围。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 813.9,
+      "endTime": 818.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "narrow down",
+        "answers",
+        "wrong"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'foundational knowledge' refer to in the video?",
+      "options": [
+        "A) Advanced research skills",
+        "B) Basic knowledge needed for future goals",
+        "C) Physical exercise",
+        "D) Social skills"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说you're currently building the foundational knowledge that is required to get where you want to be，指的是为你未来目标打基础的基础知识。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 97.2,
+      "endTime": 101.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "foundational knowledge",
+        "required",
+        "future goals"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "What are the five key areas mentioned in the video for becoming successful in academia, and which one do you think is most important for you personally?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生根据视频内容回答五个关键领域，并阐述个人认为最重要的一个。",
+      "referenceAnswer": "The five areas are: 1) motivation 2) time management 3) note-taking 4) study methods 5) exam prep. I think [one of them] is most important because...",
+      "hint": "Think about which area you struggle with most in your studies and explain why.",
+      "startTime": 25.6,
+      "endTime": 31.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "motivation",
+        "time management",
+        "note-taking",
+        "study methods",
+        "exam prep"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "The speaker mentions starting to prepare study materials even when exams are months away. How do you usually prepare for exams, and what strategies do you find most effective?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生分享自己的考试准备策略。",
+      "referenceAnswer": "I usually start by... Some strategies I find effective include making flashcards, practicing past exam questions, and creating a study schedule.",
+      "hint": "Consider your own study habits and what has worked well for you in the past.",
+      "startTime": 376.6,
+      "endTime": 382.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "exam preparation",
+        "study materials",
+        "strategy"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "The speaker suggests limiting distractions as the first tip. What distractions do you face while studying, and how do you deal with them?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生讨论学习中面临的干扰以及应对方法。",
+      "referenceAnswer": "Some common distractions I face include social media, phone notifications, and noise. I deal with them by turning off my phone, using noise-canceling headphones, or studying in a quiet library.",
+      "hint": "Think about specific distractions in your daily study routine and practical solutions.",
+      "startTime": 139.5,
+      "endTime": 142,
+      "difficulty": "medium",
+      "relatedWords": [
+        "distractions",
+        "study",
+        "limit"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "How do you plan your study time? Do you use time blocks or any other planning methods?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生分享自己的学习时间规划方法。",
+      "referenceAnswer": "I plan my study time by... I use [time blocks/calendar/to-do list] to organize my week and make sure I cover all subjects.",
+      "hint": "Think about your current time management habits and how you organize your study schedule.",
+      "startTime": 358.7,
+      "endTime": 363.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "plan",
+        "time blocks",
+        "study schedule"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The video discusses the importance of self-belief and internal motivation. How do you stay motivated when facing academic challenges?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生讨论面对学术挑战时如何保持动力。",
+      "referenceAnswer": "I stay motivated by... Setting small goals, rewarding myself for progress, and reminding myself of my long-term objectives helps me maintain motivation.",
+      "hint": "Think about what motivates you internally and what strategies help you persist through difficulties.",
+      "startTime": 53,
+      "endTime": 56.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "motivation",
+        "self-belief",
+        "challenges"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the speaker say about writing by hand?",
+      "options": [
+        "A) It's a waste of time",
+        "B) It's important for memory",
+        "C) Computers are better",
+        "D) Only artists should do it"
+      ],
+      "answer": "B",
+      "explanation": "演讲者提到'write it by hand'，这通常与手写有助于记忆相关。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 739,
+      "endTime": 740.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "write",
+        "by hand",
+        "memory"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does the speaker say about feeling 'overwhelmed' before exams?",
+      "options": [
+        "A) It's a good sign",
+        "B) It's normal and can be reduced with practice",
+        "C) You should panic",
+        "D) It means you're not studying enough"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说'lot less overwhelmed because you've done this before'，暗示通过练习和准备可以减少这种压迫感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 769.2,
+      "endTime": 772,
+      "difficulty": "medium",
+      "relatedWords": [
+        "overwhelmed",
+        "practice",
+        "before"
+      ]
+    }
+  ]
+}

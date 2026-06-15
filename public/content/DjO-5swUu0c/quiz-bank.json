@@ -1,0 +1,553 @@
+{
+  "videoId": "DjO-5swUu0c",
+  "title": "watch this if you feel like a failure",
+  "generatedAt": "2026-06-14T17:32:18.227Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 6,
+    "medium": 13,
+    "hard": 5,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker suggest people often think about themselves by this point in life?",
+      "options": [
+        "A) They have achieved all their goals",
+        "B) They should be further along than they actually are",
+        "C) They are too old to make changes",
+        "D) They have learned everything they need to know"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'You thought you'd be further along by now'，说话者指出人们常常认为到某个时候自己应该取得更多成就（更多的钱、经验、朋友）。这是视频的核心主题之一——很多人会因为觉得自己'落后'而产生失败感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 14,
+      "endTime": 19.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "further along",
+        "expectations",
+        "achievement"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'I've just stopped letting things that happened to me tell me who I am' mean?",
+      "options": [
+        "A) I no longer define myself by external opinions",
+        "B) I ignore all my past experiences",
+        "C) I refuse to learn from my mistakes",
+        "D) I only focus on the present moment"
+      ],
+      "answer": "A",
+      "explanation": "这句话的意思是：我不再让发生在自己身上的事情（过去的经历）来定义我是谁。这是关于自我认同和心理成长的重要观点，意味着不被过去的事件或创伤定义自己的身份。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 78.6,
+      "endTime": 83.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "identity",
+        "past experiences",
+        "self-definition"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "According to the speaker, why should we not associate things as positive or negative?",
+      "options": [
+        "A) Because everything is equally important",
+        "B) Because our mind creates more problems through these judgments",
+        "C) Because positivity and negativity don't exist",
+        "D) Because we should only focus on success"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'we also don't need to associate things as being positive or negative because then our mind creates'，说话者指出当我们把事物标记为好或坏时，我们的大脑会创造更多问题（困扰）。这是关于放下评判、接纳现状的心理学观点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 109.8,
+      "endTime": 115,
+      "difficulty": "medium",
+      "relatedWords": [
+        "positive",
+        "negative",
+        "judgment"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What has every failure taught the speaker?",
+      "options": [
+        "A) How to avoid future mistakes",
+        "B) What they needed the most",
+        "C) Who to trust in life",
+        "D) How to become perfect"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'Every failure has taught me what I needed the most'，说话者真诚地说每一次失败都教会了他们最需要的东西。这是一个积极看待失败的核心观点——失败是成长的机会。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 332.5,
+      "endTime": 337.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "failure",
+        "learn",
+        "growth"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'Being single doesn't mean you're unlovable' imply?",
+      "options": [
+        "A) Single people are happier than couples",
+        "B) Relationship status doesn't determine your worth",
+        "C) You should stay single forever",
+        "D) Love is not important in life"
+      ],
+      "answer": "B",
+      "explanation": "这句话的意思是：单身并不意味着你不可爱。这是关于自我价值的重要观点，暗示一个人的价值不应该由其感情状态或是否有人爱来决定。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 351.2,
+      "endTime": 353.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "single",
+        "lovable",
+        "worth"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Why did the speaker become depressed according to the video?",
+      "options": [
+        "A) They lost their job",
+        "B) Their expectations didn't match reality",
+        "C) They had too much work",
+        "D) Their family was unsupportive"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'I became depressed because what I thought was going to be so great wasn't actually anymore'，说话者抑郁是因为他们原本以为会很棒的事情（工作）实际上并不如预期。这是关于期望与现实差距导致心理问题的例子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 129.6,
+      "endTime": 135.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "depressed",
+        "expectations",
+        "reality"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "speaking",
+      "question": "What does 'radical acceptance' mean to you? How can accepting your past help you move forward in life?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生根据视频中提到的'radical acceptance'（彻底接纳）概念发表看法。考生需要解释这个概念并阐述接纳过去如何帮助人们前进。",
+      "referenceAnswer": "Radical acceptance means fully accepting reality as it is, without judgment or resistance. It involves acknowledging both positive and negative experiences without labeling them as good or bad. Accepting the past helps us let go of resentment, shame, and regret, allowing us to focus on the present and future. By accepting what happened, we can learn from experiences rather than being stuck in negative emotions.",
+      "hint": "Think about: 1) What radical acceptance means 2) How letting go of judgment helps 3) The benefits of focusing on the present",
+      "startTime": 242.8,
+      "endTime": 250,
+      "difficulty": "hard",
+      "relatedWords": [
+        "radical acceptance",
+        "past",
+        "move forward"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What do 'these thoughts' refer to in the context of the video?",
+      "options": [
+        "A) Happy memories from the past",
+        "B) Thoughts that tell us we're behind",
+        "C) Plans for the future",
+        "D) Positive affirmations"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'These thoughts tell us we're behind and we actually believe them'，这里'these thoughts'指的是那些告诉我们自己'落后于他人'的想法。说话者指出我们倾向于相信这些想法，这导致了失败感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 201.4,
+      "endTime": 205,
+      "difficulty": "medium",
+      "relatedWords": [
+        "thoughts",
+        "behind",
+        "belief"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is described as 'wonderful' in the video?",
+      "options": [
+        "A) Achieving success quickly",
+        "B) Having many friends",
+        "C) Being able to remember experiences and learn from them",
+        "D) Never making mistakes"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕'We can even remember all of our experiences and take away all of the lessons from them'，说话者认为令人惊奇的是我们能够记住所有的经历并从中吸取教训。这是关于人类记忆和学习能力的重要观点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 173.8,
+      "endTime": 179.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "remember",
+        "experiences",
+        "lessons"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'We live to do' suggest about human nature?",
+      "options": [
+        "A) Humans are naturally lazy",
+        "B) Humans are meant to take action and create",
+        "C) Humans should only think, not act",
+        "D) Humans prefer to be passive"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'We live to do'，这句话暗示人类天生是为了行动和做事而存在的。这是关于人类本性的观点，暗示行动和创造是人类存在的核心意义。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 167,
+      "endTime": 168.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "human nature",
+        "action",
+        "live"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does accepting your past NOT mean according to the video?",
+      "options": [
+        "A) That what happened was okay",
+        "B) That you approve of mistreatment",
+        "C) That you forgive others",
+        "D) That you must stay stuck in the past"
+      ],
+      "answer": "D",
+      "explanation": "根据字幕'It doesn't mean what happened to you was okay or that your trauma was fair'以及'whether we decide to accept or not, our past will remain unchanged'，接纳过去并不意味着发生的事情是可以的，也不意味着你要停留在过去——相反，接纳是为了向前看。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 293.6,
+      "endTime": 297.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "accept",
+        "past",
+        "trauma"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What should you NOT do when you feel like a failure, according to the video?",
+      "options": [
+        "A) Accept your feelings",
+        "B) Force yourself to be positive immediately",
+        "C) Seek help from a therapist",
+        "D) Remember that nothing is purely good or bad"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'if you feel like a failure, you don't need to force yourself to be'，说话者指出当你觉得自己是个失败者时，你不需要强迫自己变得积极。这是关于自我接纳的重要观点——不要压抑真实的感受。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 337.2,
+      "endTime": 341.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "failure",
+        "force",
+        "accept"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the main message about 'good or bad' in the video?",
+      "options": [
+        "A) Good things always lead to success",
+        "B) Bad things should be avoided at all costs",
+        "C) Nothing is inherently good or bad - it's our judgment that matters",
+        "D) We should only focus on good things"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕'Nothing is good or bad'，视频的主要信息是：事情本身没有好坏之分，是我们自己对事物的判断赋予了它们意义。这是认知行为疗法中的核心概念。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 360.4,
+      "endTime": 362.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "good",
+        "bad",
+        "judgment"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the question 'Is it really a failure if it was also an experience?' suggest?",
+      "options": [
+        "A) All experiences are failures",
+        "B) Failure and experience are the same thing",
+        "C) Failure can be viewed as a valuable experience rather than a negative outcome",
+        "D) We should never take risks"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕'Is it really a failure if it was also an experience?'，这句话暗示如果某事也是一个经历，那么它不一定就是失败。这是一种重新框架失败的方式——将失败视为学习和成长的经历。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 150.6,
+      "endTime": 153.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "failure",
+        "experience",
+        "reframe"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What did therapy help the speaker become aware of?",
+      "options": [
+        "A) Their future goals",
+        "B) The thoughts they couldn't hear before",
+        "C) Other people's problems",
+        "D) How to make more money"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'I could become aware of the thoughts I couldn't hear before'，治疗帮助说话者意识到他们之前没有注意到的想法。这是关于自我意识和内省的重要观点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 205,
+      "endTime": 210,
+      "difficulty": "medium",
+      "relatedWords": [
+        "therapy",
+        "awareness",
+        "thoughts"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the relationship between thoughts, feelings, and actions as described in the video?",
+      "options": [
+        "A) They are unrelated",
+        "B) Thoughts dictate feelings, and feelings motivate actions",
+        "C) Actions come first, then feelings, then thoughts",
+        "D) Feelings are the most important"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'How we think dictates how we feel and how we feel motivates how we act'，我们的思维决定了我们的感受，而我们的感受又促使我们采取行动。这是认知行为疗法的核心原则。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 137.2,
+      "endTime": 141.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "thoughts",
+        "feelings",
+        "actions"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "speaking",
+      "question": "Describe a time when you felt like a failure. How did you cope with that feeling, and what did you learn from that experience?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生分享自己感到失败的亲身经历，并讨论应对方式和学到的东西。这与视频主题紧密相关。",
+      "referenceAnswer": "I should talk about: 1) A specific situation where I felt like a failure 2) The emotions I experienced 3) How I dealt with those feelings 4) What lessons I learned from that experience 5) How it helped me grow",
+      "hint": "Consider using the concepts from the video: accepting experiences without judgment, learning from failures, and not defining yourself by negative events.",
+      "startTime": 22.5,
+      "endTime": 27.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "failure",
+        "experience",
+        "learn"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the 'hard truth' the speaker learned?",
+      "options": [
+        "A) They are better than everyone else",
+        "B) They are no better than anyone else",
+        "C) They should only compare themselves to successful people",
+        "D) Success is the most important thing"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'the hard truth I've had to learn is that I'm no better than them'，说话者学到的艰难真相是自己并不比别人更好。这是关于谦逊和避免优越感的重要观点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 93,
+      "endTime": 96.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hard truth",
+        "comparison",
+        "humility"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the speaker say happens when we go through life believing every thought we have?",
+      "options": [
+        "A) We become very successful",
+        "B) We become confused and make poor decisions",
+        "C) We never make mistakes",
+        "D) We always feel happy"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'We go through life believing every thought we have'，虽然这句话本身没有直接给出结果，但结合上下文，它暗示如果我们不加批判地相信所有想法，我们可能会做出糟糕的决定或感到困惑。视频前面提到'these thoughts tell us we're behind and we actually believe them'，说明盲目相信负面想法会导致问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 195.4,
+      "endTime": 198.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "thoughts",
+        "belief",
+        "decisions"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What did the speaker give others permission to do?",
+      "options": [
+        "A) Feel sorry for themselves",
+        "B) Let go of good and bad judgments",
+        "C) Avoid all responsibilities",
+        "D) Only think positively"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'I give you permission to let go of these good and bad judgments'，说话者允许他人放下好坏评判。这是关于接纳和不评判的重要信息。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 141.4,
+      "endTime": 145,
+      "difficulty": "easy",
+      "relatedWords": [
+        "permission",
+        "let go",
+        "judgments"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "The video mentions that 'nothing is good or bad.' Do you agree with this perspective? How might this thinking help someone who feels like a failure?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求考生讨论视频中'事情本身没有好坏'这一观点，并思考这如何帮助那些感到失败的人。",
+      "referenceAnswer": "I should discuss: 1) Whether I agree that nothing is inherently good or bad 2) How our judgments create suffering 3) How this perspective can help someone feel less like a failure 4) How to apply this in daily life 5) Potential challenges or limitations of this view",
+      "hint": "Think about: 1) How labeling events as 'failures' affects our self-esteem 2) How re-framing experiences can change our emotions 3) Practical ways to reduce judgmental thinking",
+      "startTime": 360.4,
+      "endTime": 362.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "good or bad",
+        "judgment",
+        "failure"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "According to the video, what do we often say about our life, and is it true?",
+      "options": [
+        "A) We say life is perfect - and it's true",
+        "B) We say everything is bad - but it may not really be",
+        "C) We say we need more money - always",
+        "D) We say we are smarter than others"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'We say that everything in our life is bad, but is it really?'和'Why is it bad?'，说话者指出我们常说生活中的一切都是坏的，但真的是这样吗？这是质疑我们消极判断的提问。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 48.1,
+      "endTime": 52.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "life",
+        "bad",
+        "question"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What happens to our past regardless of whether we accept it or not?",
+      "options": [
+        "A) It changes completely",
+        "B) It gets erased from memory",
+        "C) It remains unchanged",
+        "D) It becomes less important"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕'whether we decide to accept or not, our past will remain unchanged'，无论我们是否接纳，过去都保持不变。这强调接纳不是为了改变过去，而是为了改变我们与过去的关系。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 303.2,
+      "endTime": 307,
+      "difficulty": "easy",
+      "relatedWords": [
+        "past",
+        "accept",
+        "unchanged"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What becomes possible when we accept our experiences according to the video?",
+      "options": [
+        "A) We can change what happened",
+        "B) We can forget the past",
+        "C) We can only change how we perceive them now",
+        "D) We can avoid all future problems"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕'You can only change how you perceive them now'，当我们接纳我们的经历后，我们能改变的只是现在如何看待它们。这是接纳疗法的核心观点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 273.5,
+      "endTime": 276.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "perceive",
+        "accept",
+        "change"
+      ]
+    }
+  ]
+}

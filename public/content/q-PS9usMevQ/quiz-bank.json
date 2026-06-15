@@ -1,0 +1,556 @@
+{
+  "videoId": "q-PS9usMevQ",
+  "title": "Come Along for an Eventful Week: Roland Garros, Summer Fridays, a Skin Reset & Unboxing a New Bag",
+  "generatedAt": "2026-06-15T08:25:58.881Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 12,
+    "hard": 3,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'best-selling pieces' refer to in this context?",
+      "options": [
+        "A) The most popular books",
+        "B) The most popular products",
+        "C) The most expensive items",
+        "D) The newest arrivals"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'This is one of their best-selling pieces'，这是在讨论产品（可能是包或护肤品），'pieces'在这里指商品或单品，'best-selling'表示畅销的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1892,
+      "endTime": 1895,
+      "difficulty": "easy",
+      "relatedWords": [
+        "best-selling",
+        "pieces",
+        "product"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is a 'please do not disturb' sign used for?",
+      "options": [
+        "A) To ask for room service",
+        "B) To indicate no one should interrupt",
+        "C) To show the room is dirty",
+        "D) To request extra towels"
+      ],
+      "answer": "B",
+      "explanation": "'Please do not disturb'是一个挂在门上的标识，表示请勿打扰，意思是希望别人不要来打扰你。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1647.4,
+      "endTime": 1650.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "disturb",
+        "sign",
+        "hotel"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the speaker mean by 'library' in this context?",
+      "options": [
+        "A) A room with books",
+        "B) A collection of products",
+        "C) A type of makeup palette",
+        "D) A beauty organizer"
+      ],
+      "answer": "B",
+      "explanation": "根据语境'And I just love to have this like in my um how to say library'，说话者在介绍美妆产品，'library'在这里是一种比喻说法，指她收集的化妆品组合。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1653.1,
+      "endTime": 1659.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "library",
+        "collection",
+        "makeup"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What type of product is 'YSL Love Nude Blurred'?",
+      "options": [
+        "A) Skincare cream",
+        "B) Lip product",
+        "C) Perfume",
+        "D) Foundation"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'We have new lip products from the YSL Love Nude Blurred line'，明确说明这是唇部产品。YSL是圣罗兰美妆品牌，Love Nude Blurred是其唇部产品系列。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1664,
+      "endTime": 1669.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lip",
+        "YSL",
+        "blurred"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'organic' mean in 'organic lemon juice'?",
+      "options": [
+        "A) Artificial",
+        "B) Natural and pesticide-free",
+        "C) Expensive",
+        "D) Imported"
+      ],
+      "answer": "B",
+      "explanation": "'Organic'指的是有机的、天然的、不使用化学农药的食品原料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 568.3,
+      "endTime": 570.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "organic",
+        "lemon juice",
+        "natural"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'a blast' mean in 'Last night was a blast'?",
+      "options": [
+        "A) An explosion",
+        "B) A lot of fun",
+        "C) A party with loud music",
+        "D) A disappointment"
+      ],
+      "answer": "B",
+      "explanation": "'A blast'在口语中表示'玩得很开心'、'非常愉快'的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 789.9,
+      "endTime": 791.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "blast",
+        "fun",
+        "party"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What brand is the perfume mentioned?",
+      "options": [
+        "A) Chanel",
+        "B) Dior",
+        "C) Miz Mara",
+        "D) Gucci"
+      ],
+      "answer": "C",
+      "explanation": "字幕明确提到'The perfume is from Miz Mara'，这是香水的品牌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1761.4,
+      "endTime": 1763,
+      "difficulty": "easy",
+      "relatedWords": [
+        "perfume",
+        "brand",
+        "Miz Mara"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'splurging' mean in 'I don't mind splurging in masks'?",
+      "options": [
+        "A) Saving money",
+        "B) Being careful",
+        "C) Spending freely on something special",
+        "D) Complaining about prices"
+      ],
+      "answer": "C",
+      "explanation": "'Splurge'指在某些东西上花钱不手软，尤其指在自己喜欢的东西上大方消费。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1322.3,
+      "endTime": 1328.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "splurge",
+        "masks",
+        "pricey"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is 'sunscreen season' referring to?",
+      "options": [
+        "A) Wintertime",
+        "B) Summer when sunscreen is needed",
+        "C) Rainy season",
+        "D) Spring only"
+      ],
+      "answer": "B",
+      "explanation": "'Sunscreen season'指的是需要使用防晒霜的季节，即夏天阳光强烈的时节。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1591.4,
+      "endTime": 1592.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sunscreen",
+        "season",
+        "summer"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is 'Mocktails' short for?",
+      "options": [
+        "A) Mock certificates",
+        "B) Non-alcoholic cocktails",
+        "C) Model cocktails",
+        "D) Mock tests"
+      ],
+      "answer": "B",
+      "explanation": "'Mocktail'是'mock'和'cocktail'的组合，指无酒精鸡尾酒，即仿鸡尾酒的无酒精饮品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 571.7,
+      "endTime": 584.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "mocktails",
+        "non-alcoholic",
+        "drink"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'driver's brief' likely mean?",
+      "options": [
+        "A) A short meeting with the driver",
+        "B) A driver's license",
+        "C) Driving instructions",
+        "D) A quick drive"
+      ],
+      "answer": "A",
+      "explanation": "'Driver's brief'可能是指出发前与司机的简短沟通或说明，'brief'在此处作名词，表示简短的指示或说明。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 903.3,
+      "endTime": 906.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "driver",
+        "brief",
+        "meeting"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker say about tennis player 'he'?",
+      "options": [
+        "A) He just started playing",
+        "B) He was going to retire",
+        "C) He won a championship",
+        "D) He is injured"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'he was going to stop his professional tennis career'，即这位网球选手将要结束职业生涯，停止职业生涯意味着退役。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1416.2,
+      "endTime": 1423.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tennis",
+        "career",
+        "retire"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'jelly cream' refer to?",
+      "options": [
+        "A) A food product",
+        "B) A skincare product with jelly texture",
+        "C) A dessert",
+        "D) A hair product"
+      ],
+      "answer": "B",
+      "explanation": "'Jelly cream'指的是果冻质地的护肤品，结合后面提到的'jelly face wash'，这是护肤品类的产品描述。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1823.4,
+      "endTime": 1825.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "jelly",
+        "cream",
+        "skincare"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'facial exfoliant toner' do?",
+      "options": [
+        "A) Adds color to face",
+        "B) Removes dead skin cells",
+        "C) Moisturizes skin",
+        "D) Cleans hair"
+      ],
+      "answer": "B",
+      "explanation": "'Exfoliant'是去角质的产品，'toner'是爽肤水，所以'facial exfoliant toner'是面部去角质爽肤水，功能是去除面部死皮。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1825.4,
+      "endTime": 1837,
+      "difficulty": "hard",
+      "relatedWords": [
+        "exfoliant",
+        "toner",
+        "facial"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What activity is described as 'barbecues canoeing and fishing'?",
+      "options": [
+        "A) Indoor activities",
+        "B) Outdoor recreational activities",
+        "C) Winter sports",
+        "D) Competitive sports"
+      ],
+      "answer": "B",
+      "explanation": "烤肉、划独木舟和钓鱼都是户外休闲活动，是典型的度假或周末休闲方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 32.2,
+      "endTime": 39.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "barbecues",
+        "canoe",
+        "fishing"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'practical' mean in 'that's very practical'?",
+      "options": [
+        "A) Expensive",
+        "B) Useful and convenient",
+        "C) Beautiful",
+        "D) Complicated"
+      ],
+      "answer": "B",
+      "explanation": "'Practical'指的是实用的、方便的、有实际用途的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1920.8,
+      "endTime": 1923.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "practical",
+        "useful",
+        "convenient"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'unboxing' mean in the video title?",
+      "options": [
+        "A) Putting things in a box",
+        "B) Opening and showing new products",
+        "C) Recycling boxes",
+        "D) Building furniture"
+      ],
+      "answer": "B",
+      "explanation": "'Unboxing'是网络流行语，指打开新购买的产品并展示给大家看的视频内容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1863.4,
+      "endTime": 1864.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "unboxing",
+        "bag",
+        "new"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the 'youngest player' context about?",
+      "options": [
+        "A) Basketball",
+        "B) Football (soccer)",
+        "C) Tennis",
+        "D) Golf"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'Two days ago, um, Moyes won a game and he's the youngest player to have won a game'，这里的Moyes是一位足球运动员。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1054.6,
+      "endTime": 1064.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "youngest",
+        "player",
+        "won"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Describe your ideal weekend activities based on what you heard in the video. What would you do for fun?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求学生根据视频内容描述理想的周末活动。",
+      "referenceAnswer": "学生可以提到：barbecues, canoeing, fishing, sports events, spending time with friends, trying new skincare products, watching sports games等与视频相关的活动。",
+      "hint": "Think about activities like outdoor sports, social events with friends, or trying new products mentioned in the vlog.",
+      "startTime": 30,
+      "endTime": 45,
+      "difficulty": "medium",
+      "relatedWords": [
+        "weekend",
+        "activities",
+        "friends",
+        "fun"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "If you were a vlogger, what kind of content would you create? Share your ideas.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求学生分享如果自己是vlogger会创作什么内容。",
+      "referenceAnswer": "学生可以结合视频内容，提到：travel vlogs, sports events coverage, skincare/makeup reviews, daily life with friends, product unboxing等类型。",
+      "hint": "Consider the topics covered in this vlog: sports, skincare, travel, and unboxing.",
+      "startTime": 2,
+      "endTime": 20,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vlogger",
+        "content",
+        "create",
+        "share"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Talk about your skincare routine. What products do you use and how do you use them?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求学生分享自己的护肤流程和产品。",
+      "referenceAnswer": "学生可以提到：sunscreen, masks, lip products, face wash, toner, exfoliant等视频中出现的护肤步骤和产品类型。",
+      "hint": "You can mention steps like cleansing, toning, moisturizing, and using sunscreen.",
+      "startTime": 1590,
+      "endTime": 1600,
+      "difficulty": "medium",
+      "relatedWords": [
+        "skincare",
+        "routine",
+        "products",
+        "use"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does 'Sculpting lip liner' refer to?",
+      "options": [
+        "A) A lip makeup product for outlining lips",
+        "B) A face cream",
+        "C) An eye pencil",
+        "D) A hair styling tool"
+      ],
+      "answer": "A",
+      "explanation": "'Lip liner'是唇线笔，用于勾勒唇部轮廓，'Sculpting'表示塑形、勾勒，所以这是用于唇部塑形的唇线笔产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1679.6,
+      "endTime": 1681.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sculpting",
+        "lip liner",
+        "makeup"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What is 'Roland Garros' mentioned in the video title?",
+      "options": [
+        "A) A tennis tournament",
+        "B) A beach resort",
+        "C) A shopping mall",
+        "D) A movie title"
+      ],
+      "answer": "A",
+      "explanation": "Roland Garros是法国网球公开赛的举办场地，是世界著名的网球锦标赛。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 44,
+      "endTime": 50,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Roland Garros",
+        "tennis",
+        "tournament"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'gorgeous' mean in 'gorgeous styles, gorgeous leathers'?",
+      "options": [
+        "A) Ordinary",
+        "B) Very beautiful",
+        "C) Cheap",
+        "D) Old-fashioned"
+      ],
+      "answer": "B",
+      "explanation": "'Gorgeous'是非常漂亮的、极美的意思，用来形容样式和皮革的质感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1871.8,
+      "endTime": 1877.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "gorgeous",
+        "styles",
+        "leathers"
+      ]
+    }
+  ]
+}

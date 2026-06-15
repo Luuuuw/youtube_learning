@@ -1,0 +1,577 @@
+{
+  "videoId": "97Ffhl6_OVM",
+  "title": "I'm a Doctor with ADHD: How I Really Focus",
+  "generatedAt": "2026-06-14T17:25:41.421Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 6,
+    "medium": 13,
+    "hard": 5,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "According to the video, what is ADHD described as?",
+      "options": [
+        "A) A psychological disorder caused by poor diet",
+        "B) A neurological condition that makes the brain wired for distraction by default",
+        "C) A learning disability that affects reading abilities",
+        "D) A mental health issue caused by excessive screen time"
+      ],
+      "answer": "B",
+      "explanation": "视频明确指出ADHD是一种神经状况（neurological condition），使大脑默认容易分心（wired for distraction by default）。这是视频开篇对ADHD的定义。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ADHD",
+        "neurological",
+        "distraction",
+        "condition"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'golden time' refer to in this video?",
+      "options": [
+        "A) The time when people usually feel most sleepy",
+        "B) The time of day when you feel most focused and energized",
+        "C) The time spent watching videos online",
+        "D) The time required to complete medical training"
+      ],
+      "answer": "B",
+      "explanation": "视频中多次提到'golden time'，指的是一天中感觉最清醒、最有精力、最容易专注的时间段。讲者以自己为例，说他的黄金时间是早上4点到8点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "golden time",
+        "focused",
+        "energized",
+        "morning"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is the 'default mode Network' according to the video?",
+      "options": [
+        "A) A network that controls our breathing and heart rate",
+        "B) A neural pathway activated when we're bored, daydreaming, or at wakeful rest",
+        "C) A computer system for organizing work tasks",
+        "D) A social media platform for professionals"
+      ],
+      "answer": "B",
+      "explanation": "视频解释default mode network是大脑中当我们无聊、白日梦或清醒休息时激活的神经通路。这个概念在视频的235-260秒时段多次被提及。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "default mode Network",
+        "brain",
+        "daydreaming",
+        "boredom"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is 'activation energy' as explained in the video?",
+      "options": [
+        "A) The energy from food we eat",
+        "B) The initial effort or mental energy needed to start focusing",
+        "C) The energy used during exercise",
+        "D) The power needed to charge electronic devices"
+      ],
+      "answer": "B",
+      "explanation": "视频在493秒左右提到activation energy这个物理学概念，解释为开始专注所需的初始努力或心理能量。这是一个重要的比喻，说明为什么启动专注状态很难。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "activation energy",
+        "focus",
+        "effort",
+        "mental"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "According to the speaker, what is one benefit of feeling bored?",
+      "options": [
+        "A) It makes people more stressed and productive",
+        "B) It has the same effect as reducing phone use - lowering stimulation and expanding attention span",
+        "C) It causes memory loss",
+        "D) It helps people sleep better"
+      ],
+      "answer": "B",
+      "explanation": "视频指出无聊实际上和减少手机使用有同样的效果，可以降低刺激，扩展注意力持续时间。讲者提到Chris Bailey的研究解释了这一现象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "boredom",
+        "stimulation",
+        "attention span",
+        "phone use"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the video say about multitasking?",
+      "options": [
+        "A) It improves memory and learning",
+        "B) It leads to faster mental tiredness and reduces focus",
+        "C) It helps people finish work faster",
+        "D) It has no negative effects on productivity"
+      ],
+      "answer": "B",
+      "explanation": "视频明确指出多任务处理会导致更快的心智疲劳并减少专注力。在459-468秒时段，讲者解释了为什么多任务对大脑有害。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "multitasking",
+        "mental tiredness",
+        "focus",
+        "brain"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is the 'circadian rhythm' described as in the video?",
+      "options": [
+        "A) A type of music rhythm",
+        "B) The body's biological clock that controls when we wake up, sleep and our peak energy times",
+        "C) A cooking technique",
+        "D) An exercise routine"
+      ],
+      "answer": "B",
+      "explanation": "视频在84秒左右解释circadian rhythm（昼夜节律）是身体的生物钟，控制我们的清醒、睡眠和最佳能量时间。讲者建议按照这个节律来安排工作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "circadian rhythm",
+        "biological clock",
+        "wake",
+        "sleep"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What advice does the doctor give about finding your optimal work time?",
+      "options": [
+        "A) Everyone should wake up at 4:00 a.m. like him",
+        "B) You should work alongside your body's biological clock regardless of whether you're a morning or night person",
+        "C) You must work from 9 to 5 like everyone else",
+        "D) Night people should force themselves to become morning people"
+      ],
+      "answer": "B",
+      "explanation": "视频建议人们应该根据自己的生物钟来安排工作，无论你是晨型人还是夜型人。讲者强调找到自己的'黄金时间'并据此建立工作节奏。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "biological clock",
+        "morning person",
+        "night person",
+        "schedule"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the video say about social media and phone use?",
+      "options": [
+        "A) They help improve focus and concentration",
+        "B) They have become like 'fasting' - something many people do whether they admit it or not",
+        "C) They have no impact on attention span",
+        "D) They are necessary for modern work"
+      ],
+      "answer": "B",
+      "explanation": "视频将社交媒体和手机使用比作'fasting'（斋戒），指出无论我们承认与否，很多人已经对手机上瘾，这影响了我们的专注力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "social media",
+        "phone use",
+        "fasting",
+        "distraction"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'hyperfocused' mean in the context of this video?",
+      "options": [
+        "A) Being slightly distracted",
+        "B) A state of distraction-free concentration when your brain works at its maximum",
+        "C) Feeling sleepy while working",
+        "D) Working while listening to music"
+      ],
+      "answer": "B",
+      "explanation": "视频引用Cal Newport的观点，描述'hyperfocused'是一种无干扰的专注状态，在这种状态下大脑以最大能力工作。这是讲者用来提高效率的系统。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hyperfocused",
+        "concentration",
+        "maximum",
+        "focus"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "According to the video, what happened when the speaker used this focus system?",
+      "options": [
+        "A) They failed their medical exams",
+        "B) It helped them score the top grade in their year at University",
+        "C) They became a YouTuber immediately",
+        "D) They quit medical school"
+      ],
+      "answer": "B",
+      "explanation": "视频透露讲者使用这个专注系统帮助他在大学一年中获得了最高分数。这证明了所分享策略的有效性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "top grade",
+        "University",
+        "Medical School",
+        "system"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the speaker's profession according to the video?",
+      "options": [
+        "A) A YouTuber full-time",
+        "B) A medical doctor",
+        "C) A university professor",
+        "D) A business consultant"
+      ],
+      "answer": "B",
+      "explanation": "视频标题和内容都表明讲者是一名医生（Doctor），同时也是YouTube内容创作者。视频提到他毕业于医学院，现在是执业医生。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "doctor",
+        "Medical School",
+        "YouTube",
+        "profession"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the video say about the relationship between stimulation and attention span?",
+      "options": [
+        "A) Higher stimulation increases attention span",
+        "B) Lower stimulation expands our attention span",
+        "C) Stimulation has no effect on attention",
+        "D) Only medication can change attention span"
+      ],
+      "answer": "B",
+      "explanation": "视频多次提到降低刺激（如减少手机使用、允许自己感到无聊）可以扩展注意力持续时间。讲者引用研究说明这一点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stimulation",
+        "attention span",
+        "reduce",
+        "focus"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What advice does the speaker give to extreme night people?",
+      "options": [
+        "A) They should force themselves to become morning people",
+        "B) They should make use of nighttime rather than forcing themselves to wake up early",
+        "C) They cannot be successful in traditional jobs",
+        "D) They should work two jobs"
+      ],
+      "answer": "B",
+      "explanation": "视频建议极端夜型人应该利用夜间时间，而不是强迫自己早起。讲者理解不是每个人都适合早起，关键是找到自己的最佳时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "night person",
+        "morning",
+        "daytime",
+        "work"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the video claim about doing nothing or being bored?",
+      "options": [
+        "A) It is a waste of time that should be avoided",
+        "B) It actually helps with improving focus by activating the default mode Network",
+        "C) It makes people depressed",
+        "D) It is only for lazy people"
+      ],
+      "answer": "B",
+      "explanation": "视频提出一个悖论：故意无所事事可以帮助我们实现深度专注。允许大脑休息和走神可以激活默认模式网络，反而提高专注力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "doing nothing",
+        "boredom",
+        "default mode Network",
+        "focus"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the paradox mentioned in the video about achieving deep focus?",
+      "options": [
+        "A) Working harder leads to better results",
+        "B) To achieve deep focus, you need to purposefully do nothing",
+        "C) The more you sleep, the more focused you become",
+        "D) Multitasking improves concentration"
+      ],
+      "answer": "B",
+      "explanation": "视频提到一个悖论：如何通过故意无所事事来实现深度专注？这似乎矛盾，但讲者解释说允许自己感到无聊实际上有助于提高专注力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "paradox",
+        "deep focus",
+        "do nothing",
+        "boredom"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "According to the video, what did Chris Bailey's research show about boredom?",
+      "options": [
+        "A) Boredom is harmful to the brain",
+        "B) Being bored has the same effect as reducing phone use - lowering stimulation",
+        "C) Boredom only affects creative people",
+        "D) Boredom can be cured with medication"
+      ],
+      "answer": "B",
+      "explanation": "视频引用Chris Bailey的研究，说明感到无聊和减少手机使用有同样的效果——降低刺激水平，从而扩展注意力持续时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Chris Bailey",
+        "boredom",
+        "research",
+        "stimulation"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What time does the speaker say is their 'golden time' for being focused?",
+      "options": [
+        "A) 9:00 a.m. to 12:00 p.m.",
+        "B) 4:00 a.m. until they need to get ready for work at 8:00 a.m.",
+        "C) 6:00 p.m. to 9:00 p.m.",
+        "D) 12:00 p.m. to 3:00 p.m."
+      ],
+      "answer": "B",
+      "explanation": "视频中讲者明确说他感觉最清醒的时间是凌晨4点到早上8点准备上班之前。这是他的'黄金时间'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "4:00 a.m.",
+        "golden time",
+        "work",
+        "morning"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What is the 'dynamic interplay' mentioned in the video about?",
+      "options": [
+        "A) Between different food types",
+        "B) Between the default mode Network and the executive Network",
+        "C) Between different doctors",
+        "D) Between YouTube and medical practice"
+      ],
+      "answer": "B",
+      "explanation": "视频在260秒左右提到，大脑中默认模式网络（与走神相关）和执行网络（与专注工作相关）之间存在动态的相互作用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "dynamic interplay",
+        "default mode Network",
+        "executive Network",
+        "brain"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "The speaker mentions that he used a specific system to stay hyperfocused and achieved top grades at university. Based on what you've learned from the video, what strategies would you use to create your own 'golden time' for maximum productivity?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频内容回答如何创建自己的'黄金时间'来提高生产力。学生需要综合视频中提到的策略来回答。",
+      "referenceAnswer": "1) Identify your body's natural rhythm - whether you're naturally a morning or night person; 2) Find your 'golden time' when you feel most energized and focused; 3) Schedule important tasks during this peak period; 4) Work alongside your circadian rhythm rather than against it; 5) Build a routine around your optimal time.",
+      "hint": "Think about your natural energy patterns and schedule demanding tasks during your peak hours.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "golden time",
+        "productivity",
+        "circadian rhythm",
+        "strategy"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "The video discusses the paradox that 'doing nothing' can actually help achieve deep focus. Explain how you would apply this concept in your daily life, considering the role of the default mode network and reducing stimulation.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求学生解释如何在日常生活中应用'无所事事'来提高专注力的概念。需要结合视频中关于默认模式网络和降低刺激的内容。",
+      "referenceAnswer": "1) Allow yourself regular breaks without screens; 2) Practice activities like daydreaming, shower thoughts, or just sitting without phone; 3) Reduce digital entertainment and social media; 4) Let your brain wander and activate the default mode network; 5) This helps lower stimulation and expand attention span.",
+      "hint": "Consider taking breaks without your phone and allowing your mind to wander.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "default mode Network",
+        "doing nothing",
+        "stimulation",
+        "focus"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "As someone who may have ADHD or just struggles with focus, what specific advice from this video would you implement first, and why? Explain with reference to the concepts of 'activation energy' and 'biological clock'.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语题，要求学生结合视频中关于激活能量和生物钟的概念，讨论会首先实施哪条建议。",
+      "referenceAnswer": "1) First, identify my biological clock/circadian rhythm to find optimal work times; 2) Schedule important tasks during 'golden time' when energy is highest; 3) Reduce the activation energy needed to start focusing by preparing the environment; 4) Create a routine that works with my natural rhythm; 5) Allow boredom to reduce overall stimulation levels.",
+      "hint": "Think about your daily energy levels and when you feel most alert.",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "medium",
+      "relatedWords": [
+        "activation energy",
+        "biological clock",
+        "ADHD",
+        "strategy"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What example does the speaker give about a famous person who used daydreaming productively?",
+      "options": [
+        "A) Albert Einstein",
+        "B) Isaac Newton",
+        "C) Both Einstein and Newton used daydreaming to develop their theories",
+        "D) Thomas Edison"
+      ],
+      "answer": "C",
+      "explanation": "视频在298秒左右提到，爱因斯坦和牛顿都利用白日梦来发展他们的理论。讲者用这个例子说明'无所事事'实际上可以产生成果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Einstein",
+        "Newton",
+        "daydreaming",
+        "theories"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the video suggest about the speaker's YouTube community?",
+      "options": [
+        "A) He started it before becoming a doctor",
+        "B) It was built after graduating from medical school",
+        "C) He never intended to build one",
+        "D) It has nothing to do with his medical career"
+      ],
+      "answer": "B",
+      "explanation": "视频在46-52秒提到，讲者从医学院毕业，建立了他梦想的YouTube社区，现在作为医生工作。这说明YouTube社区是在医学院毕业后建立的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 0,
+      "difficulty": "easy",
+      "relatedWords": [
+        "YouTube",
+        "community",
+        "Medical School",
+        "doctor"
+      ]
+    }
+  ]
+}

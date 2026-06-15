@@ -1,0 +1,568 @@
+{
+  "videoId": "t7q3eJ_eywQ",
+  "title": "Where I've Been & Where I'm Going",
+  "generatedAt": "2026-06-15T10:06:15.577Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 12,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker mean by 'take a step back' in this context?",
+      "options": [
+        "A) Move backwards physically",
+        "B) Withdraw from public view temporarily",
+        "C) Reduce the quality of content",
+        "D) Stop making videos permanently"
+      ],
+      "answer": "B",
+      "explanation": "'Take a step back' means to temporarily withdraw or reduce one's involvement in something. In this context, the speaker refers to taking a break from social media and content creation.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 22.9,
+      "endTime": 24.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "step back",
+        "temporary",
+        "withdraw"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the phrase 'half-assing stuff' mean?",
+      "options": [
+        "A) Doing something carefully and thoroughly",
+        "B) Putting minimal effort into something",
+        "C) Organizing things neatly",
+        "D) Planning something in advance"
+      ],
+      "answer": "B",
+      "explanation": "'Half-assing' is an informal expression meaning to do something with minimal effort or without proper commitment. The speaker mentions 'in the spirit of not half-assing stuff' when discussing shutting down Bookshelved.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 151.9,
+      "endTime": 156,
+      "difficulty": "medium",
+      "relatedWords": [
+        "half-assing",
+        "effort",
+        "commitment"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is 'Bookshelved' according to the video?",
+      "options": [
+        "A) A YouTube channel",
+        "B) A book review website",
+        "C) A social media platform",
+        "D) A publishing company"
+      ],
+      "answer": "B",
+      "explanation": "From the context 'the site that I was running' and 'it's like a book...' (cut off), we can infer Bookshelved was a website related to books, likely a book review or recommendation site that the speaker was running.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 156,
+      "endTime": 159.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Bookshelved",
+        "website",
+        "book"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What project does the speaker mention as 'Reading My Way Across America'?",
+      "options": [
+        "A) A book he wrote",
+        "B) A travel and reading adventure",
+        "C) A TV series",
+        "D) A podcast"
+      ],
+      "answer": "B",
+      "explanation": "The speaker mentions visiting places where novels are set and following in the protagonist's footsteps, indicating this is a travel project combined with reading books set in different locations.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 107.1,
+      "endTime": 109.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Reading My Way Across America",
+        "travel",
+        "novels"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Why did the speaker decide to take time off according to the video?",
+      "options": [
+        "A) He was bored with making videos",
+        "B) He had health issues and personal matters to deal with",
+        "C) He wanted to start a new career",
+        "D) He needed to travel internationally"
+      ],
+      "answer": "B",
+      "explanation": "The speaker mentions 'I had some pretty bad health issues that showed up and some personal stuff that just required me to take a step back.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 18.8,
+      "endTime": 22.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "health issues",
+        "personal",
+        "step back"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the speaker imply about his future content?",
+      "options": [
+        "A) It will remain exactly the same",
+        "B) It will look and be posted differently",
+        "C) He will stop making videos",
+        "D) He will only make short videos"
+      ],
+      "answer": "B",
+      "explanation": "The speaker states 'the content that I'm going to be making will look a lot different moving forward and the way that I post it might look a lot different moving forward as well.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 190.5,
+      "endTime": 197.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "moving forward",
+        "content",
+        "different"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'full-fledged production' mean in this context?",
+      "options": [
+        "A) A simple home video",
+        "B) A professional, complete production with full resources",
+        "C) A text-based content",
+        "D) An informal conversation"
+      ],
+      "answer": "B",
+      "explanation": "'Full-fledged' means complete or fully developed. A 'full-fledged production' refers to professional-quality content with proper planning, filming, editing, and production value.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 225.2,
+      "endTime": 229.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "full-fledged",
+        "production",
+        "professional"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is the speaker's attitude toward sharing personal details?",
+      "options": [
+        "A) He shares everything publicly",
+        "B) He prefers to keep personal matters private",
+        "C) He shares only positive things",
+        "D) He never shares any personal information"
+      ],
+      "answer": "B",
+      "explanation": "The speaker says 'I don't share a lot of details about my personal life' and 'if I want to share those things, I will share them, but ultimately I think...' indicating he chooses what to share and prefers privacy.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 248,
+      "endTime": 253.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "personal life",
+        "privacy",
+        "share"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker mean by 'slot machine' in the context of social media?",
+      "options": [
+        "A) A physical machine for entertainment",
+        "B) Content that provides quick, addictive gratification",
+        "C) A type of video format",
+        "D) An algorithm for posting"
+      ],
+      "answer": "B",
+      "explanation": "The metaphor suggests that social media content often provides quick, attention-grabbing hits similar to the addictive nature of slot machines, which the speaker indicates is not the type of content he wants to create.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 86.1,
+      "endTime": 90.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "slot machine",
+        "social media",
+        "addictive"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "According to the video, how long has it been since the speaker posted a video?",
+      "options": [
+        "A) About half a year",
+        "B) About a year and a half",
+        "C) About two years",
+        "D) About three months"
+      ],
+      "answer": "B",
+      "explanation": "The speaker explicitly says 'It's been like a year and a half' at the beginning of the video.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2.8,
+      "endTime": 4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "year and a half",
+        "time",
+        "posted"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does the speaker say about his videos before taking time off?",
+      "options": [
+        "A) They were very popular",
+        "B) They weren't really what he wanted to be doing",
+        "C) They were professionally produced",
+        "D) They were very short"
+      ],
+      "answer": "B",
+      "explanation": "The speaker mentions 'the videos that I was making for kind of the months leading up to taking my time off, they weren't really... stuff that I can throw myself 100% into' and 'that's just not what I want to be doing with my life.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 60.7,
+      "endTime": 76.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "videos",
+        "want to be doing",
+        "life"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'throw myself 100% into' mean?",
+      "options": [
+        "A) Throw something away",
+        "B) Give full commitment and effort to something",
+        "C) Spend money on something",
+        "D) Leave something behind"
+      ],
+      "answer": "B",
+      "explanation": "This idiom means to give complete dedication and effort to something. The speaker says he wants to make content that he can 'throw himself 100% into.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 100.4,
+      "endTime": 102.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "throw myself 100%",
+        "commitment",
+        "dedication"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the speaker's plan for posting content in the future?",
+      "options": [
+        "A) Post whenever he wants",
+        "B) Spread content out over a period of time",
+        "C) Post multiple times daily",
+        "D) Stop posting altogether"
+      ],
+      "answer": "B",
+      "explanation": "The speaker mentions 'maybe I try and do something where it's like spreading it out over a period of time' and mentions posting 'every month' and doing 'season of content.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 219,
+      "endTime": 223.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spreading it out",
+        "period of time",
+        "post"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the phrase 'go off and plan' mean in this context?",
+      "options": [
+        "A) Leave and stop doing something",
+        "B) Depart to spend time planning and creating",
+        "C) Fail at planning",
+        "D) Forget about planning"
+      ],
+      "answer": "B",
+      "explanation": "'Go off' here means to leave or depart to do something. The speaker says he'll 'go off and plan and film and edit' another season of content, meaning he'll take time away to work on creating new content.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 202.3,
+      "endTime": 206,
+      "difficulty": "medium",
+      "relatedWords": [
+        "go off",
+        "plan",
+        "film"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What can we infer about the speaker's view on social media?",
+      "options": [
+        "A) He loves how social media typically operates",
+        "B) He disagrees with typical social media patterns",
+        "C) He thinks social media is unimportant",
+        "D) He wants to become more famous"
+      ],
+      "answer": "B",
+      "explanation": "The speaker mentions 'cuz that's how social media usually operates' in a context suggesting he doesn't want to follow the typical pattern of constant posting, and he discusses the 'slot machine' nature of social media as something he's not interested in.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 223.1,
+      "endTime": 225.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "social media",
+        "operates",
+        "typical"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker say about the year he spent away?",
+      "options": [
+        "A) It was terrible",
+        "B) It was actually really amazing",
+        "C) He regretted it",
+        "D) It was very productive"
+      ],
+      "answer": "B",
+      "explanation": "The speaker says it 'actually been a really amazing year' referring to his time away from social media.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 36.8,
+      "endTime": 38.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "amazing year",
+        "really great",
+        "fun weird stuff"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'in the spirit of' mean in this expression?",
+      "options": [
+        "A) In the ghost of",
+        "B) Following the principles or attitude of",
+        "C) Against the idea of",
+        "D) Because of"
+      ],
+      "answer": "B",
+      "explanation": "'In the spirit of' means following the attitude, principles, or intention of something. Here it means following the principle of not doing something half-heartedly.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 151.9,
+      "endTime": 156,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spirit of",
+        "principles",
+        "attitude"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the speaker's attitude toward his audience?",
+      "options": [
+        "A) Indifferent",
+        "B) Grateful and thankful",
+        "C) Dismissive",
+        "D) Critical"
+      ],
+      "answer": "B",
+      "explanation": "The speaker repeatedly expresses gratitude, saying 'I'm really grateful to everyone who helped with that' and 'I'm thankful to everyone who tried it out again' and 'I hope that you really enjoy these videos.'",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 170.7,
+      "endTime": 187.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "grateful",
+        "thankful",
+        "appreciate"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'public figure' mean?",
+      "options": [
+        "A) A mathematical symbol",
+        "B) Someone known to the public",
+        "C) An important document",
+        "D) A private person"
+      ],
+      "answer": "B",
+      "explanation": "A 'public figure' is someone who is known to the public, often through media, entertainment, or other public activities. The speaker mentions 'I'm a public figure' when discussing his online presence.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 242.8,
+      "endTime": 246.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "public figure",
+        "known",
+        "internet"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'shutting down' mean in the context of Bookshelved?",
+      "options": [
+        "A) Closing down permanently",
+        "B) Taking a short break",
+        "C) Moving to a new platform",
+        "D) Changing the name"
+      ],
+      "answer": "A",
+      "explanation": "'Shutting down' means to close or cease operations completely. The speaker says he's 'going to be shutting down Bookshelved' indicating the site will no longer operate.",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 151.9,
+      "endTime": 156,
+      "difficulty": "easy",
+      "relatedWords": [
+        "shutting down",
+        "close",
+        "Bookshelved"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Please summarize what the speaker explains about where he's been and where he's going in this video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "This is an open-ended question asking the test taker to summarize the main points of the video about the speaker's past activities and future plans.",
+      "referenceAnswer": "The speaker should mention: 1) He took a year and a half break due to health issues and personal matters, 2) He worked on a project called 'Reading My Way Across America', 3) He closed his Bookshelved website, 4) His future content will look different and be posted differently (possibly seasonal format), 5) He prefers to keep personal details private but is grateful to his audience.",
+      "hint": "Think about: reasons for break, recent projects, future plans, and his attitude toward content creation",
+      "startTime": 10,
+      "endTime": 13.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "summary",
+        "where I've been",
+        "where I'm going"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What does the speaker mean when he says he wants to make content he can 'throw himself 100% into'? Explain your understanding.",
+      "options": [],
+      "answer": "open",
+      "explanation": "This question asks for personal interpretation of the speaker's statement about wanting to create content with full dedication and commitment.",
+      "referenceAnswer": "The speaker means he wants to create content that he's fully passionate about and can dedicate all his energy to. He doesn't want to just go through the motions or create content that doesn't truly inspire him. This relates to his decision to step back from content that felt unfulfilling.",
+      "hint": "Consider what '100%' implies about effort and passion",
+      "startTime": 100.4,
+      "endTime": 102.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "throw himself 100%",
+        "passion",
+        "dedication"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Based on the video, what do you think 'full-fledged production' means and why might the speaker want to treat his content this way?",
+      "options": [],
+      "answer": "open",
+      "explanation": "This question requires understanding the term 'full-fledged production' and analyzing the speaker's motivation for taking a more professional approach to content creation.",
+      "referenceAnswer": "'Full-fledged production' means creating complete, professional-quality content with proper planning, filming, and editing. The speaker seems to want to move away from quick, attention-grabbing content toward more thoughtful, well-produced material that he can be proud of.",
+      "hint": "Think about the contrast between 'slot machine' content and 'full-fledged production'",
+      "startTime": 225.2,
+      "endTime": 231,
+      "difficulty": "hard",
+      "relatedWords": [
+        "full-fledged production",
+        "professional",
+        "quality"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Explain why the speaker decided to 'shut down Bookshelved' and what this decision shows about his values.",
+      "options": [],
+      "answer": "open",
+      "explanation": "This question asks the test taker to analyze the speaker's decision to close his website and what it reveals about his approach to content creation.",
+      "referenceAnswer": "The speaker decided to shut down Bookshelved 'in the spirit of not half-assing stuff.' This shows he values quality over quantity and would rather close something than do it poorly. He prefers to focus his energy on projects he can fully commit to rather than spreading himself too thin.",
+      "hint": "Connect this to the phrase 'not half-assing stuff' and his earlier comments about not doing what he wants with his life",
+      "startTime": 151.9,
+      "endTime": 156,
+      "difficulty": "hard",
+      "relatedWords": [
+        "shut down",
+        "Bookshelved",
+        "values",
+        "quality"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "What are the main differences between how the speaker used to post content and how he plans to post content in the future?",
+      "options": [],
+      "answer": "open",
+      "explanation": "This question asks for a comparison between the speaker's past posting habits and his future plans, based on information from the video.",
+      "referenceAnswer": "In the past, he was posting regularly but felt the content wasn't what he wanted to do. In the future, he plans to spread content out over time (seasonal format), possibly posting monthly or in larger batches, and focusing on higher quality 'full-fledged productions' rather than constant uploads.",
+      "hint": "Look for keywords like 'spreading it out,' 'season of content,' and 'every month'",
+      "startTime": 211.8,
+      "endTime": 223.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "different",
+        "posting",
+        "future",
+        "season"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "videoId": "WozDukWhyzU",
+  "title": "No friends is fine - EP 47 // Pretty Lonesome with Madeline Argy",
+  "generatedAt": "2026-06-15T09:04:46.297Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 5,
+    "medium": 12,
+    "hard": 7,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "According to the speaker, how serious should we treat making friends?",
+      "options": [
+        "A) It's not as serious as romantic relationships",
+        "B) They are as serious as romantic relationships",
+        "C) It's less important than career",
+        "D) It's only for young people"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'to make friends they are as serious as romantic relationships'，说话者认为交朋友应该像对待恋爱关系一样认真。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2142.4,
+      "endTime": 2148.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "friends",
+        "serious",
+        "romantic relationships"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the speaker suggest about spending time alone?",
+      "options": [
+        "A) It's always negative and should be avoided",
+        "B) It might be what you're supposed to do right now",
+        "C) It means you have no friends",
+        "D) It's only for people who are lonely"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'spend some time by yourself because maybe that is just what you're supposed to do right now'，说话者认为独处可能是你目前应该做的事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1478.5,
+      "endTime": 1483.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spend time",
+        "yourself",
+        "supposed"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'platonic' mean in the context of finding a soulmate?",
+      "options": [
+        "A) Romantic love",
+        "B) Non-romantic love",
+        "C) Family relationship",
+        "D) Professional partnership"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说'okay well that's when I have to find the girl that is my soulmate platonically'，这里的'platonic'指的是非浪漫的精神层面的友谊。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1345.9,
+      "endTime": 1352.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "platonic",
+        "soulmate",
+        "friend"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the speaker say about people knowing the value of friendship?",
+      "options": [
+        "A) Everyone knows it naturally",
+        "B) Not many people know it in this day and age",
+        "C) Only older people understand it",
+        "D) It's becoming less important"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'people know the value of friendship in this day and age'，说话者感叹现在很多人并不了解友谊的价值。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1382.2,
+      "endTime": 1385.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "value",
+        "friendship",
+        "day and age"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the speaker mean by 'flatmates' in the context?",
+      "options": [
+        "A) Close friends",
+        "B) Roommates who share an apartment",
+        "C) Family members",
+        "D) Romantic partners"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'I would see people that I knew not necessarily liked but I knew and I had flatmates'，flatmates指的是合租的室友。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1269.8,
+      "endTime": 1274.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "flatmates",
+        "roommates",
+        "live"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'discontented' mean in this context?",
+      "options": [
+        "A) Happy and satisfied",
+        "B) Unhappy and dissatisfied",
+        "C) Confused and lost",
+        "D) Angry and aggressive"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'a lot of people feel very discontented'，discontented表示不满足、不满意的状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1165.1,
+      "endTime": 1169.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "discontented",
+        "feel",
+        "unhappy"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the speaker imply about being 'exactly where you're supposed to be'?",
+      "options": [
+        "A) You should feel bad about your situation",
+        "B) Your current situation might be right for you at this time",
+        "C) You need to change immediately",
+        "D) You should compare yourself to others"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'you're exactly where you're supposed to be'，说话者暗示即使在困难的情况下，这也可能是你目前应该所在的位置。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2062.4,
+      "endTime": 2066.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "supposed to be",
+        "situation",
+        "life"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker say about having 'innate knowledge'?",
+      "options": [
+        "A) We should learn everything from books",
+        "B) Some things should come naturally but we often forget them",
+        "C) Innate knowledge is not important",
+        "D) We should not trust our instincts"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'things that should be innate knowledge'，说话者认为有些事情应该是我们天生就知道的，但常常会忘记。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1953.7,
+      "endTime": 1958.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "innate knowledge",
+        "forgotten",
+        "life"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the speaker's attitude towards living with their mom?",
+      "options": [
+        "A) They hate it and want to move out",
+        "B) They don't mind it and actually like it",
+        "C) They feel embarrassed about it",
+        "D) They think it's only for lazy people"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'I don't mind living with my mom I like it a lot'，说话者表示不介意和妈妈住在一起，而且很喜欢。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 119,
+      "endTime": 122.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "living with mom",
+        "like",
+        "prefer"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the speaker suggest about age differences in online conversations?",
+      "options": [
+        "A) Age doesn't matter online",
+        "B) It can be confusing when talking to much younger people online",
+        "C) Everyone should only talk to people their own age",
+        "D) Online conversations are always safe"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕especially online because you're having conversations about being 22 with someone that's 15 and so in comparison'，说话者指出在网上与年龄差距大的人交流可能会造成困惑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1907.9,
+      "endTime": 1916,
+      "difficulty": "medium",
+      "relatedWords": [
+        "online",
+        "age",
+        "conversations"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'withhold information' mean in this context?",
+      "options": [
+        "A) Share information with everyone",
+        "B) Keep information to yourself",
+        "C) Delete information",
+        "D) Forget information"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'let me like withhold this information from'，withhold表示隐瞒、保留信息，不告诉别人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1532,
+      "endTime": 1537,
+      "difficulty": "medium",
+      "relatedWords": [
+        "withhold",
+        "information",
+        "secret"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker say about their University experience?",
+      "options": [
+        "A) They met their soulmate at University",
+        "B) They expected University to be very social but it wasn't",
+        "C) They hated University",
+        "D) University was exactly what they expected"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'I thought it was going to be the most social years of my life'，说话者原本以为大学会是社交最活跃的年份，但事实并非如此。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1363.8,
+      "endTime": 1366,
+      "difficulty": "medium",
+      "relatedWords": [
+        "University",
+        "social",
+        "expected"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'crash' mean in the context of the speaker's experience?",
+      "options": [
+        "A) A car accident",
+        "B) A sudden emotional decline after something exciting",
+        "C) A technical problem",
+        "D) A physical injury"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'I kept crashing and crash is basically like imagine like an actual come down'，这里的crash指的是情绪上的突然低落，就像兴奋后的沮丧感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2273.4,
+      "endTime": 2280.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "crash",
+        "come down",
+        "emotional"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the speaker mean by 'a hurdle' in the context of making friends?",
+      "options": [
+        "A) A competition",
+        "B) An obstacle or difficulty to overcome",
+        "C) A type of friend",
+        "D) A celebration"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'a hurdle and you find a girl that you want to be friends with'，hurdle在这里指的是障碍、困难。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1458.9,
+      "endTime": 1462.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hurdle",
+        "obstacle",
+        "friend"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker say about the possibility of meeting someone?",
+      "options": [
+        "A) It's impossible to meet new people",
+        "B) It's confusing even when you get along with someone",
+        "C) You should never try to meet new people",
+        "D) Meeting people is always easy"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'can happen it's a possibility how confusing like even if it's someone you get on with'，说话者认为即使是和得来的人，可能性仍然令人困惑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1131.7,
+      "endTime": 1137.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "possibility",
+        "confusing",
+        "get on with"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker think about being 22 talking to someone who is 15?",
+      "options": [
+        "A) It's completely normal",
+        "B) It's inappropriate due to the age gap",
+        "C) It's educational",
+        "D) It doesn't matter online"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'especially online because you're having conversations about being 22 with someone that's 15 and so in comparison'，说话者认为这种年龄差距在网友交流中是有问题的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1907.9,
+      "endTime": 1916,
+      "difficulty": "medium",
+      "relatedWords": [
+        "22",
+        "15",
+        "age gap"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker imply about finding the right place to live?",
+      "options": [
+        "A) You should always live in big cities",
+        "B) You need to live where you can afford",
+        "C) You can barely afford your rent but you're where you're supposed to be",
+        "D) You should never compromise on rent"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕'you can barely afford your rent or you can't afford your rent you're exactly where you're supposed to'，说话者认为即使租金昂贵，这也是你目前应该所在的地方。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2062.4,
+      "endTime": 2066.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "afford",
+        "rent",
+        "supposed to be"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "The speaker discusses the importance of treating friendships as seriously as romantic relationships. How do you view the importance of friendships in your life? Please explain in 2-3 sentences.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生根据视频中关于友谊重要性的讨论，发表自己的看法。",
+      "referenceAnswer": "应该表达对友谊的重视，可以提到朋友在生活中扮演的角色，如何支持你，以及友谊与恋爱关系的相似之处。",
+      "hint": "Think about: 1) What role do friends play in your life? 2) How do you maintain friendships? 3) What makes a good friend?",
+      "startTime": 2142.4,
+      "endTime": 2148.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "friendship",
+        "important",
+        "relationships"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "The speaker suggests that sometimes spending time alone is what you're 'supposed to do right now.' Do you agree with this idea? Please explain your opinion in 2-3 sentences.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生就独处的话题发表看法。",
+      "referenceAnswer": "可以表达同意或不同意，并解释原因。可以谈论独处的好处（如自我反思、成长）或挑战（如孤独感）。",
+      "hint": "Consider: 1) Do you enjoy spending time alone? 2) What do you do when you're alone? 3) How does solitude help or not help you?",
+      "startTime": 1478.5,
+      "endTime": 1483.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "alone",
+        "time",
+        "yourself"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "The speaker mentions that some knowledge should be 'innate' but we often forget it. What are some things you feel you should naturally know but sometimes forget? Please answer in 2-3 sentences.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语表达题，要求学生讨论关于本能知识和遗忘的话题。",
+      "referenceAnswer": "可以谈论生活中应该知道但有时会忘记的事情，比如：健康的重要性、珍惜时间、对亲人表达感激等。",
+      "hint": "Think about: 1) What important lessons have you learned but sometimes neglect? 2) How do you remind yourself of these things? 3) Why do you think we forget them?",
+      "startTime": 1953.7,
+      "endTime": 1958.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "innate knowledge",
+        "forgotten",
+        "life lessons"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does 'calculated' mean in the context of the speaker's statement?",
+      "options": [
+        "A) Spontaneous and natural",
+        "B) Carefully planned or thought out",
+        "C) Lucky and accidental",
+        "D) Careless and reckless"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'it makes me calculated and ominous'，calculated表示经过深思熟虑的、精心计算的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 107.9,
+      "endTime": 112.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "calculated",
+        "ominous",
+        "thought"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the speaker say about moving out of a familiar environment?",
+      "options": [
+        "A) It's always easy and exciting",
+        "B) It's difficult and hard",
+        "C) It doesn't affect people",
+        "D) It's only hard for old people"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'when you move out of an environment that has become familiar to everywhere and it's just hard'，离开熟悉的环境是困难的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1259.8,
+      "endTime": 1264.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "move out",
+        "familiar",
+        "hard"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does the speaker mean by 'it's no one else's' at the end?",
+      "options": [
+        "A) Your life belongs to your family",
+        "B) Your life is your own responsibility",
+        "C) Your life should be shared with others",
+        "D) Your life is predetermined"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'it's your life it's no one else's'，说话者强调你的生活是你自己的，没有人可以替你做主。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2066.7,
+      "endTime": 2070.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "life",
+        "no one else",
+        "yourself"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does the speaker say about their relationship with their friend who visited London?",
+      "options": [
+        "A) They went to lunch together",
+        "B) The friend suggested eating lunch but the speaker refused",
+        "C) They had a big argument",
+        "D) The friend moved in with them"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕'have you tried eating lunch and I was like no why would I do that'，朋友建议一起吃午饭，但说话者拒绝了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1972,
+      "endTime": 1976.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lunch",
+        "friend",
+        "visit"
+      ]
+    }
+  ]
+}

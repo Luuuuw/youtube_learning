@@ -71,3 +71,8 @@ export function getRecentActivity(code: string, days: number = 90): DailyActivit
   const cutoffStr = cutoff.toISOString().slice(0, 10);
   return activities.filter(a => a.date >= cutoffStr && a.code === code);
 }
+
+// 跨用户聚合用：返回全部活动记录（小数据，整文件直读）
+export function getAllActivities(): DailyActivity[] {
+  return readActivities();
+}
