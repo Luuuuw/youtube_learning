@@ -27,9 +27,12 @@ interface CardWithState {
   owner?: string;
   source?: string;
   state: {
-    due: string;
-    state: 0 | 1 | 2 | 3;
+    nextReview?: string;
+    due?: string;
+    state: number | string;
     reps: number;
+    stability?: number;
+    difficulty?: number;
   } | null;
 }
 
