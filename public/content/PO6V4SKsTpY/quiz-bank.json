@@ -1,0 +1,592 @@
+{
+  "videoId": "PO6V4SKsTpY",
+  "title": "PO6V4SKsTpY",
+  "generatedAt": "2026-08-10T11:13:10.142Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 11,
+    "medium": 10,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the phrase 'You must have been the A team' mean in this context?",
+      "options": [
+        "A) You were a team that always lost",
+        "B) You were a member of the best/top-performing team",
+        "C) You were part of a sports team at school",
+        "D) You were someone who liked to organize teams"
+      ],
+      "answer": "B",
+      "explanation": "'A team' 是英语中常用的习语，指最优秀、最顶尖的团队或成员。这里说话者在夸赞对方从小就是最优秀的一群人之一，与'精英团队'含义相同。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 47.3,
+      "endTime": 48.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "A team",
+        "elite",
+        "top-performing"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the word 'multifaceted' mean?",
+      "options": [
+        "A) Having only one side or aspect",
+        "B) Having many sides, aspects, or elements",
+        "C) Something that is difficult to understand",
+        "D) Related to multiple factories"
+      ],
+      "answer": "B",
+      "explanation": "'Multifaceted' 字面意思是'多面的'，引申为'多方面的、多元的'。词根 multi- 表示'多'，facet 意为'面/方面'。这里指事物有很多不同的层面或特点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 65,
+      "endTime": 67.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "multifaceted",
+        "multi-",
+        "facet",
+        "complex"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "In the phrase 'take out of the equation at a restaurant', what does 'equation' mean?",
+      "options": [
+        "A) A mathematical problem",
+        "B) A balance of considerations or factors",
+        "C) A type of restaurant dish",
+        "D) A specific menu item"
+      ],
+      "answer": "B",
+      "explanation": "在英语中 'equation' 不仅指数学等式，还常用来比喻'需要权衡的各种因素'。'take out of the equation' 意为'将某因素从考虑中去除'，即消除餐厅中某些复杂的因素。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 71.3,
+      "endTime": 76.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "equation",
+        "take out of",
+        "considerations"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is a 'brewmast' referring to in the context?",
+      "options": [
+        "A) A person who brews coffee",
+        "B) A person who brews beer or beverages professionally",
+        "C) A type of yeast used in baking",
+        "D) A kitchen equipment for mixing"
+      ],
+      "answer": "B",
+      "explanation": "'Brewmaster' 指专业的酿酒师或饮料酿造大师，特别是精酿啤酒的酿造专家。Grant Wood 是这里提到的一位使用特殊酵母的酿酒师。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 105.8,
+      "endTime": 112,
+      "difficulty": "easy",
+      "relatedWords": [
+        "brewmast",
+        "yeast",
+        "Grant Wood",
+        "brewing"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the phrase 'sought out' mean in 'it was never anything we sought out'?",
+      "options": [
+        "A) Avoided intentionally",
+        "B) Actively looked for or pursued",
+        "C) Found by accident",
+        "D) Refused completely"
+      ],
+      "answer": "B",
+      "explanation": "'Sought out' 是 'seek out' 的过去式，意为'主动寻找、追求'。'it was never anything we sought out' 意为'这不是我们主动追求的事情'，即某事是自然而然发生的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 226.6,
+      "endTime": 228.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sought out",
+        "seek",
+        "pursue",
+        "actively"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the idiom 'did not go down very well' mean?",
+      "options": [
+        "A) Was not eaten completely",
+        "B) Was not received positively or was unpopular",
+        "C) Did not physically descend",
+        "D) Was very delicious"
+      ],
+      "answer": "B",
+      "explanation": "'Go down well' 是英语习语，意为'被接受/受欢迎'。'Did not go down very well' 则表示'反响不佳、不受欢迎'，这里指某事在他人那里没有得到好的反响。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 239.7,
+      "endTime": 245.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "go down well",
+        "reception",
+        "rugby school",
+        "unpopular"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'contributing to' mean in 'doing different things that are all contributing to'?",
+      "options": [
+        "A) Giving money to",
+        "B) Helping to cause or achieve something",
+        "C) Donating time only",
+        "D) Building a structure"
+      ],
+      "answer": "B",
+      "explanation": "'Contribute to' 意为'贡献于、有助于'。这里指不同的创意人才通过各自的工作为某个共同的项目或目标做出贡献。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 306.6,
+      "endTime": 313,
+      "difficulty": "easy",
+      "relatedWords": [
+        "contribute to",
+        "creative people",
+        "collaboration"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "In 'I was so distracted by my now love for movies', what does 'distracted' mean?",
+      "options": [
+        "A) Completely focused on something",
+        "B) Had attention drawn away from other things",
+        "C) Was angry about something",
+        "D) Was physically removed from somewhere"
+      ],
+      "answer": "B",
+      "explanation": "'Distracted' 意为'分心的、走神的'。这里指因为对电影的热爱而导致注意力从其他事情（比如学业）上转移开。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 314.4,
+      "endTime": 320.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "distracted",
+        "movies",
+        "love for",
+        "attention"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the phrase 'how do you hide those' refer to in 'how do you hide those (nerves)'?",
+      "options": [
+        "A) How to physically hide objects",
+        "B) How to conceal or mask one's nervousness",
+        "C) How to find hidden things",
+        "D) How to delete emotions"
+      ],
+      "answer": "B",
+      "explanation": "这里 'hide those' 指'隐藏那些紧张情绪'。'Nerves' 在口语中常指'紧张不安'。说话者在询问对方如何掩饰或控制自己的紧张感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 327,
+      "endTime": 330.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "nerves",
+        "hide",
+        "conceal",
+        "nervousness"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'disciplined household' mean?",
+      "options": [
+        "A) A house with strict rules and self-control",
+        "B) A house with many disciplines",
+        "C) A house for military training",
+        "D) A house with a sport theme"
+      ],
+      "answer": "A",
+      "explanation": "'Disciplined household' 指'有纪律的家庭'，即家庭氛围注重规则、自律和良好的行为习惯。这里指在这样严格的家庭环境中成长。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 394.2,
+      "endTime": 400,
+      "difficulty": "medium",
+      "relatedWords": [
+        "disciplined",
+        "household",
+        "rules",
+        "self-control"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'it depends on what I'm working on' imply?",
+      "options": [
+        "A) The answer is always the same",
+        "B) The answer varies based on the situation",
+        "C) There is no answer at all",
+        "D) I am not willing to share"
+      ],
+      "answer": "B",
+      "explanation": "'It depends on...' 是英语中常用的表达，意为'这取决于……'。表示答案会根据不同情况或条件而变化，没有固定标准。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 409.8,
+      "endTime": 412,
+      "difficulty": "easy",
+      "relatedWords": [
+        "it depends on",
+        "varies",
+        "situation"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "In 'he peels the grapes', what does 'peels' mean?",
+      "options": [
+        "A) Removes the skin of",
+        "B) Cuts into small pieces",
+        "C) Washes thoroughly",
+        "D) Cooks slowly"
+      ],
+      "answer": "A",
+      "explanation": "'Peel' 在烹饪语境中意为'去皮、剥皮'。'Peels the grapes' 意为'给葡萄去皮'，这是一种比较讲究的烹饪手法，因为葡萄皮通常是不去掉的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 480.5,
+      "endTime": 483.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "peel",
+        "grapes",
+        "cooking",
+        "chicken dish"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'tenderisation' mean in the context of cooking chicken?",
+      "options": [
+        "A) The process of making meat soft",
+        "B) The process of adding salt",
+        "C) The process of cooking quickly",
+        "D) The process of preserving food"
+      ],
+      "answer": "A",
+      "explanation": "'Tenderisation' 来自动词 'tenderise'，意为'（使肉质）变嫩'。通常通过物理方式（如敲打）或加入某些调料（如盐、酸性物质）来让肉变得更软嫩多汁。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 644.3,
+      "endTime": 647.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "tenderisation",
+        "chicken",
+        "cooking",
+        "tenderise"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'pick-me-up' mean in this context?",
+      "options": [
+        "A) Something that gives a ride",
+        "B) Something that boosts energy or mood",
+        "C) Something to eat for breakfast",
+        "D) A type of exercise"
+      ],
+      "answer": "B",
+      "explanation": "'Pick-me-up' 是英语中常用的口语表达，意为'提神的东西、令人振奋的事物'，通常指能让人恢复精力或改善情绪的饮品、活动或事物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 664.9,
+      "endTime": 666.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pick-me-up",
+        "energy",
+        "boost",
+        "mood"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "The phrase 'Shaken, not beroed' appears to be a humorous play on words. What is the correct cocktail term?",
+      "options": [
+        "A) Shaken, not stirred",
+        "B) Shaken, not blended",
+        "C) Shaken, not poured",
+        "D) Shaken, not mixed"
+      ],
+      "answer": "A",
+      "explanation": "正确的调酒术语是 'Shaken, not stirred'（摇匀，不要搅拌），这是经典鸡尾酒如马天尼的著名制作方式，源自007詹姆斯·邦德电影。'Beroed' 是一个玩笑式的不存在词汇。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 590.6,
+      "endTime": 591.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "shaken",
+        "stirred",
+        "cocktail",
+        "James Bond"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'I already consider myself to be the luckiest kid alive' express?",
+      "options": [
+        "A) A complaint about life",
+        "B) Deep gratitude and contentment",
+        "C) A desire for more luck",
+        "D) A sarcastic comment"
+      ],
+      "answer": "B",
+      "explanation": "这句话表达了说话者深深的感激和满足之情。'The luckiest kid alive'（世上最幸运的孩子）是一种夸张但真诚的表达，传达出对现状的感恩。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 613.4,
+      "endTime": 616.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "luckiest",
+        "grateful",
+        "contentment",
+        "alive"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'got so heavily engrossed in the conversation' mean?",
+      "options": [
+        "A) Was bored by the conversation",
+        "B) Was completely absorbed or deeply involved in the conversation",
+        "C) Left the conversation early",
+        "D) Forgot about the conversation"
+      ],
+      "answer": "B",
+      "explanation": "'Engrossed' 意为'全神贯注的、专心致志的'。'Heavily engrossed' 加强语气，表示完全沉浸在对话中以至于忘记了时间或其他事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 958.7,
+      "endTime": 960.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "engrossed",
+        "conversation",
+        "absorbed",
+        "involved"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "In cooking, what does 'dress it lightly' mean?",
+      "options": [
+        "A) Wear light clothing on it",
+        "B) Add a small amount of dressing or seasoning",
+        "C) Make it look pretty with decorations",
+        "D) Cook it quickly"
+      ],
+      "answer": "B",
+      "explanation": "在烹饪语境中，'dress' 意为'调味、淋上酱汁'。'Dress it lightly' 意为'少量地调味'或'轻轻地淋上酱料'，通常指沙拉等菜肴的调味方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 623.1,
+      "endTime": 624.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dress",
+        "lightly",
+        "cooking",
+        "seasoning"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'fit and healthy' mean?",
+      "options": [
+        "A) Physically strong and in good health",
+        "B) Only about mental state",
+        "C) A medical condition",
+        "D) A type of exercise"
+      ],
+      "answer": "A",
+      "explanation": "'Fit and healthy' 是英语中常用的搭配，意为'健康强壮、身体状况良好'。'Fit' 强调体能和体格，'healthy' 强调整体健康状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 417.4,
+      "endTime": 421.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fit",
+        "healthy",
+        "physical",
+        "wellness"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What is the meaning of 'Oh mate' in British English?",
+      "options": [
+        "A) An insult",
+        "B) A formal address",
+        "C) An informal friendly way to address someone",
+        "D) A term for a spouse"
+      ],
+      "answer": "C",
+      "explanation": "'Mate' 是英式英语中常见的非正式称呼，意为'伙计、朋友'，类似美式英语中的 'buddy' 或 'dude'。'Oh mate' 是一种友好、随意的称呼方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 494.4,
+      "endTime": 497.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "mate",
+        "British English",
+        "informal",
+        "buddy"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does 'on top of my game' mean in 'be on top of my [game]'?",
+      "options": [
+        "A) At the peak of one's performance or abilities",
+        "B) Standing physically above the game",
+        "C) About to quit a game",
+        "D) A position in sports"
+      ],
+      "answer": "A",
+      "explanation": "'On top of one's game' 是英语习语，意为'处于最佳状态、表现出色'。这里指说话者需要保持最佳的身体和精神状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 417.4,
+      "endTime": 421.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "on top of",
+        "game",
+        "performance",
+        "best"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "How did you get inspired to pursue your career or passion? Describe a moment that influenced your path.",
+      "options": [],
+      "answer": "open",
+      "explanation": "此题为开放式口语题，要求学习者谈论自己的职业或激情是如何被启发的。视频中提到了从舞蹈开始对表演艺术的兴趣。学习者可以参考这种表达方式来回答。",
+      "referenceAnswer": "1. Describe a specific moment or person that inspired you. 2. Use past tenses to talk about when it started. 3. Connect your inspiration to your current passion. 4. Share emotions related to that discovery (e.g., excitement, love).",
+      "hint": "Think about your childhood, school experiences, or someone who inspired you. Use phrases like 'I was really into...', 'It all started when...', 'I just loved...'",
+      "startTime": 176.9,
+      "endTime": 193.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "inspired",
+        "passion",
+        "career",
+        "pursue"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "How do you deal with nervousness before an important event? Share your strategies for managing nerves.",
+      "options": [],
+      "answer": "open",
+      "explanation": "此题为开放式口语题，要求学习者谈论如何应对紧张情绪。视频中提到了 'I'm nervous, I'm just really excited' 以及如何 'hide' 紧张感。学习者可以分享自己的应对策略。",
+      "referenceAnswer": "1. Acknowledge that feeling nervous is normal. 2. Share specific techniques (deep breathing, preparation, positive thinking). 3. Mention that nervousness can be turned into excitement. 4. Provide examples from personal experience.",
+      "hint": "Use phrases like 'I usually...', 'What helps me is...', 'I try to...'. You can mention both mental and physical techniques.",
+      "startTime": 385.2,
+      "endTime": 400,
+      "difficulty": "medium",
+      "relatedWords": [
+        "nervous",
+        "nerves",
+        "excited",
+        "manage"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Describe a creative dish you'd like to cook. What ingredients would you use and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "此题为开放式口语题，要求学习者描述一道自己想做的创意菜肴。视频中提到了鸡肉配葡萄、有趣的调酒等创意料理元素，学习者可以发挥想象力。",
+      "referenceAnswer": "1. Name a specific dish or concept. 2. List the key ingredients. 3. Explain the cooking method briefly. 4. Describe the flavors and why this combination works. 5. Mention who you would cook it for.",
+      "hint": "Use cooking vocabulary like 'peel', 'dress lightly', 'seasoning', 'tenderise'. Try to be creative and explain your choices.",
+      "startTime": 480.5,
+      "endTime": 491,
+      "difficulty": "hard",
+      "relatedWords": [
+        "creative",
+        "dish",
+        "ingredients",
+        "cooking"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "What is something that you didn't actively pursue but ended up being a great part of your life? Share an unexpected blessing.",
+      "options": [],
+      "answer": "open",
+      "explanation": "此题为开放式口语题，要求学习者谈论生活中意外收获的美好事物。视频中提到 'it was never anything we sought out'，指的是某种自然发生的美好事情。",
+      "referenceAnswer": "1. Introduce something unexpected that came into your life. 2. Explain why you didn't seek it out. 3. Describe how it positively impacted you. 4. Express your feelings about it now (gratitude, happiness). 5. Use past tenses to tell the story.",
+      "hint": "Use phrases like 'It just happened...', 'I never expected...', 'Looking back...', 'It turned out to be...'",
+      "startTime": 226.6,
+      "endTime": 245.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "unexpected",
+        "blessing",
+        "life",
+        "grateful"
+      ]
+    }
+  ]
+}

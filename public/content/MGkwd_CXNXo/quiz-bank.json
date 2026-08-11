@@ -1,0 +1,591 @@
+{
+  "videoId": "MGkwd_CXNXo",
+  "title": "MGkwd_CXNXo",
+  "generatedAt": "2026-08-10T17:18:22.314Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 8,
+    "medium": 12,
+    "hard": 5,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the word 'thrifted' mean in 'these shorts are literally just thrifted which is awesome'?",
+      "options": [
+        "A) Designed by a famous brand",
+        "B) Bought from a second-hand/thrift store",
+        "C) Given as a gift from a friend",
+        "D) Made by hand at home"
+      ],
+      "answer": "B",
+      "explanation": "'Thrifted' 是一个俚语用法，意思是'在二手商店（旧货店）购买的'。thrift store 指的是出售二手物品的廉价商店，说话者表示这条短裤是从二手店淘来的，觉得很棒。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 36,
+      "endTime": 42,
+      "difficulty": "easy",
+      "relatedWords": [
+        "thrifted",
+        "thrift store",
+        "second-hand",
+        "shopping"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is a 'trailhead' according to the context 'Luckily, there's a bathroom at the trailhead'?",
+      "options": [
+        "A) The middle point of a hiking trail",
+        "B) The starting/entry point of a hiking trail",
+        "C) A viewpoint at the top of a mountain",
+        "D) A camping ground along the trail"
+      ],
+      "answer": "B",
+      "explanation": "'Trailhead'（步道起点）指的是徒步路线的入口或起点，通常配有停车场、卫生间等基础设施。说话者庆幸起点有卫生间可以使用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 311.9,
+      "endTime": 314.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "trailhead",
+        "trail",
+        "hike",
+        "starting point"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is 'arugula' as mentioned in the sandwich description?",
+      "options": [
+        "A) A type of cheese",
+        "B) A type of sauce",
+        "C) A leafy green vegetable",
+        "D) A kind of bread"
+      ],
+      "answer": "C",
+      "explanation": "Arugula（芝麻菜）是一种常见的绿叶蔬菜，常用于沙拉和三明治中，带有微微的辛辣味。说话者说她喜欢在三明治里加芝麻菜。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 608,
+      "endTime": 613,
+      "difficulty": "easy",
+      "relatedWords": [
+        "arugula",
+        "vegetable",
+        "sandwich",
+        "leafy green"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "According to the speaker, what is 'the first step' she mentions?",
+      "options": [
+        "A) Going to the art gallery",
+        "B) Learning to draw online",
+        "C) Going camping alone",
+        "D) Hiking a multi-day trail"
+      ],
+      "answer": "C",
+      "explanation": "说话者明确说 'I think the first step is going camping alone'，她认为独自去露营是她要迈出的第一步。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 442.4,
+      "endTime": 445.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "first step",
+        "camping",
+        "alone",
+        "solo"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the speaker mean by 'it's literally flat from here and I can like power walk'?",
+      "options": [
+        "A) The path is completely level and she can walk quickly",
+        "B) She is going to lie down on the ground",
+        "C) The path goes steeply downhill",
+        "D) She lost her energy and needs to stop"
+      ],
+      "answer": "A",
+      "explanation": "'Literally flat' 意思是'从现在开始路完全是平的（没有坡度）'，因此她可以进行 'power walk'（快步行走/疾走）。这是一个常见的徒步相关表达。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 445.4,
+      "endTime": 449.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "literally",
+        "flat",
+        "power walk",
+        "hiking"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the word 'scrumptious' mean in 'scrumptious as for the gluten-free bread'?",
+      "options": [
+        "A) Boring and tasteless",
+        "B) Expensive and rare",
+        "C) Extremely delicious",
+        "D) Very dry and hard"
+      ],
+      "answer": "C",
+      "explanation": "'Scrumptious' 是一个形容词，意思是'非常好吃的、美味的'，相当于 delicious 或 mouth-watering。这里说话者在评价三明治的酱料非常美味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 618.4,
+      "endTime": 622,
+      "difficulty": "medium",
+      "relatedWords": [
+        "scrumptious",
+        "delicious",
+        "tasty",
+        "food"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is 'focaccia' as mentioned in the sandwich review?",
+      "options": [
+        "A) A type of Italian flatbread",
+        "B) A kind of cheese",
+        "C) A type of meat",
+        "D) A type of vegetable spread"
+      ],
+      "answer": "A",
+      "explanation": "Focaccia（佛卡夏）是一种意大利扁平面包，通常加橄榄油和香草烘烤。说话者说如果面包是柔软的佛卡夏，三明治会更完美。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 626.3,
+      "endTime": 631.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "focaccia",
+        "bread",
+        "Italian",
+        "soft"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is 'pesto mayo' as described in the sandwich review?",
+      "options": [
+        "A) Mayonnaise mixed with pesto sauce",
+        "B) Plain mayonnaise only",
+        "C) A type of cheese spread",
+        "D) A spicy hot sauce"
+      ],
+      "answer": "A",
+      "explanation": "'Pesto mayo' 是由蛋黄酱（mayo）和意大利青酱（pesto，通常由罗勒、松子、橄榄油等制成）混合而成的酱料。说话者强调这不是单纯的青酱，而是混合了蛋黄酱的版本。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 603.8,
+      "endTime": 608,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pesto",
+        "mayo",
+        "mayonnaise",
+        "sauce"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the online drawing class mentioned called?",
+      "options": [
+        "A) Advanced Painting Techniques",
+        "B) Basic Skills: Getting Started with Drawing",
+        "C) Watercolor for Beginners",
+        "D) Digital Art Mastery"
+      ],
+      "answer": "B",
+      "explanation": "说话者提到的课程名称是 'Basic Skills Getting Started with Drawing'（基础技能：绘画入门），课程内容涉及如何用基本形状开始画画。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 99,
+      "endTime": 103.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "drawing class",
+        "basic skills",
+        "online course",
+        "shapes"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Why does the speaker love hiking, according to the video?",
+      "options": [
+        "A) It's a great workout for losing weight",
+        "B) It's peaceful, relaxing, and a way to be alone",
+        "C) She can take photos for social media",
+        "D) It helps her meet new people"
+      ],
+      "answer": "B",
+      "explanation": "说话者说 'that's actually what I love about hiking is that it's peaceful and relaxing'，并希望独自去露营，说明她喜欢徒步是因为它能带来平静、放松以及独处的时光。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 397.3,
+      "endTime": 401.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hiking",
+        "peaceful",
+        "relaxing",
+        "alone"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does the speaker mean by 'necessities' in 'I packed up my bag with all of the necessities'?",
+      "options": [
+        "A) Unnecessary luxury items",
+        "B) Essential things that are needed",
+        "C) Items for entertainment only",
+        "D) Souvenirs and gifts"
+      ],
+      "answer": "B",
+      "explanation": "'Necessities' 是名词，意思是'必需品、必要的东西'。说话者说她把所有必需品都装进了包里，为徒步做好准备。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 72.1,
+      "endTime": 76.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "necessities",
+        "essential",
+        "packing",
+        "hike preparation"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "Why are bugs 'swarming' the speaker?",
+      "options": [
+        "A) Because she is wearing bright colors",
+        "B) Because she is sweaty from the hike",
+        "C) Because she brought food with her",
+        "D) Because it is nighttime"
+      ],
+      "answer": "B",
+      "explanation": "说话者说 'there are bugs swarming me cause I'm sweaty'，因为徒步出了汗，虫子（可能因为汗味或体温）聚集在她周围。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 404.4,
+      "endTime": 408.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "swarming",
+        "bugs",
+        "sweaty",
+        "insects"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the color 'azure' most likely mean in 'This top is azure fit'?",
+      "options": [
+        "A) Bright red",
+        "B) Deep yellow",
+        "C) Sky blue",
+        "D) Dark green"
+      ],
+      "answer": "C",
+      "explanation": "'Azure'（天蓝色/蔚蓝色）是一种明亮的蓝色，类似晴朗天空的颜色。说话者在描述她的上衣颜色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 36,
+      "endTime": 42,
+      "difficulty": "medium",
+      "relatedWords": [
+        "azure",
+        "blue",
+        "color",
+        "top"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'I've like immediately cooled off also because now I'm not walking straight uphill' mean?",
+      "options": [
+        "A) She turned on the air conditioner",
+        "B) She jumped into cold water",
+        "C) She no longer feels hot because the path is no longer uphill",
+        "D) She started running to cool down"
+      ],
+      "answer": "C",
+      "explanation": "'Cooled off' 这里是'变凉快/不再感到热'的意思。说话者解释说因为不再走陡峭的上坡路，所以身体立刻就不热了，体现了上坡行走会让人出汗发热的常识。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 449.8,
+      "endTime": 453.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "cooled off",
+        "uphill",
+        "sweating",
+        "hiking"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the meaning of 'swarming' in 'bugs swarming me'?",
+      "options": [
+        "A) Flying away from her",
+        "B) Gathering around her in large numbers",
+        "C) Biting her gently",
+        "D) Singing loudly around her"
+      ],
+      "answer": "B",
+      "explanation": "'Swarming'（成群聚集/蜂拥而至）意思是大量虫子聚集在某人周围。说话者因为出汗，身上吸引了很多虫子聚集过来。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 404.4,
+      "endTime": 408.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "swarming",
+        "bugs",
+        "gather",
+        "insects"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "According to the speaker, what would make the sandwich even better?",
+      "options": [
+        "A) More vegetables",
+        "B) Softer bread like focaccia",
+        "C) A different type of cheese",
+        "D) Hot sauce"
+      ],
+      "answer": "B",
+      "explanation": "说话者说 'Points could be added if the bread was like a soft focaccia'，意思是如果面包是柔软的佛卡夏面包，三明治会更加分。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 626.3,
+      "endTime": 631.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "focaccia",
+        "soft bread",
+        "sandwich review",
+        "points"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker mean by 'Okay, so that lighting was literally awful'?",
+      "options": [
+        "A) The room was too dark to see",
+        "B) The lighting/filming conditions were bad",
+        "C) There was too much sunlight",
+        "D) She forgot to bring lights"
+      ],
+      "answer": "B",
+      "explanation": "结合视频拍摄场景，'lighting was literally awful' 指的是拍摄时的光线条件（很可能是太阳直射或反光）非常糟糕，影响了画面效果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 409.6,
+      "endTime": 417.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "lighting",
+        "awful",
+        "filming",
+        "vlog"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "Why does the speaker think 'I will not be recording this'?",
+      "options": [
+        "A) Because her camera is broken",
+        "B) Because she's too tired to film",
+        "C) Because the lighting/situation is not good for filming",
+        "D) Because she wants to enjoy privacy"
+      ],
+      "answer": "C",
+      "explanation": "结合上下文（前一句提到光线糟糕、虫子骚扰等），说话者决定不再拍摄接下来的内容，因为录制条件不理想。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 468.5,
+      "endTime": 469.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "recording",
+        "filming",
+        "not recording",
+        "vlog"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What is the speaker getting ready for at 528 seconds?",
+      "options": [
+        "A) A drawing class",
+        "B) A sandwich meal",
+        "C) Going to bed",
+        "D) A long hike"
+      ],
+      "answer": "B",
+      "explanation": "在528秒处，说话者说 'I'm getting ready for my sandwich'，她正在准备享用她的三明治。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 528.1,
+      "endTime": 530.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "getting ready",
+        "sandwich",
+        "meal",
+        "lunch"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does the speaker say about being 'gluten-free' in the sandwich review?",
+      "options": [
+        "A) It's easy and convenient",
+        "B) It's sometimes a struggle",
+        "C) It's her favorite diet",
+        "D) She just started doing it"
+      ],
+      "answer": "B",
+      "explanation": "说话者说 'the struggle of being gluten-free sometimes'，意思是有时候'无麸质饮食'会有些困难（可能因为选择有限或口味一般）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 631.1,
+      "endTime": 637.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "gluten-free",
+        "struggle",
+        "diet",
+        "bread"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe your ideal hiking trip. Where would you go, what would you bring, and who would you go with?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放性口语题，鼓励学生用英语描述自己理想的徒步旅行，包括地点、装备和同伴等细节。",
+      "referenceAnswer": "My ideal hiking trip would be in a beautiful mountain area. I would bring essentials like water, snacks, a map, sunscreen, and comfortable hiking shoes. I would love to go with close friends so we can enjoy the nature and good company together.",
+      "hint": "Think about: location, weather, food, companions, what to bring, how long the trip would be.",
+      "startTime": 397.3,
+      "endTime": 401.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hiking",
+        "ideal trip",
+        "nature",
+        "adventure"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What is your favorite sandwich? Describe its ingredients and why you love it.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放性口语题，训练学生用英语描述食物，包括成分、味道和喜爱原因。",
+      "referenceAnswer": "My favorite sandwich is a turkey and avocado sandwich. It has sliced turkey, fresh avocado, lettuce, tomato, cheese, and a little bit of mayo on whole wheat bread. I love it because the combination of creamy avocado and savory turkey is delicious and filling.",
+      "hint": "Think about: bread type, fillings, sauces, why you like it, when you usually eat it.",
+      "startTime": 596.5,
+      "endTime": 603.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sandwich",
+        "favorite food",
+        "ingredients",
+        "taste"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Would you like to go camping alone? Why or why not? Share your opinion.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题训练学生用英语表达个人观点，学习使用 'I think/believe' 等表达观点的句型，并给出理由。",
+      "referenceAnswer": "I would love to go camping alone because it would give me a chance to enjoy peace and quiet, connect with nature, and challenge myself. However, I might feel a little scared at night, so I would need to prepare well and bring safety equipment.",
+      "hint": "Think about: pros (peace, independence) and cons (safety, loneliness), personal preferences, past experiences.",
+      "startTime": 442.4,
+      "endTime": 445.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "camping",
+        "alone",
+        "solo travel",
+        "opinion"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "What is a new skill you would like to learn? Why does it interest you and how would you learn it?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道关于未来计划和个人兴趣的开放性口语题，可以锻炼学生使用 'would like to'、'I plan to' 等表达未来意愿的句型。",
+      "referenceAnswer": "I would like to learn how to play the guitar. It interests me because music is a beautiful form of expression and I can play songs for my friends and family. I plan to take online classes and practice for at least 30 minutes every day.",
+      "hint": "Think about: what skill, why you want to learn it, how you would practice, who could teach you.",
+      "startTime": 99,
+      "endTime": 103.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "new skill",
+        "learn",
+        "interest",
+        "practice"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Talk about a piece of clothing you really love. Where did you get it, and why do you like it?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道关于个人物品的口语题，训练学生描述物品的外观、来源和喜爱理由，可以运用形容词表达喜好。",
+      "referenceAnswer": "I really love my denim jacket. I got it from a thrift store, and it was very affordable. I like it because it goes with almost any outfit and it's perfect for cool weather. It has a vintage feel that makes me feel stylish and unique.",
+      "hint": "Think about: type of clothing, color, where you got it, when you wear it, why it's special.",
+      "startTime": 36,
+      "endTime": 42,
+      "difficulty": "easy",
+      "relatedWords": [
+        "clothing",
+        "favorite item",
+        "thrifted",
+        "style"
+      ]
+    }
+  ]
+}

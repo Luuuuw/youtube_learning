@@ -1,0 +1,398 @@
+{
+  "videoId": "5gEBSIUKK6A",
+  "generatedAt": "2026-08-11T06:21:05.045Z",
+  "cards": [
+    {
+      "id": "mso9uys3avrtbw",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "splattered",
+      "back": "溅满，泼溅 (verb, B2)",
+      "context": "I am **splattered** with antelope blood.",
+      "audioStart": 5.48,
+      "audioEnd": 10.6,
+      "word": "splattered",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.043Z"
+    },
+    {
+      "id": "mso9uys4wpude3",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "spectacular",
+      "back": "壮观的，惊人的 (adjective, B1)",
+      "context": "This is considered one of the most **spectacular** coastal drives in the world.",
+      "audioStart": 171.46,
+      "audioEnd": 175.68,
+      "word": "spectacular",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4l6zxja",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "elusive",
+      "back": "难以捉摸的， elusive (adjective, C1)",
+      "context": "Leopards are notoriously **elusive** animals that can be really tricky to find and get close to.",
+      "audioStart": 387.07,
+      "audioEnd": 391.89,
+      "word": "elusive",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4l6m94e",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "notoriously",
+      "back": "众所周知地，声名狼藉地 (adverb, C1)",
+      "context": "Leopards are **notoriously** elusive animals that can be really tricky to find and get close to.",
+      "audioStart": 387.07,
+      "audioEnd": 391.89,
+      "word": "notoriously",
+      "tags": [
+        "CEFR-C1",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4h4avrf",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "tracking",
+      "back": "追踪，跟踪 (verb, B2)",
+      "context": "We spent a morning **tracking** a mother and her older male cub through the bush.",
+      "audioStart": 396.61,
+      "audioEnd": 401.25,
+      "word": "tracking",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4eelw66",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "fulfilled",
+      "back": "实现，满足 (verb, B2)",
+      "context": "Sabi Sands **fulfilled** all of my leopard dreams.",
+      "audioStart": 391.89,
+      "audioEnd": 396.61,
+      "word": "fulfilled",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4h30jv5",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intelligent",
+      "back": "聪明的，有智力的 (adjective, B1)",
+      "context": "Elephants are exceptionally **intelligent** animals.",
+      "audioStart": 496.26,
+      "audioEnd": 500.16,
+      "word": "intelligent",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4zdpgsj",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "exceptionally",
+      "back": "异常地，特别地 (adverb, C1)",
+      "context": "Elephants are **exceptionally** intelligent animals.",
+      "audioStart": 496.26,
+      "audioEnd": 500.16,
+      "word": "exceptionally",
+      "tags": [
+        "CEFR-C1",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4b3kmmk",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "herd",
+      "back": "兽群，牧群 (noun, B2)",
+      "context": "One morning we had a **herd** pass right through us, which was really spectacular.",
+      "audioStart": 487.78,
+      "audioEnd": 492.92,
+      "word": "herd",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4yw11mt",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "thrilling",
+      "back": "令人兴奋的，惊险的 (adjective, B2)",
+      "context": "It was **thrilling**.",
+      "audioStart": 691.24,
+      "audioEnd": 693.36,
+      "word": "thrilling",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4o7lnny",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "adrenaline",
+      "back": "肾上腺素 (noun, C1)",
+      "context": "It was still totally safe, but wow, what an **adrenaline** rush.",
+      "audioStart": 693.36,
+      "audioEnd": 699.88,
+      "word": "adrenaline",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uys4ig68t4",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hesitant",
+      "back": "犹豫的，迟疑的 (adjective, C1)",
+      "context": "If you feel **hesitant** about coming here by yourself, or you don't have a lot of travel experience in places where you would have to be more cautious, I would recommend coming on a tour.",
+      "audioStart": 785.6,
+      "audioEnd": 790.34,
+      "word": "hesitant",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:05.044Z"
+    },
+    {
+      "id": "mso9uxobzsrovv",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This morning when I woke up, there was this ___",
+      "back": "foggy",
+      "context": "This morning when I woke up, there was this foggy,",
+      "audioStart": 83.4,
+      "audioEnd": 88.8,
+      "hint": "选项：cloudy / sunny / foggy / windy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:03.611Z"
+    },
+    {
+      "id": "mso9uxob77jtxr",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So the first thing I have planned here in Cape Town is a ___ tour.",
+      "back": "private",
+      "context": "So the first thing I have planned here in Cape Town is a private tour.",
+      "audioStart": 98.8,
+      "audioEnd": 103.4,
+      "hint": "选项：guided / private / group / public",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:03.611Z"
+    },
+    {
+      "id": "mso9uxob6lg8iw",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) private guide Colony is and ___",
+      "back": "down",
+      "context": "private guide Colony is and down",
+      "audioStart": 107.6,
+      "audioEnd": 112.5,
+      "hint": "选项：down / over / under / up",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:03.611Z"
+    },
+    {
+      "id": "mso9uxobsyta31",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) and I've heard a few different explanations behind why the homes are painted so ___.",
+      "back": "bright",
+      "context": "and I've heard a few different explanations behind why the homes are painted so bright.",
+      "audioStart": 192.2,
+      "audioEnd": 197.4,
+      "hint": "选项：dull / dark / pale / bright",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:03.611Z"
+    },
+    {
+      "id": "mso9uxobwi55if",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) One is that homeowners painted them bright as an expression of ___.",
+      "back": "freedom",
+      "context": "One is that homeowners painted them bright as an expression of freedom.",
+      "audioStart": 197.4,
+      "audioEnd": 203,
+      "hint": "选项：independence / freedom / choice / liberty",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:03.611Z"
+    },
+    {
+      "id": "mso9uxobmzzdf2",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Something else in Cape Town that's an absolute must is a trip up the Table Mountain Aerial ___.",
+      "back": "Tramway",
+      "context": "Something else in Cape Town that's an absolute must is a trip up the Table Mountain Aerial Tramway.",
+      "audioStart": 215.6,
+      "audioEnd": 221.9,
+      "hint": "选项：Railway / Tramway / Roadway / Cableway",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:03.611Z"
+    },
+    {
+      "id": "mso9uxobvykv9q",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This is an iconic feature of Cape Town which you can ___",
+      "back": "see",
+      "context": "This is an iconic feature of Cape Town which you can see",
+      "audioStart": 244.4,
+      "audioEnd": 249.8,
+      "hint": "选项：observe / watch / view / see",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:03.611Z"
+    },
+    {
+      "id": "mso9uxob4lb9ig",
+      "videoId": "5gEBSIUKK6A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And I talked about this a little bit in my Namibia ___.",
+      "back": "video",
+      "context": "And I talked about this a little bit in my Namibia video,",
+      "audioStart": 311.5,
+      "audioEnd": 316,
+      "hint": "选项：film / movie / video / clip",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:03.611Z"
+    }
+  ]
+}

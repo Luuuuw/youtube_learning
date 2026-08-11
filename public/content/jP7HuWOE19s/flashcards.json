@@ -1,0 +1,360 @@
+{
+  "videoId": "jP7HuWOE19s",
+  "generatedAt": "2026-08-11T06:26:17.677Z",
+  "cards": [
+    {
+      "id": "msoa1o0ciebwm6",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sculpt",
+      "back": "雕刻，雕塑 (verb, B2)",
+      "context": "I'm going to be **sculpting** my self-portrait.",
+      "audioStart": 12.52,
+      "audioEnd": 15.92,
+      "word": "sculpt",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.676Z"
+    },
+    {
+      "id": "msoa1o0clodwim",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "self-portrait",
+      "back": "自画像 (noun, B2)",
+      "context": "This is a **self-portrait**, so this is basically me, right?",
+      "audioStart": 0,
+      "audioEnd": 3.26,
+      "word": "self-portrait",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.676Z"
+    },
+    {
+      "id": "msoa1o0cb6x6fh",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "accustomed",
+      "back": "习惯的 (adjective, B2)",
+      "context": "I'm so **accustomed** to keep going.",
+      "audioStart": 141.17,
+      "audioEnd": 147.13,
+      "word": "accustomed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.676Z"
+    },
+    {
+      "id": "msoa1o0cfguehz",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "distracted",
+      "back": "分心的 (adjective, B2)",
+      "context": "I get really **distracted** when I listen to music.",
+      "audioStart": 359.7,
+      "audioEnd": 362.4,
+      "word": "distracted",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.676Z"
+    },
+    {
+      "id": "msoa1o0ciqoy5c",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "meditate",
+      "back": "冥想 (verb, B2)",
+      "context": "I **meditate**.",
+      "audioStart": 369.62,
+      "audioEnd": 374.4,
+      "word": "meditate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.676Z"
+    },
+    {
+      "id": "msoa1o0c503pf4",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "crucial",
+      "back": "关键的 (adjective, B2)",
+      "context": "It was a **crucial** part of my album.",
+      "audioStart": 411.89,
+      "audioEnd": 416.87,
+      "word": "crucial",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.676Z"
+    },
+    {
+      "id": "msoa1o0dw7jil6",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "envision",
+      "back": "想象，展望 (verb, C1)",
+      "context": "This is how I **envision** myself with my album, Ruby, coming out.",
+      "audioStart": 467.19,
+      "audioEnd": 471.61,
+      "word": "envision",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.677Z"
+    },
+    {
+      "id": "msoa1o0dtwcqr1",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "manifest",
+      "back": "显现，表明 (verb, C1)",
+      "context": "I'm just **manifesting** this.",
+      "audioStart": 486.97,
+      "audioEnd": 489.05,
+      "word": "manifest",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.677Z"
+    },
+    {
+      "id": "msoa1o0deflol2",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bloom",
+      "back": "开花，绽放 (verb, B2)",
+      "context": "I'm **blooming** in the ruby red color.",
+      "audioStart": 475.35,
+      "audioEnd": 479.67,
+      "word": "bloom",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.677Z"
+    },
+    {
+      "id": "msoa1o0dj3bmpz",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "zen",
+      "back": "禅意的，平静的 (adjective, B2)",
+      "context": "I am **zen**.",
+      "audioStart": 473.69,
+      "audioEnd": 475.35,
+      "word": "zen",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.677Z"
+    },
+    {
+      "id": "msoa1o0dgx665v",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "luggage",
+      "back": "行李 (noun, B1)",
+      "context": "I have a very big **luggage** that I bring everywhere I go.",
+      "audioStart": 205.39,
+      "audioEnd": 209.91,
+      "word": "luggage",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.677Z"
+    },
+    {
+      "id": "msoa1o0dbmugz3",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "comfort",
+      "back": "安慰，舒适 (noun, B1)",
+      "context": "I think it's more of a **comfort** thing.",
+      "audioStart": 215.37,
+      "audioEnd": 218.31,
+      "word": "comfort",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:17.677Z"
+    },
+    {
+      "id": "msoa1n2zsjnjs1",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I like the present ___ the best.",
+      "back": "moment",
+      "context": "I like the present moment the best.",
+      "audioStart": 106.6,
+      "audioEnd": 114.2,
+      "hint": "选项：place / time / person / moment",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:16.475Z"
+    },
+    {
+      "id": "msoa1n2zezvtw0",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Everything regarding what I do is to do with my album, my ___.",
+      "back": "mindset",
+      "context": "Everything regarding what I do is to do with my album, my mindset,",
+      "audioStart": 64.6,
+      "audioEnd": 72.5,
+      "hint": "选项：mindset / mood / style / attitude",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:16.475Z"
+    },
+    {
+      "id": "msoa1n2zdsl8j0",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) stay in bed as long as I want and then watch a movie and eat something ___.",
+      "back": "good",
+      "context": "stay in bed as long as I want and then watch a movie and eat something good.",
+      "audioStart": 174.2,
+      "audioEnd": 181.3,
+      "hint": "选项：healthy / good / delicious / special",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:16.475Z"
+    },
+    {
+      "id": "msoa1n2zujt1cy",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I go, and it basically has everything from my ___.",
+      "back": "house",
+      "context": "I go, and it basically has everything from my house.",
+      "audioStart": 208.5,
+      "audioEnd": 215.8,
+      "hint": "选项：house / home / car / room",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:16.475Z"
+    },
+    {
+      "id": "msoa1n2z445l3k",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This is how I envision myself with my album, Ruby, coming ___.",
+      "back": "out",
+      "context": "This is how I envision myself with my album, Ruby, coming out.",
+      "audioStart": 464.9,
+      "audioEnd": 472.3,
+      "hint": "选项：out / back / in / up",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:16.475Z"
+    },
+    {
+      "id": "msoa1m9yd4j71v",
+      "videoId": "jP7HuWOE19s",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我觉得更多是一种心理安慰 我肯定能买到一样的东西，但就是有家里的感觉\nI ___ I ___ another darker red.",
+      "back": "wish / had",
+      "context": "I wish I had another darker red.",
+      "audioStart": 223.408,
+      "audioEnd": 225.949,
+      "hint": "wish had",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:15.430Z"
+    }
+  ]
+}

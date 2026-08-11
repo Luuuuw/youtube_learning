@@ -1,0 +1,556 @@
+{
+  "videoId": "f3IRyyzg7Zo",
+  "title": "f3IRyyzg7Zo",
+  "generatedAt": "2026-08-10T16:34:23.837Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 11,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the main event happening in the video according to the opening line?",
+      "options": [
+        "A) The speaker is graduating from school",
+        "B) The speaker's grandpa is becoming President of the United States",
+        "C) The speaker is getting married",
+        "D) The speaker is moving to a new house"
+      ],
+      "answer": "B",
+      "explanation": "视频开头的第一句话 'Today my grandpa becomes the President of the United States again' 明确说明了主要事件是爷爷再次成为美国总统。'becomes the President' 表示'成为总统'，所以正确答案选B。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 3.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "president",
+        "United States",
+        "grandpa"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the speaker say they are 'starting to process' after being in the church?",
+      "options": [
+        "A) Their food",
+        "B) Their emotions about the event",
+        "C) Their homework",
+        "D) Their travel documents"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说 'I don't think I've processed it and now I'm like starting to like process'，结合上下文爷爷成为总统这一重大事件，可以推断 speaker 正在慢慢消化（处理）自己的情绪。'process' 这里指心理上'消化、接受'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 47.4,
+      "endTime": 50.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "process",
+        "emotion",
+        "church"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is the speaker doing when they say 'I'm literally just tasting everything'?",
+      "options": [
+        "A) Dancing at a party",
+        "B) Trying out different foods",
+        "C) Watching a movie",
+        "D) Singing a song"
+      ],
+      "answer": "B",
+      "explanation": "'tasting everything' 意思是'品尝每样东西'，结合前后的'food'和'eating popcorn'，可以判断 speaker 正在尝试各种食物。'taste' 作为动词表示'品尝'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 57.3,
+      "endTime": 67.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "taste",
+        "literally",
+        "popcorn"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Where is the speaker at the beginning of their trip?",
+      "options": [
+        "A) At the White House",
+        "B) At the capital",
+        "C) At the airport",
+        "D) At a restaurant"
+      ],
+      "answer": "B",
+      "explanation": "字幕 'Alright guys, we're at the capital right now' 明确说明他们当时在 capital（国会大厦/首都）。'capital' 这里指美国的国会大厦所在地。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 80.1,
+      "endTime": 81.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "capital",
+        "Washington",
+        "trip"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Why does the speaker say 'I ate the box'?",
+      "options": [
+        "A) Because they love cardboard",
+        "B) Because there was no food available",
+        "C) Because it was a challenge",
+        "D) Because they were bored"
+      ],
+      "answer": "B",
+      "explanation": "原句 'I said there's no food, that's why I ate the box!' 是夸张幽默的说法，因为没有食物所以连盒子都吃了。这是一种夸张表达，形容饥饿或没有东西吃的情况。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 416.6,
+      "endTime": 422,
+      "difficulty": "medium",
+      "relatedWords": [
+        "food",
+        "hungry",
+        "exaggeration"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'flattering' mean when the speaker talks about the dresses?",
+      "options": [
+        "A) Boring and plain",
+        "B) Making someone look more attractive",
+        "C) Very expensive",
+        "D) Difficult to wear"
+      ],
+      "answer": "B",
+      "explanation": "'flattering' 用来形容衣服时，意思是'使人显得更好看、衬托身材/肤色的'。speaker 说 'really flattering and I like it a lot' 表示这条裙子让她显得更漂亮。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 443.9,
+      "endTime": 446.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "flattering",
+        "dress",
+        "appearance"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the speaker mean by 'it looks really nice on my skin tone'?",
+      "options": [
+        "A) The color matches their complexion",
+        "B) The dress is comfortable",
+        "C) The fabric is soft",
+        "D) The dress is warm"
+      ],
+      "answer": "A",
+      "explanation": "'skin tone' 指的是'肤色'。'looks nice on my skin tone' 意思是衣服的颜色与自己的肤色相衬、好看。这是在说这件衣服的颜色适合自己的肤色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 449,
+      "endTime": 451.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "skin tone",
+        "color",
+        "complexion"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is the speaker asking everyone to do?",
+      "options": [
+        "A) Sit down quietly",
+        "B) Leave the room",
+        "C) Clap their hands",
+        "D) Take a photo"
+      ],
+      "answer": "C",
+      "explanation": "字幕 'Everyone clap your hands' 是一个祈使句，要求大家'鼓掌'。'clap your hands' 是固定搭配，意为'拍手、鼓掌'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 463.5,
+      "endTime": 465,
+      "difficulty": "easy",
+      "relatedWords": [
+        "clap",
+        "hands",
+        "everyone"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Where is the group heading?",
+      "options": [
+        "A) To the airport",
+        "B) To the White House",
+        "C) To a concert",
+        "D) To a soccer field"
+      ],
+      "answer": "B",
+      "explanation": "字幕 'We're on our way to the White House' 明确说明他们正前往白宫。'on our way to' 意为'在去……的路上'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 475,
+      "endTime": 476.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "White House",
+        "way",
+        "heading"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the 'secret room' in the White House referring to in this context?",
+      "options": [
+        "A) A real government secret facility",
+        "B) A childhood game/memory",
+        "C) A hidden restaurant",
+        "D) A storage room"
+      ],
+      "answer": "B",
+      "explanation": "speaker 说 'We used to play how you go secret room in the White House'，结合前文'我们以前玩'，这是 speaker 小时候在白宫玩过的'密室'游戏，是一种童年回忆，不是真正的政府机密房间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 482.8,
+      "endTime": 485,
+      "difficulty": "hard",
+      "relatedWords": [
+        "secret room",
+        "childhood",
+        "memory"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'vlog' mean in 'Maybe a soccer vlog'?",
+      "options": [
+        "A) A voice log for radio",
+        "B) A video blog",
+        "C) A vacation log",
+        "D) A travel documentary"
+      ],
+      "answer": "B",
+      "explanation": "'vlog' 是 'video blog' 的缩写，意为'视频博客'。speaker 在考虑是否要做一个关于足球的视频博客。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 494,
+      "endTime": 495,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vlog",
+        "video blog",
+        "soccer"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'cut through the White House' mean in this context?",
+      "options": [
+        "A) Cut the building with scissors",
+        "B) Take a shortcut passing through it",
+        "C) Demolish the building",
+        "D) Cut hair inside it"
+      ],
+      "answer": "B",
+      "explanation": "'cut through' 在这里是短语动词，意思是'抄近路穿过、取捷径经过'。speaker 在问是不是穿过了白宫作为捷径。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 498.3,
+      "endTime": 500.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cut through",
+        "shortcut",
+        "White House"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the speaker's height?",
+      "options": [
+        "A) 5 feet 1 inch",
+        "B) 5 feet 11 inches",
+        "C) 6 feet 1 inch",
+        "D) 6 feet 5 inches"
+      ],
+      "answer": "C",
+      "explanation": "字幕 'I'm 6'1\"' 中的 6'1' 表示 6 英尺 1 英寸（约 185 厘米），这是英语国家表示身高的常见方式。引号' 表示英尺，双引号'' 表示英寸。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 535.3,
+      "endTime": 537.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "height",
+        "feet",
+        "inches"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'Game time' mean in this context?",
+      "options": [
+        "A) Time to sleep",
+        "B) Time to start playing or competing",
+        "C) Time to eat",
+        "D) Time to study"
+      ],
+      "answer": "B",
+      "explanation": "'Game time' 是英语口语中的常用表达，意思是'游戏/比赛时间到了'，表示即将开始一个游戏或比赛活动。speaker 说 'Let's go. Game time.' 表示比赛或游戏即将开始。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 585.8,
+      "endTime": 586.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "game time",
+        "let's go",
+        "competition"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'Honestly, I'd rather sing' express?",
+      "options": [
+        "A) A past action",
+        "B) A future plan",
+        "C) A preference for singing over other activities",
+        "D) A regret about singing"
+      ],
+      "answer": "C",
+      "explanation": "'I'd rather + 动词原形' 用来表达偏好，意为'宁愿……'。speaker 宁愿唱歌而不做其他活动（可能指跳舞）。'Honestly' 加强语气，表示'老实说'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 598.4,
+      "endTime": 599.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "would rather",
+        "preference",
+        "sing"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'staple on the channel' mean in this context?",
+      "options": [
+        "A) A type of food staple",
+        "B) A regular/recurring feature of the channel",
+        "C) A metal fastener",
+        "D) A brand name"
+      ],
+      "answer": "B",
+      "explanation": "'staple' 在这里作名词，意为'主要部分、常规内容'。'staple on the channel' 意思是'这个频道的固定内容/招牌特色'，指唱歌已经成为频道的常规内容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 790.4,
+      "endTime": 795.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "staple",
+        "channel",
+        "recurring"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What time is it when the speaker is speaking?",
+      "options": [
+        "A) 1 PM in the afternoon",
+        "B) 1 AM in the morning/midnight hour",
+        "C) 12 PM at noon",
+        "D) 5 PM in the evening"
+      ],
+      "answer": "B",
+      "explanation": "字幕 'It's like 1am right now' 中的 '1am' 表示凌晨 1 点。'am' 表示上午时间（从午夜到中午），所以是凌晨 1 点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 822.8,
+      "endTime": 824.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "1am",
+        "time",
+        "midnight"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What tense is used in 'I've never danced before'?",
+      "options": [
+        "A) Past Simple",
+        "B) Present Continuous",
+        "C) Present Perfect",
+        "D) Future Simple"
+      ],
+      "answer": "C",
+      "explanation": "'I've never danced before' 使用的是现在完成时（Present Perfect），由 have/has + 过去分词构成。这里 'have + never + 过去分词' 表示'从未做过某事'的经历。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 364.2,
+      "endTime": 365.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "present perfect",
+        "never",
+        "dance"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the phrasal verb 'sworn in' mean?",
+      "options": [
+        "A) Get angry with someone",
+        "B) Officially take an oath for a position",
+        "C) Leave a country",
+        "D) Sign a contract"
+      ],
+      "answer": "B",
+      "explanation": "'sworn in' 是短语动词，意思是'宣誓就职'。'get sworn in' 意为'举行宣誓仪式就任'，通常用于总统或其他公职人员的就职。结合上下文，爷爷要'宣誓就任'总统。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 175.1,
+      "endTime": 175.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sworn in",
+        "oath",
+        "president"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What is the speaker about to do based on the subtitle?",
+      "options": [
+        "A) Drive a car",
+        "B) Take a train",
+        "C) Fly on a plane",
+        "D) Ride a bicycle"
+      ],
+      "answer": "C",
+      "explanation": "字幕 'I'm flying on a plane' 表明 speaker 即将乘坐飞机出行。'fly on a plane' 是'乘坐飞机'的常用表达方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 773.3,
+      "endTime": 777.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fly",
+        "plane",
+        "travel"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe how the speaker feels about their grandpa becoming the President of the United States again. Use at least 3 sentences in your answer.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察对视频开篇情绪表达的理解。speaker 提到 'I think so' 回应是否兴奋，又说在教堂之后才'开始处理'（starting to process）这件事，说明这是一种又兴奋又复杂、需要时间消化的情绪。",
+      "referenceAnswer": "Key points: 1) The speaker is excited about their grandpa becoming President again. 2) After attending the church service, they are still processing/accepting the big news. 3) It is a very important and emotional family event that takes time to fully realize. Suggested words: excited, process, church, important, family.",
+      "hint": "Think about: How does the speaker describe their feelings? What words do they use? Are they excited, nervous, or both?",
+      "startTime": 0,
+      "endTime": 50.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "excited",
+        "process",
+        "president",
+        "church",
+        "family"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speaker mentions receiving some dresses. Describe what they say about these dresses and how they feel wearing them.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察对礼物相关描述的理解。speaker 提到品牌寄来的裙子很漂亮，并描述了裙子对自己外貌的衬托效果，包括 flattering（衬托身材）、shivery stuff（闪亮的东西）和对肤色的衬托。",
+      "referenceAnswer": "Key points: 1) The speaker received beautiful dresses from a brand. 2) They describe the dresses as 'flattering' and they really like them. 3) The dresses have sparkly/diamonds details ('shivery stuff'). 4) The colors look really nice on their skin tone. Suggested words: flattering, skin tone, beautiful, sparkly, diamonds.",
+      "hint": "Think about: What adjectives does the speaker use? How does the dress look on them? What details do they mention about the design?",
+      "startTime": 433.7,
+      "endTime": 451.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dress",
+        "flattering",
+        "skin tone",
+        "beautiful",
+        "sparkly"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The speaker says 'Honestly, I'd rather sing.' Explain what they would rather do and why someone might prefer singing over other activities.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察对 'would rather' 偏好表达的理解。speaker 宁愿唱歌而不做其他活动（可能是跳舞）。可结合上下文，'never danced before' 表明 speaker 没有跳舞经验，所以宁愿选择自己更擅长的唱歌。",
+      "referenceAnswer": "Key points: 1) The speaker would rather sing than do something else (probably dance). 2) The phrase 'I'd rather' expresses preference. 3) Maybe the speaker has never danced before and feels more comfortable singing. 4) Singing has become a 'staple' (regular feature) on their channel. Suggested words: rather, sing, prefer, comfort, talent.",
+      "hint": "Think about: Why might someone prefer singing? What does 'I'd rather' mean? What other activities were they being asked to do?",
+      "startTime": 364.2,
+      "endTime": 599.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "would rather",
+        "sing",
+        "preference",
+        "talent",
+        "comfort"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The speaker mentions they are flying on a plane late at night. Imagine and describe a late-night flight experience, including how you might feel and what you might see.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察对旅行场景的描述能力。可结合 'I'm flying on a plane' 和 'It's like 1am right now' 描述一次深夜飞行的经历，包括感受、看到窗外夜景等。",
+      "referenceAnswer": "Key points: 1) Describe the late-night atmosphere at the airport (quiet, fewer people). 2) On the plane, lights are dim, many passengers sleeping. 3) Looking out the window, you can see city lights from above. 4) Personal feelings: tired but excited for the destination. Suggested words: late night, plane window, city lights, sleepy, excited.",
+      "hint": "Think about: What is the airport like at 1am? What can you see from the plane window? How do you feel during a night flight?",
+      "startTime": 773.3,
+      "endTime": 824.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "plane",
+        "night",
+        "travel",
+        "1am",
+        "flight"
+      ]
+    }
+  ]
+}

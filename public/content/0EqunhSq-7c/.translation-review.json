@@ -1,0 +1,1811 @@
+{
+  "videoId": "0EqunhSq-7c",
+  "reviewedAt": "2026-06-17T08:26:15.406Z",
+  "segments": [
+    {
+      "key": "1.964-63.039",
+      "start": 1.964,
+      "end": 63.039,
+      "en_full": "[music] Everyone is definitely not going to be We are heading to the airport right now",
+      "zh": "[音乐] 大家肯定都不会的，我们现在正赶往机场。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "63.039-96.560",
+      "start": 63.039,
+      "end": 96.56,
+      "en_full": "Okay, so I've decided to shower and just",
+      "zh": "好吧，我决定去洗个澡。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "96.560-100.960",
+      "start": 96.56,
+      "end": 100.96,
+      "en_full": "freshen up after that flight because I always feel so disgusting after I fly. I",
+      "zh": "下飞机后洗把脸，我每次飞完都觉得自己脏兮兮的。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "100.960-102.240",
+      "start": 100.96,
+      "end": 102.24,
+      "en_full": "always feel so disgusting after I fly. I have to shower. So now I'm just getting",
+      "zh": "每次飞完都感觉好恶心，必须洗个澡。所以我现在就准备去洗。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "102.240-103.920",
+      "start": 102.24,
+      "end": 103.92,
+      "en_full": "have to shower. So now I'm just getting ready. It's still pretty early in the",
+      "zh": "得洗个澡。所以我现在正在准备。时间还挺早的。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "103.920-106.079",
+      "start": 103.92,
+      "end": 106.079,
+      "en_full": "ready. It's still pretty early in the day. It's only 1:24, but because we're",
+      "zh": "准备好了。现在还挺早的，才1点24分，不过因为我们",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "106.079-111.520",
+      "start": 106.079,
+      "end": 111.52,
+      "en_full": "now 3 hours behind, I am feeling so",
+      "zh": "现在晚了3小时，我感觉很……",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "111.520-114.799",
+      "start": 111.52,
+      "end": 114.799,
+      "en_full": "before my shower because I just couldn't",
+      "zh": "洗澡前，因为我实在忍不住了",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "114.799-118.240",
+      "start": 114.799,
+      "end": 118.24,
+      "en_full": "should eat and then get all ready again",
+      "zh": "应该先吃饭，然后再准备好一切。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "118.240-120.709",
+      "start": 118.24,
+      "end": 120.709,
+      "en_full": "just go eat something in the meantime.",
+      "zh": "你先去吃点东西吧。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "120.719-123.600",
+      "start": 120.719,
+      "end": 123.6,
+      "en_full": "But then I don't like showering right after a meal because [music] I feel like",
+      "zh": "但我不喜欢饭后马上洗澡，因为感觉像在……",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "123.600-124.000",
+      "start": 123.6,
+      "end": 124,
+      "en_full": "it always upsets my stomach. Long story",
+      "zh": "它总是让我胃不舒服。说来话长。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "124.000-127.510",
+      "start": 124,
+      "end": 127.51,
+      "en_full": "short, I decided to shower cuz I feel like that would make me feel the best.",
+      "zh": "总之我决定洗澡，因为这样我会感觉最好",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文全部信息。"
+    },
+    {
+      "key": "127.520-130.800",
+      "start": 127.52,
+      "end": 130.8,
+      "en_full": "And now I'm just rushing to [music] get",
+      "zh": "我现在正赶着去[音乐]拿",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "130.800-133.440",
+      "start": 130.8,
+      "end": 133.44,
+      "en_full": "think I'm going to go to Air1 or Raising",
+      "zh": "我想去Air1或者Raising。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "133.440-137.599",
+      "start": 133.44,
+      "end": 137.599,
+      "en_full": "points and different kinds of food, but",
+      "zh": "各种食物和不同种类的食物",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "137.599-137.920",
+      "start": 137.599,
+      "end": 137.92,
+      "en_full": "I'm just going to see what's in the area. I'm going to go to West Hollywood",
+      "zh": "我就看看附近有什么，去西好莱坞转转。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "137.920-141.030",
+      "start": 137.92,
+      "end": 141.03,
+      "en_full": "and yeah, let me give you a hotel tour.",
+      "zh": "好的，让我带你参观一下酒店。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "141.040-142.560",
+      "start": 141.04,
+      "end": 142.56,
+      "en_full": "and yeah, let me give you a hotel tour. This is obviously the bathroom. This is",
+      "zh": "好的，带你参观酒店。这是浴室。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "142.560-144.319",
+      "start": 142.56,
+      "end": 144.319,
+      "en_full": "This is obviously the bathroom. This is just the vanity where I got ready. And",
+      "zh": "这显然是浴室。这只是我梳妆打扮的梳妆台。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "144.319-147.040",
+      "start": 144.319,
+      "end": 147.04,
+      "en_full": "then this is the outfit that I pulled",
+      "zh": "这就是我挑出来的今天要穿的衣服。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "147.040-150.080",
+      "start": 147.04,
+      "end": 150.08,
+      "en_full": "of giving Miumu, but the pieces are from",
+      "zh": "给Miumu的，但碎片来自",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "150.080-152.800",
+      "start": 150.08,
+      "end": 152.8,
+      "en_full": "Sweet Chilling. And this is just what the room looks like. Just got some shoes",
+      "zh": "好凉爽。这就是房间的样子。只有几双鞋。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "152.800-154.080",
+      "start": 152.8,
+      "end": 154.08,
+      "en_full": "the room looks like. Just got some shoes laid out. My airport outfit is hanging.",
+      "zh": "房间看起来就是这样。摆了几双鞋，我的机场穿搭挂在那儿。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "154.080-155.509",
+      "start": 154.08,
+      "end": 155.509,
+      "en_full": "laid out. My airport outfit is hanging. Obviously took one of the robes to put",
+      "zh": "准备好了。我的机场穿搭挂好了。显然拿了一件浴袍来穿。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "155.519-160.476",
+      "start": 155.519,
+      "end": 160.476,
+      "en_full": "Obviously took one of the robes to put",
+      "zh": "显然拿了一件长袍穿上",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "160.476-176.186",
+      "start": 160.476,
+      "end": 176.186,
+      "en_full": "[music] I just don't work like a lot.",
+      "zh": "[音乐] 我就是不太爱工作。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "181.040-182.159",
+      "start": 181.04,
+      "end": 182.159,
+      "en_full": "This is so good. Wow,",
+      "zh": "这太棒了。哇。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "182.159-186.239",
+      "start": 182.159,
+      "end": 186.239,
+      "en_full": "This is so good. Wow, I'm actually very surprised. Okay, and",
+      "zh": "这太棒了。哇，我真的很惊讶。好吧，然后",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "186.239-189.519",
+      "start": 186.239,
+      "end": 189.519,
+      "en_full": "I'm actually very surprised. Okay, and then I have the cloud foam top. This is",
+      "zh": "我真的很惊讶。好吧，然后我有了云朵泡沫鞋面。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "189.519-202.239",
+      "start": 189.519,
+      "end": 202.239,
+      "en_full": "I'm trying to see which one I like better, but I'm honestly really surprised by this",
+      "zh": "我想看看我更喜欢哪个，但说实话，这个真的让我很惊讶。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "202.239-203.599",
+      "start": 202.239,
+      "end": 203.599,
+      "en_full": "I'm honestly really surprised by this one. So much caffeine to have like the",
+      "zh": "这个真让我挺惊讶的。这么多咖啡因，就像……",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "203.599-208.640",
+      "start": 203.599,
+      "end": 208.64,
+      "en_full": "Earl is Manner and Monster Pop, but",
+      "zh": "厄尔是曼纳和怪物波普，但",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "208.640-210.799",
+      "start": 208.64,
+      "end": 210.799,
+      "en_full": "they're both so good. Actually, I'm so surprised. Like, you guys know I don't",
+      "zh": "他们两个都这么棒。其实我挺惊讶的。你们知道我不太……",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "210.799-218.480",
+      "start": 210.799,
+      "end": 218.48,
+      "en_full": "usually drink a lot of coffee, but this",
+      "zh": "通常喝很多咖啡，但这次",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "218.480-221.360",
+      "start": 218.48,
+      "end": 221.36,
+      "en_full": "I've just left Community Goods and I'm walking down Fairfax Avenue now. It is",
+      "zh": "我刚离开Community Goods，现在正沿着Fairfax Avenue走。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "221.360-222.640",
+      "start": 221.36,
+      "end": 222.64,
+      "en_full": "walking down Fairfax Avenue now. It is so busy. But honestly, I'm really loving",
+      "zh": "我现在正走在Fairfax大街上，人好多。但说实话，我真的很喜欢。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "222.640-227.599",
+      "start": 222.64,
+      "end": 227.599,
+      "en_full": "this walk because the skies are crystal",
+      "zh": "这次散步是因为天空清澈如水晶。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "227.599-230.239",
+      "start": 227.599,
+      "end": 230.239,
+      "en_full": "like I've completely escaped the winter",
+      "zh": "就像我完全逃离了冬天一样",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "230.239-234.319",
+      "start": 230.239,
+      "end": 234.319,
+      "en_full": "Grove because I heard that there is a",
+      "zh": "格罗夫，因为我听说那里有",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "234.319-235.680",
+      "start": 234.319,
+      "end": 235.68,
+      "en_full": "two-story Brandy Mailbell that just opened and also an Air1. And I just",
+      "zh": "刚开的两层楼Brandy Mailbell，还有一家Air1。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "235.680-237.599",
+      "start": 235.68,
+      "end": 237.599,
+      "en_full": "opened and also an Air1. And I just haven't eaten in over 12 hours. Air1 is",
+      "zh": "打开了，还有Air1。我已经超过12小时没吃东西了。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "237.599-240.720",
+      "start": 237.599,
+      "end": 240.72,
+      "en_full": "definitely not going to be my scene, but",
+      "zh": "肯定不是我的菜，但",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "240.720-278.368",
+      "start": 240.72,
+      "end": 278.368,
+      "en_full": "over here.",
+      "zh": "这边看看。",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息。"
+    },
+    {
+      "key": "285.759-287.520",
+      "start": 285.759,
+      "end": 287.52,
+      "en_full": "Okay, we have made it out of here. That",
+      "zh": "好了，我们终于离开这里了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "287.520-288.639",
+      "start": 287.52,
+      "end": 288.639,
+      "en_full": "Okay, we have made it out of here. That was a successful run. I think I got the",
+      "zh": "好了，我们成功逃出来了。这次行动很顺利，我觉得我拿到了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "288.639-290.240",
+      "start": 288.639,
+      "end": 290.24,
+      "en_full": "was a successful run. I think I got the Haley Bieber smoothie. This was 20 USD.",
+      "zh": "这次很成功。我觉得我买到了Haley Bieber奶昔。花了20美元。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "290.240-293.670",
+      "start": 290.24,
+      "end": 293.67,
+      "en_full": "Haley Bieber smoothie. This was 20 USD. So,",
+      "zh": "海莉·比伯的冰沙，20美元。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "293.680-298.240",
+      "start": 293.68,
+      "end": 298.24,
+      "en_full": "So,",
+      "zh": "所以呢？",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "298.240-299.520",
+      "start": 298.24,
+      "end": 299.52,
+      "en_full": "um I ended up getting a combo plate. So, this is the miso black cod. It's",
+      "zh": "我最后点了个套餐，这是味噌黑鳕鱼。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "299.520-300.720",
+      "start": 299.52,
+      "end": 300.72,
+      "en_full": "this is the miso black cod. It's honestly a decent size. Rock meat and",
+      "zh": "这是味噌黑鳕鱼。说实话，分量挺足的。肉质紧实。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "300.720-303.040",
+      "start": 300.72,
+      "end": 303.04,
+      "en_full": "honestly a decent size. Rock meat and then old school at mac and cheese. There",
+      "zh": "说实话分量挺足的。有岩石肉，还有老式通心粉和奶酪。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "303.040-306.000",
+      "start": 303.04,
+      "end": 306,
+      "en_full": "then old school at mac and cheese. There is probably 10 noodles in there. Um, but",
+      "zh": "然后老式的通心粉奶酪，里面大概只有10根面条。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "306.000-308.639",
+      "start": 306,
+      "end": 308.639,
+      "en_full": "everything does actually smell pretty",
+      "zh": "不过所有东西闻起来都挺香的。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "308.639-313.430",
+      "start": 308.639,
+      "end": 313.43,
+      "en_full": "USD.",
+      "zh": "美元。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "313.440-315.919",
+      "start": 313.44,
+      "end": 315.919,
+      "en_full": "USD. So, but apple on a meal stipen. So,",
+      "zh": "美元。不过，苹果算在餐补里。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "315.919-318.080",
+      "start": 315.919,
+      "end": 318.08,
+      "en_full": "So, but apple on a meal stipen. So, thank you to the Apple team. I feel like",
+      "zh": "不过，苹果有餐补。所以，感谢苹果团队。我觉得",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "318.080-320.080",
+      "start": 318.08,
+      "end": 320.08,
+      "en_full": "thank you to the Apple team. I feel like we need to try the smoothie first. This",
+      "zh": "感谢苹果团队。我觉得我们应该先试试奶昔。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "320.080-329.990",
+      "start": 320.08,
+      "end": 329.99,
+      "en_full": "I hear this is just a strawberry smoothie.",
+      "zh": "这个我听说就是草莓奶昔。",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息。"
+    },
+    {
+      "key": "330.000-342.558",
+      "start": 330,
+      "end": 342.558,
+      "en_full": "Some really nice yogurt, but that's That is really good.",
+      "zh": "这酸奶真不错，味道特别好。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "374.560-380.160",
+      "start": 374.56,
+      "end": 380.16,
+      "en_full": "It is literally a winter wonderland here minus the snow, but there are so many",
+      "zh": "这里简直就是冬日仙境，虽然没有雪，但景色依然美不胜收。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "380.160-383.120",
+      "start": 380.16,
+      "end": 383.12,
+      "en_full": "decorations here than there are",
+      "zh": "这儿的装饰比市中心的还多",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "383.120-387.440",
+      "start": 383.12,
+      "end": 387.44,
+      "en_full": "Brady Melville now because I couldn't go",
+      "zh": "Brady Melville 现在，因为我不能去",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "387.440-387.919",
+      "start": 387.44,
+      "end": 387.919,
+      "en_full": "in with [music] my drink. So, I just",
+      "zh": "伴着音乐喝我的饮料，就这样。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "387.919-390.000",
+      "start": 387.919,
+      "end": 390,
+      "en_full": "in with [music] my drink. So, I just finished it while browsing. And yeah.",
+      "zh": "伴着音乐喝我的饮料。刚喝完，一边浏览着。就这样。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "390.000-391.684",
+      "start": 390,
+      "end": 391.684,
+      "en_full": "finished it while browsing. And yeah.",
+      "zh": "浏览时就看完了。是的。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "425.840-434.259",
+      "start": 425.84,
+      "end": 434.259,
+      "en_full": "bead embroidery ranch. That is so American. There's even dill pickle ornament. That's cute.",
+      "zh": "bead embroidery ranch。太美式了。居然还有莳萝泡菜装饰品，好可爱",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "443.680-446.479",
+      "start": 443.68,
+      "end": 446.479,
+      "en_full": "Oh my gosh, these towels are so [music]",
+      "zh": "天哪，这些毛巾太有节奏感了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "446.479-447.840",
+      "start": 446.479,
+      "end": 447.84,
+      "en_full": "pretty. Look at this one. Oh my god,",
+      "zh": "漂亮。看看这个。哦，我的天哪。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "447.840-458.720",
+      "start": 447.84,
+      "end": 458.72,
+      "en_full": "this is like a better Marshalls and We're at Soho House for dinner and Kush,",
+      "zh": "这就像升级版的Marshalls，我们在Soho House吃晚餐，还有Kush。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "458.720-462.720",
+      "start": 458.72,
+      "end": 462.72,
+      "en_full": "my manager, is a member and so we're",
+      "zh": "我的经理是会员，所以我们",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "462.720-465.280",
+      "start": 462.72,
+      "end": 465.28,
+      "en_full": "just headed up there now. This is a very interesting elevator. Kind of reminds me",
+      "zh": "我现在正往那边去。这个电梯很有意思，让我想起点什么。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "465.280-469.029",
+      "start": 465.28,
+      "end": 469.029,
+      "en_full": "of the couch in the nicest way.",
+      "zh": "以最友善的方式说沙发的事。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "474.225-487.199",
+      "start": 474.225,
+      "end": 487.199,
+      "en_full": "[music] I'm back at the hotel now at dinner with the I'm officially back from my big day out",
+      "zh": "[音乐] 我现在回到酒店吃晚餐，正式结束了我外出的一天。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "487.199-488.160",
+      "start": 487.199,
+      "end": 488.16,
+      "en_full": "I'm officially back from my big day out in LA. It was so much fun. I hope you",
+      "zh": "我正式从洛杉矶的狂欢日回来了，超开心，希望你也是。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "488.160-489.199",
+      "start": 488.16,
+      "end": 489.199,
+      "en_full": "in LA. It was so much fun. I hope you",
+      "zh": "在洛杉矶，太好玩了。希望你也是。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "489.199-491.350",
+      "start": 489.199,
+      "end": 491.35,
+      "en_full": "guys had fun tagging along with me.",
+      "zh": "希望你们跟着我也玩得开心",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "491.360-492.800",
+      "start": 491.36,
+      "end": 492.8,
+      "en_full": "Yeah, I'm just going to get ready for",
+      "zh": "嗯，我这就去准备。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "492.800-495.120",
+      "start": 492.8,
+      "end": 495.12,
+      "en_full": "bed now. And I actually forgot my favorite makeup remover at home. So, I",
+      "zh": "我居然把最喜欢的卸妆油忘在家里了",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "495.120-499.520",
+      "start": 495.12,
+      "end": 499.52,
+      "en_full": "actually popped into a Sephora and I just picked up this travel size Clinique",
+      "zh": "我刚好去了丝芙兰，顺手买了这个旅行装的Clinique。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "499.520-500.720",
+      "start": 499.52,
+      "end": 500.72,
+      "en_full": "Take the Day Off Cleansing Balm. I hope",
+      "zh": "Take the Day Off Cleansing Balm，我希望。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "500.720-501.440",
+      "start": 500.72,
+      "end": 501.44,
+      "en_full": "Take the Day Off Cleansing Balm. I hope it's good. I think I saw a bunch of",
+      "zh": "Take the Day Off Cleansing Balm，希望好用。我记得看到过很多。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "501.440-505.520",
+      "start": 501.44,
+      "end": 505.52,
+      "en_full": "people recommend it on Tik Tok in the",
+      "zh": "人们在Tik Tok上推荐它。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "505.520-506.790",
+      "start": 505.52,
+      "end": 506.79,
+      "en_full": "past or it's just like a cult favorite. Yeah, also spent another day in these",
+      "zh": "过去或者只是小众狂热。是啊，又在这待了一天。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "506.800-512.880",
+      "start": 506.8,
+      "end": 512.88,
+      "en_full": "Yeah, also spent another day in these",
+      "zh": "是啊，又在这上面花了一天。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "512.880-514.880",
+      "start": 512.88,
+      "end": 514.88,
+      "en_full": "actually got a lot of compliments on",
+      "zh": "实际上收到了很多赞美",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "514.880-518.640",
+      "start": 514.88,
+      "end": 518.64,
+      "en_full": "for bed and then we're going to have",
+      "zh": "上床睡觉，然后我们就要",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "518.640-522.640",
+      "start": 518.64,
+      "end": 522.64,
+      "en_full": "not as type A as I thought I was because",
+      "zh": "我不像自己以为的那样是A型人格",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "522.640-524.959",
+      "start": 522.64,
+      "end": 524.959,
+      "en_full": "I don't have a single pair of pajamas packed in my luggage. So, I've just put",
+      "zh": "我行李箱里一件睡衣都没带，所以我就直接穿了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "524.959-528.000",
+      "start": 524.959,
+      "end": 528,
+      "en_full": "packed in my luggage. So, I've just put on another one of these bathroes. That's",
+      "zh": "我把它塞进行李箱了，所以刚又穿了一件浴袍。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "528.000-530.800",
+      "start": 528,
+      "end": 530.8,
+      "en_full": "the one I put on while I was getting",
+      "zh": "我穿的那件",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "530.800-534.160",
+      "start": 530.8,
+      "end": 534.16,
+      "en_full": "ready after my shower. So, this one's all clean and fresh for sleep. Yeah, I'm",
+      "zh": "洗完澡就准备好了。这个干净清爽，适合睡觉。是的，我准备好了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "534.160-536.470",
+      "start": 534.16,
+      "end": 536.47,
+      "en_full": "just going to take my makeup off now.",
+      "zh": "我现在就去卸妆。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "536.480-541.279",
+      "start": 536.48,
+      "end": 541.279,
+      "en_full": "Guys, I also have these little wristbands that stop the water from running down your forearm when you're",
+      "zh": "伙计们，我还有一些小腕带，可以防止水顺着前臂流下来。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "541.279-542.160",
+      "start": 541.279,
+      "end": 542.16,
+      "en_full": "running down your forearm when you're washing your face. So, we're going to",
+      "zh": "洗脸时水顺着前臂流下来。所以，我们要",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "542.160-543.600",
+      "start": 542.16,
+      "end": 543.6,
+      "en_full": "washing your face. So, we're going to see if [music] they work. And I'm also",
+      "zh": "洗脸。我们来试试看它们是否有效。我也在",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "543.600-545.279",
+      "start": 543.6,
+      "end": 545.279,
+      "en_full": "see if [music] they work. And I'm also going to use this cleansing balm. And I",
+      "zh": "看看它们是否有效。我还要用这个洁面膏。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "545.279-548.790",
+      "start": 545.279,
+      "end": 548.79,
+      "en_full": "also hope that it works because I'm wearing a ton of makeup right now.",
+      "zh": "也希望这能行，因为我今天化了很浓的妆。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "548.800-550.470",
+      "start": 548.8,
+      "end": 550.47,
+      "en_full": "Anyone else hate taking off your makeup?",
+      "zh": "还有人讨厌卸妆吗？",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "550.480-551.360",
+      "start": 550.48,
+      "end": 551.36,
+      "en_full": "Anyone else hate taking off your makeup? Just want to go to bed. Also, always",
+      "zh": "有人也讨厌卸妆吗？只想直接睡觉。而且总是",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "551.360-578.959",
+      "start": 551.36,
+      "end": 578.959,
+      "en_full": "wash your hands before you take off your If you want to emulsify it,",
+      "zh": "洗手前先乳化，如果你想乳化的话。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "578.959-579.440",
+      "start": 578.959,
+      "end": 579.44,
+      "en_full": "These wristbands don't work. I can feel",
+      "zh": "这些腕带没用，我能感觉到。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "579.440-582.949",
+      "start": 579.44,
+      "end": 582.949,
+      "en_full": "the water splashing on my toes.",
+      "zh": "我能感觉到水溅到脚趾上了。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "582.959-586.230",
+      "start": 582.959,
+      "end": 586.23,
+      "en_full": "These don't work. Oh my god, you guys.",
+      "zh": "这些没用。天哪，朋友们。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "586.240-586.886",
+      "start": 586.24,
+      "end": 586.886,
+      "en_full": "These don't work. Oh my god, you guys. This is a mess. [laughter]",
+      "zh": "这些都不行。天哪，各位，真是一团糟。[笑声]",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "586.886-589.920",
+      "start": 586.886,
+      "end": 589.92,
+      "en_full": "This is a mess. [laughter] This is literally such a mess. And the",
+      "zh": "这真是一团糟。[笑] 简直乱成一锅粥了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "589.920-598.800",
+      "start": 589.92,
+      "end": 598.8,
+      "en_full": "water is actually indeed dripping down I don't know how to wash my face clearly",
+      "zh": "水确实在往下滴，我不知道怎么好好洗脸。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "598.800-599.440",
+      "start": 598.8,
+      "end": 599.44,
+      "en_full": "cuz what the heck? Look,",
+      "zh": "搞什么鬼？",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "599.440-607.920",
+      "start": 599.44,
+      "end": 607.92,
+      "en_full": "cuz what the heck? Look, This is actually not that bad. This is",
+      "zh": "这到底怎么回事？其实也没那么糟。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "607.920-635.760",
+      "start": 607.92,
+      "end": 635.76,
+      "en_full": "[music] Okay, that is my nighttime skincare all",
+      "zh": "[音乐] 好了，这就是我的夜间护肤步骤。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "635.760-644.480",
+      "start": 635.76,
+      "end": 644.48,
+      "en_full": "[laughter]",
+      "zh": "[笑声]",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "644.480-670.959",
+      "start": 644.48,
+      "end": 670.959,
+      "en_full": "Hi guys, it is day two of LA and I've",
+      "zh": "嘿，伙计们，这是我在洛杉矶的第二天。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "670.959-675.839",
+      "start": 670.959,
+      "end": 675.839,
+      "en_full": "smart casual and I'm going to put on these little heels to complete my look",
+      "zh": "穿了身精致休闲装，还穿了双小高跟来完成造型",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "675.839-679.760",
+      "start": 675.839,
+      "end": 679.76,
+      "en_full": "cuz now I'm actually headed out to the Google YouTube office to meet my friend",
+      "zh": "因为我现在要去Google YouTube办公室见我的朋友Angelica。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "679.760-681.680",
+      "start": 679.76,
+      "end": 681.68,
+      "en_full": "Angelica. We've been online friends for so many years now. And she said I could",
+      "zh": "安吉莉卡，我们做网友这么多年了。她说我可以",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "681.680-684.310",
+      "start": 681.68,
+      "end": 684.31,
+      "en_full": "join her at the office for some lunch.",
+      "zh": "她说可以带我去办公室一起吃午饭。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "684.320-686.069",
+      "start": 684.32,
+      "end": 686.069,
+      "en_full": "So yeah, let me show you guys the fit.",
+      "zh": "让我给你们看看这身搭配。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "686.079-688.079",
+      "start": 686.079,
+      "end": 688.079,
+      "en_full": "So yeah, let me show you guys the fit. Okay, and this is the outfit. My top is",
+      "zh": "好了，给大家看看这身穿搭。这是我的上衣。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "688.079-689.440",
+      "start": 688.079,
+      "end": 689.44,
+      "en_full": "Okay, and this is the outfit. My top is from Addicted. These are some Aritzia",
+      "zh": "好了，这就是我的穿搭。上衣来自Addicted，裤子是Aritzia的。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "689.440-690.560",
+      "start": 689.44,
+      "end": 690.56,
+      "en_full": "from Addicted. These are some Aritzia pants. And then I just have on these",
+      "zh": "来自《Addicted》。这是Aritzia的裤子。然后我就穿着这些。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "690.560-692.720",
+      "start": 690.56,
+      "end": 692.72,
+      "en_full": "pants. And then I just have on these Jonak kitten heels. So yeah, let's get",
+      "zh": "裤子。然后我穿的是这双Jonak小猫跟。好了，开始吧。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "692.720-699.760",
+      "start": 692.72,
+      "end": 699.76,
+      "en_full": "Jonak kitten heels. So yeah, let's get Oh my gosh. The office is similar to a",
+      "zh": "Jonak 小猫跟。没错，我们开始吧。天哪，办公室和……很像。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "699.760-702.069",
+      "start": 699.76,
+      "end": 702.069,
+      "en_full": "college dorm.",
+      "zh": "这个办公室像大学宿舍",
+      "verdict": "pass",
+      "reason": "英文'college dorm.'翻译为'这个办公室像大学宿舍'，意思准确，但添加了'这个办公室像'，不过信息完整。"
+    },
+    {
+      "key": "702.079-707.110",
+      "start": 702.079,
+      "end": 707.11,
+      "en_full": "Yes, cafeteria. [laughter] I love it. Looks so good.",
+      "zh": "是的，食堂。[笑声]我喜欢。看起来真棒",
+      "verdict": "pass",
+      "reason": "英文'Yes, cafeteria. [laughter] I love it. Looks so good.'翻译为'是的，食堂。[笑声]我喜欢。看起来真棒'，信息完整。"
+    },
+    {
+      "key": "722.160-726.079",
+      "start": 722.16,
+      "end": 726.079,
+      "en_full": "I'm a little salty because this is my section's micro kitchen, [music] but",
+      "zh": "我有点不爽，因为这是我部门的微型厨房，[音乐]",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "726.079-726.800",
+      "start": 726.079,
+      "end": 726.8,
+      "en_full": "it's also next to the lunch area. So,",
+      "zh": "午餐区旁边",
+      "verdict": "pass",
+      "reason": "英文'it's also next to the lunch area. So,'翻译为'午餐区旁边'，意思准确，但省略了'So,'，不过不影响主要信息。"
+    },
+    {
+      "key": "726.800-727.920",
+      "start": 726.8,
+      "end": 727.92,
+      "en_full": "it's also next to the lunch area. So, everybody takes from this. It's like the",
+      "zh": "它也在午餐区旁边，所以大家都从这里拿东西。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "727.920-730.150",
+      "start": 727.92,
+      "end": 730.15,
+      "en_full": "communal one.",
+      "zh": "就像公共的那样",
+      "verdict": "pass",
+      "reason": "英文'communal one.'翻译为'就像公共的那样'，意思准确。"
+    },
+    {
+      "key": "730.160-732.310",
+      "start": 730.16,
+      "end": 732.31,
+      "en_full": "And the protein.",
+      "zh": "还有蛋白质。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "732.320-733.920",
+      "start": 732.32,
+      "end": 733.92,
+      "en_full": "And the protein. No, this is like this. It's It's going",
+      "zh": "还有蛋白质。不，是这样的。它要",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "733.920-735.920",
+      "start": 733.92,
+      "end": 735.92,
+      "en_full": "No, this is like this. It's It's going to go away soon. The protein bars I like",
+      "zh": "不，是这样的。它很快就会消失。我喜欢的蛋白棒。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "735.920-737.760",
+      "start": 735.92,
+      "end": 737.76,
+      "en_full": "to go away soon. The protein bars I like are gone. The hot Cheetos are gone. But",
+      "zh": "很快就得走了。我喜欢的蛋白棒没了，辣味奇多也没了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "737.760-739.519",
+      "start": 737.76,
+      "end": 739.519,
+      "en_full": "are gone. The hot Cheetos are gone. But",
+      "zh": "没了。辣味奇多没了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "739.519-741.670",
+      "start": 739.519,
+      "end": 741.67,
+      "en_full": "we have gushers.",
+      "zh": "但我们有果冻软糖",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "741.680-745.030",
+      "start": 741.68,
+      "end": 745.03,
+      "en_full": "And these wafer things are yummy.",
+      "zh": "这些威化饼很好吃",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "745.040-747.750",
+      "start": 745.04,
+      "end": 747.75,
+      "en_full": "These gummy bears are really good. The Albanese ones.",
+      "zh": "这些软糖特别好吃。Albanese牌的",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "747.760-750.628",
+      "start": 747.76,
+      "end": 750.628,
+      "en_full": "These are the S tier.",
+      "zh": "这是S级的",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "756.800-758.079",
+      "start": 756.8,
+      "end": 758.079,
+      "en_full": "Hi. We just ended a little tour lunch at",
+      "zh": "嗨，我们刚结束了一个小型的午餐导览。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "758.079-763.279",
+      "start": 758.079,
+      "end": 763.279,
+      "en_full": "Hi. We just ended a little tour lunch at the Google YouTube office in LA. This it",
+      "zh": "嗨，我们刚在洛杉矶的谷歌YouTube办公室结束了一场小型午餐参观。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "763.279-765.190",
+      "start": 763.279,
+      "end": 765.19,
+      "en_full": "is so reaction.",
+      "zh": "反应这么大。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "765.200-766.150",
+      "start": 765.2,
+      "end": 766.15,
+      "en_full": "It's really spacious.",
+      "zh": "空间真的很大。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "766.160-767.910",
+      "start": 766.16,
+      "end": 767.91,
+      "en_full": "I feel like I'm I need to work in tech.",
+      "zh": "我觉得我真的需要去科技公司工作。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "767.920-770.230",
+      "start": 767.92,
+      "end": 770.23,
+      "en_full": "Like leave leave my job.",
+      "zh": "就像是离开我的工作一样。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "770.240-770.790",
+      "start": 770.24,
+      "end": 770.79,
+      "en_full": "Exactly.",
+      "zh": "没错。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "770.800-772.470",
+      "start": 770.8,
+      "end": 772.47,
+      "en_full": "New job and new career.",
+      "zh": "新工作，新职业。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "772.480-774.470",
+      "start": 772.48,
+      "end": 774.47,
+      "en_full": "Literally, I would come work and be your cooworker.",
+      "zh": "真的，我会来工作给你当同事。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "774.480-777.760",
+      "start": 774.48,
+      "end": 777.76,
+      "en_full": "I feel like you know what they show in movies and they're like mocking tech",
+      "zh": "我觉得你知道电影里演的那些，他们就是在嘲讽科技。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "777.760-779.030",
+      "start": 777.76,
+      "end": 779.03,
+      "en_full": "workers. I feel like it's real. No, it is real. Like you see everybody",
+      "zh": "工人们。我觉得这是真的。不，就是真的。就像你看到的每个人一样。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "779.040-783.030",
+      "start": 779.04,
+      "end": 783.03,
+      "en_full": "No, it is real. Like you see everybody working, there's a coffee bar.",
+      "zh": "不，是真的。你看大家都在工作，还有咖啡吧。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "783.040-786.000",
+      "start": 783.04,
+      "end": 786,
+      "en_full": "We saw the snacks,",
+      "zh": "我们看到了那些零食。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "786.000-787.279",
+      "start": 786,
+      "end": 787.279,
+      "en_full": "snacks, there's a gaming room. People bring their dogs. Like it's like I",
+      "zh": "有零食，还有游戏室。人们会带狗来。就像，我挺喜欢的。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "787.279-791.509",
+      "start": 787.279,
+      "end": 791.509,
+      "en_full": "promise we all work really hard and Exactly.",
+      "zh": "我们保证都会非常努力，没错。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "801.839-804.959",
+      "start": 801.839,
+      "end": 804.959,
+      "en_full": "And now for the reason why I'm in LA, I went to the Apple App [music] Store",
+      "zh": "现在说说我来洛杉矶的原因，我去了苹果应用商店。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "804.959-808.720",
+      "start": 804.959,
+      "end": 808.72,
+      "en_full": "highlights and celebrates some of the apps and their founders that really",
+      "zh": "重点介绍并赞扬了一些应用及其创始人。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "808.720-809.360",
+      "start": 808.72,
+      "end": 809.36,
+      "en_full": "stood out this year. There are different",
+      "zh": "今年很突出。有不同的",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "809.360-812.880",
+      "start": 809.36,
+      "end": 812.88,
+      "en_full": "categories or different winners, and it just [music] felt like it was the Oscar",
+      "zh": "不同类别或获奖者，感觉就像奥斯卡奖一样。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "812.880-813.920",
+      "start": 812.88,
+      "end": 813.92,
+      "en_full": "for apps in a way. We have made it to",
+      "zh": "对于应用来说，我们做到了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "813.920-816.720",
+      "start": 813.92,
+      "end": 816.72,
+      "en_full": "for apps in a way. We have made it to the Apple App Awards. We're going to",
+      "zh": "对于应用来说，我们入选了苹果应用大奖。我们要去",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "816.720-820.480",
+      "start": 816.72,
+      "end": 820.48,
+      "en_full": "just check out a bunch of different apps and their creators and see what they",
+      "zh": "看看一堆不同的应用和它们的开发者，看看它们怎么样。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "820.480-820.800",
+      "start": 820.48,
+      "end": 820.8,
+      "en_full": "and their creators and see what they won. And yeah, there are so many people",
+      "zh": "看看他们的创作者赢得了什么。是的，有很多人。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "820.800-822.079",
+      "start": 820.8,
+      "end": 822.079,
+      "en_full": "won. And yeah, there are so many people here. I'm so excited.",
+      "zh": "赢了。是啊，这里人真多。我太激动了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "822.079-823.269",
+      "start": 822.079,
+      "end": 823.269,
+      "en_full": "here. I'm so excited. And then we went on inside and one of",
+      "zh": "这里。我太兴奋了。然后我们走进去，其中一个",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "823.279-827.200",
+      "start": 823.279,
+      "end": 827.2,
+      "en_full": "And then we went on inside and one of the first apps we saw was Pokémon TCG",
+      "zh": "然后我们走进去，看到的第一个应用就是宝可梦集换式卡牌游戏。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "827.200-830.959",
+      "start": 827.2,
+      "end": 830.959,
+      "en_full": "collect digital Pokémon [music] cards,",
+      "zh": "收集数字宝可梦音乐卡",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "830.959-833.120",
+      "start": 830.959,
+      "end": 833.12,
+      "en_full": "lowkey unlocked so much nostalgia for",
+      "zh": "不知不觉解锁了好多怀旧回忆",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "833.120-836.480",
+      "start": 833.12,
+      "end": 836.48,
+      "en_full": "out the productivity section where I met",
+      "zh": "我遇到的那个生产力板块",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "836.480-837.600",
+      "start": 836.48,
+      "end": 837.6,
+      "en_full": "the developer behind [music] Focus Friend, Bria. I learned that it's just",
+      "zh": "[音乐] Focus Friend 的开发者 Bria。我了解到它只是",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "837.600-840.000",
+      "start": 837.6,
+      "end": 840,
+      "en_full": "Friend, Bria. I learned that it's just her and Hank Green behind this app. And",
+      "zh": "朋友，Bria。我了解到这个应用背后只有她和Hank Green。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "840.000-843.040",
+      "start": 840,
+      "end": 843.04,
+      "en_full": "the fact that they've only been out for a few months [music] and won the",
+      "zh": "他们才出道几个月就赢了[音乐]",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "843.040-844.240",
+      "start": 843.04,
+      "end": 844.24,
+      "en_full": "Cultural Impact Award was so cool. Also,",
+      "zh": "文化影响力奖太酷了。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "844.240-845.680",
+      "start": 844.24,
+      "end": 845.68,
+      "en_full": "Cultural Impact Award was so cool. Also, Hank Green was there. So, as a STEM",
+      "zh": "文化影响力奖太酷了。还有Hank Green也在场。作为一个STEM",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "845.680-849.279",
+      "start": 845.68,
+      "end": 849.279,
+      "en_full": "girly who grew up on Crash Course, this",
+      "zh": "看着《Crash Course》长大的女孩，这个",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "849.279-849.600",
+      "start": 849.279,
+      "end": 849.6,
+      "en_full": "was a very full circle moment for me. I",
+      "zh": "这对我来说是一个非常圆满的时刻。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "849.600-850.880",
+      "start": 849.6,
+      "end": 850.88,
+      "en_full": "was a very full circle moment for me. I had to take a picture. And now I talk a",
+      "zh": "这对我来说是一个非常圆满的时刻。我不得不拍张照片。现在我在谈论它。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "850.880-853.760",
+      "start": 850.88,
+      "end": 853.76,
+      "en_full": "lot about timers and [music] gamifying",
+      "zh": "关于定时器和[音乐]游戏化有很多内容。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "853.760-856.000",
+      "start": 853.76,
+      "end": 856,
+      "en_full": "studying on my channel. So this app is the perfect combination of both. It",
+      "zh": "在我的频道学习。这个应用完美结合了两者。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "856.000-859.440",
+      "start": 856,
+      "end": 859.44,
+      "en_full": "locks down distracting apps on your phone so you can't doom scroll and",
+      "zh": "锁定手机上让人分心的应用，这样你就没法无休止地刷屏了。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "859.440-863.279",
+      "start": 859.44,
+      "end": 863.279,
+      "en_full": "focus timer [music] so your little character finishes its knitting and then",
+      "zh": "专注计时器[音乐]让你的小角色完成编织",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "863.279-864.000",
+      "start": 863.279,
+      "end": 864,
+      "en_full": "you can decorate their apartment. I also",
+      "zh": "你可以装饰他们的公寓。我也",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "864.000-867.040",
+      "start": 864,
+      "end": 867.04,
+      "en_full": "went to go hear a little bit from Strava",
+      "zh": "去听了一下Strava的分享。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "867.040-868.720",
+      "start": 867.04,
+      "end": 868.72,
+      "en_full": "which is fun because I am a proud half marathon supporter. I cannot run but",
+      "zh": "有趣的是，我是半程马拉松的骄傲支持者，虽然自己跑不了。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "868.720-871.839",
+      "start": 868.72,
+      "end": 871.839,
+      "en_full": "I've been to quite a few now just to",
+      "zh": "我去过不少地方了，就为了",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "871.839-875.120",
+      "start": 871.839,
+      "end": 875.12,
+      "en_full": "[music] with their team and hear about how they're building community was",
+      "zh": "和他们的团队一起，听听他们是如何建立社区的。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "875.120-878.800",
+      "start": 875.12,
+      "end": 878.8,
+      "en_full": "before was that HBO Max now has ASL",
+      "zh": "我以前不知道的一件事是HBO Max现在有ASL支持",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "878.800-880.720",
+      "start": 878.8,
+      "end": 880.72,
+      "en_full": "interpreter on the screen while",
+      "zh": "可以在观看时看到屏幕上的手语翻译。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "880.720-884.160",
+      "start": 880.72,
+      "end": 884.16,
+      "en_full": "meaningful and a good reminder of how",
+      "zh": "有意义且是一个很好的提醒，提醒我们如何",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "884.160-885.920",
+      "start": 884.16,
+      "end": 885.92,
+      "en_full": "tech can [music] keep moving but in a more inclusive direction. And overall,",
+      "zh": "朝着更具包容性的方向发展。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "885.920-889.519",
+      "start": 885.92,
+      "end": 889.519,
+      "en_full": "it was just a really cool experience getting to be [music] around so many",
+      "zh": "能置身于这么多音乐之中，真是一次非常酷的经历。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "889.519-891.279",
+      "start": 889.519,
+      "end": 891.279,
+      "en_full": "creatives and then innovative people doing what they love. One of my favorite",
+      "zh": "还有那些做自己热爱的事情的创新者。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "891.279-895.040",
+      "start": 891.279,
+      "end": 895.04,
+      "en_full": "pastimes is hearing what people are passionate about and their passion",
+      "zh": "我最喜欢的消遣之一就是听人们谈论他们热爱的事情和热衷的项目。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "895.040-896.470",
+      "start": 895.04,
+      "end": 896.47,
+      "en_full": "projects. So yeah, thank you to Apple.",
+      "zh": "所以，谢谢苹果。",
+      "verdict": "pass",
+      "reason": "已自动重译"
+    },
+    {
+      "key": "899.839-901.430",
+      "start": 899.839,
+      "end": 901.43,
+      "en_full": "vlogs.",
+      "zh": "vlog。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "901.440-907.110",
+      "start": 901.44,
+      "end": 907.11,
+      "en_full": "Be healthy, be happy, drink water. Wow, such a big sis. Oh my gosh, so nice.",
+      "zh": "要健康，要快乐，多喝水。哇，好大气的姐姐。哦天哪，太好了。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "907.120-907.910",
+      "start": 907.12,
+      "end": 907.91,
+      "en_full": "Thank you so much.",
+      "zh": "非常感谢。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "907.920-911.590",
+      "start": 907.92,
+      "end": 911.59,
+      "en_full": "Thank you so much for Aisha and I are leaving the event now.",
+      "zh": "非常感谢，Aisha和我现在要离开活动了。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "911.600-913.670",
+      "start": 911.6,
+      "end": 913.67,
+      "en_full": "It [music] was so fun. We had so much fun.",
+      "zh": "太有意思了。我们玩得好开心。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "913.680-917.750",
+      "start": 913.68,
+      "end": 917.75,
+      "en_full": "And it is literally so dark out now. We were in there for 3 hours.",
+      "zh": "现在外面天已经黑了。我们在里面待了3个小时。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "917.760-918.550",
+      "start": 917.76,
+      "end": 918.55,
+      "en_full": "3 hours.",
+      "zh": "3个小时。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "918.560-920.275",
+      "start": 918.56,
+      "end": 920.275,
+      "en_full": "Yeah.",
+      "zh": "嗯。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "932.075-933.350",
+      "start": 932.075,
+      "end": 933.35,
+      "en_full": "[music]",
+      "zh": "[music]",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    }
+  ],
+  "stats": {
+    "pass": 200,
+    "partial": 0,
+    "wrong": 0
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "videoId": "5B8-TJ8vsKY",
+  "generatedAt": "2026-08-11T06:20:57.934Z",
+  "cards": [
+    {
+      "id": "mso9utamcno1mm",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "mystery",
+      "back": "谜，神秘的事物 (noun, B1)",
+      "context": "It's still such a **mystery** to me, even though I've been writing songs for so long",
+      "audioStart": 0.1,
+      "audioEnd": 4.84,
+      "word": "mystery",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utamd3t52s",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "inspired",
+      "back": "受到启发的 (adjective, B1)",
+      "context": "They've been **inspired** by my life, by mythology, by fables, by books, by movies",
+      "audioStart": 13.86,
+      "audioEnd": 17.64,
+      "word": "inspired",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utamragf1d",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intense",
+      "back": "强烈的，剧烈的 (adjective, B1)",
+      "context": "you feel things on such an **intense** and detailed level",
+      "audioStart": 30.58,
+      "audioEnd": 36.78,
+      "word": "intense",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utam1oof0e",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "longing",
+      "back": "渴望，向往 (noun, B1)",
+      "context": "you're **longing** or you're reaching and grasping but never holding someone's attention",
+      "audioStart": 42.9,
+      "audioEnd": 50.84,
+      "word": "longing",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utamonv2p0",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "spontaneously",
+      "back": "自发地，自然地 (adverb, B2)",
+      "context": "songwriting just **spontaneously** started becoming the entire cornerstone of my life",
+      "audioStart": 93.64,
+      "audioEnd": 101.46,
+      "word": "spontaneously",
+      "tags": [
+        "CEFR-B2",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utamilmats",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "cornerstone",
+      "back": "基石，基础 (noun, C1)",
+      "context": "songwriting just spontaneously started becoming the entire **cornerstone** of my life",
+      "audioStart": 93.64,
+      "audioEnd": 101.46,
+      "word": "cornerstone",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utamwwf3g9",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hypothetical",
+      "back": "假设的，假定的 (adjective, B2)",
+      "context": "a **hypothetical** structure would be first verse, little girl learns a lesson",
+      "audioStart": 122.96,
+      "audioEnd": 127,
+      "word": "hypothetical",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utam3i1343",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "imparts",
+      "back": "传授，告知 (verb, C1)",
+      "context": "She **imparts** that wisdom onto her",
+      "audioStart": 146.92,
+      "audioEnd": 149.12,
+      "word": "imparts",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utamv3j1a4",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "impacted",
+      "back": "影响，冲击 (verb, B2)",
+      "context": "I was the most intensely **impacted** by emo music",
+      "audioStart": 167.24,
+      "audioEnd": 173.42,
+      "word": "impacted",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utamxeqd3k",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "twist",
+      "back": "扭转，扭曲 (verb, B1)",
+      "context": "they just **twist** the knife of it",
+      "audioStart": 179.88,
+      "audioEnd": 184.02,
+      "word": "twist",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utamo03asc",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "specificity",
+      "back": "具体性，明确性 (noun, C1)",
+      "context": "the **specificity** of hands down by dashboard confessional",
+      "audioStart": 197.34,
+      "audioEnd": 203.1,
+      "word": "specificity",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9utam9j2m2z",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "perspective",
+      "back": "观点，视角 (noun, B2)",
+      "context": "he just believed that I had a **perspective** that mattered",
+      "audioStart": 215.02,
+      "audioEnd": 219.02,
+      "word": "perspective",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:57.934Z"
+    },
+    {
+      "id": "mso9us6ok6ljdz",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So it's like, I had to like ___ down",
+      "back": "taper",
+      "context": "So it's like, I had to like taper down",
+      "audioStart": 394.4,
+      "audioEnd": 398,
+      "hint": "选项：calm / settle / slow / taper",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.496Z"
+    },
+    {
+      "id": "mso9us6oww73jy",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You can start ___ the picture in the verse.",
+      "back": "painting",
+      "context": "You can start painting the picture in the verse.",
+      "audioStart": 752.8,
+      "audioEnd": 757.6,
+      "hint": "选项：painting / drawing / sketching / coloring",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.496Z"
+    },
+    {
+      "id": "mso9us6ogzliwi",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Now, that's something that I absolutely ___ to, that idea that structure is important.",
+      "back": "subscribe",
+      "context": "Now, that's something that I absolutely subscribe to, that idea that structure is important.",
+      "audioStart": 797.7,
+      "audioEnd": 804.5,
+      "hint": "选项：adhere / agree / subscribe / conform",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.496Z"
+    },
+    {
+      "id": "mso9us6o34qk8f",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I could point to ___ like Out of the Woods, Is It Over Now, Cruel Summer.",
+      "back": "examples",
+      "context": "I could point to examples like Out of the Woods, Is It Over Now, Cruel Summer.",
+      "audioStart": 827.6,
+      "audioEnd": 832.7,
+      "hint": "选项：examples / cases / samples / instances",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.496Z"
+    },
+    {
+      "id": "mso9us6oha8krc",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) The whole thing with All Too Well was that this was ___",
+      "back": "this",
+      "context": "The whole thing with All Too Well was that this was",
+      "audioStart": 996.8,
+      "audioEnd": 1002.2,
+      "hint": "选项：this / there / that / it",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.496Z"
+    },
+    {
+      "id": "mso9us6o0soxmz",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) to have to make this into a song that's a little bit more ___.",
+      "back": "palatable",
+      "context": "to have to make this into a song that's a little bit more palatable.",
+      "audioStart": 1069.1,
+      "audioEnd": 1072.2,
+      "hint": "选项：acceptable / pleasant / palatable / tolerable",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.496Z"
+    },
+    {
+      "id": "mso9us6ovpnojx",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I made the mistake of kind of ___ how the song came to be in an interview.",
+      "back": "explaining",
+      "context": "I made the mistake of kind of explaining how the song came to be in an interview.",
+      "audioStart": 1106.9,
+      "audioEnd": 1111.8,
+      "hint": "选项：describing / clarifying / explaining / detailing",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.496Z"
+    },
+    {
+      "id": "mso9us6o4cn3np",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And that's part of why I've been able to keep my ___",
+      "back": "keep",
+      "context": "And that's part of why I've been able to keep my",
+      "audioStart": 948.6,
+      "audioEnd": 952.2,
+      "hint": "选项：sustain / maintain / preserve / keep",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.496Z"
+    },
+    {
+      "id": "mso9us5xddqpuq",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "对我来说这至今仍是个谜，尽管我写歌已经\nIt's still such a mystery to me, ___ ___ I've been writing songs for",
+      "back": "even / though",
+      "context": "It's still such a mystery to me, even though I've been writing songs for",
+      "audioStart": 0.1,
+      "audioEnd": 4.839,
+      "hint": "even though",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.469Z"
+    },
+    {
+      "id": "mso9us5xglayw2",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我十二岁就开始写歌了 我十二岁就开始写歌了\n___ ___ ___ my love for singing and picking up an instrument",
+      "back": "as / soon / as",
+      "context": "As soon as my love for singing and picking up an instrument",
+      "audioStart": 88.7,
+      "audioEnd": 93.64,
+      "hint": "as soon as",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.469Z"
+    },
+    {
+      "id": "mso9us5xp4dqvo",
+      "videoId": "5B8-TJ8vsKY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "他说 没错 确实录了 要不是他录下来 我可能就翻篇了\nAnd I ___ ___ ___ away from it if he didn't have",
+      "back": "would / have / walked",
+      "context": "And I would have walked away from it if he didn't have",
+      "audioStart": 1051.529,
+      "audioEnd": 1053.589,
+      "hint": "would have walked away",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:56.469Z"
+    }
+  ]
+}

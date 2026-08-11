@@ -1,0 +1,417 @@
+{
+  "videoId": "mmMG_56bEFQ",
+  "generatedAt": "2026-08-11T06:27:08.911Z",
+  "cards": [
+    {
+      "id": "msoa2rjj9wdk3g",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "chic",
+      "back": "时髦，优雅 (noun, B2)",
+      "context": "I really wanted like grandma **chic**.",
+      "audioStart": 26.08,
+      "audioEnd": 29.32,
+      "word": "chic",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjj16sapa",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "exotic",
+      "back": "异国情调的，奇异的 (adjective, B2)",
+      "context": "I have always kind of had this dream and vision of like a very **exotic** kind of crazy couch that becomes the statement in the room.",
+      "audioStart": 45.22,
+      "audioEnd": 53.22,
+      "word": "exotic",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjjs0o8ww",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "communal",
+      "back": "公共的，共用的 (adjective, B2)",
+      "context": "This is the most **communal** room in the house.",
+      "audioStart": 98.84,
+      "audioEnd": 101.96,
+      "word": "communal",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjjzzpc06",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "envision",
+      "back": "设想，想象 (verb, C1)",
+      "context": "You're **envisioning** like moments with friends and you're envisioning what kind of nights and laughs and talks are you going to get into.",
+      "audioStart": 120.88,
+      "audioEnd": 128.76,
+      "word": "envision",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjj6ey375",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "banquette",
+      "back": "长条软座，卡座 (noun, C1)",
+      "context": "We came up with this kind of big **banquette** idea and i love the oversizedness of it.",
+      "audioStart": 313.38,
+      "audioEnd": 319.29,
+      "word": "banquette",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjjqssvd3",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intimidated",
+      "back": "感到害怕的，胆怯的 (adjective, B2)",
+      "context": "I remember being a little **intimidated** by the wallpaper before we put it onto the walls.",
+      "audioStart": 445.59,
+      "audioEnd": 448.83,
+      "word": "intimidated",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjjgsqgc4",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "reclaimed",
+      "back": "回收利用的 (adjective, C1)",
+      "context": "We did **reclaimed** beams with reclaimed paneling.",
+      "audioStart": 458.29,
+      "audioEnd": 461.19,
+      "word": "reclaimed",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjjjifitd",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "serenity",
+      "back": "宁静，安详 (noun, C1)",
+      "context": "Just like the peace, the quiet, the **serenity**, like it's just fun.",
+      "audioStart": 505.39,
+      "audioEnd": 510.89,
+      "word": "serenity",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjjlfc3rh",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "whimsical",
+      "back": "古怪的，异想天开的 (adjective, C1)",
+      "context": "The entire room is a bit **whimsical** and i think this bathroom also feels a bit whimsical.",
+      "audioStart": 666.46,
+      "audioEnd": 671.88,
+      "word": "whimsical",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjjkynvf2",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "renovate",
+      "back": "翻新，修复 (verb, B2)",
+      "context": "How perfect would it be to bring this to the house and gut it and **renovate** it.",
+      "audioStart": 693.95,
+      "audioEnd": 700.89,
+      "word": "renovate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjjbjtpaq",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sketchy",
+      "back": "不安全的，靠不住的 (adjective, B2)",
+      "context": "It's kind of **sketchy**.",
+      "audioStart": 556.81,
+      "audioEnd": 561.29,
+      "word": "sketchy",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2rjjul31ws",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "addicting",
+      "back": "使人上瘾的 (adjective, C1)",
+      "context": "It was so **addicting**, so much fun.",
+      "audioStart": 389.41,
+      "audioEnd": 392.29,
+      "word": "addicting",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:08.911Z"
+    },
+    {
+      "id": "msoa2pxmy7ndoy",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's the only one in the house. And so I wanted it to feel really ___ and cute.",
+      "back": "charming",
+      "context": "It's the only one in the house. And so I wanted it to feel really charming and cute.",
+      "audioStart": 404.5,
+      "audioEnd": 407.8,
+      "hint": "选项：modern / bright / spacious / charming",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:06.826Z"
+    },
+    {
+      "id": "msoa2pxmhusb3n",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Actually, the other night I filled the couch for the first time from one ___ to the other.",
+      "back": "end",
+      "context": "Actually, the other night I filled the couch for the first time from one end to the other.",
+      "audioStart": 108.9,
+      "audioEnd": 114,
+      "hint": "选项：edge / end / corner / side",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:06.826Z"
+    },
+    {
+      "id": "msoa2pxm6u4rry",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) all the windows and how big it is it's such a ___ room to hang",
+      "back": "nice",
+      "context": "all the windows and how big it is it's such a nice room to hang",
+      "audioStart": 487.8,
+      "audioEnd": 491.4,
+      "hint": "选项：cozy / large / bright / nice",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:06.826Z"
+    },
+    {
+      "id": "msoa2pxm94956d",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So I wanted to create a really fun, ___ place. And this has become that.",
+      "back": "peaceful",
+      "context": "So I wanted to create a really fun, peaceful place. And this has become that.",
+      "audioStart": 248.6,
+      "audioEnd": 254.6,
+      "hint": "选项：serene / peaceful / quiet / calm",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:06.826Z"
+    },
+    {
+      "id": "msoa2pxm5smtge",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's also just something fun to do in a ___ little mountain town.",
+      "back": "sleepy",
+      "context": "It's also just something fun to do in a sleepy little mountain town.",
+      "audioStart": 275.6,
+      "audioEnd": 279.6,
+      "hint": "选项：quiet / quaint / sleepy / small",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:06.826Z"
+    },
+    {
+      "id": "msoa2pxmtct6h6",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So most of the books on this table have been found ___.",
+      "back": "locally",
+      "context": "So most of the books on this table have been found locally.",
+      "audioStart": 65.8,
+      "audioEnd": 69.3,
+      "hint": "选项：locally / recently / randomly / cheaply",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:06.826Z"
+    },
+    {
+      "id": "msoa2pxmq82bov",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) My Campbell's mugs were a gift from, I call her like my second mom, so ___.",
+      "back": "long",
+      "context": "My Campbell's mugs were a gift from, I call her like my second mom, so long ago.",
+      "audioStart": 279.6,
+      "audioEnd": 284.3,
+      "hint": "选项：far / many / much / long",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:06.826Z"
+    },
+    {
+      "id": "msoa2pxmi22btx",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) like one of my favorite ___ in",
+      "back": "colors",
+      "context": "like one of my favorite colors in",
+      "audioStart": 482.3,
+      "audioEnd": 485.5,
+      "hint": "选项：hues / colors / tones / shades",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:06.826Z"
+    },
+    {
+      "id": "msoa2pptwrxxkb",
+      "videoId": "mmMG_56bEFQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "大概有八个人轮流拼过这个 三次旅行我们就走到这一步，大家了解一下。\nAnd this is ___ ___ ___ we've come in three different trips, just so everybody's aware.",
+      "back": "as / far / as",
+      "context": "And this is as far as we've come in three different trips, just so everybody's aware.",
+      "audioStart": 337.685,
+      "audioEnd": 341.444,
+      "hint": "as far as we've come",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:06.545Z"
+    }
+  ]
+}

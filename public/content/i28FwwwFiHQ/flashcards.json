@@ -1,0 +1,455 @@
+{
+  "videoId": "i28FwwwFiHQ",
+  "generatedAt": "2026-08-11T06:25:18.059Z",
+  "cards": [
+    {
+      "id": "msoa0e0a6u3d60",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "garnish",
+      "back": "装饰（食物） (verb, B2)",
+      "context": "We have some pineapple juice, coconut cream, some ice, and then to **garnish** we have some pineapple and cherries...",
+      "audioStart": 30.28,
+      "audioEnd": 41.82,
+      "word": "garnish",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.058Z"
+    },
+    {
+      "id": "msoa0e0axv91k2",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "nostalgic",
+      "back": "怀旧的 (adjective, B2)",
+      "context": "A virgin King of Colada is so **nostalgic**.",
+      "audioStart": 115.88,
+      "audioEnd": 119.96,
+      "word": "nostalgic",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.058Z"
+    },
+    {
+      "id": "msoa0e0ar75n28",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "frustrate",
+      "back": "使沮丧 (verb, B2)",
+      "context": "It **frustrates** me so much because there's so many times we have to speak to each other that way...",
+      "audioStart": 183.66,
+      "audioEnd": 188.06,
+      "word": "frustrate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.058Z"
+    },
+    {
+      "id": "msoa0e0a1e1dsb",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "magnificent",
+      "back": "壮丽的 (adjective, B1)",
+      "context": "That looks **magnificent** Do you guys all want to have matching umbrellas?",
+      "audioStart": 192.62,
+      "audioEnd": 197.1,
+      "word": "magnificent",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.058Z"
+    },
+    {
+      "id": "msoa0e0adt4bsd",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "rehearse",
+      "back": "排练 (verb, B2)",
+      "context": "I think like sometimes after we **rehearse** for really long.",
+      "audioStart": 363.9,
+      "audioEnd": 366.02,
+      "word": "rehearse",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.058Z"
+    },
+    {
+      "id": "msoa0e0au5rcu1",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "perfectionist",
+      "back": "完美主义者 (noun, B2)",
+      "context": "And so he told me if I want to practice my perfectionism, like being such a **perfectionist**...",
+      "audioStart": 408.58,
+      "audioEnd": 412.4,
+      "word": "perfectionist",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.058Z"
+    },
+    {
+      "id": "msoa0e0bipcevv",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intimate",
+      "back": "亲密的 (adjective, B2)",
+      "context": "This is how **intimate** this needs to be, guys.",
+      "audioStart": 585.92,
+      "audioEnd": 589.28,
+      "word": "intimate",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.059Z"
+    },
+    {
+      "id": "msoa0e0bb76ek4",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "milestone",
+      "back": "里程碑 (noun, B2)",
+      "context": "Huge **milestone** things have happened back to back to back in this last year.",
+      "audioStart": 672.94,
+      "audioEnd": 678.6,
+      "word": "milestone",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.059Z"
+    },
+    {
+      "id": "msoa0e0bsydf2k",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "gratitude",
+      "back": "感激 (noun, B2)",
+      "context": "So we have a lot of **gratitude**.",
+      "audioStart": 695.32,
+      "audioEnd": 697.44,
+      "word": "gratitude",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.059Z"
+    },
+    {
+      "id": "msoa0e0bqhogo3",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "passionate",
+      "back": "热情的 (adjective, B1)",
+      "context": "They are like the most **passionate** fans I've ever seen.",
+      "audioStart": 704.3,
+      "audioEnd": 708.3,
+      "word": "passionate",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.059Z"
+    },
+    {
+      "id": "msoa0e0byt1oio",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "aesthetic",
+      "back": "美学 (noun, B2)",
+      "context": "We always have the same taste and **aesthetic** The icons like a lot of the icons were there with us since we were training...",
+      "audioStart": 718.94,
+      "audioEnd": 725.26,
+      "word": "aesthetic",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.059Z"
+    },
+    {
+      "id": "msoa0e0bxxzbcl",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "consume",
+      "back": "消费 (verb, B2)",
+      "context": "...if it isn't for them **consuming** our art and everything...",
+      "audioStart": 757.98,
+      "audioEnd": 764.8,
+      "word": "consume",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:18.059Z"
+    },
+    {
+      "id": "msoa0cul2v2wq9",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We have some pineapple juice, coconut cream, some ice, and then to garnish we have some ___",
+      "back": "garnish",
+      "context": "We have some pineapple juice, coconut cream, some ice, and then to garnish we have some",
+      "audioStart": 30.3,
+      "audioEnd": 35.8,
+      "hint": "选项：decorate / serve / prepare / garnish",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.557Z"
+    },
+    {
+      "id": "msoa0cultcxktu",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Go for it. I'm going to let you do this. Okay. Let's get some ___",
+      "back": "towels",
+      "context": "Go for it. I'm going to let you do this. Okay. Let's get some towels.",
+      "audioStart": 57.9,
+      "audioEnd": 62.2,
+      "hint": "选项：plates / napkins / cups / towels",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.557Z"
+    },
+    {
+      "id": "msoa0culkorxci",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We're gonna mime our deepest, darkest ___",
+      "back": "secret",
+      "context": "We're gonna mime our deepest, darkest secret.",
+      "audioStart": 161.7,
+      "audioEnd": 165.8,
+      "hint": "选项：desire / secret / fear / memory",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.557Z"
+    },
+    {
+      "id": "msoa0culuwx3ls",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You can hear that in the album. I will start on that. We want to make it a little soupy, ___?",
+      "back": "right",
+      "context": "You can hear that in the album. I will start on that. We want to make it a little soupy, right?",
+      "audioStart": 348.4,
+      "audioEnd": 353.2,
+      "hint": "选项：soon / right / then / now",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.557Z"
+    },
+    {
+      "id": "msoa0culxrhnrs",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And so he told me if I want to practice my perfectionism, like being ___",
+      "back": "perfect",
+      "context": "And so he told me if I want to practice my perfectionism, like being",
+      "audioStart": 403.8,
+      "audioEnd": 408.8,
+      "hint": "选项：exact / careful / perfect / precise",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.557Z"
+    },
+    {
+      "id": "msoa0culkkdy0q",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We used to do like 12 hour days. Now it's like six ___",
+      "back": "hours",
+      "context": "We used to do like 12 hour days. Now it's like six hours.",
+      "audioStart": 373.8,
+      "audioEnd": 377.7,
+      "hint": "选项：hours / months / weeks / minutes",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.557Z"
+    },
+    {
+      "id": "msoa0cul740iag",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Stream our new EP, Wild, that comes out August 14th, and go stream Animal and Pinky ___",
+      "back": "up",
+      "context": "Stream our new EP, Wild, that comes out August 14th, and go stream Animal and Pinky up.",
+      "audioStart": 840.1,
+      "audioEnd": 844.3,
+      "hint": "选项：in / down / out / up",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.557Z"
+    },
+    {
+      "id": "msoa0culgrcfjj",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Pink for Pinky Up. I'm going to do blue Oh, ___",
+      "back": "okay",
+      "context": "Pink for Pinky Up. I'm going to do blue Oh, okay.",
+      "audioStart": 197.1,
+      "audioEnd": 202.9,
+      "hint": "选项：fine / good / okay / alright",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.557Z"
+    },
+    {
+      "id": "msoa0cpsn49qnt",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "过去这一年，重大的里程碑接连不断。 过去这一年，重大的里程碑接连不断。\nFive years ago, ___ you ___ ___ imagined yourself?",
+      "back": "would / have / ever",
+      "context": "Five years ago, would you have ever imagined yourself?",
+      "audioStart": 678.542,
+      "audioEnd": 680.842,
+      "hint": "would have ever imagined",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.384Z"
+    },
+    {
+      "id": "msoa0cptbak8zk",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "通过我们的表演让你们感受到，我们想让你们知道我们真的很感激。 如果没有他们，我们不会有这些奖项、提名、音乐节的机会，或者任何东西，如果\nWe ___ ___ all these awards, these nominations, these spots in these festivals or anything really if it",
+      "back": "wouldn't / have",
+      "context": "We wouldn't have all these awards, these nominations, these spots in these festivals or anything really if it",
+      "audioStart": 751.662,
+      "audioEnd": 757.982,
+      "hint": "wouldn't have all these awards",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.385Z"
+    },
+    {
+      "id": "msoa0cpthvzznt",
+      "videoId": "i28FwwwFiHQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "她真的是最差劲的。 我真希望我能做到，这让我特别崩溃，因为很多时候我们都\nI really ___ I ___ It frustrates me so much because there's so many times we have",
+      "back": "wish / could",
+      "context": "I really wish I could It frustrates me so much because there's so many times we have",
+      "audioStart": 179.599,
+      "audioEnd": 183.659,
+      "hint": "I really wish I could",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:16.385Z"
+    }
+  ]
+}

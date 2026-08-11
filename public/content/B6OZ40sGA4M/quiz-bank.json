@@ -1,0 +1,534 @@
+{
+  "videoId": "B6OZ40sGA4M",
+  "title": "B6OZ40sGA4M",
+  "generatedAt": "2026-08-10T10:46:04.390Z",
+  "version": 1,
+  "totalQuestions": 23,
+  "stats": {
+    "easy": 8,
+    "medium": 11,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the purpose of this video?",
+      "options": [
+        "A) A movie trailer for Uncharted",
+        "B) A day in the life vlog on a film set",
+        "C) A cooking show about tea",
+        "D) A news report about Tom Holland"
+      ],
+      "answer": "B",
+      "explanation": "视频开头Tom Holland说'welcome to a day in the life of Tom Holland on the set of...'，明确表明这是一个拍摄现场日常生活的vlog记录。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 7.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "vlog",
+        "day in the life",
+        "set"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "When Tom says 'Day 457', what does he mean?",
+      "options": [
+        "A) It's been 457 days since he started acting",
+        "B) It's the 457th day of filming Uncharted",
+        "C) He woke up at 4:57 AM",
+        "D) His age is 457 months"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文和后面提到的'wrapped day 732 of Uncharted'，可以判断'Day 457'是指电影Uncharted拍摄的第457天，用幽默的方式表达拍摄周期之长。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 26.6,
+      "endTime": 33.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "filming",
+        "shoot",
+        "day count"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the phrase 'my exes are as crazy as possible' imply?",
+      "options": [
+        "A) His ex-girlfriends are mentally ill",
+        "B) He has had many unusual romantic partners",
+        "C) He doesn't have any exes",
+        "D) His exes are very calm people"
+      ],
+      "answer": "B",
+      "explanation": "这句话用夸张的方式暗示他的前任们都很特别/疯狂，是一种幽默的自嘲表达方式。'as crazy as possible'表示尽可能地疯狂。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 33.2,
+      "endTime": 39,
+      "difficulty": "medium",
+      "relatedWords": [
+        "ex",
+        "crazy",
+        "humor"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Which of the following is a common British informal greeting heard in the video?",
+      "options": [
+        "A) What's up?",
+        "B) How are you doing?",
+        "C) You alright?",
+        "D) Howdy partner?"
+      ],
+      "answer": "C",
+      "explanation": "英国人常用'You alright?'作为非正式问候，类似于'你好吗'。视频中多次出现这种典型的英式问候方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 45.4,
+      "endTime": 48.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "greeting",
+        "British English",
+        "informal"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "In the context 'He's not got one, he's got two', what is being compared?",
+      "options": [
+        "A) Number of friends",
+        "B) Quantity of something he's holding/having",
+        "C) His age in different ways",
+        "D) Number of movies"
+      ],
+      "answer": "B",
+      "explanation": "这句'他没有一个，他有两个'是在描述某样东西的数量，通常用于指出某人拥有的物品数量比预期多。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 91.3,
+      "endTime": 93.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "quantity",
+        "comparison",
+        "got"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the slang expression 'pure shade' mean?",
+      "options": [
+        "A) Complete darkness",
+        "B) A type of sunglasses",
+        "C) Subtle insult or criticism",
+        "D) A shadow effect in lighting"
+      ],
+      "answer": "C",
+      "explanation": "'Pure shade'是英语俚语，意思是'纯粹的嘲讽/暗中贬低'。'Shade'在这里不是指阴影，而是一种不直接点名但带有批评意味的评论，'pure'强调程度的强烈。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 107,
+      "endTime": 108.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "shade",
+        "slang",
+        "insult",
+        "criticism"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "In the phrase 'Go do some stunts or something', what is a 'stunt'?",
+      "options": [
+        "A) A type of plant",
+        "B) An impressive physical action performed for a film",
+        "C) A quick meal",
+        "D) A style of dancing"
+      ],
+      "answer": "B",
+      "explanation": "在电影拍摄语境中，'stunt'（特技）指演员或替身演员完成的危险或高难度动作，例如视频中提到的吊绳、加农炮等动作场景。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.3,
+      "endTime": 113.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "stunt",
+        "action scene",
+        "filming"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'See you out there, mate' mean?",
+      "options": [
+        "A) Let's go outside the building",
+        "B) Goodbye, I'll see you on set",
+        "C) Let's go on a trip",
+        "D) We will meet at a restaurant"
+      ],
+      "answer": "B",
+      "explanation": "'See you out there'是片场常用语，意思是'片场见'，指稍后在拍摄现场见面。'mate'是英式英语对朋友的称呼。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 131.9,
+      "endTime": 133,
+      "difficulty": "medium",
+      "relatedWords": [
+        "see you",
+        "mate",
+        "film set"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does it mean when someone is 'in charge of costume'?",
+      "options": [
+        "A) They design the entire movie",
+        "B) They are responsible for the actors' clothing and wardrobe",
+        "C) They manage the catering",
+        "D) They handle the props"
+      ],
+      "answer": "B",
+      "explanation": "'In charge of costume'意味着负责管理演员服装的人，即服装部门的主管。他们确保演员的服装符合角色和场景需求。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 145.8,
+      "endTime": 148.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "costume",
+        "in charge of",
+        "wardrobe"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "In film production, what does the abbreviation 'AD' stand for when referring to 'first AD' or 'second AD'?",
+      "options": [
+        "A) Assistant Director",
+        "B) Art Department",
+        "C) Audio Director",
+        "D) Action Director"
+      ],
+      "answer": "A",
+      "explanation": "在电影制作中，'AD'是'Assistant Director'（副导演）的缩写。第一副导演（First AD）负责现场调度和演员管理，第二副导演（Second AD）则协助处理其他事务。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 150.6,
+      "endTime": 154.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "AD",
+        "Assistant Director",
+        "film crew"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the function of the repeated word 'bang' in 'Bang, bang, bang, bang, bang, bang, bang'?",
+      "options": [
+        "A) It's a proper noun",
+        "B) It's onomatopoeia imitating gunfire sounds",
+        "C) It's an adjective describing excitement",
+        "D) It's a name of a person"
+      ],
+      "answer": "B",
+      "explanation": "'Bang'是拟声词（onomatopoeia），模仿枪声或爆炸声。重复使用是为了模拟连续的枪击声效，营造动作场景的氛围。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 163.8,
+      "endTime": 165.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "onomatopoeia",
+        "bang",
+        "sound effect"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does Tom Holland mean by 'I don't know if I'm going to be able to do that guys'?",
+      "options": [
+        "A) He is refusing the task",
+        "B) He is expressing uncertainty about completing a difficult action",
+        "C) He is asking for help",
+        "D) He is making a joke"
+      ],
+      "answer": "B",
+      "explanation": "这句话表达了对完成某项困难动作的不确定性和担忧，是演员在面对高难度动作前的常见反应。'I don't know if'是表达不确定性的常用结构。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 168.1,
+      "endTime": 170.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "uncertainty",
+        "doubt",
+        "difficulty"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does it mean that 'making tea is an art form'?",
+      "options": [
+        "A) Tea is a form of paint",
+        "B) Making tea requires skill and is done with creativity",
+        "C) Tea can only be made by artists",
+        "D) Art teachers also make tea"
+      ],
+      "answer": "B",
+      "explanation": "'Art form'（艺术形式）指需要技巧、创造力和实践的技能活动。Tom用'泡茶是一门艺术'这种夸张说法来幽默地表达他对泡茶的讲究。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 175.6,
+      "endTime": 182.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "art form",
+        "skill",
+        "creativity"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "Why is it significant that they bring tea bags 'from Yorkshire'?",
+      "options": [
+        "A) Yorkshire is close to the filming location",
+        "B) Yorkshire tea is a famous British regional brand known for its quality",
+        "C) Yorkshire is where Tom Holland was born",
+        "D) Yorkshire tea bags are cheaper"
+      ],
+      "answer": "B",
+      "explanation": "Yorkshire Tea（约克郡茶）是英国著名的茶叶品牌，以其优质和浓郁口感闻名。演员自带茶叶这个细节体现了对英式茶文化的坚持和自豪感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 184.4,
+      "endTime": 189.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Yorkshire",
+        "British tea",
+        "culture"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "speaking",
+      "question": "How would you describe your own tea or coffee making habits in English? Do you have any special routines or preferences?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个开放性口语问题，参考Tom Holland关于泡茶习惯的讨论。学生可以描述自己是否有特殊的饮品制作习惯。",
+      "referenceAnswer": "示例：'I always make my coffee in the morning with a French press. I add just a little bit of milk, no sugar. For me, the way the coffee is brewed really matters - I think making coffee is also a kind of art form, just like how Tom Holland talks about making tea. I usually have my coffee while reading the news.'",
+      "hint": "Think about: When do you drink it? How do you prepare it? What do you add to it? Do you have any special habits?",
+      "startTime": 184.4,
+      "endTime": 191.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tea",
+        "coffee",
+        "habits",
+        "routine"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "In the context 'I feel like Homelander', what is Tom Holland referring to?",
+      "options": [
+        "A) A character from the TV show 'The Boys' who is a powerful superhero",
+        "B) His co-star named Homelander",
+        "C) A real person he admires",
+        "D) A type of military uniform"
+      ],
+      "answer": "A",
+      "explanation": "Homelander是热门美剧《The Boys》（黑袍纠察队）中的主角，一个强大的超级英雄角色。Tom Holland用这个比喻来表达自己在某个场景中感到强大或特别的感受。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 206.6,
+      "endTime": 208.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Homelander",
+        "The Boys",
+        "superhero",
+        "pop culture"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'an obscene amount of people' mean?",
+      "options": [
+        "A) A small number of well-dressed people",
+        "B) An extremely large number of people, more than expected",
+        "C) People who are obscene in behavior",
+        "D) A specific number of fifty people"
+      ],
+      "answer": "B",
+      "explanation": "'Obscene amount'是一个夸张表达，意思是'多得离谱的数量'。'Obscene'原意是'淫秽的'，但在此口语中表示'过分、荒唐'，强调数量多得令人难以置信。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 208.6,
+      "endTime": 216.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "obscene",
+        "exaggeration",
+        "amount"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "In filmmaking, what does 'Did we get it?' mean?",
+      "options": [
+        "A) Did we receive the package?",
+        "B) Did we successfully capture the shot?",
+        "C) Did we understand the scene?",
+        "D) Did we get the script?"
+      ],
+      "answer": "B",
+      "explanation": "在片场，'Did we get it?'是一个经典问题，询问是否成功拍到了满意的镜头。如果答案是否定的，导演会说'No, let's do it again'，这正是视频中发生的情况。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 225.5,
+      "endTime": 227.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "film set",
+        "take",
+        "shot",
+        "filmmaking"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does it mean in filmmaking to 'wrap' a day?",
+      "options": [
+        "A) To wrap a gift",
+        "B) To finish filming for the day or a project",
+        "C) To wrap the equipment in cloth",
+        "D) To wrap up food for lunch"
+      ],
+      "answer": "B",
+      "explanation": "在电影行业，'wrap'是专业术语，意思是'完成当天的拍摄工作'或'杀青'。'We've just wrapped day 732'意为'我们刚刚完成了第732天的拍摄'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 230.1,
+      "endTime": 235.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "wrap",
+        "filming complete",
+        "film production"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'That was a typical day for us' imply?",
+      "options": [
+        "A) It was an unusual day",
+        "B) Every day on set is similar to this",
+        "C) It was the first day of filming",
+        "D) It was the last day of filming"
+      ],
+      "answer": "B",
+      "explanation": "'Typical day'（典型的一天）意味着这只是他们日常工作的一个代表，说明这样的工作节奏和内容对他们来说习以为常。结合上下文，这暗示了Uncharted拍摄的漫长和辛苦。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 235.6,
+      "endTime": 237.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "typical",
+        "routine",
+        "daily life"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does the idiom 'a lot of laughs' mean?",
+      "options": [
+        "A) Many jokes were told",
+        "B) It was a very enjoyable and fun time",
+        "C) People were laughing loudly",
+        "D) There were many comedians on set"
+      ],
+      "answer": "B",
+      "explanation": "'A lot of laughs'是英语习语，意思是'非常有趣/愉快的时光'。它不仅指实际的欢笑，更表达整体的愉快氛围。视频中'fun'和'laughs'连用强调工作的乐趣。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 237.6,
+      "endTime": 239.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "laughs",
+        "fun",
+        "enjoyable"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Imagine you are ending a vlog about your daily life. How would you sign off in English?",
+      "options": [],
+      "answer": "open",
+      "explanation": "参考视频结尾'I hope you enjoy the film'的收尾方式。学生需要学习如何用自然的方式结束vlog。",
+      "referenceAnswer": "示例：'And that's it for today's vlog! I hope you enjoyed watching a day in my life. Thank you so much for joining me, and I'll see you in the next video. Don't forget to like and subscribe!'",
+      "hint": "Consider: A greeting, a summary of what viewers saw, a thank you message, and a closing remark. Use phrases like 'I hope you...', 'Thanks for watching...', 'See you next time...'",
+      "startTime": 244.2,
+      "endTime": 246.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "vlog",
+        "sign off",
+        "closing remarks"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Practice introducing yourself and your daily life in English, just like Tom Holland did at the beginning of the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "模仿视频开头Tom Holland介绍自己和工作的方式。学生练习自我介绍和描述日常生活的英语表达能力。",
+      "referenceAnswer": "示例：'Hi everyone, welcome to a day in my life! I'm [name], and I work as a [job]. Today I'm going to show you what a typical day looks like for me. I usually start my day at [time], and I'll take you through everything I do - from morning routines to evening activities. Hope you enjoy!'",
+      "hint": "Include: 1) A greeting, 2) Your name and what you do, 3) A brief preview of what viewers will see, 4) An invitation to watch",
+      "startTime": 0,
+      "endTime": 9.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "introduction",
+        "daily life",
+        "vlog"
+      ]
+    }
+  ]
+}

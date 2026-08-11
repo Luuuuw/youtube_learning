@@ -1,0 +1,417 @@
+{
+  "videoId": "PO6V4SKsTpY",
+  "generatedAt": "2026-08-11T06:28:08.173Z",
+  "cards": [
+    {
+      "id": "msoa419omdp84u",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "tenderize",
+      "back": "使变嫩 (verb, B2)",
+      "context": "It helps to **tenderize** the chicken like no other.",
+      "audioStart": 67.14,
+      "audioEnd": 69.82,
+      "word": "tenderize",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.172Z"
+    },
+    {
+      "id": "msoa419ogqrdf1",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "multifaceted",
+      "back": "多方面的 (adjective, C1)",
+      "context": "But it's also **multifaceted**.",
+      "audioStart": 66.36,
+      "audioEnd": 68.12,
+      "word": "multifaceted",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.172Z"
+    },
+    {
+      "id": "msoa419p2arr6k",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "synonymous",
+      "back": "同义的 (adjective, C1)",
+      "context": "We wanted to create something that was **synonymous** with surprise.",
+      "audioStart": 79.4,
+      "audioEnd": 82.4,
+      "word": "synonymous",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa419pfgyzy6",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "perception",
+      "back": "看法，感知 (noun, B2)",
+      "context": "Biero has definitely, definitely changed that **perception** because it does taste like the real thing.",
+      "audioStart": 94.96,
+      "audioEnd": 102.24,
+      "word": "perception",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa419plwhgbv",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "biased",
+      "back": "有偏见的 (adjective, B2)",
+      "context": "And you know, I'm **biased**, but it really is the best.",
+      "audioStart": 119.74,
+      "audioEnd": 122.44,
+      "word": "biased",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa419pkeur1a",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "minging",
+      "back": "难闻的，恶心的 (adjective, C1)",
+      "context": "It was **minging**.",
+      "audioStart": 158.12,
+      "audioEnd": 161.28,
+      "word": "minging",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa419pmc9sxy",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "audition",
+      "back": "试镜 (verb, B2)",
+      "context": "I went and **auditioned**.",
+      "audioStart": 233.24,
+      "audioEnd": 241.16,
+      "word": "audition",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa419p6yqfyd",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "nerve-wracking",
+      "back": "令人紧张的 (adjective, B2)",
+      "context": "He goes, oh, it's **nerve-wracking**.",
+      "audioStart": 371.5,
+      "audioEnd": 372.64,
+      "word": "nerve-wracking",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa419p501hvq",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "brainwashing",
+      "back": "洗脑 (noun, C1)",
+      "context": "So I've just spent my entire life kind of **brainwashing** myself to believe that when I'm nervous, I'm just really excited.",
+      "audioStart": 383.7,
+      "audioEnd": 388.94,
+      "word": "brainwashing",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa419p01i6m4",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "prolific",
+      "back": "多产的 (adjective, C1)",
+      "context": "Sam being a **prolific** chef.",
+      "audioStart": 394.22,
+      "audioEnd": 399.98,
+      "word": "prolific",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa419polsc68",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "indulgent",
+      "back": "放纵的 (adjective, C1)",
+      "context": "And then the super **indulgent** when you want to super relax and like sod it.",
+      "audioStart": 465.22,
+      "audioEnd": 470.64,
+      "word": "indulgent",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa419p9nqan7",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "teleport",
+      "back": "瞬间移动 (verb, B2)",
+      "context": "I would have the ability to **teleport** right you and I had that summer where we were on the same flight every second weekend every other weekend when we sit next to each other a little glass of champagne yeah maybe a few glasses of champagne back then yeah once i got the bottle back from the hostess then we'd sit there talking um i never told you what happened like the third or fourth time I just finished filming I sat down got on board tracksuit on glass champagne I took a sleeping tablet you came on last sat down in front of me I'm like oh s*** I'm f***ed no way you're the only person that kept me up for four hours taking this tablet and I was so s*** I was so desperate to get to sleep but I was just like because you mate you should have just told me to f*** off I wouldn't have left you alone We were having such a great chat that we're talking about this, talking about that, and then all of a sudden I was like...",
+      "audioStart": 509.54,
+      "audioEnd": 514.44,
+      "word": "teleport",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:08.173Z"
+    },
+    {
+      "id": "msoa3zad14cnyo",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We wanted to create something that would take ___ of the equation",
+      "back": "out",
+      "context": "We wanted to create something that would take out of the equation",
+      "audioStart": 71.3,
+      "audioEnd": 76.2,
+      "hint": "选项：in / out / up / on",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:05.605Z"
+    },
+    {
+      "id": "msoa3zadgpisi2",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Our brewmaster, Grant Wood, he essentially uses a ___ that, I think",
+      "back": "yeast",
+      "context": "Our brewmaster, Grant Wood, he essentially uses a yeast that, I think",
+      "audioStart": 105.8,
+      "audioEnd": 112,
+      "hint": "选项：bacteria / fungus / yeast / enzyme",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:05.605Z"
+    },
+    {
+      "id": "msoa3zaejj9m0i",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) which did not go down very well wow and so every lunchtime at school i would have ___",
+      "back": "these",
+      "context": "which did not go down very well wow and so every lunchtime at school i would have these",
+      "audioStart": 239.7,
+      "audioEnd": 245.3,
+      "hint": "选项：those / these / them / it",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:05.606Z"
+    },
+    {
+      "id": "msoa3zaewwuaym",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Yeah. I was so ___ by my now love for movies that I",
+      "back": "distracted",
+      "context": "Yeah. I was so distracted by my now love for movies that I",
+      "audioStart": 314.4,
+      "audioEnd": 320.3,
+      "hint": "选项：occupied / engaged / absorbed / distracted",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:05.606Z"
+    },
+    {
+      "id": "msoa3zaewi8bdu",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And in terms of nerves, how do you ___ those?",
+      "back": "hide",
+      "context": "And in terms of nerves, how do you hide those?",
+      "audioStart": 327,
+      "audioEnd": 330.1,
+      "hint": "选项：reveal / show / hide / express",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:05.606Z"
+    },
+    {
+      "id": "msoa3zaeihblwr",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I mean, growing up in a ___ household, Sam being a prolific chef.",
+      "back": "disciplined",
+      "context": "I mean, growing up in a disciplined household, Sam being a prolific chef.",
+      "audioStart": 394.2,
+      "audioEnd": 400,
+      "hint": "选项：structured / organized / disciplined / strict",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:05.606Z"
+    },
+    {
+      "id": "msoa3zaebnejji",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I already consider myself to be the ___ kid alive, you know.",
+      "back": "luckiest",
+      "context": "I already consider myself to be the luckiest kid alive, you know.",
+      "audioStart": 613.4,
+      "audioEnd": 616.8,
+      "hint": "选项：smartest / happiest / richest / luckiest",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:05.606Z"
+    },
+    {
+      "id": "msoa3z2234i728",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我从来不是A队的运动员。 我从来不是A队的运动员。\nYou ___ ___ ___ the A team.",
+      "back": "must / have / been",
+      "context": "You must have been the A team.",
+      "audioStart": 47.32,
+      "audioEnd": 48.179,
+      "hint": "must have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:05.306Z"
+    },
+    {
+      "id": "msoa3z22jnx1y3",
+      "videoId": "PO6V4SKsTpY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "是的。 你觉得从零开始进入那个角色难吗？\nThat must ___ ___ quite a transition, right?",
+      "back": "would / have / been",
+      "context": "That must have been quite a transition, right?",
+      "audioStart": 296.504,
+      "audioEnd": 298.043,
+      "hint": "would have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:05.306Z"
+    }
+  ]
+}

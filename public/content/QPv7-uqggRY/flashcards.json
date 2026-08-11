@@ -1,0 +1,379 @@
+{
+  "videoId": "QPv7-uqggRY",
+  "generatedAt": "2026-08-11T06:28:44.794Z",
+  "cards": [
+    {
+      "id": "msoa4tiyba5axc",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "underrate",
+      "back": "低估 (verb, B2)",
+      "context": "do you think people **underrate** you sometimes?",
+      "audioStart": 27,
+      "audioEnd": 34,
+      "word": "underrate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiyw9g9yr",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "expectation",
+      "back": "期望 (noun, B2)",
+      "context": "but the **expectations** are so high.",
+      "audioStart": 37.78,
+      "audioEnd": 40.68,
+      "word": "expectation",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiyajiucy",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "decent",
+      "back": "相当好的 (adjective, B2)",
+      "context": "If I score under 30, it's a **decent** season.",
+      "audioStart": 45.12,
+      "audioEnd": 49.28,
+      "word": "decent",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiy2f3890",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "humid",
+      "back": "潮湿的 (adjective, B1)",
+      "context": "**Humid**, beautiful, good weather, good food, good hotel, nice people.",
+      "audioStart": 59.38,
+      "audioEnd": 64.32,
+      "word": "humid",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiybtxvf7",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "recover",
+      "back": "恢复 (verb, B1)",
+      "context": "Just tell us how you've been **recovering** from the last match.",
+      "audioStart": 64.42,
+      "audioEnd": 67.24,
+      "word": "recover",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiygxzv3h",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "quarterfinal",
+      "back": "四分之一决赛 (noun, B2)",
+      "context": "We're actually in the quarter finals, top eight in the world cup.",
+      "audioStart": 72.62,
+      "audioEnd": 77.56,
+      "word": "quarterfinal",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiyg1ys3p",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "advantage",
+      "back": "优势 (noun, B1)",
+      "context": "Does anyone have an **advantage**?",
+      "audioStart": 95.38,
+      "audioEnd": 97.5,
+      "word": "advantage",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiytruvj9",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "weird",
+      "back": "奇怪的 (adjective, B1)",
+      "context": "which is also **weird** because when we're in the national camp we are with each other every single day",
+      "audioStart": 103.22,
+      "audioEnd": 107.24,
+      "word": "weird",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiy81a0yr",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "highlight",
+      "back": "亮点 (noun, B2)",
+      "context": "**Highlight** of the World Cup?",
+      "audioStart": 135.1,
+      "audioEnd": 136.52,
+      "word": "highlight",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiycpiaov",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "debut",
+      "back": "首秀 (noun, B2)",
+      "context": "take **Debut** in the World Cup, going through, going through again.",
+      "audioStart": 140.74,
+      "audioEnd": 146.3,
+      "word": "debut",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiye5qfhy",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "progress",
+      "back": "前进 (verb, B1)",
+      "context": "I never expected to **progress** from that round and to beat Brazil.",
+      "audioStart": 149,
+      "audioEnd": 152.62,
+      "word": "progress",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4tiyifbiji",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "crazy",
+      "back": "疯狂的 (adjective, B1)",
+      "context": "I never thought in my life it could be this **crazy**",
+      "audioStart": 194.64,
+      "audioEnd": 197.26,
+      "word": "crazy",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:44.794Z"
+    },
+    {
+      "id": "msoa4shvo76vyt",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) or also to talk I've been above I've been above so they pay one and they get ___",
+      "back": "two",
+      "context": "or also to talk I've been above I've been above so they pay one and they get two",
+      "audioStart": 1.8,
+      "audioEnd": 6.2,
+      "hint": "选项：five / two / four / three",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:43.459Z"
+    },
+    {
+      "id": "msoa4shve6wdls",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I expect England to win and us to go ___.",
+      "back": "out",
+      "context": "I expect England to win and us to go out.",
+      "audioStart": 226.6,
+      "audioEnd": 230.9,
+      "hint": "选项：in / away / home / out",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:43.459Z"
+    },
+    {
+      "id": "msoa4shvg4gboa",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) That's okay. I need to ___ him, or else everybody says, you're the best, you're the best. You need to put objective.",
+      "back": "trigger",
+      "context": "That's okay. I need to trigger him, or else everybody says, you're the best, you're the best. You need to put objective.",
+      "audioStart": 343.4,
+      "audioEnd": 350,
+      "hint": "选项：help / avoid / stop / trigger",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:43.459Z"
+    },
+    {
+      "id": "msoa4shvatodao",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) That's the way we work. That's not ___ for Scandinavia.",
+      "back": "normal",
+      "context": "That's the way we work. That's not normal for Scandinavia.",
+      "audioStart": 453.4,
+      "audioEnd": 460,
+      "hint": "选项：typical / normal / common / usual",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:43.459Z"
+    },
+    {
+      "id": "msoa4shvistmdu",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) think it's such a big country and but the best has been like the ___ names oh",
+      "back": "bigger",
+      "context": "think it's such a big country and but the best has been like the bigger names oh",
+      "audioStart": 655,
+      "audioEnd": 662.7,
+      "hint": "选项：older / newer / bigger / smaller",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:43.459Z"
+    },
+    {
+      "id": "msoa4sgwahxkwg",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "别提了。英格兰。 我本来是可以为英格兰出战的。\n___ ___ ___ for England and of course it's special that I'm playing there as I've got so",
+      "back": "could / have / played",
+      "context": "could have played for England and of course it's special that I'm playing there as I've got so",
+      "audioStart": 84.12,
+      "audioEnd": 87.62,
+      "hint": "could have played",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:43.424Z"
+    },
+    {
+      "id": "msoa4sgwck274r",
+      "videoId": "QPv7-uqggRY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我这赛季联赛进了多少个？27个。 如果进球少于30个，这赛季就算不错了。\n___ I ___ ___ 30, it's a decent season.",
+      "back": "if / score / under",
+      "context": "If I score under 30, it's a decent season.",
+      "audioStart": 45.119,
+      "audioEnd": 49.28,
+      "hint": "if I score under",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:43.424Z"
+    }
+  ]
+}

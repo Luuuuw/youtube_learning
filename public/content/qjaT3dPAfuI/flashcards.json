@@ -1,0 +1,455 @@
+{
+  "videoId": "qjaT3dPAfuI",
+  "generatedAt": "2026-08-11T06:28:38.179Z",
+  "cards": [
+    {
+      "id": "msoa4of666jdl0",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "cruise",
+      "back": "巡航；漫游 (verb, B1)",
+      "context": "This is full-time **cruise** That's what it feels like to be Noel Trollimo Cruise maxing.",
+      "audioStart": 433.74,
+      "audioEnd": 441.6,
+      "word": "cruise",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.178Z"
+    },
+    {
+      "id": "msoa4of65psugi",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "script",
+      "back": "编写；为…写脚本 (verb, B2)",
+      "context": "Genuinely like what a day you probably can't **script** a better birthday.",
+      "audioStart": 430.28,
+      "audioEnd": 433.74,
+      "word": "script",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.178Z"
+    },
+    {
+      "id": "msoa4of6tq3yz1",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "upgrade",
+      "back": "升级；提升 (noun, B1)",
+      "context": "It's a bit of an **upgrade**.",
+      "audioStart": 252.19,
+      "audioEnd": 253.25,
+      "word": "upgrade",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.178Z"
+    },
+    {
+      "id": "msoa4of6sj9gf0",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dialed",
+      "back": "专注的；投入的 (adjective, B2)",
+      "context": "all very **dialed** in in business",
+      "audioStart": 661.25,
+      "audioEnd": 667.83,
+      "word": "dialed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.178Z"
+    },
+    {
+      "id": "msoa4of62kozwi",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "appellation",
+      "back": "名称；称号 (noun, C1)",
+      "context": "It's a French **appellation**.",
+      "audioStart": 616.87,
+      "audioEnd": 618.21,
+      "word": "appellation",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.178Z"
+    },
+    {
+      "id": "msoa4of6sf32vy",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "scale",
+      "back": "扩大；扩展 (verb, B2)",
+      "context": "trying to **scale** it up to six figure months",
+      "audioStart": 629.61,
+      "audioEnd": 632.17,
+      "word": "scale",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.178Z"
+    },
+    {
+      "id": "msoa4of6geojju",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "squad",
+      "back": "小队；团队 (noun, B1)",
+      "context": "that's why I'm with the **squad**.",
+      "audioStart": 631.47,
+      "audioEnd": 637.23,
+      "word": "squad",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.178Z"
+    },
+    {
+      "id": "msoa4of62h65ha",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "crash",
+      "back": "崩溃；垮掉 (verb, B1)",
+      "context": "now we're **crashing** out because it's 10pm",
+      "audioStart": 118.16,
+      "audioEnd": 121.26,
+      "word": "crash",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.178Z"
+    },
+    {
+      "id": "msoa4of7nkvidk",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "perspective",
+      "back": "视角；观点 (noun, B2)",
+      "context": "it's all a **perspective** thing right",
+      "audioStart": 127.84,
+      "audioEnd": 129.9,
+      "word": "perspective",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.179Z"
+    },
+    {
+      "id": "msoa4of7d28nqw",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "grocery",
+      "back": "食品杂货 (noun, B1)",
+      "context": "Now we're gonna go get some **groceries**",
+      "audioStart": 230.21,
+      "audioEnd": 234.25,
+      "word": "grocery",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.179Z"
+    },
+    {
+      "id": "msoa4of7q4cszw",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "troll",
+      "back": "钓鱼；拖钓 (verb, C1)",
+      "context": "otherwise you're **trolling**.",
+      "audioStart": 174.62,
+      "audioEnd": 178.72,
+      "word": "troll",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.179Z"
+    },
+    {
+      "id": "msoa4of7ne3wdw",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "villa",
+      "back": "别墅 (noun, B1)",
+      "context": "This is a crazy **villa**",
+      "audioStart": 373.43,
+      "audioEnd": 377.07,
+      "word": "villa",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:38.179Z"
+    },
+    {
+      "id": "msoa4nsbrishk0",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) like the most peaceful place We've been getting some stuff done but it's been good to ___",
+      "back": "peaceful",
+      "context": "like the most peaceful place We've been getting some stuff done but it's been good to",
+      "audioStart": 550.4,
+      "audioEnd": 554.1,
+      "hint": "选项：serene / calm / quiet / peaceful",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:37.355Z"
+    },
+    {
+      "id": "msoa4nsbm8bkdw",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We're running a founder trip, so we've just flown out, well there's like 10 of us for the trip. So it should be pretty ___",
+      "back": "cool",
+      "context": "We're running a founder trip, so we've just flown out, well there's like 10 of us for the trip. So it should be pretty cool.",
+      "audioStart": 61.3,
+      "audioEnd": 67.5,
+      "hint": "选项：fun / nice / great / cool",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:37.355Z"
+    },
+    {
+      "id": "msoa4nsb7bnrmg",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) just said but no it's been awesome finn and noel have absolutely ___ it out of the park",
+      "back": "smashed",
+      "context": "just said but no it's been awesome finn and noel have absolutely smashed it out of the park",
+      "audioStart": 667.8,
+      "audioEnd": 672.3,
+      "hint": "选项：threw / knocked / smashed / hit",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:37.355Z"
+    },
+    {
+      "id": "msoa4nsbwuehpd",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Trying on hats for our boat date tomorrow. So, what do we say? Oh, it's a ___",
+      "back": "Zizi",
+      "context": "Trying on hats for our boat date tomorrow. So, what do we say? Oh, it's a Zizi.",
+      "audioStart": 204.7,
+      "audioEnd": 211,
+      "hint": "选项：Zizi / hat / cap / beanie",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:37.355Z"
+    },
+    {
+      "id": "msoa4nsbxty62s",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) salad with feta and apple and tomatoes and ___",
+      "back": "rucola",
+      "context": "salad with feta and apple and tomatoes and rucola",
+      "audioStart": 697.9,
+      "audioEnd": 704.7,
+      "hint": "选项：spinach / cabbage / lettuce / rucola",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:37.355Z"
+    },
+    {
+      "id": "msoa4nsbj2khpw",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I got the golf cart. I'm gonna go pick up the chef. We got private dinner. That's true. Let's ___ it.",
+      "back": "run",
+      "context": "I got the golf cart. I'm gonna go pick up the chef. We got private dinner. That's true. Let's run it.",
+      "audioStart": 304.3,
+      "audioEnd": 310.1,
+      "hint": "选项：do / try / run / make",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:37.355Z"
+    },
+    {
+      "id": "msoa4nsbjrfu5e",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This is our second, no, third? No, actually, Finn, how many times have we been in ___?",
+      "back": "Italy",
+      "context": "This is our second, no, third? No, actually, Finn, how many times have we been in Italy?",
+      "audioStart": 32.5,
+      "audioEnd": 38,
+      "hint": "选项：France / Rome / Italy / Europe",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:37.355Z"
+    },
+    {
+      "id": "msoa4nsb5wauzy",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) My name is ___",
+      "back": "Laurent",
+      "context": "My name is Laurent.",
+      "audioStart": 603,
+      "audioEnd": 606,
+      "hint": "选项：Lauren / Loren / Laurent / Lawrence",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:37.355Z"
+    },
+    {
+      "id": "msoa4mssw1x12o",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我现在真没想法，但总会有的。 ——都买回来了，就是不知道厨房东西放哪。\nAnd ___ I ___ knew where all the stuff in the kitchen was That would be amazing",
+      "back": "if / only / had",
+      "context": "And if I only knew where all the stuff in the kitchen was That would be amazing",
+      "audioStart": 501.797,
+      "audioEnd": 504.177,
+      "hint": "if only had",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:36.076Z"
+    },
+    {
+      "id": "msoa4msswc5mdv",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "口气可真不小啊。 口气可真不小啊。\nLast year I ___ ___ ___ asleep by probably 9, 9.30pm.",
+      "back": "would / have / been",
+      "context": "Last year I would have been asleep by probably 9, 9.30pm.",
+      "audioStart": 247.269,
+      "audioEnd": 251.248,
+      "hint": "would have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:36.076Z"
+    },
+    {
+      "id": "msoa4mstx4l80z",
+      "videoId": "qjaT3dPAfuI",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "特别是像 Finn 说的，加尔达湖比科莫湖更赞。 说真的，这景色无敌，这地方也无可挑剔。\nI mean, ___'t ___ this view, can't beat this place as well.",
+      "back": "can / beat",
+      "context": "I mean, can't beat this view, can't beat this place as well.",
+      "audioStart": 640.986,
+      "audioEnd": 643.667,
+      "hint": "can't beat",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:36.077Z"
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+import { AI_MODELS } from '@/lib/ai-models';
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
@@ -5,7 +6,7 @@ import authSessions from '@/lib/auth-sessions';
 import { revalidatePath } from 'next/cache';
 
 const CONTENT_DIR = path.join(process.cwd(), 'public', 'content');
-const MINIMAX_API_URL = 'https://api.minimaxi.com/v1/text/chatcompletion_v2';
+const MINIMAX_API_URL = AI_MODELS.minimax_chat.endpoint;
 
 const VALID_VIDEO_ID = /^[a-zA-Z0-9_-]+$/;
 
@@ -87,7 +88,11 @@ export async function POST(req: NextRequest) {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
+<<<<<<< Updated upstream
           model: 'MiniMax-M2.5',
+=======
+          model: AI_MODELS.minimax_chat.id,
+>>>>>>> Stashed changes
           messages: [
             { role: 'system', content: SYSTEM_PROMPT },
             { role: 'user', content: userPrompt },

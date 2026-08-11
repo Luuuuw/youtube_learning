@@ -1,0 +1,592 @@
+{
+  "videoId": "i28FwwwFiHQ",
+  "title": "i28FwwwFiHQ",
+  "generatedAt": "2026-08-10T16:37:39.778Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 8,
+    "medium": 11,
+    "hard": 6,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "At 74.0s, the speaker mentions 'Coconut water.' What is this in the context of the video?",
+      "options": [
+        "A) A type of beverage ingredient",
+        "B) A cooking technique",
+        "C) A brand name",
+        "D) A kitchen tool"
+      ],
+      "answer": "A",
+      "explanation": "在视频74秒处，说话者提到了'Coconut water'（椰子水），结合前文他们正在用菠萝汁、椰子奶油和冰块制作饮品来看，椰子水是制作饮品的成分之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 30.3,
+      "endTime": 35.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "coconut",
+        "water",
+        "ingredient",
+        "beverage"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the speaker mean by saying 'It's creamy' at 77.1s?",
+      "options": [
+        "A) The food is dry and rough",
+        "B) The drink has a smooth, rich texture",
+        "C) The food is too salty",
+        "D) The drink is very cold"
+      ],
+      "answer": "B",
+      "explanation": "'Creamy'（奶油般的、顺滑的）形容饮品或食物拥有浓郁、柔滑的质地。根据前文他们正在制作含有椰子奶油的饮品，'creamy'描述的是饮品丝滑浓郁的口感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 67,
+      "endTime": 78.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "creamy",
+        "texture",
+        "smooth",
+        "rich"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "At 90.3s, the speaker says 'I just order food all the time.' What does the speaker imply?",
+      "options": [
+        "A) They love to cook at home",
+        "B) They rarely cook and prefer to order takeout",
+        "C) They are a professional chef",
+        "D) They don't like food"
+      ],
+      "answer": "B",
+      "explanation": "'I just order food all the time'意为'我一直都点外卖'，暗示说话者很少自己做饭，喜欢叫外卖。结合前文'There's no worst cook'（没有比……更差的厨师了）的语境，这表明说话者自嘲不擅长烹饪。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 82.1,
+      "endTime": 93.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "order",
+        "takeout",
+        "cook",
+        "frequently"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'Go for it' mean at 57.9s?",
+      "options": [
+        "A) Stop doing it",
+        "B) Encourage someone to do something",
+        "C) Leave the place",
+        "D) Forget about it"
+      ],
+      "answer": "B",
+      "explanation": "'Go for it'是一个常用口语表达，意为'去做吧！/加油！/尽管尝试！'，用于鼓励某人去做某事。这里说话者是在鼓励对方去尝试（混合饮品等）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 57.9,
+      "endTime": 62.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "encourage",
+        "go for it",
+        "attempt",
+        "try"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'mime' mean in 'We're gonna mime our deepest, darkest secret' at 161.7s?",
+      "options": [
+        "A) To speak out loud",
+        "B) To write down",
+        "C) To act out without speaking",
+        "D) To whisper quietly"
+      ],
+      "answer": "C",
+      "explanation": "'Mime'（拟演、默演）意为用动作和表情表演但不使用语言或声音。这里说话者提议用肢体动作来表现他们内心最深的秘密，是一种猜测游戏（charades猜字游戏）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 161.7,
+      "endTime": 165.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "mime",
+        "act out",
+        "charades",
+        "gesture"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'soupy' mean in 'We want to make it a little soupy' at 351.3s?",
+      "options": [
+        "A) Very dry and hard",
+        "B) Having a liquid, broth-like consistency",
+        "C) Extremely hot in temperature",
+        "D) Sweet in taste"
+      ],
+      "answer": "B",
+      "explanation": "'Soupy'（像汤一样的）形容食物或混合物具有汤一样的液体状质地。这里说话者希望把食物做得稍微带点汤汁，不要太干。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 348.4,
+      "endTime": 353.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "soupy",
+        "liquid",
+        "consistency",
+        "broth"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'cheesy' mean in 'I love it cheesy' at 511.3s?",
+      "options": [
+        "A) Tasteless and boring",
+        "B) Very expensive",
+        "C) Containing or flavored with cheese",
+        "D) Overly sentimental"
+      ],
+      "answer": "C",
+      "explanation": "在食物语境下，'cheesy'意为'含有奶酪的/有奶酪风味的'。说话者表示自己喜欢吃带奶酪的食物。注意：'cheesy'在非食物语境下有'俗气/煽情'的意思，但这里指食物的味道。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 511.3,
+      "endTime": 512.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cheesy",
+        "cheese",
+        "flavor",
+        "taste"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "At 472.9s, the speaker asks 'Wait, you put soy sauce in?' What is the speaker's reaction?",
+      "options": [
+        "A) Very angry and upset",
+        "B) Surprised and curious",
+        "C) Bored and uninterested",
+        "D) Confused about the language"
+      ],
+      "answer": "B",
+      "explanation": "'Wait'（等一下）和问号表达了说话者对在食物中加入酱油感到惊讶和好奇。这个反应是没想到对方会加酱油，所以想确认一下。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 467.2,
+      "endTime": 477.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "surprise",
+        "curious",
+        "soy sauce",
+        "wait"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "In 'such a science' at 412.9s, what does the speaker mean?",
+      "options": [
+        "A) It is a school subject",
+        "B) It is a precise and complicated process",
+        "C) It is a type of experiment",
+        "D) It is a scientific theory"
+      ],
+      "answer": "B",
+      "explanation": "'Such a science'（像科学一样）在口语中用来形容某事非常复杂、精确或需要技巧。说话者可能是在感叹做饭或某项活动像做实验一样讲究。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 412.9,
+      "endTime": 414.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "science",
+        "precise",
+        "complicated",
+        "process"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'practice' mean in 'practice my perfectionism' at 403.8s?",
+      "options": [
+        "A) A doctor's office",
+        "B) To exercise or develop a skill/quality",
+        "C) A musical performance",
+        "D) A legal case"
+      ],
+      "answer": "B",
+      "explanation": "在'practice my perfectionism'中，'practice'是动词，意为'练习、锻炼、培养'。说话者在说如果想要锻炼/培养自己的完美主义特质。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 403.8,
+      "endTime": 408.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "practice",
+        "perfectionism",
+        "develop",
+        "cultivate"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "At 373.8s, the speaker says 'We used to do like 12 hour days.' What does this imply?",
+      "options": [
+        "A) They work in time management",
+        "B) They used to work very long hours in the past",
+        "C) They sleep 12 hours a day",
+        "D) They exercise 12 hours daily"
+      ],
+      "answer": "B",
+      "explanation": "'12 hour days'指每天工作12小时。'Used to'表示过去常常做某事（但现在不做了）。说话者在回忆过去他们每天工作很长时间的辛苦日子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 373.8,
+      "endTime": 377.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "12 hours",
+        "used to",
+        "work",
+        "long days"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'developed and mature' imply in 'it's all a bit more developed and mature' at 335.3s?",
+      "options": [
+        "A) More childish and silly",
+        "B) More refined and grown-up compared to before",
+        "C) Ripe like a fruit",
+        "D) About age only"
+      ],
+      "answer": "B",
+      "explanation": "'Developed and mature'（更加成熟和完善）形容某物比以前更精致、更完善、更成熟。说话者可能在说他们的新作品（比如专辑）比之前的作品更成熟。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 335.3,
+      "endTime": 349.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "developed",
+        "mature",
+        "refined",
+        "grown-up"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is 'Beautiful' (67.0s) most likely referring to?",
+      "options": [
+        "A) A person in the room",
+        "B) The completed drink or its appearance",
+        "C) The weather outside",
+        "D) A song being played"
+      ],
+      "answer": "B",
+      "explanation": "结合前文他们在制作饮品（菠萝汁、椰子奶油等），'Beautiful'（太美了）是在赞美制作完成的饮品外观或视觉效果，是对成果的赞叹。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 60.8,
+      "endTime": 78.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "beautiful",
+        "compliment",
+        "appearance",
+        "result"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "At 840.1s, the speaker says 'Stream our new EP, Wild, that comes out August 14th.' What are they promoting?",
+      "options": [
+        "A) A new movie",
+        "B) A new music album/EP titled 'Wild'",
+        "C) A new restaurant",
+        "D) A new TV show"
+      ],
+      "answer": "B",
+      "explanation": "'EP'是'Extended Play'的缩写，是一种音乐发行形式，比单曲多但比正式专辑短。'Stream'在音乐语境下意为'在线收听/流媒体播放'。他们在推广将于8月14日发布的新EP《Wild》。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 840.1,
+      "endTime": 844.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "EP",
+        "stream",
+        "album",
+        "release"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'Cheers!' (231.7s) typically express in this context?",
+      "options": [
+        "A) A complaint",
+        "B) A toast before drinking",
+        "C) Goodbye",
+        "D) Congratulations on a wedding"
+      ],
+      "answer": "B",
+      "explanation": "'Cheers!'在英式英语中既表示'干杯！（祝酒）'，也表示'谢谢/再见'。结合视频中他们在喝酒的语境，这里最可能是祝酒用语——在碰杯饮酒前说'干杯！'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 226.8,
+      "endTime": 243.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cheers",
+        "toast",
+        "drink",
+        "celebration"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'I love it cheesy' (511.3s) tell us about the speaker's food preference?",
+      "options": [
+        "A) They dislike cheese",
+        "B) They prefer food with a lot of cheese",
+        "C) They are allergic to cheese",
+        "D) They think cheese is too expensive"
+      ],
+      "answer": "B",
+      "explanation": "'I love it cheesy'表明说话者喜欢吃含大量奶酪的食物。这反映了他们的口味偏好——喜欢浓郁的奶酪风味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 430.5,
+      "endTime": 512.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cheese",
+        "preference",
+        "flavor",
+        "love"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'I'm so glad that we all like spicy food' (430.5s) suggest?",
+      "options": [
+        "A) They are all eating together and have similar taste preferences",
+        "B) They are planning a trip to a hot country",
+        "C) They don't like spicy food",
+        "D) They are arguing about food"
+      ],
+      "answer": "A",
+      "explanation": "这句话表明说话者很高兴大家（这群人）都喜欢吃辣的食物，说明他们有共同的口味偏好，结合之前'I like it really spicy'（我很喜欢辣），说明他们正在一起享用辣味食物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 424.7,
+      "endTime": 432.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spicy",
+        "taste",
+        "preference",
+        "together"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'Pink for Pinky Up' (197.1s) most likely refer to?",
+      "options": [
+        "A) A type of flower",
+        "B) A specific drink or drink customization choice",
+        "C) A dance move",
+        "D) A clothing color"
+      ],
+      "answer": "B",
+      "explanation": "在制作饮品的语境下，'Pink'（粉色）很可能是在选择饮品的颜色/口味，'Pinky Up'可能是一个俚语或品牌名。结合后文'I'm going to do blue'（我要蓝色），他们在选择不同的饮品颜色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 197.1,
+      "endTime": 202.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pink",
+        "color",
+        "drink",
+        "choice"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "In 'I will start on that' (349.2s), what does 'start on' mean?",
+      "options": [
+        "A) To finish something",
+        "B) To begin working on something",
+        "C) To stop doing something",
+        "D) To complain about something"
+      ],
+      "answer": "B",
+      "explanation": "'Start on'是一个动词短语，意为'开始做（某项工作或任务）'。说话者表示自己将开始处理某项任务（可能指开始做某道菜或处理食材）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 349.2,
+      "endTime": 353.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "start on",
+        "begin",
+        "task",
+        "work"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'Genuinely, genuinely do love our icons so much' (741.6s) express?",
+      "options": [
+        "A) Casual, weak affection",
+        "B) Strong, sincere admiration",
+        "C) Sarcastic mockery",
+        "D) Indifference"
+      ],
+      "answer": "B",
+      "explanation": "'Genuinely'（真诚地、真正地）被重复两次以加强语气，强调感情的真实性。'Icons'（偶像、标志性人物）指的是他们非常敬仰或喜爱的人物/前辈。整句话表达了真挚而强烈的喜爱。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 741.6,
+      "endTime": 746.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "genuinely",
+        "icons",
+        "love",
+        "sincere"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Based on the video around 30.3s-35.8s, describe how you would make a drink using pineapple juice, coconut cream, and ice. What garnishes would you add?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是开放性口语题，让学习者用英语复述或描述饮品制作过程，练习使用食材词汇和制作流程相关表达。",
+      "referenceAnswer": "You can say: 'I would take some pineapple juice, pour it into a glass, then add coconut cream for a creamy texture. Next, I would add some ice to make it cold and refreshing. To garnish, I might add a slice of pineapple on the rim of the glass, a cherry, or a small umbrella. Finally, I would give it a little mix before serving.'",
+      "hint": "Try to use words like: pour, add, mix, garnish, refreshing, creamy",
+      "startTime": 30.3,
+      "endTime": 49.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pineapple",
+        "coconut cream",
+        "garnish",
+        "mix",
+        "ice"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speakers mention loving spicy food and cheesy food. How would you describe your own food preferences in English?",
+      "options": [],
+      "answer": "open",
+      "explanation": "练习用英语表达个人口味偏好，灵活运用形容词如spicy, sweet, salty, sour, cheesy, creamy等。",
+      "referenceAnswer": "Examples: 'I love spicy food, especially Thai curries and Sichuan dishes. I also enjoy cheesy food like pizza and mac and cheese. I am not a big fan of super sweet desserts. I prefer savory snacks over sweet ones. My favorite flavor profile is something with a little bit of heat and lots of umami.'",
+      "hint": "Use adjectives like: spicy, sweet, salty, sour, cheesy, creamy, savory",
+      "startTime": 424.7,
+      "endTime": 512.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "spicy",
+        "cheesy",
+        "preference",
+        "taste"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The speaker says 'We used to do like 12 hour days' (373.8s). Talk about a time you worked very hard on something for many hours. How did you feel?",
+      "options": [],
+      "answer": "open",
+      "explanation": "训练用英语谈论过去的经历，练习使用'used to'结构以及表达情感和时间的词汇。",
+      "referenceAnswer": "You can say: 'Last year, I used to work 12 hour days preparing for my final exams. I felt exhausted but also motivated. I would wake up early and study until late at night. Even though it was tough, I learned a lot and became more disciplined. Now I can manage my time better because of that experience.'",
+      "hint": "Use: used to, exhausted, motivated, disciplined, long hours",
+      "startTime": 373.8,
+      "endTime": 377.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "used to",
+        "long hours",
+        "work",
+        "tired"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Imagine you have to 'mime' (act out without speaking) your deepest, darkest secret in a game with friends. Describe how you would act it out.",
+      "options": [],
+      "answer": "open",
+      "explanation": "练习创造性口语表达，训练描述动作和情境的能力。",
+      "referenceAnswer": "Sample answer: 'If I had to mime a secret, I would first look around nervously as if making sure no one is watching. Then I might pretend to open a diary and read it. I would cover my mouth in shock, then hide the diary under my pillow. Finally, I would shrug my shoulders and look embarrassed when my friends guess what I did.'",
+      "hint": "Use action words: pretend, act out, look nervous, cover, hide",
+      "startTime": 161.7,
+      "endTime": 165.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "mime",
+        "act out",
+        "secret",
+        "gesture"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "The speaker talks about practicing perfectionism (403.8s). How do you practice and improve a skill you care about? Describe your process in English.",
+      "options": [],
+      "answer": "open",
+      "explanation": "练习用英语谈论个人成长和技能提升，训练使用与练习、努力相关的词汇和句型。",
+      "referenceAnswer": "Sample: 'To practice my piano skills, I set aside two hours every day. First, I warm up with scales, then I work on difficult passages slowly. I record myself to find mistakes. My teacher once told me that practicing perfectionism means paying attention to every small detail. So now I focus on dynamics, tempo, and even the way I sit. It is hard but very rewarding.'",
+      "hint": "Use: practice, improve, focus, detail, perfectionism, develop",
+      "startTime": 403.8,
+      "endTime": 414.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "practice",
+        "perfectionism",
+        "improve",
+        "develop"
+      ]
+    }
+  ]
+}

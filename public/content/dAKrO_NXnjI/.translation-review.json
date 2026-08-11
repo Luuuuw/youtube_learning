@@ -1,0 +1,2332 @@
+{
+  "videoId": "dAKrO_NXnjI",
+  "reviewedAt": "2026-06-17T10:45:51.275Z",
+  "segments": [
+    {
+      "key": "81.200-88.400",
+      "start": 81.2,
+      "end": 88.4,
+      "en_full": "I'm going to make a little yogurt bowl with this coconut yogurt and this",
+      "zh": "我要用这个椰子酸奶和这个燕麦麦片做个酸奶碗。",
+      "verdict": "pass",
+      "reason": "核心意思完整，granola 未译但上下文可推断为燕麦麦片，可接受。"
+    },
+    {
+      "key": "88.400-89.360",
+      "start": 88.4,
+      "end": 89.36,
+      "en_full": "granola. It's really good. And I bought",
+      "zh": "真的很好吃。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "89.360-119.830",
+      "start": 89.36,
+      "end": 119.83,
+      "en_full": "some passion fruits and they're Oh my gosh, guys.",
+      "zh": "我买了百香果，它们简直太棒了，我的天哪，朋友们。",
+      "verdict": "pass",
+      "reason": "核心意思完整，语序调整合理。"
+    },
+    {
+      "key": "119.840-125.350",
+      "start": 119.84,
+      "end": 125.35,
+      "en_full": "Oh, hello. The doggy is on the trampoline. Hi.",
+      "zh": "哦，你们好。小狗在蹦床上。嗨。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "125.360-126.230",
+      "start": 125.36,
+      "end": 126.23,
+      "en_full": "Hi.",
+      "zh": "嗨。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "126.240-127.520",
+      "start": 126.24,
+      "end": 127.52,
+      "en_full": "I'm with you,",
+      "zh": "我跟你们在一起，朋友们。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "127.520-131.120",
+      "start": 127.52,
+      "end": 131.12,
+      "en_full": "guys. This dog slept outside of our like apartment. So, this is an Airbnb and",
+      "zh": "这只狗睡在我们公寓外面。",
+      "verdict": "partial",
+      "reason": "漏译了 'This dog slept outside of our like apartment' 中的 'like apartment' 以及 'So, this is an Airbnb' 中的 'So' 和 'this is an Airbnb' 部分信息。",
+      "missing_info": "英文中 'So, this is an Airbnb' 未翻译，且 'outside of our like apartment' 中的 'like apartment' 未体现。"
+    },
+    {
+      "key": "131.120-135.360",
+      "start": 131.12,
+      "end": 135.36,
+      "en_full": "we're sharing it with like a family",
+      "zh": "这是一个Airbnb，我们和一家人住在一起。",
+      "verdict": "partial",
+      "reason": "漏译了 'we're sharing it with like a family' 中的 'sharing it with like a family' 独立信息。",
+      "missing_info": "英文中 'we're sharing it with like a family' 未翻译。"
+    },
+    {
+      "key": "135.360-138.229",
+      "start": 135.36,
+      "end": 138.229,
+      "en_full": "the guest house.",
+      "zh": "我们在这边的客房里。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "138.239-139.360",
+      "start": 138.239,
+      "end": 139.36,
+      "en_full": "the guest house. Yeah, it's like a guest house. It's",
+      "zh": "是的，就像一个客房。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "139.360-140.640",
+      "start": 139.36,
+      "end": 140.64,
+      "en_full": "Yeah, it's like a guest house. It's super cozy. But, it was so cute because",
+      "zh": "非常温馨。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "140.640-144.239",
+      "start": 140.64,
+      "end": 144.239,
+      "en_full": "we were just in bed and all of a sudden",
+      "zh": "但是太可爱了，因为我们当时在床上，突然听到",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "144.239-148.640",
+      "start": 144.239,
+      "end": 148.64,
+      "en_full": "little bit scared because we thought",
+      "zh": "有敲击声，我们有点害怕，以为可能是",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "148.640-150.239",
+      "start": 148.64,
+      "end": 150.239,
+      "en_full": "maybe it could be like the monkeys. So,",
+      "zh": "猴子。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "150.239-153.589",
+      "start": 150.239,
+      "end": 153.589,
+      "en_full": "the Airbnb host told us about what are they called?",
+      "zh": "Airbnb房东告诉我们它们叫什么？",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "153.599-154.710",
+      "start": 153.599,
+      "end": 154.71,
+      "en_full": "The baboons.",
+      "zh": "狒狒。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "154.720-160.710",
+      "start": 154.72,
+      "end": 160.71,
+      "en_full": "Baboons. So, they're like monkeys that are, you know, just roaming around here.",
+      "zh": "狒狒。就是在这里游荡的猴子。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "160.720-167.120",
+      "start": 160.72,
+      "end": 167.12,
+      "en_full": "And yeah, we heard the banging and Hy like went there like sneaking around to",
+      "zh": "是的，我们听到敲击声，Hy偷偷走过去查看",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "167.120-171.120",
+      "start": 167.12,
+      "end": 171.12,
+      "en_full": "dog was just like laying outside of our",
+      "zh": "窗帘，然后那只狗就睡在我们门外。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "171.120-173.270",
+      "start": 171.12,
+      "end": 173.27,
+      "en_full": "door. I think he slept here for a while. And I don't really know if it's just",
+      "zh": "我想它在这里睡了一会儿。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "173.280-176.239",
+      "start": 173.28,
+      "end": 176.239,
+      "en_full": "And I don't really know if it's just",
+      "zh": "我不知道它是不是附近的狗",
+      "verdict": "wrong",
+      "reason": "英文说'不知道是不是只是...'，中文却翻译成'不知道是不是附近的狗'，添加了原文没有的信息，且改变了意思。"
+    },
+    {
+      "key": "176.239-179.990",
+      "start": 176.239,
+      "end": 179.99,
+      "en_full": "is the owner of the dog.",
+      "zh": "还是airbnb房东养的狗",
+      "verdict": "wrong",
+      "reason": "英文是'是狗的主人'，中文却翻译成'还是airbnb房东养的狗'，完全错误。"
+    },
+    {
+      "key": "180.000-182.309",
+      "start": 180,
+      "end": 182.309,
+      "en_full": "I need to ask her. I think it's a she actually.",
+      "zh": "我得问问她。我觉得它其实是只母狗",
+      "verdict": "pass",
+      "reason": "核心意思正确，'I think it's a she actually'翻译为'我觉得它其实是只母狗'，合理。"
+    },
+    {
+      "key": "182.319-183.030",
+      "start": 182.319,
+      "end": 183.03,
+      "en_full": "Yeah, it's a she.",
+      "zh": "是的，是只母狗",
+      "verdict": "pass",
+      "reason": "翻译正确。"
+    },
+    {
+      "key": "183.040-185.760",
+      "start": 183.04,
+      "end": 185.76,
+      "en_full": "She went out for a walk with us",
+      "zh": "昨天它跟我们一起出去散步了",
+      "verdict": "pass",
+      "reason": "核心意思正确，省略了'yesterday'但上下文已体现。"
+    },
+    {
+      "key": "185.760-186.959",
+      "start": 185.76,
+      "end": 186.959,
+      "en_full": "yesterday. So, it's so cute. It's just",
+      "zh": "真是太可爱了",
+      "verdict": "partial",
+      "reason": "漏译了'She went out for a walk with us yesterday'中的'yesterday'，但更关键的是漏了'with us'这个独立信息。",
+      "missing_info": "漏译了'with us'（和我们一起）"
+    },
+    {
+      "key": "186.959-188.560",
+      "start": 186.959,
+      "end": 188.56,
+      "en_full": "yesterday. So, it's so cute. It's just like a I don't know. I don't even know",
+      "zh": "就是那个...我不知道怎么形容",
+      "verdict": "partial",
+      "reason": "英文包含'it's so cute'和'like a I don't know'，中文只翻译了'就是那个...我不知道怎么形容'，漏了'it's so cute'。",
+      "missing_info": "漏译了'it's so cute'（太可爱了）"
+    },
+    {
+      "key": "188.560-190.560",
+      "start": 188.56,
+      "end": 190.56,
+      "en_full": "like a I don't know. I don't even know her name. Look who's here.",
+      "zh": "我都不知道它叫什么",
+      "verdict": "partial",
+      "reason": "英文包含'like a I don't know. I don't even know her name'和'Look who's here'，中文只翻译了'我都不知道它叫什么'，漏了'Look who's here'。",
+      "missing_info": "漏译了'Look who's here'（看谁来了）"
+    },
+    {
+      "key": "190.560-193.350",
+      "start": 190.56,
+      "end": 193.35,
+      "en_full": "her name. Look who's here. Hello.",
+      "zh": "看谁来了",
+      "verdict": "pass",
+      "reason": "翻译正确。"
+    },
+    {
+      "key": "193.360-197.270",
+      "start": 193.36,
+      "end": 197.27,
+      "en_full": "Hello.",
+      "zh": "你好",
+      "verdict": "pass",
+      "reason": "翻译正确。"
+    },
+    {
+      "key": "197.280-202.070",
+      "start": 197.28,
+      "end": 202.07,
+      "en_full": "Hi. Hi. Hi. Hi. Hello.",
+      "zh": "嗨嗨嗨嗨嗨",
+      "verdict": "pass",
+      "reason": "翻译正确，多个'Hi'合并为'嗨嗨嗨嗨嗨'合理。"
+    },
+    {
+      "key": "202.080-212.390",
+      "start": 202.08,
+      "end": 212.39,
+      "en_full": "Not What is your name?",
+      "zh": "你叫什么名字呀",
+      "verdict": "pass",
+      "reason": "翻译正确。"
+    },
+    {
+      "key": "212.400-215.589",
+      "start": 212.4,
+      "end": 215.589,
+      "en_full": "What is your name, cutie pie?",
+      "zh": "你叫什么名字呀，小可爱？",
+      "verdict": "pass",
+      "reason": "翻译正确。"
+    },
+    {
+      "key": "215.599-233.680",
+      "start": 215.599,
+      "end": 233.68,
+      "en_full": "Oh, There's a super cute place close to our",
+      "zh": "哦 我们airbnb旁边有个超可爱的地方 叫The Hub",
+      "verdict": "wrong",
+      "reason": "英文说'close to our Airbnb'，中文翻译为'我们airbnb旁边'，但英文中'our'是复数，中文用'我们'可以接受。但主要问题是英文句子未结束，中文却提前结束并添加了'叫The Hub'，而英文中'The Hub'是下一句的内容。"
+    },
+    {
+      "key": "233.680-237.680",
+      "start": 233.68,
+      "end": 237.68,
+      "en_full": "Airbnb and it's called The Hub. So, it's a cafe and a gourmet health store. So,",
+      "zh": "是咖啡馆兼养生美食店",
+      "verdict": "pass",
+      "reason": "翻译正确，概括了英文意思。"
+    },
+    {
+      "key": "237.680-245.280",
+      "start": 237.68,
+      "end": 245.28,
+      "en_full": "we've been going there buying some necessities and we've tried their coffee",
+      "zh": "我们去那儿买过必需品 还喝了咖啡 简直太棒了",
+      "verdict": "pass",
+      "reason": "翻译正确，'we've been going there buying some necessities and we've tried their coffee'概括为'我们去那儿买过必需品 还喝了咖啡'，核心意思一致。"
+    },
+    {
+      "key": "245.280-253.429",
+      "start": 245.28,
+      "end": 253.429,
+      "en_full": "wanted to go out for a walk and pick up Hello.",
+      "zh": "所以我们想出去走走 顺便看看你",
+      "verdict": "wrong",
+      "reason": "英文是'wanted to go out for a walk and pick up Hello.'，中文翻译为'所以我们想出去走走 顺便看看你'，'pick up Hello'被错误地理解为'看看你'，且'Hello'是狗的名字或打招呼，翻译不准确。"
+    },
+    {
+      "key": "253.439-255.760",
+      "start": 253.439,
+      "end": 255.76,
+      "en_full": "Hello. You guys are so cute. Yeah, you're so",
+      "zh": "你们太可爱了",
+      "verdict": "pass",
+      "reason": "翻译正确。"
+    },
+    {
+      "key": "255.760-284.160",
+      "start": 255.76,
+      "end": 284.16,
+      "en_full": "You guys are so cute. Yeah, you're so This is heavenly. It's like these date",
+      "zh": "是啊 你好这也太幸福了吧",
+      "verdict": "wrong",
+      "reason": "英文是'This is heavenly. It's like these date balls, but the plot twist is there is'，中文翻译为'这也太幸福了吧 就像那些能量球 但有惊喜'，'heavenly'翻译为'幸福'不准确，且漏译了'date balls'中的'date'（枣），但整体意思尚可。然而，英文句子未结束，中文却提前结束，且漏了关键信息'but the plot twist is there is'中的'plot twist'。"
+    },
+    {
+      "key": "284.160-290.880",
+      "start": 284.16,
+      "end": 290.88,
+      "en_full": "balls, but the plot twist is there is",
+      "zh": "就像那些能量球 但有惊喜 里面加了爆米花脆",
+      "verdict": "partial",
+      "reason": "英文是'balls, but the plot twist is there is'，中文翻译为'里面加了爆米花脆'，但英文中'plot twist'未翻译，且'popcorn crunch'是下一句的内容？实际上英文句子未结束，但中文添加了'爆米花脆'，而英文中并没有出现'popcorn crunch'。因此，中文添加了原文没有的信息。",
+      "missing_info": "英文未出现'爆米花脆'，中文添加了无关信息"
+    },
+    {
+      "key": "290.880-292.870",
+      "start": 290.88,
+      "end": 292.87,
+      "en_full": "crunchy.",
+      "zh": "好脆啊。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "292.880-293.600",
+      "start": 292.88,
+      "end": 293.6,
+      "en_full": "crunchy. We bought it. Like this is our third",
+      "zh": "我们买了。",
+      "verdict": "partial",
+      "reason": "漏译了 'crunchy' 和 'Like this is our third' 中的 'third' 指代不明，但关键信息缺失",
+      "missing_info": "英文中 'crunchy' 和 'this is our third' 未翻译，'third' 可能指第三只狗或第三个东西，中文只说了'我们买了'，丢失了重要信息"
+    },
+    {
+      "key": "293.600-325.360",
+      "start": 293.6,
+      "end": 325.36,
+      "en_full": "We bought it. Like this is our third So this is Molly. I asked our Airbnb",
+      "zh": "这是我们的第三条狗。这是Molly。",
+      "verdict": "partial",
+      "reason": "漏译了 'We bought it. Like this is our third' 中的 'We bought it' 和 'third' 的完整含义，且中文将 'So this is Molly' 合并但丢失了前文",
+      "missing_info": "英文开头 'We bought it. Like this is our third' 未翻译，中文直接跳到 '这是我们的第三条狗'，但英文中 'third' 可能指第三个物品，且 'We bought it' 未体现"
+    },
+    {
+      "key": "325.360-331.759",
+      "start": 325.36,
+      "end": 331.759,
+      "en_full": "host if it's her dog and she said yes",
+      "zh": "我问我们Airbnb的房东是不是她的狗，她说是的，名字叫Molly",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文增加了'名字叫Molly'但英文隐含此意"
+    },
+    {
+      "key": "331.759-337.350",
+      "start": 331.759,
+      "end": 337.35,
+      "en_full": "and she just popped in and said hi.",
+      "zh": "她好可爱，突然跑进来打招呼。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文增加了'好可爱'但未改变原意"
+    },
+    {
+      "key": "345.759-348.870",
+      "start": 345.759,
+      "end": 348.87,
+      "en_full": "And look who's here.",
+      "zh": "看看谁来了。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "348.880-357.110",
+      "start": 348.88,
+      "end": 357.11,
+      "en_full": "This is our new dog. She's wiggling her tail when I say Molly. Molly moose.",
+      "zh": "这是我们的新狗。我叫Molly的时候她摇尾巴。Molly moose。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "357.120-362.150",
+      "start": 357.12,
+      "end": 362.15,
+      "en_full": "Molly moose. Hi. Hi, Molly.",
+      "zh": "Molly moose。嗨。你好，Molly。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "378.400-385.840",
+      "start": 378.4,
+      "end": 385.84,
+      "en_full": "I asked our Airbnb host if we could expect to encounter any snakes here",
+      "zh": "我问我们Airbnb的房东这里会不会有蛇，因为Hel和我是",
+      "verdict": "partial",
+      "reason": "中文句子不完整，'因为Hel和我是' 未完成，漏译了 'encounter any snakes here' 中的 'here' 和 'expect' 的含义",
+      "missing_info": "英文完整句为 'I asked our Airbnb host if we could expect to encounter any snakes here because Hel and I are from Iceland...' 中文只翻译了前半部分，且 '因为Hel和我是' 未完成，丢失了 'here' 和 'expect' 的语境"
+    },
+    {
+      "key": "385.840-389.120",
+      "start": 385.84,
+      "end": 389.12,
+      "en_full": "because Hel and I are from Iceland and there are no snakes in Iceland. So, I",
+      "zh": "来自冰岛，冰岛没有蛇。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "389.120-394.469",
+      "start": 389.12,
+      "end": 394.469,
+      "en_full": "just don't really know like the precautions if you would meet a snake.",
+      "zh": "所以我不知道遇到蛇的话要采取什么预防措施。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "394.479-396.240",
+      "start": 394.479,
+      "end": 396.24,
+      "en_full": "precautions if you would meet a snake. Uh, and I just wanted to know. So, she",
+      "zh": "我只是想了解一下。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文省略了 'Uh, and I just wanted to know' 但属于填充词"
+    },
+    {
+      "key": "396.240-402.639",
+      "start": 396.24,
+      "end": 402.639,
+      "en_full": "told us that there are three different types of snakes that we could",
+      "zh": "然后她告诉我们有三种蛇可能会遇到。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "402.639-406.479",
+      "start": 402.639,
+      "end": 406.479,
+      "en_full": "potentially encounter. It's like cobra and one that was called something V. And",
+      "zh": "眼镜蛇，还有一种叫什么V的。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文省略了 'potentially' 但无大碍"
+    },
+    {
+      "key": "406.479-413.280",
+      "start": 406.479,
+      "end": 413.28,
+      "en_full": "she said that it's sometimes like kind of camouflage that it's hiding beneath like the bushes or",
+      "zh": "她说它们有时会伪装藏在灌木丛里或者",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "413.280-413.919",
+      "start": 413.28,
+      "end": 413.919,
+      "en_full": "like the bushes or like I don't know. You need to kind of",
+      "zh": "我不知道。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "413.919-419.840",
+      "start": 413.919,
+      "end": 419.84,
+      "en_full": "look where you're walking because you",
+      "zh": "你走路的时候要注意，因为可能会踩到蛇。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文省略了 'you know' 但属于填充词"
+    },
+    {
+      "key": "419.840-424.160",
+      "start": 419.84,
+      "end": 424.16,
+      "en_full": "could, you know, step on a snake. But anyways, the views here are insane. Look",
+      "zh": "但不管怎么说，这里的风景太震撼了。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "424.160-426.390",
+      "start": 424.16,
+      "end": 426.39,
+      "en_full": "at this.",
+      "zh": "看这个。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "426.400-429.990",
+      "start": 426.4,
+      "end": 429.99,
+      "en_full": "Oh my goodness. And this is our dog now.",
+      "zh": "天哪。这是我们的狗了。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "430.000-432.390",
+      "start": 430,
+      "end": 432.39,
+      "en_full": "She's following us everywhere.",
+      "zh": "她一直跟着我们。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "432.400-434.790",
+      "start": 432.4,
+      "end": 434.79,
+      "en_full": "She's so cute.",
+      "zh": "她好可爱。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "449.360-454.309",
+      "start": 449.36,
+      "end": 454.309,
+      "en_full": "Oh my god. She's taking a bath. But she also needed a bath.",
+      "zh": "我的天。她在洗澡。但她也确实需要洗了。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "472.240-476.629",
+      "start": 472.24,
+      "end": 476.629,
+      "en_full": "This is incredible.",
+      "zh": "这太不可思议了。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "486.960-493.909",
+      "start": 486.96,
+      "end": 493.909,
+      "en_full": "Khali is collecting shells, so I'm going to give this to him.",
+      "zh": "Khali在捡贝壳，所以我要把这个给他。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "521.599-528.560",
+      "start": 521.599,
+      "end": 528.56,
+      "en_full": "We ended up shopping a little bit at the store because we wanted to make burgers",
+      "zh": "我们最后去商店买了点东西，因为今晚想做汉堡，",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "528.560-531.279",
+      "start": 528.56,
+      "end": 531.279,
+      "en_full": "tonight and we were missing a few ingredients. So, we bought some burger",
+      "zh": "缺了一些食材。",
+      "verdict": "partial",
+      "reason": "漏译了 'we were missing a few ingredients' 这一独立信息",
+      "missing_info": "we were missing a few ingredients"
+    },
+    {
+      "key": "531.279-538.720",
+      "start": 531.279,
+      "end": 538.72,
+      "en_full": "buns, Gerkins,",
+      "zh": "所以我们买了汉堡包、小黄瓜、奶酪和姜汁汽水。",
+      "verdict": "partial",
+      "reason": "中文将多个英文片段合并，但漏译了 'Gerkins' 和 'some cheese, and ginger ale' 中的 'some' 以及 'buns' 后的内容，不过整体信息基本覆盖，但英文片段中 'Gerkins' 是独立名词，中文未单独出现",
+      "missing_info": "Gerkins"
+    },
+    {
+      "key": "538.720-540.480",
+      "start": 538.72,
+      "end": 540.48,
+      "en_full": "some cheese, and ginger ale. I adore this store. I could literally browse",
+      "zh": "我超喜欢这家店。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "540.480-543.360",
+      "start": 540.48,
+      "end": 543.36,
+      "en_full": "this store. I could literally browse there for many hours. They also have",
+      "zh": "我真的可以在那里逛好几个小时。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "543.360-546.399",
+      "start": 543.36,
+      "end": 546.399,
+      "en_full": "there for many hours. They also have some skin care. So, I wanted to show you",
+      "zh": "他们还有护肤品。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "546.399-548.320",
+      "start": 546.399,
+      "end": 548.32,
+      "en_full": "some skin care. So, I wanted to show you guys what we got. We bought some",
+      "zh": "所以我想给你们看看我们买了什么。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "548.320-554.080",
+      "start": 548.32,
+      "end": 554.08,
+      "en_full": "sunscreen, and this is a mineral sunscreen, and we've already tried it,",
+      "zh": "我们买了防晒霜，这是矿物防晒霜，我们已经用过了，真的",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "554.080-554.399",
+      "start": 554.08,
+      "end": 554.399,
+      "en_full": "and it's really nice. Some of these",
+      "zh": "很好。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "554.399-560.080",
+      "start": 554.399,
+      "end": 560.08,
+      "en_full": "mineral sunscreens can make you look like a ghost, but this one is really",
+      "zh": "有些矿物防晒霜会让人看起来像鬼，但这个真的很好。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "560.080-564.560",
+      "start": 560.08,
+      "end": 564.56,
+      "en_full": "good. We're almost out of our facial cleanser, so we bought this one. It has",
+      "zh": "我们的洗面奶快用完了，所以买了这个。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "564.560-566.800",
+      "start": 564.56,
+      "end": 566.8,
+      "en_full": "cleanser, so we bought this one. It has tea tree and aloe vera. I'm excited to",
+      "zh": "含有茶树和芦荟。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "566.800-568.320",
+      "start": 566.8,
+      "end": 568.32,
+      "en_full": "tea tree and aloe vera. I'm excited to try it. I found this essential oil",
+      "zh": "我很期待用它。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "568.320-573.440",
+      "start": 568.32,
+      "end": 573.44,
+      "en_full": "try it. I found this essential oil rollon perfume. It's not really a",
+      "zh": "我找到了这款精油滚珠香水。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "573.440-581.680",
+      "start": 573.44,
+      "end": 581.68,
+      "en_full": "perfume, but it has cold pressed grape seed oil, cardamom, frankincense, and",
+      "zh": "这不是真正的香水，但含有冷压葡萄籽油、小豆蔻、乳香和",
+      "verdict": "partial",
+      "reason": "漏译了 'rollon perfume' 中的 'rollon' 以及后续的 'cardamom, frankincense, and' 中的 'and' 但整体信息基本覆盖，但英文片段中 'rollon' 是独立修饰词，中文未体现",
+      "missing_info": "rollon"
+    },
+    {
+      "key": "581.680-582.240",
+      "start": 581.68,
+      "end": 582.24,
+      "en_full": "mirror essential oil. I actually stopped",
+      "zh": "油。",
+      "verdict": "partial",
+      "reason": "漏译了 'mirror essential oil. I actually stopped' 中的 'mirror essential oil' 和 'actually stopped'，只翻译了 '油'。",
+      "missing_info": "mirror essential oil, I actually stopped"
+    },
+    {
+      "key": "582.240-588.160",
+      "start": 582.24,
+      "end": 588.16,
+      "en_full": "using perfumes over a year ago, but this",
+      "zh": "我其实一年多前就不用香水了，但这个带着会很方便",
+      "verdict": "pass",
+      "reason": "核心意思完整，中文表达自然。"
+    },
+    {
+      "key": "588.160-591.440",
+      "start": 588.16,
+      "end": 591.44,
+      "en_full": "is going to be perfect to keep in my bag when I want to smell good. So, yeah, the",
+      "zh": "身上，想让自己香香的就能用。",
+      "verdict": "partial",
+      "reason": "漏译了 'So, yeah, the' 后的内容，英文句末不完整，但中文补充了'身上'，整体意思有偏差。",
+      "missing_info": "英文句末不完整，中文补充了'身上'，但原文未提及"
+    },
+    {
+      "key": "591.440-615.600",
+      "start": 591.44,
+      "end": 615.6,
+      "en_full": "rest are just some vegetables to make Guys, I'm crying so much because I'm",
+      "zh": "好吧，剩下的就是一些蔬菜。各位，我切洋葱切得好想哭啊",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文口语化表达。"
+    },
+    {
+      "key": "615.600-619.600",
+      "start": 615.6,
+      "end": 619.6,
+      "en_full": "cutting the onions, but they're going to be worth it. I'm",
+      "zh": "但这些洋葱会很值得。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "619.600-676.959",
+      "start": 619.6,
+      "end": 676.959,
+      "en_full": "going to put them on a pan with butter and make them marinate for a long time",
+      "zh": "我要把它们放进锅里用黄油煎，腌很长时间",
+      "verdict": "pass",
+      "reason": "核心意思一致，'marinate' 译为'腌'可接受。"
+    },
+    {
+      "key": "676.959-678.880",
+      "start": 676.959,
+      "end": 678.88,
+      "en_full": "Good morning, guys. We have a fun day",
+      "zh": "早上好，各位。",
+      "verdict": "partial",
+      "reason": "漏译了 'We have a fun day' 整句。",
+      "missing_info": "We have a fun day"
+    },
+    {
+      "key": "678.880-681.600",
+      "start": 678.88,
+      "end": 681.6,
+      "en_full": "Good morning, guys. We have a fun day ahead of us. I mean, we don't really",
+      "zh": "我们今天会很有趣。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "681.600-688.160",
+      "start": 681.6,
+      "end": 688.16,
+      "en_full": "have it planned out thoroughly, but we",
+      "zh": "我的意思是，我们其实没有详细计划，但我们知道我们想去",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "688.160-691.920",
+      "start": 688.16,
+      "end": 691.92,
+      "en_full": "know that we want to go to this beach called Boulders Beach. What's unique",
+      "zh": "一个叫Boulders Beach的海滩。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "691.920-695.990",
+      "start": 691.92,
+      "end": 695.99,
+      "en_full": "about it is that penguins live there.",
+      "zh": "特别的是那里住着企鹅。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "696.000-700.959",
+      "start": 696,
+      "end": 700.959,
+      "en_full": "And Hal was reading for me from the",
+      "zh": "Hal从网上给我读说显然",
+      "verdict": "pass",
+      "reason": "核心意思一致，'reading for me' 译为'给我读'可接受。"
+    },
+    {
+      "key": "700.959-706.630",
+      "start": 700.959,
+      "end": 706.63,
+      "en_full": "penguins that arrived there in 19 when was it?",
+      "zh": "是两只企鹅在19... 那年是多久？",
+      "verdict": "pass",
+      "reason": "核心意思一致，口语化表达。"
+    },
+    {
+      "key": "706.640-715.200",
+      "start": 706.64,
+      "end": 715.2,
+      "en_full": "86. 1986 they basically created the penguin community there and this is one of the",
+      "zh": "86年。1986年它们基本上在那里建立了企鹅社区，这是地球上仅有的",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "715.200-720.000",
+      "start": 715.2,
+      "end": 720,
+      "en_full": "only places on earth where you can go to a beach and meet penguins. H I think",
+      "zh": "几个可以去海滩遇到企鹅的地方之一。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "720.000-724.720",
+      "start": 720,
+      "end": 724.72,
+      "en_full": "they just really enjoyed the beachy",
+      "zh": "我觉得它们就是很喜欢海滩生活方式。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "724.720-728.480",
+      "start": 724.72,
+      "end": 728.48,
+      "en_full": "lifestyle. It's honestly so cute and I'm really excited. So we wanted to go for a",
+      "zh": "真的太可爱了，我超级兴奋。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "728.480-733.440",
+      "start": 728.48,
+      "end": 733.44,
+      "en_full": "little drive and I haven't really told",
+      "zh": "所以我们想去兜兜风，我还没告诉你们",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "733.440-734.790",
+      "start": 733.44,
+      "end": 734.79,
+      "en_full": "you guys where we're currently staying. So, we're actually staying in a small",
+      "zh": "我们现在住在哪里。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "734.800-740.399",
+      "start": 734.8,
+      "end": 740.399,
+      "en_full": "So, we're actually staying in a small",
+      "zh": "我们其实住在一个叫Scarborough的小村庄。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "740.399-747.279",
+      "start": 740.399,
+      "end": 747.279,
+      "en_full": "little bit outside of Cape Town, and I'm honestly like so happy that we decided",
+      "zh": "嗯，在开普敦外面一点，我真的很开心我们决定",
+      "verdict": "pass",
+      "reason": "核心意思完整，省略了填充词和重复部分。"
+    },
+    {
+      "key": "747.279-748.240",
+      "start": 747.279,
+      "end": 748.24,
+      "en_full": "honestly like so happy that we decided to stay here. We actually just found",
+      "zh": "住在这里。",
+      "verdict": "pass",
+      "reason": "中文概括了英文意思，省略了重复的'honestly like so happy'。"
+    },
+    {
+      "key": "748.240-755.839",
+      "start": 748.24,
+      "end": 755.839,
+      "en_full": "this Airbnb and we thought it was just",
+      "zh": "我们刚找到了这个Airbnb，觉得它特别美，评价也特别好",
+      "verdict": "partial",
+      "reason": "中文增加了'特别美，评价也特别好'，但英文只说'thought it was just so amazing'，属于过度发挥，但未遗漏独立信息。",
+      "missing_info": ""
+    },
+    {
+      "key": "755.839-761.839",
+      "start": 755.839,
+      "end": 761.839,
+      "en_full": "so amazing and we thought it would be so",
+      "zh": "我们觉得住在开普敦外面会很有趣",
+      "verdict": "pass",
+      "reason": "中文概括了'住在开普敦外面会很有趣'，英文是'thought it would be so little getaway'，意思一致。"
+    },
+    {
+      "key": "761.839-765.030",
+      "start": 761.839,
+      "end": 765.03,
+      "en_full": "little getaway, a little bit more quiet.",
+      "zh": "来个小 getaway，稍微安静一点。",
+      "verdict": "pass",
+      "reason": "中文翻译准确。"
+    },
+    {
+      "key": "765.040-770.880",
+      "start": 765.04,
+      "end": 770.88,
+      "en_full": "It is just absolutely amazing here and I'm kind of sad that we're going to be",
+      "zh": "这里简直太棒了，我有点难过我们几天后就要走了",
+      "verdict": "pass",
+      "reason": "中文翻译准确，省略了'kind of'。"
+    },
+    {
+      "key": "770.880-774.079",
+      "start": 770.88,
+      "end": 774.079,
+      "en_full": "leaving in a couple of days and we're going to be staying in Cape Town. But",
+      "zh": "要回开普敦住了。",
+      "verdict": "pass",
+      "reason": "中文概括了'要回开普敦住了'，英文是'staying in Cape Town'，意思一致。"
+    },
+    {
+      "key": "774.079-780.720",
+      "start": 774.079,
+      "end": 780.72,
+      "en_full": "I'm also really really really excited to explore Cape Town for the very first",
+      "zh": "但我也很激动很激动很激动，因为这是第一次探索开普敦。",
+      "verdict": "pass",
+      "reason": "中文翻译准确，省略了'for the very first'但意思完整。"
+    },
+    {
+      "key": "780.720-785.990",
+      "start": 780.72,
+      "end": 785.99,
+      "en_full": "breakfast before heading to this beach.",
+      "zh": "是的，我们想在去海滩之前吃点早餐。",
+      "verdict": "pass",
+      "reason": "中文增加了'是的'，但核心意思一致。"
+    },
+    {
+      "key": "786.000-794.160",
+      "start": 786,
+      "end": 794.16,
+      "en_full": "And the first day we arrived in South Africa, we didn't get the Airbnb until",
+      "zh": "我们到达南非的第一天，要到下午2点才能入住Airbnb。",
+      "verdict": "partial",
+      "reason": "英文说'we didn't get the Airbnb until morning'，中文说'要到下午2点才能入住'，时间不一致，但可能上下文有误？需确认。",
+      "missing_info": "英文说'直到早上才能入住'，中文说'下午2点'，信息矛盾。"
+    },
+    {
+      "key": "794.160-799.670",
+      "start": 794.16,
+      "end": 799.67,
+      "en_full": "morning, so we had a few hours to spare.",
+      "zh": "我们早上6点就到了，所以有几个小时可以打发。",
+      "verdict": "partial",
+      "reason": "英文没有说'早上6点就到了'，中文增加了这个信息。",
+      "missing_info": "英文只说'we had a few hours to spare'，未提及具体时间。"
+    },
+    {
+      "key": "799.680-809.519",
+      "start": 799.68,
+      "end": 809.519,
+      "en_full": "And we actually found this little cafe van and it's located at a small beach",
+      "zh": "我们找到了这个小咖啡车，就在一个小海滩那里",
+      "verdict": "pass",
+      "reason": "中文翻译准确，省略了'van'但意思清楚。"
+    },
+    {
+      "key": "809.519-817.440",
+      "start": 809.519,
+      "end": 817.44,
+      "en_full": "coffee and grilled sandwiches and it was",
+      "zh": "我们去那儿点了咖啡和烤三明治，氛围超棒。",
+      "verdict": "pass",
+      "reason": "中文增加了'氛围超棒'，但英文有'such a good vibe'，意思一致。"
+    },
+    {
+      "key": "817.440-821.200",
+      "start": 817.44,
+      "end": 821.2,
+      "en_full": "such a good vibe. There were so many people there and so many dogs. I think",
+      "zh": "那里人很多，狗也很多。",
+      "verdict": "pass",
+      "reason": "中文翻译准确，省略了'I think'。"
+    },
+    {
+      "key": "821.200-825.279",
+      "start": 821.2,
+      "end": 825.279,
+      "en_full": "it's kind of like a place where people",
+      "zh": "我觉得这里好像是人们遛狗的地方。",
+      "verdict": "pass",
+      "reason": "中文翻译准确。"
+    },
+    {
+      "key": "825.279-830.870",
+      "start": 825.279,
+      "end": 830.87,
+      "en_full": "we could go there again today because all of the dogs are just so adorable.",
+      "zh": "我们想今天再去一次，因为那些狗太可爱了。",
+      "verdict": "pass",
+      "reason": "中文翻译准确。"
+    },
+    {
+      "key": "830.880-834.320",
+      "start": 830.88,
+      "end": 834.32,
+      "en_full": "And the grilled cheese sandwich was",
+      "zh": "烤芝士三明治很好吃。",
+      "verdict": "pass",
+      "reason": "中文翻译准确。"
+    },
+    {
+      "key": "834.320-837.519",
+      "start": 834.32,
+      "end": 837.519,
+      "en_full": "delicious. I just need to figure out an outfit for today. It's obviously sunny.",
+      "zh": "我需要想好今天穿什么。",
+      "verdict": "partial",
+      "reason": "中文漏译了'It's obviously sunny.'这一句独立信息。",
+      "missing_info": "漏译了'It's obviously sunny.'"
+    },
+    {
+      "key": "837.519-839.350",
+      "start": 837.519,
+      "end": 839.35,
+      "en_full": "outfit for today. It's obviously sunny. It's so beautiful when we wake up",
+      "zh": "显然是晴天。",
+      "verdict": "pass",
+      "reason": "中文翻译准确，省略了重复部分。"
+    },
+    {
+      "key": "839.360-846.880",
+      "start": 839.36,
+      "end": 846.88,
+      "en_full": "It's so beautiful when we wake up because you can see that there are like",
+      "zh": "醒来的时候风景太美了，因为你可以看到那里有大大大的窗户",
+      "verdict": "partial",
+      "reason": "中文漏译了'like'后的内容，英文说'you can see that there are like'，中文只说了'大大大的窗户'，但英文未提及窗户，可能上下文缺失。",
+      "missing_info": "英文未提及'窗户'，中文增加了不存在的细节。"
+    },
+    {
+      "key": "846.880-851.360",
+      "start": 846.88,
+      "end": 851.36,
+      "en_full": "big big windows here and there's no curtains for the big windows. So, you",
+      "zh": "这里没有大窗户的窗帘。",
+      "verdict": "partial",
+      "reason": "漏译了 'big big windows here and there's no curtains for the big windows' 中的 'big big windows here' 部分，只翻译了后半句。",
+      "missing_info": "这里有大窗户"
+    },
+    {
+      "key": "851.360-856.880",
+      "start": 851.36,
+      "end": 856.88,
+      "en_full": "just wake up with the sun in your eyes",
+      "zh": "所以你就在阳光中醒来，简直太棒了。",
+      "verdict": "wrong",
+      "reason": "中文添加了'简直太棒了'，英文原句没有这个意思。"
+    },
+    {
+      "key": "856.880-864.639",
+      "start": 856.88,
+      "end": 864.639,
+      "en_full": "bought the most perfect pair of vintage",
+      "zh": "我刚买了最完美的一条复古Levis 501。",
+      "verdict": "partial",
+      "reason": "漏译了 'bought the most perfect pair of vintage' 中的 'bought' 和 'vintage'，中文只说了'买了最完美的一条'，但英文强调是复古的。",
+      "missing_info": "买了最完美的一条复古"
+    },
+    {
+      "key": "864.639-868.800",
+      "start": 864.639,
+      "end": 868.8,
+      "en_full": "Levis 501. H I used to wear these types of pants when I was like 17. I thrifted",
+      "zh": "我17岁左右的时候常穿这种裤子。",
+      "verdict": "pass",
+      "reason": "核心意思一致，省略了 'H' 和 'thrifted' 但中文已包含二手含义。"
+    },
+    {
+      "key": "868.800-872.399",
+      "start": 868.8,
+      "end": 872.399,
+      "en_full": "of pants when I was like 17. I thrifted them on ASOS Marketplace. I don't know",
+      "zh": "我在ASOS Marketplace二手店买的。",
+      "verdict": "pass",
+      "reason": "核心意思一致，省略了 'I don't know' 但中文已表达不确定。"
+    },
+    {
+      "key": "872.399-874.320",
+      "start": 872.399,
+      "end": 874.32,
+      "en_full": "them on ASOS Marketplace. I don't know if that's still around. I used to wear",
+      "zh": "不知道那个平台现在还在不在。",
+      "verdict": "pass",
+      "reason": "核心意思一致，省略了 'I used to wear' 但中文已包含过去时。"
+    },
+    {
+      "key": "874.320-880.480",
+      "start": 874.32,
+      "end": 880.48,
+      "en_full": "them a bit more slimmer, but now I",
+      "zh": "我以前穿得更修身一点，但现在选了大一码，",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文概括了 'slimmer' 和 'low-waist' 等。"
+    },
+    {
+      "key": "880.480-885.199",
+      "start": 880.48,
+      "end": 885.199,
+      "en_full": "more low-waist, and they're just overall",
+      "zh": "所以腰更低，整体更宽松。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文合并了英文两句。"
+    },
+    {
+      "key": "885.199-888.240",
+      "start": 885.199,
+      "end": 888.24,
+      "en_full": "a bit more baggy. And I am just so obsessed. It is just so hard to find a",
+      "zh": "我简直太喜欢了。",
+      "verdict": "partial",
+      "reason": "漏译了 'It is just so hard to find a right pair that like fits you, is long' 这一整句独立信息。",
+      "missing_info": "找到一条合适、够长的裤子太难了"
+    },
+    {
+      "key": "888.240-893.839",
+      "start": 888.24,
+      "end": 893.839,
+      "en_full": "right pair that like fits you, is long",
+      "zh": "找到一条合适的裤子太难了，要合身、要够长、",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文补充了'要够宽松'但英文有'baggy'，整体合理。"
+    },
+    {
+      "key": "893.839-898.959",
+      "start": 893.839,
+      "end": 898.959,
+      "en_full": "though they are 501s, they can be so",
+      "zh": "还要够宽松，因为虽然都是501，但差别很大。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文概括了'though they are 501s, they can be so different'。"
+    },
+    {
+      "key": "898.959-907.120",
+      "start": 898.959,
+      "end": 907.12,
+      "en_full": "different. I have to put them on to show I'm just so freaking happy. Wait, I'm",
+      "zh": "我得穿上展示一下我有多开心。",
+      "verdict": "pass",
+      "reason": "核心意思一致，省略了'Wait'但中文已表达。"
+    },
+    {
+      "key": "907.120-914.949",
+      "start": 907.12,
+      "end": 914.949,
+      "en_full": "going to show you a bit better so you can see just how long they are.",
+      "zh": "等等，我给你看更清楚点，让你看看有多长。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "914.959-920.800",
+      "start": 914.959,
+      "end": 920.8,
+      "en_full": "A fun fact, I used to work at Levis's",
+      "zh": "有趣的是，我17岁时在Levis工作过，所以很了解Levis的牛仔裤。",
+      "verdict": "partial",
+      "reason": "漏译了 'A fun fact, I used to work at Levis's' 中的 'A fun fact' 和 'I used to work at Levis's' 中的 'work at'，中文只说了'在Levis工作过'，但英文强调是'有趣的事实'且是'工作过'。",
+      "missing_info": "有趣的事实：我曾在Levis工作过"
+    },
+    {
+      "key": "920.800-928.079",
+      "start": 920.8,
+      "end": 928.079,
+      "en_full": "Levis's jeans, and they do have 501s for women, but they're just totally",
+      "zh": "他们确实有女款501，但完全不一样。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "928.079-937.430",
+      "start": 928.079,
+      "end": 937.43,
+      "en_full": "find the men ones, and they're just perfect.",
+      "zh": "我专门想买男款，简直完美。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文添加了'专门'但合理。"
+    },
+    {
+      "key": "937.440-942.240",
+      "start": 937.44,
+      "end": 942.24,
+      "en_full": "I think I'm going to wear this beautiful",
+      "zh": "我打算穿这件漂亮的浅绿色吊带。",
+      "verdict": "partial",
+      "reason": "漏译了 'beautiful' 和 'top'，中文只说了'吊带'，但英文是'beautiful top'。",
+      "missing_info": "漂亮的吊带"
+    },
+    {
+      "key": "942.240-952.000",
+      "start": 942.24,
+      "end": 952,
+      "en_full": "wool, but apparently wool is really breathable and good either in cold or",
+      "zh": "是100%美利奴羊毛，但羊毛其实很透气，无论冷热天气都很好。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文概括了'wool'和'breathable'。"
+    },
+    {
+      "key": "952.000-952.560",
+      "start": 952,
+      "end": 952.56,
+      "en_full": "warm weather. So, I don't think it's",
+      "zh": "所以我觉得没问题，虽然今天阳光很强。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文补充了'虽然今天阳光很强'但合理。"
+    },
+    {
+      "key": "952.560-956.639",
+      "start": 952.56,
+      "end": 956.639,
+      "en_full": "going to be an issue even though it is",
+      "zh": "天气暖和，所以我觉得不会有问题，尽管确实会有问题。",
+      "verdict": "partial",
+      "reason": "中文漏译了'going to be an issue even though it is'中的'even though it is'，但核心意思'天气暖和所以不会有问题'已传达。然而，英文中'even though it is'表示转折，中文未体现。",
+      "missing_info": "even though it is"
+    },
+    {
+      "key": "956.639-961.749",
+      "start": 956.639,
+      "end": 961.749,
+      "en_full": "Korean brand called Siatsu.",
+      "zh": "这是一个韩国品牌，叫Siatsu。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "961.759-966.800",
+      "start": 961.759,
+      "end": 966.8,
+      "en_full": "And it is so cute because it has these",
+      "zh": "它好可爱，因为有这些带子",
+      "verdict": "pass",
+      "reason": "核心意思完整，中文简洁概括了英文。"
+    },
+    {
+      "key": "966.800-972.470",
+      "start": 966.8,
+      "end": 972.47,
+      "en_full": "in the front or in the back.",
+      "zh": "可以系在前面或后面。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "972.480-977.440",
+      "start": 972.48,
+      "end": 977.44,
+      "en_full": "I feel like these two colors go really",
+      "zh": "我觉得这两个颜色搭配在一起特别好看。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "977.440-982.959",
+      "start": 977.44,
+      "end": 982.959,
+      "en_full": "if I should tie it maybe from the back",
+      "zh": "嗯，我不知道要不要从后面系到前面来。",
+      "verdict": "pass",
+      "reason": "中文表达了犹豫和动作，核心意思在。"
+    },
+    {
+      "key": "982.959-989.199",
+      "start": 982.959,
+      "end": 989.199,
+      "en_full": "either thinking black flip-flops or my",
+      "zh": "鞋子的话，我想要么穿黑色人字拖，要么穿我的芭蕾鞋。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "989.199-993.360",
+      "start": 989.199,
+      "end": 993.36,
+      "en_full": "ballerinas. I think the ballerinas are going to be a little bit more cute. I",
+      "zh": "我觉得芭蕾鞋会更可爱一点。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "993.360-1000.240",
+      "start": 993.36,
+      "end": 1000.24,
+      "en_full": "haven't worn these earrings in quite a long time and I think they could look",
+      "zh": "我好长时间没戴这耳环了，我觉得它搭配这身衣服会特别好看",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "1000.240-1001.680",
+      "start": 1000.24,
+      "end": 1001.68,
+      "en_full": "really nice with this outfit. We have",
+      "zh": "这套衣服。",
+      "verdict": "partial",
+      "reason": "英文中'We have'被遗漏，但中文下一段有补充，整体信息完整，但此处单独看遗漏了独立信息。",
+      "missing_info": "We have"
+    },
+    {
+      "key": "1001.680-1004.639",
+      "start": 1001.68,
+      "end": 1004.639,
+      "en_full": "really nice with this outfit. We have two bags to pick from. Either this brown",
+      "zh": "我们有两个包可以选。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "1004.639-1008.000",
+      "start": 1004.639,
+      "end": 1008,
+      "en_full": "two bags to pick from. Either this brown suede one. This one is super like",
+      "zh": "要么这个棕色绒面的。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "1008.000-1011.759",
+      "start": 1008,
+      "end": 1011.759,
+      "en_full": "suede one. This one is super like convenient and small. I feel like it",
+      "zh": "这个特别方便又小巧。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "1011.759-1015.040",
+      "start": 1011.759,
+      "end": 1015.04,
+      "en_full": "convenient and small. I feel like it goes really well with this outfit. I",
+      "zh": "我觉得它和这身衣服特别搭。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "1015.040-1018.160",
+      "start": 1015.04,
+      "end": 1018.16,
+      "en_full": "goes really well with this outfit. I forgot about my sunnies. So, I'm going",
+      "zh": "我忘了我的太阳镜了。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "1018.160-1026.559",
+      "start": 1018.16,
+      "end": 1026.559,
+      "en_full": "to wear these ones and we're pretty much ready to head out",
+      "zh": "那我戴这个，我们准备好出门去吃",
+      "verdict": "pass",
+      "reason": "核心意思完整，中文省略了'pretty much ready to head out'但下一段有体现。"
+    },
+    {
+      "key": "1026.559-1027.760",
+      "start": 1026.559,
+      "end": 1027.76,
+      "en_full": "and go grab breakfast. H, you need to",
+      "zh": "早餐了。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "1027.760-1102.160",
+      "start": 1027.76,
+      "end": 1102.16,
+      "en_full": "Helga is driving on the left lane for",
+      "zh": "H，你得...Helga是第一次在左车道开车，他",
+      "verdict": "partial",
+      "reason": "英文中'Helga is driving on the left lane for the first time'被翻译为'Helga是第一次在左车道开车'，但中文中多了'他'，且英文中'he is doing a really good job'被遗漏在下一段，但此处中文'做得特别好'出现在下一段，整体信息完整，但此处单独看遗漏了'he is doing a really good job'。",
+      "missing_info": "he is doing a really good job"
+    },
+    {
+      "key": "1102.160-1103.520",
+      "start": 1102.16,
+      "end": 1103.52,
+      "en_full": "the first time and he is doing a really good job. We just tried to be very",
+      "zh": "做得特别好。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "1103.520-1110.720",
+      "start": 1103.52,
+      "end": 1110.72,
+      "en_full": "cautious, but we had a really cozy",
+      "zh": "我们尽量小心，但我们吃了顿很温馨的早餐，还摸了摸来海滩玩的",
+      "verdict": "pass",
+      "reason": "核心意思完整，中文概括了英文。"
+    },
+    {
+      "key": "1110.720-1114.000",
+      "start": 1110.72,
+      "end": 1114,
+      "en_full": "breakfast and petted some of the dogs that were visiting the beach. And now",
+      "zh": "那些狗。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "1114.000-1119.600",
+      "start": 1114,
+      "end": 1119.6,
+      "en_full": "we're off to Boulders Beach to see the",
+      "zh": "现在我们去博尔德斯海滩看企鹅",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "1119.600-1174.799",
+      "start": 1119.6,
+      "end": 1174.799,
+      "en_full": "We just did the tour of the Boulders",
+      "zh": "只需要5分钟...我们刚逛完博尔德斯海滩",
+      "verdict": "partial",
+      "reason": "中文开头多了'只需要5分钟'，英文无此信息，且'博尔德斯海滩'应为'博尔德斯'，但核心意思在。",
+      "missing_info": "英文无'只需要5分钟'"
+    },
+    {
+      "key": "1174.799-1182.080",
+      "start": 1174.799,
+      "end": 1182.08,
+      "en_full": "list thing, you know, seeing penguins in this type of environment is just",
+      "zh": "这是人生清单上的事在这种环境看到企鹅太疯狂了",
+      "verdict": "pass",
+      "reason": "中文概括了英文意思，'list thing'译为'人生清单上的事'合理。"
+    },
+    {
+      "key": "1182.080-1182.559",
+      "start": 1182.08,
+      "end": 1182.559,
+      "en_full": "crazy. I don't know. We had a lot of fun",
+      "zh": "不知道怎么说",
+      "verdict": "partial",
+      "reason": "英文有'crazy. I don't know. We had a lot of fun'，中文只翻了'不知道怎么说'，漏了'crazy'和'We had a lot of fun'。",
+      "missing_info": "漏译'crazy'和'We had a lot of fun'"
+    },
+    {
+      "key": "1182.559-1228.000",
+      "start": 1182.559,
+      "end": 1228,
+      "en_full": "seeing them and they are just so",
+      "zh": "我们看企鹅看得超开心，它们真是太可爱了",
+      "verdict": "pass",
+      "reason": "中文将英文两句合并，意思完整。"
+    },
+    {
+      "key": "1228.000-1232.720",
+      "start": 1228,
+      "end": 1232.72,
+      "en_full": "We did a little stroll in Simon's Town and ended up buying a few goodies. So,",
+      "zh": "我们在西蒙镇逛了逛，买了些好东西",
+      "verdict": "pass",
+      "reason": "中文准确传达了英文意思。"
+    },
+    {
+      "key": "1232.720-1239.520",
+      "start": 1232.72,
+      "end": 1239.52,
+      "en_full": "we found these utensils that you can use",
+      "zh": "我们找到这些餐具，可以用来吃沙拉或意面",
+      "verdict": "pass",
+      "reason": "中文补充了'沙拉或意面'，但英文有'for like salads or pasta'，意思一致。"
+    },
+    {
+      "key": "1239.520-1241.840",
+      "start": 1239.52,
+      "end": 1241.84,
+      "en_full": "for like salads or pasta. I just thought they were really pretty. And then we",
+      "zh": "我觉得它们特别好看",
+      "verdict": "pass",
+      "reason": "中文省略了'and then we'，但核心意思在。"
+    },
+    {
+      "key": "1241.840-1247.679",
+      "start": 1241.84,
+      "end": 1247.679,
+      "en_full": "found this store called Pure Pure Yuni. Pure no pure",
+      "zh": "然后我们找到一家店叫Pure no pure yin",
+      "verdict": "partial",
+      "reason": "英文店名'Pure Pure Yuni'，中文译为'Pure no pure yin'，名称错误。",
+      "missing_info": "店名翻译错误"
+    },
+    {
+      "key": "1247.679-1248.310",
+      "start": 1247.679,
+      "end": 1248.31,
+      "en_full": "yin. Pure yin. Pure yin studio. And it's like this",
+      "zh": "Pure yin",
+      "verdict": "pass",
+      "reason": "中文只翻了'Pure yin'，但英文重复，核心意思在。"
+    },
+    {
+      "key": "1248.320-1249.760",
+      "start": 1248.32,
+      "end": 1249.76,
+      "en_full": "yin. Pure yin. Pure yin studio. And it's like this",
+      "zh": "Pure yin studio",
+      "verdict": "pass",
+      "reason": "中文只翻了'Pure yin studio'，但英文重复，核心意思在。"
+    },
+    {
+      "key": "1249.760-1258.880",
+      "start": 1249.76,
+      "end": 1258.88,
+      "en_full": "small boutique selling linen clothes and organic cotton and lots of crystals and",
+      "zh": "是家小精品店，卖亚麻衣服和有机棉，还有很多水晶和精油",
+      "verdict": "pass",
+      "reason": "中文准确传达了英文意思。"
+    },
+    {
+      "key": "1258.880-1259.679",
+      "start": 1258.88,
+      "end": 1259.679,
+      "en_full": "essential oils. I think we spent like an",
+      "zh": "油",
+      "verdict": "partial",
+      "reason": "英文'essential oils'，中文只翻了'油'，漏了'essential'。",
+      "missing_info": "漏译'essential'"
+    },
+    {
+      "key": "1259.679-1263.590",
+      "start": 1259.679,
+      "end": 1263.59,
+      "en_full": "hour in there just browsing around.",
+      "zh": "我们在里面逛了大概一个小时",
+      "verdict": "pass",
+      "reason": "中文准确传达了英文意思。"
+    },
+    {
+      "key": "1263.600-1264.960",
+      "start": 1263.6,
+      "end": 1264.96,
+      "en_full": "just browsing around. Honestly, it was so fun. And look how",
+      "zh": "说实话，太好玩了",
+      "verdict": "pass",
+      "reason": "中文省略了'just browsing around'，但核心意思在。"
+    },
+    {
+      "key": "1264.960-1268.559",
+      "start": 1264.96,
+      "end": 1268.559,
+      "en_full": "Honestly, it was so fun. And look how she wrapped my purchase. It was so",
+      "zh": "看她怎么包装我买的东西",
+      "verdict": "pass",
+      "reason": "中文省略了'Honestly, it was so fun.'，但核心意思在。"
+    },
+    {
+      "key": "1268.559-1270.400",
+      "start": 1268.559,
+      "end": 1270.4,
+      "en_full": "she wrapped my purchase. It was so thoughtful. I bought this beautiful",
+      "zh": "真是太贴心了",
+      "verdict": "pass",
+      "reason": "中文准确传达了英文意思。"
+    },
+    {
+      "key": "1270.400-1273.440",
+      "start": 1270.4,
+      "end": 1273.44,
+      "en_full": "thoughtful. I bought this beautiful necklace. This is a silk thread, and I",
+      "zh": "我买了这条漂亮的项链",
+      "verdict": "pass",
+      "reason": "中文省略了'This is a silk thread, and I'，但核心意思在。"
+    },
+    {
+      "key": "1273.440-1280.960",
+      "start": 1273.44,
+      "end": 1280.96,
+      "en_full": "actually didn't ask what these were, but",
+      "zh": "这是丝绸绳，我其实没问这些是什么，但真是太美了",
+      "verdict": "pass",
+      "reason": "中文将英文两句合并，意思完整。"
+    },
+    {
+      "key": "1280.960-1282.480",
+      "start": 1280.96,
+      "end": 1282.48,
+      "en_full": "it's just so stunning. I'm going to show you how it looks on. I don't really own",
+      "zh": "我给你们看看戴上是什么效果",
+      "verdict": "pass",
+      "reason": "中文省略了'I don't really own'，但核心意思在。"
+    },
+    {
+      "key": "1282.480-1286.080",
+      "start": 1282.48,
+      "end": 1286.08,
+      "en_full": "you how it looks on. I don't really own a necklace that is so long. You can also",
+      "zh": "我没有很长的项链。",
+      "verdict": "partial",
+      "reason": "英文有'You can also'，中文未译，且句子不完整。",
+      "missing_info": "漏译'You can also'"
+    },
+    {
+      "key": "1286.080-1289.110",
+      "start": 1286.08,
+      "end": 1289.11,
+      "en_full": "have it a bit longer than this.",
+      "zh": "你也可以比这个再长一点。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文更简洁。"
+    },
+    {
+      "key": "1289.120-1291.600",
+      "start": 1289.12,
+      "end": 1291.6,
+      "en_full": "have it a bit longer than this. It's a bit more bohemian. I like it. And",
+      "zh": "这更波西米亚风格一点。",
+      "verdict": "partial",
+      "reason": "漏译了 'have it a bit longer than this' 和 'I like it' 两句独立信息。",
+      "missing_info": "英文有两句：'have it a bit longer than this' 和 'I like it'，中文只翻了 'It's a bit more bohemian'。"
+    },
+    {
+      "key": "1291.600-1293.039",
+      "start": 1291.6,
+      "end": 1293.039,
+      "en_full": "It's a bit more bohemian. I like it. And",
+      "zh": "我喜欢。",
+      "verdict": "partial",
+      "reason": "漏译了 'It's a bit more bohemian' 和 'And'。",
+      "missing_info": "英文有 'It's a bit more bohemian' 和 'I like it' 两句，中文只翻了 'I like it'。"
+    },
+    {
+      "key": "1293.039-1301.520",
+      "start": 1293.039,
+      "end": 1301.52,
+      "en_full": "this handwoven bookmark, I thought it was just so special and it would",
+      "zh": "这个手工编织的书签，我觉得它很特别，应该会一直提醒我",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文省略了 'probably always' 但可接受。"
+    },
+    {
+      "key": "1301.520-1302.789",
+      "start": 1301.52,
+      "end": 1302.789,
+      "en_full": "probably always remind me of this trip. And I've never seen anything quite like",
+      "zh": "这次旅行。",
+      "verdict": "partial",
+      "reason": "漏译了 'probably always remind me of this trip' 的完整意思，中文只说了 '这次旅行'。",
+      "missing_info": "英文是 'probably always remind me of this trip'，中文只翻成 '这次旅行'，缺少 '提醒我' 的动作。"
+    },
+    {
+      "key": "1302.799-1308.480",
+      "start": 1302.799,
+      "end": 1308.48,
+      "en_full": "And I've never seen anything quite like",
+      "zh": "我从来没见过这样的东西，所以我真的很想买。",
+      "verdict": "partial",
+      "reason": "中文添加了 '所以我真的很想买'，但英文原句没有这个意思，属于过度发挥。",
+      "missing_info": "英文只有 'And I've never seen anything quite like'，中文却加了 '所以我真的很想买'。"
+    },
+    {
+      "key": "1308.480-1313.909",
+      "start": 1308.48,
+      "end": 1313.909,
+      "en_full": "lastly, I bought my first crystal.",
+      "zh": "最后，我买了我的第一块水晶。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "1313.919-1316.080",
+      "start": 1313.919,
+      "end": 1316.08,
+      "en_full": "lastly, I bought my first crystal. I'm becoming a witch. I need to read it",
+      "zh": "我要变成女巫了。",
+      "verdict": "partial",
+      "reason": "漏译了 'lastly, I bought my first crystal' 和 'I need to read it'。",
+      "missing_info": "英文有 'lastly, I bought my first crystal' 和 'I need to read it'，中文只翻了 'I'm becoming a witch'。"
+    },
+    {
+      "key": "1316.080-1322.480",
+      "start": 1316.08,
+      "end": 1322.48,
+      "en_full": "for you guys. the like the description",
+      "zh": "我需要读给你们听。这个水晶的描述，感觉",
+      "verdict": "partial",
+      "reason": "漏译了 'for you guys' 和 'the like the description'。",
+      "missing_info": "英文有 'for you guys' 和 'the like the description'，中文只翻了 '我需要读给你们听。这个水晶的描述，感觉'。"
+    },
+    {
+      "key": "1322.480-1326.000",
+      "start": 1322.48,
+      "end": 1326,
+      "en_full": "relevant for me and I just wanted to buy",
+      "zh": "跟我很有关系，我真的很想买。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "1326.000-1328.960",
+      "start": 1326,
+      "end": 1328.96,
+      "en_full": "it. And you can, you know, hold it, keep it in your bag. And I think it's just",
+      "zh": "你可以拿着，放在包里。",
+      "verdict": "partial",
+      "reason": "漏译了 'And I think it's just'。",
+      "missing_info": "英文有 'And I think it's just'，中文只翻了 '你可以拿着，放在包里。'"
+    },
+    {
+      "key": "1328.960-1331.520",
+      "start": 1328.96,
+      "end": 1331.52,
+      "en_full": "it in your bag. And I think it's just good energy. And it says, \"A crystal of",
+      "zh": "我觉得这是好的能量。",
+      "verdict": "partial",
+      "reason": "漏译了 'it in your bag' 和 'And it says'。",
+      "missing_info": "英文有 'it in your bag' 和 'And it says'，中文只翻了 '我觉得这是好的能量。'"
+    },
+    {
+      "key": "1331.520-1339.919",
+      "start": 1331.52,
+      "end": 1339.919,
+      "en_full": "new beginnings, abundance and prosperity, connecting to nature and",
+      "zh": "它说，\"这是一块代表新开始、丰盛和繁荣的水晶，连接自然，带来平静，激发",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文省略了 'and passion' 但整体可接受。"
+    },
+    {
+      "key": "1339.919-1348.559",
+      "start": 1339.919,
+      "end": 1348.559,
+      "en_full": "and passion, rejuvenating mind, body, and soul, and appreciating the beauty",
+      "zh": "创造力和热情，焕新身心灵魂，欣赏内在和周围的美。\"",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "1348.559-1348.950",
+      "start": 1348.559,
+      "end": 1348.95,
+      "en_full": "within and all around us. I don't know. I just thought it was so special.\"",
+      "zh": "我不知道。",
+      "verdict": "partial",
+      "reason": "漏译了 'I don't know' 和 'I just thought it was so special'。",
+      "missing_info": "英文有 'I don't know' 和 'I just thought it was so special'，中文只翻了 '我不知道。'"
+    },
+    {
+      "key": "1348.960-1351.590",
+      "start": 1348.96,
+      "end": 1351.59,
+      "en_full": "I just thought it was so special.\"",
+      "zh": "我就是觉得它很特别。\"",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "1351.600-1354.720",
+      "start": 1351.6,
+      "end": 1354.72,
+      "en_full": "Okay, we are going to go grab a bite",
+      "zh": "好了，我们去吃点东西，不然这里",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文添加了 '不然这里' 但可接受。"
+    },
+    {
+      "key": "1354.720-1359.190",
+      "start": 1354.72,
+      "end": 1359.19,
+      "en_full": "because it's becoming a sauna.",
+      "zh": "要变成桑拿房了。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "1359.200-1363.190",
+      "start": 1359.2,
+      "end": 1363.19,
+      "en_full": "So, we're going to find a little place where we can have some food.",
+      "zh": "我们去找个地方吃点东西。",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "1379.039-1385.600",
+      "start": 1379.039,
+      "end": 1385.6,
+      "en_full": "It's a bit gloomy today,",
+      "zh": "今天天气有点阴，但我还是要去做运动。",
+      "verdict": "partial",
+      "reason": "中文添加了 '但我还是要去做运动'，英文没有这个意思。",
+      "missing_info": "英文只有 'It's a bit gloomy today'，中文却加了 '但我还是要去做运动'。"
+    },
+    {
+      "key": "1385.600-1387.280",
+      "start": 1385.6,
+      "end": 1387.28,
+      "en_full": "but I'm going to do my workout. And this is the spot. It's like a little secret",
+      "zh": "就是这里了。",
+      "verdict": "partial",
+      "reason": "漏译了前半句 'but I'm going to do my workout' 和后半句 'It's like a little secret' 中的 'little secret' 部分",
+      "missing_info": "but I'm going to do my workout. It's like a little secret"
+    },
+    {
+      "key": "1387.280-1413.440",
+      "start": 1387.28,
+      "end": 1413.44,
+      "en_full": "I'm going to walk over to the local",
+      "zh": "就像是秘密一样...我打算去当地的店走走，买点面包",
+      "verdict": "partial",
+      "reason": "中文将英文两句合并，但漏译了 'I'm going to walk over to the local store, buy some bread, and maybe grab some coffee' 中的 'walk over to the local store' 和 'buy some bread'，且 'like a secret' 被误放到这里",
+      "missing_info": "I'm going to walk over to the local store, buy some bread"
+    },
+    {
+      "key": "1413.440-1414.960",
+      "start": 1413.44,
+      "end": 1414.96,
+      "en_full": "store, buy some bread, and maybe grab some coffee. And of course, Molly is",
+      "zh": "再买点咖啡。",
+      "verdict": "pass",
+      "reason": "核心意思 'grab some coffee' 已翻译，且与上一段合并合理"
+    },
+    {
+      "key": "1414.960-1420.000",
+      "start": 1414.96,
+      "end": 1420,
+      "en_full": "some coffee. And of course, Molly is here joining me on my walk. She's just",
+      "zh": "当然，Molly 也会陪我一起散步。",
+      "verdict": "pass",
+      "reason": "核心意思 'Molly is here joining me on my walk' 已翻译"
+    },
+    {
+      "key": "1420.000-1462.640",
+      "start": 1420,
+      "end": 1462.64,
+      "en_full": "here joining me on my walk. She's just We met so many dogs at the cafe. We met",
+      "zh": "她只是...我们在咖啡店遇到了好多狗。",
+      "verdict": "partial",
+      "reason": "漏译了 'She's just' 之后的内容，但 'We met so many dogs at the cafe' 已翻译",
+      "missing_info": "She's just (未完成句，但可忽略)"
+    },
+    {
+      "key": "1462.640-1464.640",
+      "start": 1462.64,
+      "end": 1464.64,
+      "en_full": "We met so many dogs at the cafe. We met a great Dane. You guys saw in the video.",
+      "zh": "我们遇到了一只大丹犬。",
+      "verdict": "partial",
+      "reason": "漏译了 'We met a great Dane. You guys saw in the video.' 中的 'You guys saw in the video'",
+      "missing_info": "You guys saw in the video"
+    },
+    {
+      "key": "1464.640-1465.830",
+      "start": 1464.64,
+      "end": 1465.83,
+      "en_full": "a great Dane. You guys saw in the video. He was literally like a horse.",
+      "zh": "你们在视频里看到了。",
+      "verdict": "wrong",
+      "reason": "英文是 'He was literally like a horse.' 中文翻译为 '你们在视频里看到了。' 完全错译"
+    },
+    {
+      "key": "1465.840-1468.230",
+      "start": 1465.84,
+      "end": 1468.23,
+      "en_full": "He was literally like a horse.",
+      "zh": "他真的像匹马。",
+      "verdict": "pass",
+      "reason": "核心意思 'He was literally like a horse.' 已翻译"
+    },
+    {
+      "key": "1468.240-1470.000",
+      "start": 1468.24,
+      "end": 1470,
+      "en_full": "He was literally like a horse. He was huge. And I got to pet him and I",
+      "zh": "他好大啊。",
+      "verdict": "pass",
+      "reason": "核心意思 'He was huge.' 已翻译"
+    },
+    {
+      "key": "1470.000-1474.400",
+      "start": 1470,
+      "end": 1474.4,
+      "en_full": "like held his head and I was like, I",
+      "zh": "我还摸了他，我抱着他的头，当时我想...",
+      "verdict": "pass",
+      "reason": "核心意思 'I got to pet him and I like held his head and I was like, I' 已翻译"
+    },
+    {
+      "key": "1474.400-1474.559",
+      "start": 1474.4,
+      "end": 1474.559,
+      "en_full": "don't know. And he looked at me and he",
+      "zh": "不知道。",
+      "verdict": "pass",
+      "reason": "核心意思 'don't know.' 已翻译"
+    },
+    {
+      "key": "1474.559-1477.679",
+      "start": 1474.559,
+      "end": 1477.679,
+      "en_full": "don't know. And he looked at me and he was just so adorable. Even though he",
+      "zh": "他看着我，看起来好可爱。",
+      "verdict": "pass",
+      "reason": "核心意思 'And he looked at me and he was just so adorable.' 已翻译"
+    },
+    {
+      "key": "1477.679-1481.440",
+      "start": 1477.679,
+      "end": 1481.44,
+      "en_full": "he's very big, but he's very friendly",
+      "zh": "虽然他很大，但他非常友好。",
+      "verdict": "pass",
+      "reason": "核心意思 'Even though he's very big, but he's very friendly' 已翻译"
+    },
+    {
+      "key": "1481.440-1483.039",
+      "start": 1481.44,
+      "end": 1483.039,
+      "en_full": "though. We recently watched a movie. I",
+      "zh": "我们最近看了一部电影。",
+      "verdict": "pass",
+      "reason": "核心意思 'We recently watched a movie.' 已翻译"
+    },
+    {
+      "key": "1483.039-1485.200",
+      "start": 1483.039,
+      "end": 1485.2,
+      "en_full": "though. We recently watched a movie. I don't remember what it was called. Um",
+      "zh": "我不记得叫什么名字了。",
+      "verdict": "pass",
+      "reason": "核心意思 'I don't remember what it was called.' 已翻译"
+    },
+    {
+      "key": "1485.200-1487.350",
+      "start": 1485.2,
+      "end": 1487.35,
+      "en_full": "something best friend or something.",
+      "zh": "什么\"最好的朋友\"之类的。",
+      "verdict": "pass",
+      "reason": "核心意思 'something best friend or something.' 已翻译"
+    },
+    {
+      "key": "1487.360-1487.919",
+      "start": 1487.36,
+      "end": 1487.919,
+      "en_full": "something best friend or something. Yeah. It was about like this woman who",
+      "zh": "嗯。",
+      "verdict": "pass",
+      "reason": "核心意思 'Yeah.' 已翻译"
+    },
+    {
+      "key": "1487.919-1494.720",
+      "start": 1487.919,
+      "end": 1494.72,
+      "en_full": "basically had to take care of this Great Dane.",
+      "zh": "是关于一个女的要照顾一只大丹犬的故事。",
+      "verdict": "pass",
+      "reason": "核心意思 'It was about like this woman who basically had to take care of this Great Dane.' 已翻译"
+    },
+    {
+      "key": "1494.720-1499.600",
+      "start": 1494.72,
+      "end": 1499.6,
+      "en_full": "story, but I think it was the exact same",
+      "zh": "故事很可爱，但我觉就是同一只狗，就是那个",
+      "verdict": "partial",
+      "reason": "漏译了 'story, but I think it was the exact same dog, like the color and everything.' 中的 'story' 和 'exact same dog'",
+      "missing_info": "story, but I think it was the exact same dog"
+    },
+    {
+      "key": "1499.600-1500.559",
+      "start": 1499.6,
+      "end": 1500.559,
+      "en_full": "dog, like the color and everything. And",
+      "zh": "肤色什么的都变了。",
+      "verdict": "wrong",
+      "reason": "英文是 'like the color and everything. And' 中文翻译为 '肤色什么的都变了。' 错译，原文没有'变了'的意思"
+    },
+    {
+      "key": "1500.559-1507.029",
+      "start": 1500.559,
+      "end": 1507.029,
+      "en_full": "Cheers.",
+      "zh": "太好了。",
+      "verdict": "pass",
+      "reason": "Cheers 翻译为'太好了'符合口语化表达，核心意思一致。"
+    },
+    {
+      "key": "1525.679-1527.440",
+      "start": 1525.679,
+      "end": 1527.44,
+      "en_full": "We're going to go to the beach now. It",
+      "zh": "我们现在要去海滩了。",
+      "verdict": "pass",
+      "reason": "英文句子被截断，中文翻译完整表达了主要意思。"
+    },
+    {
+      "key": "1527.440-1533.520",
+      "start": 1527.44,
+      "end": 1533.52,
+      "en_full": "has started clearing up and the weather forecast says that it's supposed to be",
+      "zh": "天开始放晴了，天气预报说今天剩下的时间",
+      "verdict": "pass",
+      "reason": "中文概括了天气转晴和预报信息，核心意思一致。"
+    },
+    {
+      "key": "1533.520-1534.640",
+      "start": 1533.52,
+      "end": 1534.64,
+      "en_full": "sunny for the rest of the day. And we",
+      "zh": "应该都是晴天。",
+      "verdict": "pass",
+      "reason": "中文翻译了后半句，核心意思一致。"
+    },
+    {
+      "key": "1534.640-1540.320",
+      "start": 1534.64,
+      "end": 1540.32,
+      "en_full": "haven't really gone to the beach with like a towel and a book and just",
+      "zh": "我们还没有真正去过海滩，带着毛巾和书放松一下。",
+      "verdict": "pass",
+      "reason": "中文概括了带毛巾和书去海滩放松，核心意思一致。"
+    },
+    {
+      "key": "1540.320-1542.720",
+      "start": 1540.32,
+      "end": 1542.72,
+      "en_full": "chilled. So, I really wanted to do that today. And I'm going to wear a really",
+      "zh": "所以我今天真的很想去。",
+      "verdict": "pass",
+      "reason": "中文省略了'chilled'但整体意思一致。"
+    },
+    {
+      "key": "1542.720-1546.559",
+      "start": 1542.72,
+      "end": 1546.559,
+      "en_full": "today. And I'm going to wear a really cute bikini. This navy polka dot bikini.",
+      "zh": "我要穿一件超可爱的比基尼。",
+      "verdict": "partial",
+      "reason": "漏译了'navy polka dot bikini'的具体描述。",
+      "missing_info": "英文具体描述了海军蓝波点比基尼，中文只说了'超可爱的比基尼'。"
+    },
+    {
+      "key": "1546.559-1550.230",
+      "start": 1546.559,
+      "end": 1550.23,
+      "en_full": "cute bikini. This navy polka dot bikini. I thought I could just throw on a white",
+      "zh": "这件海军蓝波点比基尼。",
+      "verdict": "pass",
+      "reason": "中文翻译了比基尼的描述，核心意思一致。"
+    },
+    {
+      "key": "1550.240-1555.520",
+      "start": 1550.24,
+      "end": 1555.52,
+      "en_full": "I thought I could just throw on a white",
+      "zh": "我想着可以套一件白色小连衣裙在外面。",
+      "verdict": "pass",
+      "reason": "中文概括了套白色连衣裙，核心意思一致。"
+    },
+    {
+      "key": "1555.520-1559.830",
+      "start": 1555.52,
+      "end": 1559.83,
+      "en_full": "to wear my new boots.",
+      "zh": "我超激动要穿我的新靴子。",
+      "verdict": "pass",
+      "reason": "中文翻译了穿新靴子的兴奋，核心意思一致。"
+    },
+    {
+      "key": "1559.840-1563.510",
+      "start": 1559.84,
+      "end": 1563.51,
+      "en_full": "So, I thought we could wear them today.",
+      "zh": "所以我想我们今天可以穿。",
+      "verdict": "pass",
+      "reason": "中文省略了'we'但意思明确。"
+    },
+    {
+      "key": "1602.640-1606.320",
+      "start": 1602.64,
+      "end": 1606.32,
+      "en_full": "I'm so happy that I'm getting a bit more",
+      "zh": "我好开心我晒黑了一点。",
+      "verdict": "pass",
+      "reason": "中文翻译了晒黑了一点，核心意思一致。"
+    },
+    {
+      "key": "1606.320-1610.159",
+      "start": 1606.32,
+      "end": 1610.159,
+      "en_full": "tan. But I also noticed that I'm a bit red as well. I need to be careful",
+      "zh": "但我也注意到我有点红了。",
+      "verdict": "pass",
+      "reason": "中文翻译了注意到有点红，核心意思一致。"
+    },
+    {
+      "key": "1610.159-1614.320",
+      "start": 1610.159,
+      "end": 1614.32,
+      "en_full": "red as well. I need to be careful because the sun here is very strong. But",
+      "zh": "我需要小心，因为这里的太阳很强烈。",
+      "verdict": "pass",
+      "reason": "中文翻译了需要小心太阳强烈，核心意思一致。"
+    },
+    {
+      "key": "1614.320-1617.679",
+      "start": 1614.32,
+      "end": 1617.679,
+      "en_full": "because the sun here is very strong. But it was so cozy at the beach. Very",
+      "zh": "但海滩上好舒服。",
+      "verdict": "pass",
+      "reason": "中文翻译了海滩上很舒服，核心意思一致。"
+    },
+    {
+      "key": "1617.679-1618.799",
+      "start": 1617.679,
+      "end": 1618.799,
+      "en_full": "it was so cozy at the beach. Very relaxing. It honestly has been the best",
+      "zh": "超级放松。",
+      "verdict": "pass",
+      "reason": "中文翻译了超级放松，核心意思一致。"
+    },
+    {
+      "key": "1618.799-1624.559",
+      "start": 1618.799,
+      "end": 1624.559,
+      "en_full": "relaxing. It honestly has been the best couple of days here in this village. I'm",
+      "zh": "说真的，这几天在这个村子是最好的时候。",
+      "verdict": "pass",
+      "reason": "中文翻译了这几天是最好的时候，核心意思一致。"
+    },
+    {
+      "key": "1624.559-1632.480",
+      "start": 1624.559,
+      "end": 1632.48,
+      "en_full": "so happy that we started our trip here because we just really needed a bit of",
+      "zh": "我好开心我们从这里开始旅行，因为我们真的需要充充电。",
+      "verdict": "pass",
+      "reason": "中文翻译了需要充电，核心意思一致。"
+    },
+    {
+      "key": "1632.480-1639.440",
+      "start": 1632.48,
+      "end": 1639.44,
+      "en_full": "out at 10:00 and we're going to drive to",
+      "zh": "明天我们10点退房，然后开车去开普敦。",
+      "verdict": "pass",
+      "reason": "中文翻译了退房和开车去开普敦，核心意思一致。"
+    },
+    {
+      "key": "1639.440-1646.320",
+      "start": 1639.44,
+      "end": 1646.32,
+      "en_full": "going to cook something simple at home",
+      "zh": "我们就在家做点简单的，然后到外面吃",
+      "verdict": "pass",
+      "reason": "中文翻译了在家做简单的和外出吃，核心意思一致。"
+    },
+    {
+      "key": "1646.320-1652.960",
+      "start": 1646.32,
+      "end": 1652.96,
+      "en_full": "sun is setting and have a cozy evening",
+      "zh": "太阳下山的时候，好好享受这个温馨的夜晚，明天就离开这里了",
+      "verdict": "partial",
+      "reason": "中文多出了'明天就离开这里了'，但英文中该信息在下一句，且中文漏译了'sun is setting and have a cozy evening'中的'sun is setting'和'cozy evening'，但核心意思'享受温馨的夜晚'已传达。不过，英文中'sun is setting'是独立信息，中文未体现。",
+      "missing_info": "sun is setting"
+    },
+    {
+      "key": "1652.960-1654.320",
+      "start": 1652.96,
+      "end": 1654.32,
+      "en_full": "before we leave this place tomorrow. I'm going to be so sad. We've honestly met",
+      "zh": "我一定会很伤心的",
+      "verdict": "partial",
+      "reason": "中文漏译了'before we leave this place tomorrow'，这是独立信息。",
+      "missing_info": "before we leave this place tomorrow"
+    },
+    {
+      "key": "1654.320-1658.559",
+      "start": 1654.32,
+      "end": 1658.559,
+      "en_full": "going to be so sad. We've honestly met so many friendly, lovely people here. So",
+      "zh": "我们在这里遇到了好多友善可爱的人",
+      "verdict": "pass",
+      "reason": "中文概括了英文核心意思，漏译了'going to be so sad'但已在前一句表达，且'We've honestly met'被合并。"
+    },
+    {
+      "key": "1658.559-1660.480",
+      "start": 1658.559,
+      "end": 1660.48,
+      "en_full": "so many friendly, lovely people here. So many adorable dogs. And I know we're",
+      "zh": "还有好多好可爱的狗狗",
+      "verdict": "pass",
+      "reason": "中文准确传达了英文核心意思，漏译了'so many friendly, lovely people here'但已在前一句涵盖。"
+    },
+    {
+      "key": "1660.480-1663.039",
+      "start": 1660.48,
+      "end": 1663.039,
+      "en_full": "many adorable dogs. And I know we're going to miss Molly. Hopefully, we'll be",
+      "zh": "我知道我们会想念Molly的",
+      "verdict": "pass",
+      "reason": "中文准确传达了英文核心意思，漏译了'And I know we're'但无独立信息。"
+    },
+    {
+      "key": "1663.039-1692.480",
+      "start": 1663.039,
+      "end": 1692.48,
+      "en_full": "going to miss Molly. Hopefully, we'll be I could get used to this. We're",
+      "zh": "希望我们能习惯这种生活吧",
+      "verdict": "partial",
+      "reason": "中文漏译了'Hopefully, we'll be'和'I could get used to this'，其中'I could get used to this'是独立信息。",
+      "missing_info": "I could get used to this"
+    },
+    {
+      "key": "1692.480-1694.880",
+      "start": 1692.48,
+      "end": 1694.88,
+      "en_full": "I could get used to this. We're listening to the birds chirping. We can",
+      "zh": "我们听着鸟叫声",
+      "verdict": "pass",
+      "reason": "中文准确传达了英文核心意思，漏译了'We're'但无独立信息。"
+    },
+    {
+      "key": "1694.880-1698.320",
+      "start": 1694.88,
+      "end": 1698.32,
+      "en_full": "listening to the birds chirping. We can hear the waves from the sea. And we're",
+      "zh": "能听到海浪的声音",
+      "verdict": "pass",
+      "reason": "中文准确传达了英文核心意思，漏译了'And we're'但无独立信息。"
+    },
+    {
+      "key": "1698.320-1702.799",
+      "start": 1698.32,
+      "end": 1702.799,
+      "en_full": "eating our dinner and watching the",
+      "zh": "我们一边吃晚饭一边看日落",
+      "verdict": "partial",
+      "reason": "中文漏译了'watching the'，但英文不完整，且中文补充了'日落'，但英文中无此信息。不过，核心意思'吃饭看日落'已传达，但英文原文是'watching the'未完成，中文添加了内容。",
+      "missing_info": "英文不完整，中文添加了'日落'"
+    },
+    {
+      "key": "1702.799-1706.870",
+      "start": 1702.799,
+      "end": 1706.87,
+      "en_full": "this.",
+      "zh": "没有比这更幸福的了",
+      "verdict": "wrong",
+      "reason": "英文只有'this.'，中文翻译为'没有比这更幸福的了'，完全偏离英文原意。英文是片段，中文添加了完整句子。"
+    },
+    {
+      "key": "1706.880-1712.070",
+      "start": 1706.88,
+      "end": 1712.07,
+      "en_full": "But I hope you guys enjoyed watching this cozy vlog and we'll see you next",
+      "zh": "希望你们喜欢看这个温馨的vlog，下期见",
+      "verdict": "pass",
+      "reason": "中文准确传达了英文核心意思，漏译了'But'和'cozy'但无独立信息。"
+    }
+  ],
+  "stats": {
+    "pass": 190,
+    "partial": 53,
+    "wrong": 9
+  }
+}

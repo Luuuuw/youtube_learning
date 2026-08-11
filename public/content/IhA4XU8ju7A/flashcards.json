@@ -1,0 +1,493 @@
+{
+  "videoId": "IhA4XU8ju7A",
+  "generatedAt": "2026-08-11T06:25:46.236Z",
+  "cards": [
+    {
+      "id": "msoa0zr0ncyvf3",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "polygraph",
+      "back": "测谎仪 (noun, B2)",
+      "context": "This is Judd, our **polygraph** expert.",
+      "audioStart": 16.34,
+      "audioEnd": 18.44,
+      "word": "polygraph",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr0i1mdza",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "calibrate",
+      "back": "校准 (verb, B2)",
+      "context": "To begin, I'm going to ask you a few questions to **calibrate** the machine.",
+      "audioStart": 38.08,
+      "audioEnd": 41.42,
+      "word": "calibrate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr0fv5xye",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "loyal",
+      "back": "忠诚的 (adjective, B1)",
+      "context": "So which country are you more **loyal** to?",
+      "audioStart": 72.24,
+      "audioEnd": 74.32,
+      "word": "loyal",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr04hywxy",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "fluent",
+      "back": "流利的 (adjective, B1)",
+      "context": "You're **fluent** in both English and Korean.",
+      "audioStart": 88.32,
+      "audioEnd": 90.7,
+      "word": "fluent",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr0aaz3w7",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "slipped",
+      "back": "（无意中）说出 (verb, B2)",
+      "context": "Have you ever **slipped** into the wrong language while singing?",
+      "audioStart": 91.64,
+      "audioEnd": 94.2,
+      "word": "slipped",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr0fdopdv",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "regret",
+      "back": "后悔 (verb, B1)",
+      "context": "Do you **regret** giving up on your dreams?",
+      "audioStart": 136.44,
+      "audioEnd": 138.04,
+      "word": "regret",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr0dvjj1c",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "suspicious",
+      "back": "可疑的 (adjective, B1)",
+      "context": "That's **suspicious** Yeah I was probably just lazy",
+      "audioStart": 229.52,
+      "audioEnd": 233.76,
+      "word": "suspicious",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr0w9niqd",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "muted",
+      "back": "静音 (verb, B2)",
+      "context": "Have you ever **muted** it?",
+      "audioStart": 291.26,
+      "audioEnd": 292.28,
+      "word": "muted",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr0h49bsv",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "legendary",
+      "back": "传奇的 (adjective, B1)",
+      "context": "No, but Spice Girls, they're **legendary**, so...",
+      "audioStart": 351.38,
+      "audioEnd": 354.98,
+      "word": "legendary",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr02t07r6",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "collaborated",
+      "back": "合作 (verb, B2)",
+      "context": "You also **collaborated** with his fiance, Selena Gomez on the song Ice Cream.",
+      "audioStart": 459.52,
+      "audioEnd": 464.42,
+      "word": "collaborated",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr05zwog6",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "matchmaker",
+      "back": "媒人 (noun, B2)",
+      "context": "Have you ever been a **matchmaker** for any of your celebrity friends?",
+      "audioStart": 471.68,
+      "audioEnd": 474.98,
+      "word": "matchmaker",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0zr07m8woq",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "narcissistic",
+      "back": "自恋的 (adjective, C1)",
+      "context": "I feel so **narcissistic** saying this one.",
+      "audioStart": 615.83,
+      "audioEnd": 619.17,
+      "word": "narcissistic",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:46.236Z"
+    },
+    {
+      "id": "msoa0z66663cpg",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You first joined Blackpink in 2016. Was that the ___ moment of your life? Best moment of my life?",
+      "back": "best",
+      "context": "You first joined Blackpink in 2016. Was that the best moment of your life? Best moment of my life?",
+      "audioStart": 270.8,
+      "audioEnd": 278.1,
+      "hint": "选项：happiest / best / saddest / worst",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:45.486Z"
+    },
+    {
+      "id": "msoa0z66d0i4gn",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) i actually don't like rosé wine that's the only one i don't like so you would never ___",
+      "back": "consider",
+      "context": "i actually don't like rosé wine that's the only one i don't like so you would never consider",
+      "audioStart": 417.8,
+      "audioEnd": 423.1,
+      "hint": "选项：think / believe / consider / imagine",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:45.486Z"
+    },
+    {
+      "id": "msoa0z66cnv8yp",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) APT was the one I was ___.",
+      "back": "bitching",
+      "context": "APT was the one I was bitching.",
+      "audioStart": 668.6,
+      "audioEnd": 676.6,
+      "hint": "选项：complaining / singing / bitching / bragging",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:45.486Z"
+    },
+    {
+      "id": "msoa0z66czqdrq",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) bleach your roots forgotten oh yeah I've forgotten and I ___ it so now I don't",
+      "back": "hated",
+      "context": "bleach your roots forgotten oh yeah I've forgotten and I hated it so now I don't",
+      "audioStart": 768.7,
+      "audioEnd": 776.1,
+      "hint": "选项：hated / enjoyed / liked / loved",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:45.486Z"
+    },
+    {
+      "id": "msoa0z66rw7xg2",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I think I have an old soul Telling truth The song Number One Girl was ___ by",
+      "back": "inspired",
+      "context": "I think I have an old soul Telling truth The song Number One Girl was inspired by",
+      "audioStart": 566.7,
+      "audioEnd": 574.2,
+      "hint": "选项：written / created / produced / inspired",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:45.486Z"
+    },
+    {
+      "id": "msoa0z66oao41i",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) toxic comments you read on social media Do you think social media is always a ___ thing?",
+      "back": "bad",
+      "context": "toxic comments you read on social media Do you think social media is always a bad thing?",
+      "audioStart": 574.2,
+      "audioEnd": 579.6,
+      "hint": "选项：wonderful / good / great / bad",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:45.486Z"
+    },
+    {
+      "id": "msoa0z66tg05l5",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Is that because you appreciate all the fan cams that are ___ of you?",
+      "back": "made",
+      "context": "Is that because you appreciate all the fan cams that are made of you?",
+      "audioStart": 579.6,
+      "audioEnd": 585.9,
+      "hint": "选项：posted / taken / shown / made",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:45.486Z"
+    },
+    {
+      "id": "msoa0z6660m3xu",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) No, I haven't even been into that world before. It's ___.",
+      "back": "interesting",
+      "context": "No, I haven't even been into that world before. It's interesting.",
+      "audioStart": 716.2,
+      "audioEnd": 723.4,
+      "hint": "选项：boring / interesting / weird / exciting",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:45.486Z"
+    },
+    {
+      "id": "msoa0yo34k57p6",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "感觉我好像要惹麻烦了。 感觉我好像要惹麻烦了。\nOh, I ___ ___ checked these videos out before I came.",
+      "back": "should / have",
+      "context": "Oh, I should have checked these videos out before I came.",
+      "audioStart": 23.199,
+      "audioEnd": 31.039,
+      "hint": "should have done",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:44.835Z"
+    },
+    {
+      "id": "msoa0yo35lv0hg",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "你说过你小时候讨厌上钢琴课。 考虑到你的职业，你有没有后悔当时没更用心？\nConsidering your career, do you ___ you ___ paid more attention?",
+      "back": "wish / had",
+      "context": "Considering your career, do you wish you had paid more attention?",
+      "audioStart": 196.84,
+      "audioEnd": 199.74,
+      "hint": "wish sb had done",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:44.835Z"
+    },
+    {
+      "id": "msoa0yo3olnkpv",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "不应该，因为我现在就很后悔。 不应该，因为我现在就很后悔。\n___ I'd done it then, then it ___ be helpful now.",
+      "back": "if / had / would",
+      "context": "If I'd done it then, then it would be helpful now.",
+      "audioStart": 209.58,
+      "audioEnd": 213.5,
+      "hint": "if had done would be",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:44.835Z"
+    },
+    {
+      "id": "msoa0yo4zi4156",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "不会 你觉得活在1920年代会更幸福吗\nDo you think you ___ ___ ___ happier living in the 1920s?",
+      "back": "would / have / been",
+      "context": "Do you think you would have been happier living in the 1920s?",
+      "audioStart": 529.086,
+      "audioEnd": 531.765,
+      "hint": "would have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:44.836Z"
+    },
+    {
+      "id": "msoa0yo4n2n763",
+      "videoId": "IhA4XU8ju7A",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "不会 你觉得活在1920年代会更幸福吗\nDo you think you ___ ___ ___ a better Glinda than this person?",
+      "back": "would / have / been",
+      "context": "Do you think you would have been a better Glinda than this person?",
+      "audioStart": 529.086,
+      "audioEnd": 531.765,
+      "hint": "would have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:44.836Z"
+    }
+  ]
+}

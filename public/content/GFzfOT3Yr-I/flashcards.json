@@ -1,0 +1,417 @@
+{
+  "videoId": "GFzfOT3Yr-I",
+  "generatedAt": "2026-08-11T06:24:49.238Z",
+  "cards": [
+    {
+      "id": "mso9zrrpwb79o8",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "keynote",
+      "back": "主题演讲 (noun, B2)",
+      "context": "For this afternoon's **keynote**, or fireside chat, I suppose, I'm about to introduce somebody",
+      "audioStart": 8.54,
+      "audioEnd": 13.7,
+      "word": "keynote",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.237Z"
+    },
+    {
+      "id": "mso9zrrph0f5xi",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "synchronized",
+      "back": "同步的 (adjective, B2)",
+      "context": "You were so **synchronized**.",
+      "audioStart": 122.16,
+      "audioEnd": 126.14,
+      "word": "synchronized",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.237Z"
+    },
+    {
+      "id": "mso9zrrpdco6kb",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "ricocheting",
+      "back": "回响，弹回 (verb, C1)",
+      "context": "And that was still **ricocheting** around in my mind.",
+      "audioStart": 255.62,
+      "audioEnd": 258.68,
+      "word": "ricocheting",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.237Z"
+    },
+    {
+      "id": "mso9zrrpln21io",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "ample",
+      "back": "充足的 (adjective, B2)",
+      "context": "I wish upon you **ample** doses of pain and suffering.",
+      "audioStart": 313.84,
+      "audioEnd": 320.6,
+      "word": "ample",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.237Z"
+    },
+    {
+      "id": "mso9zrrp00uizt",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "endeavor",
+      "back": "努力，奋斗 (verb, B2)",
+      "context": "You have to **endeavor**.",
+      "audioStart": 436.86,
+      "audioEnd": 439.48,
+      "word": "endeavor",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.237Z"
+    },
+    {
+      "id": "mso9zrrq1d16l2",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "innate",
+      "back": "天生的 (adjective, C1)",
+      "context": "Anything in your upbringing that taught you that idea, or is it just somehow **innate** to your makeup?",
+      "audioStart": 468.02,
+      "audioEnd": 473.84,
+      "word": "innate",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.238Z"
+    },
+    {
+      "id": "mso9zrrqulc8f7",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "privileged",
+      "back": "有特权的 (adjective, B2)",
+      "context": "I don't really believe there's any information that I operate on that somehow only one or two people should hear about.",
+      "audioStart": 701.86,
+      "audioEnd": 706.46,
+      "word": "privileged",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.238Z"
+    },
+    {
+      "id": "mso9zrrq0sglrp",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "empowers",
+      "back": "赋予权力 (verb, B2)",
+      "context": "I believe that when you give everybody equal access to information, it **empowers** people.",
+      "audioStart": 760.4,
+      "audioEnd": 762.26,
+      "word": "empowers",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.238Z"
+    },
+    {
+      "id": "mso9zrrqc1jz1o",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "deprive",
+      "back": "剥夺 (verb, C1)",
+      "context": "The issue, the problem I have with one-on-ones and taking feedback aside is you **deprive** a whole bunch of people that same learning.",
+      "audioStart": 900.36,
+      "audioEnd": 904.78,
+      "word": "deprive",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.238Z"
+    },
+    {
+      "id": "mso9zrrq7p107w",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "torture",
+      "back": "折磨 (verb, B2)",
+      "context": "I'd rather **torture** you into greatness because I believe in you.",
+      "audioStart": 1029.71,
+      "audioEnd": 1035.81,
+      "word": "torture",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.238Z"
+    },
+    {
+      "id": "mso9zrrqpyy0lu",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "concretize",
+      "back": "具体化 (verb, C1)",
+      "context": "But to **concretize** this a bit, what does a day in Jensen's life look like?",
+      "audioStart": 1173.05,
+      "audioEnd": 1178.75,
+      "word": "concretize",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.238Z"
+    },
+    {
+      "id": "mso9zrrqpe069t",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vaporized",
+      "back": "蒸发，使消失 (verb, C1)",
+      "context": "You **vaporized** you created something out of vapor it wasn't as if there was another you",
+      "audioStart": 1383.47,
+      "audioEnd": 1390.33,
+      "word": "vaporized",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:49.238Z"
+    },
+    {
+      "id": "mso9zpxw4aruyy",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Like, what did you think? I thought it was ___.",
+      "back": "A+",
+      "context": "Like, what did you think? I thought it was A+.",
+      "audioStart": 149.4,
+      "audioEnd": 154.8,
+      "hint": "选项：C / B- / D / A+",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:46.868Z"
+    },
+    {
+      "id": "mso9zpxwwyrd6p",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) company, what ___ you guys, what keeps",
+      "back": "inspires",
+      "context": "company, what inspires you guys, what keeps",
+      "audioStart": 164.8,
+      "audioEnd": 169.4,
+      "hint": "选项：inspires / drives / excites / motivates",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:46.868Z"
+    },
+    {
+      "id": "mso9zpxwaslttk",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I don't love every ___ of my job.",
+      "back": "day",
+      "context": "I don't love every day of my job.",
+      "audioStart": 398.5,
+      "audioEnd": 405,
+      "hint": "选项：hour / day / minute / week",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:46.868Z"
+    },
+    {
+      "id": "mso9zpxwh0osfw",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Yeah. And they all report to you? Yeah, they all report to me. 60 ___ reports.",
+      "back": "direct",
+      "context": "Yeah. And they all report to you? Yeah, they all report to me. 60 direct reports.",
+      "audioStart": 633,
+      "audioEnd": 639.5,
+      "hint": "选项：indirect / junior / direct / senior",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:46.868Z"
+    },
+    {
+      "id": "mso9zpxwqj9jhk",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And so I don't like giving up on people because I think they could ___.",
+      "back": "improve",
+      "context": "And so I don't like giving up on people because I think they could improve.",
+      "audioStart": 1009.7,
+      "audioEnd": 1013.7,
+      "hint": "选项：succeed / improve / change / grow",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:46.868Z"
+    },
+    {
+      "id": "mso9zpxw84gdug",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And oftentimes they're so close. Don't ___.",
+      "back": "give",
+      "context": "And oftentimes they're so close. Don't give up.",
+      "audioStart": 1034.4,
+      "audioEnd": 1040.5,
+      "hint": "选项：surrender / give / stop / quit",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:46.868Z"
+    },
+    {
+      "id": "mso9zpxwnr50bz",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Do you know what I'm saying? That feeling that you didn't get it yesterday, and all of a ___.",
+      "back": "sudden",
+      "context": "Do you know what I'm saying? That feeling that you didn't get it yesterday, and all of a",
+      "audioStart": 1044.3,
+      "audioEnd": 1047.9,
+      "hint": "选项：moment / sudden / once / time",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:46.868Z"
+    },
+    {
+      "id": "mso9zqen84oebz",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "你在斯坦福一个活动上说的，应该是商学院那场 你说，希望你们能经历充足的痛苦和磨难\nI ___ ___ you ample doses of pain and suffering.",
+      "back": "wish / upon",
+      "context": "I wish upon you ample doses of pain and suffering.",
+      "audioStart": 313.839,
+      "audioEnd": 320.6,
+      "hint": "I wish upon you",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:47.471Z"
+    },
+    {
+      "id": "mso9zqeo6c9hem",
+      "videoId": "GFzfOT3Yr-I",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "能展开讲讲吗？ 我宁愿花心思提升你也不愿放弃你\nI'd ___ improve you ___ give up on you.",
+      "back": "would / rather / than",
+      "context": "I'd rather improve you than give up on you.",
+      "audioStart": 968.746,
+      "audioEnd": 972.187,
+      "hint": "would rather than",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:47.472Z"
+    }
+  ]
+}

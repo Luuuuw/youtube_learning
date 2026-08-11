@@ -1,0 +1,493 @@
+{
+  "videoId": "q-PS9usMevQ",
+  "generatedAt": "2026-08-11T06:28:31.010Z",
+  "cards": [
+    {
+      "id": "msoa4iw1mrv0le",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "craving",
+      "back": "渴望，强烈的欲望 (noun, B2)",
+      "context": "I was **craving** coconut water.",
+      "audioStart": 84.5,
+      "audioEnd": 86.3,
+      "word": "craving",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.009Z"
+    },
+    {
+      "id": "msoa4iw15foljg",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "versatile",
+      "back": "多用途的，多才多艺的 (adjective, B2)",
+      "context": "It's like a very **versatile** little type piece of jewelry.",
+      "audioStart": 120.5,
+      "audioEnd": 124.7,
+      "word": "versatile",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.009Z"
+    },
+    {
+      "id": "msoa4iw1g0x2ag",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "disheveled",
+      "back": "凌乱的，不整洁的 (adjective, C1)",
+      "context": "I don't want to arrive there like looking **disheveled** and sweaty.",
+      "audioStart": 435.8,
+      "audioEnd": 442.4,
+      "word": "disheveled",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.009Z"
+    },
+    {
+      "id": "msoa4iw12253uf",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "debriefing",
+      "back": "汇报，听取汇报 (noun, C1)",
+      "context": "We're **debriefing** from there.",
+      "audioStart": 769.5,
+      "audioEnd": 771.6,
+      "word": "debriefing",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.009Z"
+    },
+    {
+      "id": "msoa4iw16wbg8g",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "terrified",
+      "back": "恐惧的，受惊吓的 (adjective, B2)",
+      "context": "I am absolutely **terrified** about because I get very much carsick.",
+      "audioStart": 860.7,
+      "audioEnd": 867.2,
+      "word": "terrified",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.009Z"
+    },
+    {
+      "id": "msoa4iw27tp9ks",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "mayhem",
+      "back": "混乱，骚乱 (noun, C1)",
+      "context": "It is **mayhem** in the streets of Paris.",
+      "audioStart": 1120.6,
+      "audioEnd": 1124.6,
+      "word": "mayhem",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.010Z"
+    },
+    {
+      "id": "msoa4iw2qixbl5",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "exfoliate",
+      "back": "去角质，使脱落 (verb, C1)",
+      "context": "I'm going to do the Goop Beauty Microderm Instant Glow **Exfoliator**.",
+      "audioStart": 1258.9,
+      "audioEnd": 1263.1,
+      "word": "exfoliate",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.010Z"
+    },
+    {
+      "id": "msoa4iw2514ui1",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "splurging",
+      "back": "挥霍，乱花钱 (verb, C1)",
+      "context": "I don't mind **splurging** in masks because you don't do them that often.",
+      "audioStart": 1330.1,
+      "audioEnd": 1333,
+      "word": "splurging",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.010Z"
+    },
+    {
+      "id": "msoa4iw2i5sc2z",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "pigmented",
+      "back": "着色的，有颜料的 (adjective, C1)",
+      "context": "Super **pigmented** a kind of satin finish.",
+      "audioStart": 1702.3,
+      "audioEnd": 1710,
+      "word": "pigmented",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.010Z"
+    },
+    {
+      "id": "msoa4iw2hp87tu",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "unisex",
+      "back": "中性的，男女皆宜的 (adjective, B2)",
+      "context": "It's a very **unisex** scent.",
+      "audioStart": 1767.2,
+      "audioEnd": 1771.4,
+      "word": "unisex",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.010Z"
+    },
+    {
+      "id": "msoa4iw2oneytq",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "impeccable",
+      "back": "无可挑剔的，完美的 (adjective, C1)",
+      "context": "The price point honestly is **impeccable** for the quality.",
+      "audioStart": 1882.3,
+      "audioEnd": 1886.9,
+      "word": "impeccable",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.010Z"
+    },
+    {
+      "id": "msoa4iw2i52h9v",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "clutch",
+      "back": "手拿包 (noun, B2)",
+      "context": "It's a **clutch**, a black leather clutch.",
+      "audioStart": 1900.2,
+      "audioEnd": 1905.8,
+      "word": "clutch",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:31.010Z"
+    },
+    {
+      "id": "msoa4haebf84fk",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This is one of their ___ pieces.",
+      "back": "best-selling",
+      "context": "This is one of their best-selling pieces.",
+      "audioStart": 1892,
+      "audioEnd": 1895,
+      "hint": "选项：popular / new / best-selling / expensive",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:28.934Z"
+    },
+    {
+      "id": "msoa4hae75bxmu",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) not disturb sign so ___ so thoughtful and I just love to have this like in my",
+      "back": "cute",
+      "context": "not disturb sign so cute so thoughtful and I just love to have this like in my",
+      "audioStart": 1647.4,
+      "audioEnd": 1650.8,
+      "hint": "选项：funny / nice / small / cute",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:28.934Z"
+    },
+    {
+      "id": "msoa4haehi9mgx",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) um how to say ___ I think I'm gonna bring it to the office I think it's",
+      "back": "library",
+      "context": "um how to say library I think I'm gonna bring it to the office I think it's",
+      "audioStart": 1653.1,
+      "audioEnd": 1659.2,
+      "hint": "选项：home / store / library / office",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:28.934Z"
+    },
+    {
+      "id": "msoa4hae3911yt",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) ___ the line in term of lip liner I think I'd try a little bit more of",
+      "back": "blur",
+      "context": "blur the line in term of lip liner I think I'd try a little bit more of",
+      "audioStart": 1664,
+      "audioEnd": 1669.7,
+      "hint": "选项：draw / define / cross / blur",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:28.934Z"
+    },
+    {
+      "id": "msoa4haewj8b0m",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) is a ___ product but i don't mind splurging in masks because you don't do them that often",
+      "back": "pricey",
+      "context": "is a pricey product but i don't mind splurging in masks because you don't do them that often",
+      "audioStart": 1322.3,
+      "audioEnd": 1328.9,
+      "hint": "选项：cheap / quality / beauty / pricey",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:28.934Z"
+    },
+    {
+      "id": "msoa4hael1apf5",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) ___ not driving but I'm gonna get driven into a car on the circuit which I",
+      "back": "brief",
+      "context": "brief not driving but I'm gonna get driven into a car on the circuit which I",
+      "audioStart": 903.3,
+      "audioEnd": 906.5,
+      "hint": "选项：fast / brief / short / quick",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:28.934Z"
+    },
+    {
+      "id": "msoa4hae1a7ecc",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) and yesterday seeing also the people so excited to drive in cars that they ___ of and things",
+      "back": "dream",
+      "context": "and yesterday seeing also the people so excited to drive in cars that they dream of and things",
+      "audioStart": 1416.2,
+      "audioEnd": 1423.9,
+      "hint": "选项：think / hope / dream / wish",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:28.934Z"
+    },
+    {
+      "id": "msoa4haedx5bdt",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We did barbecues, canoe cake, and ___ and things like that.",
+      "back": "fishing",
+      "context": "We did barbecues, canoe cake, and fishing and things like that.",
+      "audioStart": 32.2,
+      "audioEnd": 39.3,
+      "hint": "选项：fishing / hiking / camping / swimming",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:28.934Z"
+    },
+    {
+      "id": "msoa4hcpcun5rp",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "比如现在他每分钟都问我们到了没 能不能发 我给他看看视频\nI ___ we ___ ___ invited him.",
+      "back": "wish / could / have",
+      "context": "I wish we could have invited him.",
+      "audioStart": 265.3,
+      "audioEnd": 267.519,
+      "hint": "wish could have",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:29.017Z"
+    },
+    {
+      "id": "msoa4hcp92ud1t",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我给他看看视频 真希望能邀请他就好了\nYes, he ___ ___ ___ it.",
+      "back": "would / have / loved",
+      "context": "Yes, he would have loved it.",
+      "audioStart": 267.54,
+      "audioEnd": 269.06,
+      "hint": "would have loved",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:29.017Z"
+    },
+    {
+      "id": "msoa4hcph8e0x0",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "到了那儿的时候看起来很狼狈、满身汗 我很庆幸错过了最后一场比赛\nI ___ ___ ___ to watch it",
+      "back": "would / have / loved",
+      "context": "I would have loved to watch it",
+      "audioStart": 442.439,
+      "audioEnd": 447.199,
+      "hint": "would have loved to",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:29.017Z"
+    },
+    {
+      "id": "msoa4hcp4xuszv",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "现在她坐那儿，我坐在这边 现在她坐那儿，我坐在这边\n___ ___ we don't know each other.",
+      "back": "as / if",
+      "context": "As if we don't know each other.",
+      "audioStart": 765.871,
+      "audioEnd": 767.792,
+      "hint": "as if",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:29.017Z"
+    },
+    {
+      "id": "msoa4hcq0e9klm",
+      "videoId": "q-PS9usMevQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "这款香水味道非常好闻。 如果在实体店，我可能不会买，但现在\nBut ___ ___ I have it, I'm like, should I explore this type of scent for myself?",
+      "back": "now / that",
+      "context": "But now that I have it, I'm like, should I explore this type of scent for myself?",
+      "audioStart": 1787.276,
+      "audioEnd": 1793.675,
+      "hint": "now that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:29.018Z"
+    }
+  ]
+}

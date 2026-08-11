@@ -1,0 +1,545 @@
+{
+  "videoId": "ZKOidBrA_Vw",
+  "title": "ZKOidBrA_Vw",
+  "generatedAt": "2026-08-10T11:29:08.851Z",
+  "version": 1,
+  "totalQuestions": 23,
+  "stats": {
+    "easy": 11,
+    "medium": 9,
+    "hard": 3,
+    "choice": 19,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the expression 'stop me if this rings true' mean in this context?",
+      "options": [
+        "A) Make a phone call to stop someone",
+        "B) Interrupts me if what I'm saying sounds familiar/relatable to you",
+        "C) Stop me from ringing a bell",
+        "D) Ask me to stop talking about music"
+      ],
+      "answer": "B",
+      "explanation": "'Rings true' 是一个英语习语，意思是'听起来熟悉/有共鸣/让人觉得说到心里去了'。说话者用这个表达是希望对方如果也有同感就打断他，表示接下来的内容可能也是对方的经历。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 12.1,
+      "endTime": 14.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "rings true",
+        "familiar",
+        "idiom",
+        "relatable"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the speaker, what happened in February 2020?",
+      "options": [
+        "A) She started a new job",
+        "B) She traveled around the world",
+        "C) Everything was great just before lockdown",
+        "D) She wrote a book"
+      ],
+      "answer": "C",
+      "explanation": "字幕明确提到 'about february 2020 just before lockdown everything was great'，指的是2020年2月新冠疫情封锁之前一切都很好。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 6.8,
+      "endTime": 12.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lockdown",
+        "February 2020",
+        "pandemic"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "The speaker says she 'did a pub quiz the other day' because she knows the other person loves what?",
+      "options": [
+        "A) Cooking",
+        "B) Harry Potter",
+        "C) Sports",
+        "D) Music"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'i did a pub quiz the other day because i know you...love pub quizzes big time harry potter'，她做这个酒吧知识竞赛是因为知道对方热爱哈利波特。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 23.5,
+      "endTime": 31.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pub quiz",
+        "Harry Potter",
+        "fan"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "How does the speaker describe the pub quiz she attended?",
+      "options": [
+        "A) The most boring quiz ever",
+        "B) The most ridiculous quiz she has ever done",
+        "C) The most educational quiz",
+        "D) The easiest quiz in the world"
+      ],
+      "answer": "B",
+      "explanation": "字幕中她明确说 'it was the most ridiculous quiz I have ever done'（这是我参加过的最荒谬的知识竞赛）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 31.1,
+      "endTime": 36.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ridiculous",
+        "absurd",
+        "pub quiz"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "One of the quiz questions mentioned in the video is about the referee for what event?",
+      "options": [
+        "A) The 1994 Quidditch World Cup",
+        "B) The 1964 Quidditch World Cup",
+        "C) The Hogwarts House Championship",
+        "D) The Triwizard Tournament"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'who was the referee for like the 1964 Quidditch World Cup'，1964年魁地奇世界杯的裁判是谁。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 36.1,
+      "endTime": 43.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Quidditch",
+        "World Cup",
+        "referee",
+        "1964"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What is the name of Ron's rat in Harry Potter?",
+      "options": [
+        "A) Crookshanks",
+        "B) Scabbers",
+        "C) Fawkes",
+        "D) Hedwig"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确回答了 Ron's rat 的名字是 'Scabbers'。Scabbers 实际上是 Peter Pettigrew（小矮星彼得）的化名。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 54.8,
+      "endTime": 62.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Scabbers",
+        "Peter Pettigrew",
+        "rat",
+        "Ron Weasley"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is revealed about Scabbers later in the story?",
+      "options": [
+        "A) He is actually a cat",
+        "B) He turns into the bad guy / is Peter Pettigrew",
+        "C) He can fly",
+        "D) He belongs to Hermione"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'turns into the bad guy or like i will accept peter pettigrew'，指的是 Scabbers 后来变成坏人（小矮星彼得）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 63.4,
+      "endTime": 77.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Peter Pettigrew",
+        "Scabbers",
+        "animagus",
+        "villain"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is the name of Hermione's cat?",
+      "options": [
+        "A) Scabbers",
+        "B) Crookshanks",
+        "C) Fang",
+        "D) Trevor"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确回答了 Hermione's cat 的名字是 'Crookshanks'（克鲁克山）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 101.7,
+      "endTime": 111.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Crookshanks",
+        "Hermione",
+        "cat",
+        "half-cat"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "According to the speaker, Crookshanks is technically what?",
+      "options": [
+        "A) A pure cat",
+        "B) Half cat (half Kneazle)",
+        "C) A dog",
+        "D) An owl"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'it's technically not a cat, it's half cat'，从严格意义上说它不是猫，它是半猫（实际上是半猫半克尼尔猫/Kneazle）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.1,
+      "endTime": 117.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Crookshanks",
+        "half-cat",
+        "Kneazle",
+        "technically"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the name of Hagrid's dog?",
+      "options": [
+        "A) Scabbers",
+        "B) Trevor",
+        "C) Fang",
+        "D) Norbert"
+      ],
+      "answer": "C",
+      "explanation": "字幕中回答 Hagrid's pet 的名字是 'Fang'（牙牙），是海格养的大猎犬。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 133.3,
+      "endTime": 144.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Fang",
+        "Hagrid",
+        "dog",
+        "boarhound"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the name of Neville Longbottom's pet toad?",
+      "options": [
+        "A) Trevor",
+        "B) Scabbers",
+        "C) Crookshanks",
+        "D) Fang"
+      ],
+      "answer": "A",
+      "explanation": "字幕中回答 Neville Longbottom's pet toad 的名字是 'Trevor'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 144.5,
+      "endTime": 157.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Trevor",
+        "Neville Longbottom",
+        "toad",
+        "pet"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "The speaker says she can remember all the Harry Potter stuff, but in school she couldn't do what?",
+      "options": [
+        "A) Read a book",
+        "B) Do a simultaneous equation",
+        "C) Write an essay",
+        "D) Speak in class"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'do a simultaneous equation, my brain was like, no'，她说自己上学时如果被要求做一道联立方程，大脑的反应就是'不行'。这是一个幽默的自嘲。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 172.7,
+      "endTime": 182.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "simultaneous equation",
+        "math",
+        "school",
+        "brain"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "When the speaker says 'I put it on my tree', what is she most likely referring to?",
+      "options": [
+        "A) A Christmas tree",
+        "B) A family tree",
+        "C) A decision tree",
+        "D) A tree in the garden"
+      ],
+      "answer": "B",
+      "explanation": "在哈利波特的背景下，'put it on my tree' 很可能指的是把信息放在家族树上（family tree），这是巫师们用来追踪血统和家族关系的图表。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 194.4,
+      "endTime": 199.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "family tree",
+        "genealogy",
+        "bloodline"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "The speaker mentions 'it's not Gryffindor'. Which Harry Potter house is she ruling out?",
+      "options": [
+        "A) Slytherin",
+        "B) Hufflepuff",
+        "C) Ravenclaw",
+        "D) Gryffindor"
+      ],
+      "answer": "D",
+      "explanation": "字幕中明确说 'Now I know it's not Gryffindor'，格兰芬多（Gryffindor）是霍格沃茨的四大学院之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 199.8,
+      "endTime": 201.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Gryffindor",
+        "Hogwarts",
+        "house",
+        "Harry Potter"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker ask viewers to do at the end of the video?",
+      "options": [
+        "A) Buy a product",
+        "B) Subscribe and click the bell icon",
+        "C) Visit a website",
+        "D) Call a number"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'don't forget to subscribe and click the bell icon'，这是YouTube视频结尾常见的呼吁订阅和开启通知的用语。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 205.5,
+      "endTime": 209.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "subscribe",
+        "bell icon",
+        "notification",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "Where can viewers find these interviews in full?",
+      "options": [
+        "A) Netflix",
+        "B) BBC iPlayer",
+        "C) YouTube Premium",
+        "D) Amazon Prime"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'you can find these interviews in full on BBC iPlayer by searching Movies with...'，BBC iPlayer 是英国广播公司的流媒体平台。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 215.3,
+      "endTime": 219.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "BBC iPlayer",
+        "interview",
+        "streaming",
+        "platform"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What phrase does the speaker use to mean 'I was very worried or scared for a moment'?",
+      "options": [
+        "A) 'You were scared for a second there, weren't you?'",
+        "B) 'I was like, whiskers?'",
+        "C) 'Going to run out of time'",
+        "D) 'But that's fine'"
+      ],
+      "answer": "A",
+      "explanation": "字幕中 'God, you were scared for a second there, weren't you?' 是对方在确认回答者刚才是否因为不确定答案而感到紧张/害怕。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 106.3,
+      "endTime": 109.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "scared",
+        "moment",
+        "nervous",
+        "second"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'I said whiskers' imply about the speaker's answer to Ron's rat question?",
+      "options": [
+        "A) She gave the correct answer",
+        "B) She gave a wrong/uncertain answer (whiskers isn't the real name)",
+        "C) She refused to answer",
+        "D) She gave multiple answers"
+      ],
+      "answer": "B",
+      "explanation": "字幕中她先说 'I said whiskers' 然后对方纠正 'Scabbers'，说明 whiskers 是她不确定时随口说的错误答案，而正确答案是 Scabbers。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 89.8,
+      "endTime": 94.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "whiskers",
+        "uncertain",
+        "wrong answer",
+        "guessing"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Have you ever done a pub quiz? If yes, describe the experience. If no, would you like to try one? Why or why not?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道口语题参考视频中提到的 pub quiz 经历，鼓励学生用英语分享自己参加酒吧知识竞赛或类似活动的经验。",
+      "referenceAnswer": "可以分享参加 pub quiz 的经历，描述问题类型（如音乐、电影、历史、科学等），团队合作的过程，获胜或失败的感觉。如果没参加过，可以表达是否愿意尝试并说明原因。",
+      "hint": "Think about: what kind of questions were asked, did you win, who was on your team, how did you feel?",
+      "startTime": 23.5,
+      "endTime": 36.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pub quiz",
+        "experience",
+        "team",
+        "trivia"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Who is your favorite character in Harry Potter and why? Describe them in detail.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题参考视频关于哈利波特人物和宠物的讨论，鼓励学生用英语描述自己喜欢的角色及其原因。",
+      "referenceAnswer": "可以谈论 Harry, Hermione, Ron, Dumbledore, Snape 等角色。描述其外貌特征、性格特点、重要的故事情节以及为什么喜欢这个角色。例如 Hermione 的聪明勇敢、Snape 的复杂性格、Dumbledore 的智慧等。",
+      "hint": "Consider: their personality, important moments, what they teach you, why they inspire you.",
+      "startTime": 27,
+      "endTime": 36.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "favorite character",
+        "Harry Potter",
+        "describe",
+        "personality"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "The speaker can remember all Harry Potter details but struggled with math at school. Do you have a similar experience where you can remember trivia better than 'important' school subjects? Tell us about it.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道口语题基于视频中 speaker 关于能记住哈利波特细节但不能做联立方程的自嘲，鼓励学生分享类似的经历。",
+      "referenceAnswer": "可以分享自己在某些看似'无用'的领域（流行文化、电影细节、体育数据、游戏知识等）记忆力特别好，但在学校正式科目（数学、历史公式等）上却表现一般的经历。描述具体例子和感受。",
+      "hint": "Think about: pop culture facts, movie details, sports statistics, or other 'useless' knowledge you remember well.",
+      "startTime": 172.7,
+      "endTime": 182.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "memory",
+        "trivia",
+        "school subjects",
+        "personal experience"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "If you had a pet, what would it be and what would you name it? Why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道口语题参考视频中讨论的各种宠物（猫、狗、蟾蜍、老鼠等），鼓励学生用英语表达对宠物的喜好。",
+      "referenceAnswer": "可以谈论想要养的宠物类型（猫、狗、鸟、鱼、爬行动物等），为它取的名字以及为什么取这个名字。可以结合宠物的性格、外貌特征或者参考自己喜欢的电影/书中的角色来取名。",
+      "hint": "Think about: the type of pet, the perfect name and its meaning, why you chose this name.",
+      "startTime": 96.3,
+      "endTime": 101.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pet",
+        "name",
+        "cat",
+        "dog",
+        "companion"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does the phrase 'going to run out of time' mean in this context?",
+      "options": [
+        "A) There will be no more time available to complete something",
+        "B) The clock will stop working",
+        "C) Time will go faster",
+        "D) It's time to leave"
+      ],
+      "answer": "A",
+      "explanation": "'Run out of time' 是一个常用短语，意思是'时间用完了/来不及了'。在视频中，说话者用 'we're not going to run out of time' 来安慰对方不用担心时间不够。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 82.2,
+      "endTime": 87.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "run out of time",
+        "running out",
+        "insufficient time",
+        "deadline"
+      ]
+    }
+  ]
+}

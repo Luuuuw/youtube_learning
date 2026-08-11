@@ -1,552 +1,554 @@
 {
   "videoId": "WozDukWhyzU",
-  "title": "No friends is fine - EP 47 // Pretty Lonesome with Madeline Argy",
-  "generatedAt": "2026-06-15T09:04:46.297Z",
+  "title": "WozDukWhyzU",
+  "generatedAt": "2026-08-11T03:17:23.278Z",
   "version": 1,
   "totalQuestions": 24,
   "stats": {
-    "easy": 5,
-    "medium": 12,
+    "easy": 6,
+    "medium": 11,
     "hard": 7,
-    "choice": 21,
-    "speaking": 3
+    "choice": 20,
+    "speaking": 4
   },
   "questions": [
     {
       "id": 1,
       "type": "choice",
-      "question": "According to the speaker, how serious should we treat making friends?",
+      "question": "What does the speaker mean by the word 'conundrum' in this context?",
       "options": [
-        "A) It's not as serious as romantic relationships",
-        "B) They are as serious as romantic relationships",
-        "C) It's less important than career",
-        "D) It's only for young people"
+        "A) A type of food she enjoys",
+        "B) A confusing or difficult problem or situation",
+        "C) A happy celebration",
+        "D) A type of animal"
       ],
       "answer": "B",
-      "explanation": "根据字幕'to make friends they are as serious as romantic relationships'，说话者认为交朋友应该像对待恋爱关系一样认真。",
+      "explanation": "'Conundrum' 是英语单词，意为'难题'或'令人困惑的局面'。说话者提到她最近经常使用这个词，因为刚想起它的存在，说明她生活中遇到了不少纠结和困惑的事情。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 2142.4,
-      "endTime": 2148.9,
+      "startTime": 35.8,
+      "endTime": 39.6,
       "difficulty": "easy",
       "relatedWords": [
-        "friends",
-        "serious",
-        "romantic relationships"
+        "conundrum",
+        "vocabulary",
+        "confusion"
       ]
     },
     {
       "id": 2,
       "type": "choice",
-      "question": "What does the speaker suggest about spending time alone?",
+      "question": "What is next to the speaker at the beginning of the video?",
       "options": [
-        "A) It's always negative and should be avoided",
-        "B) It might be what you're supposed to do right now",
-        "C) It means you have no friends",
-        "D) It's only for people who are lonely"
+        "A) Her mother",
+        "B) Her dog",
+        "C) Her grandmother",
+        "D) Her sister"
       ],
       "answer": "B",
-      "explanation": "根据字幕'spend some time by yourself because maybe that is just what you're supposed to do right now'，说话者认为独处可能是你目前应该做的事情。",
+      "explanation": "说话者明确提到 'my dog is next to me'（我的狗在我旁边），她还说狗狗快要开始做某事（可能是叫或者打呼），这表明录制视频时她的狗就在她身边。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1478.5,
-      "endTime": 1483.6,
-      "difficulty": "medium",
+      "startTime": 45.4,
+      "endTime": 48.3,
+      "difficulty": "easy",
       "relatedWords": [
-        "spend time",
-        "yourself",
-        "supposed"
+        "dog",
+        "pet",
+        "next to"
       ]
     },
     {
       "id": 3,
       "type": "choice",
-      "question": "What does 'platonic' mean in the context of finding a soulmate?",
+      "question": "What can be inferred about the speaker's current living situation from her comments?",
       "options": [
-        "A) Romantic love",
-        "B) Non-romantic love",
-        "C) Family relationship",
-        "D) Professional partnership"
+        "A) She lives alone in her own house",
+        "B) She lives with her mother, partly due to economic reasons",
+        "C) She lives abroad with friends",
+        "D) She lives with a partner"
       ],
       "answer": "B",
-      "explanation": "字幕中说'okay well that's when I have to find the girl that is my soulmate platonically'，这里的'platonic'指的是非浪漫的精神层面的友谊。",
+      "explanation": "结合多个片段可以推断，说话者目前和妈妈住在一起。她提到 'the economy, shit'（经济真糟糕），暗示经济原因是她回家和妈妈同住的一个因素。同时她也说 'I don't mind living with my mom' 进一步证实了这一点。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1345.9,
-      "endTime": 1352.2,
-      "difficulty": "hard",
+      "startTime": 57.9,
+      "endTime": 60.6,
+      "difficulty": "medium",
       "relatedWords": [
-        "platonic",
-        "soulmate",
-        "friend"
+        "economy",
+        "living situation",
+        "family"
       ]
     },
     {
       "id": 4,
       "type": "choice",
-      "question": "What does the speaker say about people knowing the value of friendship?",
+      "question": "How does the speaker feel about living with her mom?",
       "options": [
-        "A) Everyone knows it naturally",
-        "B) Not many people know it in this day and age",
-        "C) Only older people understand it",
-        "D) It's becoming less important"
+        "A) She hates it",
+        "B) She doesn't mind it",
+        "C) She is embarrassed about it",
+        "D) She is angry about it"
       ],
       "answer": "B",
-      "explanation": "根据字幕'people know the value of friendship in this day and age'，说话者感叹现在很多人并不了解友谊的价值。",
+      "explanation": "说话者明确说 'I don't mind living with my mom'（我不介意和妈妈住在一起），说明她对这种居住安排持接受态度，并不讨厌。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1382.2,
-      "endTime": 1385.4,
+      "startTime": 119,
+      "endTime": 120.6,
       "difficulty": "medium",
       "relatedWords": [
-        "value",
-        "friendship",
-        "day and age"
+        "feeling",
+        "living with mom",
+        "acceptance"
       ]
     },
     {
       "id": 5,
       "type": "choice",
-      "question": "What does the speaker mean by 'flatmates' in the context?",
+      "question": "What was the speaker's plan when she decided to come home?",
       "options": [
-        "A) Close friends",
-        "B) Roommates who share an apartment",
-        "C) Family members",
-        "D) Romantic partners"
+        "A) To find a job in a new city",
+        "B) To live with her mom for a few months",
+        "C) To travel around the world",
+        "D) To start her own business"
       ],
       "answer": "B",
-      "explanation": "根据字幕'I would see people that I knew not necessarily liked but I knew and I had flatmates'，flatmates指的是合租的室友。",
+      "explanation": "说话者说 'let me just come home, live with my mom for a few months'（让我回家，和妈妈住几个月），说明她的计划是暂时和妈妈同住。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1269.8,
-      "endTime": 1274.4,
-      "difficulty": "medium",
+      "startTime": 132.8,
+      "endTime": 135.7,
+      "difficulty": "easy",
       "relatedWords": [
-        "flatmates",
-        "roommates",
-        "live"
+        "plan",
+        "come home",
+        "live with mom"
       ]
     },
     {
       "id": 6,
       "type": "choice",
-      "question": "What does 'discontented' mean in this context?",
+      "question": "What does the speaker mean by 'I ended my contract six months early'?",
       "options": [
-        "A) Happy and satisfied",
-        "B) Unhappy and dissatisfied",
-        "C) Confused and lost",
-        "D) Angry and aggressive"
+        "A) She started a new job",
+        "B) She terminated her work agreement six months earlier than planned",
+        "C) She was promoted",
+        "D) She applied for a new position"
       ],
       "answer": "B",
-      "explanation": "根据字幕'a lot of people feel very discontented'，discontented表示不满足、不满意的状态。",
+      "explanation": "'End my contract' 意思是'终止合同'，'six months early' 意为'提前六个月'。也就是说，她原本的合同还没到期，但她提前半年就解约了，然后回了家。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1165.1,
-      "endTime": 1169.8,
+      "startTime": 196.2,
+      "endTime": 199.6,
       "difficulty": "hard",
       "relatedWords": [
-        "discontented",
-        "feel",
-        "unhappy"
+        "contract",
+        "early",
+        "job",
+        "terminate"
       ]
     },
     {
       "id": 7,
       "type": "choice",
-      "question": "What does the speaker imply about being 'exactly where you're supposed to be'?",
+      "question": "What does the speaker mean by 'There's no one my age here'?",
       "options": [
-        "A) You should feel bad about your situation",
-        "B) Your current situation might be right for you at this time",
-        "C) You need to change immediately",
-        "D) You should compare yourself to others"
+        "A) There are no elderly people around",
+        "B) She feels out of place because there are no peers her age",
+        "C) The neighborhood is completely empty",
+        "D) Everyone has moved away permanently"
       ],
       "answer": "B",
-      "explanation": "根据字幕'you're exactly where you're supposed to be'，说话者暗示即使在困难的情况下，这也可能是你目前应该所在的位置。",
+      "explanation": "说话者说 'There's no one my age here'（这里没有和我同龄的人），这表明她感到孤立，因为周围没有和她年龄相仿的人可以交流，让她觉得格格不入。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 2062.4,
-      "endTime": 2066.7,
+      "startTime": 573.2,
+      "endTime": 574.5,
       "difficulty": "medium",
       "relatedWords": [
-        "supposed to be",
-        "situation",
-        "life"
+        "age",
+        "loneliness",
+        "peers"
       ]
     },
     {
       "id": 8,
       "type": "choice",
-      "question": "What does the speaker say about having 'innate knowledge'?",
+      "question": "Why does the speaker think her 20s are 'scary'?",
       "options": [
-        "A) We should learn everything from books",
-        "B) Some things should come naturally but we often forget them",
-        "C) Innate knowledge is not important",
-        "D) We should not trust our instincts"
+        "A) Because she watches horror movies",
+        "B) Because of life pressures, uncertainty, and societal expectations",
+        "C) Because of physical danger in her neighborhood",
+        "D) Because she is getting physically weaker"
       ],
       "answer": "B",
-      "explanation": "根据字幕'things that should be innate knowledge'，说话者认为有些事情应该是我们天生就知道的，但常常会忘记。",
+      "explanation": "在英语中，用 '20s are scary' 来形容20多岁，通常不是指恐怖电影，而是指这个年龄段面临的人生压力、不确定性和社会期待，比如职业、婚姻、住房等问题。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1953.7,
-      "endTime": 1958.9,
-      "difficulty": "hard",
+      "startTime": 631.7,
+      "endTime": 634.5,
+      "difficulty": "medium",
       "relatedWords": [
-        "innate knowledge",
-        "forgotten",
-        "life"
+        "20s",
+        "scary",
+        "life pressure"
       ]
     },
     {
       "id": 9,
       "type": "choice",
-      "question": "What is the speaker's attitude towards living with their mom?",
+      "question": "What does the speaker mean by saying the wedding was 'the first one' among their circle?",
       "options": [
-        "A) They hate it and want to move out",
-        "B) They don't mind it and actually like it",
-        "C) They feel embarrassed about it",
-        "D) They think it's only for lazy people"
+        "A) It was the first wedding she had ever attended in her life",
+        "B) It was the first marriage among the people they knew growing up",
+        "C) It was the first wedding of the year",
+        "D) It was her own wedding"
       ],
       "answer": "B",
-      "explanation": "根据字幕'I don't mind living with my mom I like it a lot'，说话者表示不介意和妈妈住在一起，而且很喜欢。",
+      "explanation": "说话者说 'of everyone we knew and grew up with this is the first one'，意思是在她和朋友们认识的人当中，这是第一场婚礼。这说明他们这个年龄段的人开始陆续进入婚姻阶段。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 119,
-      "endTime": 122.8,
-      "difficulty": "easy",
+      "startTime": 682.5,
+      "endTime": 686.7,
+      "difficulty": "hard",
       "relatedWords": [
-        "living with mom",
-        "like",
-        "prefer"
+        "wedding",
+        "first",
+        "peers",
+        "marriage"
       ]
     },
     {
       "id": 10,
       "type": "choice",
-      "question": "What does the speaker suggest about age differences in online conversations?",
+      "question": "What does the speaker mean by 'saying that they object' at a wedding?",
       "options": [
-        "A) Age doesn't matter online",
-        "B) It can be confusing when talking to much younger people online",
-        "C) Everyone should only talk to people their own age",
-        "D) Online conversations are always safe"
+        "A) Complaining about the wedding decorations",
+        "B) Formally opposing the marriage",
+        "C) Making a toast to the couple",
+        "D) Giving a gift"
       ],
       "answer": "B",
-      "explanation": "根据字幕especially online because you're having conversations about being 22 with someone that's 15 and so in comparison'，说话者指出在网上与年龄差距大的人交流可能会造成困惑。",
+      "explanation": "在西方婚礼传统中，'speak now or forever hold your peace'（现在就说，否则就永远保持沉默）是神父问在场宾客是否有人反对这场婚姻。说话者说 'why is no one saying that they object' 是在问为什么没有人站出来提出反对。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1907.9,
-      "endTime": 1916,
+      "startTime": 711.2,
+      "endTime": 715.5,
       "difficulty": "medium",
       "relatedWords": [
-        "online",
-        "age",
-        "conversations"
+        "object",
+        "wedding",
+        "vows"
       ]
     },
     {
       "id": 11,
       "type": "choice",
-      "question": "What does 'withhold information' mean in this context?",
+      "question": "Who walked past the speaker's car?",
       "options": [
-        "A) Share information with everyone",
-        "B) Keep information to yourself",
-        "C) Delete information",
-        "D) Forget information"
+        "A) Her mother",
+        "B) Her grandmother",
+        "C) A stranger",
+        "D) Her sister"
       ],
       "answer": "B",
-      "explanation": "根据字幕'let me like withhold this information from'，withhold表示隐瞒、保留信息，不告诉别人。",
+      "explanation": "说话者说 'grandma um she just got out of a taxi and walked past my car'，她的奶奶刚从出租车下来，经过了她的车。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1532,
-      "endTime": 1537,
-      "difficulty": "medium",
+      "startTime": 798.6,
+      "endTime": 803,
+      "difficulty": "easy",
       "relatedWords": [
-        "withhold",
-        "information",
-        "secret"
+        "grandma",
+        "taxi",
+        "walked past"
       ]
     },
     {
       "id": 12,
       "type": "choice",
-      "question": "What does the speaker say about their University experience?",
+      "question": "Why does the speaker not want to explain what a podcast is to her grandma?",
       "options": [
-        "A) They met their soulmate at University",
-        "B) They expected University to be very social but it wasn't",
-        "C) They hated University",
-        "D) University was exactly what they expected"
+        "A) She herself doesn't know what a podcast is",
+        "B) It would be too complicated or time-consuming at that moment",
+        "C) Her grandma already knows everything about podcasts",
+        "D) Podcasts no longer exist"
       ],
       "answer": "B",
-      "explanation": "根据字幕'I thought it was going to be the most social years of my life'，说话者原本以为大学会是社交最活跃的年份，但事实并非如此。",
+      "explanation": "说话者说 'literally not about to explain to her what a podcast is right now'，意思是她不想在那一刻费劲去解释，因为她奶奶可能不太懂这些科技相关的东西，解释起来会很麻烦。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1363.8,
-      "endTime": 1366,
-      "difficulty": "medium",
+      "startTime": 803,
+      "endTime": 806.8,
+      "difficulty": "hard",
       "relatedWords": [
-        "University",
-        "social",
-        "expected"
+        "podcast",
+        "explain",
+        "grandma"
       ]
     },
     {
       "id": 13,
       "type": "choice",
-      "question": "What does 'crash' mean in the context of the speaker's experience?",
+      "question": "What does the speaker imply by 'anyone older than me is fucking old'?",
       "options": [
-        "A) A car accident",
-        "B) A sudden emotional decline after something exciting",
-        "C) A technical problem",
-        "D) A physical injury"
+        "A) She dislikes older people",
+        "B) She feels young and anyone above her age seems old to her",
+        "C) She is actually old herself",
+        "D) She has serious memory issues"
       ],
       "answer": "B",
-      "explanation": "根据字幕'I kept crashing and crash is basically like imagine like an actual come down'，这里的crash指的是情绪上的突然低落，就像兴奋后的沮丧感。",
+      "explanation": "这句话是夸张的表达，说明说话者内心觉得自己很年轻，所以她认为任何比她大的人都已经算'老了'。这是年轻人常见的心理感受，体现出一种'我还很年轻'的心态。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 2273.4,
-      "endTime": 2280.2,
+      "startTime": 845.9,
+      "endTime": 850.9,
       "difficulty": "hard",
       "relatedWords": [
-        "crash",
-        "come down",
-        "emotional"
+        "age",
+        "youth",
+        "feeling old"
       ]
     },
     {
       "id": 14,
       "type": "choice",
-      "question": "What does the speaker mean by 'a hurdle' in the context of making friends?",
+      "question": "What realization did the speaker come to about her age?",
       "options": [
-        "A) A competition",
-        "B) An obstacle or difficulty to overcome",
-        "C) A type of friend",
-        "D) A celebration"
+        "A) She is actually 12 years old",
+        "B) She is no longer 12 years old",
+        "C) She completely forgot her age",
+        "D) She wants to be 12 again"
       ],
       "answer": "B",
-      "explanation": "根据字幕'a hurdle and you find a girl that you want to be friends with'，hurdle在这里指的是障碍、困难。",
+      "explanation": "说话者说 'oh my god you're not 12'，这是她意识到的现实——她已经不是12岁了。这对她来说是个 'terrifying'（令人恐惧的）发现，标志着她对年龄的感知。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1458.9,
-      "endTime": 1462.1,
-      "difficulty": "medium",
+      "startTime": 923.4,
+      "endTime": 928,
+      "difficulty": "easy",
       "relatedWords": [
-        "hurdle",
-        "obstacle",
-        "friend"
+        "age",
+        "realization",
+        "12"
       ]
     },
     {
       "id": 15,
       "type": "choice",
-      "question": "What does the speaker say about the possibility of meeting someone?",
+      "question": "What ages does the speaker mention as feeling young?",
       "options": [
-        "A) It's impossible to meet new people",
-        "B) It's confusing even when you get along with someone",
-        "C) You should never try to meet new people",
-        "D) Meeting people is always easy"
+        "A) 30, 25, and 20",
+        "B) 20, 18, and 16",
+        "C) 40, 35, and 30",
+        "D) 10, 8, and 6"
       ],
       "answer": "B",
-      "explanation": "根据字幕'can happen it's a possibility how confusing like even if it's someone you get on with'，说话者认为即使是和得来的人，可能性仍然令人困惑。",
+      "explanation": "说话者说 'like 20, 18, even 16'，她提到20岁、18岁，甚至16岁都感觉年轻。这是她讨论不同年龄段给人的感觉时所列举的例子。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1131.7,
-      "endTime": 1137.1,
-      "difficulty": "hard",
+      "startTime": 992.6,
+      "endTime": 996.8,
+      "difficulty": "easy",
       "relatedWords": [
-        "possibility",
-        "confusing",
-        "get on with"
+        "age",
+        "young",
+        "20",
+        "18",
+        "16"
       ]
     },
     {
       "id": 16,
       "type": "choice",
-      "question": "What does the speaker think about being 22 talking to someone who is 15?",
+      "question": "What British TV show does the speaker reference?",
       "options": [
-        "A) It's completely normal",
-        "B) It's inappropriate due to the age gap",
-        "C) It's educational",
-        "D) It doesn't matter online"
+        "A) Friends",
+        "B) Coronation Street",
+        "C) EastEnders",
+        "D) The Crown"
       ],
       "answer": "B",
-      "explanation": "根据字幕'especially online because you're having conversations about being 22 with someone that's 15 and so in comparison'，说话者认为这种年龄差距在网友交流中是有问题的。",
+      "explanation": "说话者提到 'they did it on Coronation Street' 和 'Sian got married on Coronation Street when they were 16'。《加冕街》（Coronation Street）是一部英国长寿肥皂剧，是英国最受欢迎的电视节目之一。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1907.9,
-      "endTime": 1916,
+      "startTime": 996.8,
+      "endTime": 1003.2,
       "difficulty": "medium",
       "relatedWords": [
-        "22",
-        "15",
-        "age gap"
+        "Coronation Street",
+        "TV show",
+        "British"
       ]
     },
     {
       "id": 17,
       "type": "choice",
-      "question": "What does the speaker imply about finding the right place to live?",
+      "question": "In her head, what age has the speaker always felt she was?",
       "options": [
-        "A) You should always live in big cities",
-        "B) You need to live where you can afford",
-        "C) You can barely afford your rent but you're where you're supposed to be",
-        "D) You should never compromise on rent"
+        "A) 12",
+        "B) 16",
+        "C) 20",
+        "D) 30"
       ],
-      "answer": "C",
-      "explanation": "根据字幕'you can barely afford your rent or you can't afford your rent you're exactly where you're supposed to'，说话者认为即使租金昂贵，这也是你目前应该所在的地方。",
+      "answer": "B",
+      "explanation": "说话者说 'I'm pretty sure in my head I've always been 16'，她内心一直觉得自己是16岁。她还为'不是16岁'这个事实感到 upset（难过），这体现了一种心理年龄与实际年龄的差距。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 2062.4,
-      "endTime": 2066.7,
+      "startTime": 1020,
+      "endTime": 1032.6,
       "difficulty": "medium",
       "relatedWords": [
-        "afford",
-        "rent",
-        "supposed to be"
+        "age",
+        "16",
+        "feeling"
       ]
     },
     {
       "id": 18,
-      "type": "speaking",
-      "question": "The speaker discusses the importance of treating friendships as seriously as romantic relationships. How do you view the importance of friendships in your life? Please explain in 2-3 sentences.",
-      "options": [],
-      "answer": "open",
-      "explanation": "这是一道口语表达题，要求学生根据视频中关于友谊重要性的讨论，发表自己的看法。",
-      "referenceAnswer": "应该表达对友谊的重视，可以提到朋友在生活中扮演的角色，如何支持你，以及友谊与恋爱关系的相似之处。",
-      "hint": "Think about: 1) What role do friends play in your life? 2) How do you maintain friendships? 3) What makes a good friend?",
-      "startTime": 2142.4,
-      "endTime": 2148.9,
+      "type": "choice",
+      "question": "What place was 'familiar' to the speaker according to her?",
+      "options": [
+        "A) Her home",
+        "B) University campus",
+        "C) Her mom's house",
+        "D) Her workplace"
+      ],
+      "answer": "B",
+      "explanation": "说话者说 'has become familiar to you like university I would go around campus'，她把大学校园描述为一个她熟悉的地方，会在校园里到处走走，说明大学时光给她留下了深刻印象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1263.8,
+      "endTime": 1268.4,
       "difficulty": "medium",
       "relatedWords": [
-        "friendship",
-        "important",
-        "relationships"
+        "university",
+        "campus",
+        "familiar"
       ]
     },
     {
       "id": 19,
-      "type": "speaking",
-      "question": "The speaker suggests that sometimes spending time alone is what you're 'supposed to do right now.' Do you agree with this idea? Please explain your opinion in 2-3 sentences.",
-      "options": [],
-      "answer": "open",
-      "explanation": "这是一道口语表达题，要求学生就独处的话题发表看法。",
-      "referenceAnswer": "可以表达同意或不同意，并解释原因。可以谈论独处的好处（如自我反思、成长）或挑战（如孤独感）。",
-      "hint": "Consider: 1) Do you enjoy spending time alone? 2) What do you do when you're alone? 3) How does solitude help or not help you?",
-      "startTime": 1478.5,
-      "endTime": 1483.6,
-      "difficulty": "medium",
+      "type": "choice",
+      "question": "What does the idiom 'little did I know' mean?",
+      "options": [
+        "A) I knew everything at the time",
+        "B) I didn't know or realize something at that time",
+        "C) I was very small physically",
+        "D) I knew only a small amount"
+      ],
+      "answer": "B",
+      "explanation": "'Little did I know' 是一个英语惯用表达，意思是'我当时并不知道/没意识到'，用来表示说话者事后才发现真相。这是一个表达对过去无知的常用短语。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1359.4,
+      "endTime": 1363.2,
+      "difficulty": "hard",
       "relatedWords": [
-        "alone",
-        "time",
-        "yourself"
+        "idiom",
+        "little did I know",
+        "realization"
       ]
     },
     {
       "id": 20,
-      "type": "speaking",
-      "question": "The speaker mentions that some knowledge should be 'innate' but we often forget it. What are some things you feel you should naturally know but sometimes forget? Please answer in 2-3 sentences.",
-      "options": [],
-      "answer": "open",
-      "explanation": "这是一道口语表达题，要求学生讨论关于本能知识和遗忘的话题。",
-      "referenceAnswer": "可以谈论生活中应该知道但有时会忘记的事情，比如：健康的重要性、珍惜时间、对亲人表达感激等。",
-      "hint": "Think about: 1) What important lessons have you learned but sometimes neglect? 2) How do you remind yourself of these things? 3) Why do you think we forget them?",
-      "startTime": 1953.7,
-      "endTime": 1958.9,
-      "difficulty": "hard",
+      "type": "choice",
+      "question": "How does the speaker describe her current living arrangement?",
+      "options": [
+        "A) Living with her partner",
+        "B) Living at home but feeling by herself (alone)",
+        "C) Living abroad in another country",
+        "D) Living with friends in a shared house"
+      ],
+      "answer": "B",
+      "explanation": "说话者说 'I am living at home and I'm by myself'，虽然她和妈妈住在一起，但她强调自己'独自一人'，可能是因为心理上感到孤独，缺乏同龄人的陪伴。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1546.3,
+      "endTime": 1550.7,
+      "difficulty": "medium",
       "relatedWords": [
-        "innate knowledge",
-        "forgotten",
-        "life lessons"
+        "alone",
+        "living at home",
+        "loneliness"
       ]
     },
     {
       "id": 21,
-      "type": "choice",
-      "question": "What does 'calculated' mean in the context of the speaker's statement?",
-      "options": [
-        "A) Spontaneous and natural",
-        "B) Carefully planned or thought out",
-        "C) Lucky and accidental",
-        "D) Careless and reckless"
-      ],
-      "answer": "B",
-      "explanation": "根据字幕'it makes me calculated and ominous'，calculated表示经过深思熟虑的、精心计算的。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 107.9,
-      "endTime": 112.4,
-      "difficulty": "hard",
+      "type": "speaking",
+      "question": "Describe your current living situation. Where do you live and who do you live with?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个开放式口语题，测试学生用英语描述自己生活情况的能力。参考答案应包括居住地点、同住的人、选择这种居住方式的原因以及自己的感受等。",
+      "referenceAnswer": "I currently live in [place] with [who]. I chose this living situation because [reason]. Sometimes I feel [feeling] about it because [reason]. One thing I like about it is [positive aspect], but I find [negative aspect] challenging.",
+      "hint": "Think about whether you live alone, with family, or with friends. Mention the reasons and how you feel about it.",
+      "startTime": 35.8,
+      "endTime": 60.6,
+      "difficulty": "medium",
       "relatedWords": [
-        "calculated",
-        "ominous",
-        "thought"
+        "living situation",
+        "home",
+        "family"
       ]
     },
     {
       "id": 22,
-      "type": "choice",
-      "question": "What does the speaker say about moving out of a familiar environment?",
-      "options": [
-        "A) It's always easy and exciting",
-        "B) It's difficult and hard",
-        "C) It doesn't affect people",
-        "D) It's only hard for old people"
-      ],
-      "answer": "B",
-      "explanation": "根据字幕'when you move out of an environment that has become familiar to everywhere and it's just hard'，离开熟悉的环境是困难的。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 1259.8,
-      "endTime": 1264.6,
-      "difficulty": "easy",
+      "type": "speaking",
+      "question": "Have you ever attended a wedding? Describe the experience and how it made you feel.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个关于婚礼经历的开放式口语题。参考答案应包括参加过谁的婚礼、什么时候、什么地方，以及当时的感受和最难忘的部分。",
+      "referenceAnswer": "Yes, I attended [whose] wedding. It was held in [place] about [time] ago. I felt [emotion] because [reason]. The most memorable part was [moment]. Overall, it was a [adjective] experience that made me think about [reflection].",
+      "hint": "Mention when, where, who got married, and your feelings during the event. Try to use descriptive language.",
+      "startTime": 682.5,
+      "endTime": 715.5,
+      "difficulty": "hard",
       "relatedWords": [
-        "move out",
-        "familiar",
-        "hard"
+        "wedding",
+        "experience",
+        "feeling",
+        "ceremony"
       ]
     },
     {
       "id": 23,
-      "type": "choice",
-      "question": "What does the speaker mean by 'it's no one else's' at the end?",
-      "options": [
-        "A) Your life belongs to your family",
-        "B) Your life is your own responsibility",
-        "C) Your life should be shared with others",
-        "D) Your life is predetermined"
-      ],
-      "answer": "B",
-      "explanation": "根据字幕'it's your life it's no one else's'，说话者强调你的生活是你自己的，没有人可以替你做主。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 2066.7,
-      "endTime": 2070.8,
-      "difficulty": "easy",
+      "type": "speaking",
+      "question": "Do you feel your actual age? Why or why not? How old do you feel inside?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个关于年龄认知的开放式口语题。参考答案应包括实际年龄、内心感受的年龄，以及产生这种差异的原因。可以用具体例子来支撑你的观点。",
+      "referenceAnswer": "I am actually [age] years old, but I feel like I am [age] inside. This is because [reason such as life experiences or maturity level]. Sometimes this gap between my real age and mental age makes me feel [emotion] because [reason]. I think this is common among people because [general observation].",
+      "hint": "Reflect on the gap between your real age and the age you feel. Think about why this difference exists and how it affects you.",
+      "startTime": 1020,
+      "endTime": 1032.6,
+      "difficulty": "medium",
       "relatedWords": [
-        "life",
-        "no one else",
-        "yourself"
+        "age",
+        "feeling",
+        "identity",
+        "maturity"
       ]
     },
     {
       "id": 24,
-      "type": "choice",
-      "question": "What does the speaker say about their relationship with their friend who visited London?",
-      "options": [
-        "A) They went to lunch together",
-        "B) The friend suggested eating lunch but the speaker refused",
-        "C) They had a big argument",
-        "D) The friend moved in with them"
-      ],
-      "answer": "B",
-      "explanation": "根据字幕'have you tried eating lunch and I was like no why would I do that'，朋友建议一起吃午饭，但说话者拒绝了。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 1972,
-      "endTime": 1976.4,
-      "difficulty": "easy",
+      "type": "speaking",
+      "question": "Do you think people compare themselves too much with others in their 20s? Why or why not?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个关于社会比较现象的开放式口语题。参考答案应包含对20多岁人群比较现象的观点，以及造成这种比较的原因（如社交媒体、朋辈压力等），最好能给出具体例子。",
+      "referenceAnswer": "Yes/No, I think [reason]. In my experience, comparison can [positive/negative effect] because [reason]. I believe the main cause is [factor like social media, peer pressure, or life milestones]. For example, [specific example]. To deal with this, I think people should [suggestion].",
+      "hint": "Think about social media, peer pressure, and life milestones like marriage and career. Try to give specific examples to support your view.",
+      "startTime": 1789.4,
+      "endTime": 1794.1,
+      "difficulty": "hard",
       "relatedWords": [
-        "lunch",
-        "friend",
-        "visit"
+        "comparison",
+        "20s",
+        "social pressure",
+        "social media"
       ]
     }
   ]

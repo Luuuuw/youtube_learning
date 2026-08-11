@@ -1,0 +1,358 @@
+{
+  "videoId": "TpmKcZkmBmE",
+  "generatedAt": "2026-08-11T06:29:24.757Z",
+  "cards": [
+    {
+      "id": "msoa5od0rth8bq",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "syllabi",
+      "back": "教学大纲（syllabus的复数） (noun, B2)",
+      "context": "I usually know all my different course **syllabi**, like the back of my hand.",
+      "audioStart": 44.78,
+      "audioEnd": 47.24,
+      "word": "syllabi",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.756Z"
+    },
+    {
+      "id": "msoa5od02964bq",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hotspot",
+      "back": "热点（手机热点） (noun, B1)",
+      "context": "my **hotspot** has not been cutting it It just won't connect to my laptop for some reason",
+      "audioStart": 61.48,
+      "audioEnd": 64.66,
+      "word": "hotspot",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.756Z"
+    },
+    {
+      "id": "msoa5od022nj3e",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "slacking",
+      "back": "懈怠，偷懒 (verb, B2)",
+      "context": "So I've been kind of **slacking** on the back to school prep",
+      "audioStart": 50.08,
+      "audioEnd": 51.86,
+      "word": "slacking",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.756Z"
+    },
+    {
+      "id": "msoa5od0pyme3c",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "fading",
+      "back": "（精力）衰退，困倦 (verb, B1)",
+      "context": "I'm **fading** so hard you guys",
+      "audioStart": 144.34,
+      "audioEnd": 145.18,
+      "word": "fading",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.756Z"
+    },
+    {
+      "id": "msoa5od0auj38t",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "attention span",
+      "back": "注意力持续时间 (noun, B2)",
+      "context": "I feel like my **attention span** definitely shortened while I was out of school",
+      "audioStart": 145.18,
+      "audioEnd": 148.34,
+      "word": "attention span",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.756Z"
+    },
+    {
+      "id": "msoa5od0eico1u",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "browse",
+      "back": "浏览，翻阅 (noun, B1)",
+      "context": "because I just took a **browse** and it looks like a lot",
+      "audioStart": 155.64,
+      "audioEnd": 159.26,
+      "word": "browse",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.756Z"
+    },
+    {
+      "id": "msoa5od0byz62j",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intentional",
+      "back": "有意的，故意的 (adjective, B2)",
+      "context": "decorating is supposed to be **intentional** and takes some time",
+      "audioStart": 272.91,
+      "audioEnd": 275.95,
+      "word": "intentional",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.756Z"
+    },
+    {
+      "id": "msoa5od0tvjn4v",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "coddling",
+      "back": "娇惯，溺爱 (verb, C1)",
+      "context": "what some people would call **coddling** or what others might just call like being caring",
+      "audioStart": 671.5,
+      "audioEnd": 674.79,
+      "word": "coddling",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.756Z"
+    },
+    {
+      "id": "msoa5od1q5ztl5",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "piping",
+      "back": "滚烫的 (adjective, B2)",
+      "context": "It's obviously **piping** hot so I was just waiting for it to cool down",
+      "audioStart": 821.39,
+      "audioEnd": 823.42,
+      "word": "piping",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.757Z"
+    },
+    {
+      "id": "msoa5od1rgy3b2",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "tackle",
+      "back": "处理，解决 (verb, B2)",
+      "context": "I want to **tackle** some of the packages that i've gotten recently",
+      "audioStart": 554.5,
+      "audioEnd": 557.8,
+      "word": "tackle",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:24.757Z"
+    },
+    {
+      "id": "msoa5ncsep06lq",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It is always floral ___ and i'm just so lucky and you",
+      "back": "galore",
+      "context": "It is always floral galore and i'm just so lucky and you",
+      "audioStart": 526.2,
+      "audioEnd": 529.3,
+      "hint": "选项：arrangement / display / galore / abundance",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:23.452Z"
+    },
+    {
+      "id": "msoa5ncs06rz6k",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And so I really need to get to school to ___ everything just because my",
+      "back": "download",
+      "context": "And so I really need to get to school to download everything just because my",
+      "audioStart": 58.2,
+      "audioEnd": 62.4,
+      "hint": "选项：download / save / print / upload",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:23.452Z"
+    },
+    {
+      "id": "msoa5ncsdbqyev",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I'm a ___ right now because obviously I'm still moving in and all that.",
+      "back": "mess",
+      "context": "I'm a mess right now because obviously I'm still moving in and all that.",
+      "audioStart": 451.5,
+      "audioEnd": 454.9,
+      "hint": "选项：tired / mess / busy / chaos",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:23.452Z"
+    },
+    {
+      "id": "msoa5ncsz4n7id",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) As for veggies, I just got some Chinese ___ bok choy",
+      "back": "bok",
+      "context": "As for veggies, I just got some Chinese bok choy",
+      "audioStart": 695.8,
+      "audioEnd": 698.8,
+      "hint": "选项：fresh / bok / green / leafy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:23.452Z"
+    },
+    {
+      "id": "msoa5ncs2j7j4u",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) But of course, I have my desk set up and I'm just doing the ___",
+      "back": "patho",
+      "context": "But of course, I have my desk set up and I'm just doing the patho",
+      "audioStart": 454.9,
+      "audioEnd": 459.2,
+      "hint": "选项：work / study / paper / patho",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:23.452Z"
+    },
+    {
+      "id": "msoa5ncsieg275",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) it's just like this plain sweater in the front but the back ___ is really cool I'll",
+      "back": "print",
+      "context": "it's just like this plain sweater in the front but the back print is really cool I'll",
+      "audioStart": 204.4,
+      "audioEnd": 207.5,
+      "hint": "选项：design / print / pattern / picture",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:23.452Z"
+    },
+    {
+      "id": "msoa5ncspp3hf7",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) that i'm renting this place And I have moved ___ times in the last three years.",
+      "back": "seven",
+      "context": "that i'm renting this place And I have moved seven times in the last three years.",
+      "audioStart": 505.2,
+      "audioEnd": 509.5,
+      "hint": "选项：many / several / few / seven",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:23.452Z"
+    },
+    {
+      "id": "msoa5maah8wzha",
+      "videoId": "TpmKcZkmBmE",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "耶！ 煮了一个小时结果还不好吃的话我肯定气死\nI ___ ___ ___ so mad if I spent an hour cooking this and it was not good.",
+      "back": "would / have / been",
+      "context": "I would have been so mad if I spent an hour cooking this and it was not good.",
+      "audioStart": 831.515,
+      "audioEnd": 834.875,
+      "hint": "would have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:22.066Z"
+    }
+  ]
+}

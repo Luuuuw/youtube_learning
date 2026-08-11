@@ -25,6 +25,7 @@ interface SidebarProps {
 const NAV_ITEMS = [
   { path: '/', label: '学习资源', sub: 'Learning', char: 'L' },
   { path: '/vocab', label: '生词本', sub: 'Vocabulary', char: 'V' },
+  { path: '/flashcards', label: '闪卡复习', sub: 'Flashcards', char: 'F' },
   { path: '/download', label: '批量下载', sub: 'Download', char: 'D', adminOnly: true },
   { path: '/dashboard', label: '数据看板', sub: 'Dashboard', char: 'M', adminOnly: true },
 ];
@@ -50,11 +51,31 @@ export default function Sidebar({
   const [collapsed, setCollapsed] = useState(false);
   const [mounted, setMounted] = useState(false);
   const [hoveredId, setHoveredId] = useState<string | null>(null);
+  const [flashcardDue, setFlashcardDue] = useState(0);
   const pathname = usePathname();
   const { role, logout } = useAuth();
 
   useEffect(() => {
     setMounted(true);
+  }, []);
+
+  // Fetch flashcard due count for badge
+  useEffect(() => {
+    let cancelled = false;
+    async function load() {
+      try {
+        const token = localStorage.getItem('ve-session-token');
+        const res = await fetch('/api/flashcards/stats', {
+          headers: token ? { Authorization: `Bearer ${token}` } : {},
+        });
+        if (!res.ok || cancelled) return;
+        const data = await res.json();
+        if (cancelled) return;
+        setFlashcardDue(data.due || 0);
+      } catch { /* ignore */ }
+    }
+    load();
+    return () => { cancelled = true; };
   }, []);
 
   if (!mounted) return null;
@@ -101,16 +122,28 @@ export default function Sidebar({
                   `}
                 >
                   <span className={`
-                    shrink-0 font-black leading-none transition-all duration-300 origin-left
+                    shrink-0 font-black leading-none transition-all duration-300 origin-left relative
                     ${active ? 'text-primary' : 'text-muted-foreground/30 group-hover:text-primary'}
                     ${hovered && !collapsed ? 'scale-110' : ''}
                     ${collapsed ? 'text-lg' : hovered ? 'text-2xl -ml-0.5' : 'text-xl'}
                   `}
                   style={active && hovered ? { textShadow: '0 0 20px rgba(99,102,241,0.4)' } : undefined}
-                  >{item.char}</span>
+                  >
+                    {item.char}
+                    {collapsed && item.path === '/flashcards' && flashcardDue > 0 && (
+                      <span className="absolute -top-0.5 -right-1 w-2 h-2 rounded-full bg-amber-500" />
+                    )}
+                  </span>
                   {!collapsed && (
                     <div className="flex-1 min-w-0">
-                      <div className={`font-medium text-[13px] tracking-wide transition-colors duration-200 ${active ? 'text-primary' : 'text-foreground/80 group-hover:text-foreground'}`}>{item.label}</div>
+                      <div className={`font-medium text-[13px] tracking-wide transition-colors duration-200 flex items-center gap-1.5 ${active ? 'text-primary' : 'text-foreground/80 group-hover:text-foreground'}`}>
+                        {item.label}
+                        {item.path === '/flashcards' && flashcardDue > 0 && (
+                          <span className="inline-flex items-center justify-center min-w-[18px] h-[18px] px-1 text-[10px] font-bold rounded-full bg-amber-500 text-white">
+                            {flashcardDue > 99 ? '99+' : flashcardDue}
+                          </span>
+                        )}
+                      </div>
                       <div className={`text-[9px] tracking-widest uppercase transition-colors duration-200 mt-0.5 ${active ? 'text-primary/50' : 'text-muted-foreground/40 group-hover:text-muted-foreground/70'}`}>{item.sub}</div>
                     </div>
                   )}

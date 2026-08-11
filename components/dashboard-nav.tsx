@@ -6,6 +6,12 @@ import { usePathname } from 'next/navigation';
 const TABS = [
   { href: '/dashboard', label: '内容' },
   { href: '/dashboard/users', label: '用户' },
+<<<<<<< Updated upstream
+=======
+  { href: '/dashboard/review', label: '闪卡审核' },
+  { href: '/dashboard/translation-review', label: '翻译审' },
+  { href: '/dashboard/ai-changes', label: 'AI 改动' },
+>>>>>>> Stashed changes
 ];
 
 export default function DashboardNav() {

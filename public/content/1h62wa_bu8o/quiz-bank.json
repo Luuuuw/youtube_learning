@@ -1,0 +1,572 @@
+{
+  "videoId": "1h62wa_bu8o",
+  "title": "1h62wa_bu8o",
+  "generatedAt": "2026-08-10T10:38:41.905Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 11,
+    "medium": 10,
+    "hard": 3,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'Look how nice this view is' most likely indicate about the speaker's current location?",
+      "options": [
+        "A) The speaker is in a shopping mall",
+        "B) The speaker is at a scenic outdoor location",
+        "C) The speaker is in a classroom",
+        "D) The speaker is in a kitchen"
+      ],
+      "answer": "B",
+      "explanation": "'Look how nice this view is' 表达说话者正在欣赏某个地方的风景，通常出现在户外或景点，结合后文提到去海滩，可以判断说话者在一个风景优美的户外地点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2.2,
+      "endTime": 4.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "view",
+        "scenic",
+        "outdoor",
+        "location"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "In 'we made it down to the beach', what does 'made it' mean?",
+      "options": [
+        "A) We built a beach",
+        "B) We successfully arrived at the beach",
+        "C) We made a decision",
+        "D) We created something"
+      ],
+      "answer": "B",
+      "explanation": "'Made it' 在口语中常表示'成功到达'某地，整句话意思是'我们成功到达海滩了'。这是一种常见的vlog开场表达方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 4.6,
+      "endTime": 6.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "made it",
+        "arrive",
+        "beach",
+        "expression"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "The speaker says 'Kyle dragging me out of bed this morning, 5:30 in the morning.' What does 'dragging me out of bed' imply?",
+      "options": [
+        "A) Kyle physically pulled the speaker out of bed",
+        "B) Kyle reluctantly convinced the speaker to wake up",
+        "C) Kyle forced or strongly persuaded the speaker to get up early",
+        "D) Kyle cleaned the speaker's bed"
+      ],
+      "answer": "C",
+      "explanation": "'Drag someone out of bed' 是一个英语习语，意思是'强迫或强烈说服某人起床'，通常带有不情愿的意味。这里说话者暗示自己不想在早上5:30起床，是被Kyle拉起来的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 50,
+      "endTime": 53.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "drag",
+        "out of bed",
+        "wake up",
+        "idiom"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What activity is the speaker referring to when they say 'playing 18' and mention 'Big John'?",
+      "options": [
+        "A) Playing basketball",
+        "B) Playing golf on an 18-hole course",
+        "C) Playing a video game level 18",
+        "D) Playing cards"
+      ],
+      "answer": "B",
+      "explanation": "在高尔夫中，'playing 18' 指打满18个洞（标准高尔夫球场）。'Big John'很可能是指一支特定的球杆（一号木杆driver的别称）或同伴。结合后文提到'last hole on 18'，可以确定是打高尔夫。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 26,
+      "endTime": 29.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "golf",
+        "18 holes",
+        "Big John",
+        "driver"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the speaker mean by 'Kai had the whole production team'?",
+      "options": [
+        "A) Kai owns a factory",
+        "B) Kai arranged an entire film/video production crew for the event",
+        "C) Kai works in manufacturing",
+        "D) Kai is a team manager at a company"
+      ],
+      "answer": "B",
+      "explanation": "'Production team' 在vlog语境下通常指'拍摄制作团队'，包括摄影师、导演、灯光师等。整句话意思是Kai为某个活动安排了完整的拍摄团队。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 78,
+      "endTime": 80.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "production team",
+        "film crew",
+        "vlog",
+        "arrange"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "When the speaker says 'Wow, that's sick Kai', what does 'sick' mean in this context?",
+      "options": [
+        "A) Kai is ill",
+        "B) Something is disgusting",
+        "C) Something is extremely cool or impressive (slang)",
+        "D) Something is broken"
+      ],
+      "answer": "C",
+      "explanation": "在英语俚语中，'sick' 是一个非常流行的词汇，意思是'非常酷、令人惊叹'，是年轻人常用的褒义词。结合'Wow'的语气，可以确定说话者在表达赞叹。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 387.5,
+      "endTime": 389.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sick",
+        "slang",
+        "awesome",
+        "impressive"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the speaker mean by 'was just like YOLO, no this is sick'?",
+      "options": [
+        "A) The speaker regrets their decision",
+        "B) The speaker is expressing excitement about a bold, once-in-a-lifetime decision (YOLO = You Only Live Once)",
+        "C) The speaker is studying a new subject",
+        "D) The speaker is describing a type of food"
+      ],
+      "answer": "B",
+      "explanation": "'YOLO' 是 'You Only Live Once'（你只活一次）的缩写，是年轻人用来鼓励自己大胆尝试、不留遗憾的口头禅。整句表达说话者对某件大胆之举感到兴奋，认为这很酷（sick）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 406.3,
+      "endTime": 417.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "YOLO",
+        "You Only Live Once",
+        "sick",
+        "slang"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "The speaker says 'I signed it in the corner too.' What did the speaker most likely sign?",
+      "options": [
+        "A) A contract or document",
+        "B) A piece of artwork or a painting",
+        "C) A birthday card",
+        "D) An email"
+      ],
+      "answer": "B",
+      "explanation": "在画作或艺术作品上签名是艺术家的常见做法，'in the corner' 指在作品的角落签名。结合上下文（礼物、惊喜），这里最可能是一幅画或艺术作品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 447,
+      "endTime": 449.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sign",
+        "artwork",
+        "painting",
+        "artist"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker mean by 'this is my dinner fit'?",
+      "options": [
+        "A) This is the food for dinner",
+        "B) This is my outfit that I will wear to dinner (slang for 'outfit')",
+        "C) This is my diet plan",
+        "D) This is my dinner reservation"
+      ],
+      "answer": "B",
+      "explanation": "'Fit' 在英语俚语中是'outfit'（服装/穿搭）的缩写，特别在时尚和社交媒体中流行。'Dinner fit' 指专门为晚餐场合搭配的服装。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 594,
+      "endTime": 597,
+      "difficulty": "medium",
+      "relatedWords": [
+        "fit",
+        "outfit",
+        "dinner",
+        "slang"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "The speaker says 'I'm in Greece, this is the vibe, these are my sunglasses.' What is 'vibe' in this context?",
+      "options": [
+        "A) A vibrating device",
+        "B) The atmosphere, mood, or feeling of the place",
+        "C) A type of music",
+        "D) A piece of clothing"
+      ],
+      "answer": "B",
+      "explanation": "'Vibe' 是英语俚语中非常流行的词，意思是'氛围、感觉、心情'。说话者在希腊，用'this is the vibe'表达对当地氛围和心情的享受。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 624.2,
+      "endTime": 627.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "vibe",
+        "atmosphere",
+        "mood",
+        "Greece"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What problem does the speaker mention about their GoPro?",
+      "options": [
+        "A) The GoPro is broken",
+        "B) The speaker forgot to bring the SD card for the GoPro",
+        "C) The GoPro is out of battery",
+        "D) The GoPro was lost"
+      ],
+      "answer": "B",
+      "explanation": "说话者说 'I did not bring my SD card for my GoPro'，意思是忘记带SD存储卡了。SD卡是相机存储照片视频的必备配件，所以这'kinda sucks'（有点糟糕）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 588.9,
+      "endTime": 593,
+      "difficulty": "easy",
+      "relatedWords": [
+        "SD card",
+        "GoPro",
+        "camera",
+        "storage"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "The speaker exclaims 'Oh, we can walk to the beach from here?' What emotion does this express?",
+      "options": [
+        "A) Anger",
+        "B) Disappointment",
+        "C) Pleasant surprise and excitement",
+        "D) Fear"
+      ],
+      "answer": "C",
+      "explanation": "句子以升调和'wait'开头，'Oh'加上问号表示说话者刚刚意识到一件令人愉快的事——原来从住处可以步行去海滩，表达了惊喜和兴奋。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 565,
+      "endTime": 568.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "surprise",
+        "excitement",
+        "beach",
+        "walk"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'They all went to get ice creams' imply about the group?",
+      "options": [
+        "A) The group split up to buy ice cream",
+        "B) Everyone got sick from ice cream",
+        "C) They are selling ice cream",
+        "D) They dislike ice cream"
+      ],
+      "answer": "A",
+      "explanation": "'They all went to get ice creams' 表明团队中的其他人一起去买冰激凌了，说话者可能留下来做别的事情或没有一起去。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 551.3,
+      "endTime": 552.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ice cream",
+        "group",
+        "split up",
+        "went to get"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "The speaker says 'It's don't lie.' This is an example of:",
+      "options": [
+        "A) Standard formal English",
+        "B) Grammatically incorrect but commonly used casual/informal speech",
+        "C) A direct quote from a textbook",
+        "D) Old English"
+      ],
+      "answer": "B",
+      "explanation": "这是一个语法上不规范的口语表达，正确的应该是 'Don't lie' 或 'It's not a lie'。但在vlog的随意语境中，说话者把 'It is' 和 'don't lie' 混在一起说，这是常见的非正式英语现象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 389.6,
+      "endTime": 390.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "informal",
+        "grammar",
+        "casual speech",
+        "vlog"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "When the speaker says 'Almost as beautiful as you', what is the context most likely to be?",
+      "options": [
+        "A) Comparing two landscapes",
+        "B) A compliment to someone (likely a partner or friend) about their appearance",
+        "C) Describing a painting",
+        "D) Complaining about the weather"
+      ],
+      "answer": "B",
+      "explanation": "从句子结构看，前面应该提到某样事物（比如日落、风景），然后说话者用'Almost as beautiful as you'来赞美面前的某个人。这是英文中常见的浪漫/友好表达方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 677.2,
+      "endTime": 679.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "beautiful",
+        "compliment",
+        "comparison",
+        "romantic"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker mean by 'We're done with Alex'?",
+      "options": [
+        "A) We finished spending time with Alex",
+        "B) We don't like Alex",
+        "C) Alex finished a task",
+        "D) Alex is leaving forever"
+      ],
+      "answer": "A",
+      "explanation": "'We're done with [someone]' 在日常口语中表示'和某人相处/活动结束了'，并不一定是负面的意思。结合vlog的轻松语气，这里指和Alex的活动告一段落。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 346.5,
+      "endTime": 347.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "done with",
+        "finished",
+        "hang out",
+        "casual"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'A little heart' most likely refer to in context?",
+      "options": [
+        "A) A small organ in the body",
+        "B) A heart-shaped object or drawing",
+        "C) A love song",
+        "D) A medical condition"
+      ],
+      "answer": "B",
+      "explanation": "结合视频vlog的轻松氛围，'A little heart' 最可能是指心形的图案、贴纸、装饰物或手绘的心形，是vlog中常见的可爱表达。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 114.2,
+      "endTime": 115.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "heart",
+        "heart-shaped",
+        "cute",
+        "shape"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "The speaker says 'All right, guys, so we got the bathing suit on. And now we're going to head to the beach.' What is about to happen?",
+      "options": [
+        "A) They are going to cook dinner",
+        "B) They are going swimming at the beach",
+        "C) They are going shopping",
+        "D) They are going to a movie"
+      ],
+      "answer": "B",
+      "explanation": "'Got the bathing suit on' 表明已经换好了泳衣，'head to the beach' 意味着出发去海滩，综合起来可以判断他们即将去海滩游泳或戏水。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 461.2,
+      "endTime": 466.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bathing suit",
+        "beach",
+        "swim",
+        "head to"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "When the speaker says 'Yeah, you can't even swim', the implied tone is most likely:",
+      "options": [
+        "A) Serious criticism",
+        "B) Teasing or playful mockery among friends",
+        "C) A formal warning",
+        "D) Giving swimming lessons"
+      ],
+      "answer": "B",
+      "explanation": "在朋友间的轻松对话中，'you can't even swim' 通常是开玩笑的调侃，而不是真的批评。结合vlog的随性氛围，这应该是一种朋友间的打趣。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 521.4,
+      "endTime": 522.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "teasing",
+        "playful",
+        "mockery",
+        "friends"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'Guys, we're going to get some good photos' suggest about the upcoming activity?",
+      "options": [
+        "A) They are printing photos",
+        "B) They are going to a photo studio",
+        "C) They are about to take photos in a scenic or photogenic location",
+        "D) They are deleting photos"
+      ],
+      "answer": "C",
+      "explanation": "'Get some good photos' 意味着即将拍摄照片，通常发生在风景优美或光线好的地方，暗示着接下来会有一次摄影活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 666.2,
+      "endTime": 667.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "photos",
+        "scenic",
+        "photogenic",
+        "shoot"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Imagine you are at a beautiful beach like the one in the video. Describe your perfect beach day in 3-5 sentences. What activities would you do?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放式口语题，参考视频中说话者描述海滩活动的语气和用词，让学习者练习用英语描述自己的理想海滩日。",
+      "referenceAnswer": "Sample answer: 'I would wake up early and go for a run along the beach. Then I would swim in the ocean and get some ice cream with my friends. In the afternoon, I would relax under an umbrella and read a book. At sunset, I would take some good photos. It would be a perfect day with a great vibe.'",
+      "hint": "Think about: morning activities, water activities, food, and relaxing moments. Use past tense or 'would' for hypotheticals.",
+      "startTime": 461.2,
+      "endTime": 475.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "beach",
+        "perfect day",
+        "activities",
+        "describe"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The video shows someone receiving a surprise gift (an artwork). Talk about a time you received a meaningful gift. What was it and how did you feel?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题让学习者练习用英语描述收到礼物的经历，结合视频中'I really like it'、'I'm in shock'等情感表达。",
+      "referenceAnswer": "Sample answer: 'Last year, my best friend gave me a painting for my birthday. She signed it in the corner, just like in the video. I was so surprised and happy. It was a really thoughtful gift because she knew I loved art. I still have it hanging in my room. Every time I see it, I think of her.'",
+      "hint": "Use past tense. Include: who gave it, what it was, your reaction, and why it was special.",
+      "startTime": 380,
+      "endTime": 417.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "gift",
+        "surprise",
+        "meaningful",
+        "present"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The speaker describes their 'dinner fit' (outfit for dinner). Describe your favorite outfit in detail. What would you wear to a special dinner?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题训练学习者用英语描述服装搭配，练习'fit'这个俚语以及服装相关的词汇。",
+      "referenceAnswer": "Sample answer: 'For a special dinner, I would wear a nice black dress with my favorite pair of heels. I would also bring my sunglasses because the vibe would be amazing, just like in Greece. I would add some simple jewelry, like a little heart necklace. This is my go-to dinner fit.'",
+      "hint": "Use the slang 'fit' for outfit. Include: clothing items, colors, accessories, and the occasion.",
+      "startTime": 594,
+      "endTime": 611,
+      "difficulty": "medium",
+      "relatedWords": [
+        "outfit",
+        "dinner fit",
+        "fashion",
+        "describe"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The speaker forgot their SD card for the GoPro. Talk about a time you forgot something important during a trip. What happened and how did you handle it?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题让学习者练习用英语讲述旅行中遗忘物品的经历，训练过去时和叙事能力。",
+      "referenceAnswer": "Sample answer: 'Once when I was on vacation, I forgot my phone charger. It really sucked because I couldn't take any photos on the second day. Luckily, I found a store nearby and bought a new one. Since then, I always make a checklist before every trip. The speaker in the video had a similar problem with the SD card, and I totally understand that feeling.'",
+      "hint": "Use past tense. Include: what you forgot, the consequence, and how you solved the problem.",
+      "startTime": 588.9,
+      "endTime": 593,
+      "difficulty": "hard",
+      "relatedWords": [
+        "forget",
+        "trip",
+        "SD card",
+        "problem"
+      ]
+    }
+  ]
+}

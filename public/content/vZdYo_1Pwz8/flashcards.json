@@ -1,0 +1,339 @@
+{
+  "videoId": "vZdYo_1Pwz8",
+  "generatedAt": "2026-08-11T06:30:42.346Z",
+  "cards": [
+    {
+      "id": "msoa7c897k537c",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stamina",
+      "back": "耐力，持久力 (noun, B2)",
+      "context": "I want to ensure I have the **stamina** to be hiking all three days I'm here.",
+      "audioStart": 77.78,
+      "audioEnd": 81.94,
+      "word": "stamina",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.345Z"
+    },
+    {
+      "id": "msoa7c893a00qx",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "scenic",
+      "back": "风景优美的 (adjective, B1)",
+      "context": "Single handedly, the most **scenic** spot I've ever eaten a cliff bar in my life.",
+      "audioStart": 175,
+      "audioEnd": 183.94,
+      "word": "scenic",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.345Z"
+    },
+    {
+      "id": "msoa7c893vhsch",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "replicate",
+      "back": "复制，重现 (verb, B2)",
+      "context": "It's something that you just really can't **replicate** unless you're in the mountains.",
+      "audioStart": 213.07,
+      "audioEnd": 216.75,
+      "word": "replicate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.345Z"
+    },
+    {
+      "id": "msoa7c89gc2u3t",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "promotion",
+      "back": "晋升，升职 (noun, B1)",
+      "context": "And the third reason is it was a **promotion** gift to myself.",
+      "audioStart": 225.33,
+      "audioEnd": 227.83,
+      "word": "promotion",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.345Z"
+    },
+    {
+      "id": "msoa7c898ows96",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "descent",
+      "back": "下降，下坡 (noun, B2)",
+      "context": "And now I'm going to begin my **descent** down to the lake so I can go for a little swim.",
+      "audioStart": 188.42,
+      "audioEnd": 192.94,
+      "word": "descent",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.345Z"
+    },
+    {
+      "id": "msoa7c894nbugz",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "shattered",
+      "back": "破碎的，粉碎的 (adjective, B2)",
+      "context": "My phone slipped off the chair and the screen **shattered** through the screen protector.",
+      "audioStart": 638.21,
+      "audioEnd": 644.11,
+      "word": "shattered",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.345Z"
+    },
+    {
+      "id": "msoa7c89zc0wqi",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bruise",
+      "back": "瘀伤，青肿 (noun, B1)",
+      "context": "It's definitely going to be a deep **bruise** and when I put my phone down to get the band-aids out",
+      "audioStart": 634.29,
+      "audioEnd": 638.21,
+      "word": "bruise",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.345Z"
+    },
+    {
+      "id": "msoa7c89qcqvoo",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "moody",
+      "back": "情绪多变的，阴沉的 (adjective, B2)",
+      "context": "Very **moody** and I'm very sore as well so it'll be good to get my legs working again.",
+      "audioStart": 462.16,
+      "audioEnd": 469.88,
+      "word": "moody",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.345Z"
+    },
+    {
+      "id": "msoa7c8akxkyp5",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "wandering",
+      "back": "漫步，闲逛 (verb, B1)",
+      "context": "So there's not really anywhere for me to just like pop down and squat and read my books so I'm just gonna keep **wandering**.",
+      "audioStart": 368.87,
+      "audioEnd": 377.77,
+      "word": "wandering",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.346Z"
+    },
+    {
+      "id": "msoa7c8aknr3wv",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "appointment",
+      "back": "预约，约会 (noun, B1)",
+      "context": "I did book an **appointment** at the Apple in Zurich to get my phone screen fixed because it's actually cheaper here in Zurich than it is in London which is kind of surprising to me.",
+      "audioStart": 705.23,
+      "audioEnd": 715.35,
+      "word": "appointment",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:42.346Z"
+    },
+    {
+      "id": "msoa7b8a51tsuj",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's currently the bank holiday weekend in August, so I planned a super last minute trip to go ___ because I missed it.",
+      "back": "hiking",
+      "context": "It's currently the bank holiday weekend in August, so I planned a super last minute trip to go hiking because I missed it.",
+      "audioStart": 59.7,
+      "audioEnd": 67,
+      "hint": "选项：shopping / running / hiking / swimming",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:41.050Z"
+    },
+    {
+      "id": "msoa7b8aegw4nc",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Oh I'm in ___ already.",
+      "back": "love",
+      "context": "Oh I'm in love already.",
+      "audioStart": 85.6,
+      "audioEnd": 91,
+      "hint": "选项：hate / trouble / love / pain",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:41.050Z"
+    },
+    {
+      "id": "msoa7b8a65wa3i",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) the lake so I can go for a little ___. The whole reason I actually came on this trip was A,",
+      "back": "swim",
+      "context": "the lake so I can go for a little swim. The whole reason I actually came on this trip was A,",
+      "audioStart": 190.9,
+      "audioEnd": 197.4,
+      "hint": "选项：run / jump / walk / swim",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:41.050Z"
+    },
+    {
+      "id": "msoa7b8aicu94h",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) think they're really fun and a good way to kind of ___ with yourself.",
+      "back": "reconnect",
+      "context": "think they're really fun and a good way to kind of reconnect with yourself.",
+      "audioStart": 199.5,
+      "audioEnd": 206.7,
+      "hint": "选项：communicate / connect / disconnect / reconnect",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:41.050Z"
+    },
+    {
+      "id": "msoa7b8as8ig5e",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And now I'm going to begin my ___ down to",
+      "back": "descent",
+      "context": "And now I'm going to begin my descent down to",
+      "audioStart": 186.3,
+      "audioEnd": 190.9,
+      "hint": "选项：climb / descent / ascent / journey",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:41.050Z"
+    },
+    {
+      "id": "msoa7b8au4903k",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And now I'm going to begin my ___ down to",
+      "back": "descent",
+      "context": "And now I'm going to begin my descent down to",
+      "audioStart": 186.3,
+      "audioEnd": 190.9,
+      "hint": "选项：journey / climb / ascent / descent",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:41.050Z"
+    },
+    {
+      "id": "msoa7b8agb0nhd",
+      "videoId": "vZdYo_1Pwz8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) eaten a cliff bar in my ___.",
+      "back": "life",
+      "context": "eaten a cliff bar in my life.",
+      "audioStart": 182.1,
+      "audioEnd": 186.3,
+      "hint": "选项：day / year / life / week",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:41.050Z"
+    }
+  ]
+}

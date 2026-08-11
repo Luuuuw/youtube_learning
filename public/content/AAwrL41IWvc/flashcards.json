@@ -1,0 +1,377 @@
+{
+  "videoId": "AAwrL41IWvc",
+  "generatedAt": "2026-08-11T06:22:22.563Z",
+  "cards": [
+    {
+      "id": "mso9wmlfd88tqs",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "detrimental",
+      "back": "有害的，不利的 (adjective, B2)",
+      "context": "Having a mindset where you don't believe in yourself, where you don't care about grades and don't think about your future, that is the most **detrimental** to your success.",
+      "audioStart": 43.74,
+      "audioEnd": 48.2,
+      "word": "detrimental",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wmlfuyshvj",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "accumulate",
+      "back": "积累，积聚 (verb, B2)",
+      "context": "I used to struggle during my first year at university and I used to **accumulate** bad grades and now I'm a student at Oxford University.",
+      "audioStart": 2.38,
+      "audioEnd": 13.28,
+      "word": "accumulate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wmlfeh70mg",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "overwhelming",
+      "back": "令人不知所措的，压倒性的 (adjective, B2)",
+      "context": "It can feel quite **overwhelming** not knowing where to start and more importantly, not knowing where to stop.",
+      "audioStart": 200.94,
+      "audioEnd": 206.48,
+      "word": "overwhelming",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wmlfs3bfkh",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "foundational",
+      "back": "基础的，根本的 (adjective, B2)",
+      "context": "You get to decide which career path you want to take and you're currently building the **foundational** knowledge that is required to get where you want to be in the future.",
+      "audioStart": 94.16,
+      "audioEnd": 102.38,
+      "word": "foundational",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wmlf9szfy2",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "curate",
+      "back": "策划，组织（内容） (verb, C1)",
+      "context": "So if you input all of your textbook information into ChatGBT and then ask it to **curate** exam questions, that's a really good way to identify if you actually know the answers.",
+      "audioStart": 546.5,
+      "audioEnd": 551.59,
+      "word": "curate",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wmlf64pl5g",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "eliminate",
+      "back": "消除，排除 (verb, B2)",
+      "context": "And if there is one outlier answer that is completely different to the other three ones, that one is definitely wrong and that can be usually **eliminated** instantly.",
+      "audioStart": 830.06,
+      "audioEnd": 836.62,
+      "word": "eliminate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wmlf583rm7",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "distinguish",
+      "back": "区分，辨别 (verb, B2)",
+      "context": "To me the four given answers just seemed so similar that I couldn't **distinguish** of which one is actually the most right one.",
+      "audioStart": 795.88,
+      "audioEnd": 801,
+      "word": "distinguish",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wmlf45xwsf",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "realistically",
+      "back": "现实地，实际地 (adverb, B2)",
+      "context": "Visualizing when you're going to do what is so helpful to identifying how much you can **realistically** achieve in the time frame you have.",
+      "audioStart": 348.95,
+      "audioEnd": 354.15,
+      "word": "realistically",
+      "tags": [
+        "CEFR-B2",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wmlf4cim7r",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "accountable",
+      "back": "负有责任的，应作解释的 (adjective, B2)",
+      "context": "It is the best way to holding yourself **accountable** on whether or not you're confident in the subject or not.",
+      "audioStart": 576.07,
+      "audioEnd": 580.43,
+      "word": "accountable",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wmlfvnj1ux",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "outlier",
+      "back": "异常值，局外人 (noun, C1)",
+      "context": "And if there is one **outlier** answer that is completely different to the other three ones, that one is definitely wrong.",
+      "audioStart": 830.06,
+      "audioEnd": 834.04,
+      "word": "outlier",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:22.563Z"
+    },
+    {
+      "id": "mso9wkzkrusid2",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) now I'm a student at Oxford University and I recently received an award for my outstanding ___ work",
+      "back": "PhD",
+      "context": "now I'm a student at Oxford University and I recently received an award for my outstanding PhD work.",
+      "audioStart": 7.7,
+      "audioEnd": 13.4,
+      "hint": "选项：degree / thesis / PhD / research",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:20.480Z"
+    },
+    {
+      "id": "mso9wkzk4c9xvr",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I will cover five key areas. Motivation, time management, note-taking, study methods and exam ___",
+      "back": "prep",
+      "context": "I will cover five key areas. Motivation, time management, note-taking, study methods and exam prep.",
+      "audioStart": 25.6,
+      "audioEnd": 31.8,
+      "hint": "选项：prep / practice / review / strategy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:20.480Z"
+    },
+    {
+      "id": "mso9wkzk0c8uup",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I actually plan out my whole week in one hour time blocks and I ___",
+      "back": "did",
+      "context": "I actually plan out my whole week in one hour time blocks and I did",
+      "audioStart": 358.7,
+      "audioEnd": 363.9,
+      "hint": "选项：do / did / have / will",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:20.480Z"
+    },
+    {
+      "id": "mso9wkzknitnxr",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) If you only sit down to study because someone else tells you to, you will never ___",
+      "back": "succeed",
+      "context": "If you only sit down to study because someone else tells you to, you will never",
+      "audioStart": 102.4,
+      "audioEnd": 106.2,
+      "hint": "选项：learn / improve / succeed / focus",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:20.480Z"
+    },
+    {
+      "id": "mso9wkzkt6kyq1",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) With any class that you take, even if your exam is months away, start preparing your study ___",
+      "back": "materials",
+      "context": "With any class that you take, even if your exam is months away, start preparing your study",
+      "audioStart": 376.6,
+      "audioEnd": 382.4,
+      "hint": "选项：notes / plan / materials / schedule",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:20.480Z"
+    },
+    {
+      "id": "mso9wkzknka6vk",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) but I also prepared flashcards and exam questions with the relevant ___",
+      "back": "answer",
+      "context": "but I also prepared flashcards and exam questions with the relevant answer.",
+      "audioStart": 407.1,
+      "audioEnd": 413.8,
+      "hint": "选项：answer / response / solution / information",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:20.480Z"
+    },
+    {
+      "id": "mso9wkzknb87jn",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It is a classic strategy of working smarter and not ___",
+      "back": "harder",
+      "context": "It is a classic strategy of working smarter and not harder.",
+      "audioStart": 241.4,
+      "audioEnd": 244.8,
+      "hint": "选项：better / harder / faster / longer",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:20.480Z"
+    },
+    {
+      "id": "mso9wkzk3ttrth",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It is very likely that most of them either weren't listening at all, which to ___",
+      "back": "me",
+      "context": "It is very likely that most of them either weren't listening at all, which to",
+      "audioStart": 659,
+      "audioEnd": 663.5,
+      "hint": "选项：me / you / them / us",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:20.480Z"
+    },
+    {
+      "id": "mso9wl9h9y3uix",
+      "videoId": "AAwrL41IWvc",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "成为学霸，任何时候开始都不嫌晚。\nIt is ___ ___ ___ to become a top student.",
+      "back": "never / too / late",
+      "context": "It is never too late to become a top student.",
+      "audioStart": 0,
+      "audioEnd": 2.379,
+      "hint": "it is never too late to",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:20.837Z"
+    }
+  ]
+}

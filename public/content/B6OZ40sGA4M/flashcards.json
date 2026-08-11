@@ -1,0 +1,398 @@
+{
+  "videoId": "B6OZ40sGA4M",
+  "generatedAt": "2026-08-11T06:22:52.019Z",
+  "cards": [
+    {
+      "id": "mso9x9bmo89s2n",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stunt",
+      "back": "特技表演 (noun, B2)",
+      "context": "Go do some **stunts** or something.",
+      "audioStart": 110.31,
+      "audioEnd": 113.07,
+      "word": "stunt",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bmbfa2cj",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "accent",
+      "back": "口音 (noun, B1)",
+      "context": "He helps me with my **accent**.",
+      "audioStart": 139.26,
+      "audioEnd": 141.8,
+      "word": "accent",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bmck24bd",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "costume",
+      "back": "服装，戏服 (noun, B1)",
+      "context": "He's in charge of **costume**.",
+      "audioStart": 147.66,
+      "audioEnd": 148.82,
+      "word": "costume",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bm5x88wr",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "property",
+      "back": "道具 (noun, B1)",
+      "context": "This is Gary Dawson, in charge of **property**.",
+      "audioStart": 158.7,
+      "audioEnd": 159.32,
+      "word": "property",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bm5svolg",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "criticise",
+      "back": "批评 (verb, B2)",
+      "context": "I get **criticised** a lot online especially for the way I make tea.",
+      "audioStart": 187.72,
+      "audioEnd": 191.05,
+      "word": "criticise",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bmfwyzf2",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "misconception",
+      "back": "误解 (noun, C1)",
+      "context": "This **misconception** that I use too much milk it cuts so deep because it's what I do for a living.",
+      "audioStart": 193.99,
+      "audioEnd": 198.07,
+      "word": "misconception",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bmgwsg3z",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "obscene",
+      "back": "大量的，惊人的 (adjective, C1)",
+      "context": "I am down here fighting an **obscene** amount of people.",
+      "audioStart": 208.63,
+      "audioEnd": 216.11,
+      "word": "obscene",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bmpsx9ds",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "wrap",
+      "back": "完成拍摄 (verb, B2)",
+      "context": "So we've just **wrapped** day 732 of Uncharted.",
+      "audioStart": 230.13,
+      "audioEnd": 235.41,
+      "word": "wrap",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bmdmb18d",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "insight",
+      "back": "洞察，了解 (noun, B2)",
+      "context": "I hope you enjoyed a little **insight** into what it's actually like to make a film.",
+      "audioStart": 240.55,
+      "audioEnd": 244.93,
+      "word": "insight",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bm3zb3fq",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "challenge",
+      "back": "挑战 (noun, B1)",
+      "context": "It's a **challenge** Rachel.",
+      "audioStart": 35.86,
+      "audioEnd": 40.24,
+      "word": "challenge",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.018Z"
+    },
+    {
+      "id": "mso9x9bnrb17h6",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "affair",
+      "back": "事情，事务 (noun, B2)",
+      "context": "Morning **affair**.",
+      "audioStart": 51.48,
+      "audioEnd": 53.24,
+      "word": "affair",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.019Z"
+    },
+    {
+      "id": "mso9x9bnk7gies",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "shade",
+      "back": "（非正式）挖苦，讽刺 (noun, B2)",
+      "context": "That's pure **shade**.",
+      "audioStart": 106.97,
+      "audioEnd": 108.79,
+      "word": "shade",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:52.019Z"
+    },
+    {
+      "id": "mso9x8515o8igu",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Oh hi there, welcome to a day in the life of Tom Holland on the set of ___",
+      "back": "life",
+      "context": "Oh hi there, welcome to a day in the life of Tom Holland on the set of...",
+      "audioStart": 0,
+      "audioEnd": 7.1,
+      "hint": "选项：show / life / movie / work",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:50.485Z"
+    },
+    {
+      "id": "mso9x851dv0lzr",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Let's do this Day 457 It feels ___",
+      "back": "feels",
+      "context": "Let's do this Day 457 It feels",
+      "audioStart": 26.6,
+      "audioEnd": 33.6,
+      "hint": "选项：feels / sounds / seems / looks",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:50.485Z"
+    },
+    {
+      "id": "mso9x85169ta0m",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) like that In the morning A ___",
+      "back": "morning",
+      "context": "like that In the morning A",
+      "audioStart": 33.2,
+      "audioEnd": 39,
+      "hint": "选项：evening / night / afternoon / morning",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:50.485Z"
+    },
+    {
+      "id": "mso9x851tawxe8",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) How are you? Good morning. Alright. You ___?",
+      "back": "well",
+      "context": "How are you? Good morning. Alright. You well?",
+      "audioStart": 45.4,
+      "audioEnd": 48.7,
+      "hint": "选项：okay / fine / well / good",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:50.485Z"
+    },
+    {
+      "id": "mso9x851mxq3xi",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This is Anthony Druitt. He's in ___ of costume.",
+      "back": "charge",
+      "context": "This is Anthony Druitt. He's in charge of costume.",
+      "audioStart": 145.8,
+      "audioEnd": 148.8,
+      "hint": "选项：care / charge / management / control",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:50.485Z"
+    },
+    {
+      "id": "mso9x8518xsegc",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This is Brian, our first AD. This is Tom Bentley, ___ AD.",
+      "back": "second",
+      "context": "This is Brian, our first AD. This is Tom Bentley, second AD.",
+      "audioStart": 150.6,
+      "audioEnd": 154.8,
+      "hint": "选项：last / third / next / second",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:50.485Z"
+    },
+    {
+      "id": "mso9x8516u6dlp",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I think that sometimes people forget that making tea is an ___ form.",
+      "back": "art",
+      "context": "I think that sometimes people forget that making tea is an art form.",
+      "audioStart": 175.6,
+      "audioEnd": 182.7,
+      "hint": "选项：skill / art / work / craft",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:50.485Z"
+    },
+    {
+      "id": "mso9x8515an6ux",
+      "videoId": "B6OZ40sGA4M",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We bring our own tea bags from Yorkshire and I get ___",
+      "back": "get",
+      "context": "We bring our own tea bags from Yorkshire and I get",
+      "audioStart": 184.4,
+      "audioEnd": 189.1,
+      "hint": "选项：get / bring / have / take",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:50.485Z"
+    }
+  ]
+}

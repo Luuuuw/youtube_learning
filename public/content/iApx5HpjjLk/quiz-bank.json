@@ -1,0 +1,644 @@
+{
+  "videoId": "iApx5HpjjLk",
+  "title": "iApx5HpjjLk",
+  "generatedAt": "2026-08-10T10:57:17.562Z",
+  "version": 1,
+  "totalQuestions": 27,
+  "stats": {
+    "easy": 12,
+    "medium": 10,
+    "hard": 5,
+    "choice": 23,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'dream big' mean in the sentence 'I want him to dream big'?",
+      "options": [
+        "A) To daydream often",
+        "B) To have ambitious goals",
+        "C) To sleep a lot",
+        "D) To imagine unrealistic things"
+      ],
+      "answer": "B",
+      "explanation": "'Dream big' 是一个常见的英语表达，意思是'怀揣远大的梦想'或'有远大的抱负'，鼓励人们设定高远的目标。这里指希望对方能勇于追求伟大的目标。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 16.3,
+      "endTime": 28.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dream",
+        "big",
+        "ambitious",
+        "goal"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "Which of the following advice was NOT mentioned by the speaker for a young athlete?",
+      "options": [
+        "A) Dream big",
+        "B) Stay humble",
+        "C) Trust the process",
+        "D) Make quick money"
+      ],
+      "answer": "D",
+      "explanation": "演讲者提到的建议包括：dream big（胸怀大志）、stay humble（保持谦逊）、trust the process（相信过程）。'Make quick money'（快速赚钱）并未被提及。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 16.3,
+      "endTime": 28.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "humble",
+        "process",
+        "advice",
+        "athlete"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the speaker want to maintain throughout his career?",
+      "options": [
+        "A) His wealth",
+        "B) His fame",
+        "C) His passion for football",
+        "D) His social media presence"
+      ],
+      "answer": "C",
+      "explanation": "原文中提到 'to don't lose my passion for football'，演讲者强调他希望保持对足球的热爱和激情，这是他职业生涯中最重要的东西。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 34.5,
+      "endTime": 44.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "passion",
+        "career",
+        "football",
+        "happy"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the speaker imply when he says 'there is nothing normal in the world in the football'?",
+      "options": [
+        "A) Football is a boring sport",
+        "B) Football is a simple game",
+        "C) The football world is full of unusual and unexpected things",
+        "D) Football players are not normal people"
+      ],
+      "answer": "C",
+      "explanation": "演讲者通过'nothing normal'来表达足球世界中充满了不寻常、不可预测的事情。这是一个常见的英语表达方式，用来强调某领域或环境的特殊性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 76.8,
+      "endTime": 78.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "normal",
+        "football",
+        "unusual",
+        "world"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'spare time' mean?",
+      "options": [
+        "A) Time spent at work",
+        "B) Free time or leisure time",
+        "C) Time spent sleeping",
+        "D) Time spent on a spare tire"
+      ],
+      "answer": "B",
+      "explanation": "'Spare time' 指空闲时间或业余时间，即除了工作或日常事务之外的个人时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 93.8,
+      "endTime": 95.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "spare time",
+        "leisure",
+        "hobby",
+        "free"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What do people generally think about the speaker's life?",
+      "options": [
+        "A) It is very boring",
+        "B) It is very exciting",
+        "C) It is very hard",
+        "D) It is very quiet"
+      ],
+      "answer": "B",
+      "explanation": "原文中提到 'everybody think our life is so exciting'，说明大家普遍认为演讲者（作为足球运动员）的生活非常刺激和精彩。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 106.3,
+      "endTime": 106.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "exciting",
+        "life",
+        "people",
+        "think"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "Why was the friend surprised when visiting the speaker's house?",
+      "options": [
+        "A) Because the house was too big",
+        "B) Because the house was too small",
+        "C) Because of something unexpected about the speaker's lifestyle",
+        "D) Because there was no food in the house"
+      ],
+      "answer": "C",
+      "explanation": "从上下文来看，朋友被朋友带到演讲者家时感到很惊讶，这意味着他在演讲者家里看到了一些意料之外的事情，可能与作为顶级足球运动员的日常生活方式的反差有关。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 116.8,
+      "endTime": 118.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "friend",
+        "surprised",
+        "house",
+        "visit"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker want to improve when he is at home?",
+      "options": [
+        "A) His football skills",
+        "B) His Spanish language",
+        "C) Something he does at home (like cooking)",
+        "D) His sleep schedule"
+      ],
+      "answer": "C",
+      "explanation": "从上下文 'When I'm home, I think when you can cook something good at home for someone or for yourself' 可知，演讲者在谈论他在家时想改进的事情，比如烹饪。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 130.7,
+      "endTime": 139.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "improve",
+        "home",
+        "cook",
+        "better"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "How does the speaker describe Madrid when asked about it?",
+      "options": [
+        "A) He hates it",
+        "B) He loves everything about it",
+        "C) A little bit of everything, honestly",
+        "D) He doesn't know it well"
+      ],
+      "answer": "C",
+      "explanation": "原文中演讲者说 'Oh, a little bit everything because I have to be honest'，意思是关于马德里他喜欢很多方面，但作为一个诚实的人，他承认马德里有很多值得喜爱的地方。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 144.6,
+      "endTime": 148.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Madrid",
+        "honest",
+        "everything",
+        "like"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the speaker say about the people in his new city?",
+      "options": [
+        "A) They are unfriendly",
+        "B) They are welcoming",
+        "C) They are loud",
+        "D) They are shy"
+      ],
+      "answer": "B",
+      "explanation": "原文中提到 'the way they are welcoming'，说明当地人非常热情好客。'Welcoming' 意为'好客的、热情的'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 154.5,
+      "endTime": 158.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "people",
+        "welcoming",
+        "culture",
+        "friendly"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What feeling does the speaker describe when he is in a peaceful place?",
+      "options": [
+        "A) Bored",
+        "B) Annoyed",
+        "C) Enjoyable and peaceful",
+        "D) Excited"
+      ],
+      "answer": "C",
+      "explanation": "原文中演讲者说 'It's peaceful to to be in a place like this and and I really enjoy'，表达了他对身处宁静之地感到享受和满足。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 169.8,
+      "endTime": 171.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "peaceful",
+        "enjoy",
+        "place",
+        "calm"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "How does the speaker describe his new club?",
+      "options": [
+        "A) The biggest club in the world",
+        "B) The richest club in the world",
+        "C) The most boring club in the world",
+        "D) The newest club in the world"
+      ],
+      "answer": "A",
+      "explanation": "原文中明确说 'the greatest club in the world and the most famous club'，'greatest' 意为'最伟大的'，这是对俱乐部极高的评价，指的应该是皇家马德里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 180.7,
+      "endTime": 188.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "greatest",
+        "club",
+        "famous",
+        "world"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'blessing' mean in 'it's such a blessing to be part of this club'?",
+      "options": [
+        "A) A curse",
+        "B) A fortunate gift or good luck",
+        "C) A problem",
+        "D) A challenge"
+      ],
+      "answer": "B",
+      "explanation": "'Blessing' 意为'福气、幸运、恩赐'。'It's such a blessing to...' 是英语中常用的表达，意思是'能够……是一种福气/幸运'，表达对某事的感恩。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 195,
+      "endTime": 196.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "blessing",
+        "club",
+        "grateful",
+        "fortunate"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "According to the speaker, at what time do French people usually have breakfast?",
+      "options": [
+        "A) 7:00",
+        "B) 8:00",
+        "C) 9:00",
+        "D) 12:00"
+      ],
+      "answer": "C",
+      "explanation": "原文中演讲者说 'In France, we are like at 9:00 is breakfast, at 12:00 is the lunch'，明确指出法国人通常在9:00吃早餐。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 200.5,
+      "endTime": 206.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "France",
+        "breakfast",
+        "time",
+        "lunch"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What time do French people typically have dinner, according to the speaker?",
+      "options": [
+        "A) 6:00 PM",
+        "B) 7:00 PM",
+        "C) 8:00 PM",
+        "D) 9:00 PM"
+      ],
+      "answer": "C",
+      "explanation": "原文中说 'at 8:00 is dinner'，所以法国人的晚餐时间通常是晚上8:00。相比之下，这比很多国家的晚餐时间要晚。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 208.7,
+      "endTime": 210.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dinner",
+        "France",
+        "time",
+        "evening"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'chill' mean in the sentence 'Then it's like chill. Everything is chill'?",
+      "options": [
+        "A) Cold",
+        "B) Angry",
+        "C) Relaxed and calm",
+        "D) Exciting"
+      ],
+      "answer": "C",
+      "explanation": "在英语口语中，'chill' 作形容词时意为'放松的、冷静的、悠闲的'。'Everything is chill' 表示一切都很好、很放松。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 208.7,
+      "endTime": 210.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "chill",
+        "relaxed",
+        "calm",
+        "evening"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "How does the speaker describe Spanish people?",
+      "options": [
+        "A) They are strict and serious",
+        "B) They are easy-going and spontaneous",
+        "C) They are unfriendly",
+        "D) They are very formal"
+      ],
+      "answer": "B",
+      "explanation": "原文中说 'Spanish people like they they are like easy. Come on, let's go'，意思是西班牙人随性自在、说走就走，体现了他们轻松自在的性格特点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 225.8,
+      "endTime": 227.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Spanish",
+        "people",
+        "easy",
+        "spontaneous"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the speaker hoping about the weather outside?",
+      "options": [
+        "A) He hopes it is very hot",
+        "B) He hopes it is not too cold",
+        "C) He hopes it is raining",
+        "D) He hopes it is snowing"
+      ],
+      "answer": "B",
+      "explanation": "原文中演讲者说 'I hope it is not that cold outside'，表达了他对天气不要太冷的希望，'that' 在这里加强了'cold'的程度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 233.8,
+      "endTime": 233.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "weather",
+        "cold",
+        "outside",
+        "hope"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the speaker value about the people he has met through football?",
+      "options": [
+        "A) Their money",
+        "B) Their fame",
+        "C) Their friendship",
+        "D) Their talent"
+      ],
+      "answer": "C",
+      "explanation": "原文中演讲者说 'It's a friend now. It's It's so great to have people that...'，表达了他对通过足球结识的友谊的珍视。'Friend' 和'friendship' 是核心价值。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 242,
+      "endTime": 244,
+      "difficulty": "hard",
+      "relatedWords": [
+        "friend",
+        "people",
+        "football",
+        "relationship"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I'm not someone who's scared or shy'?",
+      "options": [
+        "A) He is afraid of challenges",
+        "B) He is confident and not afraid of new situations",
+        "C) He doesn't like talking to people",
+        "D) He is not good at football"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说 'I'm not someone who's scared or shy, so it's easy for me'，表明他是一个自信、勇于面对新环境和挑战的人，这种性格帮助他适应新的生活。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 265.3,
+      "endTime": 267.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "scared",
+        "shy",
+        "confident",
+        "brave"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What is meant by 'breakout star' in reference to the 2022 World Cup?",
+      "options": [
+        "A) A star who was injured",
+        "B) Someone who suddenly became very famous and successful",
+        "C) A star who retired",
+        "D) A star who played badly"
+      ],
+      "answer": "B",
+      "explanation": "'Breakout star' 意为'突然走红的新星、一夜爆红的明星'，指的是在2022年世界杯中突然崭露头角、大放异彩的球员。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 288.6,
+      "endTime": 291.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "breakout",
+        "star",
+        "World Cup",
+        "2022"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What is the speaker's role in his team?",
+      "options": [
+        "A) A substitute player",
+        "B) The captain of the team",
+        "C) The coach",
+        "D) A new trainee"
+      ],
+      "answer": "B",
+      "explanation": "原文中演讲者明确说 'I'm the captain of the team'，表明他是球队的队长，这是一个非常重要的领导角色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 295.6,
+      "endTime": 295.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "captain",
+        "team",
+        "leader",
+        "role"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What is 'Champs-Élysées' referring to in the video?",
+      "options": [
+        "A) A football stadium",
+        "B) A famous avenue in Paris, France",
+        "C) A type of food",
+        "D) A music festival"
+      ],
+      "answer": "B",
+      "explanation": "'Champs-Élysées'（香榭丽舍大道）是巴黎最著名的大道之一，常用于法国庆祝活动，比如世界杯夺冠后的游行。这表明演讲者与法国（巴黎）的关联。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 307.8,
+      "endTime": 307.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Champs-Élysées",
+        "Paris",
+        "France",
+        "avenue"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The speaker mentions giving 'the best tips in life to have the best life.' What are some important life tips you would give to a young person? Please share at least 2-3 pieces of advice in English.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放性口语题。演讲者提到要给年轻人最好的生活建议，参考答案包括：dream big（胸怀大志）、stay humble（保持谦逊）、trust the process（相信过程）、work hard（努力工作）、never give up（永不放弃）等。学生应能用英语流畅表达自己的观点。",
+      "referenceAnswer": "1) Dream big and set ambitious goals for yourself. 2) Stay humble no matter how successful you become. 3) Trust the process - success takes time and effort. 4) Always work hard and never give up. 5) Surround yourself with good people who support you.",
+      "hint": "Think about advice you would give to a younger version of yourself. You can mention things like working hard, being kind to others, staying focused, or following your dreams.",
+      "startTime": 281.1,
+      "endTime": 283.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tips",
+        "life",
+        "advice",
+        "young"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "The speaker talks about differences in daily routines between France and Spain (like meal times). Could you describe your typical daily routine in English, including when you have your meals?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放性口语题，要求学生用英语描述自己一天的日常，包括用餐时间。参考答案应包含起床时间、早餐/午餐/晚餐时间、活动等基本元素。演讲者提到法国人9点吃早餐、12点午餐、8点晚餐。",
+      "referenceAnswer": "I usually wake up at 7:00 AM and have breakfast around 7:30. I have lunch at 12:00 PM and dinner at 7:00 PM. After dinner, I like to relax by reading or watching TV before going to bed around 11:00 PM. On weekends, I sleep later and spend more time with family and friends.",
+      "hint": "Think about: What time do you wake up? When do you eat breakfast/lunch/dinner? What do you do during the day? How does it compare to French or Spanish habits?",
+      "startTime": 200.5,
+      "endTime": 210.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "daily routine",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "speaking",
+      "question": "The speaker says: 'It's peaceful to be in a place like this and I really enjoy it.' Describe a place where you feel peaceful and happy. Why does it make you feel that way?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放性口语题，要求学生描述一个让自己感到宁静和快乐的地方，并解释原因。可以从自然环境、家乡、某个特定场所等方面展开。参考答案应包含地点描述和情感原因。",
+      "referenceAnswer": "A place where I feel peaceful is my grandmother's house in the countryside. It is surrounded by trees and flowers, and the air is fresh and clean. I feel peaceful there because I can escape from the busy city life, enjoy nature, and spend quality time with my family. The sound of birds in the morning always makes me feel calm and relaxed.",
+      "hint": "You can talk about a place in nature (like a beach, park, or mountains), a special room at home, or a city you love. Explain what you see, hear, and feel there.",
+      "startTime": 169.8,
+      "endTime": 171.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "peaceful",
+        "place",
+        "enjoy",
+        "happy"
+      ]
+    },
+    {
+      "id": 27,
+      "type": "speaking",
+      "question": "The speaker was asked: 'If football didn't exist, what do you think you'd be doing right now?' Answer this question hypothetically for yourself - if your current main activity (job, study, or sport) didn't exist, what would you be doing?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放性口语题，假设性问题。演讲者被问如果足球不存在他会做什么。学生应能就自己的情况给出合理的假设性回答。参考答案应展现想象力和英语表达能力。",
+      "referenceAnswer": "If my current job didn't exist, I think I would become a travel photographer. I have always loved exploring new places and capturing beautiful moments through my camera. I would travel around the world, meet different people, and share their stories through my photos. This way, I could combine my passion for adventure with my creative side.",
+      "hint": "Think about: What are your hobbies and interests? What have you always wanted to try? What talents do you have besides your main activity? Be creative!",
+      "startTime": 270.4,
+      "endTime": 272.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "hypothetical",
+        "career",
+        "dream",
+        "future"
+      ]
+    }
+  ]
+}

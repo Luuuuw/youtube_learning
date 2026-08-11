@@ -1,0 +1,567 @@
+{
+  "videoId": "QPv7-uqggRY",
+  "title": "QPv7-uqggRY",
+  "generatedAt": "2026-08-10T11:15:44.382Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 5,
+    "medium": 12,
+    "hard": 8,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the speaker referring to when they say 'It's the end of the World Cup'?",
+      "options": [
+        "A) The World Cup event has just started",
+        "B) The World Cup tournament is concluding or over for them",
+        "C) They are going to a World Cup party",
+        "D) The World Cup is being postponed"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文（1.8s），'the end of the World Cup' 在足球语境中通常指世界杯比赛阶段结束或某支球队被淘汰。结合视频中后段提到'Guys, I'm officially out of the World Cup'（732.2s），可以确认这里是指世界杯对其而言已经结束。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1.8,
+      "endTime": 6.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "World Cup",
+        "tournament",
+        "conclude"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'underrate' mean in the phrase 'Do you think people underrate you sometimes?'",
+      "options": [
+        "A) To praise someone too much",
+        "B) To not recognize or appreciate someone's true ability",
+        "C) To criticize someone harshly",
+        "D) To ignore someone completely"
+      ],
+      "answer": "B",
+      "explanation": "'Underrate' 意为'低估'，指没有充分认识到或欣赏某人的真实能力/价值。这里采访者问球员是否觉得人们有时候低估了他（32.2s-45.1s），球员回答人们确实在某种程度上低估了他。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 32.2,
+      "endTime": 45.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "underrate",
+        "ability",
+        "appreciation"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "How many goals did the player say he scored 'from your league this season'?",
+      "options": [
+        "A) 17 goals",
+        "B) 37 goals",
+        "C) 27 goals",
+        "D) 7 goals"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕（42.9s-45.1s），球员说'27 goals'，并反问'Was I expected?'（这是我被期望的表现吗？），说明他在一个赛季中打进了27个联赛进球。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 42.9,
+      "endTime": 45.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "goals",
+        "league",
+        "season"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "In football, what does the word 'highlight' most likely refer to?",
+      "options": [
+        "A) A bright light on the stadium",
+        "B) A standout or memorable moment/move",
+        "C) A type of football training",
+        "D) The final score of a match"
+      ],
+      "answer": "B",
+      "explanation": "在足球语境中（135.7s），'highlight' 通常指比赛中精彩突出的瞬间或动作，例如最佳进球、最佳扑救等。'playing highlights against each other' 意为'互相展示各自的精彩表现'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 135.7,
+      "endTime": 145,
+      "difficulty": "medium",
+      "relatedWords": [
+        "highlight",
+        "football",
+        "moment"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is a 'quarterfinal' in the World Cup context?",
+      "options": [
+        "A) The very first match of the tournament",
+        "B) The final championship match",
+        "C) A match in the round where 8 teams compete for 4 semifinal spots",
+        "D) A friendly exhibition match"
+      ],
+      "answer": "C",
+      "explanation": "'Quarterfinal'（四分之一决赛，228.7s-230.9s）是世界杯淘汰赛的一个阶段，通常有8支球队参赛，胜出的4支球队晋级半决赛（semifinal）。英格兰队在该阶段有一场比赛。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 226.6,
+      "endTime": 230.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "quarterfinal",
+        "World Cup",
+        "knockout"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the speaker mean by 'But when you're billionaire, ...'?",
+      "options": [
+        "A) Money doesn't matter at all",
+        "B) When you're very rich, people's opinions/your behavior may change",
+        "C) Billionaires are unhappy",
+        "D) Money solves all problems"
+      ],
+      "answer": "B",
+      "explanation": "字幕（318.2s）'But when you're billionaire' 通常暗示当一个人变得非常富有时，周围人的态度、自己对某些事情的处理方式都会发生变化，体现出金钱和地位带来的影响。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 318.2,
+      "endTime": 326.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "billionaire",
+        "wealth",
+        "attitude"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "In the context 'he's going to come and kick his ass', what does 'kick his ass' informally mean?",
+      "options": [
+        "A) To physically kick someone",
+        "B) To defeat or beat someone in a competition",
+        "C) To make a friend",
+        "D) To apologize to someone"
+      ],
+      "answer": "B",
+      "explanation": "'Kick his ass'（343.4s-343.7s）是英语口语中的惯用表达，字面意思虽然不雅，但通常表示'狠狠地打败/击败某人'，或在比赛中碾压对手。这里是指在比赛中击败对方。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 343.4,
+      "endTime": 350,
+      "difficulty": "medium",
+      "relatedWords": [
+        "kick ass",
+        "defeat",
+        "slang"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker mean by 'Me and Vinnie singing' (214.4s) and 'Can you sing also?' (401.4s)?",
+      "options": [
+        "A) They are professional singers",
+        "B) It's a humorous/meme moment about them singing casually",
+        "C) They are in a singing competition",
+        "D) They are recording an album"
+      ],
+      "answer": "B",
+      "explanation": "结合前后文'memes, you know. It's too funny'（226.6s-228.7s），以及'even singing'（399.7s）这种轻松的语气，可以判断这是采访中一个搞笑/恶搞的娱乐瞬间，他们并非专业歌手，而是开玩笑地唱歌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 202,
+      "endTime": 214.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sing",
+        "memes",
+        "humor"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'Grown. He's already grown' (362.7s) imply about the player?",
+      "options": [
+        "A) The player is physically very tall",
+        "B) The player has matured both professionally and personally",
+        "C) The player has a garden",
+        "D) The player is getting older and weaker"
+      ],
+      "answer": "B",
+      "explanation": "在足球语境中（362.7s-365.0s），说球员'grown'通常是指他在心理、技战术和职业发展上已经成熟，超越了同龄人。结合'How much do you want him to grow?'的反问，说明这里指个人成长。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 362.7,
+      "endTime": 365,
+      "difficulty": "medium",
+      "relatedWords": [
+        "grow",
+        "mature",
+        "develop"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'pass the line and he makes his order' (453.4s) most likely describe in football?",
+      "options": [
+        "A) A player crosses the defensive line and executes a planned play",
+        "B) A referee giving instructions",
+        "C) A player ordering food at a restaurant",
+        "D) A fan trying to meet the player"
+      ],
+      "answer": "A",
+      "explanation": "在足球比赛中（453.4s），'pass the line' 通常指突破对方防线，'makes his order' 在这里意指按照既定战术安排执行自己的动作（如传球、射门）。这是描述球员战术执行能力的表达。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 453.4,
+      "endTime": 460,
+      "difficulty": "hard",
+      "relatedWords": [
+        "pass the line",
+        "tactic",
+        "football play"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "In the phrase 'it's less important... they don't care they just want the fancy things than actually the...' (616.6s-621.8s), what is being criticized?",
+      "options": [
+        "A) People valuing flashy/material things more than real substance",
+        "B) The price of football tickets",
+        "C) Stadium decorations",
+        "D) New football boots"
+      ],
+      "answer": "A",
+      "explanation": "这段话（616.6s-621.8s）批评了一种现象：人们（可能是球员或公众人物）追求花哨的东西（fancy things），却不太在乎真正重要的东西（less important things被反向对比），反映了浮华与实质之间的对比。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 616.6,
+      "endTime": 621.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "fancy",
+        "superficial",
+        "criticism"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'we are still where we were 20 years' (638.7s) suggest?",
+      "options": [
+        "A) Nothing has changed in 20 years",
+        "B) The team/football has not progressed much in two decades",
+        "C) They are traveling back in time",
+        "D) 20 years is a very long time"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文（634.6s-638.7s）'it didn't develop'，'we are still where we were 20 years' 表示在20年的时间里，球队或足球某些方面没有取得预期的进步，表达了发展停滞的遗憾。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 634.6,
+      "endTime": 638.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "develop",
+        "progress",
+        "two decades"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'the best has been like the bigger names' (661.8s-662.7s) most likely mean?",
+      "options": [
+        "A) The best thing is having a famous name",
+        "B) The best moments/part of something have involved the most famous/recognized players",
+        "C) Bigger names are always the best",
+        "D) Names don't matter in football"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文（655.0s-662.7s）讨论'you and Spir American kids'以及'bigger names'，这句话指最精彩的部分/最好的人往往是那些更有名的明星球员，暗示名气与实力的某种关联。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 655,
+      "endTime": 662.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "bigger names",
+        "famous",
+        "players"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the speaker imply by 'I'm officially out of the World Cup, but Slatan made me get my mood back' (732.2s-735.6s)?",
+      "options": [
+        "A) Slatan physically helped them recover",
+        "B) Although they are eliminated from the World Cup, Slatan cheered them up",
+        "C) Slatan is also out of the World Cup",
+        "D) They are angry at Slatan"
+      ],
+      "answer": "B",
+      "explanation": "这段话（732.2s-735.6s）表达了虽然自己被淘汰出世界杯很失落，但Slatan（可能是朋友、队友或偶像）的存在或交流让他们恢复了心情，传递了一种友情和相互支持的温暖情感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 732.2,
+      "endTime": 735.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "out of",
+        "mood",
+        "Slatan"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'I'm paying. So, it's a good deal' (11.3s-11.7s) most likely refer to?",
+      "options": [
+        "A) The speaker is paying a bill at a restaurant",
+        "B) The speaker is being compensated well, making it worthwhile for them",
+        "C) The speaker is buying a house",
+        "D) The speaker is paying taxes"
+      ],
+      "answer": "B",
+      "explanation": "结合视频采访场景（11.3s-11.7s），这是受访者用幽默的口吻暗示自己得到的报酬（可能是采访费、出场费等）相当不错，所以'是个好交易'，体现了轻松调侃的氛围。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 11.3,
+      "endTime": 15,
+      "difficulty": "medium",
+      "relatedWords": [
+        "paying",
+        "good deal",
+        "humor"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'fantastic knows how to score goals. I'm still young' (28.9s-30.1s) suggest about the speaker?",
+      "options": [
+        "A) The speaker is complimenting a teammate",
+        "B) The speaker is describing themselves as having great potential due to youth and scoring ability",
+        "C) The speaker is retiring",
+        "D) The speaker is criticizing their own performance"
+      ],
+      "answer": "B",
+      "explanation": "这句话（28.9s-30.1s）展现了年轻球员的自信——'知道如何进球'说明技术好，'我还年轻'暗示未来还有很多时间和潜力可挖，整体表达了对自己实力的肯定和对未来的期待。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 28.9,
+      "endTime": 30.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fantastic",
+        "score goals",
+        "young"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'I expect England to win' (228.7s-230.9s) indicate?",
+      "options": [
+        "A) A prediction about the quarterfinal match",
+        "B) A complaint about England",
+        "C) A past result of England",
+        "D) The speaker plays for England"
+      ],
+      "answer": "A",
+      "explanation": "结合'England tomorrow quarterfinal in the World Cup'（228.7s-230.9s），这是说话者对即将到来的英格兰四分之一决赛结果的预测——他预测英格兰会赢。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 228.7,
+      "endTime": 230.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "expect",
+        "England",
+        "prediction"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "In 'the fancy things than actually the' (616.6s), what is the speaker contrasting?",
+      "options": [
+        "A) Different brands of football shoes",
+        "B) Flashy appearances versus genuine substance/value",
+        "C) Old cars versus new cars",
+        "D) Different types of food"
+      ],
+      "answer": "B",
+      "explanation": "结合完整语境'it's less important... they just want the fancy things than actually the'（616.6s-621.8s），'fancy things'指表面光鲜的事物，与'actually'（真正重要的）形成对比，批评重表面轻实质的现象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 616.6,
+      "endTime": 621.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "fancy",
+        "actually",
+        "substance"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'let's see if US would have won would be good then it's like successful world cup' (627.8s-631.7s) mean?",
+      "options": [
+        "A) The US team is certain to win the World Cup",
+        "B) If the US team had won, that would be considered a successful World Cup",
+        "B) The US team should not participate",
+        "D) The World Cup is always successful"
+      ],
+      "answer": "B",
+      "explanation": "这是一个条件句（627.8s-631.7s），说话者假设如果美国队能赢得比赛，那么这届世界杯就是成功的。体现了对主队（美国队）成绩的期望，以及用胜负来衡量'成功'的标准。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 627.8,
+      "endTime": 631.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "successful",
+        "US team",
+        "World Cup"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "In 'talent we haven't seen from you... It's true' (412.8s-413.8s), what is being acknowledged?",
+      "options": [
+        "A) The player has not shown any talent",
+        "B) The player has hidden potential that hasn't been fully displayed yet",
+        "C) The player is finished as a footballer",
+        "D) The player is overrated"
+      ],
+      "answer": "B",
+      "explanation": "412.8s-413.8s 的对话显示有人指出球员还有未被发掘的天赋，球员承认'这是真的'，说明他意识到自己还有未展示的潜力，体现了年轻球员的可成长性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 412.8,
+      "endTime": 413.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "talent",
+        "potential",
+        "acknowledge"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "The interviewer asks: 'Do you think people underrate you sometimes?' How would you answer this question in English if you were a young professional football player who has scored 27 goals in a season?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题。要求学习者以年轻职业球员的身份回答关于'是否被低估'的问题。参考答案围绕'被低估的感受'、'用表现证明自己'、'保持谦逊'等角度展开。",
+      "referenceAnswer": "I think sometimes people do underrate me. Even though I scored 27 goals this season, some people still don't recognize what I bring to the team. But I don't really care about the outside noise. I just keep working hard, and I believe my performances on the pitch will speak for themselves. I'm still young, and I have a lot of room to grow.",
+      "hint": "Mention your achievements, express confidence, talk about your age and future potential, and discuss how you respond to critics.",
+      "startTime": 32.2,
+      "endTime": 45.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "underrate",
+        "goals",
+        "young",
+        "potential"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Based on the conversation about the World Cup quarterfinal involving England, what do you think makes a 'successful World Cup'? Please express your opinion in English.",
+      "options": [],
+      "answer": "open",
+      "explanation": "基于627.8s-631.7s关于'世界杯是否成功'的讨论，要求学习者表达对'成功世界杯'标准的看法。可以从'成绩表现'、'球员成长'、'球迷体验'、'国家荣誉'等角度展开。",
+      "referenceAnswer": "In my opinion, a successful World Cup isn't only about winning the trophy. It can mean different things to different countries. For some, it's about reaching the knockout stages; for others, it's about developing young players and showing the world what they can do. Most importantly, it's about the unity it brings to fans and the inspiration it provides to the next generation.",
+      "hint": "Think about what 'success' means in football - is it only about winning? Consider team development, fan experience, and national pride.",
+      "startTime": 627.8,
+      "endTime": 638.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "successful",
+        "World Cup",
+        "achievement"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The speaker says: 'I'm officially out of the World Cup, but Slatan made me get my mood back.' Describe in English how you would feel and what you would do if you were eliminated from a major competition but had a good friend support you.",
+      "options": [],
+      "answer": "open",
+      "explanation": "基于732.2s-735.6s的表述，要求学习者描述被淘汰后的复杂心情以及朋友支持的感受。参考答案需要包含'失落/难过'、'朋友的支持'、'振作起来'等情感变化。",
+      "referenceAnswer": "Honestly, being eliminated from the World Cup would be devastating. I would feel a deep sense of disappointment and maybe even question myself. However, having a friend like Slatan by my side would mean the world to me. He would remind me that football is not everything, and there are still many opportunities ahead. His support would help me get back on my feet, learn from the experience, and come back stronger for the next challenge.",
+      "hint": "Express your emotions (disappointment, sadness), then talk about the value of friendship, and end with a positive outlook on the future.",
+      "startTime": 732.2,
+      "endTime": 735.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "eliminated",
+        "support",
+        "friendship"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The interviewer says: 'reflect for a second on just... everything you have done has been like... amazing.' Try to give a short speech in English reflecting on a major personal achievement and what it means to you.",
+      "options": [],
+      "answer": "open",
+      "explanation": "基于472.6s-602.0s多次出现的'reflect'和'amazing'等关键词，要求学习者进行一段个人反思的简短演讲。参考答案需要包含'回顾'、'感恩'、'展望'等元素。",
+      "referenceAnswer": "Looking back on my journey, I am truly grateful for everything I have achieved so far. From scoring my first professional goal to representing my country, every moment has shaped me into the player I am today. None of this would have been possible without my family, my coaches, and my teammates who believed in me. I know there is still a long way to go, and I am excited for the challenges that lie ahead. This is just the beginning.",
+      "hint": "Structure your speech: 1) Start with a general reflection, 2) Mention specific achievements, 3) Thank those who supported you, 4) End with future goals.",
+      "startTime": 472.6,
+      "endTime": 602,
+      "difficulty": "medium",
+      "relatedWords": [
+        "reflect",
+        "achievement",
+        "grateful"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "When asked about a tactic, the speaker says: 'pass the line and he makes his order.' Can you describe in English how a striker or midfielder should behave in a football match when they have a scoring opportunity?",
+      "options": [],
+      "answer": "open",
+      "explanation": "基于453.4s关于'pass the line'和战术执行的表述，要求学习者描述前锋/中场在得分机会中的行为。参考答案需要包含'观察'、'决策'、'执行'等步骤。",
+      "referenceAnswer": "When I get the ball in a scoring position, the first thing I do is stay calm and observe the defenders' positions. I look for my teammates making runs and the open spaces on the pitch. If I have a clear shot, I take it with confidence. If not, I make a smart pass to set up my teammate. Most importantly, I always trust my instincts and remember what we practiced in training. Decision-making in those moments is what separates great players from good ones.",
+      "hint": "Think about: 1) Keeping calm under pressure, 2) Observing teammates and defenders, 3) Making the right decision (shoot or pass), 4) Executing with confidence.",
+      "startTime": 453.4,
+      "endTime": 470,
+      "difficulty": "hard",
+      "relatedWords": [
+        "tactic",
+        "opportunity",
+        "decision-making"
+      ]
+    }
+  ]
+}

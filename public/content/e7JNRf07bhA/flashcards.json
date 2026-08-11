@@ -1,0 +1,398 @@
+{
+  "videoId": "e7JNRf07bhA",
+  "generatedAt": "2026-08-11T06:23:49.424Z",
+  "cards": [
+    {
+      "id": "mso9yhm7dngjco",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "overwhelm",
+      "back": "使不知所措；压垮 (verb, B2)",
+      "context": "it **overwhelms** them, they freeze up, and then they think, well, I guess I can't do it.",
+      "audioStart": 162.4,
+      "audioEnd": 167.48,
+      "word": "overwhelm",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm71m93jc",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "tolerance",
+      "back": "容忍；耐受性 (noun, B2)",
+      "context": "But you are building **tolerance**.",
+      "audioStart": 185.7,
+      "audioEnd": 187.82,
+      "word": "tolerance",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm7ku8dfo",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "micro-dose",
+      "back": "微量服用；微量接触 (verb, C1)",
+      "context": "**Micro-dose** the discomfort.",
+      "audioStart": 176.9,
+      "audioEnd": 180.38,
+      "word": "micro-dose",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm77piedm",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "antidote",
+      "back": "解药；对抗手段 (noun, C1)",
+      "context": "So the **antidote**?",
+      "audioStart": 151.02,
+      "audioEnd": 156.4,
+      "word": "antidote",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm7cu0abp",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "brace",
+      "back": "防备；使作好准备 (verb, C1)",
+      "context": "The things that actually go wrong are rarely the ones you were **bracing** for.",
+      "audioStart": 279.24,
+      "audioEnd": 285.74,
+      "word": "brace",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm7koanyh",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "shaky",
+      "back": "不稳定的；不可靠的 (adjective, B2)",
+      "context": "The work is learning to act anyway, even when things feel **shaky**.",
+      "audioStart": 316.92,
+      "audioEnd": 318.52,
+      "word": "shaky",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm7shjinz",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "exaggerate",
+      "back": "夸大；夸张 (verb, B2)",
+      "context": "Anxiety always **exaggerates** the risks.",
+      "audioStart": 513.98,
+      "audioEnd": 520.56,
+      "word": "exaggerate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm7gt37if",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "extinguish",
+      "back": "熄灭；消除 (verb, C1)",
+      "context": "anxiety is a lot easier to create than it is to **extinguish** and calm down once",
+      "audioStart": 578.08,
+      "audioEnd": 583.5,
+      "word": "extinguish",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm7rx2lu7",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "ruminate",
+      "back": "沉思；反复思考 (verb, C1)",
+      "context": "The counting itself makes it hard to think and **ruminate** and",
+      "audioStart": 692.65,
+      "audioEnd": 697.34,
+      "word": "ruminate",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm7ua9mjy",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "suppress",
+      "back": "抑制；压制 (verb, C1)",
+      "context": "Research shows that **suppressing** emotions actually raises our blood pressure",
+      "audioStart": 847.39,
+      "audioEnd": 850.57,
+      "word": "suppress",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm73y5ym9",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "regulate",
+      "back": "调节；调整 (verb, B2)",
+      "context": "Support helps **regulate** your nervous system.",
+      "audioStart": 869.47,
+      "audioEnd": 872.67,
+      "word": "regulate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9yhm7qlpper",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "frame",
+      "back": "构建；表达 (verb, C1)",
+      "context": "depending on how you **frame** it or where you place the camera.",
+      "audioStart": 888.11,
+      "audioEnd": 894.93,
+      "word": "frame",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:49.423Z"
+    },
+    {
+      "id": "mso9ygj6w31e5j",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) monitoring the breath forces your attention back to your ___",
+      "back": "body",
+      "context": "monitoring the breath forces your attention back to your body.",
+      "audioStart": 692.6,
+      "audioEnd": 697,
+      "hint": "选项：mind / body / head / heart",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:48.018Z"
+    },
+    {
+      "id": "mso9ygj64tegm4",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) anxiety is a lot easier to create than it is to ___ and calm down once",
+      "back": "extinguish",
+      "context": "anxiety is a lot easier to create than it is to extinguish and calm down once",
+      "audioStart": 572.8,
+      "audioEnd": 577.9,
+      "hint": "选项：destroy / extinguish / reduce / remove",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:48.018Z"
+    },
+    {
+      "id": "mso9ygj6hdzlkk",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) But pulling back again and again only makes your world ___",
+      "back": "smaller",
+      "context": "But pulling back again and again only makes your world smaller.",
+      "audioStart": 145.8,
+      "audioEnd": 150.4,
+      "hint": "选项：smaller / quieter / bigger / darker",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:48.018Z"
+    },
+    {
+      "id": "mso9ygj60f01hd",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Anxiety is only a problem when it makes you choose to ___",
+      "back": "stop",
+      "context": "Anxiety is only a problem when it makes you choose to stop.",
+      "audioStart": 499.5,
+      "audioEnd": 504.2,
+      "hint": "选项：continue / stop / change / start",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:48.018Z"
+    },
+    {
+      "id": "mso9ygj6vs8f0l",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You need to ___ it.",
+      "back": "survive",
+      "context": "You need to survive it.",
+      "audioStart": 508.1,
+      "audioEnd": 511.5,
+      "hint": "选项：survive / escape / avoid / endure",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:48.018Z"
+    },
+    {
+      "id": "mso9ygj6kk6jqq",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Anxiety always ___ the risks.",
+      "back": "exaggerates",
+      "context": "Anxiety always exaggerates the risks.",
+      "audioStart": 511.5,
+      "audioEnd": 515,
+      "hint": "选项：hides / ignores / exaggerates / minimizes",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:48.018Z"
+    },
+    {
+      "id": "mso9ygj65gu10q",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) They rise, they peak, and then they fall if you don't fight them and you just ___",
+      "back": "observe",
+      "context": "They rise, they peak, and then they fall if you don't fight them and you just observe.",
+      "audioStart": 249.1,
+      "audioEnd": 256.3,
+      "hint": "选项：ignore / accept / watch / observe",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:48.018Z"
+    },
+    {
+      "id": "mso9ygj6louw0w",
+      "videoId": "e7JNRf07bhA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Anxiety does its real damage by making you avoid what feels ___",
+      "back": "uncomfortable",
+      "context": "Anxiety does its real damage by making you avoid what feels uncomfortable.",
+      "audioStart": 140.8,
+      "audioEnd": 145.8,
+      "hint": "选项：difficult / uncomfortable / dangerous / painful",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:48.018Z"
+    }
+  ]
+}

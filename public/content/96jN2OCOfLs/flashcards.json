@@ -1,0 +1,379 @@
+{
+  "videoId": "96jN2OCOfLs",
+  "generatedAt": "2026-08-11T06:22:03.945Z",
+  "cards": [
+    {
+      "id": "mso9w8880p05t1",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "startling",
+      "back": "令人震惊的 (adjective, B2)",
+      "context": "But just in the last few months, he said something even more **startling**, that he's never felt more behind as a programmer.",
+      "audioStart": 36.6,
+      "audioEnd": 41.28,
+      "word": "startling",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w888caqspi",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "unpack",
+      "back": "剖析，阐明 (verb, B2)",
+      "context": "Can you help us **unpack** that?",
+      "audioStart": 55.08,
+      "audioEnd": 56.16,
+      "word": "unpack",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w888p8czr3",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "exhilarating",
+      "back": "令人兴奋的 (adjective, C1)",
+      "context": "Was that feeling **exhilarating** or unsettling?",
+      "audioStart": 56.16,
+      "audioEnd": 59.84,
+      "word": "exhilarating",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w888oj52rq",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "unsettling",
+      "back": "令人不安的 (adjective, C1)",
+      "context": "Was that feeling exhilarating or **unsettling**?",
+      "audioStart": 56.16,
+      "audioEnd": 59.84,
+      "word": "unsettling",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w888bficrw",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "paradigm",
+      "back": "范式 (noun, C1)",
+      "context": "it isn't just better software, it's a whole new computing **paradigm**.",
+      "audioStart": 152.72,
+      "audioEnd": 156.1,
+      "word": "paradigm",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w8886f99st",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "implicitly",
+      "back": "隐式地 (adverb, C1)",
+      "context": "because by training on the Internet, you have to multitask all the things that are in the data set.",
+      "audioStart": 194.2,
+      "audioEnd": 196.52,
+      "word": "implicitly",
+      "tags": [
+        "CEFR-C1",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w888k1rhet",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "instructive",
+      "back": "有启发性的 (adjective, C1)",
+      "context": "And I think there's a few examples of that really drove it home for me, and maybe that might be **instructive**.",
+      "audioStart": 221.5,
+      "audioEnd": 223.9,
+      "word": "instructive",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w888ewi36g",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "balloon",
+      "back": "膨胀 (verb, B2)",
+      "context": "these shell scripts usually **balloon** up and become extremely complex.",
+      "audioStart": 239.96,
+      "audioEnd": 244.96,
+      "word": "balloon",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w888fehu8a",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "spurious",
+      "back": "虚假的，站不住脚的 (adjective, C1)",
+      "context": "And this blew my mind because actually all of my menu gen is **spurious**.",
+      "audioStart": 359.12,
+      "audioEnd": 364.34,
+      "word": "spurious",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w888c4ig4k",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "reframe",
+      "back": "重新定义 (verb, C1)",
+      "context": "So, I think that people have to kind of like **reframe**, you know, not to work in the existing paradigm of what things existed and just think about it as a speed up of what exists.",
+      "audioStart": 383.22,
+      "audioEnd": 393.22,
+      "word": "reframe",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w888bhgm1u",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "extrapolate",
+      "back": "推断 (verb, C1)",
+      "context": "If you **extrapolate** that further, what is the 2026 equivalent for building websites in the 90s, building mobile apps in the 2010s, building SaaS in the last cloud era?",
+      "audioStart": 469.82,
+      "audioEnd": 481.96,
+      "word": "extrapolate",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w8887caqkm",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "verifiability",
+      "back": "可验证性 (noun, C1)",
+      "context": "The fact that AI will automate faster and more easily domains where the output can be verified.",
+      "audioStart": 585.22,
+      "audioEnd": 591.04,
+      "word": "verifiability",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:03.944Z"
+    },
+    {
+      "id": "mso9w6rszg65wq",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So last year you coined the term ___ coding.",
+      "back": "vibe",
+      "context": "So last year you coined the term vibe coding.",
+      "audioStart": 946.6,
+      "audioEnd": 950.3,
+      "hint": "选项：vibe / fad / style / trend",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:02.056Z"
+    },
+    {
+      "id": "mso9w6rsu4xppp",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So, verifiability makes something ___ in the current paradigm because",
+      "back": "tractable",
+      "context": "So, verifiability makes something tractable in the current paradigm because",
+      "audioStart": 854.8,
+      "audioEnd": 860.6,
+      "hint": "选项：feasible / manageable / solvable / tractable",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:02.056Z"
+    },
+    {
+      "id": "mso9w6rsho1ykf",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I'd love to come back to the concept of ___ intelligence in a little bit.",
+      "back": "jagged",
+      "context": "I'd love to come back to the concept of jagged intelligence in a little bit.",
+      "audioStart": 816.6,
+      "audioEnd": 819.8,
+      "hint": "选项：jagged / rough / irregular / uneven",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:02.056Z"
+    },
+    {
+      "id": "mso9w6rsloso0a",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You've talked a lot about this idea of LLMs as a new ___,",
+      "back": "computer",
+      "context": "You've talked a lot about this idea of LLMs as a new computer,",
+      "audioStart": 148,
+      "audioEnd": 152.4,
+      "hint": "选项：system / machine / computer / device",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:02.056Z"
+    },
+    {
+      "id": "mso9w6rssy10u5",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Maybe one more anecdote that is ___ is from GPT-3.5",
+      "back": "instructive",
+      "context": "Maybe one more anecdote that is instructive is from GPT-3.5",
+      "audioStart": 744.7,
+      "audioEnd": 751.8,
+      "hint": "选项：useful / informative / educational / instructive",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:02.056Z"
+    },
+    {
+      "id": "mso9w6rs0tjp22",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And state of the art models today will tell you to walk because it's so ___.",
+      "back": "close",
+      "context": "And state of the art models today will tell you to walk because it's so close.",
+      "audioStart": 696.2,
+      "audioEnd": 700.6,
+      "hint": "选项：close / near / proximate / adjacent",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:02.056Z"
+    },
+    {
+      "id": "mso9w6rszjboxo",
+      "videoId": "96jN2OCOfLs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) it into the mix because they're just not that useful to have the ___ around.",
+      "back": "capability",
+      "context": "it into the mix because they're just not that useful to have the capability around.",
+      "audioStart": 671.6,
+      "audioEnd": 674.7,
+      "hint": "选项：capability / power / skill / ability",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:02.056Z"
+    }
+  ]
+}

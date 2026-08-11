@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import fs from 'fs';
 import path from 'path';
 import { parseVtt, Subtitle } from '@/lib/vtt-parser';
@@ -806,3 +807,12 @@ export function getVideosNeedingTranslation(): { videoId: string; hasEn: boolean
 
   return results;
 }
+=======
+export {
+  translateSubtitlesForVideo,
+  translateVideoFromRawVtt,
+  triggerBackgroundTranslation,
+  saveZhSubtitles,
+  getVideosNeedingTranslation,
+} from './translate/pipeline';
+>>>>>>> Stashed changes

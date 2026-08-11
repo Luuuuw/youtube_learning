@@ -1,0 +1,417 @@
+{
+  "videoId": "VxjqkQwP4BI",
+  "generatedAt": "2026-08-11T06:30:35.269Z",
+  "cards": [
+    {
+      "id": "msoa76ro0hgrt2",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "mosh",
+      "back": "（摇滚音乐会上的）狂舞区 (noun, B2)",
+      "context": "This was like a two-hour jam that turned into this like DIY homemade **mosh** pit, which was awesome.",
+      "audioStart": 29.12,
+      "audioEnd": 35,
+      "word": "mosh",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.268Z"
+    },
+    {
+      "id": "msoa76rp6ndtum",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "appetizing",
+      "back": "开胃的，诱人的 (adjective, B2)",
+      "context": "They look very appealing and **appetizing** to me and I've always wanted to eat them.",
+      "audioStart": 76.95,
+      "audioEnd": 81.35,
+      "word": "appetizing",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpl61y28",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bouquet",
+      "back": "花束 (noun, B2)",
+      "context": "One of my flower **bouquets** had these cattails in them and I bit into one and then it went all over everywhere.",
+      "audioStart": 84.31,
+      "audioEnd": 92.01,
+      "word": "bouquet",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpb61h9m",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bassist",
+      "back": "贝斯手 (noun, B2)",
+      "context": "So here's a photo of me having just bitten into a cattail and solo my **bassist** wondering why I did such a thing.",
+      "audioStart": 92.73,
+      "audioEnd": 102.87,
+      "word": "bassist",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpb7dm5a",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "workshop",
+      "back": "工作坊，研习班 (noun, B1)",
+      "context": "We went to a glass blowing **workshop**, which is like the most fun thing I've ever done.",
+      "audioStart": 136.28,
+      "audioEnd": 140.82,
+      "word": "workshop",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpmfbm0e",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "serotonin",
+      "back": "血清素（与情绪和幸福感相关的神经递质） (noun, C1)",
+      "context": "It gives everyone a lot of good feelings and **serotonin**, but also a lot of dogs get adopted this way.",
+      "audioStart": 168.13,
+      "audioEnd": 176.72,
+      "word": "serotonin",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpyqttlo",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "adoptable",
+      "back": "可领养的 (adjective, B2)",
+      "context": "Every new city that we go to, we have like a rescue org come to the show and bring **adoptable** dogs.",
+      "audioStart": 163.72,
+      "audioEnd": 168.62,
+      "word": "adoptable",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpb5m2vo",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sprain",
+      "back": "扭伤 (verb, B2)",
+      "context": "I **sprained** my ankle the night before shooting that.",
+      "audioStart": 191,
+      "audioEnd": 195.48,
+      "word": "sprain",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpvne3cm",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "insane",
+      "back": "疯狂的，极不寻常的 (adjective, B2)",
+      "context": "That was **insane** that that happened.",
+      "audioStart": 204.96,
+      "audioEnd": 206.58,
+      "word": "insane",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpha98qi",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "appealing",
+      "back": "吸引人的，有吸引力的 (adjective, B2)",
+      "context": "It was so **appealing** and I climbed the mountain and here it is.",
+      "audioStart": 218.66,
+      "audioEnd": 223.2,
+      "word": "appealing",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpzy8j3n",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "cliff",
+      "back": "悬崖 (noun, B1)",
+      "context": "Then we saw these like random kids jumping off this **cliff**.",
+      "audioStart": 214.06,
+      "audioEnd": 219.64,
+      "word": "cliff",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa76rpr5sk4d",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "venue",
+      "back": "场地，场馆 (noun, B2)",
+      "context": "We have puppy rooms at every **venue** that we can.",
+      "audioStart": 156.62,
+      "audioEnd": 161.51,
+      "word": "venue",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:35.269Z"
+    },
+    {
+      "id": "msoa75tsolnib2",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Thanks guys, I hope you enjoyed looking through my camera roll And be sure to ___",
+      "back": "subscribe",
+      "context": "Thanks guys, I hope you enjoyed looking through my camera roll And be sure to",
+      "audioStart": 230.4,
+      "audioEnd": 235.2,
+      "hint": "选项：subscribe / follow / share / like",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:34.048Z"
+    },
+    {
+      "id": "msoa75ts1gyk53",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This is a photo of me and my brother Phineas when he came to visit me on tour. I love this ___.",
+      "back": "picture",
+      "context": "This is a photo of me and my brother Phineas when he came to visit me on tour. I love this picture.",
+      "audioStart": 9.3,
+      "audioEnd": 15,
+      "hint": "选项：image / photo / shot / picture",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:34.048Z"
+    },
+    {
+      "id": "msoa75tszi3xni",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This was like a two-hour jam that turned into this like DIY homemade mosh pit, which was ___.",
+      "back": "awesome",
+      "context": "This was like a two-hour jam that turned into this like DIY homemade mosh pit, which was awesome.",
+      "audioStart": 29.1,
+      "audioEnd": 34.3,
+      "hint": "选项：great / awesome / cool / amazing",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:34.048Z"
+    },
+    {
+      "id": "msoa75tsj5a7bt",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Okay, next. It's a plant that you see. It looks like a hot dog long stick and it's in the ___.",
+      "back": "wild",
+      "context": "Okay, next. It's a plant that you see. It looks like a hot dog long stick and it's in the wild.",
+      "audioStart": 68.9,
+      "audioEnd": 75.5,
+      "hint": "选项：garden / forest / field / wild",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:34.048Z"
+    },
+    {
+      "id": "msoa75tsee827y",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It gives everyone a lot of good feelings and serotonin, but also a lot of dogs get ___",
+      "back": "excited",
+      "context": "It gives everyone a lot of good feelings and serotonin, but also a lot of dogs get",
+      "audioStart": 168.1,
+      "audioEnd": 175.7,
+      "hint": "选项：hyper / happy / energetic / excited",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:34.048Z"
+    },
+    {
+      "id": "msoa75tsk3ab1i",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I sprained my ankle the night before ___ that.",
+      "back": "shooting",
+      "context": "I sprained my ankle the night before shooting that.",
+      "audioStart": 191,
+      "audioEnd": 195.5,
+      "hint": "选项：photographing / filming / shooting / recording",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:34.048Z"
+    },
+    {
+      "id": "msoa75tsozbsha",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And here is a photo of Christina, one of my best friends and my ___.",
+      "back": "trainer",
+      "context": "And here is a photo of Christina, one of my best friends and my trainer.",
+      "audioStart": 196.2,
+      "audioEnd": 201.8,
+      "hint": "选项：trainer / instructor / coach / mentor",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:34.048Z"
+    },
+    {
+      "id": "msoa75tsic51nl",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It was so appealing and I climbed the mountain and here it ___.",
+      "back": "is",
+      "context": "It was so appealing and I climbed the mountain and here it is.",
+      "audioStart": 215.4,
+      "audioEnd": 223.2,
+      "hint": "选项：is / comes / goes / was",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:34.048Z"
+    },
+    {
+      "id": "msoa747e774rup",
+      "videoId": "VxjqkQwP4BI",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "然后看到一群小孩从悬崖上跳下去 如果可以的话，我真想天天都这么做\nI would do that every single day ___ I ___.",
+      "back": "if / could",
+      "context": "I would do that every single day if I could.",
+      "audioStart": 228.584,
+      "audioEnd": 231.403,
+      "hint": "if I could",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:31.946Z"
+    }
+  ]
+}

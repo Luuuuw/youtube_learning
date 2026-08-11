@@ -1,0 +1,572 @@
+{
+  "videoId": "05CsPT8G7hY",
+  "title": "05CsPT8G7hY",
+  "generatedAt": "2026-08-10T16:32:49.820Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 11,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "Where did the speaker land on July 8th?",
+      "options": [
+        "A) Toronto City Airport",
+        "B) Pearson International Airport",
+        "C) Vancouver International Airport",
+        "D) Montreal Airport"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[6]（1.6s-8.2s）中的内容，'On July 8th we landed at Pearson International Airport in Mississauga'，明确说明他们降落在密西沙加的皮尔逊国际机场。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1.6,
+      "endTime": 15,
+      "difficulty": "easy",
+      "relatedWords": [
+        "airport",
+        "Mississauga",
+        "landed",
+        "Pearson"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'cottage' most likely mean in this vlog context?",
+      "options": [
+        "A) A small, cozy vacation home",
+        "B) A type of food",
+        "C) A swimming pool",
+        "D) A type of clothing"
+      ],
+      "answer": "A",
+      "explanation": "字幕[22]（29.6s-44.2s）中多次提到'cottage'，结合上下文（Georgian Bay、lake、boat ride），'cottage'在这里指的是度假用的乡村小屋或湖边别墅。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 29.6,
+      "endTime": 92.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cottage",
+        "vacation",
+        "Georgian Bay"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What did the speaker decide to do even though it rained all day?",
+      "options": [
+        "A) Read a book",
+        "B) Go for a swim",
+        "C) Play a game",
+        "D) Take a nap"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[48][49]（106.5s-119.1s），'And even though it rained all day, the lake is actually still really warm. So I'm gonna put my bathing suit on and go for the first swim of...'，说明尽管下雨，说话者还是决定去游泳。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 106.5,
+      "endTime": 119.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "rain",
+        "swim",
+        "bathing suit",
+        "lake"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the word 'swarm' mean in the sentence 'It's black fly season so they're swarming my head'?",
+      "options": [
+        "A) Flying away quickly",
+        "B) Gathering in large numbers around",
+        "C) Biting painfully",
+        "D) Making noise loudly"
+      ],
+      "answer": "B",
+      "explanation": "字幕[30]（135.2s-138.1s）中的'swarming'指黑蝇成群地聚集在头部周围。'swarm'作动词意为'成群地飞舞或聚集'，这里描述的是黑蝇季节里大量黑蝇聚拢在说话者头部周围的情景。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 135.2,
+      "endTime": 138.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "swarm",
+        "black fly",
+        "season",
+        "head"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is the meaning of 'thus far' in 'I've been reading this for a long time, but it's been good thus far'?",
+      "options": [
+        "A) In the past",
+        "B) Until now / So far",
+        "C) In the future",
+        "D) From the beginning"
+      ],
+      "answer": "B",
+      "explanation": "字幕[34]（215.9s-220.0s）中的'thus far'是一个书面表达，意思是'到目前为止'（until now / so far），表示从开始到当前这段时间的总体情况。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 204.3,
+      "endTime": 220,
+      "difficulty": "medium",
+      "relatedWords": [
+        "thus far",
+        "reading",
+        "good",
+        "book"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "In the sentence 'a nice little sesh at the lake', what does 'sesh' informally mean?",
+      "options": [
+        "A) A type of fish",
+        "B) A session or activity (informal)",
+        "C) A beach toy",
+        "D) A short nap"
+      ],
+      "answer": "B",
+      "explanation": "字幕[21]（204.3s-208.2s）中的'sesh'是'session'的口语缩写形式，意为'一段活动'或'一次体验'，这里指在湖边度过的一段愉快时光。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 204.3,
+      "endTime": 208.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "sesh",
+        "session",
+        "lake",
+        "informal"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'hung out' mean in 'we just hung out there for a little while'?",
+      "options": [
+        "A) Hung clothes on a line",
+        "B) Spent time relaxing casually",
+        "C) Did exercise",
+        "D) Prepared food"
+      ],
+      "answer": "B",
+      "explanation": "字幕[9]（356.9s-361.3s）中的'hung out'是英语口语常用表达，意思是'闲逛、放松地待在一起'，表示与朋友一起轻松度过一段时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 349.8,
+      "endTime": 361.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hung out",
+        "relax",
+        "lunch",
+        "enjoy"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What rating did the speaker give to the book in the review?",
+      "options": [
+        "A) 5 out of 10",
+        "B) 7 out of 10",
+        "C) 9 out of 10",
+        "D) 10 out of 10"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[25]（444.2s-449.0s），'my review um i would say it's like a 7 out of 10'，说话者对这本书给出了7/10的评分。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 444.2,
+      "endTime": 453.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "review",
+        "rating",
+        "book",
+        "7 out of 10"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is a 'fiance'?",
+      "options": [
+        "A) A close friend",
+        "B) A brother or sister",
+        "C) A person engaged to be married",
+        "D) A parent"
+      ],
+      "answer": "C",
+      "explanation": "字幕[7]（551.9s-555.7s）中提到'we had to drop off my cousin and her fiance'。'fiance'（男 fiancé / 女 fiancée）指已订婚但尚未结婚的伴侣，即未婚夫或未婚妻。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 551.9,
+      "endTime": 555.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "fiance",
+        "engaged",
+        "cousin",
+        "marriage"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the meaning of 'predictable' when the speaker says the book was 'a little bit predictable'?",
+      "options": [
+        "A) The plot was easy to guess in advance",
+        "B) The book was very exciting",
+        "C) The book was hard to understand",
+        "D) The ending was surprising"
+      ],
+      "answer": "A",
+      "explanation": "字幕[44]（478.7s-482.4s）中'it was like a little bit predictable'意思是'有点老套/可以预见的'，指书中的情节和走向容易被读者提前猜到，缺乏惊喜。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 463.7,
+      "endTime": 482.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "predictable",
+        "book",
+        "plot",
+        "beach read"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What did the speaker and friends bring to the beautiful little island?",
+      "options": [
+        "A) Musical instruments",
+        "B) Sandwiches and food",
+        "C) Camping tents",
+        "D) Fishing equipment"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[43]（349.8s-355.1s），'we packed stuff for sandwiches and everything and eventually found this beautiful little island'，他们带了三明治等食物去了小岛。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 349.8,
+      "endTime": 361.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "island",
+        "sandwiches",
+        "picnic",
+        "beautiful"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "Which book is NOT mentioned in the vlog?",
+      "options": [
+        "A) One Golden Summer",
+        "B) Every Summer After",
+        "C) Barbarian Days",
+        "D) The Great Gatsby"
+      ],
+      "answer": "D",
+      "explanation": "字幕中提到的书包括'One Golden Summer'（[31]）、'Every Summer After'（通过上下文推断）、'Barbarian Days'（[47]）以及'Carly Fortune'的作品。'The Great Gatsby'（了不起的盖茨比）在视频中没有被提到。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 186.7,
+      "endTime": 513.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "book",
+        "One Golden Summer",
+        "Barbarian Days",
+        "reading"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What activity did they do before heading to bed?",
+      "options": [
+        "A) Read books",
+        "B) Played a game",
+        "C) Went swimming",
+        "D) Watched movies"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[35]（392.6s-394.8s），'a game before heading to bed'，他们睡觉前玩了一个游戏。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 379.7,
+      "endTime": 394.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "game",
+        "bed",
+        "night",
+        "play"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I wasn't as invested in them'?",
+      "options": [
+        "A) They didn't spend money on them",
+        "B) They weren't emotionally engaged with the characters",
+        "C) They didn't read the books",
+        "D) They didn't recommend them"
+      ],
+      "answer": "B",
+      "explanation": "字幕[45]（472.8s-478.7s）中的'invested'在这里是比喻用法，意为'情感投入'。'not as invested in them'指对书中的角色或故事没有太深的情感投入或兴趣。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 463.7,
+      "endTime": 482.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "invested",
+        "characters",
+        "book",
+        "emotional"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the meaning of 'I think I need to take a little bit of a break right now'?",
+      "options": [
+        "A) The speaker wants to start a new activity",
+        "B) The speaker wants to rest for a short time",
+        "C) The speaker wants to leave the trip",
+        "D) The speaker wants to eat something"
+      ],
+      "answer": "B",
+      "explanation": "字幕[16]（101.7s-104.7s）中的'take a little bit of a break'意思是'休息一下'，表示说话者想要短暂地放松或暂停当前活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 85.4,
+      "endTime": 104.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "break",
+        "rest",
+        "relax",
+        "pause"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "Why is the lake still warm even though it rained all day?",
+      "options": [
+        "A) Because it's a hot spring",
+        "B) Because the rain was warm",
+        "C) Because lakes retain heat well",
+        "D) Because of the sunshine"
+      ],
+      "answer": "C",
+      "explanation": "字幕[48]（106.5s-109.7s）提到'even though it rained all day, the lake is actually still really warm'，这是一个自然现象，湖泊由于水的比热容大，能够较好地保持温度，所以即便下雨湖水仍然温暖。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 106.5,
+      "endTime": 114.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lake",
+        "warm",
+        "rain",
+        "temperature"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What is the meaning of 'bathing suit'?",
+      "options": [
+        "A) A sleeping outfit",
+        "B) A formal dress",
+        "C) A piece of clothing for swimming",
+        "D) A raincoat"
+      ],
+      "answer": "C",
+      "explanation": "字幕[49]（109.5s-114.9s）中的'bathing suit'指'泳衣'，是游泳时穿的衣服。说话者说要穿上泳衣去游泳。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 109.5,
+      "endTime": 114.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bathing suit",
+        "swimming",
+        "lake",
+        "clothes"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What was the last day of the trip like?",
+      "options": [
+        "A) Rainy and boring",
+        "B) Lovely and relaxing",
+        "C) Stressful and tiring",
+        "D) Full of adventures"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[4]（667.8s-670.5s）和[26]（676.4s-678.1s），'a lovely and relaxing week'和'it's been very nice'，整体描述这一周（包括最后一天）是愉快和放松的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 649.7,
+      "endTime": 707.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "last day",
+        "lovely",
+        "relaxing",
+        "trip"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'genuinely so beautiful' express about the speaker's feelings?",
+      "options": [
+        "A) Disappointment",
+        "B) Sincere admiration",
+        "C) Confusion",
+        "D) Fear"
+      ],
+      "answer": "B",
+      "explanation": "字幕[24]（165.3s-166.7s）中的'genuinely'是'真诚地、确实地'的意思，整句表达说话者对眼前景色的真诚赞美和由衷欣赏。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 163,
+      "endTime": 173.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "genuinely",
+        "beautiful",
+        "sincere",
+        "admiration"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'I have to return it' most likely refer to in the vlog?",
+      "options": [
+        "A) Returning a borrowed car",
+        "B) Returning a library book",
+        "C) Returning a gift",
+        "D) Returning home"
+      ],
+      "answer": "B",
+      "explanation": "字幕[46]（501.1s-504.4s）和[47]（488.1s-491.7s）中提到'this one I do have to return'以及'I took this out of the library'，结合上下文，'return it'指归还从图书馆借的书。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 488.1,
+      "endTime": 513.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "return",
+        "library",
+        "book",
+        "borrowed"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Imagine you are planning a vacation to a lake or cottage. Describe what you would do there using at least 3 activities mentioned in the vlog (e.g., swimming, reading, playing games, having picnics).",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个开放性口语题，要求学生综合运用视频中出现的活动进行描述。参考答案应包含：swimming in the lake, reading books, having a picnic on an island, playing games before bed, going on boat rides 等。可以使用 'I would...', 'I plan to...', 'One of the things I want to do is...' 等表达。",
+      "referenceAnswer": "If I were planning a vacation to a lake cottage, I would definitely go swimming because I love the water. I would also bring some books to read on the dock or in a cozy chair. I would pack sandwiches and snacks for a picnic on a small island. In the evening, I could play board games with my family before heading to bed. I think a lake vacation is the perfect way to relax and unwind.",
+      "hint": "Think about: What activities sound fun? Would you rather swim, read, or play games? What about going on a boat ride or having a picnic? Try to use 'would' for polite suggestions.",
+      "startTime": 29.6,
+      "endTime": 424.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vacation",
+        "cottage",
+        "swimming",
+        "reading",
+        "picnic"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speaker reviewed a book and gave it 7 out of 10. Have you read any books recently? Give a short review of a book you have read, including a rating and reasons.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题要求学生分享最近读过的书并给出评分和理由。可参考短语：'I recently read...', 'I would give it...out of 10', 'I liked it because...', 'One thing I didn't like was...', 'I would recommend it to...'. 评分应给出具体理由。",
+      "referenceAnswer": "I recently read a book called [book name]. I would give it about 8 out of 10. I really enjoyed the characters and the plot was engaging. One thing I liked was the beautiful description of the setting. However, I felt the ending was a bit predictable. Overall, I would recommend it to anyone who enjoys [genre].",
+      "hint": "Use phrases like: 'I recently read...', 'I would give it...out of 10', 'What I liked was...', 'I would recommend it to people who...'. Try to give specific reasons for your rating.",
+      "startTime": 444.2,
+      "endTime": 513.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "book",
+        "review",
+        "rating",
+        "recommend"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The speaker says 'It's black fly season so they're swarming my head.' Describe a time when you had to deal with annoying insects or weather conditions during an outdoor activity. How did you handle it?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题训练学生描述真实经历的能力。可使用的表达：'One time, I was...', 'I remember when...', 'It was really annoying because...', 'To deal with it, I...', 'In the end, I felt...'。回答应包含具体场景描述、感受以及解决方法。",
+      "referenceAnswer": "One time, I went hiking in the summer and the mosquitoes were terrible. They kept swarming around my face and arms, and I had several bites afterward. It was really annoying because I couldn't enjoy the beautiful scenery. To deal with it, I tried wearing long sleeves and using insect repellent. In the end, I learned to always check the season and prepare better before going outdoors.",
+      "hint": "Use past tense: 'I remember...', 'One time...', 'It was annoying because...'. Describe the situation, your feelings, and what you did to solve the problem.",
+      "startTime": 135.2,
+      "endTime": 173.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "insects",
+        "outdoor",
+        "annoying",
+        "experience"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Imagine you are saying goodbye at the end of a wonderful trip, like the speaker in the vlog. Create a short closing message (3-5 sentences) to your viewers or friends, mentioning what made the trip special.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题让学生模仿视频结尾（[32] 702.4s-707.4s 'Thank you all for watching and hope to see you in the next video'）进行创作。可用表达：'Thank you for...', 'I really enjoyed...', 'Hope to see you...', 'See you next time...', 'Until then...'。回答应包含感谢、亮点回顾和告别。",
+      "referenceAnswer": "Thank you all for joining me on this amazing trip to Georgian Bay! I really enjoyed swimming in the warm lake, reading by the water, and having picnics on beautiful little islands. It has been such a lovely and relaxing week, and I made so many wonderful memories. I hope to see you in my next video. Until then, take care!",
+      "hint": "Start with: 'Thank you for...' or 'I'm so glad you...'. Mention specific activities you enjoyed. End with a warm goodbye like 'See you next time' or 'Until then'.",
+      "startTime": 649.7,
+      "endTime": 707.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "goodbye",
+        "trip",
+        "wonderful",
+        "memories"
+      ]
+    }
+  ]
+}

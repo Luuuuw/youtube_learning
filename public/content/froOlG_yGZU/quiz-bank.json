@@ -1,0 +1,548 @@
+{
+  "videoId": "froOlG_yGZU",
+  "title": "froOlG_yGZU",
+  "generatedAt": "2026-08-11T04:07:15.401Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 6,
+    "medium": 13,
+    "hard": 5,
+    "choice": 19,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the speaker uncertain about when mentioning 'Big Sur'?",
+      "options": [
+        "A) The exact location of Big Sur",
+        "B) Whether it's a National Park or National Forest",
+        "C) Whether to visit Big Sur",
+        "D) The weather at Big Sur"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说话者说'I bet. Big Sur National Park or National Forest, whatever'，表示他不太确定Big Sur到底是National Park（国家公园）还是National Forest（国家森林），用'whatever'表示对这种区分类别的不在意。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 33.9,
+      "endTime": 37.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "National Park",
+        "National Forest",
+        "whatever"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "How does the speaker describe Santa Barbara?",
+      "options": [
+        "A) It's disappointing and overrated",
+        "B) It's unbelievably beautiful and they are in love with it",
+        "C) It's too crowded and noisy",
+        "D) It's just an ordinary city"
+      ],
+      "answer": "B",
+      "explanation": "字幕明确说'Santa Barbara is unbelievably beautiful. I am completely in love with it.'，unbelievably（难以置信地）beautiful和completely in love（完全爱上）表达了极度的喜爱之情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 74,
+      "endTime": 78.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "unbelievably",
+        "completely in love",
+        "beautiful"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What did Ali predict about the speaker?",
+      "options": [
+        "A) The speaker would get lost on the trip",
+        "B) The speaker would want to stay in Santa Barbara too long",
+        "C) The speaker would not enjoy the trip",
+        "D) The speaker would be late for the trip"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'It's exactly what Ali predicted. She's like, you're going to do this California road trip and you're going to...'，结合上下文，Ali预测说话者会想在Santa Barbara待太久（这是road trip的第一个停靠点）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 78.9,
+      "endTime": 84,
+      "difficulty": "medium",
+      "relatedWords": [
+        "predicted",
+        "California road trip",
+        "stop"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the speaker think about 'the carpet' and 'the designs'?",
+      "options": [
+        "A) They are boring and old-fashioned",
+        "B) They are so cool and show great thought",
+        "C) They are too expensive",
+        "D) They are not worth mentioning"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说'so cool like the carpet the designs the thought like'，so cool（太酷了）表达了高度赞赏，the thought指的是设计中体现的用心和创意。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 227.1,
+      "endTime": 231.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "carpet",
+        "designs",
+        "thought"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What was the 'theme' the speaker mentions about the stone walls?",
+      "options": [
+        "A) The theme of an art exhibition",
+        "B) The design style that matched what was shown on a postcard",
+        "C) The party's decoration theme",
+        "D) The architectural theme of a museum"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'theme with the stone walls is what the postcard was'，意思是石墙的设计风格正是明信片上所展示的，体现了与明信片图案的一致性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 280.8,
+      "endTime": 284.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "theme",
+        "stone walls",
+        "postcard"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What type of trees does the speaker think are behind them?",
+      "options": [
+        "A) Pine trees",
+        "B) Oak trees",
+        "C) Redwoods (红杉)",
+        "D) Maple trees"
+      ],
+      "answer": "C",
+      "explanation": "字幕中明确提到'These look like redwoods behind it. I think it'，以及'in the redwoods'，redwoods红杉是加州著名的巨型树木。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 538.8,
+      "endTime": 545.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "redwoods",
+        "trees",
+        "behind"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What did the speaker 'skip' according to the video?",
+      "options": [
+        "A) A meal at a restaurant",
+        "B) The tradition of showing a specific room",
+        "C) A hiking trail",
+        "D) A bus tour"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说'I skipped tradition, unfortunately, of showing you the room with'，意思是说话者遗憾地跳过了向观众展示某个房间的传统环节。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 571.1,
+      "endTime": 574.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "skipped",
+        "tradition",
+        "showing"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "Why was the man upset according to the speaker?",
+      "options": [
+        "A) Because of the weather",
+        "B) Because he obviously owns a business there and was disturbed",
+        "C) Because of the traffic",
+        "D) Because of a wrong order"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说'he obviously owns a business here and he was upset'，意思是这个男士显然是那里的店主，因为被打扰而不高兴。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 648,
+      "endTime": 649.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "owns a business",
+        "upset",
+        "disturbed"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker suggest about Los Angeles?",
+      "options": [
+        "A) Los Angeles is the best destination",
+        "B) You have to come all the way from Los Angeles to visit",
+        "C) Los Angeles is boring",
+        "D) Los Angeles is very close to the location"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'like Los Angeles, so you have to like come all'，意思是从洛杉矶过来要花很长时间（come all the way），强调距离遥远。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 657.7,
+      "endTime": 659.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Los Angeles",
+        "come all the way",
+        "distance"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the speaker saying about being 'okay with time spent'?",
+      "options": [
+        "A) Wasting time is bad",
+        "B) The obvious thing is being okay with the time spent doing something",
+        "C) Time is money",
+        "D) Being on time is important"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'the obvious which is being okay with time spent on'，意思是显而易见的是要接受（be okay with）花在某些事情上的时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 847.9,
+      "endTime": 853.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "okay with",
+        "time spent",
+        "the obvious"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "How many days did the speaker spend in Zion National Park with Ali?",
+      "options": [
+        "A) Three days",
+        "B) Four days",
+        "C) Five days",
+        "D) One week"
+      ],
+      "answer": "C",
+      "explanation": "字幕明确提到'Park together for five days straight doing this every single'，five days straight（连续五天）说明他们在Zion国家公园一起待了五天。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 869,
+      "endTime": 874.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Zion National Park",
+        "five days",
+        "straight"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'a side-by-side companion' mean in this context?",
+      "options": [
+        "A) A neighbor next door",
+        "B) Someone who walks next to you and shares the journey",
+        "C) A business partner",
+        "D) A pet that walks beside you"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'what I I mean, like a side-by-side companion. I think'，结合上下文，side-by-side companion指的是一起并肩旅行的伙伴，sharing the journey（分享旅程）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 893.5,
+      "endTime": 900.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "side-by-side",
+        "companion",
+        "journey"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "How long is the Point Lobos Loop hike?",
+      "options": [
+        "A) 5 kilometers / 3 miles",
+        "B) 10 kilometers / 6 miles",
+        "C) 15 kilometers / 9 miles",
+        "D) 20 kilometers / 12 miles"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确说'Point Lobos Loop. So it's like 10 kilometers, 6 miles'，即10公里或6英里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 962.2,
+      "endTime": 970.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Point Lobos Loop",
+        "kilometers",
+        "miles"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What happened when the husband saw something in the video?",
+      "options": [
+        "A) He became angry",
+        "B) His eyes lit up with excitement",
+        "C) He fell asleep",
+        "D) He left immediately"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'The husband, like, his eyes lit up when he saw'，eyes lit up（眼睛发亮）是一个英语习语，表示兴奋、喜悦或感兴趣的样子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1052.4,
+      "endTime": 1057.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "eyes lit up",
+        "excited",
+        "husband"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker think about the 81-year-old man?",
+      "options": [
+        "A) He's in poor health",
+        "B) He's the most in-shape and mentally sharp 81-year-old the speaker has met",
+        "C) He seems confused",
+        "D) He doesn't like to talk"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'the more in shape and mentally with it 81 year'以及'olds I've ever come across'，意思是这位81岁老人是说话者见过的最fit、最清醒的老人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1062.3,
+      "endTime": 1067.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "in shape",
+        "mentally with it",
+        "81 year old"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'you don't know what you've just done' imply?",
+      "options": [
+        "A) The person made a mistake",
+        "B) The person has started a conversation the husband won't stop",
+        "C) The person caused an accident",
+        "D) The person did something illegal"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文'He hasn't talked'以及'physics like this with anyone in years. You've opened a'，意思是这位丈夫已经多年没和任何人这样聊物理了，说话者无意中打开了他的话匣子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1078,
+      "endTime": 1083.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "you don't know",
+        "opened",
+        "conversation"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'teleporting us around' metaphorically mean?",
+      "options": [
+        "A) Using a real teleportation device",
+        "B) Moving quickly between different places/locations",
+        "C) Getting lost",
+        "D) Flying on an airplane"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'yo teleporting us around we are currently in um san'，这里teleporting是比喻用法，意思是他们快速穿梭于不同地点之间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1185.6,
+      "endTime": 1192.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "teleporting",
+        "around",
+        "locations"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'blew my expectations out of the water' mean?",
+      "options": [
+        "A) The actual experience was disappointing",
+        "B) The actual experience greatly exceeded expectations",
+        "C) The water was very cold",
+        "D) The expectations were literally thrown into water"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'completely blew my expectations out of the water'，这是一个英语习语，意思是远远超出预期（greatly exceeded expectations）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1297.1,
+      "endTime": 1300.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "blew expectations",
+        "out of the water",
+        "exceeded"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'the next leg' refer to in the speaker's context?",
+      "options": [
+        "A) The speaker's actual leg (body part)",
+        "B) The next stage or segment of the trip",
+        "C) A walking exercise",
+        "D) A sports match"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'I am 30 minutes off the next leg, which is'，在旅行/road trip语境中，the next leg指的是下一段旅程或下一个目的地。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1305.4,
+      "endTime": 1311,
+      "difficulty": "medium",
+      "relatedWords": [
+        "next leg",
+        "30 minutes",
+        "journey"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Based on the video, describe Santa Barbara in your own words.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题考察学生根据视频内容进行描述和复述的能力。说话者用了'unbelievably beautiful'和'completely in love'来表达对Santa Barbara的喜爱。",
+      "referenceAnswer": "Santa Barbara is unbelievably beautiful. The speaker is completely in love with it and finds it absolutely gorgeous. It's one of the stops on their California road trip.",
+      "hint": "Use the words 'beautiful', 'in love', and express your feelings about the place.",
+      "startTime": 74,
+      "endTime": 84,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Santa Barbara",
+        "beautiful",
+        "in love",
+        "California"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "The speaker stopped because 'it's absolutely beautiful'. Talk about a time you stopped to appreciate something beautiful in your life.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放性口语题，考察学生根据情景进行个人化表达的能力。说话者停下脚步是因为眼前的景色'absolutely beautiful'。",
+      "referenceAnswer": "I remember when I was hiking in the mountains and I came across a stunning waterfall. I had to stop and just take it all in. The sunlight was hitting the water in such a beautiful way. It was one of those moments where I felt completely at peace with nature.",
+      "hint": "Think about a place, scenery, or moment that made you stop and admire it. Describe what you saw, how you felt, and why it was special.",
+      "startTime": 360.3,
+      "endTime": 362.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "absolutely beautiful",
+        "stop",
+        "appreciate",
+        "scenery"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What does 'a side-by-side companion' mean to you? Who in your life could be described as your side-by-side companion?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道口语题考察学生对companion一词的理解和个人表达能力。Side-by-side companion指的是一起并肩同行的人。",
+      "referenceAnswer": "A side-by-side companion to me is someone who walks alongside you through life's journey, sharing both the beautiful moments and the challenges. My best friend Sarah is definitely my side-by-side companion. We've been through thick and thin together, and she always supports me no matter what.",
+      "hint": "Consider what it means to be a companion who walks 'side-by-side' with someone. Is it a friend, family member, or partner? What makes them special?",
+      "startTime": 893.5,
+      "endTime": 900.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "companion",
+        "side-by-side",
+        "journey",
+        "friendship"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Use the idiom 'blew my expectations out of the water' in a sentence about a travel experience you had (real or imagined).",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察学生使用英语习语的能力。blow expectations out of the water是英语常用习语，意思是远远超出预期。",
+      "referenceAnswer": "When I visited Japan last summer, the beauty of the cherry blossoms in Kyoto completely blew my expectations out of the water. I had seen pictures before, but actually being there among the blooming trees was a thousand times more magical than I could have imagined.",
+      "hint": "Think of a place you visited or want to visit. Use the structure '___ completely blew my expectations out of the water' and explain why.",
+      "startTime": 1297.1,
+      "endTime": 1300.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "blew expectations",
+        "out of the water",
+        "travel",
+        "idiom"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "If you were planning a California road trip, what places would you want to visit and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放性口语题，考察学生的旅行规划能力和英语表达能力，结合视频中提到的California road trip主题。",
+      "referenceAnswer": "If I were planning a California road trip, I would definitely start in San Francisco to see the Golden Gate Bridge, then drive down the famous Highway 1 to Big Sur for the breathtaking coastal views. I'd love to visit Carmel and the redwoods that the video mentioned. I'd also want to spend time in Santa Barbara and Los Angeles. The diverse landscapes from mountains to beaches make California an incredible road trip destination.",
+      "hint": "Think about the places mentioned in the video (Santa Barbara, Big Sur, Carmel, San Francisco, redwoods) and add any other places you'd want to visit. Explain your choices.",
+      "startTime": 82.2,
+      "endTime": 84,
+      "difficulty": "medium",
+      "relatedWords": [
+        "California",
+        "road trip",
+        "plan",
+        "destinations"
+      ]
+    }
+  ]
+}

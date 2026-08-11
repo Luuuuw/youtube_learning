@@ -1,0 +1,549 @@
+{
+  "videoId": "Oga1Sx4uGKc",
+  "title": "Oga1Sx4uGKc",
+  "generatedAt": "2026-08-10T11:09:50.250Z",
+  "version": 1,
+  "totalQuestions": 23,
+  "stats": {
+    "easy": 5,
+    "medium": 13,
+    "hard": 5,
+    "choice": 19,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the FIRST thing the speaker says she needs for her trip?",
+      "options": [
+        "A) A water bottle",
+        "B) A backpack",
+        "C) Groceries",
+        "D) A tent"
+      ],
+      "answer": "B",
+      "explanation": "在视频开头（44.5s-49.6s），演讲者明确说'first thing that i need is a backpack'，所以她需要的第一样东西是背包。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 44.5,
+      "endTime": 56.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "backpack",
+        "first",
+        "need",
+        "trip"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the speaker mean by 'gonna come along with me' in the introduction?",
+      "options": [
+        "A) She will physically travel with viewers",
+        "B) She will bring viewers along virtually through the video",
+        "C) She will call viewers on the phone",
+        "D) She will send photos to viewers"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说'take you guys through the whole process'，意思是她将通过视频带领观众（guys）一起经历整个过程，虚拟地陪伴他们。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 28.9,
+      "endTime": 37,
+      "difficulty": "medium",
+      "relatedWords": [
+        "come along",
+        "guys",
+        "process",
+        "video"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "According to the speaker, what items are on her grocery list?",
+      "options": [
+        "A) Bananas and oranges",
+        "B) Carrots and apples",
+        "C) Bread and cheese",
+        "D) Pasta and rice"
+      ],
+      "answer": "B",
+      "explanation": "在104.2s-109.1s处，演讲者说'On my list, I have some carrots, some apples'，所以她清单上的是胡萝卜和苹果。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 101.6,
+      "endTime": 116.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "grocery",
+        "list",
+        "carrots",
+        "apples"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Why does the speaker buy water treatment tablets?",
+      "options": [
+        "A) To make the water taste better",
+        "B) To clean her water bottle",
+        "C) So she doesn't get a disease",
+        "D) To keep the water cold"
+      ],
+      "answer": "C",
+      "explanation": "在209.0s-215.2s处，演讲者说'I also got these water treatment tablets so I don't get a disease'，明确说明是为了避免生病。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 209,
+      "endTime": 215.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "water treatment tablets",
+        "disease",
+        "health"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is special about the granola bars the speaker bought?",
+      "options": [
+        "A) They are very cheap",
+        "B) They contain whey protein",
+        "C) They don't have any gluten",
+        "D) They are homemade"
+      ],
+      "answer": "C",
+      "explanation": "在228.3s-231.0s处，演讲者说'And they also don't have any gluten in them'，说明这些格兰诺拉燕麦棒不含麸质。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 226.3,
+      "endTime": 234.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "granola bars",
+        "gluten",
+        "protein",
+        "natural"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "How many liters is the backpacking backpack the speaker bought?",
+      "options": [
+        "A) 45 liters",
+        "B) 55 liters",
+        "C) 65 liters",
+        "D) 75 liters"
+      ],
+      "answer": "C",
+      "explanation": "在282.3s-284.2s处，演讲者说'It's the 65 liter one'，明确指出背包容量是65升。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 282.3,
+      "endTime": 288.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "backpack",
+        "65 liter",
+        "size",
+        "travel"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "Why did the speaker choose the bigger backpack?",
+      "options": [
+        "A) To carry food for many days",
+        "B) Because she's going to use it when she travels",
+        "C) Because it was on sale",
+        "D) To carry her pet"
+      ],
+      "answer": "B",
+      "explanation": "在284.2s-288.7s处，演讲者说'I got the bigger one because I'm going to use it when I travel'，她选择大背包是因为旅行时会用到。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 282.3,
+      "endTime": 290.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bigger",
+        "travel",
+        "backpack",
+        "use"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the speaker mean by 'things that aren't going to bruise or go bad'?",
+      "options": [
+        "A) Things that won't get damaged or spoil during the trip",
+        "B) Things that are brightly colored",
+        "C) Things that are very heavy",
+        "D) Things that have expiration dates"
+      ],
+      "answer": "A",
+      "explanation": "'bruise'这里指水果等被碰伤，'go bad'指食物变质。演讲者想要的是在旅途中不容易碰伤或变质的食物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 109.1,
+      "endTime": 116.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bruise",
+        "go bad",
+        "spoil",
+        "trip"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is a 'freeze dried meal'?",
+      "options": [
+        "A) A meal served frozen",
+        "B) A dehydrated meal that is lightweight",
+        "C) A meal that must be cooked in an oven",
+        "D) A meal with ice cubes"
+      ],
+      "answer": "B",
+      "explanation": "Freeze dried（冻干）食物是通过冷冻干燥技术去除水分的食物，重量轻、易于保存，非常适合户外活动和背包旅行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 180.2,
+      "endTime": 207.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "freeze dried",
+        "meal",
+        "lightweight",
+        "backpacking"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'bright and early' mean in the context 'got up bright and early at 6.30'?",
+      "options": [
+        "A) Late at night",
+        "B) With bright lights on",
+        "C) Very early in the morning",
+        "D) At noon"
+      ],
+      "answer": "C",
+      "explanation": "'Bright and early'是英语习语，意思是'一大早'，形容起床很早而且精神饱满。6:30是早上6点半，确实是很早。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 404.2,
+      "endTime": 409.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bright and early",
+        "morning",
+        "6.30",
+        "idiom"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "On what date did the speaker set out on her 'grand adventure'?",
+      "options": [
+        "A) July 28th",
+        "B) August 27th",
+        "C) September 1st",
+        "D) June 15th"
+      ],
+      "answer": "B",
+      "explanation": "在351.0s-357.9s处，演讲者说'It was August 27th and we had just set out on our grand adventure'，出发日期是8月27日。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 351,
+      "endTime": 357.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "August 27th",
+        "grand adventure",
+        "set out",
+        "date"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'pegs' most likely refer to in the camping context?",
+      "options": [
+        "A) Decorative ornaments",
+        "B) Tent stakes used to secure the tent",
+        "C) Pieces of jewelry",
+        "D) A type of food"
+      ],
+      "answer": "B",
+      "explanation": "在527.1s-530.7s处，'we actually put the pegs in the wrong way the first time'，在露营场景中，pegs通常指用来固定帐篷的地钉/帐篷桩。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 527.1,
+      "endTime": 530.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pegs",
+        "tent",
+        "camping",
+        "stakes"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is a 'meadow' in the context 'We are currently up in the meadow'?",
+      "options": [
+        "A) A mountain peak",
+        "B) An open grassy field",
+        "C) A deep forest",
+        "D) A river valley"
+      ],
+      "answer": "B",
+      "explanation": "Meadow（草甸/草地）指的是开阔的、长满草的野外区域，通常在山区或乡村，是徒步旅行中常见的景观。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 617,
+      "endTime": 619.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "meadow",
+        "grassland",
+        "hiking",
+        "open field"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What kind of food is 'jerky' likely to be, based on the context 'jerky will be a good snack, some protein'?",
+      "options": [
+        "A) Sweet candy",
+        "B) Fresh fruit",
+        "C) Dried meat",
+        "D) Ice cream"
+      ],
+      "answer": "C",
+      "explanation": "Jerky（肉干）是一种脱水腌制的肉类零食，富含蛋白质，是户外活动中常见的便携式高蛋白食物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 176.8,
+      "endTime": 180.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "jerky",
+        "snack",
+        "protein",
+        "dried meat"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker mean by 'the reviews are very positive' about the meal?",
+      "options": [
+        "A) Many people recommended the meal favorably",
+        "B) The meal makes people feel positive emotions",
+        "C) The reviews are about positive thinking",
+        "D) The reviews are written in positive language"
+      ],
+      "answer": "A",
+      "explanation": "'Reviews are positive'意味着其他用户对该产品的评价/反馈是好的、称赞的。演讲者用此来说明该餐食值得尝试。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 193.7,
+      "endTime": 199.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "reviews",
+        "positive",
+        "feedback",
+        "recommend"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "Why does the speaker like the granola bars compared to whey protein?",
+      "options": [
+        "A) Whey protein is more expensive",
+        "B) Whey protein really bugs her stomach",
+        "C) Whey protein is hard to find",
+        "D) Whey protein tastes bad to her"
+      ],
+      "answer": "B",
+      "explanation": "在234.2s-239.0s处，演讲者说'whey protein actually really bugs my stomach'，说明乳清蛋白让她的胃不舒服，所以她更喜欢燕麦棒。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 230.5,
+      "endTime": 239,
+      "difficulty": "hard",
+      "relatedWords": [
+        "whey protein",
+        "stomach",
+        "granola bars",
+        "natural"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker mean by 'Go Macro sent them to me'?",
+      "options": [
+        "A) She bought them from a store called Go Macro",
+        "B) The company Go Macro gave her the products",
+        "C) She sent the products to Go Macro",
+        "D) She made them following a Go Macro recipe"
+      ],
+      "answer": "B",
+      "explanation": "'Go Macro sent them to me'意思是Go Macro（一个燕麦棒品牌）公司把产品寄给了她，通常是赞助或测评合作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 223,
+      "endTime": 229,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Go Macro",
+        "sent",
+        "sponsored",
+        "company"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is special about the water bottle the speaker describes?",
+      "options": [
+        "A) It has a built-in filter and you can scoop up water with it",
+        "B) It can boil water automatically",
+        "C) It's made of glass",
+        "D) It keeps water cold for a week"
+      ],
+      "answer": "A",
+      "explanation": "在241.0s-253.4s处，演讲者描述了'a water bottle that you just scoop up'并且'has a filter'，说明这个水瓶可以直接舀水并有过滤功能。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 241,
+      "endTime": 253.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "water bottle",
+        "scoop up",
+        "filter",
+        "hiking"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'canned coffee' suggest about the product the speaker bought?",
+      "options": [
+        "A) The coffee is freshly brewed",
+        "B) The coffee is in a can, ready to drink and portable",
+        "C) The coffee must be ground first",
+        "D) The coffee is for making espresso"
+      ],
+      "answer": "B",
+      "explanation": "Canned coffee（罐装咖啡）是预先冲泡好放在罐子里的即饮咖啡，方便携带，适合户外活动。演讲者提到'I've had it before'说明她之前就喝过。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 160,
+      "endTime": 169.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "canned coffee",
+        "portable",
+        "ready to drink"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Based on the video, describe what items the speaker prepared for her backpacking trip. Try to list at least 5 items in English.",
+      "options": [],
+      "answer": "open",
+      "explanation": "根据视频内容，演讲者为背包旅行准备了很多物品。学生应该用英语复述至少5项准备物品，例如：a 65-liter backpack, water treatment tablets, a water bottle with filter, granola bars, freeze dried meals, jerky, canned coffee, mini toothpaste等。",
+      "referenceAnswer": "The speaker prepared many items for her backpacking trip, including: 1) A 65-liter backpacking backpack; 2) Water treatment tablets to prevent disease; 3) A water bottle with a filter that you can scoop up water with; 4) A freeze dried meal; 5) Jerky as a protein snack; 6) Granola bars (without gluten, with natural protein); 7) Canned coffee; 8) Mini toothpaste; 9) Apples and carrots (foods that don't bruise or go bad).",
+      "hint": "Think about the categories: backpack, food, water, hygiene items, and any other supplies she mentioned.",
+      "startTime": 23.4,
+      "endTime": 309.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "backpack",
+        "food",
+        "water",
+        "supplies",
+        "preparation"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Why do you think the speaker chose specific foods like jerky, granola bars, and freeze dried meals for her trip? Explain in English.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个开放性问题。学生需要理解户外活动中选择食物的原则：轻便、不易变质、富含蛋白质和能量、易于保存和携带。",
+      "referenceAnswer": "The speaker likely chose these foods because they are: 1) Lightweight and easy to carry in a backpack; 2) Non-perishable so they won't go bad during the trip; 3) High in protein and energy to keep her fueled during hiking; 4) Easy to prepare (like jerky and granola bars need no cooking); 5) Compact, taking up little space in the backpack. These characteristics make them ideal for backpacking adventures.",
+      "hint": "Think about the challenges of carrying food on a backpacking trip: weight, spoilage, nutrition, and convenience.",
+      "startTime": 176.8,
+      "endTime": 239,
+      "difficulty": "hard",
+      "relatedWords": [
+        "jerky",
+        "granola bars",
+        "freeze dried",
+        "lightweight",
+        "protein"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe the speaker's preparation process for her trip in your own words. What did she do before setting out on her 'grand adventure'?",
+      "options": [],
+      "answer": "open",
+      "explanation": "学生需要综合视频内容，用英语描述演讲者的准备过程，包括：列出购物清单、买背包、买食物和水处理用品、装包、第二天早起出发。",
+      "referenceAnswer": "The speaker carefully prepared for her trip in several stages: First, she made a list of things she needed, including a backpack and various food items. Then she went to a store to buy a 65-liter backpacking backpack that she could also use for future travels. She also went to a grocery store to buy food that wouldn't bruise or go bad easily, like apples and carrots. She purchased freeze dried meals, jerky, and gluten-free granola bars for protein. She got water treatment tablets to prevent diseases and a special water bottle with a filter. She also got small items like mini toothpaste and canned coffee. Finally, she packed everything up, went to bed early, and woke up bright and early to set out on her grand adventure on August 27th.",
+      "hint": "Think about the sequence: making a list, shopping for a backpack, buying food, packing, and finally the trip itself.",
+      "startTime": 23.4,
+      "endTime": 357.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "preparation",
+        "backpack",
+        "groceries",
+        "packing",
+        "adventure"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Imagine you are going on a similar backpacking trip. What THREE essential items would you bring and why? Answer in English.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个开放性的口语表达题，鼓励学生结合视频内容思考自己会带什么。学生应该用英语清晰表达三样必备物品和理由。",
+      "referenceAnswer": "Sample answer: If I were going on a backpacking trip, I would bring: 1) A sturdy and comfortable backpack (like a 65-liter one) to carry all my supplies; 2) Water treatment supplies, such as tablets or a filter bottle, to ensure I have safe drinking water from natural sources; 3) Lightweight, high-energy food like granola bars, jerky, and freeze dried meals to keep me fueled during long hikes. These items are essential because they address the three most important needs: carrying capacity, hydration, and nutrition. I would also bring a tent, sleeping bag, and proper hiking shoes for comfort and safety.",
+      "hint": "Consider what is most important for survival and comfort on a multi-day hiking trip: shelter, water, food, navigation, and clothing.",
+      "startTime": 23.4,
+      "endTime": 357.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "essential items",
+        "backpacking",
+        "trip",
+        "preparation"
+      ]
+    }
+  ]
+}

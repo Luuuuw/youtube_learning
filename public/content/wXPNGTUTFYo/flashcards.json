@@ -1,0 +1,417 @@
+{
+  "videoId": "wXPNGTUTFYo",
+  "generatedAt": "2026-08-11T06:30:56.947Z",
+  "cards": [
+    {
+      "id": "msoa7nhu42kpie",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "regret",
+      "back": "后悔 (verb, B1)",
+      "context": "i'm really **regretting** it but this is why i purposely booked my class last night",
+      "audioStart": 451.6,
+      "audioEnd": 456.76,
+      "word": "regret",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhuhnygdx",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "purposely",
+      "back": "故意地 (adverb, B2)",
+      "context": "this is why i **purposely** booked my class last night",
+      "audioStart": 456.76,
+      "audioEnd": 460.36,
+      "word": "purposely",
+      "tags": [
+        "CEFR-B2",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhufr0jmv",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "temporary",
+      "back": "临时的 (adjective, B1)",
+      "context": "i used this room as like a **temporary** storage for all my pop-up boxes",
+      "audioStart": 511.78,
+      "audioEnd": 516.64,
+      "word": "temporary",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhufh5cvl",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "chatty",
+      "back": "爱闲聊的 (adjective, B2)",
+      "context": "i was feeling very **chatty** so i wanted to do like an old school youtube style sit down talk",
+      "audioStart": 521.92,
+      "audioEnd": 526.78,
+      "word": "chatty",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhuels68v",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "coverage",
+      "back": "遮盖力 (noun, B1)",
+      "context": "**Coverage** is so beautiful.",
+      "audioStart": 548,
+      "audioEnd": 554.2,
+      "word": "coverage",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhu9ydcpa",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "glowy",
+      "back": "发光的 (adjective, B2)",
+      "context": "I just love how **glowy** and dewy my skin looks.",
+      "audioStart": 554.2,
+      "audioEnd": 557.14,
+      "word": "glowy",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhue4lsao",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "shimmery",
+      "back": "闪亮的 (adjective, B2)",
+      "context": "I am not a huge fan of very **shimmery** highlighters.",
+      "audioStart": 566.94,
+      "audioEnd": 569.54,
+      "word": "shimmery",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhuhga7gc",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "airbrushed",
+      "back": "喷枪般的 (adjective, C1)",
+      "context": "it just gives like a very very natural, blended, **airbrushed** look",
+      "audioStart": 630.66,
+      "audioEnd": 639.14,
+      "word": "airbrushed",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhuqa8cgl",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "oily",
+      "back": "油性的 (adjective, B1)",
+      "context": "I have very **oily** lids this brand is actually really good",
+      "audioStart": 644.54,
+      "audioEnd": 647.76,
+      "word": "oily",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhuegqe3f",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "addicting",
+      "back": "令人上瘾的 (adjective, B2)",
+      "context": "It's **addicting**.",
+      "audioStart": 691.26,
+      "audioEnd": 693.93,
+      "word": "addicting",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhu9cyr2q",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "feminine",
+      "back": "女性化的 (adjective, B1)",
+      "context": "it just smells so **feminine** so beautiful",
+      "audioStart": 700.78,
+      "audioEnd": 705.9,
+      "word": "feminine",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7nhuy8vhhv",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "insecurity",
+      "back": "不安全感 (noun, B2)",
+      "context": "my flaky scalp has been one of my biggest **insecurities**",
+      "audioStart": 782.71,
+      "audioEnd": 789.69,
+      "word": "insecurity",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.946Z"
+    },
+    {
+      "id": "msoa7n16gzedq9",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) 그 배송이 안 오는 동안은 제가 집을 떠나서 그래서 오늘 모든 계획을 다 ___ 거예요",
+      "back": "끊을",
+      "context": "그 배송이 안 오는 동안은 제가 집을 떠나서 그래서 오늘 모든 계획을 다 끊을 거예요",
+      "audioStart": 89,
+      "audioEnd": 93.5,
+      "hint": "选项：바꿀 / 만들 / 시작할 / 끊을",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.346Z"
+    },
+    {
+      "id": "msoa7n163oakax",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And then on the topic of glowy skin, I am not a huge fan of very ___ highlighters.",
+      "back": "shimmery",
+      "context": "And then on the topic of glowy skin, I am not a huge fan of very shimmery highlighters.",
+      "audioStart": 560,
+      "audioEnd": 567,
+      "hint": "选项：expensive / colorful / shimmery / matte",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.346Z"
+    },
+    {
+      "id": "msoa7n16yr1cmy",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) 1만장의 박스를 가져올 때까지 기다리고 있어요 왜냐면 제가 뉴욕에서 파파에 가져온 모든 것들은 캘리포니아로 ___",
+      "back": "돌아가서",
+      "context": "1만장의 박스를 가져올 때까지 기다리고 있어요 왜냐면 제가 뉴욕에서 파파에 가져온 모든 것들은 캘리포니아로 돌아가서",
+      "audioStart": 79.1,
+      "audioEnd": 85,
+      "hint": "选项：이동해서 / 보내서 / 옮겨서 / 돌아가서",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.346Z"
+    },
+    {
+      "id": "msoa7n167hrpde",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) 혼자서 오늘의 데이트를 하고 싶었는데 UPS ___",
+      "back": "운전자가",
+      "context": "혼자서 오늘의 데이트를 하고 싶었는데 UPS 운전자가",
+      "audioStart": 74,
+      "audioEnd": 79.1,
+      "hint": "选项：배달부가 / 택배가 / 운전자가 / 기사가",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.346Z"
+    },
+    {
+      "id": "msoa7n16c9d0er",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) They're such ___ partners.",
+      "back": "amazing",
+      "context": "They're such amazing partners.",
+      "audioStart": 299.3,
+      "audioEnd": 303,
+      "hint": "选项：wonderful / ordinary / amazing / terrible",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.346Z"
+    },
+    {
+      "id": "msoa7n16xdyapg",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) an old school youtube style sit down talk about favorite products and i ___ it at",
+      "back": "left",
+      "context": "an old school youtube style sit down talk about favorite products and i left it at",
+      "audioStart": 521,
+      "audioEnd": 526.3,
+      "hint": "选项：left / found / put / kept",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.346Z"
+    },
+    {
+      "id": "msoa7n1690r64g",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) 안녕하세요 여러분! 그리고, 대체로 ___!",
+      "back": "행복하세요",
+      "context": "안녕하세요 여러분! 그리고, 대체로 행복하세요!",
+      "audioStart": 66.8,
+      "audioEnd": 74,
+      "hint": "选项：건강하세요 / 즐거우세요 / 행복하세요 / 평안하세요",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.346Z"
+    },
+    {
+      "id": "msoa7n16l0n1xq",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) back at the past few years everything just feels like a ___ and my goal is to",
+      "back": "blur",
+      "context": "back at the past few years everything just feels like a blur and my goal is to",
+      "audioStart": 224,
+      "audioEnd": 229,
+      "hint": "选项：picture / dream / memory / blur",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:56.346Z"
+    },
+    {
+      "id": "msoa7m9yrk9j5y",
+      "videoId": "wXPNGTUTFYo",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我真的很后悔，但这就是我昨晚故意订课的原因 昨晚订的，这样我就被迫去，不能改变主意了\nlast night ___ ___ I'm forced to go and I can't change my mind.",
+      "back": "so / that",
+      "context": "last night so that I'm forced to go and I can't change my mind.",
+      "audioStart": 456.764,
+      "audioEnd": 460.363,
+      "hint": "so that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:55.366Z"
+    }
+  ]
+}

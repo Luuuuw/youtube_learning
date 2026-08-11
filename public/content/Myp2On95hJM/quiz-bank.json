@@ -1,0 +1,519 @@
+{
+  "videoId": "Myp2On95hJM",
+  "title": "Myp2On95hJM",
+  "generatedAt": "2026-08-10T17:19:25.458Z",
+  "version": 1,
+  "totalQuestions": 22,
+  "stats": {
+    "easy": 8,
+    "medium": 9,
+    "hard": 5,
+    "choice": 17,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker mean by 'Oh, I'm so dramatic' in the context of the video?",
+      "options": [
+        "A) She is putting on a theatrical performance",
+        "B) She is acknowledging that she is exaggerating her feelings about waking up early",
+        "C) She is complaining about her acting skills",
+        "D) She is planning a dramatic scene for her vlog"
+      ],
+      "answer": "B",
+      "explanation": "在这句话之前，演讲者表达了自己因为不想起床而感到非常情绪化的反应。'Oh, I'm so dramatic' 是她自我调侃的方式，承认自己可能夸大了对早起的抗拒和不满情绪。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 30.5,
+      "endTime": 33.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dramatic",
+        "exaggerating",
+        "self-deprecating",
+        "mood"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the speaker, what time does she need to wake up, prompting her bedtime calculation?",
+      "options": [
+        "A) 5 p.m.",
+        "B) 5 a.m.",
+        "C) 9 a.m.",
+        "D) 9 p.m."
+      ],
+      "answer": "B",
+      "explanation": "演讲者提到'9 p.m if I'm going to be waking up at 5'，说明她需要在晚上9点前睡觉，以便早上5点起床。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 174.2,
+      "endTime": 177.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "waking up",
+        "bedtime",
+        "morning routine",
+        "schedule"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What drink did the speaker order from Dunkin'?",
+      "options": [
+        "A) Hot chocolate with whole milk",
+        "B) Iced caramel latte with skim milk",
+        "C) Regular coffee with cream",
+        "D) Iced vanilla latte with oat milk"
+      ],
+      "answer": "B",
+      "explanation": "演讲者明确说'I got an iced caramel latte, skim milk, pump of caramel swirl'，即她点了脱脂奶、焦糖漩涡糖浆的冰焦糖拿铁。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 120,
+      "endTime": 126.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "iced caramel latte",
+        "skim milk",
+        "caramel swirl",
+        "Dunkin"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the phrase 'sense of impending doom' mean in the context?",
+      "options": [
+        "A) A feeling of excitement about an upcoming event",
+        "B) A feeling that something bad is about to happen",
+        "C) A feeling of being forgetful",
+        "D) A feeling of extreme happiness"
+      ],
+      "answer": "B",
+      "explanation": "'Sense of impending doom'（不祥预感/大难临头的感觉）是指一种感觉好像坏事即将发生。演讲者用这个词来表达她因为需要早睡但又不想睡觉而产生的焦虑感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 241.2,
+      "endTime": 254.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "impending doom",
+        "anxiety",
+        "feeling",
+        "negative"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Why was the speaker 'in a sheer panic' according to the video?",
+      "options": [
+        "A) She lost her phone",
+        "B) She was running late for work",
+        "C) She needed to look at the time on her phone to check if it was time to get up",
+        "D) She received a scary message"
+      ],
+      "answer": "C",
+      "explanation": "演讲者说'in a sheer panic to look at the time on my phone'，说明她非常慌张地看手机上的时间，可能是为了确认是否到了该起床的时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 468.4,
+      "endTime": 471,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sheer panic",
+        "phone",
+        "time",
+        "anxiety"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'I have so much on my plate' mean?",
+      "options": [
+        "A) I have a lot of food to eat",
+        "B) I have many responsibilities and tasks to handle",
+        "C) I have many plates to wash",
+        "D) I have too much furniture in my house"
+      ],
+      "answer": "B",
+      "explanation": "'I have so much on my plate' 是一个英语习语，意思是'我很忙，有很多事情要做/要处理'。演讲者用它来表达自己工作任务繁重。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 732.4,
+      "endTime": 736.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "on my plate",
+        "busy",
+        "responsibilities",
+        "tasks"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the speaker say wakes her up in the morning?",
+      "options": [
+        "A) An alarm clock with loud music",
+        "B) Cold water splashed on her face",
+        "C) Someone calling her name",
+        "D) Sunlight from the window"
+      ],
+      "answer": "B",
+      "explanation": "演讲者提到'cold water splashed on my face when I wake up'，即用冷水拍脸是她早晨醒来的方式之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 661.9,
+      "endTime": 664.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cold water",
+        "wake up",
+        "face",
+        "morning routine"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "Why does the speaker think waking up early makes her 'less avoidant'?",
+      "options": [
+        "A) Because she enjoys mornings more",
+        "B) Because she has more energy to complete her tasks",
+        "C) Because she doesn't have time to overthink and avoid her responsibilities",
+        "D) Because her friends are all awake early"
+      ],
+      "answer": "C",
+      "explanation": "演讲者说早起让她'less avoidant'（更不回避），意思是早起让她没有时间去胡思乱想和拖延，从而更直接地面对和处理事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 739.3,
+      "endTime": 751.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "avoidant",
+        "early morning",
+        "productivity",
+        "procrastination"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I was entertaining the debate in my head'?",
+      "options": [
+        "A) She was watching a political debate on TV",
+        "B) She was having a conversation with others about a debate topic",
+        "C) She was considering both sides of a decision in her mind, which led to overthinking",
+        "D) She was attending a formal debate competition"
+      ],
+      "answer": "C",
+      "explanation": "'Entertaining the debate in my head' 意思是她在脑海中反复思考和权衡一个决定，陷入内耗和过度思考。演讲者说这是让她陷入麻烦的原因。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 844.2,
+      "endTime": 848.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "debate",
+        "overthinking",
+        "internal struggle",
+        "decision-making"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What time is it when the speaker gets her second iced coffee?",
+      "options": [
+        "A) Morning",
+        "B) Noon",
+        "C) Afternoon",
+        "D) The exact time is not specified but she notes it's her second one of the day"
+      ],
+      "answer": "D",
+      "explanation": "演讲者说'I got my second iced coffee of the day'，但没有明确指出具体时间，只知道这是她当天第二杯冰咖啡。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 885.8,
+      "endTime": 888.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "iced coffee",
+        "second",
+        "caffeine",
+        "day"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the speaker planning to try differently with her drink?",
+      "options": [
+        "A) A new flavor of tea",
+        "B) A blueberry vanilla concoction",
+        "C) A green smoothie",
+        "D) An espresso shot"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说'I wanted to try something different so I tried this like blueberry vanilla concoction'，她想尝试不同的口味，所以点了蓝莓香草混合饮料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 983.8,
+      "endTime": 991.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "blueberry",
+        "vanilla",
+        "concoction",
+        "new flavor"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "According to the speaker, what makes her feel like she's 'one step ahead of everything'?",
+      "options": [
+        "A) Drinking coffee early in the morning",
+        "B) Working out at the gym",
+        "C) Waking up early",
+        "D) Making a to-do list"
+      ],
+      "answer": "C",
+      "explanation": "演讲者说'waking up early kind of makes me less avoidant' 以及'feeling like I'm one step ahead of everything'，说明早起让她感觉比一切都先行一步。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 732.4,
+      "endTime": 736.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "one step ahead",
+        "waking up early",
+        "productivity",
+        "advantage"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the speaker doing at 11:15 p.m.?",
+      "options": [
+        "A) Working on her laptop",
+        "B) Watching TV",
+        "C) Going to bed with white noise on",
+        "D) Eating a late-night snack"
+      ],
+      "answer": "C",
+      "explanation": "演讲者说'my white noise is on and i am in bed it is 11 15 p.m'，即她开着白噪音在床上，准备睡觉。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 781.2,
+      "endTime": 785.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "white noise",
+        "bed",
+        "sleep",
+        "night"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "Why does the speaker say 'People are watching me vlog right now and I'm really insecure about it'?",
+      "options": [
+        "A) She is uncomfortable being filmed by passersby",
+        "B) She is worried about what viewers think of her",
+        "C) She doesn't like the lighting in her vlog",
+        "D) She is not prepared for the video"
+      ],
+      "answer": "B",
+      "explanation": "演讲者表达了在拍摄vlog时的 insecurity（不安全感），担心观众在看她录视频，对自己在镜头前的表现感到不安。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 882.9,
+      "endTime": 885.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vlog",
+        "insecure",
+        "camera",
+        "viewers"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the speaker find 'empowering' according to the video?",
+      "options": [
+        "A) Going to the gym",
+        "B) Making her own decisions about her schedule",
+        "C) Drinking coffee",
+        "D) Sleeping early"
+      ],
+      "answer": "B",
+      "explanation": "演讲者说'minorly empowering to say like, okay, I'm going to'，这表明她觉得为自己做决定（比如决定什么时候睡觉、什么时候起床）是一种赋权行为。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1061.3,
+      "endTime": 1070.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "empowering",
+        "decisions",
+        "independence",
+        "control"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the speaker's attitude toward waking up early at the beginning of the video?",
+      "options": [
+        "A) Enthusiastic and energetic",
+        "B) Reluctant and negative",
+        "C) Indifferent",
+        "D) Excited but nervous"
+      ],
+      "answer": "B",
+      "explanation": "在视频开头，演讲者提到'rising anytime soon really makes me want to just go back to bed' 和 'I'm so dramatic'，表明她对早起感到抗拒和不情愿。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 2.7,
+      "endTime": 33.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "reluctant",
+        "negative",
+        "morning",
+        "attitude"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker plan to do on the flight?",
+      "options": [
+        "A) Sleep the whole time",
+        "B) Watch movies",
+        "C) Work on a sandwich and get tasks done",
+        "D) Read a book"
+      ],
+      "answer": "C",
+      "explanation": "演讲者说'little sandwich I'm really hoping I can get work done on this flight'，她希望在飞行期间能够完成工作（提到三明治可能是她带去飞机上的食物）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 919.9,
+      "endTime": 926.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "flight",
+        "work",
+        "sandwich",
+        "productivity"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "speaking",
+      "question": "Describe how the speaker feels about waking up early at the start of the video. Use specific phrases from the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "题目要求用视频中的具体短语描述演讲者对早起的感受。视频开头她表达了不情愿、想回床上躺着的情绪，如 'makes me want to just go back to bed' 和 'I'm so dramatic'。",
+      "referenceAnswer": "The speaker feels reluctant and dramatic about waking up early. She mentions that the thought of rising soon 'really makes me want to just go back to bed.' She also calls herself 'so dramatic' when expressing her resistance to the early morning routine.",
+      "hint": "Think about phrases like 'go back to bed' and 'so dramatic' that show her emotional state.",
+      "startTime": 2.7,
+      "endTime": 33.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "reluctant",
+        "dramatic",
+        "go back to bed",
+        "morning"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Explain what the speaker's morning routine involves based on the video. Include specific activities she mentions.",
+      "options": [],
+      "answer": "open",
+      "explanation": "题目要求描述演讲者早晨例行活动的内容。视频中她提到了冰焦糖拿铁、用冷水拍脸、看时间等。",
+      "referenceAnswer": "The speaker's morning routine involves: 1) Waking up early (around 5 a.m.) and checking the time on her phone, sometimes in a panic. 2) Splashing cold water on her face to wake up. 3) Getting an iced caramel latte with skim milk and caramel swirl from Dunkin'. 4) Contemplating going to the gym. 5) Sitting on the couch briefly. 6) Eventually starting her work since she's already up early.",
+      "hint": "Include details about her coffee order, washing her face, and her activities after waking up.",
+      "startTime": 112.1,
+      "endTime": 298.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "morning routine",
+        "coffee",
+        "cold water",
+        "gym"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Why does the speaker believe waking up early is beneficial? Mention at least two reasons she gives.",
+      "options": [],
+      "answer": "open",
+      "explanation": "题目要求总结演讲者认为早起好处的至少两个原因。视频中她提到了减少拖延、感觉领先一步等。",
+      "referenceAnswer": "The speaker believes waking up early is beneficial for several reasons: 1) It makes her 'less avoidant' because she doesn't have time to entertain debates in her head. 2) It makes her feel like she's 'one step ahead of everything.' 3) It allows her to get more done on her to-do list. 4) It's a 'minorly empowering' decision that gives her control over her schedule.",
+      "hint": "Look for phrases like 'less avoidant,' 'one step ahead,' and 'empowering' in the video.",
+      "startTime": 732.4,
+      "endTime": 848.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "benefits",
+        "less avoidant",
+        "productive",
+        "empowering"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe the speaker's evening routine before bed. What does she do to prepare for sleep?",
+      "options": [],
+      "answer": "open",
+      "explanation": "题目要求描述演讲者睡前准备活动。视频中她提到了白噪音、在床上、查看时间等。",
+      "referenceAnswer": "The speaker's evening routine includes: 1) Getting into bed around 11:15 p.m. 2) Turning on white noise to help her sleep. 3) Contemplating whether to stay up or go to bed (since she has to wake up at 5 a.m.). 4) Dealing with a 'sense of impending doom' about needing to sleep early. 5) Considering getting to bed by 9 p.m. if she wants to wake up at 5 a.m. the next day.",
+      "hint": "Mention white noise, her bedtime, and her thoughts about needing to sleep early.",
+      "startTime": 241.2,
+      "endTime": 785.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "evening routine",
+        "white noise",
+        "bedtime",
+        "sleep"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What does the speaker mean by saying 'this was pre-scheduled' and how does it affect her day?",
+      "options": [],
+      "answer": "open",
+      "explanation": "题目要求理解'pre-scheduled'的含义并解释其对演讲者日程的影响。这表明某项活动是预先安排好的，她无法取消。",
+      "referenceAnswer": "'Pre-scheduled' means that something was planned or arranged in advance, like an appointment, meeting, or event on her calendar. In the video, the speaker mentions that although she doesn't have the energy to do something, 'this was pre-scheduled, so I can't really' cancel or skip it. This means she has to follow through on her commitment despite her current state of tiredness or lack of motivation, which requires discipline and dedication to her planned schedule.",
+      "hint": "Think about how having something pre-scheduled forces someone to follow through with their plans even when they don't feel like it.",
+      "startTime": 206.2,
+      "endTime": 209,
+      "difficulty": "hard",
+      "relatedWords": [
+        "pre-scheduled",
+        "commitment",
+        "discipline",
+        "routine"
+      ]
+    }
+  ]
+}

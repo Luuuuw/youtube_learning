@@ -1,0 +1,360 @@
+{
+  "videoId": "vA3czzlyigo",
+  "generatedAt": "2026-08-11T06:30:20.949Z",
+  "cards": [
+    {
+      "id": "msoa6vpw117pws",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "silverware",
+      "back": "银器；餐具 (noun, B2)",
+      "context": "We have some really interesting **silverware** that I bought secondhand.",
+      "audioStart": 15.42,
+      "audioEnd": 20.44,
+      "word": "silverware",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.948Z"
+    },
+    {
+      "id": "msoa6vpxk0w22g",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "secondhand",
+      "back": "二手的；旧的 (adjective, B1)",
+      "context": "We have some really interesting silverware that I bought **secondhand**.",
+      "audioStart": 15.42,
+      "audioEnd": 20.44,
+      "word": "secondhand",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpxmgnrgi",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vibe",
+      "back": "氛围；感觉 (noun, B1)",
+      "context": "I think it looks really good with my kitchen in general and with the **vibe** of the house.",
+      "audioStart": 47.34,
+      "audioEnd": 52.36,
+      "word": "vibe",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpxwhrqa1",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "luxury",
+      "back": "奢华的；豪华的 (adjective, B1)",
+      "context": "It's from the brand Christophe, which is a very famous **luxury** French silverware tableware decoration brand.",
+      "audioStart": 52.36,
+      "audioEnd": 63.26,
+      "word": "luxury",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpx63p404",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "established",
+      "back": "建立；创立 (verb, B1)",
+      "context": "It was **established** I think in like 1830-1850 so it's really really old.",
+      "audioStart": 63.26,
+      "audioEnd": 69.94,
+      "word": "established",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpxx733ps",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "gorgeous",
+      "back": "华丽的；极好的 (adjective, B1)",
+      "context": "I just thought it was such a **gorgeous** piece to have on a table when you invite people at dessert or things like that.",
+      "audioStart": 88.02,
+      "audioEnd": 98.26,
+      "word": "gorgeous",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpxol7ntm",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "craving",
+      "back": "渴望；热望 (verb, B2)",
+      "context": "I've been **craving** it ever since.",
+      "audioStart": 208.24,
+      "audioEnd": 211.82,
+      "word": "craving",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpxrlq97d",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "marinated",
+      "back": "腌制的；浸泡的 (adjective, B2)",
+      "context": "This is **marinated** radish.",
+      "audioStart": 222.12,
+      "audioEnd": 227.7,
+      "word": "marinated",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpx581qzw",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "concrete",
+      "back": "具体的；确实的 (adjective, B1)",
+      "context": "And then the students kind of give more like **concrete** answers.",
+      "audioStart": 320.82,
+      "audioEnd": 325.34,
+      "word": "concrete",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpx499t8p",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "paralyze",
+      "back": "使麻痹；使瘫痪 (verb, C1)",
+      "context": "If you keep thinking about your stress, the things that stresses you out about life for too long, then it's going to **paralyze** you and prevent you from doing anything great.",
+      "audioStart": 368.66,
+      "audioEnd": 382.28,
+      "word": "paralyze",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpxzcaqpd",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "transparent",
+      "back": "透明的；清澈的 (adjective, B1)",
+      "context": "I stir the olive oil and the rice until it becomes kind of **transparent**.",
+      "audioStart": 404.98,
+      "audioEnd": 419.88,
+      "word": "transparent",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6vpxstiut6",
+      "videoId": "vA3czzlyigo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "motivation",
+      "back": "动机；积极性 (noun, B1)",
+      "context": "I wish this phase right now that I'm in, the **motivation** phase, the showing up for myself phase was done because it's the hardest one.",
+      "audioStart": 467.1,
+      "audioEnd": 477.84,
+      "word": "motivation",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:20.949Z"
+    },
+    {
+      "id": "msoa6txevorfb7",
+      "videoId": "vA3czzlyigo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) not two months two weeks in bali how i've been ___ how i've been like editing things so",
+      "back": "packing",
+      "context": "not two months two weeks in bali how i've been packing how i've been like editing things so",
+      "audioStart": 1986.6,
+      "audioEnd": 1993.7,
+      "hint": "选项：traveling / packing / thinking / working",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:18.626Z"
+    },
+    {
+      "id": "msoa6txe70icn9",
+      "videoId": "vA3czzlyigo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So it's a place that I really hold close to my heart so I'm very very ___",
+      "back": "close",
+      "context": "So it's a place that I really hold close to my heart so I'm very very",
+      "audioStart": 2409.8,
+      "audioEnd": 2412.8,
+      "hint": "选项：special / important / dear / close",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:18.626Z"
+    },
+    {
+      "id": "msoa6txeytvl0c",
+      "videoId": "vA3czzlyigo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) everything I think I love and then I ___ it.",
+      "back": "edit",
+      "context": "everything I think I love and then I edit it.",
+      "audioStart": 2136.6,
+      "audioEnd": 2143.5,
+      "hint": "选项：revise / fix / edit / change",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:18.626Z"
+    },
+    {
+      "id": "msoa6txegxc11p",
+      "videoId": "vA3czzlyigo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So we only have 10 ___ to go.",
+      "back": "orders",
+      "context": "So we only have 10 orders to go.",
+      "audioStart": 874.6,
+      "audioEnd": 878,
+      "hint": "选项：items / orders / requests / tasks",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:18.626Z"
+    },
+    {
+      "id": "msoa6txeib42k3",
+      "videoId": "vA3czzlyigo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) i think they're gonna look so gorgeous look at that so gorgeous i love it i really ___",
+      "back": "fell",
+      "context": "i think they're gonna look so gorgeous look at that so gorgeous i love it i really fell",
+      "audioStart": 115.1,
+      "audioEnd": 118.1,
+      "hint": "选项：fell / fell / fell / fell",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:18.626Z"
+    },
+    {
+      "id": "msoa6u9s31u0bv",
+      "videoId": "vA3czzlyigo",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我知道发生什么事了。 我知道发生什么事了。\nThis is a type of look that ___ ___ ___ really good if I had fake tanned, but I didn't.",
+      "back": "would / have / looked",
+      "context": "This is a type of look that would have looked really good if I had fake tanned, but I didn't.",
+      "audioStart": 1050.878,
+      "audioEnd": 1052.659,
+      "hint": "would have looked",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:19.072Z"
+    }
+  ]
+}

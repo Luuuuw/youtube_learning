@@ -1,0 +1,396 @@
+{
+  "videoId": "Myp2On95hJM",
+  "generatedAt": "2026-08-11T06:27:15.667Z",
+  "cards": [
+    {
+      "id": "msoa2wr7r3840m",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dread",
+      "back": "害怕，恐惧 (verb, B2)",
+      "context": "Do I always **dread** it?",
+      "audioStart": 404.2,
+      "audioEnd": 404.78,
+      "word": "dread",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2wr7o563x1",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "contemplate",
+      "back": "沉思，考虑 (verb, B2)",
+      "context": "This was me seriously **contemplating** sitting on the couch for just a couple minutes",
+      "audioStart": 330.1,
+      "audioEnd": 333.82,
+      "word": "contemplate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2wr7esjsuf",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sustain",
+      "back": "维持，支撑 (verb, B2)",
+      "context": "As much as I wish that this tea would **sustain** me",
+      "audioStart": 708.42,
+      "audioEnd": 711.72,
+      "word": "sustain",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2wr7jy6kg6",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "prominent",
+      "back": "突出的，显著的 (adjective, B2)",
+      "context": "That's why it's just more **prominent**.",
+      "audioStart": 89.2,
+      "audioEnd": 90.94,
+      "word": "prominent",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2wr7he7qvp",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trajectory",
+      "back": "轨迹，发展轨迹 (noun, C1)",
+      "context": "I also really realized this week the significance my morning has on the **trajectory** of my entire day.",
+      "audioStart": 1042.68,
+      "audioEnd": 1048.99,
+      "word": "trajectory",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2wr7jachn9",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "empowering",
+      "back": "令人有力量的，增强信心的 (adjective, C1)",
+      "context": "It is like a bit like minorly **empowering** to say like, okay, I'm going to wake up tomorrow at five",
+      "audioStart": 1067.2,
+      "audioEnd": 1071.29,
+      "word": "empowering",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2wr7v6ncn7",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "diligent",
+      "back": "勤奋的，勤勉的 (adjective, B2)",
+      "context": "It's just not the same as being **diligent** and following through",
+      "audioStart": 1061.29,
+      "audioEnd": 1065.05,
+      "word": "diligent",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2wr76cy6k2",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "revive",
+      "back": "使复苏，使恢复 (verb, B2)",
+      "context": "And that like seriously just woke me up and **revived** me.",
+      "audioStart": 664.22,
+      "audioEnd": 667.48,
+      "word": "revive",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2wr79x546q",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "accumulate",
+      "back": "积累，积聚 (verb, B2)",
+      "context": "my apartment is sort of **accumulating** a disaster mess.",
+      "audioStart": 632.44,
+      "audioEnd": 638,
+      "word": "accumulate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2wr7p6kpja",
+      "videoId": "Myp2On95hJM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "confession",
+      "back": "坦白，忏悔 (noun, B2)",
+      "context": "I do have a **confession** guys.",
+      "audioStart": 137.38,
+      "audioEnd": 139,
+      "word": "confession",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:15.667Z"
+    },
+    {
+      "id": "msoa2w3txcrq1f",
+      "videoId": "Myp2On95hJM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Well, many things make me want to go back to bed. Oh, I'm so ___",
+      "back": "dramatic",
+      "context": "Well, many things make me want to go back to bed. Oh, I'm so dramatic.",
+      "audioStart": 30.5,
+      "audioEnd": 33.7,
+      "hint": "选项：serious / funny / happy / dramatic",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.825Z"
+    },
+    {
+      "id": "msoa2w3uzbfbra",
+      "videoId": "Myp2On95hJM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) ___ about my day ahead anyways I'm gonna do some work I might as well I'm up and",
+      "back": "fearful",
+      "context": "fearful about my day ahead anyways I'm gonna do some work I might as well I'm up and",
+      "audioStart": 174.2,
+      "audioEnd": 177.6,
+      "hint": "选项：fearful / hopeful / excited / careful",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.826Z"
+    },
+    {
+      "id": "msoa2w3uwcg63z",
+      "videoId": "Myp2On95hJM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I got an iced caramel latte, skim milk, pump of caramel swirl, and a pump of French vanilla. Yes, this is a lot of ___",
+      "back": "sugar",
+      "context": "I got an iced caramel latte, skim milk, pump of caramel swirl, and a pump of French vanilla. Yes, this is a lot of sugar.",
+      "audioStart": 120,
+      "audioEnd": 126.3,
+      "hint": "选项：syrup / milk / sugar / coffee",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.826Z"
+    },
+    {
+      "id": "msoa2w3u6mfad5",
+      "videoId": "Myp2On95hJM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I have so much on my plate. But this makes me feel like I'm one step ___ of",
+      "back": "ahead",
+      "context": "I have so much on my plate. But this makes me feel like I'm one step ahead of",
+      "audioStart": 732.4,
+      "audioEnd": 736.9,
+      "hint": "选项：above / ahead / below / behind",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.826Z"
+    },
+    {
+      "id": "msoa2w3usua6xb",
+      "videoId": "Myp2On95hJM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I think what gets me into trouble is entertaining the ___",
+      "back": "thought",
+      "context": "I think what gets me into trouble is entertaining the",
+      "audioStart": 844.2,
+      "audioEnd": 848.5,
+      "hint": "选项：thought / notion / idea / concept",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.826Z"
+    },
+    {
+      "id": "msoa2w3ukw932a",
+      "videoId": "Myp2On95hJM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I wanted to try something different so I tried this like blueberry vanilla ___ that I just came up with at the window.",
+      "back": "concoction",
+      "context": "I wanted to try something different so I tried this like blueberry vanilla concoction that I just came up with at the window.",
+      "audioStart": 983.8,
+      "audioEnd": 991.7,
+      "hint": "选项：creation / recipe / concoction / mixture",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.826Z"
+    },
+    {
+      "id": "msoa2w3u1fdnlg",
+      "videoId": "Myp2On95hJM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I have so much on my plate. But this makes me feel like I'm one step ___ of",
+      "back": "ahead",
+      "context": "I have so much on my plate. But this makes me feel like I'm one step ahead of",
+      "audioStart": 732.4,
+      "audioEnd": 736.9,
+      "hint": "选项：below / above / ahead / behind",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.826Z"
+    },
+    {
+      "id": "msoa2w3ua7pcbw",
+      "videoId": "Myp2On95hJM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) my white noise is on and i am in bed it is 11 15 p.m i've ___",
+      "back": "honestly",
+      "context": "my white noise is on and i am in bed it is 11 15 p.m i've honestly",
+      "audioStart": 781.2,
+      "audioEnd": 785.9,
+      "hint": "选项：really / honestly / actually / truly",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.826Z"
+    },
+    {
+      "id": "msoa2vr5fuxm5a",
+      "videoId": "Myp2On95hJM",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "既然起这么早，不如直接开始干活吧。 我也该准备得更充分点，干嘛还穿着睡裤呢\nI also ___ ___ ___ ready more because like why am I wearing my sweatpants that I wore",
+      "back": "should / have / gotten",
+      "context": "I also should have gotten ready more because like why am I wearing my sweatpants that I wore",
+      "audioStart": 156.74,
+      "audioEnd": 161.159,
+      "hint": "should have gotten",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.370Z"
+    },
+    {
+      "id": "msoa2vr6irg15h",
+      "videoId": "Myp2On95hJM",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "特别慌张地去看手机上的时间 肯定是在怕闹钟不响之类的\nI ___ ___ ___ panicking that my alarm wouldn't go off or something.",
+      "back": "must / have / been",
+      "context": "I must have been panicking that my alarm wouldn't go off or something.",
+      "audioStart": 471.062,
+      "audioEnd": 474.062,
+      "hint": "must have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:14.370Z"
+    }
+  ]
+}

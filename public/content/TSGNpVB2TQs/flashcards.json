@@ -1,0 +1,358 @@
+{
+  "videoId": "TSGNpVB2TQs",
+  "generatedAt": "2026-08-11T06:29:37.889Z",
+  "cards": [
+    {
+      "id": "msoa5yhsr1zh1n",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "demand",
+      "back": "要求，强烈要求 (verb, B1)",
+      "context": "Would you expect or **demand** a Harry Potter quiz?",
+      "audioStart": 0,
+      "audioEnd": 7.06,
+      "word": "demand",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.888Z"
+    },
+    {
+      "id": "msoa5yhspnt2pv",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "avoid",
+      "back": "避免，回避 (verb, B1)",
+      "context": "And I've been **avoiding** it because I just didn't really get it.",
+      "audioStart": 12.62,
+      "audioEnd": 17.42,
+      "word": "avoid",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.888Z"
+    },
+    {
+      "id": "msoa5yhsphwv3b",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "captivating",
+      "back": "迷人的，有吸引力的 (adjective, B2)",
+      "context": "the show is so **captivating** the story is incredible",
+      "audioStart": 42.46,
+      "audioEnd": 47.42,
+      "word": "captivating",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.888Z"
+    },
+    {
+      "id": "msoa5yhtxb6a96",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "incredible",
+      "back": "难以置信的，极好的 (adjective, B1)",
+      "context": "the story is **incredible**",
+      "audioStart": 42.46,
+      "audioEnd": 47.42,
+      "word": "incredible",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.889Z"
+    },
+    {
+      "id": "msoa5yhthhkbhc",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "crack",
+      "back": "破解，解决 (verb, B2)",
+      "context": "all right let's **crack** through these okay",
+      "audioStart": 50.48,
+      "audioEnd": 54.54,
+      "word": "crack",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.889Z"
+    },
+    {
+      "id": "msoa5yht230ozc",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "witness",
+      "back": "见证，目击 (verb, B2)",
+      "context": "if you've **witnessed** and come to terms with death",
+      "audioStart": 86.64,
+      "audioEnd": 89.22,
+      "word": "witness",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.889Z"
+    },
+    {
+      "id": "msoa5yht9kksbk",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "come to terms with",
+      "back": "接受，妥协 (phrase, B2)",
+      "context": "if you've witnessed and **come to terms with** death",
+      "audioStart": 86.64,
+      "audioEnd": 89.22,
+      "word": "come to terms with",
+      "tags": [
+        "CEFR-B2",
+        "phrase"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.889Z"
+    },
+    {
+      "id": "msoa5yhtwo2v8h",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "flashback",
+      "back": "闪回，回忆 (noun, B2)",
+      "context": "oh i'm having **flashbacks** okay",
+      "audioStart": 149.8,
+      "audioEnd": 156.44,
+      "word": "flashback",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.889Z"
+    },
+    {
+      "id": "msoa5yht23gtft",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "charity",
+      "back": "慈善，施舍 (noun, B1)",
+      "context": "something you might do for people that's really pleasant nice thing for the world you've got one of your own with your brother a **charity**",
+      "audioStart": 164.34,
+      "audioEnd": 170.94,
+      "word": "charity",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.889Z"
+    },
+    {
+      "id": "msoa5yhtpsqs8h",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "subscribe",
+      "back": "订阅 (verb, B1)",
+      "context": "don't forget to **subscribe** and click the bell icon to keep up to date",
+      "audioStart": 193.2,
+      "audioEnd": 197.54,
+      "word": "subscribe",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:37.889Z"
+    },
+    {
+      "id": "msoa5xqppjdryt",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) worth if you score with a quaffle ___ points",
+      "back": "25",
+      "context": "worth if you score with a quaffle 25 points",
+      "audioStart": 53.9,
+      "audioEnd": 58.5,
+      "hint": "选项：25 / 10 / 15 / 30",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:36.913Z"
+    },
+    {
+      "id": "msoa5xqpvxsjq6",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) you it's easy yeah yeah at what train station does Dumbledore meet Harry at the start of ___",
+      "back": "half-blood",
+      "context": "you it's easy yeah yeah at what train station does Dumbledore meet Harry at the start of half-blood",
+      "audioStart": 119.9,
+      "audioEnd": 124.1,
+      "hint": "选项：half-blood / chamber of secrets / prisoner of azkaban / philosopher's stone",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:36.913Z"
+    },
+    {
+      "id": "msoa5xqp2ldtnr",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) and then you go for lunch in the middle you have a nice lunch it's a ___ day",
+      "back": "long",
+      "context": "and then you go for lunch in the middle you have a nice lunch it's a long day",
+      "audioStart": 44,
+      "audioEnd": 48.1,
+      "hint": "选项：good / short / long / busy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:36.913Z"
+    },
+    {
+      "id": "msoa5xqpw40smy",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) yeah but it's amazing all right let's crack through these okay in quidditch how many points is ___",
+      "back": "it",
+      "context": "yeah but it's amazing all right let's crack through these okay in quidditch how many points is it",
+      "audioStart": 50.5,
+      "audioEnd": 53.9,
+      "hint": "选项：it / there / this / that",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:36.913Z"
+    },
+    {
+      "id": "msoa5xqpg64nzi",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) really nice something you might do for people that's really pleasant nice thing for the world you've ___",
+      "back": "got",
+      "context": "really nice something you might do for people that's really pleasant nice thing for the world you've got",
+      "audioStart": 153.8,
+      "audioEnd": 159,
+      "hint": "选项：done / got / had / made",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:36.913Z"
+    },
+    {
+      "id": "msoa5xqpuccwis",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) on movies and tv podcast screen time on BBC sounds and you can find these interviews in ___",
+      "back": "full",
+      "context": "on movies and tv podcast screen time on BBC sounds and you can find these interviews in full",
+      "audioStart": 194.5,
+      "audioEnd": 198,
+      "hint": "选项：full / total / whole / part",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:36.913Z"
+    },
+    {
+      "id": "msoa5xqp488cau",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) and then you go for lunch in the middle you have a nice lunch it's a ___ day",
+      "back": "long",
+      "context": "and then you go for lunch in the middle you have a nice lunch it's a long day",
+      "audioStart": 44,
+      "audioEnd": 48.1,
+      "hint": "选项：short / long / busy / good",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:36.913Z"
+    },
+    {
+      "id": "msoa5xqpndaabc",
+      "videoId": "TSGNpVB2TQs",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And I've been avoiding it because I just didn't really ___ it.",
+      "back": "get",
+      "context": "And I've been avoiding it because I just didn't really get it.",
+      "audioStart": 12.6,
+      "audioEnd": 17.4,
+      "hint": "选项：get / understand / enjoy / like",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:36.913Z"
+    }
+  ]
+}

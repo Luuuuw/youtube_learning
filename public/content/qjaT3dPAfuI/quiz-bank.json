@@ -1,0 +1,599 @@
+{
+  "videoId": "qjaT3dPAfuI",
+  "title": "qjaT3dPAfuI",
+  "generatedAt": "2026-08-10T11:14:18.173Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 12,
+    "medium": 10,
+    "hard": 3,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the slang word 'fire' mean in the sentence 'The trip's been fire'?",
+      "options": [
+        "A) Dangerous and risky",
+        "B) Amazing and excellent",
+        "C) Hot in temperature",
+        "D) Boring and dull"
+      ],
+      "answer": "B",
+      "explanation": "在俚语中，'fire'表示'太棒了、太酷了'的意思，相当于amazing或excellent。说话者在描述这次旅行非常精彩、令人赞叹。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 550.4,
+      "endTime": 554.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fire",
+        "slang",
+        "amazing",
+        "trip"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'running a founder trip' mean in this context?",
+      "options": [
+        "A) Running away from a business trip",
+        "B) Jogging during a business event",
+        "C) Organizing/hosting a trip for business founders",
+        "D) Operating a running competition"
+      ],
+      "answer": "C",
+      "explanation": "'Running' here是组织、举办的意思，'founder trip'指的是创始人们的旅行。整句意思是在组织一场创始人们的旅行活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 61.3,
+      "endTime": 67.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "running",
+        "founder",
+        "trip",
+        "organize"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the phrase 'smashed it out of the park' likely mean?",
+      "options": [
+        "A) Broke something physically",
+        "B) Played baseball well",
+        "C) Did an excellent job / performed exceptionally",
+        "D) Destroyed property"
+      ],
+      "answer": "C",
+      "explanation": "'Smashed it'或'smashed it out of the park'是英语俚语，意思是'做得非常出色、表现极佳'。说话者在夸赞Finn和Noel在活动中表现非常棒。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 667.8,
+      "endTime": 672.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "smashed it",
+        "out of the park",
+        "perform",
+        "excellent"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "In the sentence 'I'm actually not crashing out', what does 'crashing out' most likely mean?",
+      "options": [
+        "A) Having a car accident",
+        "B) Falling asleep / going to bed",
+        "C) Quitting something angrily",
+        "D) Breaking down emotionally"
+      ],
+      "answer": "B",
+      "explanation": "'Crashing out'是英式俚语，意思是'去睡觉、倒下休息'。说话者在说自己现在还不打算去睡觉。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 122.4,
+      "endTime": 125.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "crashing out",
+        "sleep",
+        "slang",
+        "rest"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is a 'boat date' as mentioned in the video?",
+      "options": [
+        "A) A date on a calendar for shipping",
+        "B) A romantic outing on a boat",
+        "C) A business meeting on a ship",
+        "D) A type of sailing competition"
+      ],
+      "answer": "B",
+      "explanation": "'Boat date'字面意思是'船上约会'，指在船上进行的浪漫外出活动。结合上下文'trying on hats for our boat date tomorrow'，他们在为明天的船上约会试帽子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 204.7,
+      "endTime": 211,
+      "difficulty": "easy",
+      "relatedWords": [
+        "boat date",
+        "outing",
+        "romantic",
+        "hat"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "When the speaker says 'It's likely more fire than Lake Como', they are:",
+      "options": [
+        "A) Criticizing Lake Como",
+        "B) Comparing the current experience favorably to Lake Como",
+        "C) Saying Lake Como is on fire",
+        "D) Planning to visit Lake Como"
+      ],
+      "answer": "B",
+      "explanation": "这里'fire'是俚语'很棒'的意思。说话者是在将当前的旅行体验与之前在Lake Como（科莫湖）的体验做比较，认为这次可能比科莫湖还要精彩。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 558.2,
+      "endTime": 570.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Lake Como",
+        "compare",
+        "fire",
+        "experience"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "According to the video, what ingredients are in the dish being prepared?",
+      "options": [
+        "A) Tomatoes and mozzarella",
+        "B) Sweet potato and carrots with honey",
+        "C) Pasta and cheese",
+        "D) Rice and beans"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确提到'we have a sweet potato and carrots with honey'（我们有红薯、胡萝卜配蜂蜜），所以这道菜的主要食材是红薯、胡萝卜和蜂蜜。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 683.2,
+      "endTime": 697.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sweet potato",
+        "carrots",
+        "honey",
+        "dish"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is in the salad mentioned in the video?",
+      "options": [
+        "A) Lettuce and croutons",
+        "B) Caesar dressing and chicken",
+        "C) Feta, apple, tomatoes and rucola",
+        "D) Cucumber and ranch"
+      ],
+      "answer": "C",
+      "explanation": "字幕中提到'salad with feta and apple and tomatoes and rucola'，所以沙拉包含菲达奶酪（feta）、苹果、番茄和芝麻菜（rucola）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 697.9,
+      "endTime": 704.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "salad",
+        "feta",
+        "rucola",
+        "ingredients"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Why does the speaker say 'I didn't pick the size of the pizza'?",
+      "options": [
+        "A) They are not hungry",
+        "B) They don't like pizza",
+        "C) Someone else chose the pizza size for them",
+        "D) They forgot to order"
+      ],
+      "answer": "C",
+      "explanation": "说话者是在解释为什么pizza这么大或这么小——不是他自己选择的大小，而是别人帮他点的或选的尺寸。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 95.7,
+      "endTime": 114.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pizza",
+        "size",
+        "order",
+        "share"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'I closed one and potentially two more' mean in the business context?",
+      "options": [
+        "A) He shut down some businesses",
+        "B) He successfully completed one deal and may complete two more",
+        "C) He locked a door",
+        "D) He ended a conversation"
+      ],
+      "answer": "B",
+      "explanation": "在商业语境中，'close a deal'意思是'达成交易'。说话者是在说他成功完成了一笔交易，还可能再完成两笔。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 647.8,
+      "endTime": 655.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "close a deal",
+        "business",
+        "potentially",
+        "transaction"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is a 'golf cart' used for in this context?",
+      "options": [
+        "A) Playing golf",
+        "B) A small vehicle for getting around the area",
+        "C) Carrying sports equipment",
+        "D) Racing competition"
+      ],
+      "answer": "B",
+      "explanation": "Golf cart（高尔夫球车）是一种小型电动车，常用于在度假区或大型场地内代步。说话者提到他拿到了一辆高尔夫球车来使用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 304.3,
+      "endTime": 310.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "golf cart",
+        "vehicle",
+        "transport",
+        "trip"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "When the speaker says 'take this thing for a little bit of a spin', what does 'spin' mean?",
+      "options": [
+        "A) To rotate something quickly",
+        "B) To test drive or try out",
+        "C) To tell a story",
+        "D) To dance"
+      ],
+      "answer": "B",
+      "explanation": "口语中'give something a spin'或'take something for a spin'意思是'试试看、体验一下'，通常指试驾、试用某物。结合上下文，他们要试开某个东西（可能是船或车）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 328.1,
+      "endTime": 336.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spin",
+        "test drive",
+        "try out",
+        "experience"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'I got a bit burnt today, crispy' mean?",
+      "options": [
+        "A) Food was burnt while cooking",
+        "B) Got sunburned from the sun",
+        "C) A building caught fire",
+        "D) Felt embarrassed"
+      ],
+      "answer": "B",
+      "explanation": "在度假旅行的语境中，'got burnt'或'crispy'通常是口语化的说法，指被太阳晒伤、晒黑。'crispy'形容皮肤晒得像烤焦了一样。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 539.2,
+      "endTime": 541.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "burnt",
+        "sunburn",
+        "crispy",
+        "sun"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "The question 'How's the trip been so far?' is asking about:",
+      "options": [
+        "A) How long the trip will be",
+        "B) The cost of the trip",
+        "C) The experience of the trip up until now",
+        "D) The destination of the trip"
+      ],
+      "answer": "C",
+      "explanation": "'How's the trip been so far?'是一个常见的寒暄问题，询问对方到目前为止旅行的感受和经历。'so far'表示'到目前为止'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 537.7,
+      "endTime": 554.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "trip",
+        "experience",
+        "so far",
+        "question"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "In 'how many times have we been in Italy?', the verb tense used is:",
+      "options": [
+        "A) Simple past",
+        "B) Present perfect",
+        "C) Present continuous",
+        "D) Future simple"
+      ],
+      "answer": "B",
+      "explanation": "'have been'是现在完成时，表示从过去到现在已经发生的、累计的经验。'How many times have we been...'询问到目前为止去意大利的次数。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 35.4,
+      "endTime": 38,
+      "difficulty": "medium",
+      "relatedWords": [
+        "present perfect",
+        "have been",
+        "Italy",
+        "experience"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the speaker's reaction when someone says 'This is our second, no, third'?",
+      "options": [
+        "A) They are angry",
+        "B) They are unsure of the exact count and correcting themselves",
+        "C) They are celebrating",
+        "D) They are leaving"
+      ],
+      "answer": "B",
+      "explanation": "说话者一开始说是第二次（来意大利），然后马上改口说是第三次。这种'second, no, third'的表达反映了他在回忆和修正对次数的记忆。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 32.5,
+      "endTime": 38,
+      "difficulty": "easy",
+      "relatedWords": [
+        "second",
+        "third",
+        "count",
+        "correct"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'a little surprise after' likely mean in this context?",
+      "options": [
+        "A) A small problem coming up",
+        "B) An unexpected pleasant event planned",
+        "C) A small gift from a friend",
+        "D) A sudden accident"
+      ],
+      "answer": "B",
+      "explanation": "在旅行和活动语境中，'a little surprise'通常指一个计划好的、令人愉快的意外惊喜活动。结合上下文'after'（之后），意思是在之后安排了一个惊喜环节。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 258,
+      "endTime": 260.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "surprise",
+        "plan",
+        "event",
+        "gift"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "Which activity is NOT mentioned in the video?",
+      "options": [
+        "A) Playing tennis",
+        "B) Trying on hats",
+        "C) Riding a golf cart",
+        "D) Skiing in the mountains"
+      ],
+      "answer": "D",
+      "explanation": "视频中提到了打网球（tennis）、试帽子（trying on hats）、开高尔夫球车（golf cart），但没有提到在山上滑雪（skiing）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 204.7,
+      "endTime": 308,
+      "difficulty": "easy",
+      "relatedWords": [
+        "tennis",
+        "hats",
+        "golf cart",
+        "activities"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "Where is the group planning to go after the current trip?",
+      "options": [
+        "A) South France and Monaco",
+        "B) New York and Boston",
+        "C) Tokyo and Seoul",
+        "D) London and Paris"
+      ],
+      "answer": "A",
+      "explanation": "字幕中提到'South France and Monaco'（法国南部和摩纳哥），这是他们计划接下来的旅行目的地。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 603,
+      "endTime": 606,
+      "difficulty": "easy",
+      "relatedWords": [
+        "South France",
+        "Monaco",
+        "travel",
+        "destination"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'Cruise maxing' mean in the context of the video?",
+      "options": [
+        "A) Driving at maximum speed",
+        "B) Fully enjoying a cruise/boat ride",
+        "C) Maximizing cruise ship tickets",
+        "D) Working on cruise ships"
+      ],
+      "answer": "B",
+      "explanation": "'Cruise maxing'是网络俚语，由'maxing'（最大化享受）+'cruise'（巡游/坐船游玩）组成，意思是'尽情享受坐船巡游的乐趣'。'Let's f***ing go'表达兴奋之情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 441.6,
+      "endTime": 443.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "cruise",
+        "maxing",
+        "slang",
+        "enjoy"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "The word 'peaceful' in 'the most peaceful' describes what aspect of the trip?",
+      "options": [
+        "A) The food was quiet",
+        "B) The atmosphere was calm and relaxing",
+        "C) The people were silent",
+        "D) The trip was boring"
+      ],
+      "answer": "B",
+      "explanation": "'Peaceful'意思是'平静的、安宁的'，在这里描述旅行的氛围非常宁静、放松、舒适，让人心旷神怡。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 550.4,
+      "endTime": 561.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "peaceful",
+        "calm",
+        "relaxing",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Based on the video, describe the founder trip. Include where they are, what activities they are doing, and the overall atmosphere.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为口语复述题。学生应能综合视频内容描述这次创始人旅行，包括地点（意大利，可能是Lake Como附近）、活动（商务会谈、用餐、试帽子、坐船巡游、开高尔夫球车等）以及整体氛围（和平、放松、像'fire'一样精彩）。",
+      "referenceAnswer": "They are on a founder trip in Italy, around Lake Como area. About 10 founders flew out together. They mix business meetings with leisure activities: having coffee, trying on hats for a boat date, riding golf carts, playing tennis, eating pizza, having private dinners. They also close business deals. The atmosphere is described as 'fire' (amazing) and 'peaceful', located in a country town on a lake. They plan to continue to South France and Monaco.",
+      "hint": "Think about: location, number of people, business vs leisure balance, types of food, future plans.",
+      "startTime": 61.3,
+      "endTime": 86.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "founder trip",
+        "Italy",
+        "Lake Como",
+        "business",
+        "leisure"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Describe the food mentioned in the video. What dishes and ingredients are featured?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察学生提取食物相关细节并复述的能力。",
+      "referenceAnswer": "The video mentions several food items: 1) Pizza - they are eating pizza, though the size wasn't chosen by the speaker. 2) Sweet potato and carrots with honey - a dish they prepared. 3) Salad with feta cheese, apple, tomatoes, and rucola (arugula). 4) A 'private dinner' was arranged. The food seems to be a mix of casual (pizza) and more refined dishes with fresh local ingredients.",
+      "hint": "Mention pizza, the sweet potato/carrot/honey dish, the salad with feta/apple/tomatoes/rucola, and the private dinner.",
+      "startTime": 95.7,
+      "endTime": 114.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pizza",
+        "sweet potato",
+        "salad",
+        "feta",
+        "honey"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "What business activities happened during the trip? Use specific phrases from the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察学生理解商务相关英语表达并进行口语复述的能力。",
+      "referenceAnswer": "Several business activities took place: 1) 'Talking business with a bunch of people' - they discussed business with various people. 2) 'I closed one and potentially two more' - the speaker successfully closed one deal and possibly two more. 3) It was 'a founder trip' with about 10 founders. 4) The trip was 'opening' (opening deals/opportunities). The trip combined business networking with leisure activities.",
+      "hint": "Think about: closing deals, talking business, opening opportunities, the purpose of a founder trip.",
+      "startTime": 647.8,
+      "endTime": 672.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "business",
+        "close a deal",
+        "founder",
+        "networking"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Explain the meaning and use of the slang word 'fire' based on how it is used in the video. Give examples of similar slang expressions.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察学生对俚语的理解以及英语口语表达能力。",
+      "referenceAnswer": "In the video, 'fire' is used as slang to mean 'amazing, excellent, incredible'. Examples from the video: 'The trip's been fire' (the trip is amazing), 'It's likely more fire than Lake Como' (it might be even better than Lake Como). 'Fire' originates from hip-hop culture and is used by younger generations to describe something outstanding. Similar slang expressions include: 'lit', 'sick', 'dope', 'clutch', 'goated'. It can be used for events, people, music, food, or anything impressive.",
+      "hint": "Think about: meaning, origin, examples in the video, similar slang words like 'lit', 'sick', 'dope'.",
+      "startTime": 550.4,
+      "endTime": 570.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "fire",
+        "slang",
+        "amazing",
+        "lit",
+        "expressions"
+      ]
+    }
+  ]
+}

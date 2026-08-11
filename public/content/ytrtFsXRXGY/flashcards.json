@@ -1,0 +1,379 @@
+{
+  "videoId": "ytrtFsXRXGY",
+  "generatedAt": "2026-08-11T06:31:40.747Z",
+  "cards": [
+    {
+      "id": "msoa8laiera3id",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "insane",
+      "back": "疯狂的，极度的 (adjective, B2)",
+      "context": "And the noise of it, like when it was going up, it was **insane**.",
+      "audioStart": 567.53,
+      "audioEnd": 571.51,
+      "word": "insane",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.746Z"
+    },
+    {
+      "id": "msoa8laibs9gxu",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "consume",
+      "back": "消耗，吃喝 (verb, B1)",
+      "context": "How much Nutella do you **consume** a week?",
+      "audioStart": 37.5,
+      "audioEnd": 39.66,
+      "word": "consume",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.746Z"
+    },
+    {
+      "id": "msoa8lajsv8av5",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "coordinate",
+      "back": "协调，配合 (verb, B2)",
+      "context": "Who **coordinated** the offense?",
+      "audioStart": 100.28,
+      "audioEnd": 101.96,
+      "word": "coordinate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8lajuk0e68",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "ceramic",
+      "back": "陶瓷的 (adjective, B2)",
+      "context": "And those are **ceramic**, basically heat shield tiles.",
+      "audioStart": 307.26,
+      "audioEnd": 310.64,
+      "word": "ceramic",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8lajqmkpib",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "robust",
+      "back": "坚固的，耐用的 (adjective, C1)",
+      "context": "So hopefully this time the heat shield should be more **robust**.",
+      "audioStart": 548.03,
+      "audioEnd": 550.45,
+      "word": "robust",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8laj089eye",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sacrifice",
+      "back": "牺牲 (verb, B2)",
+      "context": "You can potentially get it down to three or four months if you're willing to **sacrifice** payload.",
+      "audioStart": 612.83,
+      "audioEnd": 616.51,
+      "word": "sacrifice",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8laj58wvgj",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "maximize",
+      "back": "最大化 (verb, B2)",
+      "context": "At the beginning, we'd **maximize** payload to be like six months.",
+      "audioStart": 629.69,
+      "audioEnd": 634.51,
+      "word": "maximize",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8laj8sbkso",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "epic",
+      "back": "史诗般的，极好的 (adjective, B2)",
+      "context": "I mean it's one of the most **epic** games that he has ever done.",
+      "audioStart": 649.39,
+      "audioEnd": 651.67,
+      "word": "epic",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8lajx838r2",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "perspective",
+      "back": "视角，观点 (noun, B2)",
+      "context": "I think that changed my entire **perspective** on the world.",
+      "audioStart": 692.67,
+      "audioEnd": 695.83,
+      "word": "perspective",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8lajfhojq5",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "volunteer",
+      "back": "自愿做 (verb, B1)",
+      "context": "He would not **volunteer** going in the spaceship, but it's okay.",
+      "audioStart": 573.53,
+      "audioEnd": 577.45,
+      "word": "volunteer",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8lajwrom27",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "thrust",
+      "back": "推力 (noun, C1)",
+      "context": "That'll be longer and have a lot more **thrust** and have the next generation engines.",
+      "audioStart": 473.63,
+      "audioEnd": 479.61,
+      "word": "thrust",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8lajihi46s",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "steeper",
+      "back": "更陡峭的 (adjective, B2)",
+      "context": "This time we're going to enter at a **steeper** angle than before so it's going to be a higher heating.",
+      "audioStart": 530.03,
+      "audioEnd": 536.37,
+      "word": "steeper",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:40.747Z"
+    },
+    {
+      "id": "msoa8jxf06lhz9",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) What's up guys, welcome back to the channel Today we are on Trump Force ___",
+      "back": "1",
+      "context": "What's up guys, welcome back to the channel Today we are on Trump Force 1",
+      "audioStart": 9.9,
+      "audioEnd": 12.9,
+      "hint": "选项：3 / 4 / 2 / 1",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:38.979Z"
+    },
+    {
+      "id": "msoa8jxfrah58j",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Do you ready? She always cheats, so we can't ___",
+      "back": "play",
+      "context": "Do you ready? She always cheats, so we can't play.",
+      "audioStart": 85.2,
+      "audioEnd": 89.3,
+      "hint": "选项：win / work / play / lose",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:38.979Z"
+    },
+    {
+      "id": "msoa8jxftpns1c",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We actually have better versions that are in production in those factories over ___",
+      "back": "there",
+      "context": "We actually have better versions that are in production in those factories over there.",
+      "audioStart": 448.6,
+      "audioEnd": 453.6,
+      "hint": "选项：here / there / where / everywhere",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:38.979Z"
+    },
+    {
+      "id": "msoa8jxfdb5ot7",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You can see on those screens up there, that's the ship that is now going around the ___",
+      "back": "Earth",
+      "context": "You can see on those screens up there, that's the ship that is now going around the Earth.",
+      "audioStart": 479.5,
+      "audioEnd": 483.9,
+      "hint": "选项：Mars / Moon / Earth / Sun",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:38.979Z"
+    },
+    {
+      "id": "msoa8jxfbylavz",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So it's actually going through the dock side of the ___",
+      "back": "Earth",
+      "context": "So it's actually going through the dock side of the Earth.",
+      "audioStart": 487.9,
+      "audioEnd": 491,
+      "hint": "选项：Earth / Mars / Moon / Sun",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:38.979Z"
+    },
+    {
+      "id": "msoa8jxff8o9d3",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It looks like special effects, because it's like every color. It's like purple, red, ___",
+      "back": "white",
+      "context": "It looks like special effects, because it's like every color. It's like purple, red, white.",
+      "audioStart": 510.4,
+      "audioEnd": 517.2,
+      "hint": "选项：blue / green / white / black",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:38.979Z"
+    },
+    {
+      "id": "msoa8jxftgdde7",
+      "videoId": "ytrtFsXRXGY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) But this But this one won't be reused? This one will not be reused. So this one is all about just ___",
+      "back": "learning",
+      "context": "But this But this one won't be reused? This one will not be reused. So this one is all about just learning.",
+      "audioStart": 523.4,
+      "audioEnd": 527.6,
+      "hint": "选项：teaching / learning / playing / working",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:38.979Z"
+    }
+  ]
+}

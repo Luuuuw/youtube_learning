@@ -1,0 +1,566 @@
+{
+  "videoId": "kpnYw9minjY",
+  "title": "kpnYw9minjY",
+  "generatedAt": "2026-08-10T11:03:07.374Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 14,
+    "medium": 11,
+    "hard": 0,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the word 'hilarious' mean in the sentence 'Oh God, the bags over the camera, this is hilarious'?",
+      "options": [
+        "A) Boring and dull",
+        "B) Extremely funny and amusing",
+        "C) Scary and frightening",
+        "D) Sad and depressing"
+      ],
+      "answer": "B",
+      "explanation": "'Hilarious' 意为'非常滑稽、引人发笑的'。在这句话中，说话者用幽默的方式描述有人把袋子盖在摄像头上的行为，觉得这个场景非常搞笑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 3.7,
+      "endTime": 7.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hilarious",
+        "funny",
+        "amusing"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is a 'bar brawl' as used in the sentence 'Now you just turned it into a bar brawl'?",
+      "options": [
+        "A) A formal dancing event",
+        "B) A quiet conversation at a bar",
+        "C) A rough, noisy fight in a bar",
+        "D) A celebration party"
+      ],
+      "answer": "C",
+      "explanation": "'Bar brawl' 意为'酒吧里的斗殴/打架'。这里说话者在打趣地形容某个人把一个原本平和的场景变得像酒吧打架一样混乱热闹。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 199.1,
+      "endTime": 201.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bar brawl",
+        "fight",
+        "chaos"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the phrase 'we meet again' suggest in the context 'Billie Eilish, we meet again. We meet again.'?",
+      "options": [
+        "A) It's their very first meeting",
+        "B) They haven't met for a long time",
+        "C) They are meeting each other again after a previous encounter",
+        "D) They are complete strangers"
+      ],
+      "answer": "C",
+      "explanation": "'We meet again' 意为'我们又见面了'。这句话暗示双方之前已经见过面，这次是再次相遇，常用于熟人之间的友好打招呼。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 9.2,
+      "endTime": 12.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "we meet again",
+        "greeting",
+        "reunion"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the exclamation 'Hit it!' most likely mean in this context?",
+      "options": [
+        "A) Punch someone",
+        "B) Strike an object",
+        "C) Start playing the music or begin the action",
+        "D) Stop the performance"
+      ],
+      "answer": "C",
+      "explanation": "'Hit it!' 是一个非正式的口语表达，通常用于让某人开始表演、播放音乐或开始某项活动。在这个场景中，主持人示意开始某项动作或游戏。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 36.4,
+      "endTime": 38,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hit it",
+        "start",
+        "begin"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What is the rule of the game 'Simon Says' based on the video?",
+      "options": [
+        "A) Players must always follow the command",
+        "B) Players only follow commands preceded by 'Simon says'",
+        "C) Players can choose to follow or not follow any command",
+        "D) The person named Simon decides the rules"
+      ],
+      "answer": "B",
+      "explanation": "'Simon Says'（西蒙说）是一个经典游戏，玩家只有在指令以'Simon says'开头时才执行该动作。否则做出动作的人就会被淘汰。视频中主持人反复强调'Simon says'，正是这个游戏的标志。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 62.9,
+      "endTime": 74.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Simon says",
+        "game",
+        "rules"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 're-record a song' mean in the context 'If you could go back and re-record a song, which song would you pick'?",
+      "options": [
+        "A) Listen to a song again",
+        "B) Record a new version of an existing song",
+        "C) Delete a song completely",
+        "D) Download a song from the internet"
+      ],
+      "answer": "B",
+      "explanation": "'Re-record' 意为'重新录制'。这里主持人问 Billie Eilish，如果可以回到过去重新录制一首歌，她会选择哪一首，意味着重新做一个新的版本。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 65.1,
+      "endTime": 67.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "re-record",
+        "song",
+        "version"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the expression 'That's a moment' imply in this context?",
+      "options": [
+        "A) Something brief and unimportant",
+        "B) A significant or memorable occasion",
+        "C) A mathematical calculation",
+        "D) A time measurement"
+      ],
+      "answer": "B",
+      "explanation": "'That's a moment' 在口语中用来形容某个特别、有意义、值得纪念的瞬间或时刻，强调这个经历的重要性和独特性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 108.4,
+      "endTime": 109.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "moment",
+        "significant",
+        "memorable"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'having the time of your life' mean in the sentence 'You just look like you're having the time of your life doing it'?",
+      "options": [
+        "A) Being extremely bored",
+        "B) Feeling very tired",
+        "C) Enjoying oneself immensely",
+        "D) Working very hard"
+      ],
+      "answer": "C",
+      "explanation": "'Having the time of your life' 是一个常用习语，意为'玩得非常开心、享受极了'。这里说话者在描述对方做某事时显得非常投入和享受。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 138.5,
+      "endTime": 141.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "having the time of your life",
+        "enjoy",
+        "happy"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'In 3D' most likely refer to in this video context?",
+      "options": [
+        "A) A three-dimensional physical object",
+        "B) A movie shown with special effects that create depth perception",
+        "C) A type of camera",
+        "D) A musical instrument"
+      ],
+      "answer": "B",
+      "explanation": "'In 3D' 在影视语境中指的是三维立体电影，利用特殊眼镜让画面具有深度感。结合前文提到的 Titanic 和 Avatar 等电影，这里指的应该是 3D 电影。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 128.8,
+      "endTime": 159.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "3D",
+        "movie",
+        "film"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "In the context 'I'm going to miss', what is the speaker most likely referring to?",
+      "options": [
+        "A) Missing a bus or train",
+        "B) Missing someone or something",
+        "C) Missing a class",
+        "D) Missing a meal"
+      ],
+      "answer": "B",
+      "explanation": "根据语境（即将进行某种动作 'Ready? All right, go'），'I'm going to miss' 这里很可能是指想念某人或某事，或者错过某次见面/活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 165,
+      "endTime": 166.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "miss",
+        "absent",
+        "longing"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'You can barely see' mean?",
+      "options": [
+        "A) You can see very clearly",
+        "B) It's almost impossible to see anything",
+        "C) You can see only a little, with difficulty",
+        "D) You don't want to see at all"
+      ],
+      "answer": "C",
+      "explanation": "'Barely' 意为'几乎不、勉强'。'You can barely see' 表示'你几乎看不见'或者'你只能勉强看到一点点'，强调视觉上的困难。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 167.7,
+      "endTime": 168.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "barely",
+        "see",
+        "hardly"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the expression 'Here she goes' mean in this context?",
+      "options": [
+        "A) She is leaving forever",
+        "B) She is about to start doing something",
+        "C) She is going shopping",
+        "D) She is going on a trip"
+      ],
+      "answer": "B",
+      "explanation": "'Here she goes' 是一个口语表达，意为'她开始了'，通常用于某人即将开始做某事（尤其是预料中的或有趣的事情）时。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 272.9,
+      "endTime": 274.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "here she goes",
+        "begin",
+        "start"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What emotion does the phrase 'What the hell is going on?' express?",
+      "options": [
+        "A) Joy and excitement",
+        "B) Calm curiosity",
+        "C) Confusion, surprise, or frustration",
+        "D) Sadness and grief"
+      ],
+      "answer": "C",
+      "explanation": "'What the hell is going on?' 是一个表示困惑、惊讶或不满的强烈表达，相当于'到底发生了什么事？'，常带有不耐烦或震惊的语气。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 16.2,
+      "endTime": 18.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "what the hell",
+        "confusion",
+        "surprise"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'My heart's beating though, right?' express about the speaker's feeling?",
+      "options": [
+        "A) They are completely calm and relaxed",
+        "B) They feel nervous, excited, or anxious",
+        "C) They are physically ill",
+        "D) They are deeply asleep"
+      ],
+      "answer": "B",
+      "explanation": "心跳加速通常与紧张、兴奋或焦虑相关。'My heart's beating though, right?' 表达了说话者由于某种刺激（如刚才的体验）而感到兴奋或紧张的情绪。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 54.2,
+      "endTime": 56.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "heart beating",
+        "nervous",
+        "excited"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the meaning of 'He is a man called Simon' in the video?",
+      "options": [
+        "A) Simon is a woman's name",
+        "B) Simon is the name of a man being referenced",
+        "C) The speaker is looking for Simon",
+        "D) Simon is an animal"
+      ],
+      "answer": "B",
+      "explanation": "这句话简单直接地说明了 Simon 是一个男人的名字。这是主持人对游戏'Simon Says'中'Simon'一词的解释，说明游戏指令来自一个名叫 Simon 的人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 69.1,
+      "endTime": 71.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Simon",
+        "name",
+        "man"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'It's pretty cool, right?' mean?",
+      "options": [
+        "A) It's very cold",
+        "B) It's quite impressive or nice",
+        "C) It's ugly and unpleasant",
+        "D) It's boring"
+      ],
+      "answer": "B",
+      "explanation": "'Pretty cool' 在口语中是'相当不错、很酷、挺棒'的意思。这里说话者在寻求对方认同，表达对某事比较满意或欣赏的态度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 122.8,
+      "endTime": 123.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pretty cool",
+        "nice",
+        "impressive"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the opening line 'She's regretting saying yes to this' suggest?",
+      "options": [
+        "A) The woman is very happy about her decision",
+        "B) The woman is reconsidering her agreement to participate",
+        "C) The woman doesn't know what's happening",
+        "D) The woman is leaving immediately"
+      ],
+      "answer": "B",
+      "explanation": "'Regretting saying yes to this' 意为'后悔答应了这件事'。这句话暗示视频中的女士可能因为某项活动或经历而开始感到后悔当初同意参加。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 2.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "regret",
+        "saying yes",
+        "hesitate"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'questions from our listeners' mean?",
+      "options": [
+        "A) Questions made up by the host",
+        "B) Questions submitted by the audience who watch or listen to the show",
+        "C) Questions from the guest's family",
+        "D) Questions from teachers"
+      ],
+      "answer": "B",
+      "explanation": "'Listeners' 意为'听众/观众'。'Questions from our listeners' 指'来自我们听众/观众的问题'，说明节目是互动式的，会收集观众提问。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 19.9,
+      "endTime": 21.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "listeners",
+        "audience",
+        "questions"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "Which of the following is the closest synonym for 'hilarious' as used in the video?",
+      "options": [
+        "A) Dull",
+        "B) Boring",
+        "C) Hysterical",
+        "D) Tragic"
+      ],
+      "answer": "C",
+      "explanation": "'Hilarious' 和 'hysterical' 都可以表示'极其搞笑的'，是近义词。其他选项 'dull'（无聊的）、'boring'（乏味的）、'tragic'（悲剧的）都表达负面或不相关的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 3.7,
+      "endTime": 7.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "synonym",
+        "hilarious",
+        "hysterical"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "Based on the video, what is Billie Eilish likely talking about when she says 'Probably something from when I was like 15'?",
+      "options": [
+        "A) Her favorite food at age 15",
+        "B) A song she would re-record from her earlier years",
+        "C) A movie she watched at 15",
+        "D) A book she read as a teenager"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文，主持人问的是'If you could re-record a song, which one would you pick?'，所以 Billie 回答'something from when I was like 15' 是指她在 15 岁左右录制的某首歌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 86.3,
+      "endTime": 94.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "re-record",
+        "song",
+        "age"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "If you could go back and re-record one of your favorite songs, which song would you choose and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放性口语题，参考视频中 Billie Eilish 回答类似问题的形式。学习者可以自由发挥，分享自己最想重新录制的歌曲以及原因，例如当时唱功不够好、想改变某些部分等。",
+      "referenceAnswer": "I would choose [song name] because back then my vocal technique wasn't mature enough, and I think I could bring more emotion and better interpretation to it now. Plus, the original recording didn't fully capture what I wanted to express.",
+      "hint": "Think about a song that means something special to you. Explain when you first heard it, why you like it, and what you would change if you could re-record it.",
+      "startTime": 65.1,
+      "endTime": 94.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "re-record",
+        "song",
+        "favorite"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speaker says 'Can I just say, I love the movie so much.' Tell us about a movie that you absolutely love and explain why you love it so much.",
+      "options": [],
+      "answer": "open",
+      "explanation": "学习者需要介绍一部自己非常喜欢的电影，并解释原因。可以从剧情、演员、视觉效果、情感共鸣等方面展开描述。",
+      "referenceAnswer": "I absolutely love the movie [movie name]. It's a [genre] film that I can watch over and over again. What I love most about it is the storyline - it's so emotional and keeps me on the edge of my seat. The acting is phenomenal, especially [actor's name]. The cinematography is also breathtaking.",
+      "hint": "Mention the movie title, the genre, what happens in the story, and specifically what makes you love it (acting, plot, visuals, music, etc.).",
+      "startTime": 113.3,
+      "endTime": 116.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "movie",
+        "love",
+        "favorite"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Describe a memorable 'moment' in your life. What happened and why was it so special to you?",
+      "options": [],
+      "answer": "open",
+      "explanation": "参考视频中'That's a moment'的用法，学习者可以描述一个特别的瞬间或经历。重点是讲述事件的内容、发生的时间地点以及为什么这个时刻对他们很重要。",
+      "referenceAnswer": "One moment that really stands out to me is when [describe event]. It happened [when/where] and I remember feeling [emotion]. It was special because it changed my perspective on [topic] and made me realize [lesson learned].",
+      "hint": "Choose a specific moment, set the scene (when and where), describe what happened, and explain why it was meaningful to you.",
+      "startTime": 108.4,
+      "endTime": 109.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "moment",
+        "memory",
+        "special"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The speaker mentions 'I started in like 2018 or 2019 at shows having...'. Talk about when you first started doing something you now love, and how you got into it.",
+      "options": [],
+      "answer": "open",
+      "explanation": "参考 Billie 谈论自己开始某个活动的经历，学习者需要介绍自己开始从事某项爱好或活动的时间、契机和体验。可以用过去时描述自己初学的经历。",
+      "referenceAnswer": "I first started [activity/hobby] around [year]. I got into it because [reason]. At first, I was really nervous and didn't know if I was good at it, but over time I improved and started to really enjoy it. Now it's become a big part of my life.",
+      "hint": "Talk about the activity, when you started, what motivated you, how you felt at the beginning, and how things have developed since then.",
+      "startTime": 221.6,
+      "endTime": 229.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "started",
+        "experience",
+        "hobby"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Imagine you're playing 'Simon Says' with friends. Give three funny or creative commands and explain what would happen if someone forgets to say 'Simon says' first.",
+      "options": [],
+      "answer": "open",
+      "explanation": "结合视频中'Simon Says'游戏的情境，学习者需要展示对这个游戏的理解，并创造性地设计游戏指令。同时解释游戏规则（没说 Simon says 的人执行动作会被淘汰）。",
+      "referenceAnswer": "Here are some fun Simon Says commands: 1) 'Simon says touch your toes' 2) 'Simon says hop on one foot' 3) 'Simon says make a funny face'. If I just said 'touch your toes' without 'Simon says', anyone who did it would be out. That's the trick of the game - you have to listen carefully!",
+      "hint": "Create 3 different 'Simon says' commands, and also explain a trick: give a command without saying 'Simon says' to see if players are paying attention.",
+      "startTime": 62.9,
+      "endTime": 74.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Simon says",
+        "game",
+        "commands"
+      ]
+    }
+  ]
+}

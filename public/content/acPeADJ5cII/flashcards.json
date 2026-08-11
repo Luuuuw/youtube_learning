@@ -1,0 +1,417 @@
+{
+  "videoId": "acPeADJ5cII",
+  "generatedAt": "2026-08-11T06:22:30.152Z",
+  "cards": [
+    {
+      "id": "mso9wsg8doo510",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "premiere",
+      "back": "首映，首演 (noun, B2)",
+      "context": "Come get ready with us for the challenge **premiere**.",
+      "audioStart": 3.48,
+      "audioEnd": 8.48,
+      "word": "premiere",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8i88av8",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "lifestyle",
+      "back": "生活方式 (noun, B1)",
+      "context": "This whole tennis thing is also more about a **lifestyle**, right?",
+      "audioStart": 46.56,
+      "audioEnd": 50.78,
+      "word": "lifestyle",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8pm945g",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "literal",
+      "back": "字面的，实际的 (adjective, B2)",
+      "context": "Yeah, rather than a **literal**.",
+      "audioStart": 49.98,
+      "audioEnd": 51.72,
+      "word": "literal",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8vhci0z",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "progress",
+      "back": "进展，进步 (verb, B1)",
+      "context": "I think how she had, as they **progressed** and they got older, she had a certain lifestyle.",
+      "audioStart": 51.24,
+      "audioEnd": 56.08,
+      "word": "progress",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8aaj0fq",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "introduce",
+      "back": "介绍，引入 (verb, B1)",
+      "context": "I think for me it's either the way we start out with punching them in the face or we start **introducing** this new character to the world.",
+      "audioStart": 61.34,
+      "audioEnd": 71.12,
+      "word": "introduce",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8qqs3jz",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "pupil",
+      "back": "学生，弟子 (noun, B2)",
+      "context": "I'm your brightest **pupil**.",
+      "audioStart": 88.69,
+      "audioEnd": 90.47,
+      "word": "pupil",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg80v7clm",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "canvas",
+      "back": "画布，帆布 (noun, B2)",
+      "context": "Became this beautiful **canvas** to help me express myself and let me become this this.",
+      "audioStart": 90.83,
+      "audioEnd": 98.85,
+      "word": "canvas",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8t17jay",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "metaphor",
+      "back": "隐喻，比喻 (noun, B2)",
+      "context": "We love a **metaphor**.",
+      "audioStart": 105.63,
+      "audioEnd": 106.79,
+      "word": "metaphor",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8723k7w",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "anxious",
+      "back": "焦虑的，不安的 (adjective, B1)",
+      "context": "I'm very **anxious** and uncomfortable when I'm getting ready, very quiet.",
+      "audioStart": 129.63,
+      "audioEnd": 134.15,
+      "word": "anxious",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8nlmfzn",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intricate",
+      "back": "复杂精细的 (adjective, C1)",
+      "context": "What's the most **intricate** thing you have to do?",
+      "audioStart": 153.91,
+      "audioEnd": 155.19,
+      "word": "intricate",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8ax9j0j",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intertwine",
+      "back": "缠绕，交织 (verb, C1)",
+      "context": "Three complicated people whose lives are **intertwined** and connected through tennis and love and hate and all the things over many, many years.",
+      "audioStart": 164.95,
+      "audioEnd": 172.39,
+      "word": "intertwine",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wsg8hs3rko",
+      "videoId": "acPeADJ5cII",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "unapologetic",
+      "back": "不道歉的，不悔悟的 (adjective, C1)",
+      "context": "But I think her **unapologetic** harshness, I think, is something I've never really played a character like that before.",
+      "audioStart": 224.27,
+      "audioEnd": 233.16,
+      "word": "unapologetic",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:30.152Z"
+    },
+    {
+      "id": "mso9wqv7ac86u2",
+      "videoId": "acPeADJ5cII",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's our 13th year I think. It's our 13th year of ___",
+      "back": "collage",
+      "context": "It's our 13th year I think. It's our 13th year of collage.",
+      "audioStart": 74.5,
+      "audioEnd": 77.5,
+      "hint": "选项：village / college / message / collage",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:28.100Z"
+    },
+    {
+      "id": "mso9wqv88581pk",
+      "videoId": "acPeADJ5cII",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We want to make sure that we're giving the people that first ___ taste.",
+      "back": "write",
+      "context": "We want to make sure that we're giving the people that first write taste.",
+      "audioStart": 110.7,
+      "audioEnd": 116.3,
+      "hint": "选项：light / right / bite / write",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:28.100Z"
+    },
+    {
+      "id": "mso9wqv8eufxo3",
+      "videoId": "acPeADJ5cII",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Today we are going for the old ___ look.",
+      "back": "money",
+      "context": "Today we are going for the old money look.",
+      "audioStart": 142.7,
+      "audioEnd": 146.5,
+      "hint": "选项：fashion / style / school / money",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:28.100Z"
+    },
+    {
+      "id": "mso9wqv8tharrz",
+      "videoId": "acPeADJ5cII",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's going to be big and ___ and, you know, we're going to have a little fun.",
+      "back": "sexy",
+      "context": "It's going to be big and sexy and, you know, we're going to have a little fun.",
+      "audioStart": 148.1,
+      "audioEnd": 152.2,
+      "hint": "选项：crazy / loud / sexy / happy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:28.100Z"
+    },
+    {
+      "id": "mso9wqv8yd1ygt",
+      "videoId": "acPeADJ5cII",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) love and hate and all the things over many, many ___",
+      "back": "years",
+      "context": "love and hate and all the things over many, many years.",
+      "audioStart": 172.4,
+      "audioEnd": 178.2,
+      "hint": "选项：days / weeks / months / years",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:28.100Z"
+    },
+    {
+      "id": "mso9wqv8co799b",
+      "videoId": "acPeADJ5cII",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I think, you know, people see me as a ___ since I was a teenager for so long.",
+      "back": "teenager",
+      "context": "I think, you know, people see me as a teenager since I was a teenager for so long.",
+      "audioStart": 205.3,
+      "audioEnd": 210.2,
+      "hint": "选项：teenager / student / adult / child",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:28.100Z"
+    },
+    {
+      "id": "mso9wqv82aa0w5",
+      "videoId": "acPeADJ5cII",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Well, technically I do still play a ___ at some",
+      "back": "teenager",
+      "context": "Well, technically I do still play a teenager at some",
+      "audioStart": 218.9,
+      "audioEnd": 223.3,
+      "hint": "选项：teenager / child / student / adult",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:28.100Z"
+    },
+    {
+      "id": "mso9wqv8t89tz6",
+      "videoId": "acPeADJ5cII",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Once you see it, it'll make more ___ why it's hard for me to describe",
+      "back": "sense",
+      "context": "Once you see it, it'll make more sense why it's hard for me to describe",
+      "audioStart": 236.5,
+      "audioEnd": 239.8,
+      "hint": "选项：point / reason / sense / meaning",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:28.100Z"
+    },
+    {
+      "id": "mso9wq3ct6roz6",
+      "videoId": "acPeADJ5cII",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "网球这件事更像是一种生活方式，对吧？ 网球这件事更像是一种生活方式，对吧？\nYeah, ___ ___ a literal.",
+      "back": "rather / than",
+      "context": "Yeah, rather than a literal.",
+      "audioStart": 49.979,
+      "audioEnd": 51.719,
+      "hint": "rather than",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:27.096Z"
+    }
+  ]
+}

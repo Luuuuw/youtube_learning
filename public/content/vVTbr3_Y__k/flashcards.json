@@ -1,0 +1,360 @@
+{
+  "videoId": "vVTbr3_Y__k",
+  "generatedAt": "2026-08-11T06:30:27.764Z",
+  "cards": [
+    {
+      "id": "msoa70z7yhh9md",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "messed",
+      "back": "搞砸 (verb, B1)",
+      "context": "Oh, I've already **messed** it up.",
+      "audioStart": 2.72,
+      "audioEnd": 4.34,
+      "word": "messed",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.763Z"
+    },
+    {
+      "id": "msoa70z7abfubo",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "improvised",
+      "back": "即兴的 (adjective, B2)",
+      "context": "I'm doing my **improvised** version",
+      "audioStart": 56.36,
+      "audioEnd": 60.42,
+      "word": "improvised",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.763Z"
+    },
+    {
+      "id": "msoa70z7amxxr2",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "garnish",
+      "back": "装饰 (noun, B2)",
+      "context": "Oh **garnish** you put it on like this",
+      "audioStart": 107.98,
+      "audioEnd": 117.46,
+      "word": "garnish",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.763Z"
+    },
+    {
+      "id": "msoa70z7w5ps8v",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "instinctively",
+      "back": "本能地 (adverb, B2)",
+      "context": "I **instinctively** was reading",
+      "audioStart": 125.98,
+      "audioEnd": 132.14,
+      "word": "instinctively",
+      "tags": [
+        "CEFR-B2",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.763Z"
+    },
+    {
+      "id": "msoa70z77pr2x2",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "brutal",
+      "back": "残酷的 (adjective, B2)",
+      "context": "ended up being incredibly **brutal** on the character",
+      "audioStart": 143.1,
+      "audioEnd": 149.44,
+      "word": "brutal",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.763Z"
+    },
+    {
+      "id": "msoa70z7riznrt",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bonding",
+      "back": "增进感情 (noun, B2)",
+      "context": "It was a nice **bonding** experience.",
+      "audioStart": 161.54,
+      "audioEnd": 166.02,
+      "word": "bonding",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.763Z"
+    },
+    {
+      "id": "msoa70z7bk040i",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "extensive",
+      "back": "广泛的 (adjective, B2)",
+      "context": "It was one of the most **extensive** fittings that I've ever done",
+      "audioStart": 179.8,
+      "audioEnd": 184.88,
+      "word": "extensive",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.763Z"
+    },
+    {
+      "id": "msoa70z7bbl04l",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "professorial",
+      "back": "教授般的 (adjective, C1)",
+      "context": "I like that sort of slightly **professorial** look",
+      "audioStart": 190.44,
+      "audioEnd": 195.8,
+      "word": "professorial",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.763Z"
+    },
+    {
+      "id": "msoa70z7gbcd89",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "legacy",
+      "back": "遗产 (noun, B2)",
+      "context": "you look into the kind of the **legacy** of it",
+      "audioStart": 282.67,
+      "audioEnd": 288.53,
+      "word": "legacy",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.763Z"
+    },
+    {
+      "id": "msoa70z8kx7vqm",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "primal",
+      "back": "原始的 (adjective, C1)",
+      "context": "that's a very deep and **primal** thing",
+      "audioStart": 288.53,
+      "audioEnd": 294.83,
+      "word": "primal",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.764Z"
+    },
+    {
+      "id": "msoa70z8ftw6xy",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "blockbusters",
+      "back": "大片 (noun, B2)",
+      "context": "he is incredible at making **blockbusters**",
+      "audioStart": 320.53,
+      "audioEnd": 328.37,
+      "word": "blockbusters",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.764Z"
+    },
+    {
+      "id": "msoa70z83f5iev",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "shortchanged",
+      "back": "亏待 (verb, C1)",
+      "context": "don't feel like you're being **shortchanged**",
+      "audioStart": 328.37,
+      "audioEnd": 333.39,
+      "word": "shortchanged",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:27.764Z"
+    },
+    {
+      "id": "msoa7070fv2zg1",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) drama oh ___ you put it on like",
+      "back": "garnish",
+      "context": "drama oh garnish you put it on like",
+      "audioStart": 104.9,
+      "audioEnd": 112,
+      "hint": "选项：garnish / flavor / season / decorate",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:26.748Z"
+    },
+    {
+      "id": "msoa7070o71wss",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) drama oh ___ you put it on like",
+      "back": "garnish",
+      "context": "drama oh garnish you put it on like",
+      "audioStart": 104.9,
+      "audioEnd": 112,
+      "hint": "选项：flavor / season / garnish / decorate",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:26.748Z"
+    },
+    {
+      "id": "msoa70703zr0u8",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) michelada with the 1664 for ___.",
+      "back": "Twilight",
+      "context": "michelada with the 1664 for Twilight.",
+      "audioStart": 374.4,
+      "audioEnd": 381.7,
+      "hint": "选项：Dawn / Twilight / Midnight / Sunset",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:26.748Z"
+    },
+    {
+      "id": "msoa70704nbhvz",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) the character and filled with as much self-doubt that I am as a ___.",
+      "back": "person",
+      "context": "the character and filled with as much self-doubt that I am as a person.",
+      "audioStart": 141.7,
+      "audioEnd": 148.9,
+      "hint": "选项：being / human / person / individual",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:26.748Z"
+    },
+    {
+      "id": "msoa70709cex6w",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And then we start with a simple ___.",
+      "back": "syrup",
+      "context": "And then we start with a simple syrup.",
+      "audioStart": 235.9,
+      "audioEnd": 239.2,
+      "hint": "选项：mix / broth / syrup / sauce",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:26.748Z"
+    },
+    {
+      "id": "msoa7070cnwzwb",
+      "videoId": "vVTbr3_Y__k",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I was extremely ___ by it.",
+      "back": "moved",
+      "context": "I was extremely moved by it.",
+      "audioStart": 740.9,
+      "audioEnd": 746.9,
+      "hint": "选项：stirred / affected / moved / touched",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:30:26.748Z"
+    }
+  ]
+}

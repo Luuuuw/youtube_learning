@@ -1,0 +1,623 @@
+{
+  "videoId": "gB4LAABLvKU",
+  "title": "gB4LAABLvKU",
+  "generatedAt": "2026-08-10T10:53:38.908Z",
+  "version": 1,
+  "totalQuestions": 27,
+  "stats": {
+    "easy": 10,
+    "medium": 13,
+    "hard": 4,
+    "choice": 23,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker mean by 'cosy little apartment'?",
+      "options": [
+        "A) A large and modern house",
+        "B) A small, warm, and comfortable living space",
+        "C) A messy and chaotic room",
+        "D) An expensive and luxurious flat"
+      ],
+      "answer": "B",
+      "explanation": "'Cosy' 在英式英语中意为'舒适的、温馨的'，通常用来形容空间虽小但温暖舒适。'Little' 强调公寓的面积不大。整体表达了一种温馨惬意的生活氛围，符合视频中展示居家做饭的场景。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 12.3,
+      "endTime": 17.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cosy",
+        "apartment",
+        "comfortable"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the speaker, what do they do first before going to the market?",
+      "options": [
+        "A) They clean the kitchen thoroughly",
+        "B) They brainstorm their menu for the week",
+        "C) They check the weather forecast",
+        "D) They invite friends over for dinner"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'once we've brainstormed our menu for the week, we try...'，说明他们在去市场之前会先一起讨论和规划本周的菜单。这是他们准备一周饮食的流程。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 22.1,
+      "endTime": 30,
+      "difficulty": "easy",
+      "relatedWords": [
+        "brainstorm",
+        "menu",
+        "weekly"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'straight to the markets' imply about their routine?",
+      "options": [
+        "A) They avoid going to markets",
+        "B) They go to the market immediately as a habit",
+        "C) They prefer cooking at home without shopping",
+        "D) They only shop on weekends"
+      ],
+      "answer": "B",
+      "explanation": "'Straight to' 意为'直接去'，表达了一种习惯性的、不假思索的行为。结合前文说他们是 'big market people'，可以看出他们去市场买菜是非常自然且高频的习惯。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 37.2,
+      "endTime": 43.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "straight to",
+        "routine",
+        "habit"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Where did the speaker get their ingredients this morning?",
+      "options": [
+        "A) From a local supermarket",
+        "B) From Queen Victoria Market",
+        "C) From an online grocery store",
+        "D) From their own garden"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确提到 'just got back from Queen Victoria Market'，这是位于澳大利亚墨尔本的一个著名传统市场。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 76.2,
+      "endTime": 81.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Queen Victoria Market",
+        "haul",
+        "shopping"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the speaker say they will use in the biryani the next night?",
+      "options": [
+        "A) Sausages and cream",
+        "B) Some ingredients they just bought",
+        "C) Only leftovers from the market",
+        "D) Pre-made frozen meals"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'we'll use in a biryani that we're going to make tomorrow night as well as'，结合上下文他们刚从市场采购回来，所以这些食材是刚从市场买的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 94.8,
+      "endTime": 99,
+      "difficulty": "easy",
+      "relatedWords": [
+        "biryani",
+        "tomorrow night",
+        "ingredients"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "How much did the sausages cost, according to the speaker?",
+      "options": [
+        "A) Five dollars",
+        "B) Eight dollars",
+        "C) Ten dollars",
+        "D) Fifteen dollars"
+      ],
+      "answer": "C",
+      "explanation": "字幕明确提到 'these sausages over here cost us ten dollars'，所以香肠的价格是十美元。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 163.2,
+      "endTime": 168.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sausages",
+        "cost",
+        "protein"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What type of fish did the speaker buy?",
+      "options": [
+        "A) Salmon",
+        "B) Snapper",
+        "C) Tuna",
+        "D) Cod"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'It's snapper boy' 和 'We went with the whole snapper'，说明他们买的是整条鲷鱼（snapper）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 198.8,
+      "endTime": 207.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "snapper",
+        "whole fish",
+        "seafood"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What did the speaker do with the snapper before putting it in the oven?",
+      "options": [
+        "A) Grilled it on the barbecue",
+        "B) Stuffed it with dill and leaven",
+        "C) Marinated it in soy sauce",
+        "D) Cut it into small pieces"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'we stuffed it with some dill and leaven then chucked it in the oven'，说明他们在放入烤箱前把莳萝和酵母填入鱼中。'Chucked' 是英式俚语，意为'扔/放入'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 212.3,
+      "endTime": 218.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stuffed",
+        "dill",
+        "leaven",
+        "oven"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'parboiled' mean in cooking?",
+      "options": [
+        "A) Fully cooked until soft",
+        "B) Partially boiled, not fully cooked",
+        "C) Deep-fried quickly",
+        "D) Grilled over high heat"
+      ],
+      "answer": "B",
+      "explanation": "'Parboil' 意为'把...煮到半熟'，即 partially boiled。字幕提到 'I haven't actually roasted them yet, I've just parboiled them'，说明食材只是先煮到半熟，后续还要进行烤制。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 221.9,
+      "endTime": 225,
+      "difficulty": "medium",
+      "relatedWords": [
+        "parboiled",
+        "partially cooked",
+        "preparation"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "In the context of the video, what does the word 'genre' most likely refer to?",
+      "options": [
+        "A) A type of music",
+        "B) A category or style of food/cuisine",
+        "C) A movie classification",
+        "D) A literary genre"
+      ],
+      "answer": "B",
+      "explanation": "虽然在影视中 'genre' 常指电影类型，但在这段烹饪视频的语境中，'same genre' 指的是相同的菜系或食物风格/类别，例如都是同一个类型的菜肴。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 258.8,
+      "endTime": 265.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "genre",
+        "cuisine",
+        "category"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What meal are they preparing on Monday night?",
+      "options": [
+        "A) A creamy sausage pasta",
+        "B) A chicken biryani",
+        "C) A roasted snapper",
+        "D) A boiled egg breakfast"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'it's Monday night and we're making' 紧接着展示了 'final product, chicken biryani'，所以周一的晚餐是鸡肉印度香饭（chicken biryani）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 267,
+      "endTime": 310.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Monday night",
+        "chicken biryani",
+        "dinner"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What ingredients are mentioned as part of the Monday night dinner?",
+      "options": [
+        "A) Pasta, cream, and chili",
+        "B) Kale, malung, biryani, boiled egg, and yogurt",
+        "C) Snapper, dill, and leaven",
+        "D) Sausages and chicken stock"
+      ],
+      "answer": "B",
+      "explanation": "字幕明确提到 'We've got kale, malung, a made up biryani recipe, boiled egg, and some yogurt'，这些都是周一晚餐的组成部分。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 379.2,
+      "endTime": 385.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "kale",
+        "biryani",
+        "yogurt",
+        "boiled egg"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the phrase 'toast this bad boy up' mean?",
+      "options": [
+        "A) To celebrate with drinks",
+        "B) To brown or grill something, especially bread",
+        "C) To throw something away",
+        "D) To compliment someone"
+      ],
+      "answer": "B",
+      "explanation": "'Toast up' 在烹饪语境中意为'烤至金黄'。'Bad boy' 是口语化的称呼，带有俏皮意味。结合上下文，他们在准备某种面包配菜，所以是把面包烤一下。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 426.5,
+      "endTime": 428.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "toast",
+        "bad boy",
+        "grill"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'bougie places' mean in this context?",
+      "options": [
+        "A) Cheap and casual restaurants",
+        "B) Fancy, upscale, or pretentious places",
+        "C) Outdoor markets",
+        "D) Fast food chains"
+      ],
+      "answer": "B",
+      "explanation": "'Bougie' 是 'bourgeois' 的俚语缩写，意为'高档的、装腔作势的'，通常指精致昂贵或有格调的地方。字幕说 'You only really find it at very bougie places'，意味着这种食材只在高档场所才常见。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 423.2,
+      "endTime": 426.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "bougie",
+        "fancy",
+        "upscale"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'hits the spot' mean?",
+      "options": [
+        "A) To physically hit something",
+        "B) To perfectly satisfy a craving or need",
+        "C) To be very spicy",
+        "D) To be served cold"
+      ],
+      "answer": "B",
+      "explanation": "'Hits the spot' 是英语口语习语，意为'恰到好处地满足了需求或渴望'，通常用来形容食物非常合口味，让人感到满足。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 447.4,
+      "endTime": 455,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hits the spot",
+        "satisfy",
+        "craving"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'cook up something comforting' mean?",
+      "options": [
+        "A) To cook something that is difficult and complex",
+        "B) To prepare a warm, satisfying meal that makes you feel good",
+        "C) To burn the food accidentally",
+        "D) To cook without any recipes"
+      ],
+      "answer": "B",
+      "explanation": "'Cook up' 意为'烹制、做出'，'comforting' 意为'令人感到安慰和满足的'。整体意思是'做一顿让人感到温暖满足的饭菜'，特别适合工作日繁忙的时候。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 478.3,
+      "endTime": 482.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cook up",
+        "comforting",
+        "comfort food"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "According to the video, what is the first step in cooking the chicken dish?",
+      "options": [
+        "A) Season the broth with spices",
+        "B) Add chicken drumsticks directly to the pan",
+        "C) Boil chicken stock",
+        "D) Roast the chicken in the oven"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到 'To cook this we boil up some chicken stock then add in some chicken drumsticks'，所以第一步是先煮鸡汤，然后加入鸡腿。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 490.5,
+      "endTime": 495.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "chicken stock",
+        "chicken drumsticks",
+        "boil"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the name of the cookbook mentioned in the video?",
+      "options": [
+        "A) Bon Appetit",
+        "B) Lana",
+        "C) Cookbook",
+        "D) Queen Victoria"
+      ],
+      "answer": "B",
+      "explanation": "字幕明确提到 'The book is called Lana' 和 'We got this one from Cookbook'，所以书名是 Lana，而 'Cookbook' 是书的来源或品牌名称。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 522.2,
+      "endTime": 529.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cookbook",
+        "Lana",
+        "recipe"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "In the cooking context, what does 'rotation' most likely mean?",
+      "options": [
+        "A) Turning the food physically on the stove",
+        "B) The cycle of different dishes cooked regularly",
+        "C) Spinning around in the kitchen",
+        "D) A dance move"
+      ],
+      "answer": "B",
+      "explanation": "在饮食语境中，'rotation' 指'轮换、循环'，即定期更换不同的菜式来保持饮食多样性和新鲜感。字幕提到他们的菜品经常轮换。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 588.1,
+      "endTime": 595,
+      "difficulty": "hard",
+      "relatedWords": [
+        "rotation",
+        "variety",
+        "meal planning"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What dish is the speaker making at the end of the video?",
+      "options": [
+        "A) Chicken biryani",
+        "B) Roasted snapper",
+        "C) Creamy sausage pasta",
+        "D) Boiled eggs"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到 'So tonight we're making a creamy sausage pasta'，说明视频结尾他们在做的菜是奶油香肠意面。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 630.1,
+      "endTime": 634.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "creamy sausage pasta",
+        "dinner",
+        "tonight"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "Which of the following is NOT an ingredient in the sausage pasta?",
+      "options": [
+        "A) Sausages",
+        "B) Kale",
+        "C) Cream",
+        "D) Snapper"
+      ],
+      "answer": "D",
+      "explanation": "字幕提到 'In this sausage pasta we have sausages, there's kale, there's cream, passata, some chili'，食材包括香肠、羽衣甘蓝、奶油、番茄泥和辣椒。Snapper（鲷鱼）是另一道菜的食材，不在意大利面中。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 636.8,
+      "endTime": 666,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sausage pasta",
+        "ingredients",
+        "snapper"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "The speaker describes the sausage pasta as having all the following qualities EXCEPT:",
+      "options": [
+        "A) Saucy and savoury",
+        "B) Spicy with a great crunch from kale",
+        "C) Sweet and fruity",
+        "D) Creamy and rich"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到 'It's saucy, savoury, spicy and there's kale in it which gives it a great crunch'，所以意面的特点是多汁、咸香、微辣且有脆感。并没有提到甜味或水果味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 636.8,
+      "endTime": 648.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "saucy",
+        "savoury",
+        "spicy",
+        "crunch"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What is the speaker's overall feeling about their week of cooking?",
+      "options": [
+        "A) Tired and disappointed",
+        "B) Bored with the same meals",
+        "C) Satisfied and happy with the variety",
+        "D) Frustrated with shopping"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到 'It's a lovely way to end what was already a really good week of eating'，表明他们对这一周的饮食感到非常满意和愉快。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 643.7,
+      "endTime": 648.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lovely",
+        "good week",
+        "satisfied"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Describe your ideal weekly meal plan. What dishes would you like to cook and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放性口语题，参考答案要求学生能使用英语描述自己理想的一周饮食计划，包括菜品选择和理由。",
+      "referenceAnswer": "参考答案要点：1) 说明一周想做的几道菜（如周一做意面、周二做咖喱等）；2) 提到选这些菜的原因（如简单易做、营养均衡、家人喜爱等）；3) 可以提及采购计划和烹饪流程；4) 使用相关词汇如 meal prep, ingredients, recipe, variety 等。",
+      "hint": "Try to use words like 'meal prep', 'recipe', 'ingredients', 'variety', and 'comfort food' in your answer.",
+      "startTime": 12.3,
+      "endTime": 679,
+      "difficulty": "medium",
+      "relatedWords": [
+        "meal plan",
+        "recipe",
+        "ingredients",
+        "variety"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Based on the video, explain how to make a creamy sausage pasta. List the main ingredients and cooking steps.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考查学生对视频中奶油香肠意面制作方法的理解和复述能力。",
+      "referenceAnswer": "参考答案要点：1) 主要食材：sausages（香肠）、kale（羽衣甘蓝）、cream（奶油）、passata（番茄泥）、chili（辣椒）、pasta（意面）；2) 步骤大致为：先煮意面，同时煎香肠，加入其他食材一起翻炒，最后加入奶油和番茄泥调味；3) 可用 adjectives 描述口感：saucy, savoury, spicy, crunchy。",
+      "hint": "Think about the ingredients mentioned: sausages, kale, cream, passata, chili. What are the cooking steps?",
+      "startTime": 630.1,
+      "endTime": 666,
+      "difficulty": "hard",
+      "relatedWords": [
+        "sausage pasta",
+        "cream",
+        "kale",
+        "passata",
+        "chili"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "speaking",
+      "question": "The speaker says 'It hits the spot'. Can you think of a time when a meal really 'hit the spot' for you? Describe it.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察学生对习语 'hits the spot' 的理解以及个人经历的口语表达能力。",
+      "referenceAnswer": "参考答案要点：1) 解释 hits the spot 意为'恰到好处地满足需求'；2) 描述一个具体的场景（如：寒冷冬天喝热汤、疲惫时吃一顿家常菜等）；3) 说明这道菜为什么让你满足（味道、情感、温度等）；4) 使用过去时态和描述性词汇。",
+      "hint": "Think about a meal that perfectly satisfied your hunger or made you feel really good. Where were you? What did you eat? How did it taste?",
+      "startTime": 447.4,
+      "endTime": 455,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hits the spot",
+        "satisfy",
+        "comfort food"
+      ]
+    },
+    {
+      "id": 27,
+      "type": "speaking",
+      "question": "Do you prefer cooking at home or eating out? Why? Use some of the vocabulary from the video in your answer.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题为开放性口语题，让学生结合视频内容表达自己对在家做饭或外出就餐的看法。",
+      "referenceAnswer": "参考答案要点：1) 明确表达自己的偏好（在家做饭或外出就餐）；2) 给出至少两个理由（如：健康、经济、有创意、社交等）；3) 尝试使用视频中的词汇，如：cosy, brainststorm, comfort food, rotation, hit the spot, bougie 等；4) 表达流畅，语法正确。",
+      "hint": "Try to use words from the video like 'cosy', 'comfort food', 'meal prep', 'bougie places', or 'rotation'.",
+      "startTime": 12.3,
+      "endTime": 595,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cooking at home",
+        "eating out",
+        "preference"
+      ]
+    }
+  ]
+}

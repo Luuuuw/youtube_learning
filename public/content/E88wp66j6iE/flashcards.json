@@ -1,0 +1,417 @@
+{
+  "videoId": "E88wp66j6iE",
+  "generatedAt": "2026-08-11T06:23:58.512Z",
+  "cards": [
+    {
+      "id": "mso9yomn1ts6hl",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "venture",
+      "back": "冒险去；敢于去 (verb, B2)",
+      "context": "I'm gonna head to a little grocery store or stand, like a farmer's produce stand, whatever, and get some groceries for lunch, and then finish up my video.",
+      "audioStart": 46.2,
+      "audioEnd": 55.24,
+      "word": "venture",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.511Z"
+    },
+    {
+      "id": "mso9yomngs48km",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stationery",
+      "back": "文具 (noun, B2)",
+      "context": "I started looking for a **stationery** store I found that cute stationery store didn't buy anything wasn't exactly what i was looking for pop into a random vintage store across the street and they had exactly what i was looking for",
+      "audioStart": 165.66,
+      "audioEnd": 176.92,
+      "word": "stationery",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.511Z"
+    },
+    {
+      "id": "mso9yomnxyzvea",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vintage",
+      "back": "复古的；老式的 (adjective, B2)",
+      "context": "pop into a random **vintage** store across the street and they had exactly what i was looking for",
+      "audioStart": 173.8,
+      "audioEnd": 176.92,
+      "word": "vintage",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.511Z"
+    },
+    {
+      "id": "mso9yomnsel57g",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "meditation",
+      "back": "冥想；沉思 (noun, B2)",
+      "context": "Hi, and welcome to this short guided **meditation** designed to help bring a moment of calm and clarity into your day.",
+      "audioStart": 350.76,
+      "audioEnd": 358.9,
+      "word": "meditation",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.511Z"
+    },
+    {
+      "id": "mso9yomnfyupxq",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "anxiety",
+      "back": "焦虑；忧虑 (noun, B2)",
+      "context": "there are times that I find myself, especially in the morning where my **anxiety** tends to be a lot higher",
+      "audioStart": 386.56,
+      "audioEnd": 391.04,
+      "word": "anxiety",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.511Z"
+    },
+    {
+      "id": "mso9yomouem8b4",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "mindfulness",
+      "back": "正念；专注当下 (noun, B2)",
+      "context": "I really make sure that I'm making space for **mindfulness**, especially in the morning.",
+      "audioStart": 439.42,
+      "audioEnd": 442.6,
+      "word": "mindfulness",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.512Z"
+    },
+    {
+      "id": "mso9yomotxhrp8",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intimidated",
+      "back": "感到畏惧的；被吓到的 (adjective, B2)",
+      "context": "I honestly used to be so **intimidated** by meditating because I thought I had to be this grand practice that took up a large chunk of your morning",
+      "audioStart": 446.56,
+      "audioEnd": 453.2,
+      "word": "intimidated",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.512Z"
+    },
+    {
+      "id": "mso9yomo9luff9",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "regulate",
+      "back": "调节；调整 (verb, B2)",
+      "context": "I feel so much more calm and **regulated**, ready to start my day.",
+      "audioStart": 475.44,
+      "audioEnd": 479.54,
+      "word": "regulate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.512Z"
+    },
+    {
+      "id": "mso9yomo89j71m",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "obsessed",
+      "back": "着迷的；痴迷的 (adjective, B2)",
+      "context": "Guys, I'm so **obsessed** with my journal.",
+      "audioStart": 508.72,
+      "audioEnd": 509.54,
+      "word": "obsessed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.512Z"
+    },
+    {
+      "id": "mso9yomoaim6oa",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "distressed",
+      "back": "做旧的；仿旧的 (adjective, B2)",
+      "context": "I love the like **distressed** look the rips and the top wash amazing",
+      "audioStart": 574.8,
+      "audioEnd": 580.44,
+      "word": "distressed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.512Z"
+    },
+    {
+      "id": "mso9yomod7to5t",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "exhilarating",
+      "back": "令人兴奋的；使人振奋的 (adjective, C1)",
+      "context": "it's kind of **exhilarating** okay off we go",
+      "audioStart": 648.26,
+      "audioEnd": 650.04,
+      "word": "exhilarating",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.512Z"
+    },
+    {
+      "id": "mso9yomo2j8wkz",
+      "videoId": "E88wp66j6iE",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "personalize",
+      "back": "个性化；定制 (verb, B2)",
+      "context": "And he **personalizes** your delicious, gorgeous, sexy bag for you.",
+      "audioStart": 784.26,
+      "audioEnd": 788.32,
+      "word": "personalize",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:58.512Z"
+    },
+    {
+      "id": "mso9ym7amyoh6y",
+      "videoId": "E88wp66j6iE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Hi, and welcome to this short guided ___ designed to help",
+      "back": "meditation",
+      "context": "Hi, and welcome to this short guided meditation designed to help",
+      "audioStart": 351,
+      "audioEnd": 357.8,
+      "hint": "选项：session / lecture / meditation / exercise",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:55.366Z"
+    },
+    {
+      "id": "mso9ym7a99ijdh",
+      "videoId": "E88wp66j6iE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's two months of full free access compared to the standard two week ___ that they have on their website.",
+      "back": "trial",
+      "context": "It's two months of full free access compared to the standard two week trial that they have on their website.",
+      "audioStart": 497.6,
+      "audioEnd": 501.8,
+      "hint": "选项：trial / period / test / offer",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:55.366Z"
+    },
+    {
+      "id": "mso9ym7ahqp0kv",
+      "videoId": "E88wp66j6iE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Anything plum looks really good with my brown hair, so I've been aiming to buy more dark ___.",
+      "back": "purple",
+      "context": "Anything plum looks really good with my brown hair, so I've been aiming to buy more dark purple.",
+      "audioStart": 543,
+      "audioEnd": 546.6,
+      "hint": "选项：green / red / blue / purple",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:55.366Z"
+    },
+    {
+      "id": "mso9ym7avgswba",
+      "videoId": "E88wp66j6iE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) How does this ___, guys?",
+      "back": "work",
+      "context": "How does this work, guys?",
+      "audioStart": 546.6,
+      "audioEnd": 549.7,
+      "hint": "选项：run / go / work / play",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:55.366Z"
+    },
+    {
+      "id": "mso9ym7aad1mkv",
+      "videoId": "E88wp66j6iE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's so cute. It's giving parents. It's so giving parents. You should ___ here.",
+      "back": "move",
+      "context": "It's so cute. It's giving parents. It's so giving parents. You should move here.",
+      "audioStart": 332.6,
+      "audioEnd": 337.5,
+      "hint": "选项：stay / come / move / live",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:55.366Z"
+    },
+    {
+      "id": "mso9ym7acf4dnb",
+      "videoId": "E88wp66j6iE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) The YSL Candy Glaze Stick, ___ shade, O2.",
+      "back": "neutral",
+      "context": "The YSL Candy Glaze Stick, neutral shade, O2.",
+      "audioStart": 249.4,
+      "audioEnd": 253,
+      "hint": "选项：pale / bright / dark / neutral",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:55.366Z"
+    },
+    {
+      "id": "mso9ym7a9p2kqt",
+      "videoId": "E88wp66j6iE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Such a cute ___.",
+      "back": "interior",
+      "context": "Such a cute interior.",
+      "audioStart": 217.4,
+      "audioEnd": 220.9,
+      "hint": "选项：design / room / exterior / interior",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:55.366Z"
+    },
+    {
+      "id": "mso9ym7axldfak",
+      "videoId": "E88wp66j6iE",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I feel so much more calm and regulated, ready to start my ___.",
+      "back": "day",
+      "context": "I feel so much more calm and regulated, ready to start my day.",
+      "audioStart": 471.9,
+      "audioEnd": 475.5,
+      "hint": "选项：week / work / life / day",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:55.366Z"
+    },
+    {
+      "id": "mso9ylrjtk8pq0",
+      "videoId": "E88wp66j6iE",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "本想在她走之前见一面，但我生病不舒服。 本想在她走之前见一面，但我生病不舒服。\n___ you guys ___ my last vlog, you ___ ___.",
+      "back": "if / saw / would / know",
+      "context": "If you guys saw my last vlog, you would know.",
+      "audioStart": 237.479,
+      "audioEnd": 240.18,
+      "hint": "if you saw you would know",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:54.799Z"
+    }
+  ]
+}

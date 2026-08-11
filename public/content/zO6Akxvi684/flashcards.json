@@ -1,0 +1,301 @@
+{
+  "videoId": "zO6Akxvi684",
+  "generatedAt": "2026-08-11T06:31:56.689Z",
+  "cards": [
+    {
+      "id": "msoa8xldgcx6pc",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "surfy",
+      "back": "适合冲浪的；冲浪的 (adjective, B1)",
+      "context": "We're about to get **surfy**.",
+      "audioStart": 17.94,
+      "audioEnd": 19.16,
+      "word": "surfy",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8xldcpu7he",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stopover",
+      "back": "中途停留 (noun, B1)",
+      "context": "we're in el salvador at our **stopover**",
+      "audioStart": 74.44,
+      "audioEnd": 75.78,
+      "word": "stopover",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8xldd63dab",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "genuinely",
+      "back": "真正地；确实 (adverb, B1)",
+      "context": "It was **genuinely** so nice to escape the cold, I cannot say that enough.",
+      "audioStart": 157.82,
+      "audioEnd": 162.22,
+      "word": "genuinely",
+      "tags": [
+        "CEFR-B1",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8xld2u31mv",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "restful",
+      "back": "宁静的；令人放松的 (adjective, B1)",
+      "context": "which was very nice and **restful** after a long travel day",
+      "audioStart": 171.28,
+      "audioEnd": 176.92,
+      "word": "restful",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8xldeobk36",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "rooftop",
+      "back": "屋顶 (noun, B1)",
+      "context": "So they drove us all to this **rooftop** bar.",
+      "audioStart": 199.04,
+      "audioEnd": 202.04,
+      "word": "rooftop",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8xld3avvgm",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "chill",
+      "back": "放松的；悠闲的 (adjective, B1)",
+      "context": "Today we just woke up and had a relatively **chill** morning.",
+      "audioStart": 364.65,
+      "audioEnd": 368.19,
+      "word": "chill",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8xldepvtrj",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "assignment",
+      "back": "作业；任务 (noun, B1)",
+      "context": "I'm just working on an **assignment** because I have an essay worth 35% of my grade due on Monday.",
+      "audioStart": 374.11,
+      "audioEnd": 378.35,
+      "word": "assignment",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8xldb4h912",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "grateful",
+      "back": "感激的 (adjective, B1)",
+      "context": "I'm so **grateful** that I was able to do this with them",
+      "audioStart": 402.97,
+      "audioEnd": 407.61,
+      "word": "grateful",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8xld686wil",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "connect",
+      "back": "联系；结识 (verb, B1)",
+      "context": "We also **connected** with so many new people which was awesome",
+      "audioStart": 407.61,
+      "audioEnd": 413.25,
+      "word": "connect",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8xldvn4t7e",
+      "videoId": "zO6Akxvi684",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "definitely",
+      "back": "肯定；当然 (adverb, B1)",
+      "context": "I will **definitely** be back in Nicaragua at some point.",
+      "audioStart": 413.25,
+      "audioEnd": 418.91,
+      "word": "definitely",
+      "tags": [
+        "CEFR-B1",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:56.689Z"
+    },
+    {
+      "id": "msoa8whi7yqffx",
+      "videoId": "zO6Akxvi684",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We're gonna surf and it's gonna be ___. So, let's freaking go.",
+      "back": "awesome",
+      "context": "We're gonna surf and it's gonna be awesome. So, let's freaking go.",
+      "audioStart": 19,
+      "audioEnd": 25.8,
+      "hint": "选项：difficult / terrible / awesome / boring",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:55.254Z"
+    },
+    {
+      "id": "msoa8whijxdhzu",
+      "videoId": "zO6Akxvi684",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) ___. All right we're on our last, I don't even think",
+      "back": "Gorgeous",
+      "context": "Gorgeous. All right we're on our last, I don't even think",
+      "audioStart": 85.8,
+      "audioEnd": 91.6,
+      "hint": "选项：Ugly / Awful / Horrible / Gorgeous",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:55.254Z"
+    },
+    {
+      "id": "msoa8whi1gyo1m",
+      "videoId": "zO6Akxvi684",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And the music. They're playing freaking ___.",
+      "back": "coca",
+      "context": "And the music. They're playing freaking coca melon.",
+      "audioStart": 93.7,
+      "audioEnd": 98.5,
+      "hint": "选项：soda / coca / pop / cola",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:55.254Z"
+    },
+    {
+      "id": "msoa8whihpvf87",
+      "videoId": "zO6Akxvi684",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) doing this with two of my really good friends was honestly such a ___ and a gift",
+      "back": "joy",
+      "context": "doing this with two of my really good friends was honestly such a joy and a gift",
+      "audioStart": 395.8,
+      "audioEnd": 403.6,
+      "hint": "选项：sorrow / pain / burden / joy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:55.254Z"
+    },
+    {
+      "id": "msoa8whi33bwot",
+      "videoId": "zO6Akxvi684",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) also connected with so many new people which was awesome We got to see so many ___.",
+      "back": "beautiful",
+      "context": "also connected with so many new people which was awesome We got to see so many beautiful",
+      "audioStart": 403.6,
+      "audioEnd": 410.6,
+      "hint": "选项：ugly / beautiful / plain / ordinary",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:55.254Z"
+    }
+  ]
+}

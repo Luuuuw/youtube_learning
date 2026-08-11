@@ -1,0 +1,284 @@
+{
+  "videoId": "5pkGA_OrTwQ",
+  "generatedAt": "2026-08-11T06:21:25.907Z",
+  "cards": [
+    {
+      "id": "mso9vevmuqfyiu",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "marvel",
+      "back": "惊叹，赞叹 (verb, B2)",
+      "context": "where we hiked and **marveled** at the best views we have seen in our entire lives.",
+      "audioStart": 9.76,
+      "audioEnd": 13.9,
+      "word": "marvel",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.906Z"
+    },
+    {
+      "id": "mso9vevmpt935w",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "venue",
+      "back": "演出场地，场馆 (noun, B2)",
+      "context": "It is considered by many people to be the best concert **venue** in America.",
+      "audioStart": 19.28,
+      "audioEnd": 23.28,
+      "word": "venue",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.906Z"
+    },
+    {
+      "id": "mso9vevm27nj3x",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "severely",
+      "back": "严重地 (adverb, B2)",
+      "context": "our flight gets delayed **severely**.",
+      "audioStart": 36.14,
+      "audioEnd": 41.02,
+      "word": "severely",
+      "tags": [
+        "CEFR-B2",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.906Z"
+    },
+    {
+      "id": "mso9vevmjytrx8",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intercom",
+      "back": "对讲机，内部通话系统 (noun, B2)",
+      "context": "Our **intercom**'s not working.",
+      "audioStart": 47,
+      "audioEnd": 48.56,
+      "word": "intercom",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.906Z"
+    },
+    {
+      "id": "mso9vevndovno3",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bucket",
+      "back": "清单，愿望清单 (noun, B1)",
+      "context": "The final **bucket** list day, let's go to Denver.",
+      "audioStart": 85.1,
+      "audioEnd": 88.26,
+      "word": "bucket",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.907Z"
+    },
+    {
+      "id": "mso9vevnt6ywuy",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "amphitheater",
+      "back": "圆形剧场，露天剧场 (noun, B2)",
+      "context": "we travel to Colorado to watch a concert at Red Rocks **Amphitheater**.",
+      "audioStart": 13.52,
+      "audioEnd": 18.92,
+      "word": "amphitheater",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.907Z"
+    },
+    {
+      "id": "mso9vevnxkgihl",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "legendary",
+      "back": "传奇的 (adjective, B2)",
+      "context": "this is a 52,000 square foot **legendary** Mexican restaurant.",
+      "audioStart": 373.59,
+      "audioEnd": 378.19,
+      "word": "legendary",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.907Z"
+    },
+    {
+      "id": "mso9vevns1k4oi",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bankruptcy",
+      "back": "破产 (noun, B2)",
+      "context": "the owners filed for **bankruptcy**, but the creators of South Park bought it and restored it for $40 million.",
+      "audioStart": 381.67,
+      "audioEnd": 388.81,
+      "word": "bankruptcy",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.907Z"
+    },
+    {
+      "id": "mso9vevn5b07t3",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "glistening",
+      "back": "闪闪发光的 (adjective, C1)",
+      "context": "And I'm staring at these **glistening** sopapillas.",
+      "audioStart": 434.57,
+      "audioEnd": 437.03,
+      "word": "glistening",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.907Z"
+    },
+    {
+      "id": "mso9vevngj0igt",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "superlative",
+      "back": "最高级，极致 (noun, C1)",
+      "context": "I love **superlatives**.",
+      "audioStart": 451.51,
+      "audioEnd": 453.63,
+      "word": "superlative",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.907Z"
+    },
+    {
+      "id": "mso9vevngswon3",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "unexpected",
+      "back": "出乎意料的 (adjective, B1)",
+      "context": "Most **unexpected** moment?",
+      "audioStart": 530.06,
+      "audioEnd": 532.44,
+      "word": "unexpected",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.907Z"
+    },
+    {
+      "id": "mso9vevnb4u0kj",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "cinematic",
+      "back": "电影般的 (adjective, B2)",
+      "context": "The **cinematic** outro of the 2026 summer series.",
+      "audioStart": 851.65,
+      "audioEnd": 856.69,
+      "word": "cinematic",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:25.907Z"
+    },
+    {
+      "id": "mso9vdpup74smx",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) the real deal because he walked on the plane and within minutes we were ___",
+      "back": "real",
+      "context": "the real deal because he walked on the plane and within minutes we were",
+      "audioStart": 61.8,
+      "audioEnd": 66,
+      "hint": "选项：true / actual / genuine / real",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:24.402Z"
+    },
+    {
+      "id": "mso9vdpubrxn2n",
+      "videoId": "5pkGA_OrTwQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This is crazy, but I think I just understood what ___",
+      "back": "understood",
+      "context": "This is crazy, but I think I just understood what",
+      "audioStart": 661.4,
+      "audioEnd": 665.8,
+      "hint": "选项：grasped / realized / understood / comprehended",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:24.402Z"
+    }
+  ]
+}

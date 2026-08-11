@@ -1,0 +1,592 @@
+{
+  "videoId": "4n3L5VEy-Tc",
+  "title": "4n3L5VEy-Tc",
+  "generatedAt": "2026-08-10T10:39:48.762Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 11,
+    "hard": 5,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is Teo van den Broeke's position?",
+      "options": [
+        "A) Editor-in-Chief of Esquire UK",
+        "B) CEO of a fashion brand",
+        "C) Professional golfer",
+        "D) Sports commentator"
+      ],
+      "answer": "A",
+      "explanation": "根据视频开头的自我介绍，Teo van den Broeke 是英国版《Esquire》杂志的主编（Editor-in-Chief of Esquire UK）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 3.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "editor",
+        "Esquire",
+        "position",
+        "introduction"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is one reason the speaker likes golf, as mentioned in the video?",
+      "options": [
+        "A) It's very expensive",
+        "B) It's incredibly humbling",
+        "C) It requires no practice",
+        "D) It's easy to master"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'I like golf just because it's incredibly humbling'，说明说话者喜欢高尔夫是因为它非常磨练人/让人谦卑。'humbling' 意为'让人谦卑的、磨练人的'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 22.2,
+      "endTime": 25.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "golf",
+        "humbling",
+        "hobby",
+        "sport"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the speaker mean by 'still have days where it feels like you don't or have never played before'?",
+      "options": [
+        "A) He is a beginner in golf",
+        "B) He sometimes feels like he has lost his skills despite experience",
+        "C) He plays golf only occasionally",
+        "D) He doesn't enjoy playing golf"
+      ],
+      "answer": "B",
+      "explanation": "这句话表达了即使是有经验的球员，有时也会感觉像新手一样，说明高尔夫运动的不稳定性和对心理的考验，再次呼应'humbling'（磨练人）的主题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 29.7,
+      "endTime": 33.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "experience",
+        "skills",
+        "golf",
+        "challenge"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "In the context of the video, 'well as a creative' most likely means:",
+      "options": [
+        "A) As a creative person/profession",
+        "B) Being physically creative",
+        "C) Creating new golf techniques",
+        "D) Working in a creative office"
+      ],
+      "answer": "A",
+      "explanation": "'As a creative' 意思是'作为一个创意工作者/有创造力的人'，指的是说话者以创意工作者的身份或角度来谈论某个话题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 38.7,
+      "endTime": 40,
+      "difficulty": "medium",
+      "relatedWords": [
+        "creative",
+        "profession",
+        "identity"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the speaker imply when asking 'I mean, people kind of run for their mental health, right?'",
+      "options": [
+        "A) Running is bad for mental health",
+        "B) Running is a common way to improve mental health",
+        "C) Only professional runners care about mental health",
+        "D) People run only for physical fitness"
+      ],
+      "answer": "B",
+      "explanation": "说话者用反问句强调跑步对心理健康有积极作用，是人们进行跑步运动的常见原因之一。'mental health' 即心理健康。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 64.1,
+      "endTime": 66.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "running",
+        "mental health",
+        "exercise",
+        "wellness"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "In the context 'okay last putt to win the masters which is next weekend', what does 'putt' refer to?",
+      "options": [
+        "A) A type of golf club",
+        "B) A light golf stroke to roll the ball into the hole",
+        "C) A golf tournament",
+        "D) A golf course"
+      ],
+      "answer": "B",
+      "explanation": "'Putt'（推杆）是高尔夫运动中的一种击球方式，指在果岭上用轻击的方式让球滚入洞中。'The Masters' 指的是美国大师赛，是高尔夫的四大满贯赛事之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 125.4,
+      "endTime": 131.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "putt",
+        "golf",
+        "Masters",
+        "stroke"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the speaker mean by 'that feels counterintuitive'?",
+      "options": [
+        "A) It makes perfect sense",
+        "B) It goes against what you would expect",
+        "C) It's very intuitive",
+        "D) It's easy to understand"
+      ],
+      "answer": "B",
+      "explanation": "'Counterintuitive' 意为'反直觉的、与直觉相反的'，指某件事看起来或感觉起来违反常理、令人意外。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 152.2,
+      "endTime": 159.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "counterintuitive",
+        "unexpected",
+        "opposite",
+        "instinct"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "In the phrase 'close the face a little bit now you've overcompensated there', what does 'overcompensated' mean?",
+      "options": [
+        "A) Not adjusting enough",
+        "B) Adjusting too much in the opposite direction",
+        "C) Doing something perfectly",
+        "D) Failing to correct the mistake"
+      ],
+      "answer": "B",
+      "explanation": "'Overcompensated' 意为'过度补偿/过度纠正'，指在纠正一个错误时矫枉过正，朝相反方向调整得太多。这是高尔夫教学中的常见情景。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 163.6,
+      "endTime": 169.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "overcompensate",
+        "adjust",
+        "golf",
+        "excess"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Based on the subtitle 'I'm not as tall as you, though', what is the speaker implying?",
+      "options": [
+        "A) He is taller than the other person",
+        "B) He is shorter than the other person, which may affect the activity",
+        "C) He wants to be taller",
+        "D) Height doesn't matter"
+      ],
+      "answer": "B",
+      "explanation": "说话者承认自己比对方矮，这通常在涉及需要一定身体条件的活动（如击球姿势、舞蹈动作等）时提出，可能影响技术的发挥。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 207.2,
+      "endTime": 208.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "height",
+        "tall",
+        "comparison",
+        "physical"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the main topic being discussed when the speaker says 'Tap dancing is all about being able to transfer your weight from foot to foot'?",
+      "options": [
+        "A) Football",
+        "B) Tap dancing",
+        "C) Golf swing",
+        "D) Running technique"
+      ],
+      "answer": "B",
+      "explanation": "这句话直接提到 'Tap dancing'（踢踏舞），并解释踢踏舞的核心技巧是能够在两只脚之间转移身体重量。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 242.6,
+      "endTime": 246.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "tap dancing",
+        "weight transfer",
+        "dance",
+        "footwork"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "In the sentence 'If you were boxing, you'd want to be able to change your weight', what is the speaker explaining about boxing?",
+      "options": [
+        "A) Boxers need to lose weight",
+        "B) Weight change/management is important in boxing",
+        "C) Boxing is a weight-losing sport",
+        "D) Boxers should not change their weight"
+      ],
+      "answer": "B",
+      "explanation": "说话者在解释拳击运动中体重管理的重要性，拳击手需要能够改变/管理自己的体重以适应不同级别的比赛。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 249.9,
+      "endTime": 252.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "boxing",
+        "weight",
+        "change",
+        "management"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the instruction 'So the first thing you're going to do is stamp' mean?",
+      "options": [
+        "A) To write a letter",
+        "B) To step down heavily with your foot",
+        "C) To purchase something",
+        "D) To stand still"
+      ],
+      "answer": "B",
+      "explanation": "在舞蹈或运动的语境中，'stamp' 意为'跺脚'，即用脚重重地踩踏地面。这通常作为踢踏舞或某些舞蹈动作的第一步。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 252.5,
+      "endTime": 254.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stamp",
+        "foot",
+        "dance",
+        "step"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'pull your toe back' likely mean in this context?",
+      "options": [
+        "A) To hurt your toe",
+        "B) To flex your foot so the toe points upward",
+        "C) To push your toe forward",
+        "D) To relax your foot"
+      ],
+      "answer": "B",
+      "explanation": "'Pull your toe back' 在舞蹈语境中指的是将脚趾向上翘起/拉向身体方向，这是踢踏舞或芭蕾中常见的脚部动作准备姿势。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 255.2,
+      "endTime": 257.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "toe",
+        "foot position",
+        "stretch",
+        "dance"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "In the sentence 'When you play Spider-Man and you put a mask on, you don't have your face', what is the speaker referring to?",
+      "options": [
+        "A) The mask hides the actor's face, limiting facial expressions",
+        "B) Spider-Man doesn't have a face",
+        "C) The mask is uncomfortable",
+        "D) The mask is too tight"
+      ],
+      "answer": "A",
+      "explanation": "说话者在讨论扮演戴面具的角色（如蜘蛛侠）时，面具遮住了演员的脸部，使其无法通过面部表情来传达情感，因此需要通过身体语言（physicality）来弥补。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 305.3,
+      "endTime": 312.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Spider-Man",
+        "mask",
+        "acting",
+        "physicality",
+        "expression"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "Based on the context, the speaker is saying playing characters with 'a physicality as a big part' means:",
+      "options": [
+        "A) Physical fitness is important",
+        "B) Body movement and physical presence are important to the character",
+        "C) The character is muscular",
+        "D) The character fights a lot"
+      ],
+      "answer": "B",
+      "explanation": "'Physicality' 在表演语境中指的是角色通过身体动作、姿态和物理存在来表达人物的方式。说话者说他扮演的角色都很注重肢体表现力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 299.5,
+      "endTime": 304.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "physicality",
+        "character",
+        "acting",
+        "performance"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'when you do it in the suit, it really translates really well' mean?",
+      "options": [
+        "A) The suit makes it harder to perform",
+        "B) The performance looks impressive when done in the suit",
+        "C) The suit is not important",
+        "D) The suit changes the meaning"
+      ],
+      "answer": "B",
+      "explanation": "'Translates really well' 意为'转化/表现得很到位'，说话者在说穿着戏服表演时，肢体动作看起来效果更好，更有说服力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 330.6,
+      "endTime": 334.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "suit",
+        "costume",
+        "translate",
+        "performance"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "In the 'Quickfire round', what type of questions are being asked?",
+      "options": [
+        "A) Long philosophical questions",
+        "B) Quick, fun preference-based questions",
+        "C) Technical sports questions",
+        "D) Historical questions"
+      ],
+      "answer": "B",
+      "explanation": "'Quickfire round'（快问快答环节）是一种常见的访谈形式，主持人会快速提出简短有趣的问题，让受访者凭直觉快速回答，通常是个人偏好类问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 529.7,
+      "endTime": 530.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "quickfire",
+        "interview",
+        "preference",
+        "game"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "When asked 'Serum or moisturizer?', the speaker responds 'I don't know the difference'. What does this reveal?",
+      "options": [
+        "A) He is an expert in skincare",
+        "B) He is not very familiar with skincare products",
+        "C) He prefers serums",
+        "D) He dislikes skincare"
+      ],
+      "answer": "B",
+      "explanation": "说话者承认不知道精华液（serum）和保湿霜（moisturizer）之间的区别，表明他对护肤品不太了解，可能是男性嘉宾在快问快答中的坦诚回答。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 552.2,
+      "endTime": 554.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "serum",
+        "moisturizer",
+        "skincare",
+        "preference"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "The speaker says 'i would say i'm more of a night owl' in response to 'early bird or night owl'. What does 'night owl' mean?",
+      "options": [
+        "A) A type of bird",
+        "B) A person who stays up late and is active at night",
+        "C) Someone who works in the dark",
+        "D) A person who sleeps early"
+      ],
+      "answer": "B",
+      "explanation": "'Night owl'（夜猫子）是一个惯用表达，指习惯晚睡、在夜间更活跃的人，与'early bird'（早起的人）相对。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 560.7,
+      "endTime": 565.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "night owl",
+        "early bird",
+        "habit",
+        "sleep"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does the speaker mean by saying 'and maybe one of the greatest sporting events of all time' in context?",
+      "options": [
+        "A) The World Cup is the best event",
+        "B) The Masters golf tournament is considered one of the greatest sporting events",
+        "C) The Olympic Games are the best",
+        "D) Boxing is the greatest sport"
+      ],
+      "answer": "B",
+      "explanation": "结合上文提到的美国大师赛（The Masters）和世界杯（World Cup）的对比，说话者认为美国大师赛可能是史上最伟大的体育赛事之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 608.9,
+      "endTime": 614.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Masters",
+        "World Cup",
+        "sporting event",
+        "greatest"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Why does the speaker say he likes golf? Please explain in your own words.",
+      "options": [],
+      "answer": "open",
+      "explanation": "说话者表示喜欢高尔夫是因为它非常磨练人（incredibly humbling），即使是有经验的球员也会有感觉像新手一样的日子，这正是高尔夫的魅力所在。",
+      "referenceAnswer": "The speaker says he likes golf because it is incredibly humbling. Even experienced players have days when they feel like they've never played before, which is part of the sport's appeal and challenge.",
+      "hint": "Think about what 'humbling' means and why someone might enjoy a sport that challenges them repeatedly.",
+      "startTime": 22.2,
+      "endTime": 33.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "golf",
+        "humbling",
+        "challenge",
+        "sport"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What do you think the speaker means when talking about playing characters with 'physicality'? Give an example based on the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "说话者谈到扮演角色时身体表现力（physicality）的重要性，并以蜘蛛侠为例。当戴上面具后无法使用面部表情时，需要通过身体动作来传达情感给观众。",
+      "referenceAnswer": "The speaker explains that physicality is an important part of his characters. For example, when playing Spider-Man, wearing a mask hides facial expressions, so the actor must use body language and physical movements to convey emotions and tell the story to the audience.",
+      "hint": "Think about characters who wear masks or costumes and how actors express emotions through body language.",
+      "startTime": 299.5,
+      "endTime": 312.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "physicality",
+        "Spider-Man",
+        "mask",
+        "acting",
+        "expression"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Compare the Masters and the World Cup based on the speaker's comments. Which does the speaker think is greater, and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "说话者被问及愿意赢得哪项赛事时表示，会把美国大师赛（The Masters）作为答案，称其可能是史上最伟大的体育赛事之一，同时承认世界杯同样伟大。",
+      "referenceAnswer": "The speaker puts the Masters out there as his choice, calling it 'maybe one of the greatest sporting events of all time.' However, he also acknowledges that the World Cup is similarly great, showing respect for both prestigious sporting events.",
+      "hint": "Consider what the speaker says about each event and how he compares them.",
+      "startTime": 608.9,
+      "endTime": 620.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Masters",
+        "World Cup",
+        "comparison",
+        "sporting event"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Describe the connection between boxing, tap dancing, and weight transfer mentioned in the video. Why is this concept important?",
+      "options": [],
+      "answer": "open",
+      "explanation": "视频将拳击和踢踏舞进行类比，两者都需要在双脚之间转移身体重量。说话者指出拳击手需要改变体重，而踢踏舞的核心就是能够在脚之间转移重量。",
+      "referenceAnswer": "The speaker draws a parallel between boxing and tap dancing, noting that both require the ability to transfer weight from foot to foot. In boxing, weight change is important for performance, and tap dancing fundamentally relies on shifting weight between feet. This concept is important because it shows how physical principles apply across different disciplines.",
+      "hint": "Think about the common physical element that both sports require.",
+      "startTime": 242.6,
+      "endTime": 257.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "boxing",
+        "tap dancing",
+        "weight transfer",
+        "movement"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "What does the 'Quickfire round' reveal about the speaker's personality? Give examples from the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "快问快答环节通过简短问题揭示了嘉宾的性格：例如，他承认不懂精华液和保湿霜的区别，自称是夜猫子，宁愿选择沙拉而不是巨无霸，展现出坦诚、随性的一面。",
+      "referenceAnswer": "The Quickfire round reveals the speaker as honest, casual, and self-aware. He admits he doesn't know the difference between serum and moisturizer, identifies as a 'night owl,' and would rather have a salad than a Big Mac. These answers show he is down-to-earth and willing to be candid about his preferences without pretension.",
+      "hint": "Look at multiple quickfire answers to form a complete picture of the speaker's personality.",
+      "startTime": 529.7,
+      "endTime": 599.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "quickfire",
+        "personality",
+        "preferences",
+        "honest"
+      ]
+    }
+  ]
+}

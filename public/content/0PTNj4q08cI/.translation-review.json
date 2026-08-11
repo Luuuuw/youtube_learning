@@ -1,0 +1,1642 @@
+{
+  "videoId": "0PTNj4q08cI",
+  "reviewedAt": "2026-06-17T12:36:51.935Z",
+  "segments": [
+    {
+      "key": "9.400-14.480",
+      "start": 9.4,
+      "end": 14.48,
+      "en_full": "It's really dangerous to be too focused on",
+      "zh": "太专注真的很危险。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文更简洁。"
+    },
+    {
+      "key": "14.480-22.070",
+      "start": 14.48,
+      "end": 22.07,
+      "en_full": "You know, balance is good.",
+      "zh": "你知道，平衡是好事。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "22.080-34.120",
+      "start": 22.08,
+      "end": 34.12,
+      "en_full": "And",
+      "zh": "还有呢？",
+      "verdict": "partial",
+      "reason": "英文'And'是连接词，中文翻译成'还有呢？'改变了语气，但未遗漏独立信息。实际上'And'在此处是连接上句，中文用'还有呢？'可能不准确，但核心信息未丢失。",
+      "missing_info": ""
+    },
+    {
+      "key": "34.120-34.720",
+      "start": 34.12,
+      "end": 34.72,
+      "en_full": "Having all your ducks in a row is good,",
+      "zh": "把所有事情都安排得井井有条是好事。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "34.720-40.840",
+      "start": 34.72,
+      "end": 40.84,
+      "en_full": "Having all your ducks in a row is good, don't be afraid to put yourself in a",
+      "zh": "万事俱备是好事，别害怕把自己置于",
+      "verdict": "pass",
+      "reason": "翻译准确，中文'万事俱备'对应'Having all your ducks in a row'。"
+    },
+    {
+      "key": "40.840-46.070",
+      "start": 40.84,
+      "end": 46.07,
+      "en_full": "position of discomfort.",
+      "zh": "不适的位置。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "46.080-51.710",
+      "start": 46.08,
+      "end": 51.71,
+      "en_full": "Don't be afraid to put yourself in a position that is maybe more vulnerable.",
+      "zh": "别害怕让自己处于可能更脆弱的位置。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "51.720-55.230",
+      "start": 51.72,
+      "end": 55.23,
+      "en_full": "Or maybe on paper it's not the smartest decision.",
+      "zh": "也许在纸面上这不是最明智的决定。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "55.240-58.990",
+      "start": 55.24,
+      "end": 58.99,
+      "en_full": "But you're doing so for the love of something.",
+      "zh": "但你这么做是因为热爱某样东西。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "59.000-64.879",
+      "start": 59,
+      "end": 64.879,
+      "en_full": "You're doing so out of passion, because you're chasing a dream",
+      "zh": "你这么做是出于热情，因为你在追逐梦想。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "64.879-70.800",
+      "start": 64.879,
+      "end": 70.8,
+      "en_full": "I always tell people that",
+      "zh": "我总跟人说",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "70.800-75.750",
+      "start": 70.8,
+      "end": 75.75,
+      "en_full": "like a beautiful story.",
+      "zh": "就像一个美丽的故事。",
+      "verdict": "partial",
+      "reason": "英文'like a beautiful story'是比喻，中文翻译为'就像一个美丽的故事'，但英文前一句'I always tell people that'未完整翻译，中文只说了'我总跟人说'，缺少'that'引导的内容，但结合上下文，'that'指代后面的比喻，中文省略了'that'但意思仍可理解。不过严格来说，'that'是连接词，未造成信息遗漏。",
+      "missing_info": ""
+    },
+    {
+      "key": "75.760-76.680",
+      "start": 75.76,
+      "end": 76.68,
+      "en_full": "like a beautiful story. Okay? And",
+      "zh": "就像一个美丽的故事，好吗？",
+      "verdict": "pass",
+      "reason": "翻译准确，重复部分合并。"
+    },
+    {
+      "key": "76.680-85.240",
+      "start": 76.68,
+      "end": 85.24,
+      "en_full": "you know, every timeless film every timeless novel",
+      "zh": "你知道，每一部永恒的电影，每一本永恒的小说",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "85.240-87.840",
+      "start": 85.24,
+      "end": 87.84,
+      "en_full": "that you can remember",
+      "zh": "你能记住的",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "87.840-92.840",
+      "start": 87.84,
+      "end": 92.84,
+      "en_full": "of",
+      "zh": "的",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "92.840-96.150",
+      "start": 92.84,
+      "end": 96.15,
+      "en_full": "and scenarios.",
+      "zh": "以及各种场景。",
+      "verdict": "partial",
+      "reason": "英文'and scenarios'是独立短语，中文翻译为'以及各种场景'，但英文前一句'of'未完整翻译，中文只用了'的'，可能不完整。但整体意思可理解。",
+      "missing_info": ""
+    },
+    {
+      "key": "96.160-97.840",
+      "start": 96.16,
+      "end": 97.84,
+      "en_full": "and scenarios. They make us feel every type of human",
+      "zh": "它们让我们感受到各种人类情感。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "97.840-104.270",
+      "start": 97.84,
+      "end": 104.27,
+      "en_full": "That's what we should be after.",
+      "zh": "这才是我们应该追求的。",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "104.280-108.760",
+      "start": 104.28,
+      "end": 108.76,
+      "en_full": "Because it's this wide spectrum of",
+      "zh": "因为它的范围很广",
+      "verdict": "pass",
+      "reason": "翻译准确。"
+    },
+    {
+      "key": "108.760-113.150",
+      "start": 108.76,
+      "end": 113.15,
+      "en_full": "vulnerability and feeling lost.",
+      "zh": "脆弱和迷失方向。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "113.160-115.200",
+      "start": 113.16,
+      "end": 115.2,
+      "en_full": "And then coming back and finding",
+      "zh": "然后回来发现",
+      "verdict": "pass",
+      "reason": "简洁翻译，核心意思在"
+    },
+    {
+      "key": "115.200-118.110",
+      "start": 115.2,
+      "end": 118.11,
+      "en_full": "around you have new people around you.",
+      "zh": "这次你身边有了新的人",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "118.120-122.950",
+      "start": 118.12,
+      "end": 122.95,
+      "en_full": "You have new found values, you have new found experience.",
+      "zh": "你获得了新的价值观，新的经历",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "122.960-130.910",
+      "start": 122.96,
+      "end": 130.91,
+      "en_full": "Or going from laughter and surrounded by people that make you feel good.",
+      "zh": "或者从笑声开始，被让你感觉良好的人包围。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "130.920-137.240",
+      "start": 130.92,
+      "end": 137.24,
+      "en_full": "And then going through something that put you on a path of loneliness and isolation, but through that",
+      "zh": "然后经历了一些让你走上孤独和隔离之路的事情，但通过那一切",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "137.240-138.880",
+      "start": 137.24,
+      "end": 138.88,
+      "en_full": "isolation, but through that is where you find yourself. Through that",
+      "zh": "孤独，但正是在孤独中你才能找到自己。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "138.880-143.270",
+      "start": 138.88,
+      "end": 143.27,
+      "en_full": "is where you discover a part of yourself you never knew you had.",
+      "zh": "在那过程中你会发现一个从未认识的自己",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "143.280-148.160",
+      "start": 143.28,
+      "end": 148.16,
+      "en_full": "And on the other side of this, you now have a new found love for yourself that",
+      "zh": "而经历了这些之后，你会对自己产生新的爱",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "148.160-154.470",
+      "start": 148.16,
+      "end": 154.47,
+      "en_full": "will propel you forward in your life through any treachery, through any hardship that you come across.",
+      "zh": "这种爱会推动你向前，无论遇到什么背叛或艰难",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "154.480-160.959",
+      "start": 154.48,
+      "end": 160.959,
+      "en_full": "It's these types of patterns and and phases and character",
+      "zh": "就是这些模式、阶段和角色。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "160.959-166.990",
+      "start": 160.959,
+      "end": 166.99,
+      "en_full": "you look at it from a bigger picture that make a story great.",
+      "zh": "从更大的格局来看，这才能让故事变得精彩。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "167.000-168.480",
+      "start": 167,
+      "end": 168.48,
+      "en_full": "that make a story great. And that's relatable. You know, human",
+      "zh": "让故事精彩且能引起共鸣，你知道，人性。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "168.480-172.240",
+      "start": 168.48,
+      "end": 172.24,
+      "en_full": "beings learn most through story because",
+      "zh": "人类主要通过故事来学习。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "172.240-178.080",
+      "start": 172.24,
+      "end": 178.08,
+      "en_full": "we resonate with it so much. We feel And so I say all this to say, don't be",
+      "zh": "我们对此深有共鸣。我说这些是想说，别被",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "178.080-180.800",
+      "start": 178.08,
+      "end": 180.8,
+      "en_full": "afraid to have an obsession for",
+      "zh": "不要害怕去痴迷于某样东西",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "180.800-181.160",
+      "start": 180.8,
+      "end": 181.16,
+      "en_full": "afraid to have an obsession for something. Don't be afraid to",
+      "zh": "害怕对某件事着迷。别害怕。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "181.160-184.320",
+      "start": 181.16,
+      "end": 184.32,
+      "en_full": "something. Don't be afraid to push yourself to the other side of the",
+      "zh": "别害怕，逼自己一把，到另一边去。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "184.320-189.239",
+      "start": 184.32,
+      "end": 189.239,
+      "en_full": "spectrum or just do something because",
+      "zh": "频谱，或者干脆做点什么因为",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "189.239-190.120",
+      "start": 189.239,
+      "end": 190.12,
+      "en_full": "because it's spontaneous. Do something because",
+      "zh": "因为它是自发的。做某事是因为",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "190.120-192.239",
+      "start": 190.12,
+      "end": 192.239,
+      "en_full": "it's spontaneous. Do something because you love it. Do something because, you",
+      "zh": "这是自发的。做某事是因为你热爱它。做某事是因为你",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文简洁"
+    },
+    {
+      "key": "192.239-196.720",
+      "start": 192.239,
+      "end": 196.72,
+      "en_full": "know, not because it's, you know, the",
+      "zh": "知道，不是因为它是，你懂的，",
+      "verdict": "pass",
+      "reason": "去填充词，核心意思保留"
+    },
+    {
+      "key": "196.720-199.790",
+      "start": 196.72,
+      "end": 199.79,
+      "en_full": "or the safest decision on paper.",
+      "zh": "或者，理论上最安全的选择",
+      "verdict": "pass",
+      "reason": "意思准确"
+    },
+    {
+      "key": "199.800-203.310",
+      "start": 199.8,
+      "end": 203.31,
+      "en_full": "You know, just simply do it because you care.",
+      "zh": "就尽管去做，因为你在乎",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "203.320-209.239",
+      "start": 203.32,
+      "end": 209.239,
+      "en_full": "You know, through my personal development journey and trying to find my balance, trying to",
+      "zh": "在我的个人成长和寻找平衡的过程中，",
+      "verdict": "partial",
+      "reason": "漏译了 'trying to find my sweet spot' 这一独立信息",
+      "missing_info": "trying to find my sweet spot"
+    },
+    {
+      "key": "209.239-215.680",
+      "start": 209.239,
+      "end": 215.68,
+      "en_full": "my sweet spot where, oop,",
+      "zh": "我的最佳位置，哎呀。",
+      "verdict": "pass",
+      "reason": "核心意思保留，'oop' 为感叹词可省略"
+    },
+    {
+      "key": "215.680-220.360",
+      "start": 215.68,
+      "end": 220.36,
+      "en_full": "know, where I where I feel like all my ducks are in a row and",
+      "zh": "知道，我觉得一切尽在掌握的时候。",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "220.360-225.110",
+      "start": 220.36,
+      "end": 225.11,
+      "en_full": "I don't feel like I have to you pick things up and put things in order.",
+      "zh": "我不必凡事亲力亲为",
+      "verdict": "pass",
+      "reason": "意思一致，口语化表达"
+    },
+    {
+      "key": "225.120-227.320",
+      "start": 225.12,
+      "end": 227.32,
+      "en_full": "You know, I feel like I have total",
+      "zh": "你知道吗，我感觉自己完全掌控了局面。",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "227.320-230.670",
+      "start": 227.32,
+      "end": 230.67,
+      "en_full": "total control over the things around me.",
+      "zh": "我对自己周围的一切有完全的控制权",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "230.680-236.910",
+      "start": 230.68,
+      "end": 236.91,
+      "en_full": "And, you know, just things feel were just right. Been trying to find that spot for so long.",
+      "zh": "感觉一切刚好。找了那种状态好久。",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "236.920-242.150",
+      "start": 236.92,
+      "end": 242.15,
+      "en_full": "But, the longer I try to find it, the more I've kind of realized that it doesn't exist.",
+      "zh": "越去找，越发现根本不存在。",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "242.160-248.470",
+      "start": 242.16,
+      "end": 248.47,
+      "en_full": "It doesn't exist cuz that's not the nature of the life that we're supposed to live.",
+      "zh": "它不存在，因为我们不该过那种生活。",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "248.480-251.949",
+      "start": 248.48,
+      "end": 251.949,
+      "en_full": "That's not how we're supposed to live life.",
+      "zh": "这不是我们该过的生活方式。",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "251.959-259.550",
+      "start": 251.959,
+      "end": 259.55,
+      "en_full": "Life is supposed to be lived in phases, like waves or tides of the ocean.",
+      "zh": "生活像海浪潮汐一样，有起有落。",
+      "verdict": "pass",
+      "reason": "意思一致，比喻保留"
+    },
+    {
+      "key": "259.560-261.630",
+      "start": 259.56,
+      "end": 261.63,
+      "en_full": "They come and they go.",
+      "zh": "潮起潮落。",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "261.640-263.870",
+      "start": 261.64,
+      "end": 263.87,
+      "en_full": "Some are big, some are small.",
+      "zh": "有些大浪，有些小浪。",
+      "verdict": "pass",
+      "reason": "意思一致"
+    },
+    {
+      "key": "263.880-271.360",
+      "start": 263.88,
+      "end": 271.36,
+      "en_full": "Some you flow along with with ease and",
+      "zh": "有些事你轻松应对。",
+      "verdict": "partial",
+      "reason": "漏译了 'Some you flow along with with ease' 中的 'with ease' 以及后半句 'some you struggle with' 完全未译",
+      "missing_info": "some you struggle with"
+    },
+    {
+      "key": "271.360-272.800",
+      "start": 271.36,
+      "end": 272.8,
+      "en_full": "But, that's, you know, that's the way it's supposed to be. That's what creates",
+      "zh": "但你知道，本就该如此。正是这一点造就了",
+      "verdict": "partial",
+      "reason": "漏译了 'That's what creates' 后面的内容，中文只重复了前半句",
+      "missing_info": "That's what creates"
+    },
+    {
+      "key": "272.800-273.440",
+      "start": 272.8,
+      "end": 273.44,
+      "en_full": "it's supposed to be. That's what creates",
+      "zh": "本该如此。正是这一点造就了它。",
+      "verdict": "partial",
+      "reason": "漏译了 'it's supposed to be' 和 'That's what creates' 后面的内容，中文不完整",
+      "missing_info": "it's supposed to be. That's what creates"
+    },
+    {
+      "key": "273.440-281.150",
+      "start": 273.44,
+      "end": 281.15,
+      "en_full": "good story. That's what creates substance. That's what That's what creates room for character development.",
+      "zh": "好故事才能创造实质内容，为角色发展留出空间。",
+      "verdict": "pass",
+      "reason": "核心意思完整，中文简洁概括了英文内容。"
+    },
+    {
+      "key": "281.160-282.909",
+      "start": 281.16,
+      "end": 282.909,
+      "en_full": "That's the point.",
+      "zh": "这就是重点。",
+      "verdict": "pass",
+      "reason": "准确传达了英文意思。"
+    },
+    {
+      "key": "282.919-285.150",
+      "start": 282.919,
+      "end": 285.15,
+      "en_full": "That's the whole point.",
+      "zh": "这就是全部重点。",
+      "verdict": "pass",
+      "reason": "准确传达了英文意思。"
+    },
+    {
+      "key": "285.160-290.160",
+      "start": 285.16,
+      "end": 290.16,
+      "en_full": "And when you can adopt this type of perspective, it becomes a lot easier",
+      "zh": "当你能够采用这种视角时，事情就会变得容易得多。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "290.160-296.430",
+      "start": 290.16,
+      "end": 296.43,
+      "en_full": "to not try to reject those parts of your life that feel unideal.",
+      "zh": "不再试图排斥生活中不如意的部分。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "296.440-302.150",
+      "start": 296.44,
+      "end": 302.15,
+      "en_full": "Now, you start to see them as opportunities. You start to see meaning and purpose in them.",
+      "zh": "现在你开始把它们视为机会，看到其中的意义和目标。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "302.160-307.800",
+      "start": 302.16,
+      "end": 307.8,
+      "en_full": "And you also develop a sense of confidence and trust in yourself through this process cuz you",
+      "zh": "在这个过程中，你也会逐渐建立起对自己的信心和信任。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "307.800-308.880",
+      "start": 307.8,
+      "end": 308.88,
+      "en_full": "learn that you got you got it. You like",
+      "zh": "听说你懂了，你喜欢。",
+      "verdict": "wrong",
+      "reason": "中文翻译与英文意思完全不符。英文是'learn that you got you got it. You like'，中文却译成'听说你懂了，你喜欢'，严重错译。"
+    },
+    {
+      "key": "308.880-311.310",
+      "start": 308.88,
+      "end": 311.31,
+      "en_full": "you'll be fine.",
+      "zh": "你会没事的。",
+      "verdict": "pass",
+      "reason": "准确传达了英文意思。"
+    },
+    {
+      "key": "311.320-315.950",
+      "start": 311.32,
+      "end": 315.95,
+      "en_full": "The outcomes that you're scared of happening don't actually destroy you.",
+      "zh": "你害怕的结果其实并不会真正毁掉你。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "315.960-318.630",
+      "start": 315.96,
+      "end": 318.63,
+      "en_full": "You realize this time and time again.",
+      "zh": "你会一次又一次地明白这一点。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "318.640-322.240",
+      "start": 318.64,
+      "end": 322.24,
+      "en_full": "And every time you experience this, you",
+      "zh": "每次你经历这个，你",
+      "verdict": "partial",
+      "reason": "中文漏译了'every time you experience this, you'中的'every time you experience this'这一独立信息。",
+      "missing_info": "漏译了'每次你经历这个'这一独立分句。"
+    },
+    {
+      "key": "322.240-327.280",
+      "start": 322.24,
+      "end": 327.28,
+      "en_full": "confidence in yourself, further enabling you to continue to pursue what you love,",
+      "zh": "自信让你能继续追求所爱。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "327.280-333.070",
+      "start": 327.28,
+      "end": 333.07,
+      "en_full": "what you have a passion for, what you crave, what you're drawn to.",
+      "zh": "你有热情的事物，你渴望的，你被吸引的。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "333.080-339.240",
+      "start": 333.08,
+      "end": 339.24,
+      "en_full": "And don't be afraid of coming off as weird or abnormal, either, you know, like",
+      "zh": "也别怕显得奇怪或反常，你知道的，就像",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "339.240-341.919",
+      "start": 339.24,
+      "end": 341.919,
+      "en_full": "I I'm not necessarily your average Joe, right? Like",
+      "zh": "我可不是那种普通人，对吧？",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "341.919-348.240",
+      "start": 341.919,
+      "end": 348.24,
+      "en_full": "there's a lot of things about me that are just different in the way that I communicate",
+      "zh": "我在沟通方式上有很多不同之处。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "348.240-356.160",
+      "start": 348.24,
+      "end": 356.16,
+      "en_full": "um I find it really hard to talk to people in a social setting um",
+      "zh": "我觉得在社交场合跟人聊天真的很难。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "356.160-357.640",
+      "start": 356.16,
+      "end": 357.64,
+      "en_full": "or at least certain types of social settings. Whoops, don't don't don't you",
+      "zh": "或者至少是某些类型的社交场合。哎呀，别别别你",
+      "verdict": "partial",
+      "reason": "中文漏译了'Whoops, don't don't don't you'这一独立感叹句。",
+      "missing_info": "漏译了'Whoops, don't don't don't you'。"
+    },
+    {
+      "key": "357.640-364.080",
+      "start": 357.64,
+      "end": 364.08,
+      "en_full": "settings. Whoops, don't don't don't you You know, and it's really hard to relate",
+      "zh": "设置。哎呀，别别别，你知道的，这真的很难理解。",
+      "verdict": "wrong",
+      "reason": "中文翻译与英文意思不符。英文是'settings. Whoops, don't don't don't you You know, and it's really hard to relate'，中文却译成'设置。哎呀，别别别，你知道的，这真的很难理解。'，其中'relate'被误译为'理解'，且漏译了'it's really hard to relate'中的'relate'的准确含义。"
+    },
+    {
+      "key": "364.080-367.960",
+      "start": 364.08,
+      "end": 367.96,
+      "en_full": "to people",
+      "zh": "对人们来说",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "367.960-373.520",
+      "start": 367.96,
+      "end": 373.52,
+      "en_full": "be easy to or I look at other people and",
+      "zh": "要么简单点，要么我看别人。",
+      "verdict": "partial",
+      "reason": "漏译了 'be easy to' 的完整意思",
+      "missing_info": "英文前半句 'be easy to' 未翻译，可能指 '对别人来说很容易'"
+    },
+    {
+      "key": "373.520-380.790",
+      "start": 373.52,
+      "end": 380.79,
+      "en_full": "you know making friends and communicating and fitting in with the crowd.",
+      "zh": "你知道怎么交朋友、沟通和融入人群。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "380.800-384.550",
+      "start": 380.8,
+      "end": 384.55,
+      "en_full": "I've always felt like an outsider in that regard.",
+      "zh": "在这方面，我一直觉得自己像个局外人。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "384.560-389.840",
+      "start": 384.56,
+      "end": 389.84,
+      "en_full": "But instead of trying to figure out how to",
+      "zh": "但与其试图弄清楚如何",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "389.840-393.000",
+      "start": 389.84,
+      "end": 393,
+      "en_full": "be somebody I'm not and and conceal this this part about me",
+      "zh": "假装成另一个人，隐藏自己的这一面。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "393.000-397.950",
+      "start": 393,
+      "end": 397.95,
+      "en_full": "I've instead leaned into it.",
+      "zh": "我反而顺势而为了。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "397.960-402.720",
+      "start": 397.96,
+      "end": 402.72,
+      "en_full": "And it was through that that I really found a sense of",
+      "zh": "正是通过这一点，我真正找到了意义。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "402.720-408.440",
+      "start": 402.72,
+      "end": 408.44,
+      "en_full": "to me empowering a lot of the",
+      "zh": "对我来说，赋予了很多力量",
+      "verdict": "partial",
+      "reason": "漏译了 'empowering' 和 'a lot of' 的完整含义",
+      "missing_info": "英文 'empowering a lot of the obsessions' 未完整翻译，中文只说了'赋予了很多力量'，缺少'obsessions'"
+    },
+    {
+      "key": "408.440-414.550",
+      "start": 408.44,
+      "end": 414.55,
+      "en_full": "the obsessions that I have um like liminality.",
+      "zh": "我痴迷于像阈限性这样的概念。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "414.560-417.760",
+      "start": 414.56,
+      "end": 417.76,
+      "en_full": "You know, liminality liminal spaces is a",
+      "zh": "你知道，阈限性、阈限空间是一种",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "417.760-418.480",
+      "start": 417.76,
+      "end": 418.48,
+      "en_full": "is a fascination. It's an interest. It's",
+      "zh": "这是一种迷恋，一种兴趣。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "418.480-420.430",
+      "start": 418.48,
+      "end": 420.43,
+      "en_full": "an obsession that I have.",
+      "zh": "我有个执念。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "420.440-424.950",
+      "start": 420.44,
+      "end": 424.95,
+      "en_full": "And it's something that I really I'm dedicated to.",
+      "zh": "这是我真正致力于做的事情。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "424.960-429.520",
+      "start": 424.96,
+      "end": 429.52,
+      "en_full": "But if I was so worried about coming off as",
+      "zh": "但如果我那么担心显得太……",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "429.520-433.070",
+      "start": 429.52,
+      "end": 433.07,
+      "en_full": "you know, whatever um I probably wouldn't have done that.",
+      "zh": "你知道，呃，我可能不会那么做。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "433.080-436.360",
+      "start": 433.08,
+      "end": 436.36,
+      "en_full": "It wouldn't be something that I talk",
+      "zh": "这不是我会谈论的事。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "436.360-443.150",
+      "start": 436.36,
+      "end": 443.15,
+      "en_full": "obscure thing. It's it's not it's not mainstream or or anything like that.",
+      "zh": "小众的东西，不是主流的那种。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "443.160-448.720",
+      "start": 443.16,
+      "end": 448.72,
+      "en_full": "And it really feels like a kind of new unexplored area when it comes to talking",
+      "zh": "谈到这个话题时，感觉就像进入了一个全新的未知领域。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "448.720-453.720",
+      "start": 448.72,
+      "end": 453.72,
+      "en_full": "about this type of thing in in relation to psychology and and",
+      "zh": "关于心理学中这类事情",
+      "verdict": "partial",
+      "reason": "漏译了 'and' 后的内容",
+      "missing_info": "英文 'and and' 后应有内容，但中文只翻译了前半句，缺少后半句"
+    },
+    {
+      "key": "453.720-457.919",
+      "start": 453.72,
+      "end": 457.919,
+      "en_full": "mentality and",
+      "zh": "心态和",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "457.919-459.680",
+      "start": 457.919,
+      "end": 459.68,
+      "en_full": "know, but that's what I enjoy and that's",
+      "zh": "知道，但那正是我喜欢的。",
+      "verdict": "partial",
+      "reason": "漏译了 'and that's' 引导的独立从句 'that's what I enjoy' 被合并到前一句，但后文有类似表达，可视为重复，但此处明确漏了独立信息",
+      "missing_info": "漏译了 'that's what I enjoy' 的独立含义"
+    },
+    {
+      "key": "459.680-467.200",
+      "start": 459.68,
+      "end": 467.2,
+      "en_full": "what I really have a deep love for, so it doesn't really matter.",
+      "zh": "我真正深爱的东西，所以其实无所谓。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "467.200-469.230",
+      "start": 467.2,
+      "end": 469.23,
+      "en_full": "It doesn't really matter.",
+      "zh": "其实无所谓。",
+      "verdict": "pass",
+      "reason": "重复句，中文省略合理"
+    },
+    {
+      "key": "469.240-473.390",
+      "start": 469.24,
+      "end": 473.39,
+      "en_full": "I'm going to dedicate everything I have to it.",
+      "zh": "我会全力以赴，倾尽所有。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "473.400-477.080",
+      "start": 473.4,
+      "end": 477.08,
+      "en_full": "And I know for a fact that I will find",
+      "zh": "而且我确信我一定会找到。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "477.080-482.870",
+      "start": 477.08,
+      "end": 482.87,
+      "en_full": "a similar fascination for it, a similar love for it.",
+      "zh": "对它有着相似的迷恋，相似的热爱。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "482.880-483.920",
+      "start": 482.88,
+      "end": 483.92,
+      "en_full": "love for it. It's not for everybody. It's not",
+      "zh": "热爱它。它不适合所有人。不是。",
+      "verdict": "partial",
+      "reason": "漏译了 'It's not for everybody. It's not' 中的第二个 'It's not'，但属于重复，可视为 pass，但此处判定为 partial 因漏了独立短句",
+      "missing_info": "漏译了 'It's not' 这个独立短句"
+    },
+    {
+      "key": "483.920-484.920",
+      "start": 483.92,
+      "end": 484.92,
+      "en_full": "It's not for everybody. It's not supposed to be. That's why it's it's",
+      "zh": "这不是为所有人准备的，也不该是。所以它才特别。",
+      "verdict": "pass",
+      "reason": "核心意思完整，合并合理"
+    },
+    {
+      "key": "484.920-486.480",
+      "start": 484.92,
+      "end": 486.48,
+      "en_full": "supposed to be. That's why it's it's special. It's",
+      "zh": "本该如此，这就是它特别的原因。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "486.480-490.350",
+      "start": 486.48,
+      "end": 490.35,
+      "en_full": "it's not meant to be for everybody.",
+      "zh": "这不是为所有人准备的。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "490.360-497.440",
+      "start": 490.36,
+      "end": 497.44,
+      "en_full": "So, whatever your passion is, whatever",
+      "zh": "所以，无论你的热情是什么，无论",
+      "verdict": "partial",
+      "reason": "英文是 'whatever your passion is, whatever that everyone around you is supposed to approve of it'，中文漏译了 'whatever' 引导的第二个从句，且句子结构不完整",
+      "missing_info": "漏译了 'whatever that everyone around you is supposed to approve of it' 这个独立从句"
+    },
+    {
+      "key": "497.440-502.070",
+      "start": 497.44,
+      "end": 502.07,
+      "en_full": "that everyone around you is supposed to approve of it.",
+      "zh": "你周围的每个人都应该认可它。",
+      "verdict": "wrong",
+      "reason": "英文是 'whatever that everyone around you is supposed to approve of it'，中文翻译成 '你周围的每个人都应该认可它'，但英文原意是 '无论你周围的人是否应该认可它'，中文意思相反"
+    },
+    {
+      "key": "502.080-506.000",
+      "start": 502.08,
+      "end": 506,
+      "en_full": "You know, it's often the best ideas, the most revolutionary ideas, the most",
+      "zh": "你知道吗，最棒的想法、最具革命性的想法，往往是最简单的。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "506.000-512.270",
+      "start": 506,
+      "end": 512.27,
+      "en_full": "innovative ideas that are rejected the most because they're challenging what is normal.",
+      "zh": "最具创新性的想法往往最常被拒绝，因为它们挑战了常规。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "512.280-513.990",
+      "start": 512.28,
+      "end": 513.99,
+      "en_full": "That's the point.",
+      "zh": "这就是重点。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "514.000-520.670",
+      "start": 514,
+      "end": 520.67,
+      "en_full": "So, I just wanted to have that talk because it's so important.",
+      "zh": "我只是想聊聊这个，因为它太重要了。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "520.680-523.280",
+      "start": 520.68,
+      "end": 523.28,
+      "en_full": "If you begin to live your life, if you",
+      "zh": "如果你开始活出自己的人生，如果你",
+      "verdict": "partial",
+      "reason": "英文是 'If you begin to live your life, if you manner'，中文只翻译了前半句，漏译了 'if you manner' 这个独立从句",
+      "missing_info": "漏译了 'if you manner' 这个独立从句"
+    },
+    {
+      "key": "523.280-528.920",
+      "start": 523.28,
+      "end": 528.92,
+      "en_full": "manner, I truly believe that you will",
+      "zh": "方式，我真心相信你会",
+      "verdict": "partial",
+      "reason": "英文是 'I truly believe that you will to have it all right all the time'，中文翻译成 '我真心相信你会要一直把所有事情都做对'，但英文缺少动词，中文补了'要'，但漏译了 'to have it all right' 中的 'all' 和 'right' 的完整含义，且句子不完整",
+      "missing_info": "漏译了 'to have it all right' 的完整含义"
+    },
+    {
+      "key": "528.920-533.030",
+      "start": 528.92,
+      "end": 533.03,
+      "en_full": "to have it all right all the time.",
+      "zh": "要一直把所有事情都做对。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "538.600-542.230",
+      "start": 538.6,
+      "end": 542.23,
+      "en_full": "I do have a little surprise for you guys. I got a I got a new car.",
+      "zh": "我给你们准备了个小惊喜。我买了辆新车。",
+      "verdict": "pass",
+      "reason": "核心意思完整传达"
+    },
+    {
+      "key": "542.240-546.070",
+      "start": 542.24,
+      "end": 546.07,
+      "en_full": "I upgraded from the 2007 Honda Accord. I loved that thing.",
+      "zh": "我从2007款本田雅阁升级上来的。那车我太爱了。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "546.080-550.829",
+      "start": 546.08,
+      "end": 550.829,
+      "en_full": "Um took me on several road trips.",
+      "zh": "嗯，带我去了几次公路旅行。",
+      "verdict": "pass",
+      "reason": "填充词可省略"
+    },
+    {
+      "key": "550.839-552.390",
+      "start": 550.839,
+      "end": 552.39,
+      "en_full": "It was loyal.",
+      "zh": "它很忠诚。",
+      "verdict": "pass",
+      "reason": "直译准确"
+    },
+    {
+      "key": "552.400-555.270",
+      "start": 552.4,
+      "end": 555.27,
+      "en_full": "It was Man, I feel like I'm cheating on her.",
+      "zh": "天啊，我感觉自己在背叛她。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "557.440-563.310",
+      "start": 557.44,
+      "end": 563.31,
+      "en_full": "she was a loyal one and I miss her dearly, but she was starting to have some problems.",
+      "zh": "她是个忠诚的人，我非常想念她，但她开始出现一些问题。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "563.320-567.710",
+      "start": 563.32,
+      "end": 567.71,
+      "en_full": "She was starting to have some problems, and so I upgraded.",
+      "zh": "她开始遇到一些问题，所以我就升级了。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "567.720-570.829",
+      "start": 567.72,
+      "end": 570.829,
+      "en_full": "I want to show you guys my new car, my new little toy.",
+      "zh": "我想给你们看看我的新车，我的新小玩具。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "570.839-578.830",
+      "start": 570.839,
+      "end": 578.83,
+      "en_full": "I'll show you guys the exterior in a minute here, but this is a Cadillac Lyriq V.",
+      "zh": "我马上带你们看外观，但这是凯迪拉克 Lyriq V。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "578.840-584.710",
+      "start": 578.84,
+      "end": 584.71,
+      "en_full": "Um has a ton of cool features like massage seats, as you can see here.",
+      "zh": "Um 有很多酷炫功能，比如按摩座椅，你看这里。",
+      "verdict": "pass",
+      "reason": "填充词可省略"
+    },
+    {
+      "key": "584.720-590.680",
+      "start": 584.72,
+      "end": 590.68,
+      "en_full": "Um heated seats, ventilated seats, amazing",
+      "zh": "有加热座椅、通风座椅，非常棒。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "590.680-597.960",
+      "start": 590.68,
+      "end": 597.96,
+      "en_full": "don't know if you guys can see that, but there are um speakers",
+      "zh": "不知道你们能不能看到，但那里有扬声器。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "597.960-599.910",
+      "start": 597.96,
+      "end": 599.91,
+      "en_full": "in the headrest.",
+      "zh": "在头枕里。",
+      "verdict": "pass",
+      "reason": "直译准确"
+    },
+    {
+      "key": "599.920-602.790",
+      "start": 599.92,
+      "end": 602.79,
+      "en_full": "Very spacious.",
+      "zh": "非常宽敞。",
+      "verdict": "pass",
+      "reason": "直译准确"
+    },
+    {
+      "key": "602.800-604.560",
+      "start": 602.8,
+      "end": 604.56,
+      "en_full": "Very spacious. Big glass roof. This thing is absolutely",
+      "zh": "非常宽敞。大玻璃天窗。这玩意儿绝对",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "604.560-606.600",
+      "start": 604.56,
+      "end": 606.6,
+      "en_full": "Big glass roof. This thing is absolutely beautiful. Has a V Max mode,",
+      "zh": "大玻璃顶，美极了。还有V Max模式。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "606.600-613.390",
+      "start": 606.6,
+      "end": 613.39,
+      "en_full": "which is Oh my gosh, this thing is unbelievably fast.",
+      "zh": "天哪，这东西快得难以置信。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "613.400-617.870",
+      "start": 613.4,
+      "end": 617.87,
+      "en_full": "Uh but nonetheless, I'll show you guys the exterior real really quick.",
+      "zh": "不过，我还是很快带你们看看外观。",
+      "verdict": "pass",
+      "reason": "核心意思完整"
+    },
+    {
+      "key": "617.880-618.760",
+      "start": 617.88,
+      "end": 618.76,
+      "en_full": "the exterior real really quick. All right, here we go. So, when you turn",
+      "zh": "外观确实很快。好了，开始。所以，当你转动时",
+      "verdict": "wrong",
+      "reason": "英文说'很快带你们看外观'，中文译成'外观确实很快'，意思相反"
+    },
+    {
+      "key": "618.760-622.120",
+      "start": 618.76,
+      "end": 622.12,
+      "en_full": "this thing on,",
+      "zh": "这个开着吗？",
+      "verdict": "wrong",
+      "reason": "英文是'when you turn this thing on'（当你启动它时），中文译成'这个开着吗？'，意思完全错误"
+    },
+    {
+      "key": "622.120-628.560",
+      "start": 622.12,
+      "end": 628.56,
+      "en_full": "does a cool little uh It didn't do it. Whatever.",
+      "zh": "它做了个酷炫的小动作，但没成功。算了。",
+      "verdict": "pass",
+      "reason": "核心意思完整，口语化处理合理。"
+    },
+    {
+      "key": "628.560-628.990",
+      "start": 628.56,
+      "end": 628.99,
+      "en_full": "It didn't do it. Whatever. Anticlimactic. I promise you.",
+      "zh": "没成功。算了。真扫兴。我保证。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "629.000-632.150",
+      "start": 629,
+      "end": 632.15,
+      "en_full": "Anticlimactic. I promise you.",
+      "zh": "太让人失望了，我保证",
+      "verdict": "pass",
+      "reason": "核心意思一致。"
+    },
+    {
+      "key": "632.160-635.110",
+      "start": 632.16,
+      "end": 635.11,
+      "en_full": "Little Cadillac logo in the front there.",
+      "zh": "前面有个小小的凯迪拉克标志",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "635.120-636.880",
+      "start": 635.12,
+      "end": 636.88,
+      "en_full": "Little Cadillac logo in the front there. Very cool feature. Um I love these",
+      "zh": "前面有个小凯迪拉克标志，非常酷的设计，我很喜欢。",
+      "verdict": "pass",
+      "reason": "核心意思完整，合并了句子。"
+    },
+    {
+      "key": "636.880-638.480",
+      "start": 636.88,
+      "end": 638.48,
+      "en_full": "Very cool feature. Um I love these wheels. These came with the car. This",
+      "zh": "很酷的功能。嗯，我喜欢这些轮毂。它们是原车自带的。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "638.480-639.720",
+      "start": 638.48,
+      "end": 639.72,
+      "en_full": "wheels. These came with the car. This",
+      "zh": "这是随车附带的",
+      "verdict": "pass",
+      "reason": "核心意思完整，概括了前一句。"
+    },
+    {
+      "key": "639.720-643.630",
+      "start": 639.72,
+      "end": 643.63,
+      "en_full": "thing looks so so futuristic.",
+      "zh": "这个看起来好有未来感",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "643.640-645.510",
+      "start": 643.64,
+      "end": 645.51,
+      "en_full": "I just love it, man. I just love it.",
+      "zh": "我太喜欢了，真的太喜欢了",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "645.520-649.150",
+      "start": 645.52,
+      "end": 649.15,
+      "en_full": "This is definitely an upgrade from what I came from.",
+      "zh": "这比我之前的升级太多了",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "649.160-652.710",
+      "start": 649.16,
+      "end": 652.71,
+      "en_full": "The illuminated door handles.",
+      "zh": "发光门把手",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "652.720-660.560",
+      "start": 652.72,
+      "end": 660.56,
+      "en_full": "Nonetheless, You know, for those of you that know",
+      "zh": "不过，你们知道的，对于了解情况的人来说",
+      "verdict": "pass",
+      "reason": "核心意思完整，省略了填充词。"
+    },
+    {
+      "key": "660.560-662.080",
+      "start": 660.56,
+      "end": 662.08,
+      "en_full": "a bit about my story, a bit about my",
+      "zh": "一点关于我的故事，一点关于我的",
+      "verdict": "pass",
+      "reason": "核心意思完整，省略了重复。"
+    },
+    {
+      "key": "662.080-669.520",
+      "start": 662.08,
+      "end": 669.52,
+      "en_full": "journey, to go from where I started to the position that I'm in now, it didn't take",
+      "zh": "从起点走到现在的位置，这段旅程并不漫长。",
+      "verdict": "pass",
+      "reason": "核心意思完整，合并了句子。"
+    },
+    {
+      "key": "669.520-671.760",
+      "start": 669.52,
+      "end": 671.76,
+      "en_full": "for me to act perfectly. It didn't take",
+      "zh": "不需要我做得完美无缺",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "671.760-677.200",
+      "start": 671.76,
+      "end": 677.2,
+      "en_full": "for me to do it all right, or have, you",
+      "zh": "不需要我把每件事都做对",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "677.200-681.310",
+      "start": 677.2,
+      "end": 681.31,
+      "en_full": "all times in order to to make that type of transformation.",
+      "zh": "也不需要时刻让所有事都恰到好处，才能实现转变",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "681.320-687.240",
+      "start": 681.32,
+      "end": 687.24,
+      "en_full": "In fact, it's pretty a lot quite the opposite, you know, it's it's exploring",
+      "zh": "实际上，恰恰相反，这是一种探索。",
+      "verdict": "pass",
+      "reason": "核心意思完整，省略了填充词。"
+    },
+    {
+      "key": "687.240-694.520",
+      "start": 687.24,
+      "end": 694.52,
+      "en_full": "putting myself into situations that again maybe aren't the smartest on paper, but",
+      "zh": "是把自己置于看起来不太明智的处境中",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "694.520-695.800",
+      "start": 694.52,
+      "end": 695.8,
+      "en_full": "I have a belief in myself. I have a",
+      "zh": "我对自己有信心。",
+      "verdict": "pass",
+      "reason": "核心意思完整。"
+    },
+    {
+      "key": "695.800-699.320",
+      "start": 695.8,
+      "end": 699.32,
+      "en_full": "belief in my capability, and I'm going",
+      "zh": "相信我的能力，我会做到的。",
+      "verdict": "pass",
+      "reason": "核心意思传达，省略了填充词"
+    },
+    {
+      "key": "699.320-705.470",
+      "start": 699.32,
+      "end": 705.47,
+      "en_full": "things that people will question cuz it's not normal.",
+      "zh": "这会让你去做人们质疑的事情，因为那不是正常的",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "705.480-708.910",
+      "start": 705.48,
+      "end": 708.91,
+      "en_full": "Because most people don't do these types of things, you know what I mean?",
+      "zh": "因为大多数人不会做这类事，你懂我意思吗",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "708.920-712.240",
+      "start": 708.92,
+      "end": 712.24,
+      "en_full": "I honestly think that one of my greatest",
+      "zh": "老实说，我觉得自己最大的优点之一就是",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "712.240-718.960",
+      "start": 712.24,
+      "end": 718.96,
+      "en_full": "has been",
+      "zh": "已经",
+      "verdict": "partial",
+      "reason": "英文是'has been'，中文只译了'已经'，缺少主语和表语，但结合上下文可能可接受，但单独看信息不完整",
+      "missing_info": "英文'has been'是系动词，中文'已经'不完整，但可能与前句衔接"
+    },
+    {
+      "key": "718.960-726.480",
+      "start": 718.96,
+      "end": 726.48,
+      "en_full": "arises in the event of me",
+      "zh": "如果是我出现这种情况",
+      "verdict": "partial",
+      "reason": "英文'arises in the event of me'中文译为'如果是我出现这种情况'，但英文缺少宾语，中文补充了'这种情况'，但英文原意不完整，可能漏译",
+      "missing_info": "英文缺少宾语，中文补充了'这种情况'，但英文原句不完整"
+    },
+    {
+      "key": "726.480-734.430",
+      "start": 726.48,
+      "end": 734.43,
+      "en_full": "for and interest in or or or have a belief in with an honest intent.",
+      "zh": "为了、感兴趣、或者相信，带着真诚的意图。",
+      "verdict": "pass",
+      "reason": "核心意思一致，省略了重复的'or'"
+    },
+    {
+      "key": "734.440-739.080",
+      "start": 734.44,
+      "end": 739.08,
+      "en_full": "A sincere intent to just explore that",
+      "zh": "只是想探索一下的真诚意图",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "739.080-742.320",
+      "start": 739.08,
+      "end": 742.32,
+      "en_full": "do it fully and not and not hold back,",
+      "zh": "全力以赴，不退缩，不害怕",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文增加了'不害怕'但属于合理扩展"
+    },
+    {
+      "key": "742.320-747.270",
+      "start": 742.32,
+      "end": 747.27,
+      "en_full": "outcome may be cuz I just know that that that's the way it's supposed to be.",
+      "zh": "结果可能只是因为我就是知道事情本该如此。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "747.280-749.990",
+      "start": 747.28,
+      "end": 749.99,
+      "en_full": "You know, I think everything happens for a reason.",
+      "zh": "我认为凡事发生皆有原因",
+      "verdict": "pass",
+      "reason": "核心意思一致，省略了'You know'"
+    },
+    {
+      "key": "750.000-754.550",
+      "start": 750,
+      "end": 754.55,
+      "en_full": "And I trust that I can can handle whatever outcome arises. I I truly do.",
+      "zh": "我相信自己能应对任何结果，真的相信",
+      "verdict": "pass",
+      "reason": "核心意思一致，省略了重复和填充词"
+    },
+    {
+      "key": "754.560-756.430",
+      "start": 754.56,
+      "end": 756.43,
+      "en_full": "And so that just leads to progression.",
+      "zh": "所以这会让人不断进步",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "756.440-763.590",
+      "start": 756.44,
+      "end": 763.59,
+      "en_full": "That leads to self-discovery, self-development, character development, and if you ask me, a wonderful story.",
+      "zh": "这能带来自我发现、自我成长、性格塑造，要我说，还有精彩的故事。",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "763.600-770.160",
+      "start": 763.6,
+      "end": 770.16,
+      "en_full": "So,",
+      "zh": "那么，",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文省略了'So'但可接受"
+    },
+    {
+      "key": "770.160-773.480",
+      "start": 770.16,
+      "end": 773.48,
+      "en_full": "greatest most important life lessons that I've",
+      "zh": "我学到的最重要的人生教训",
+      "verdict": "partial",
+      "reason": "英文是'greatest most important life lessons that I've'，中文译为'我学到的最重要的人生教训'，但英文缺少动词'learned'，中文补充了'学到'，但英文原句不完整",
+      "missing_info": "英文缺少动词，中文补充了'学到'，但英文原句不完整"
+    },
+    {
+      "key": "773.480-775.320",
+      "start": 773.48,
+      "end": 775.32,
+      "en_full": "learned in my own personal journey. So,",
+      "zh": "在我自己的个人旅程中学到的。",
+      "verdict": "pass",
+      "reason": "核心意思一致，中文省略了'So'"
+    },
+    {
+      "key": "775.320-778.190",
+      "start": 775.32,
+      "end": 778.19,
+      "en_full": "I'm I'm more than happy to share with you guys.",
+      "zh": "所以我非常开心能和大家分享",
+      "verdict": "pass",
+      "reason": "核心意思一致"
+    },
+    {
+      "key": "778.200-782.070",
+      "start": 778.2,
+      "end": 782.07,
+      "en_full": "I absolutely love you. Um I appreciate your time.",
+      "zh": "我真的爱你们，感谢你们的时间",
+      "verdict": "pass",
+      "reason": "核心意思一致，省略了'Um'"
+    }
+  ],
+  "stats": {
+    "pass": 154,
+    "partial": 20,
+    "wrong": 5
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "videoId": "kpnYw9minjY",
+  "generatedAt": "2026-08-11T06:26:31.776Z",
+  "cards": [
+    {
+      "id": "msoa1yvz34jetd",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "serenity",
+      "back": "宁静，平静 (noun, B2)",
+      "context": "Part of the **serenity** of Rage Room is the being alone, but with the audience is insane.",
+      "audioStart": 48.36,
+      "audioEnd": 55.16,
+      "word": "serenity",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.775Z"
+    },
+    {
+      "id": "msoa1yvz41bgxo",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "rubble",
+      "back": "碎石，瓦砾 (noun, B2)",
+      "context": "Okay, here's a question in the **rubble**.",
+      "audioStart": 60.06,
+      "audioEnd": 61.48,
+      "word": "rubble",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.775Z"
+    },
+    {
+      "id": "msoa1yvz3wdv7v",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "smithereens",
+      "back": "碎片，碎屑 (noun, C1)",
+      "context": "Before I smash something to **smithereens**...",
+      "audioStart": 110.38,
+      "audioEnd": 113.28,
+      "word": "smithereens",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.775Z"
+    },
+    {
+      "id": "msoa1yvz6rufvn",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sustainable",
+      "back": "可持续的 (adjective, B2)",
+      "context": "Well, I know that you're a **sustainable** queen as well.",
+      "audioStart": 286,
+      "audioEnd": 288.2,
+      "word": "sustainable",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.775Z"
+    },
+    {
+      "id": "msoa1yw01nhn6l",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "adoption",
+      "back": "收养 (noun, B2)",
+      "context": "bring like dogs and puppies who are like up for **adoption** and need homes or fosters or whatever it",
+      "audioStart": 235.4,
+      "audioEnd": 246.26,
+      "word": "adoption",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.776Z"
+    },
+    {
+      "id": "msoa1yw0rjxmbx",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "foster",
+      "back": "寄养 (noun, B2)",
+      "context": "need homes or **fosters** or whatever it",
+      "audioStart": 241.84,
+      "audioEnd": 246.26,
+      "word": "foster",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.776Z"
+    },
+    {
+      "id": "msoa1yw0rknrep",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "recycle",
+      "back": "回收利用 (verb, B2)",
+      "context": "Everything in here was not fit for purpose and is going to be **recycled**.",
+      "audioStart": 278.84,
+      "audioEnd": 284.64,
+      "word": "recycle",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.776Z"
+    },
+    {
+      "id": "msoa1yw0e0xxyu",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hilarious",
+      "back": "滑稽的，可笑的 (adjective, B2)",
+      "context": "Oh God, the bags over the camera, this is **hilarious**.",
+      "audioStart": 3.72,
+      "audioEnd": 7.08,
+      "word": "hilarious",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.776Z"
+    },
+    {
+      "id": "msoa1yw0eg0h2h",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "unbelievable",
+      "back": "难以置信的 (adjective, B2)",
+      "context": "I want to talk about the **unbelievable** 3D movie.",
+      "audioStart": 21.24,
+      "audioEnd": 23.2,
+      "word": "unbelievable",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.776Z"
+    },
+    {
+      "id": "msoa1yw0juokdl",
+      "videoId": "kpnYw9minjY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "brawl",
+      "back": "斗殴，争吵 (noun, C1)",
+      "context": "Now you just turned it into a bar **brawl**.",
+      "audioStart": 199.1,
+      "audioEnd": 201.08,
+      "word": "brawl",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:31.776Z"
+    },
+    {
+      "id": "msoa1xnqid05z6",
+      "videoId": "kpnYw9minjY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Oh God, the bags over the camera, this is ___",
+      "back": "hilarious",
+      "context": "Oh God, the bags over the camera, this is hilarious.",
+      "audioStart": 3.7,
+      "audioEnd": 7.1,
+      "hint": "选项：strange / boring / hilarious / serious",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:30.182Z"
+    },
+    {
+      "id": "msoa1xnq1y40dc",
+      "videoId": "kpnYw9minjY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Oh God, the bags over the camera, this is ___",
+      "back": "hilarious",
+      "context": "Oh God, the bags over the camera, this is hilarious.",
+      "audioStart": 3.7,
+      "audioEnd": 7.1,
+      "hint": "选项：hilarious / boring / serious / strange",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:30.182Z"
+    },
+    {
+      "id": "msoa1xnqvnxz43",
+      "videoId": "kpnYw9minjY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) If you could go back and re-record a song, Which song would you pick and why? Mmm. Probably something from when I was like ___.",
+      "back": "15",
+      "context": "If you could go back and re-record a song, Which song would you pick and why? Mmm. Probably something from when I was like 15. Because.",
+      "audioStart": 86.3,
+      "audioEnd": 94.3,
+      "hint": "选项：30 / 20 / 15 / 10",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:30.182Z"
+    },
+    {
+      "id": "msoa1xnqt01gjh",
+      "videoId": "kpnYw9minjY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Can I just say, I love the movie so ___.",
+      "back": "much",
+      "context": "Can I just say, I love the movie so much.",
+      "audioStart": 113.3,
+      "audioEnd": 116.3,
+      "hint": "选项：well / much / little / often",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:30.182Z"
+    },
+    {
+      "id": "msoa1xnqval7b1",
+      "videoId": "kpnYw9minjY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Well, so I started in like ___ or 2019",
+      "back": "2018",
+      "context": "Well, so I started in like 2018 or 2019",
+      "audioStart": 221.6,
+      "audioEnd": 229.5,
+      "hint": "选项：2020 / 2018 / 2016 / 2017",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:30.182Z"
+    },
+    {
+      "id": "msoa1xws358evk",
+      "videoId": "kpnYw9minjY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我想说一件很重要的事 我该说的话，我早该说了\nWhat I ___ say, um, should ___ ___ this earlier.",
+      "back": "should / have / said",
+      "context": "What I should say, um, should have said this earlier.",
+      "audioStart": 261.624,
+      "audioEnd": 264.804,
+      "hint": "should have said",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:30.508Z"
+    },
+    {
+      "id": "msoa1xwsknq1lb",
+      "videoId": "kpnYw9minjY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "不管在哪座城市演出，都带些待领养的狗和小狗过来。 需要家、需要寄养的都行，被领养的狗狗真的超多。\nThe amount of dogs and puppies that ___ ___ adopted on my tour by my team, by me, by my band, It's really pretty amazing.",
+      "back": "would / have / been",
+      "context": "The amount of dogs and puppies that have been adopted on my tour by my team, by me, by my band, It's really pretty amazing.",
+      "audioStart": 241.844,
+      "audioEnd": 246.264,
+      "hint": "would have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:30.508Z"
+    }
+  ]
+}

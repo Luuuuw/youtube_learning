@@ -1,0 +1,594 @@
+{
+  "videoId": "rW8YmfqHhrA",
+  "title": "rW8YmfqHhrA",
+  "generatedAt": "2026-08-10T16:47:01.476Z",
+  "version": 1,
+  "totalQuestions": 26,
+  "stats": {
+    "easy": 7,
+    "medium": 13,
+    "hard": 6,
+    "choice": 21,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the speaker trying to make low calorie?",
+      "options": [
+        "A) A drink",
+        "B) A snack on set",
+        "C) A meal at home",
+        "D) A dessert"
+      ],
+      "answer": "B",
+      "explanation": "原句提到'the low calorie on set does not make...'，说明说话者是在片场（on set）尝试做某种低卡路里的东西，但效果不好。'on set'是影视行业的常用表达，指拍摄现场。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 90.6,
+      "endTime": 94,
+      "difficulty": "medium",
+      "relatedWords": [
+        "low calorie",
+        "on set",
+        "make"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "Where did the speaker go based on the subtitle 'I literally went to the Oval Office'?",
+      "options": [
+        "A) A sports stadium",
+        "B) The US President's office",
+        "C) A shopping mall",
+        "D) An amusement park"
+      ],
+      "answer": "B",
+      "explanation": "Oval Office（椭圆办公室）是美国总统的正式办公场所，位于白宫西厢。说话者使用'literally'（真的，确实）来强调自己真的去了那里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 191.4,
+      "endTime": 193.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Oval Office",
+        "literally",
+        "White House"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What time is it according to the speaker?",
+      "options": [
+        "A) About 7:30",
+        "B) About 8:30",
+        "C) About 9:30",
+        "D) About 10:30"
+      ],
+      "answer": "C",
+      "explanation": "原句'Now it's like 9.30'意思是'现在大概9点半了'。'like'在这里表示'大约、差不多'，是非正式口语中常用的表达方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 198.7,
+      "endTime": 200.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "time",
+        "like",
+        "approximately"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What did the speaker get?",
+      "options": [
+        "A) A pair of shoes",
+        "B) A pair of socks",
+        "C) A pair of gloves",
+        "D) A pair of pants"
+      ],
+      "answer": "B",
+      "explanation": "原句'I got a pair of socks'意思是'我买了一双袜子'。'a pair of'是表示成对物品的量词，常用于袜子、鞋子、手套、眼镜等。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 268.8,
+      "endTime": 270,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pair",
+        "socks",
+        "quantity"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What type of greeting is 'Alright, what's up everyone'?",
+      "options": [
+        "A) Formal greeting",
+        "B) Casual/informal greeting",
+        "C) Business greeting",
+        "D) Farewell greeting"
+      ],
+      "answer": "B",
+      "explanation": "'What's up'是一个非常口语化、非正式的问候方式，类似于中文的'大家好'或'最近怎么样'。'Alright'是vlogger常用的开场词，表示'好的、那么'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 306.5,
+      "endTime": 307.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "greeting",
+        "what's up",
+        "casual"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Where is the speaker after returning?",
+      "options": [
+        "A) At a hotel",
+        "B) At the warehouse, in their room",
+        "C) At the airport",
+        "D) At a restaurant"
+      ],
+      "answer": "B",
+      "explanation": "原句'now I am back at the warehouse In my room room'说明说话者回到的是仓库（warehouse）里的房间。这是vlogger常见的生活/工作空间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 345.1,
+      "endTime": 351.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "warehouse",
+        "room",
+        "back"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "Where is the speaker when they say 'I'm on the Air Force One now'?",
+      "options": [
+        "A) On a commercial flight",
+        "B) On the US President's airplane",
+        "C) On a train",
+        "D) On a helicopter"
+      ],
+      "answer": "B",
+      "explanation": "Air Force One（空军一号）是美国总统的专机，无论现任总统乘坐哪架飞机，那架飞机的呼号就叫Air Force One。说话者能登上此机，表明身份特殊。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 611.6,
+      "endTime": 613.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Air Force One",
+        "airplane",
+        "president"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "Why does the speaker think walking through the tunnel will be fun?",
+      "options": [
+        "A) Because they like dark places",
+        "B) Because they have never done it before and it sounds exciting",
+        "C) Because it's a shortcut",
+        "D) Because their friends are there"
+      ],
+      "answer": "B",
+      "explanation": "原句'I think walking through the tunnel is going to be so much fun'使用了'going to'表示对未来的预期，'so much fun'强调这件事非常有趣。说话者对这次经历充满期待。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 439.1,
+      "endTime": 442.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tunnel",
+        "going to",
+        "fun"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'I had the best time of my entire life today' express?",
+      "options": [
+        "A) Regret",
+        "B) Extreme happiness and excitement",
+        "C) Boredom",
+        "D) Nervousness"
+      ],
+      "answer": "B",
+      "explanation": "'the best time of my entire life'是英语中表达极度开心和满足的强烈方式，意思是'我人生中最美好的时光'。'entire life'强调从出生到现在的所有时间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1124.1,
+      "endTime": 1126.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "best time",
+        "entire life",
+        "happiness"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the idiom 'soak it all in' mean?",
+      "options": [
+        "A) To get wet physically",
+        "B) To fully experience and appreciate the moment",
+        "C) To drink something",
+        "D) To take a bath"
+      ],
+      "answer": "B",
+      "explanation": "'soak it all in'是一个英语习语，字面意思是'把一切都吸收/浸泡'，实际含义是'充分感受、体验并享受当前时刻'。常用于描述难得或特别的经历。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1160.1,
+      "endTime": 1163.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "soak it all in",
+        "idiom",
+        "experience"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'grab a Diet Coke' mean in this context?",
+      "options": [
+        "A) To steal a Diet Coke",
+        "B) To go get/purchase a Diet Coke quickly",
+        "C) To hold a Diet Coke tightly",
+        "D) To throw away a Diet Coke"
+      ],
+      "answer": "B",
+      "explanation": "'grab'在口语中意为'快速拿到、迅速获取'，常用于去买食物或饮料的场合。'grab a Diet Coke'意思是'去拿一瓶健怡可乐'，是一种随意、非正式的表述。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1169.4,
+      "endTime": 1174.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "grab",
+        "Diet Coke",
+        "thirsty"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "According to the video, who had this special item?",
+      "options": [
+        "A) All players worldwide",
+        "B) Only Team USA players and some Whoop members",
+        "C) Only Whoop members",
+        "D) Team Europe players"
+      ],
+      "answer": "B",
+      "explanation": "原句'Only Team USA players and some Whoop members had this'明确说明拥有该物品的两类人：美国队队员和一些Whoop（一个健康追踪设备品牌）会员。'Only'强调排他性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1190.3,
+      "endTime": 1193.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Team USA",
+        "Whoop",
+        "only"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is a 'root beer'?",
+      "options": [
+        "A) A type of coffee",
+        "B) A sweet, carbonated soft drink",
+        "C) A type of tea",
+        "D) An alcoholic beverage"
+      ],
+      "answer": "B",
+      "explanation": "Root beer（根汁汽水）是一种北美流行的甜味碳酸饮料，通常不含酒精，由多种植物根部和香料制成。'from the machine'说明是从自动售货机买的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1202.2,
+      "endTime": 1205.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "root beer",
+        "machine",
+        "soft drink"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'I'm finally back after a long day' convey?",
+      "options": [
+        "A) The speaker is just starting their day",
+        "B) The speaker has completed a tiring day and is returning home",
+        "C) The speaker is going on a trip",
+        "D) The speaker is at the beginning of a project"
+      ],
+      "answer": "B",
+      "explanation": "'finally back'表示终于回来了，'a long day'指漫长的一天。这个表达传达了说话者经历了疲惫的一天后终于回到家的轻松感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1235.7,
+      "endTime": 1242.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "finally",
+        "long day",
+        "tired"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'I'm exhausted' mean?",
+      "options": [
+        "A) Very happy",
+        "B) Extremely tired",
+        "C) Very hungry",
+        "D) Very excited"
+      ],
+      "answer": "B",
+      "explanation": "'exhausted'是形容词，意为'筋疲力尽的、疲惫不堪的'，比'tired'程度更深。说话者累了所以换上睡衣（pajamas）准备休息。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1242.3,
+      "endTime": 1246.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "exhausted",
+        "pajamas",
+        "tired"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the speaker planning to do with grandpa?",
+      "options": [
+        "A) Go shopping",
+        "B) Go play golf at the golf course",
+        "C) Watch a movie",
+        "D) Have dinner"
+      ],
+      "answer": "B",
+      "explanation": "原句'downstairs to meet grandpa to go to the golf course with him and play golf'清楚说明说话者下楼去见爷爷，然后一起去高尔夫球场打高尔夫球。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1328,
+      "endTime": 1331.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "golf course",
+        "grandpa",
+        "play golf"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'chilling right now' mean in this context?",
+      "options": [
+        "A) Feeling cold",
+        "B) Relaxing and taking it easy",
+        "C) Working hard",
+        "D) Being sick"
+      ],
+      "answer": "B",
+      "explanation": "'chilling'在年轻人口语中意为'放松、悠闲地待着'，与'working hard'相对。'right now'强调当前状态。这是当代英语中非常流行的非正式表达。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1406.3,
+      "endTime": 1410.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chilling",
+        "relax",
+        "slang"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "In golf, what is a 'birdie'?",
+      "options": [
+        "A) A type of club",
+        "B) A score of one stroke under par on a hole",
+        "C) A golf ball",
+        "D) A golf course location"
+      ],
+      "answer": "B",
+      "explanation": "在高尔夫中，'birdie'（小鸟球）是指某洞用比标准杆少一杆的成绩，是好成绩的标志。原句'Wow, four birdies'表示说话者在四洞中各打出了小鸟球。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1556.6,
+      "endTime": 1558.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "birdie",
+        "golf",
+        "score"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I'm exhausted, but gotta grind'?",
+      "options": [
+        "A) They're going to sleep immediately",
+        "B) Despite being tired, they must continue working hard",
+        "C) They're going to make coffee",
+        "D) They're taking a break"
+      ],
+      "answer": "B",
+      "explanation": "'gotta'是'got to'的口语缩写，意为'必须'。'grind'在俚语中意为'努力工作、奋斗'。整句表达了'虽然累但仍需努力'的坚持精神。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 320.2,
+      "endTime": 321.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "gotta",
+        "grind",
+        "exhausted"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What event is happening on 'day two' according to the speaker?",
+      "options": [
+        "A) A birthday party",
+        "B) The Ryder Cup",
+        "C) A wedding",
+        "D) A graduation"
+      ],
+      "answer": "B",
+      "explanation": "原句'It's day two, which is the Ryder Cup day'说明第二天是莱德杯（Ryder Cup）比赛日。Ryder Cup是欧美两队之间两年一度的高尔夫球对抗赛。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 307.4,
+      "endTime": 309.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Ryder Cup",
+        "day two",
+        "golf tournament"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What is the weather like when the speaker goes to play golf?",
+      "options": [
+        "A) Very hot",
+        "B) Sunny and warm",
+        "C) A bit cold",
+        "D) Rainy"
+      ],
+      "answer": "C",
+      "explanation": "原句'it's kind of cold not really'以及'besides that'（除了那个之外），结合上下文可知天气有点冷。'kind of'在口语中表示'有点、稍微'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1389.7,
+      "endTime": 1394.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cold",
+        "kind of",
+        "weather"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe what you think happened when the speaker went to the Oval Office. How might you feel if you visited such an important place?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求学生根据视频内容推测在椭圆办公室的经历。Oval Office是美国总统的正式办公室，位于白宫内，是美国权力中心的象征。能进入这里是非常难得的经历。",
+      "referenceAnswer": "I imagine the speaker felt very excited and honored to visit the Oval Office. It's the official office of the US President in the White House. If I visited such an important place, I would feel nervous but also thrilled. I would probably look around carefully and take mental notes of every detail, including the famous Resolute Desk and the artwork on the walls. It would be a once-in-a-lifetime experience that I would never forget.",
+      "hint": "Think about: Who works in the Oval Office? What important decisions are made there? What famous features does it have? How would you describe your emotions?",
+      "startTime": 191.4,
+      "endTime": 193.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Oval Office",
+        "White House",
+        "president",
+        "experience"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Use the expression 'soak it all in' to describe a special moment in your life. What made it memorable?",
+      "options": [],
+      "answer": "open",
+      "explanation": "考察学生能否在口语中正确运用'soak it all in'这一习语。该短语意为'充分感受、体验某个时刻'，常用于描述难得或特别的经历。",
+      "referenceAnswer": "I will never forget the day I graduated from high school. Walking across the stage to receive my diploma, I tried to soak it all in - the cheers from my family, the proud smiles of my teachers, and the feeling of accomplishment after years of hard work. I knew this was a once-in-a-lifetime moment, so I made sure to be fully present and appreciate every second of it.",
+      "hint": "Remember: 'soak it all in' means to fully experience and appreciate a moment. Describe when, where, who was with you, and why it was special.",
+      "startTime": 1160.1,
+      "endTime": 1163.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "soak it all in",
+        "memorable",
+        "experience",
+        "special moment"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Imagine you are spending a day playing golf with your grandpa. Describe what activities you would do and how you would feel.",
+      "options": [],
+      "answer": "open",
+      "explanation": "考察学生描述日常活动的能力，以及是否能运用相关英语表达。结合视频中与爷爷打高尔夫的场景，让学生展开想象并用英语描述类似经历。",
+      "referenceAnswer": "If I spent a day playing golf with my grandpa, I would wake up early and drive to the golf course with him. The weather might be a little cold, so I would bring an extra jacket. While playing, grandpa would teach me how to hold the club properly and how to read the greens. If I made a birdie, I would feel incredibly proud. After the game, we would go to the clubhouse for lunch and share stories. It would be a wonderful bonding experience that I would treasure forever.",
+      "hint": "Think about: What would you wear? What would the weather be like? What would you talk about? What if you scored well? Use words like 'golf course', 'birdie', and 'chilling'.",
+      "startTime": 1328,
+      "endTime": 1331.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "golf",
+        "grandpa",
+        "family time",
+        "birdie"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "The speaker says 'I'm exhausted, but gotta grind.' Tell me about a time when you were tired but still had to work hard. How did you stay motivated?",
+      "options": [],
+      "answer": "open",
+      "explanation": "考察学生能否理解和运用'gotta grind'这一口语表达，意思是'必须努力'。让学生结合个人经历谈论坚持和努力的主题。",
+      "referenceAnswer": "Last week, I had a major exam the next day, but I was exhausted from a full day of classes. I told myself, 'I'm exhausted, but gotta grind.' I made myself a cup of coffee, put on some focus music, and reviewed my notes for three hours. To stay motivated, I reminded myself of my goal to get into a good university. When I finally finished studying and went to bed, I felt proud of myself for pushing through the tiredness. The next day, I did well on the exam, and all that hard work paid off.",
+      "hint": "Structure: 1) The situation 2) Why you were tired 3) How you kept going 4) The result. Use phrases like 'push through', 'stay focused', 'it's worth it'.",
+      "startTime": 320.2,
+      "endTime": 321.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "exhausted",
+        "grind",
+        "motivation",
+        "perseverance"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "speaking",
+      "question": "The speaker enjoyed 'sitting out here' and chilling. Describe your ideal relaxing moment. Where would you be, and what would you be doing?",
+      "options": [],
+      "answer": "open",
+      "explanation": "考察学生描述放松场景的能力，结合视频中放松享受的语境。让学生用英语表达个人偏好和生活方式。",
+      "referenceAnswer": "My ideal relaxing moment would be sitting on a comfortable chair in my backyard on a sunny afternoon. I would have a cold root beer in my hand, listening to my favorite playlist. Sometimes I would read a good book, and other times I would just close my eyes and listen to the birds singing. There's no phone, no homework, and no stress - just me enjoying the simple pleasures of life. These moments help me recharge and feel ready to take on new challenges.",
+      "hint": "Think about: Where is your favorite place to relax? What do you drink? What sounds do you hear? Do you read, listen to music, or just think? Use present continuous tense.",
+      "startTime": 1166.9,
+      "endTime": 1169.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "relax",
+        "chilling",
+        "root beer",
+        "ideal moment"
+      ]
+    }
+  ]
+}

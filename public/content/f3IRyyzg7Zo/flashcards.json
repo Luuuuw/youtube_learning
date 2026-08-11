@@ -1,0 +1,360 @@
+{
+  "videoId": "f3IRyyzg7Zo",
+  "generatedAt": "2026-08-11T06:24:13.892Z",
+  "cards": [
+    {
+      "id": "mso9z0hwvtqvpw",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sworn",
+      "back": "宣誓就职 (verb, B2)",
+      "context": "heading to the capitol for him to get **sworn** in.",
+      "audioStart": 36.44,
+      "audioEnd": 38.48,
+      "word": "sworn",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hw7salhx",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "processed",
+      "back": "处理；消化（信息） (verb, B2)",
+      "context": "Like I don't think I've **processed** it and now I'm like starting to like process",
+      "audioStart": 47.44,
+      "audioEnd": 50.44,
+      "word": "processed",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hwfjwlkq",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "crushed",
+      "back": "出色地完成；击垮 (verb, B2)",
+      "context": "she absolutely **crushed** it like she always does",
+      "audioStart": 125.84,
+      "audioEnd": 131.58,
+      "word": "crushed",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hw2mfz3y",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sarcastic",
+      "back": "讽刺的 (adjective, B2)",
+      "context": "You're being **sarcastic**.",
+      "audioStart": 21.14,
+      "audioEnd": 22.32,
+      "word": "sarcastic",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hw4lpba9",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vicious",
+      "back": "剧烈的；恶毒的 (adjective, C1)",
+      "context": "That was a **vicious** cold.",
+      "audioStart": 235.5,
+      "audioEnd": 236.9,
+      "word": "vicious",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hwhvqufw",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "lethal",
+      "back": "致命的；极其危险的 (adjective, C1)",
+      "context": "That was **lethal**.",
+      "audioStart": 234.06,
+      "audioEnd": 234.76,
+      "word": "lethal",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hwlsfddf",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "memorable",
+      "back": "难忘的 (adjective, B2)",
+      "context": "**Memorable**, for sure.",
+      "audioStart": 342.5,
+      "audioEnd": 343.58,
+      "word": "memorable",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hwpb56pn",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "flattering",
+      "back": "显瘦的；讨人喜欢的 (adjective, C1)",
+      "context": "it just makes it look really **flattering**",
+      "audioStart": 440.72,
+      "audioEnd": 444.82,
+      "word": "flattering",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hwwrneof",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sequins",
+      "back": "亮片 (noun, C1)",
+      "context": "It has like silver kind of like **sequins** diamonds",
+      "audioStart": 384.9,
+      "audioEnd": 387.9,
+      "word": "sequins",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hw12p58m",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "corset",
+      "back": "紧身胸衣 (noun, C1)",
+      "context": "my favorite part of this um dress is the **corset** part",
+      "audioStart": 440.72,
+      "audioEnd": 444.82,
+      "word": "corset",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hwq0x16r",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "staple",
+      "back": "主打内容；主要特色 (noun, C1)",
+      "context": "It's kind of like a **staple** on the channel now",
+      "audioStart": 788.52,
+      "audioEnd": 795.2,
+      "word": "staple",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9z0hw1bgt4f",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "historical",
+      "back": "历史性的 (adjective, B2)",
+      "context": "and obviously an experience of a lifetime and very **historical**",
+      "audioStart": 827.92,
+      "audioEnd": 832.32,
+      "word": "historical",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:13.892Z"
+    },
+    {
+      "id": "mso9yyk7356uq7",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Today my grandpa becomes the ___ of the United States again. Let's go.",
+      "back": "President",
+      "context": "Today my grandpa becomes the President of the United States again. Let's go.",
+      "audioStart": 0,
+      "audioEnd": 3.4,
+      "hint": "选项：Governor / Senator / President / Mayor",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:11.383Z"
+    },
+    {
+      "id": "mso9yyk7vzbpou",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Like I don't think I've processed it and now I'm like starting to like ___",
+      "back": "process",
+      "context": "Like I don't think I've processed it and now I'm like starting to like process",
+      "audioStart": 47.4,
+      "audioEnd": 50.6,
+      "hint": "选项：understand / realize / process / accept",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:11.383Z"
+    },
+    {
+      "id": "mso9yyk7rikd9k",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) There's no food. What? I said there's no food, that's why I ate the ___!",
+      "back": "box",
+      "context": "There's no food. What? I said there's no food, that's why I ate the box!",
+      "audioStart": 416.6,
+      "audioEnd": 422,
+      "hint": "选项：bag / table / box / plate",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:11.383Z"
+    },
+    {
+      "id": "mso9yyk7pb4t7v",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) when there's not a radio Kai you wanna ___ it with me?",
+      "back": "sing",
+      "context": "when there's not a radio Kai you wanna sing it with me?",
+      "audioStart": 790.4,
+      "audioEnd": 795.8,
+      "hint": "选项：hum / whistle / play / sing",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:11.383Z"
+    },
+    {
+      "id": "mso9yyk7dyyjzu",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I'm flying on a ___ Cause I'm",
+      "back": "plane",
+      "context": "I'm flying on a plane Cause I'm",
+      "audioStart": 773.3,
+      "audioEnd": 777.3,
+      "hint": "选项：train / ship / plane / bus",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:11.383Z"
+    },
+    {
+      "id": "mso9yyox8qbajd",
+      "videoId": "f3IRyyzg7Zo",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "你感到兴奋吗？ 是啊，从教堂出来之后\nI mean, yeah, ___ ___ like after like being in the church, like it made it more like real, you know?",
+      "back": "now / that",
+      "context": "I mean, yeah, now that like after like being in the church, like it made it more like real, you know?",
+      "audioStart": 41.939,
+      "audioEnd": 45.02,
+      "hint": "now that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:11.553Z"
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "videoId": "lH-INWE9t6I",
+  "generatedAt": "2026-08-11T06:26:38.800Z",
+  "cards": [
+    {
+      "id": "msoa24b3szqord",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "craving",
+      "back": "渴望，强烈的欲望 (noun, B2)",
+      "context": "I've been **craving** these chocolate colored raspberries so bad since 2 a.m this morning.",
+      "audioStart": 37.08,
+      "audioEnd": 42.66,
+      "word": "craving",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.799Z"
+    },
+    {
+      "id": "msoa24b3easmkb",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "migraine",
+      "back": "偏头痛 (noun, B2)",
+      "context": "I had a really bad **migraine** yesterday so I went to bed in the middle of the day to sleep it off.",
+      "audioStart": 42.66,
+      "audioEnd": 47.1,
+      "word": "migraine",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.799Z"
+    },
+    {
+      "id": "msoa24b3h1aimq",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hyped",
+      "back": "被大肆宣传的，炒作的 (adjective, B2)",
+      "context": "I googled it and apparently it's like quite popular and **hyped** up anyway.",
+      "audioStart": 89.86,
+      "audioEnd": 94.48,
+      "word": "hyped",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.799Z"
+    },
+    {
+      "id": "msoa24b3z3se3e",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "compromise",
+      "back": "妥协，让步 (verb, B2)",
+      "context": "I can't **compromise** I've decided to walk to the corn shop to get that salmon for my bagel.",
+      "audioStart": 263.48,
+      "audioEnd": 272.54,
+      "word": "compromise",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.799Z"
+    },
+    {
+      "id": "msoa24b3qwmhik",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "feast",
+      "back": "盛宴，大餐 (noun, B2)",
+      "context": "I intended to have a **feast** this morning and I won't compromise.",
+      "audioStart": 277.38,
+      "audioEnd": 282.5,
+      "word": "feast",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.799Z"
+    },
+    {
+      "id": "msoa24b3dwmglr",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "adrenaline",
+      "back": "肾上腺素 (noun, B2)",
+      "context": "I'm feeling the **adrenaline** for real because I'm tight on time.",
+      "audioStart": 401.88,
+      "audioEnd": 406.3,
+      "word": "adrenaline",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.799Z"
+    },
+    {
+      "id": "msoa24b4aprzm5",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "scramble",
+      "back": "炒（蛋） (verb, B2)",
+      "context": "Okay, we're also going to **scramble** some eggs.",
+      "audioStart": 435.04,
+      "audioEnd": 437.12,
+      "word": "scramble",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.800Z"
+    },
+    {
+      "id": "msoa24b4s5xzag",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "symptom",
+      "back": "症状 (noun, B1)",
+      "context": "Basically all the **symptoms** that I have a little bit.",
+      "audioStart": 510.28,
+      "audioEnd": 515.48,
+      "word": "symptom",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.800Z"
+    },
+    {
+      "id": "msoa24b4vyd4ln",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "minority",
+      "back": "少数群体 (noun, B2)",
+      "context": "Especially if you're a **minority** like myself.",
+      "audioStart": 553.89,
+      "audioEnd": 560.94,
+      "word": "minority",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.800Z"
+    },
+    {
+      "id": "msoa24b4q1hxvr",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "productivity",
+      "back": "生产力，工作效率 (noun, B2)",
+      "context": "Saying how it improves their **productivity** and workflow.",
+      "audioStart": 660.89,
+      "audioEnd": 666.5,
+      "word": "productivity",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.800Z"
+    },
+    {
+      "id": "msoa24b41fixs2",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "workflow",
+      "back": "工作流程 (noun, B2)",
+      "context": "Saying how it improves their productivity and **workflow**.",
+      "audioStart": 660.89,
+      "audioEnd": 666.5,
+      "word": "workflow",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.800Z"
+    },
+    {
+      "id": "msoa24b4qvi1mt",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "layer",
+      "back": "分层铺设 (verb, B2)",
+      "context": "And then you **layer** it with the chana, put some pomegranate seeds on it.",
+      "audioStart": 808.77,
+      "audioEnd": 813.09,
+      "word": "layer",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:38.800Z"
+    },
+    {
+      "id": "msoa234xj7de5l",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I'm kind of ___ that I forgot the salmon.",
+      "back": "annoyed",
+      "context": "I'm kind of annoyed that I forgot the salmon.",
+      "audioStart": 245.5,
+      "audioEnd": 250.9,
+      "hint": "选项：annoyed / tired / excited / happy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:37.281Z"
+    },
+    {
+      "id": "msoa234x0p49lb",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) oh no we're gonna have a ___ breakfast then",
+      "back": "vegetarian",
+      "context": "oh no we're gonna have a vegetarian breakfast then",
+      "audioStart": 252.3,
+      "audioEnd": 258.2,
+      "hint": "选项：delicious / healthy / quick / vegetarian",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:37.281Z"
+    },
+    {
+      "id": "msoa234xqzw98y",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) can't i can't ___ i've decided to walk to",
+      "back": "compromise",
+      "context": "can't i can't compromise i've decided to walk to",
+      "audioStart": 260.9,
+      "audioEnd": 268.9,
+      "hint": "选项：compromise / agree / argue / decide",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:37.281Z"
+    },
+    {
+      "id": "msoa234xkgha7i",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Because whenever I make this bagel to my friends, they're like, I want ___.",
+      "back": "more",
+      "context": "Because whenever I make this bagel to my friends, they're like, I want more.",
+      "audioStart": 354.6,
+      "audioEnd": 359.4,
+      "hint": "选项：some / less / more / all",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:37.281Z"
+    },
+    {
+      "id": "msoa234xwjsjvd",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) social media my flatmate when i was in medical school cat taught me this and it ___.",
+      "back": "works",
+      "context": "social media my flatmate when i was in medical school cat taught me this and it works.",
+      "audioStart": 387.4,
+      "audioEnd": 391.1,
+      "hint": "选项：helps / fails / works / plays",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:37.281Z"
+    },
+    {
+      "id": "msoa234x5h3mre",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Then put it in the fridge and it will be ___ and not dark.",
+      "back": "fresh",
+      "context": "Then put it in the fridge and it will be fresh and not dark.",
+      "audioStart": 394.5,
+      "audioEnd": 398.3,
+      "hint": "选项：soft / fresh / cold / old",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:37.281Z"
+    },
+    {
+      "id": "msoa234xpvx0v3",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) get a lot of sunshine, get yourself a over-the-counter vitamin D tablet and take it ___.",
+      "back": "daily",
+      "context": "get a lot of sunshine, get yourself a over-the-counter vitamin D tablet and take it daily.",
+      "audioStart": 577.5,
+      "audioEnd": 583.1,
+      "hint": "选项：weekly / daily / monthly / hourly",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:37.281Z"
+    },
+    {
+      "id": "msoa234xygqpix",
+      "videoId": "lH-INWE9t6I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I bet this ___ here.",
+      "back": "sits",
+      "context": "I bet this sits here.",
+      "audioStart": 721.4,
+      "audioEnd": 725.8,
+      "hint": "选项：waits / sits / lies / stands",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:37.281Z"
+    }
+  ]
+}

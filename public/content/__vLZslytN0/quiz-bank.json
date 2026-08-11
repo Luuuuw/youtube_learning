@@ -1,0 +1,562 @@
+{
+  "videoId": "__vLZslytN0",
+  "title": "__vLZslytN0",
+  "generatedAt": "2026-08-10T11:31:18.303Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 6,
+    "medium": 15,
+    "hard": 3,
+    "choice": 18,
+    "speaking": 6
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "Who are the two people introducing themselves at the beginning of the video?",
+      "options": [
+        "A) Tom and Timothée",
+        "B) Tom and Zendaya",
+        "C) Tom and Robert",
+        "D) Tom and Andrew"
+      ],
+      "answer": "B",
+      "explanation": "视频开头，Tom 和 Zendaya 互相自我介绍（'Hey, what's up? I'm Tom.' / 'I'm Zendaya.'）。他们是好莱坞演员，曾共同出演《蜘蛛侠》电影系列。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1.4,
+      "endTime": 8.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "introduction",
+        "Tom Holland",
+        "Zendaya",
+        "cast"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What kind of activity are the cast members doing in this GQ video?",
+      "options": [
+        "A) Playing a trivia/quiz game",
+        "B) Cooking together",
+        "C) Doing a workout",
+        "D) Playing video games"
+      ],
+      "answer": "A",
+      "explanation": "视频中提到 'taking GQ's pop quiz'，说明他们在进行GQ的流行文化问答游戏，回答关于蜘蛛侠和MCU的知识问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 6,
+      "endTime": 14,
+      "difficulty": "easy",
+      "relatedWords": [
+        "GQ",
+        "pop quiz",
+        "trivia",
+        "quiz game"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "According to the question asked, 'What iconic line did Uncle Ben say to Peter Parker?' — what is the most famous answer?",
+      "options": [
+        "A) 'I'll always be with you.'",
+        "B) 'With great power comes great responsibility.'",
+        "C) 'You are not alone.'",
+        "D) 'Be your own hero.'"
+      ],
+      "answer": "B",
+      "explanation": "Uncle Ben 最著名的台词是 'With great power comes great responsibility.'（能力越大，责任越大），这是蜘蛛侠故事中的核心主题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 19.6,
+      "endTime": 22.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Uncle Ben",
+        "iconic line",
+        "responsibility",
+        "power"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Who are credited as the creators of Spider-Man?",
+      "options": [
+        "A) Stan Lee and Jack Kirby",
+        "B) Stan Lee and Steve Ditko",
+        "C) Steve Ditko and John Romita",
+        "D) Stan Lee and Bob Kane"
+      ],
+      "answer": "B",
+      "explanation": "蜘蛛侠是由 Stan Lee 和 Steve Ditko 共同创造的，首次登场于 1962 年的《Amazing Fantasy》第15期。视频中也有提到 'Stan Lee and Steve Ditko'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 29.4,
+      "endTime": 34.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Stan Lee",
+        "Steve Ditko",
+        "creator",
+        "Spider-Man"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What villain was given as the correct answer to a question in the quiz?",
+      "options": [
+        "A) The Green Goblin",
+        "B) The Hobgoblin",
+        "C) The Vulture",
+        "D) Doctor Octopus"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到 'The Hobgoblin. That's correct.'，说明这个问题的正确答案是 The Hobgoblin（红魔），蜘蛛侠漫画中的经典反派之一。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 42.7,
+      "endTime": 47.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Hobgoblin",
+        "villain",
+        "Spider-Man",
+        "correct answer"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the phrase 'shout out' mean in this context?",
+      "options": [
+        "A) To yell loudly",
+        "B) To give public recognition or credit to someone",
+        "C) To call someone's name",
+        "D) To interrupt someone"
+      ],
+      "answer": "B",
+      "explanation": "'Shout out' 在口语中表示公开提及或感谢某人，相当于 'give a shoutout'，常用于社交媒体或公开场合表达感谢或致意。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 109,
+      "endTime": 115.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "shout out",
+        "recognition",
+        "credit",
+        "appreciation"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is the topic of 'Round two' of the quiz?",
+      "options": [
+        "A) Spider-Man comic history",
+        "B) MCU and wider MCU multiverse knowledge",
+        "C) Tom Holland's personal life",
+        "D) The filming of Brand New Day"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确说 'Round two. This is MCU sort of wider MCU multiverse knowledge.'，第二轮主要考察关于漫威电影宇宙及多元宇宙的知识。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 113.2,
+      "endTime": 115.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Round two",
+        "MCU",
+        "multiverse",
+        "knowledge"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What high school did Peter Parker, MJ, and Ned attend in the Spider-Man films?",
+      "options": [
+        "A) Brooklyn High",
+        "B) Queens High",
+        "C) Midtown High",
+        "D) Manhattan High"
+      ],
+      "answer": "C",
+      "explanation": "在MCU的蜘蛛侠电影中，Peter Parker、MJ 和 Ned 上的是 Midtown High School（中途高中），专门是 Science and Technology（理工科）方向的学校。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 118.3,
+      "endTime": 129.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Midtown High",
+        "Peter Parker",
+        "MJ",
+        "Ned"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the focus/specialty of the high school Peter, MJ, and Ned attended?",
+      "options": [
+        "A) Arts and Music",
+        "B) Business and Finance",
+        "C) Science and Technology",
+        "D) Sports and Athletics"
+      ],
+      "answer": "C",
+      "explanation": "Midtown High 是一所 Science and Technology（理工科）方向的高中，这与 Peter Parker 作为天才科学爱好者的角色设定相吻合。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 127.9,
+      "endTime": 132,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Science and Technology",
+        "Midtown High",
+        "specialty",
+        "school"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the word 'stumbling' most likely mean in the context used?",
+      "options": [
+        "A) Running fast",
+        "B) Tripping or hesitating while speaking",
+        "C) Jumping high",
+        "D) Dancing energetically"
+      ],
+      "answer": "B",
+      "explanation": "'Stumbling' 在这个语境中指说话时磕磕绊绊、犹豫不决或结巴，常用于描述回答问题不流畅的状态，伴随笑声出现说明这是个有趣的反应。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 153.9,
+      "endTime": 161.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stumbling",
+        "hesitate",
+        "speaking",
+        "tripping"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "Based on the question about Spider-Man: No Way Home, what is the topic being discussed?",
+      "options": [
+        "A) The box office numbers of the film",
+        "B) Preventing the appearance leak of an actor",
+        "C) The filming location",
+        "D) The director's vision"
+      ],
+      "answer": "B",
+      "explanation": "视频中的问题提到 'prevent his appearance in Spider-Man No Way Home from being leaked'，即防止某位演员在《蜘蛛侠：英雄无归》中的亮相被泄露，涉及保密和防剧透。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 260.9,
+      "endTime": 268,
+      "difficulty": "medium",
+      "relatedWords": [
+        "leaked",
+        "No Way Home",
+        "appearance",
+        "prevent"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the phrase 'You don't trust anybody. That's your problem.' imply?",
+      "options": [
+        "A) The person is too generous",
+        "B) The person is too suspicious and unwilling to rely on others",
+        "C) The person is very social",
+        "D) The person loves everyone"
+      ],
+      "answer": "B",
+      "explanation": "这句话暗示这个人太过多疑，不愿意信任他人。'That's your problem' 表示这是对方的问题所在，暗示这种不信任的态度是不好的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 461.8,
+      "endTime": 471,
+      "difficulty": "medium",
+      "relatedWords": [
+        "trust",
+        "problem",
+        "suspicious",
+        "imply"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'I'm trying to mess with you guys' mean in this context?",
+      "options": [
+        "A) I'm trying to fight with you",
+        "B) I'm trying to tease or play a joke on you",
+        "C) I'm trying to ignore you",
+        "D) I'm trying to leave you"
+      ],
+      "answer": "B",
+      "explanation": "'Mess with someone' 在口语中常指戏弄、开玩笑或捉弄某人，表示说话者试图通过玩笑话或假话与对方互动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 470.1,
+      "endTime": 475,
+      "difficulty": "medium",
+      "relatedWords": [
+        "mess with",
+        "tease",
+        "joke",
+        "play"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the expression 'You got to at least win this one, bro!' suggest?",
+      "options": [
+        "A) Encouraging someone to succeed in a competition/quiz",
+        "B) Telling someone to give up",
+        "C) Asking for help",
+        "D) Complaining about losing"
+      ],
+      "answer": "A",
+      "explanation": "这句话是一种鼓励，告诉对方至少要赢得这一轮（猜谜/比赛），'bro' 是朋友间的称呼，表达了支持和期待。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 479.4,
+      "endTime": 485,
+      "difficulty": "medium",
+      "relatedWords": [
+        "encouragement",
+        "win",
+        "competition",
+        "support"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the comment 'the building actually has no webs' suggest?",
+      "options": [
+        "A) The building is covered in spider webs",
+        "B) The building is decorated without any webs",
+        "C) The building is destroyed",
+        "D) The building is full of spiders"
+      ],
+      "answer": "B",
+      "explanation": "这句话描述了一个建筑的实际情况：'没有网（webs）'。在蜘蛛侠相关讨论中，可能指建筑物的装饰或设计元素中没有蜘蛛网图案。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 513.5,
+      "endTime": 525,
+      "difficulty": "hard",
+      "relatedWords": [
+        "building",
+        "webs",
+        "decoration",
+        "design"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the slang expression 'You definitely won' or 'You killed it' mean?",
+      "options": [
+        "A) You physically hurt someone",
+        "B) You performed excellently or succeeded impressively",
+        "C) You lost the game",
+        "D) You ended the conversation"
+      ],
+      "answer": "B",
+      "explanation": "'Killed it' 是英语口语中表示 '做得非常出色' 或 '表现完美' 的俚语，'won' 表示赢得比赛/挑战，两者都是对出色表现的高度赞扬。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 529.6,
+      "endTime": 533,
+      "difficulty": "medium",
+      "relatedWords": [
+        "killed it",
+        "slang",
+        "excellent",
+        "performance"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What is being discussed regarding the Spider-Man suit in this part of the video?",
+      "options": [
+        "A) The color of the suit",
+        "B) A simplified suit and a belt",
+        "C) The price of the suit",
+        "D) The materials used to make the suit"
+      ],
+      "answer": "B",
+      "explanation": "视频中讨论了 'a simplified suit'（简化版战衣）和 'the belt'（腰带），说明他们在讨论蜘蛛侠新战衣的设计细节。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 538,
+      "endTime": 546,
+      "difficulty": "medium",
+      "relatedWords": [
+        "simplified suit",
+        "belt",
+        "Spider-Man",
+        "design"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the speaker describing when they say 'There's a crazy car parked outside'?",
+      "options": [
+        "A) A car with an unusual or strange appearance",
+        "B) A car that is broken",
+        "C) A car that is very fast",
+        "D) A car that is small"
+      ],
+      "answer": "A",
+      "explanation": "'Crazy' 在这里作形容词，表示 '疯狂的、奇怪的'，'crazy car' 描述的是一辆外观或行为异常的车辆，常见于美国口语中表示赞叹或惊讶。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 649.3,
+      "endTime": 655,
+      "difficulty": "medium",
+      "relatedWords": [
+        "crazy",
+        "car",
+        "parked",
+        "appearance"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Introduce yourself in a casual way, similar to how Tom and Zendaya greeted each other at the start of the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题训练自我介绍的英语口语能力，可以参考视频开头的 'Hey, what's up? I'm [name].' 这种轻松的打招呼方式。",
+      "referenceAnswer": "建议回答：'Hey, what's up? I'm [your name]. Nice to meet you.' 或 'Hi there, my name is [name]. How's it going?' 重点是自然、友好的语气。",
+      "hint": "Try to use a casual greeting like 'Hey, what's up?' or 'Hi, I'm...' and keep it natural and friendly.",
+      "startTime": 1.4,
+      "endTime": 8.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "introduce",
+        "greeting",
+        "casual",
+        "name"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What does the famous Uncle Ben quote 'With great power comes great responsibility' mean to you? Explain in 2-3 sentences.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察学生对经典英文引言的理解和英语表达能力。核心意思是：拥有更大的力量/能力，就需要承担更大的责任。",
+      "referenceAnswer": "参考答案要点：1) 这句话出自蜘蛛侠漫画中 Ben 叔叔对 Peter Parker 的教导；2) 意味着当你拥有某种能力/权力时，你也有责任用它来帮助他人；3) 适用于现实生活，比如拥有知识/地位的人应帮助弱者。",
+      "hint": "Think about: What does 'power' mean in real life? What responsibilities come with it? Can you give a real-life example?",
+      "startTime": 19.6,
+      "endTime": 25,
+      "difficulty": "medium",
+      "relatedWords": [
+        "power",
+        "responsibility",
+        "Uncle Ben",
+        "meaning"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe a time when you 'stumbled' during a conversation or presentation. How did you recover?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题训练用英语描述个人经历的能力。'Stumble' 在口语中指说话卡壳或表现失误。",
+      "referenceAnswer": "参考答案要点：1) 描述具体场景（如演讲、考试、面试）；2) 说明当时如何 'stumble'（说错话、忘记内容等）；3) 说明如何恢复（深呼吸、自嘲、继续）。例如：'Last time I gave a presentation, I stumbled over my words in the middle. I took a deep breath, laughed at myself, and continued.'",
+      "hint": "Think about a time you forgot what to say, made a mistake, or felt nervous speaking. How did you handle it?",
+      "startTime": 153.9,
+      "endTime": 165,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stumble",
+        "recover",
+        "experience",
+        "conversation"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Why do you think movie studios try so hard to 'prevent spoilers and leaks' about their films? Give at least two reasons.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考察对影视行业防剧透现象的理解和英语表达能力。",
+      "referenceAnswer": "参考答案要点：1) 保护票房——剧透会降低观众的观看兴趣，影响票房收入；2) 保护故事/演员秘密——比如视频中提到的《蜘蛛侠：英雄无归》中演员的惊喜客串；3) 维护观众的观影体验——让观众在影院里感受惊喜；4) 营销策略——集中宣传，提升话题度。",
+      "hint": "Think about: Why do people avoid movie trailers? What happens if you know the ending? Why do surprises matter in films?",
+      "startTime": 260.9,
+      "endTime": 270,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spoilers",
+        "leaks",
+        "movie studios",
+        "prevent"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "If a friend says 'You don't trust anybody, that's your problem,' how would you respond in a conversation? Try to defend or explain yourself.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题训练英语对话和辩论能力，要求学生就'信任'这一话题表达自己的观点。",
+      "referenceAnswer": "参考答案示例：'I understand why you think that, but I don't think it's a problem. I just prefer to be careful with who I share personal things with. It's not that I don't trust anyone, I just believe trust should be earned over time.' 其他角度：'Maybe you're right. I've been hurt before, so I'm a bit more cautious now.'",
+      "hint": "Consider: Is being careful the same as not trusting? Have you ever been betrayed? How do you build trust with others?",
+      "startTime": 461.8,
+      "endTime": 475,
+      "difficulty": "hard",
+      "relatedWords": [
+        "trust",
+        "defend",
+        "conversation",
+        "response"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Imagine you're designing a new Spider-Man suit. Describe at least three features you would include and explain why.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题训练创意表达和描述能力，结合视频中讨论的'简化版战衣'和'腰带'等元素，引导学生进行创意设计。",
+      "referenceAnswer": "参考答案示例：'I would design a suit with: 1) A simpler belt system like the one mentioned in the video for easy wear; 2) Built-in AI communication like Spider-Man in the MCU; 3) Adaptive color-changing material for stealth; 4) Better web shooters with multiple web types. The reason is to make the suit more practical and versatile for different situations.'",
+      "hint": "Think about: What problems does Spider-Man face? What would make the suit more practical? What features from other superheroes do you admire?",
+      "startTime": 538,
+      "endTime": 550,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Spider-Man suit",
+        "design",
+        "features",
+        "creative"
+      ]
+    }
+  ]
+}

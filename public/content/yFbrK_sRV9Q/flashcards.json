@@ -1,0 +1,377 @@
+{
+  "videoId": "yFbrK_sRV9Q",
+  "generatedAt": "2026-08-11T06:31:33.633Z",
+  "cards": [
+    {
+      "id": "msoa8fsxjgor5e",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "lobby",
+      "back": "大厅，门厅 (noun, B1)",
+      "context": "Here we are in the **lobby**.",
+      "audioStart": 7.36,
+      "audioEnd": 8.26,
+      "word": "lobby",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fsx7atu1w",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dismal",
+      "back": "阴沉的，凄凉的 (adjective, C1)",
+      "context": "This place used to be quite **dismal**.",
+      "audioStart": 33.5,
+      "audioEnd": 37.48,
+      "word": "dismal",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fsx72gsgx",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "minimize",
+      "back": "使减少到最低限度 (verb, B2)",
+      "context": "We really try to **minimize** the number of offices that we have because doors limit communication.",
+      "audioStart": 40.3,
+      "audioEnd": 46.48,
+      "word": "minimize",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fsxoq6bqb",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "impromptu",
+      "back": "即兴的，临时的 (adjective, C1)",
+      "context": "So this is just a little area where people can meet and have sort of an **impromptu** meeting.",
+      "audioStart": 71.4,
+      "audioEnd": 77.28,
+      "word": "impromptu",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fsxlj1ziu",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "assembly",
+      "back": "装配，组装 (noun, B2)",
+      "context": "I'm making the **assembly** documentation for the Draco.",
+      "audioStart": 94.5,
+      "audioEnd": 98.73,
+      "word": "assembly",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fsxaxeexv",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "thruster",
+      "back": "推进器 (noun, C1)",
+      "context": "David is driving the development of our in-space **thruster**, which is called Draco.",
+      "audioStart": 100.03,
+      "audioEnd": 107.01,
+      "word": "thruster",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fsx187o76",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "maneuvering",
+      "back": "机动，操纵 (noun, C1)",
+      "context": "also in the upper stage of Falcon 9 for orbital **maneuvering** and reentry.",
+      "audioStart": 130.17,
+      "audioEnd": 135.89,
+      "word": "maneuvering",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fsx43gbel",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "opaque",
+      "back": "不透明的 (adjective, C1)",
+      "context": "It's kind of cool because it's got this glass that goes **opaque** and we put a motion sensor on it so as you walk in the glass goes opaque.",
+      "audioStart": 144.59,
+      "audioEnd": 152.39,
+      "word": "opaque",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fsxzuvohz",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "civilization",
+      "back": "文明 (noun, B2)",
+      "context": "So, we think they really deserve the credit for enabling us to become a space-faring **civilization**.",
+      "audioStart": 159.77,
+      "audioEnd": 167.11,
+      "word": "civilization",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fsxj1swqi",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "centric",
+      "back": "以……为中心的 (adjective, C1)",
+      "context": "So we're fairly science and engineering **centric**.",
+      "audioStart": 166.67,
+      "audioEnd": 172.47,
+      "word": "centric",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.633Z"
+    },
+    {
+      "id": "msoa8fbogxubl8",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's very white right now, but there are actually some cool elements coming in soon that will make it less ___",
+      "back": "white",
+      "context": "It's very white right now, but there are actually some cool elements coming in soon that will make it less white.",
+      "audioStart": 8.3,
+      "audioEnd": 15.2,
+      "hint": "选项：dark / white / plain / bright",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.012Z"
+    },
+    {
+      "id": "msoa8fbo5hp5ou",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We try to aid for something which is a very open plan to maximize communication and make it sort of fairly ___ looking.",
+      "back": "nice",
+      "context": "We try to aid for something which is a very open plan to maximize communication and make it sort of fairly nice looking.",
+      "audioStart": 28.5,
+      "audioEnd": 34.5,
+      "hint": "选项：good / nice / clean / modern",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.012Z"
+    },
+    {
+      "id": "msoa8fbpp15g2k",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This place used to be quite ___. That's my office over there actually.",
+      "back": "dismal",
+      "context": "This place used to be quite dismal. That's my office over there actually.",
+      "audioStart": 33.5,
+      "audioEnd": 39.5,
+      "hint": "选项：bleak / dismal / gloomy / dreary",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.013Z"
+    },
+    {
+      "id": "msoa8fbp713643",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We really try to minimize the number of offices that we have because doors limit ___.",
+      "back": "communication",
+      "context": "We really try to minimize the number of offices that we have because doors limit communication.",
+      "audioStart": 40.3,
+      "audioEnd": 46.5,
+      "hint": "选项：interaction / communication / dialogue / conversation",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.013Z"
+    },
+    {
+      "id": "msoa8fbp4ctd52",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Although this is really reality, I guess. I'm responsible for sales. I'm in charge of making sure that there's ___ here in the company.",
+      "back": "revenue",
+      "context": "Although this is really reality, I guess. I'm responsible for sales. I'm in charge of making sure that there's revenue here in the company.",
+      "audioStart": 59.3,
+      "audioEnd": 66.5,
+      "hint": "选项：money / revenue / profit / income",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.013Z"
+    },
+    {
+      "id": "msoa8fbp9i08xn",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I'm responsible for sales. I'm in charge of making sure that there's ___ here in the company.",
+      "back": "revenue",
+      "context": "I'm responsible for sales. I'm in charge of making sure that there's revenue here in the company.",
+      "audioStart": 60.8,
+      "audioEnd": 66.5,
+      "hint": "选项：money / profit / income / revenue",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.013Z"
+    },
+    {
+      "id": "msoa8fbpx0k3ql",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) MATT MCCUNE here I'm making the assembly documentation for the Draco. Okay. ___.",
+      "back": "RCS",
+      "context": "MATT MCCUNE here I'm making the assembly documentation for the Draco. Okay. RCS.",
+      "audioStart": 94.5,
+      "audioEnd": 100.8,
+      "hint": "选项：RTS / RCS / RDS / RSS",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.013Z"
+    },
+    {
+      "id": "msoa8fbpxi9zzy",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's a fun cone. We're doing all our Texas testing at our facility down ___.",
+      "back": "there",
+      "context": "It's a fun cone. We're doing all our Texas testing at our facility down there.",
+      "audioStart": 113,
+      "audioEnd": 119,
+      "hint": "选项：there / nearby / here / outside",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:33.013Z"
+    },
+    {
+      "id": "msoa8e9fn6b06p",
+      "videoId": "yFbrK_sRV9Q",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "HR和财务等部门的，包括那边的副总裁们，其实都在工位区。 早知道你要来，我就应该先收拾一下。\nI ___ ___ ___ up if I knew you were coming.",
+      "back": "should / have / cleaned",
+      "context": "I should have cleaned up if I knew you were coming.",
+      "audioStart": 56.64,
+      "audioEnd": 59.14,
+      "hint": "should have cleaned",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:31.635Z"
+    }
+  ]
+}

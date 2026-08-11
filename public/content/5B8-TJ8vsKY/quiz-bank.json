@@ -1,0 +1,591 @@
+{
+  "videoId": "5B8-TJ8vsKY",
+  "title": "5B8-TJ8vsKY",
+  "generatedAt": "2026-08-10T10:41:16.169Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 7,
+    "medium": 14,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "At what age did the speaker start writing songs?",
+      "options": [
+        "A) 10",
+        "B) 12",
+        "C) 14",
+        "D) 16"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确提到 'I started writing songs when I was 12'，所以正确答案是12岁。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 86.4,
+      "endTime": 88.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "writing",
+        "songs",
+        "age",
+        "begin"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "Which song title is mentioned at timestamp 452.6s?",
+      "options": [
+        "A) Our Song",
+        "B) All Too Well",
+        "C) Getaway Car",
+        "D) Cruel Summer"
+      ],
+      "answer": "C",
+      "explanation": "字幕中直接出现了 'Getaway Car' 这一歌曲名称，因此正确答案是C。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 452.6,
+      "endTime": 454.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Getaway Car",
+        "song title",
+        "Taylor Swift"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "In the context of songwriting, what does 'breaking the fourth wall' mean?",
+      "options": [
+        "A) Destroying a physical barrier on stage",
+        "B) Making the song acknowledge the audience or the writing process itself",
+        "C) Composing music in a studio with four walls",
+        "D) Singing in a different language"
+      ],
+      "answer": "B",
+      "explanation": "'Breaking the fourth wall' 是一个戏剧/写作术语，指作品（歌曲）打破虚构界限，承认观众的存在或创作者本身，让听众意识到这是'被讲述'的故事。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 294.2,
+      "endTime": 302.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "breaking the fourth wall",
+        "songwriting",
+        "meta",
+        "tradition"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the phrase 'taper down my own excitement' mean in this context?",
+      "options": [
+        "A) To increase the enthusiasm gradually",
+        "B) To gradually reduce or control one's excitement",
+        "C) To express excitement loudly",
+        "D) To completely hide all feelings"
+      ],
+      "answer": "B",
+      "explanation": "'Taper down' 的意思是逐渐减少、降低。在这里指说话者需要控制自己过度的兴奋情绪，使其保持在适当水平。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 394.4,
+      "endTime": 398,
+      "difficulty": "medium",
+      "relatedWords": [
+        "taper down",
+        "excitement",
+        "control",
+        "emotion"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Which song is mentioned as an example of a 'favorite end plot twist' in songwriting?",
+      "options": [
+        "A) Our Song",
+        "B) Getaway Car",
+        "C) The Last Great American Dynasty",
+        "D) All Too Well"
+      ],
+      "answer": "C",
+      "explanation": "字幕中提到 'My favorite end plot twist... is the ending of The Last Great American Dynasty'，所以正确答案是C。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 342.3,
+      "endTime": 350.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "plot twist",
+        "The Last Great American Dynasty",
+        "songwriting",
+        "ending"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What metaphor is used to describe how to write a verse in a song?",
+      "options": [
+        "A) Building a house",
+        "B) Painting a picture",
+        "C) Cooking a meal",
+        "D) Solving a puzzle"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确说 'You can start painting the picture in the verse'，所以用'painting a picture'（画一幅画）这个比喻来描述verse的写作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 752.8,
+      "endTime": 757.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "verse",
+        "painting",
+        "metaphor",
+        "songwriting"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "According to the speaker, what role does the bridge play in a song?",
+      "options": [
+        "A) It introduces the main character",
+        "B) It is where you step back and feel everything the piece was supposed to make you feel",
+        "C) It always contains the song's title",
+        "D) It is typically the shortest section"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'the bridge can be when you step back and you feel everything that that piece of art was supposed to'，说明bridge是让听众感受作品情感的段落。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 770,
+      "endTime": 778.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bridge",
+        "emotion",
+        "art",
+        "feeling"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is the speaker's view on structure in songwriting?",
+      "options": [
+        "A) Structure limits creativity and should be avoided",
+        "B) Structure is unimportant as long as the song sounds good",
+        "C) Structure is important and the speaker subscribes to this idea",
+        "D) Structure only matters for pop music"
+      ],
+      "answer": "C",
+      "explanation": "字幕中明确说 'Now, that's something that I absolutely subscribe to, that idea that structure is important'，说明说话者坚信structure在歌曲创作中非常重要。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 797.7,
+      "endTime": 804.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "structure",
+        "important",
+        "subscribe",
+        "songwriting"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Which of the following songs are cited as examples in the discussion?",
+      "options": [
+        "A) Blank Space, Style, Bad Blood",
+        "B) Out of the Woods, Is It Over Now, Cruel Summer",
+        "C) Shake It Off, 22, ME!",
+        "D) Love Story, You Belong With Me, White Horse"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'I could point to examples like Out of the Woods, Is It Over Now, Cruel Summer'，所以正确答案是B。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 827.6,
+      "endTime": 832.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Out of the Woods",
+        "Is It Over Now",
+        "Cruel Summer",
+        "examples"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "How is the song 'All Too Well' described by the speaker?",
+      "options": [
+        "A) A carefully planned masterpiece",
+        "B) A very emotional rant",
+        "C) A lighthearted comedy",
+        "D) A collaboration with another artist"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'The whole thing with All Too Well was that this was a very emotional rant'，说明说话者将这首歌描述为一段非常情绪化的倾泻。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 996.8,
+      "endTime": 1002.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "All Too Well",
+        "emotional",
+        "rant",
+        "song"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does the word 'palatable' mean in the context 'to make this into a song that's a little bit more palatable'?",
+      "options": [
+        "A) Spicy and flavorful",
+        "B) Easy to eat",
+        "C) Acceptable or pleasant to receive",
+        "D) Musical and rhythmic"
+      ],
+      "answer": "C",
+      "explanation": "'Palatable' 在这里指'可接受的、令人愉悦的'，意指把内容变得更容易被听众接受和消化。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1069.1,
+      "endTime": 1072.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "palatable",
+        "acceptable",
+        "song",
+        "refine"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What 'mistake' did the speaker make according to the subtitle?",
+      "options": [
+        "A) Singing live on stage",
+        "B) Explaining how the song came to be in a certain way",
+        "C) Forgetting the lyrics",
+        "D) Releasing a song too early"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'I made the mistake of kind of explaining how the song came to be'，说明说话者犯的错误是讲述了歌曲的创作过程。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1106.9,
+      "endTime": 1111.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "mistake",
+        "explaining",
+        "song origin",
+        "creation"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "Why was the speaker going through diaries and safes?",
+      "options": [
+        "A) To clean out old belongings",
+        "B) To find fragments of material for a song",
+        "C) To hide important documents",
+        "D) To write a memoir"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'going back through diaries and finding like little fragments of it'，并在另一个片段提到 'looking through safes trying to find the CD'，说明是在寻找创作歌曲的素材。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1122.5,
+      "endTime": 1134.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "diaries",
+        "fragments",
+        "material",
+        "songwriting"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is being discussed when the speaker says 'This takes expertise'?",
+      "options": [
+        "A) Becoming a professional athlete",
+        "B) The craft of songwriting",
+        "C) Designing fashion",
+        "D) Cooking gourmet meals"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文，这句话出现在讨论创作歌曲的语境中，'This takes expertise' 指创作歌曲需要专业技能和经验。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1310.1,
+      "endTime": 1331.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "expertise",
+        "craft",
+        "skill",
+        "songwriting"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the expression 'keeping my wits about me' mean?",
+      "options": [
+        "A) Being humorous and witty",
+        "B) Staying alert and mentally sharp",
+        "C) Dressing up in costumes",
+        "D) Making jokes in interviews"
+      ],
+      "answer": "B",
+      "explanation": "'Keeping my wits about me' 是一个习语，意思是保持警觉、头脑清醒、保持冷静的判断力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 948.6,
+      "endTime": 952.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "wits",
+        "alert",
+        "mentally sharp",
+        "idiom"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "According to the speaker, what did people at a record label say when they first saw them?",
+      "options": [
+        "A) You sound like Taylor Swift",
+        "B) You look like Taylor Swift",
+        "C) You write like Taylor Swift",
+        "D) You should meet Taylor Swift"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'they say, you look like Taylor Swift'，所以正确答案是B。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 1541.5,
+      "endTime": 1563.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "record label",
+        "Taylor Swift",
+        "appearance",
+        "first impression"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What kind of themes does the speaker like to incorporate into their songs?",
+      "options": [
+        "A) Only happy love stories",
+        "B) Age-old cautionary tales and warnings",
+        "C) Scientific facts",
+        "D) Sports achievements"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到 'I like to take either age-old cautionary sort' 的话题，说明说话者喜欢将古老的警世故事融入歌曲中。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 618.7,
+      "endTime": 626.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cautionary",
+        "warnings",
+        "themes",
+        "age-old"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does the speaker do during a songwriting session regarding social media?",
+      "options": [
+        "A) Always checks it for inspiration",
+        "B) Shares updates constantly",
+        "C) Does not have social media on",
+        "D) Uses it to promote the song"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到 'I don't have social media on my [phone]'，说明在创作会话中说话者会关闭社交媒体以保持专注。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 704.5,
+      "endTime": 708.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "social media",
+        "session",
+        "focus",
+        "distraction"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the speaker say about the 'terminology' and 'common phrases' used in songs?",
+      "options": [
+        "A) They should always be poetic and old-fashioned",
+        "B) They should reflect the way people actually talk now",
+        "C) They should be made up entirely",
+        "D) They should be in a foreign language"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到 'terminology and speak and kind of common phrases from the way that we talk now'，说明说话者认为歌曲应使用当下人们实际的说话方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 651.8,
+      "endTime": 656.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "terminology",
+        "common phrases",
+        "modern language",
+        "speak"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'All I do is try, try, try' from the subtitle suggest about the speaker's attitude?",
+      "options": [
+        "A) Giving up easily",
+        "B) Persistent effort despite challenges",
+        "C) Avoiding hard work",
+        "D) Being overconfident"
+      ],
+      "answer": "B",
+      "explanation": "'All I do is try, try, try' 表达了说话者坚持不懈、持续努力的态度，即使面临挑战也不放弃。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 974.5,
+      "endTime": 981,
+      "difficulty": "easy",
+      "relatedWords": [
+        "try",
+        "persistence",
+        "effort",
+        "determination"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Based on the speaker's discussion about how songs start and finish in many different ways, describe your own creative process for any project you've worked on. How do ideas come to you, and how do you bring them to completion?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放式口语题，要求学习者根据字幕内容反思自己的创作过程。参考要点：描述想法如何产生（突然出现、长期酝酿等）、如何发展、以及如何完成。",
+      "referenceAnswer": "Key points to cover: 1) How initial ideas spark (inspiration, random moments, personal experience); 2) Different ways the project develops (quickly, slowly, with breaks); 3) How you push through to finish (discipline, excitement, deadlines); 4) The variety of methods that work for different projects.",
+      "hint": "Think about: Have you ever started a project one way and finished it another? What triggers your creative ideas? How do you handle the middle part of a project?",
+      "startTime": 7,
+      "endTime": 26,
+      "difficulty": "medium",
+      "relatedWords": [
+        "creative process",
+        "ideas",
+        "journey",
+        "finish"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speaker mentions 'Our Song' as being about a romance and talks about songs telling personal stories. Think of a meaningful personal experience you've had, and describe how you might turn it into a song or story. What details would you include?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题要求学习者结合字幕中关于'Our Song'和个人故事化创作的内容，反思如何将个人经历转化为艺术作品。",
+      "referenceAnswer": "Key points to cover: 1) A specific personal memory or experience; 2) Sensory details (sights, sounds, feelings); 3) The emotional core or lesson of the story; 4) How you would structure it (beginning, middle, end); 5) What makes it relatable to others.",
+      "hint": "Consider: What was a turning point or memorable moment in your life? What emotions did you feel? What small details stand out?",
+      "startTime": 316.7,
+      "endTime": 327.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "personal story",
+        "romance",
+        "Our Song",
+        "creative writing"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The speaker mentions that during songwriting sessions, they don't have social media on. Describe a time when you needed to eliminate distractions to focus on important creative or intellectual work. What did you do, and was it effective?",
+      "options": [],
+      "answer": "open",
+      "explanation": "结合字幕中关于'没有社交媒体干扰'的内容，让学习者反思专注力对创作的重要性。",
+      "referenceAnswer": "Key points to cover: 1) The type of work that required focus; 2) What distractions you removed (phone, people, notifications); 3) The environment that worked best (quiet room, specific time, etc.); 4) The results of your focused effort; 5) Lessons learned about concentration.",
+      "hint": "Think about: What's the longest you've gone without checking your phone? How did that affect your productivity or creativity?",
+      "startTime": 704.5,
+      "endTime": 708.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "focus",
+        "distraction",
+        "social media",
+        "productivity"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The speaker says the structure of a song is important and compares verses to painting a picture. Choose a favorite song of yours and explain how its structure (verse, chorus, bridge) creates an emotional effect on the listener.",
+      "options": [],
+      "answer": "open",
+      "explanation": "基于字幕中关于歌曲结构重要性的讨论（verses像画作，bridge让听众感受情感），让学习者分析一首他们喜欢的歌曲。",
+      "referenceAnswer": "Key points to cover: 1) Name and brief description of the song; 2) Description of the verse and what 'picture' it paints; 3) The role of the chorus in reinforcing emotion; 4) How the bridge shifts or deepens the feeling; 5) Why this structure is effective overall.",
+      "hint": "Listen carefully to a song you love: What story does the first verse tell? How does the chorus make you feel? Is there a bridge that changes everything?",
+      "startTime": 752.8,
+      "endTime": 804.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "song structure",
+        "verse",
+        "bridge",
+        "emotion"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "The speaker mentions that as they've grown up, the intensity of their message has evolved. Talk about how your own perspective or message has changed as you've matured. What experiences caused these shifts?",
+      "options": [],
+      "answer": "open",
+      "explanation": "结合字幕中关于'随着成长，信息的强度发生变化'的内容，让学习者反思自己的成长和价值观变化。",
+      "referenceAnswer": "Key points to cover: 1) A belief or perspective you held earlier that has changed; 2) The experience or person that influenced the change; 3) How your current view differs from before; 4) Whether the intensity of your convictions has grown or softened; 5) What you value most now compared to before.",
+      "hint": "Reflect: What did you strongly believe 5 years ago that you see differently now? What changed your mind?",
+      "startTime": 1368.1,
+      "endTime": 1372.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "growth",
+        "maturity",
+        "intensity",
+        "message",
+        "evolution"
+      ]
+    }
+  ]
+}

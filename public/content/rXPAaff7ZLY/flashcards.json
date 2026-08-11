@@ -1,0 +1,398 @@
+{
+  "videoId": "rXPAaff7ZLY",
+  "generatedAt": "2026-08-11T06:29:03.004Z",
+  "cards": [
+    {
+      "id": "msoa57krkcma2x",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "inspiration",
+      "back": "灵感 (noun, B1)",
+      "context": "you get a bunch of recipe **inspiration**.",
+      "audioStart": 29.52,
+      "audioEnd": 34.48,
+      "word": "inspiration",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.003Z"
+    },
+    {
+      "id": "msoa57kritl9ga",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "groceries",
+      "back": "食品杂货 (noun, B1)",
+      "context": "never ever bought as much **groceries** in my life.",
+      "audioStart": 46.92,
+      "audioEnd": 51.44,
+      "word": "groceries",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.003Z"
+    },
+    {
+      "id": "msoa57kr9ndx8y",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stroller",
+      "back": "手推车 (noun, B1)",
+      "context": "we even brought like a **stroller** with us.",
+      "audioStart": 65.54,
+      "audioEnd": 70.48,
+      "word": "stroller",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.003Z"
+    },
+    {
+      "id": "msoa57krmgj8bx",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "document",
+      "back": "记录 (verb, B1)",
+      "context": "I can **document** everything that I will be making in this kitchen",
+      "audioStart": 94.32,
+      "audioEnd": 101.46,
+      "word": "document",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.003Z"
+    },
+    {
+      "id": "msoa57ks77vkun",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "cabinets",
+      "back": "橱柜 (noun, B1)",
+      "context": "we had already put everything into you know the **cabinets**",
+      "audioStart": 107.58,
+      "audioEnd": 114.02,
+      "word": "cabinets",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.004Z"
+    },
+    {
+      "id": "msoa57kslr150s",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "compote",
+      "back": "果酱 (noun, B2)",
+      "context": "I'm going to make a little **compote** with some berries to put in the yogurt bowl.",
+      "audioStart": 201.32,
+      "audioEnd": 206.88,
+      "word": "compote",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.004Z"
+    },
+    {
+      "id": "msoa57ks2ommzo",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "garnish",
+      "back": "装饰 (noun, B2)",
+      "context": "seeds for a little **garnish**",
+      "audioStart": 217.94,
+      "audioEnd": 219.94,
+      "word": "garnish",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.004Z"
+    },
+    {
+      "id": "msoa57ksv1fhg1",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "electrolytes",
+      "back": "电解质 (noun, B2)",
+      "context": "I also made **electrolytes** drink with some coconut water, lime juice, some salt and water.",
+      "audioStart": 277.5,
+      "audioEnd": 284.66,
+      "word": "electrolytes",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.004Z"
+    },
+    {
+      "id": "msoa57ks863b2o",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "elevated",
+      "back": "提升的 (adjective, B2)",
+      "context": "I mean but **elevated** with more veggies",
+      "audioStart": 441.13,
+      "audioEnd": 448.53,
+      "word": "elevated",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.004Z"
+    },
+    {
+      "id": "msoa57ks5xwktx",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "mashing",
+      "back": "捣碎 (verb, B1)",
+      "context": "I'm going to be **mashing** two bananas into my bowl.",
+      "audioStart": 481.83,
+      "audioEnd": 485.35,
+      "word": "mashing",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.004Z"
+    },
+    {
+      "id": "msoa57kszy4lum",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "massage",
+      "back": "按摩 (verb, B1)",
+      "context": "I'm giving it a good **massage**",
+      "audioStart": 621.37,
+      "audioEnd": 625.31,
+      "word": "massage",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.004Z"
+    },
+    {
+      "id": "msoa57kswtuzlu",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "digest",
+      "back": "消化 (verb, B1)",
+      "context": "it easier to **digest** and also enhances the flavor.",
+      "audioStart": 629.23,
+      "audioEnd": 634.33,
+      "word": "digest",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:03.004Z"
+    },
+    {
+      "id": "msoa5635kwkayj",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) and I am very excited to try this one ___",
+      "back": "out",
+      "context": "and I am very excited to try this one out.",
+      "audioStart": 343.9,
+      "audioEnd": 351.8,
+      "hint": "选项：off / in / up / out",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:01.073Z"
+    },
+    {
+      "id": "msoa5635hyca23",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) cubes and adding some ___ and olive oil.",
+      "back": "seasoning",
+      "context": "cubes and adding some seasoning and olive oil.",
+      "audioStart": 606,
+      "audioEnd": 613.2,
+      "hint": "选项：salt / seasoning / sauce / spice",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:01.073Z"
+    },
+    {
+      "id": "msoa5635dj5t0t",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) a mocha pot or something so we can make some coffee while we're ___",
+      "back": "here",
+      "context": "a mocha pot or something so we can make some coffee while we're",
+      "audioStart": 939,
+      "audioEnd": 945.3,
+      "hint": "选项：away / there / out / here",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:01.073Z"
+    },
+    {
+      "id": "msoa5635z33ox8",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) hemp seeds and a little bit of raw honey and i'm not kidding guys this is actually really ___",
+      "back": "good",
+      "context": "hemp seeds and a little bit of raw honey and i'm not kidding guys this is actually really",
+      "audioStart": 813.5,
+      "audioEnd": 820.1,
+      "hint": "选项：healthy / tasty / bad / good",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:01.073Z"
+    },
+    {
+      "id": "msoa5635onfoed",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) and I am very excited to try this one ___",
+      "back": "out",
+      "context": "and I am very excited to try this one out.",
+      "audioStart": 343.9,
+      "audioEnd": 351.8,
+      "hint": "选项：off / in / out / up",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:01.073Z"
+    },
+    {
+      "id": "msoa5635enivb9",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) medjool dates with some peanut butter and I'm gonna put some dark chocolate and put it in the ___",
+      "back": "freezer",
+      "context": "medjool dates with some peanut butter and I'm gonna put some dark chocolate and put it in the",
+      "audioStart": 1028.2,
+      "audioEnd": 1034.6,
+      "hint": "选项：microwave / oven / freezer / fridge",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:01.073Z"
+    },
+    {
+      "id": "msoa5635p6ddkb",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) of course some chicken and I bought some organic chicken ___",
+      "back": "breasts",
+      "context": "of course some chicken and I bought some organic chicken breasts.",
+      "audioStart": 360.2,
+      "audioEnd": 367.6,
+      "hint": "选项：wings / legs / thighs / breasts",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:01.073Z"
+    },
+    {
+      "id": "msoa5635x2abac",
+      "videoId": "rXPAaff7ZLY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) new place here in Sydney and there is no supermarket ___ by.",
+      "back": "close",
+      "context": "new place here in Sydney and there is no supermarket close by.",
+      "audioStart": 52,
+      "audioEnd": 59.5,
+      "hint": "选项：close / far / near / next",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:01.073Z"
+    }
+  ]
+}

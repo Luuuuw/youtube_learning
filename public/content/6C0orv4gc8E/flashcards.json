@@ -1,0 +1,398 @@
+{
+  "videoId": "6C0orv4gc8E",
+  "generatedAt": "2026-08-11T06:21:33.312Z",
+  "cards": [
+    {
+      "id": "mso9vklcjh6jc3",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "haunt",
+      "back": "萦绕；使困扰 (verb, B2)",
+      "context": "The photo **haunts** me to this day.",
+      "audioStart": 21.14,
+      "audioEnd": 22.82,
+      "word": "haunt",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklcyi8ue6",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "interchangeable",
+      "back": "可互换的 (adjective, B2)",
+      "context": "You can wear them with literally anything.",
+      "audioStart": 68.86,
+      "audioEnd": 71.1,
+      "word": "interchangeable",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklcmd0hhi",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "meticulously",
+      "back": "一丝不苟地 (adverb, C1)",
+      "context": "It's been grown very **meticulously**.",
+      "audioStart": 147.62,
+      "audioEnd": 154.02,
+      "word": "meticulously",
+      "tags": [
+        "CEFR-C1",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklcz3vy6b",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "slouch",
+      "back": "慵懒垂坠感 (noun, C1)",
+      "context": "I think it's the fit, but also the way it lays and the **slouch** that it has.",
+      "audioStart": 158,
+      "audioEnd": 161.82,
+      "word": "slouch",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklc5oclrk",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "prioritize",
+      "back": "优先考虑 (verb, B2)",
+      "context": "I've always been the person to **prioritize** comfort.",
+      "audioStart": 231.86,
+      "audioEnd": 235.1,
+      "word": "prioritize",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklcf5q41p",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "tailoring",
+      "back": "剪裁；定制 (noun, C1)",
+      "context": "But yes, speaking on **tailoring**, like also finding a good...",
+      "audioStart": 276.78,
+      "audioEnd": 279.22,
+      "word": "tailoring",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklcaoeaov",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vintage",
+      "back": "复古的；老式的 (adjective, B2)",
+      "context": "When you find like a **vintage** pair that fits you like a glove.",
+      "audioStart": 279.22,
+      "audioEnd": 282.98,
+      "word": "vintage",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklcyult9f",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "obsessed",
+      "back": "着迷的 (adjective, B2)",
+      "context": "I'm **obsessed** with them, but I just have to find the right place to go is the problem.",
+      "audioStart": 326.78,
+      "audioEnd": 331.44,
+      "word": "obsessed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklc2800vo",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sleek",
+      "back": "线条流畅的；时髦的 (adjective, C1)",
+      "context": "They're like falling apart, but they're just so **sleek** and so good.",
+      "audioStart": 376.48,
+      "audioEnd": 380.86,
+      "word": "sleek",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklcgt8vf1",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "uplifter",
+      "back": "鼓舞人心的人 (noun, C1)",
+      "context": "Virgil was such an **uplifter**.",
+      "audioStart": 436.3,
+      "audioEnd": 438.94,
+      "word": "uplifter",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklcx5ad6f",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "silhouette",
+      "back": "轮廓；剪影 (noun, C1)",
+      "context": "Wow, that's a really beautiful **silhouette**.",
+      "audioStart": 619.02,
+      "audioEnd": 621.56,
+      "word": "silhouette",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vklc41gibk",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "inspiration",
+      "back": "灵感 (noun, B2)",
+      "context": "I'm always kind of like looking for new **inspiration**.",
+      "audioStart": 632.18,
+      "audioEnd": 635.96,
+      "word": "inspiration",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:33.312Z"
+    },
+    {
+      "id": "mso9vja9ayzx7t",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I think it's the ___ but also the way it lays and the slouch that it has.",
+      "back": "fit",
+      "context": "I think it's the fit, but also the way it lays and the slouch that it has.",
+      "audioStart": 157.9,
+      "audioEnd": 161.3,
+      "hint": "选项：shape / fit / style / look",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:31.617Z"
+    },
+    {
+      "id": "mso9vjaa4f11yc",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I think it's the fit, but also the way it ___ and the slouch that it has.",
+      "back": "lays",
+      "context": "I think it's the fit, but also the way it lays and the slouch that it has.",
+      "audioStart": 157.9,
+      "audioEnd": 161.3,
+      "hint": "选项：lays / hangs / lies / drapes",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:31.618Z"
+    },
+    {
+      "id": "mso9vjaaubh4rl",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I'd say like the ___, the blues, and the greens are like",
+      "back": "reds",
+      "context": "I'd say like the reds, the blues, and the greens are like",
+      "audioStart": 136.4,
+      "audioEnd": 142,
+      "hint": "选项：yellows / pinks / purples / reds",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:31.618Z"
+    },
+    {
+      "id": "mso9vjaakab7k2",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So it's like beanie material, but it's a little bucket hat and it's my ___ thing ever.",
+      "back": "favorite",
+      "context": "So it's like beanie material, but it's a little bucket hat and it's my favorite thing ever.",
+      "audioStart": 220.2,
+      "audioEnd": 226,
+      "hint": "选项：greatest / top / best / favorite",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:31.618Z"
+    },
+    {
+      "id": "mso9vjaaok9xjs",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You'll notice it's a little bit more ___, which I love, because I think that that also",
+      "back": "muted",
+      "context": "You'll notice it's a little bit more muted, which I love, because I think that that also",
+      "audioStart": 126.5,
+      "audioEnd": 130.6,
+      "hint": "选项：quiet / soft / muted / subtle",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:31.618Z"
+    },
+    {
+      "id": "mso9vjaag6o5d5",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I feel like a great leather jacket you could have for ___.",
+      "back": "life",
+      "context": "I feel like a great leather jacket you could have for life.",
+      "audioStart": 143.6,
+      "audioEnd": 147.5,
+      "hint": "选项：ages / ever / years / life",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:31.618Z"
+    },
+    {
+      "id": "mso9vjaanq0g4s",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I shot my house for Architectural Digest like ___ years",
+      "back": "six",
+      "context": "I shot my house for Architectural Digest like six years",
+      "audioStart": 15.9,
+      "audioEnd": 20.7,
+      "hint": "选项：six / seven / five / eight",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:31.618Z"
+    },
+    {
+      "id": "mso9vj1xba4fx9",
+      "videoId": "6C0orv4gc8E",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "实在想不出别的办法，只能像书架一样摆 实在想不出别的办法，只能像书架一样摆\nSo this is ___ good ___ it's gonna get.",
+      "back": "as / as",
+      "context": "So this is as good as it's gonna get.",
+      "audioStart": 49.6,
+      "audioEnd": 52.7,
+      "hint": "as ... as",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:31.317Z"
+    }
+  ]
+}

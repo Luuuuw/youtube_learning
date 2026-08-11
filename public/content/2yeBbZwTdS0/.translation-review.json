@@ -1,0 +1,722 @@
+{
+  "videoId": "2yeBbZwTdS0",
+  "reviewedAt": "2026-06-17T09:11:48.416Z",
+  "segments": [
+    {
+      "key": "0.000-6.240",
+      "start": 0,
+      "end": 6.24,
+      "en_full": "I'm back about to do another makeup tutorial I'm going to show you guys how",
+      "zh": "我回来了，准备再做一个化妆教程，教你们怎么画。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "6.240-15.540",
+      "start": 6.24,
+      "end": 15.54,
+      "en_full": "[Music]",
+      "zh": "[音乐]",
+      "verdict": "pass",
+      "reason": "英文[Music]翻译为[音乐]，准确。"
+    },
+    {
+      "key": "15.540-18.900",
+      "start": 15.54,
+      "end": 18.9,
+      "en_full": "always start with skin prep I'm gonna go in first with the glazing",
+      "zh": "先做皮肤准备，我会先用上光产品。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "18.900-23.939",
+      "start": 18.9,
+      "end": 23.939,
+      "en_full": "milk I don't think I've done a tutorial video yet like a makeup tutorial video",
+      "zh": "牛奶，我好像还没做过化妆教程视频呢。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "23.939-29.099",
+      "start": 23.939,
+      "end": 29.099,
+      "en_full": "world yet I've teased it in other videos",
+      "zh": "不过我在其他视频里已经提到过它了。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "29.099-34.860",
+      "start": 29.099,
+      "end": 34.86,
+      "en_full": "it's actually out in the world and",
+      "zh": "它实际上已经问世了。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "34.860-41.520",
+      "start": 34.86,
+      "end": 41.52,
+      "en_full": "of course always want to have that super glazed glowy juicy skin I always like to",
+      "zh": "当然，我一直想要那种超级水润、光泽、饱满的肌肤，我一直喜欢。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "41.520-48.420",
+      "start": 41.52,
+      "end": 48.42,
+      "en_full": "glazing fluids my Holy Grail go-to for",
+      "zh": "上光液是我的圣杯级必备品。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "48.420-51.480",
+      "start": 48.42,
+      "end": 51.48,
+      "en_full": "love to mix it with my makeup a lot so",
+      "zh": "我很喜欢把它和我的化妆品混在一起用。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "51.480-57.360",
+      "start": 51.48,
+      "end": 57.36,
+      "en_full": "summer I feel like I have been doing",
+      "zh": "夏天，我感觉自己一直在做",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "57.360-63.120",
+      "start": 57.36,
+      "end": 63.12,
+      "en_full": "I've been in some places that have been more humid and I feel like this",
+      "zh": "我去过一些更潮湿的地方，感觉这里还行。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "63.120-69.540",
+      "start": 63.12,
+      "end": 69.54,
+      "en_full": "it looks so stunning under my makeup so",
+      "zh": "在我的妆容下，它看起来太惊艳了。",
+      "verdict": "pass",
+      "reason": "英文'it looks so stunning under my makeup so'，中文翻译为'在我的妆容下，它看起来太惊艳了。'，准确。"
+    },
+    {
+      "key": "69.540-73.979",
+      "start": 69.54,
+      "end": 73.979,
+      "en_full": "my makeup done and it was going to be",
+      "zh": "我的妆化好了，本来会很好看的。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "73.979-80.400",
+      "start": 73.979,
+      "end": 80.4,
+      "en_full": "definitely go in with a richer moisturizer over top of this as well",
+      "zh": "一定要在上面涂一层更滋润的保湿霜。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "80.400-85.080",
+      "start": 80.4,
+      "end": 85.08,
+      "en_full": "super super hydrated under my makeup I",
+      "zh": "化妆前我皮肤超级水润。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "85.080-91.920",
+      "start": 85.08,
+      "end": 91.92,
+      "en_full": "secret thing I've been having a lot of",
+      "zh": "我一直有很多秘密的事情",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "91.920-95.400",
+      "start": 91.92,
+      "end": 95.4,
+      "en_full": "fun testing this out and what I will say is that it leaves and keeps the skin and",
+      "zh": "测试起来很有趣，我想说的是它能让皮肤保持",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "95.400-100.439",
+      "start": 95.4,
+      "end": 100.439,
+      "en_full": "the face feeling",
+      "zh": "脸部感觉",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "100.439-107.100",
+      "start": 100.439,
+      "end": 107.1,
+      "en_full": "the first thing I'm going to start with my Contour slash under painting this is",
+      "zh": "我首先要开始的是我的Contour斜线底画。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "107.100-114.240",
+      "start": 107.1,
+      "end": 114.24,
+      "en_full": "using this for my under paintings lash",
+      "zh": "我用这个来做底层睫毛画。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "114.240-122.220",
+      "start": 114.24,
+      "end": 122.22,
+      "en_full": "really love this hourglass brush I feel like it kind of",
+      "zh": "真的很喜欢这个沙漏刷，感觉它有点",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "122.220-128.520",
+      "start": 122.22,
+      "end": 128.52,
+      "en_full": "into the skin and it makes everything look really really even and seamless",
+      "zh": "让妆效特别均匀服帖，一点痕迹都没有",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "128.520-134.220",
+      "start": 128.52,
+      "end": 134.22,
+      "en_full": "glowy in my skin I'm pretty tan right now so",
+      "zh": "我皮肤有点发光，现在晒得挺黑的。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "134.220-140.340",
+      "start": 134.22,
+      "end": 140.34,
+      "en_full": "looks even matches",
+      "zh": "看起来甚至匹配",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "140.340-143.459",
+      "start": 140.34,
+      "end": 143.459,
+      "en_full": "trying to make sure I always blend it out underneath my jawline and like into",
+      "zh": "我尽量把它晕染到下颌线下方，像这样融入进去。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "143.459-151.860",
+      "start": 143.459,
+      "end": 151.86,
+      "en_full": "out underneath my jawline and like into I just feel that the snatch you get from",
+      "zh": "沿着我的下颌线往下，我就觉得那种紧致感从……",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "151.860-154.560",
+      "start": 151.86,
+      "end": 154.56,
+      "en_full": "I just feel that the snatch you get from this technique is pretty undefeated if",
+      "zh": "这个技巧带来的紧致效果真的超级棒",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "154.560-160.560",
+      "start": 154.56,
+      "end": 160.56,
+      "en_full": "you ask me next I'm going to go in with The Hourglass concealer",
+      "zh": "接下来要用Hourglass遮瑕了",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "160.560-167.940",
+      "start": 160.56,
+      "end": 167.94,
+      "en_full": "go in lift once again I'm not going too light",
+      "zh": "再进一次电梯，我不会太轻的。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "167.940-171.120",
+      "start": 167.94,
+      "end": 171.12,
+      "en_full": "with the concealer because my body is really tan and I need to",
+      "zh": "用遮瑕膏，因为我身体很黑，需要遮瑕。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "171.120-180.360",
+      "start": 171.12,
+      "end": 180.36,
+      "en_full": "my body is really tan and I need to take this brush to blend it out in the",
+      "zh": "我的身体晒得很黑，需要用这把刷子把它晕开。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "180.360-187.379",
+      "start": 180.36,
+      "end": 187.379,
+      "en_full": "smaller areas I always end up using my finger too so it is what it is",
+      "zh": "小地方我最后都用手，习惯了",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "187.379-193.980",
+      "start": 187.379,
+      "end": 193.98,
+      "en_full": "creamy and beautiful but has really good coverage too and it's",
+      "zh": "质地丝滑又好看，而且遮瑕效果也很棒。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "193.980-200.580",
+      "start": 193.98,
+      "end": 200.58,
+      "en_full": "before I go in with any product over this contouring concealer I'm going to",
+      "zh": "在涂任何产品之前，我都会先上这个修容遮瑕膏。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "200.580-207.360",
+      "start": 200.58,
+      "end": 207.36,
+      "en_full": "and if I was gonna go in next with a",
+      "zh": "如果接下来我要进去的话",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "207.360-212.040",
+      "start": 207.36,
+      "end": 212.04,
+      "en_full": "pre-bluffed it out but I'm not going to use something with this much",
+      "zh": "虽然事先虚张声势，但我不会用这么厉害的东西。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "212.040-217.980",
+      "start": 212.04,
+      "end": 217.98,
+      "en_full": "doing like a light summer makeup that I",
+      "zh": "化一个轻薄的夏日妆容",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "217.980-223.620",
+      "start": 217.98,
+      "end": 223.62,
+      "en_full": "fresh and natural so what I am going to go in with is this hourglass Veil which",
+      "zh": "清新自然，所以我接下来要用这款Hourglass Veil粉底。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "223.620-230.340",
+      "start": 223.62,
+      "end": 230.34,
+      "en_full": "is their hydrating skin tint it's really light really beautiful gives such a nice",
+      "zh": "他们的保湿肤色霜，质地轻盈，效果超棒，妆感特别美。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "230.340-236.280",
+      "start": 230.34,
+      "end": 236.28,
+      "en_full": "too much and I do feel like it's",
+      "zh": "太多了，我确实觉得是这样。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "236.280-239.099",
+      "start": 236.28,
+      "end": 239.099,
+      "en_full": "be I just put some on the back of my",
+      "zh": "我只是在背面涂了一些。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "239.099-240.720",
+      "start": 239.099,
+      "end": 240.72,
+      "en_full": "hand and I'm going to go in with the Fluffy side of this brush and I'm going",
+      "zh": "我要用刷子的绒毛面来上妆。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "240.720-247.560",
+      "start": 240.72,
+      "end": 247.56,
+      "en_full": "to just buff it into the skin over that contour and concealer and then",
+      "zh": "继续晕开轮廓和遮瑕部分",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "247.560-254.040",
+      "start": 247.56,
+      "end": 254.04,
+      "en_full": "it kind of just helps melt everything into the skin as you can see",
+      "zh": "然后它能帮助把产品和皮肤融合在一起",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "254.040-260.459",
+      "start": 254.04,
+      "end": 260.459,
+      "en_full": "summer because it's light your skin",
+      "zh": "夏天因为阳光让皮肤变亮。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "260.459-269.100",
+      "start": 260.459,
+      "end": 269.1,
+      "en_full": "coverage but isn't too overpowering it's really",
+      "zh": "覆盖力不错但不会太夸张，真的很",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "269.100-271.259",
+      "start": 269.1,
+      "end": 271.259,
+      "en_full": "next I'm going to do my blush I'm going to do two different blush Shades a nudie",
+      "zh": "接下来我要上腮红，用两种不同的裸色系腮红。",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "271.259-279.180",
+      "start": 271.259,
+      "end": 279.18,
+      "en_full": "beigey pink and I like to do that first because it",
+      "zh": "米粉色，我喜欢先做这个，因为",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "279.180-285.479",
+      "start": 279.18,
+      "end": 285.479,
+      "en_full": "almost bronzes up the skin a little bit and the next one I'm going to go in with",
+      "zh": "几乎让皮肤有点古铜色，接下来我要用",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "285.479-287.300",
+      "start": 285.479,
+      "end": 287.3,
+      "en_full": "is a little bit more of like a baby",
+      "zh": "是带点婴儿粉的感觉",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "287.300-293.759",
+      "start": 287.3,
+      "end": 293.759,
+      "en_full": "ballerina pink and I love glowy dewy",
+      "zh": "芭蕾舞者粉，我爱那种发光水润的感觉。",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "293.759-301.740",
+      "start": 293.759,
+      "end": 301.74,
+      "en_full": "to the next step I'm going to just start",
+      "zh": "下一步，我就直接开始了。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "301.740-305.699",
+      "start": 301.74,
+      "end": 305.699,
+      "en_full": "doing a little powder under my eyes and let it sit for a second",
+      "zh": "在眼睛下面扑上散粉，让它待一会儿",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "305.699-311.940",
+      "start": 305.699,
+      "end": 311.94,
+      "en_full": "hourglass Veil",
+      "zh": "沙漏面纱",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "311.940-316.680",
+      "start": 311.94,
+      "end": 316.68,
+      "en_full": "because I like to stay looking really",
+      "zh": "因为我喜欢保持好看的样子",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "316.680-322.320",
+      "start": 316.68,
+      "end": 322.32,
+      "en_full": "necessary to set my makeup okay so that was powder I'm not a big",
+      "zh": "需要定妆，刚才那是散粉，我不太喜欢。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "322.320-329.100",
+      "start": 322.32,
+      "end": 329.1,
+      "en_full": "brush them up I like to go the reverse way like this",
+      "zh": "所以我就把它们往上刷，我喜欢反向这样刷",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "329.100-332.820",
+      "start": 329.1,
+      "end": 332.82,
+      "en_full": "I'll be a girl who fills in her brows",
+      "zh": "我会是个自己画眉毛的女孩",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "332.820-339.780",
+      "start": 332.82,
+      "end": 339.78,
+      "en_full": "I'm gonna use this color from this Simi Haze palette this nice dusty rose",
+      "zh": "我要用Simi Haze眼影盘里的这个颜色，这个漂亮的灰粉色。",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息"
+    },
+    {
+      "key": "339.780-342.300",
+      "start": 339.78,
+      "end": 342.3,
+      "en_full": "color right there I feel like that's a color that I think",
+      "zh": "那个颜色就在那里，我觉得那是我喜欢的颜色。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "342.300-353.100",
+      "start": 342.3,
+      "end": 353.1,
+      "en_full": "people probably see me use",
+      "zh": "人们可能看到我使用",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "353.100-357.660",
+      "start": 353.1,
+      "end": 357.66,
+      "en_full": "mascara and this is The Hourglass",
+      "zh": "睫毛膏，这是The Hourglass。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "357.660-365.100",
+      "start": 357.66,
+      "end": 365.1,
+      "en_full": "feel like people point out the way I say mascara and mascara mascara",
+      "zh": "感觉大家总在说我念mascara和mascara mascara的方式。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "365.100-367.860",
+      "start": 365.1,
+      "end": 367.86,
+      "en_full": "I think I say mascara very New York like",
+      "zh": "我觉得我说mascara这个词很有纽约味",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "367.860-374.699",
+      "start": 367.86,
+      "end": 374.699,
+      "en_full": "where I grew up",
+      "zh": "我长大的地方",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "374.699-380.759",
+      "start": 374.699,
+      "end": 380.759,
+      "en_full": "that really did something for me I have to do this liner lip Situation off",
+      "zh": "这真的触动了我，我得处理这个唇线问题。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "380.759-387.479",
+      "start": 380.759,
+      "end": 387.479,
+      "en_full": "camera because I'm not ready to to tease this yet I am",
+      "zh": "因为还没准备好，所以先不透露这个摄像头。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "387.479-394.319",
+      "start": 387.479,
+      "end": 394.319,
+      "en_full": "like enhanced my lips and it's like a nudie color",
+      "zh": "它让我的嘴唇更丰满了，颜色也很自然。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "394.319-399.479",
+      "start": 394.319,
+      "end": 399.479,
+      "en_full": "and it's so natural and beautiful which I love and then I'm gonna do a little",
+      "zh": "它如此自然美丽，我超爱，然后我要做一点",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "399.479-404.220",
+      "start": 399.479,
+      "end": 404.22,
+      "en_full": "highlight the last thing I'm gonna do is",
+      "zh": "我最后要做的事就是强调",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "404.220-410.460",
+      "start": 404.22,
+      "end": 410.46,
+      "en_full": "look what's back",
+      "zh": "看看谁回来了",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "410.460-414.900",
+      "start": 410.46,
+      "end": 414.9,
+      "en_full": "vanilla cake this is vanilla cake back permanently as Road vanilla so this is",
+      "zh": "香草蛋糕，这是香草蛋糕，永久回归，Road香草，就是这样。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "414.900-418.620",
+      "start": 414.9,
+      "end": 418.62,
+      "en_full": "permanently as Road vanilla so this is our permanent Road vanilla scent and I'm",
+      "zh": "永久作为Road香草味，所以这是我们的永久Road香草味，我是",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "418.620-425.880",
+      "start": 418.62,
+      "end": 425.88,
+      "en_full": "so happy that it's back I really missed this scent it definitely became",
+      "zh": "很高兴它回来了，我真的很想念这个味道，它绝对成了",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "425.880-427.680",
+      "start": 425.88,
+      "end": 427.68,
+      "en_full": "my favorite along with the Salted Caramel I think I'm done I mean",
+      "zh": "我最喜欢的是咸焦糖口味，我想我吃够了。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "427.680-430.380",
+      "start": 427.68,
+      "end": 430.38,
+      "en_full": "Caramel I think I'm done I mean this is usually just my typical go-to",
+      "zh": "Caramel，我觉得我搞定了，这通常是我的首选。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "430.380-441.900",
+      "start": 430.38,
+      "end": 441.9,
+      "en_full": "Sun woohoo",
+      "zh": "太阳，呜呼！",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "441.900-448.440",
+      "start": 441.9,
+      "end": 448.44,
+      "en_full": "that's my glowy summer dewy go-to look I hope you guys enjoyed watching this",
+      "zh": "这就是我夏日发光水润的必备妆容，希望你们喜欢看这个视频。",
+      "verdict": "pass",
+      "reason": "已重译"
+    },
+    {
+      "key": "448.440-454.510",
+      "start": 448.44,
+      "end": 454.51,
+      "en_full": "and I'll see you next time foreign",
+      "zh": "下次见，外国朋友们。",
+      "verdict": "pass",
+      "reason": "已重译"
+    }
+  ],
+  "stats": {
+    "pass": 79,
+    "partial": 0,
+    "wrong": 0
+  }
+}

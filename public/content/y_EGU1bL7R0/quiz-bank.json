@@ -1,0 +1,543 @@
+{
+  "videoId": "y_EGU1bL7R0",
+  "title": "y_EGU1bL7R0",
+  "generatedAt": "2026-08-10T16:49:56.897Z",
+  "version": 1,
+  "totalQuestions": 23,
+  "stats": {
+    "easy": 9,
+    "medium": 10,
+    "hard": 4,
+    "choice": 18,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the phrase 'rapid fire' mean at the beginning of the video?",
+      "options": [
+        "A) A type of gun used in movies",
+        "B) A fast-paced question and answer format",
+        "C) A cooking technique",
+        "D) A military operation"
+      ],
+      "answer": "B",
+      "explanation": "'Rapid fire' 在这里指的是一种快速问答的游戏形式，问题接连不断地快速抛出，回答也需要简洁快速。字幕 'these are rapid fire'（这些是快速提问）和 'we're just rapidly firing through'（我们快速地过一遍）都印证了这一含义。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 3.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "rapid fire",
+        "format",
+        "quick",
+        "questions"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What is the name of the speaker's wife?",
+      "options": [
+        "A) Jane",
+        "B) Mary",
+        "C) Sarah",
+        "D) Helen"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 'My wife, Mary'（我的妻子，Mary），可以直接得知演讲者的妻子名叫 Mary。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 22,
+      "endTime": 23.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "wife",
+        "Mary",
+        "family",
+        "name"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the expression 'That's a no-brainer for me' mean?",
+      "options": [
+        "A) Something that is very difficult to decide",
+        "B) Something that requires a lot of thought",
+        "C) Something very easy and obvious to decide",
+        "D) Something that causes headaches"
+      ],
+      "answer": "C",
+      "explanation": "'No-brainer' 是一个英语口语表达，意思是 '不需要动脑的事'，即某件事非常容易决定，明摆着的事。说话者用这个词表示他的选择是显而易见的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 24.1,
+      "endTime": 25.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "no-brainer",
+        "easy",
+        "obvious",
+        "decision"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "In the context of the interview, what is a 'date night'?",
+      "options": [
+        "A) A night when you work overtime",
+        "B) A special evening that a couple spends together",
+        "C) A calendar date marked on a wall",
+        "D) A birthday celebration"
+      ],
+      "answer": "B",
+      "explanation": "'Date night' 是英语中常用的表达，指夫妻或情侣之间专门安排的约会之夜，通常是外出用餐或共度二人世界的时光。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 27.6,
+      "endTime": 28.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "date night",
+        "couple",
+        "evening",
+        "romance"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "When asked about a favorite work of sci-fi, what unusual answer does the speaker give?",
+      "options": [
+        "A) Star Wars",
+        "B) Jurassic Park",
+        "C) Diplodocus",
+        "D) Planet of the Apes"
+      ],
+      "answer": "C",
+      "explanation": "当被问到最喜欢的科幻作品时，回答出乎意料地是 'Diplodocus'（梁龙）——一种已经灭绝的恐龙，而不是通常意义上的科幻电影。这可能是一种幽默的回答方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 70.7,
+      "endTime": 74.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sci-fi",
+        "Diplodocus",
+        "dinosaur",
+        "humor"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Which Star Wars film does the speaker mention as their favorite from childhood?",
+      "options": [
+        "A) Episode 1: The Phantom Menace",
+        "B) Episode 5: The Empire Strikes Back",
+        "C) Episode 4: A New Hope",
+        "D) Episode 3: Revenge of the Sith"
+      ],
+      "answer": "C",
+      "explanation": "字幕明确提到 'The first Star Wars film, Episode 4, A New Hope'（第一部星球大战电影，第四集，新希望），说明说话者小时候最喜欢的是1977年上映的《星球大战》首部曲。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 78.8,
+      "endTime": 88,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Star Wars",
+        "Episode 4",
+        "A New Hope",
+        "childhood"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "Which country does the speaker mention as one of the most extraordinary places they've explored on a motorcycle?",
+      "options": [
+        "A) Scotland",
+        "B) Mongolia",
+        "C) Iceland",
+        "D) Australia"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕 'Mongolia is one of the most extraordinary places I've ever been to'（蒙古是我去过的最非凡的地方之一），说话者在回答关于摩托车探险最喜欢的地方时提到了蒙古。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 108.9,
+      "endTime": 114,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Mongolia",
+        "motorcycle",
+        "explore",
+        "extraordinary"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the word 'diehard' mean in 'I was a diehard Star Wars film [fan]'?",
+      "options": [
+        "A) Someone who is old and stubborn",
+        "B) A very loyal and enthusiastic fan",
+        "C) Someone who has died",
+        "D) A type of movie critic"
+      ],
+      "answer": "B",
+      "explanation": "'Diehard'（铁杆的、死忠的）形容对某事物非常忠诚、热衷的人，不因时间或困难而改变。'Diehard fan' 就是铁杆粉丝的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 78.8,
+      "endTime": 82.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "diehard",
+        "fan",
+        "loyal",
+        "enthusiastic"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the interview question about 1980s films?",
+      "options": [
+        "A) What is your favorite 1980s film?",
+        "B) What 1980s film do you wish you could have starred in?",
+        "C) Which 1980s film have you never seen?",
+        "D) Who is your favorite 1980s actor?"
+      ],
+      "answer": "B",
+      "explanation": "字幕中的问题原文是 'What 1980s film do you wish you could have starred in?'（你希望自己能出演哪部80年代的电影？），这与其他选项的措辞不同。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 155.2,
+      "endTime": 158.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "1980s",
+        "film",
+        "star",
+        "question"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What food-related question is asked about Scotland?",
+      "options": [
+        "A) What is your favorite Scottish dish?",
+        "B) What food do you miss most when you're not in Scotland?",
+        "C) How do you cook haggis?",
+        "D) Where do you buy Scottish food?"
+      ],
+      "answer": "B",
+      "explanation": "字幕显示的问题是 'What food do you miss most when you're not in Scotland?'（不在苏格兰时你最想念的食物是什么？），这是一个关于家乡味道的思念之情的问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 171.2,
+      "endTime": 173.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "food",
+        "Scotland",
+        "miss",
+        "homesick"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I wouldn't change a thing about it'?",
+      "options": [
+        "A) The food cannot be modified",
+        "B) Everything is perfect the way it is",
+        "C) I want to change everything",
+        "D) I cannot change the recipe"
+      ],
+      "answer": "B",
+      "explanation": "'I wouldn't change a thing about it'（我一点都不想改变）是表达对现状完全满意的意思，表示一切都很完美，不希望有任何不同。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 165,
+      "endTime": 166.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "change",
+        "satisfied",
+        "perfect",
+        "content"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is a 'deep fryer' as mentioned in the story?",
+      "options": [
+        "A) A swimming pool",
+        "B) A kitchen appliance for cooking food in hot oil",
+        "C) A type of fishing boat",
+        "D) A deep-sea exploration device"
+      ],
+      "answer": "B",
+      "explanation": "'Deep fryer'（深炸锅/油炸锅）是一种厨房电器或设备，用于将食物完全浸入热油中炸熟。句子提到 'fell in a deep fryer in a fish and chip shop'（掉进了炸鱼薯条店的油炸锅里），是讲一个物体掉进热油里的故事。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 204.9,
+      "endTime": 208.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "deep fryer",
+        "fish and chips",
+        "kitchen",
+        "oil"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "How does the speaker describe their approach to handling a crisis?",
+      "options": [
+        "A) Panic and run away",
+        "B) Get angry and shout",
+        "C) Become very practical and calm",
+        "D) Hide from everyone"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕 'I'm pretty good in a crisis'（我挺擅长应对危机的）和 'I go very, very practical and very, very calm'（我会变得非常务实和非常冷静），说话者在危急时刻会保持冷静并采取实际行动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 245,
+      "endTime": 249.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "crisis",
+        "practical",
+        "calm",
+        "emergency"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the expression 'lose it a little bit' mean in context?",
+      "options": [
+        "A) To physically drop something",
+        "B) To lose control of one's emotions",
+        "C) To lose money",
+        "D) To lose a game"
+      ],
+      "answer": "B",
+      "explanation": "'Lose it' 在口语中常指 '失去控制'，特别是情绪上的失控。'Lose it a little bit' 意思是 '有点情绪失控'，通常指被吓到或受刺激而反应强烈。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 252.6,
+      "endTime": 255.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lose it",
+        "emotions",
+        "control",
+        "react"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "In context, what do 'civility' and 'the democratic process' suggest the speaker values?",
+      "options": [
+        "A) Strict laws and order",
+        "B) Polite behavior and political participation",
+        "C) Modern technology and innovation",
+        "D) Fast food and convenience"
+      ],
+      "answer": "B",
+      "explanation": "'Civility'（礼貌/文明）指有教养和尊重他人的行为，'democratic process'（民主程序）指通过投票、选举等参与政治决策的方式。两者都指向说话者重视礼貌行为和民主参与。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 129.3,
+      "endTime": 134.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "civility",
+        "democratic process",
+        "politics",
+        "society"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the speaker from?",
+      "options": [
+        "A) England",
+        "B) Ireland",
+        "C) Scotland",
+        "D) Wales"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕 'from Scotland'（来自苏格兰），可以确定说话者是苏格兰人。视频中也提到了关于苏格兰食物的问题，进一步印证了这一点。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 278,
+      "endTime": 279,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Scotland",
+        "nationality",
+        "origin",
+        "country"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "The speaker describes something as 'gorgeous' and feeling like 'proper childhood'. What does 'proper childhood' imply?",
+      "options": [
+        "A) A formal education in childhood",
+        "B) An authentic, traditional, carefree childhood experience",
+        "C) A childhood spent indoors studying",
+        "D) A proper way to behave as a child"
+      ],
+      "answer": "B",
+      "explanation": "'Proper' 在英式英语中（说话者来自苏格兰）有 '真正的、地道的、纯粹的' 之意。'Proper childhood' 意味着真实而充满乐趣的传统童年体验，没有电子设备干扰的那种自由玩耍的时光。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 279,
+      "endTime": 282.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "proper childhood",
+        "authentic",
+        "wild",
+        "gorgeous"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'I'd say they still do' imply about the previous topic of discussion?",
+      "options": [
+        "A) The subject no longer exists",
+        "B) The subject continues to exist or matter today",
+        "C) The subject will exist in the future",
+        "D) The subject never existed"
+      ],
+      "answer": "B",
+      "explanation": "'They still do'（它们仍然如此）表示前文讨论的事物在当下依然如此，依然存在或依然重要。说话者肯定了某事的持续性和持久影响。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 52.7,
+      "endTime": 53.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "still do",
+        "continue",
+        "present",
+        "ongoing"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "What is a movie that you think everyone should watch, and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "参考视频中关于 'What is a movie that everyone should watch?'（每个人都应该看的一部电影是什么？）的问题，考察学生用英语表达观点和推荐理由的能力。",
+      "referenceAnswer": "建议回答包括：1) 电影名称；2) 电影类型或主题；3) 推荐理由（感人的故事、有教育意义、视觉效果震撼等）；4) 个人感受或影响。例如：'I think everyone should watch [movie name] because it teaches us about [theme]. The story is so moving that it changed the way I see [topic].'",
+      "hint": "Think about a film that left a strong impression on you. Mention the title, what it's about, and why you recommend it.",
+      "startTime": 55.3,
+      "endTime": 57.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "movie",
+        "recommend",
+        "everyone",
+        "favorite"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Where is your favorite place to explore, and what makes it special?",
+      "options": [],
+      "answer": "open",
+      "explanation": "参考视频中关于 'Where is your favorite place to explore on a motorcycle?' 的问题，考察学生描述地点和表达个人喜好的能力。",
+      "referenceAnswer": "建议回答包括：1) 地点名称；2) 地理位置；3) 吸引人的特色（自然风光、文化、氛围等）；4) 个人体验或回忆。例如：'My favorite place to explore is [location]. It's special because [reason]. The [scenery/people/culture] there is unforgettable, and every time I visit I discover something new.'",
+      "hint": "Describe a place you've visited or dream of visiting. Talk about its scenery, atmosphere, and why it stays in your memory.",
+      "startTime": 92.9,
+      "endTime": 96.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "explore",
+        "favorite place",
+        "travel",
+        "adventure"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "What food do you miss most when you're away from home? Describe it in detail.",
+      "options": [],
+      "answer": "open",
+      "explanation": "参考视频中关于 'What food do you miss most when you're not in Scotland?' 的问题，考察学生描述食物和表达思乡情感的能力。",
+      "referenceAnswer": "建议回答包括：1) 食物名称；2) 配料和做法；3) 味道和口感；4) 与家人或家乡的联系。例如：'The food I miss most is [dish name]. It's made with [ingredients] and has a [flavor/texture] that reminds me of home. My [family member] always makes it for [special occasions], and it brings back wonderful memories.'",
+      "hint": "Think about a dish from your hometown or family. Describe its taste, ingredients, and the memories associated with it.",
+      "startTime": 171.2,
+      "endTime": 173.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "food",
+        "homesick",
+        "miss",
+        "favorite dish"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "If you could star in any 1980s film, which one would it be and what role would you play?",
+      "options": [],
+      "answer": "open",
+      "explanation": "参考视频中关于 'What 1980s film do you wish you could have starred in?' 的问题，考察学生的想象力和英语表达能力。",
+      "referenceAnswer": "建议回答包括：1) 1980年代电影名称；2) 电影类型或情节；3) 想扮演的角色；4) 原因和感受。例如：'I would love to star in [1980s film]. The story is so [exciting/touching/funny], and I would play the role of [character] because [reason]. It would be amazing to be part of such an iconic movie from that era.'",
+      "hint": "Choose a classic 80s film you admire. Explain which character you'd like to be and what about the movie appeals to you.",
+      "startTime": 155.2,
+      "endTime": 158.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "1980s",
+        "star",
+        "film",
+        "role"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "How do you usually react when you face a crisis or emergency? Give an example.",
+      "options": [],
+      "answer": "open",
+      "explanation": "参考视频中关于 'I'm pretty good in a crisis'（我挺擅长应对危机）的内容，考察学生描述自己处理紧急情况的方式。",
+      "referenceAnswer": "建议回答包括：1) 描述自己的反应（冷静/紧张/务实等）；2) 举例说明；3) 处理过程；4) 结果和感受。例如：'When I face a crisis, I usually [stay calm/get nervous/think practically]. For example, when [situation], I [action taken], which [result]. I learned that [lesson] from this experience.'",
+      "hint": "Describe a real or hypothetical situation. Explain your emotional reaction, the steps you took, and the outcome.",
+      "startTime": 245,
+      "endTime": 249.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "crisis",
+        "emergency",
+        "react",
+        "calm"
+      ]
+    }
+  ]
+}

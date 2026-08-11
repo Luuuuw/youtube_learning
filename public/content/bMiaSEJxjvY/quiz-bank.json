@@ -1,0 +1,598 @@
+{
+  "videoId": "bMiaSEJxjvY",
+  "title": "bMiaSEJxjvY",
+  "generatedAt": "2026-08-10T10:47:04.981Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 11,
+    "medium": 9,
+    "hard": 5,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the word 'hoover' most likely mean in this context: 'I got to hoover the whole house'?",
+      "options": [
+        "A) To paint the walls",
+        "B) To vacuum/clean the floor",
+        "C) To rearrange the furniture",
+        "D) To throw a party"
+      ],
+      "answer": "B",
+      "explanation": "'Hoover'在英式英语中是一个常见用法，指用吸尘器清洁（因为Hoover是一个著名吸尘器品牌，已成为吸尘器的代名词）。这里指用吸尘器打扫整个房子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 128.9,
+      "endTime": 133.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hoover",
+        "vacuum",
+        "clean",
+        "house"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'surreal' mean in the sentence 'This is all so surreal'?",
+      "options": [
+        "A) Boring and ordinary",
+        "B) Terrible and frightening",
+        "C) Strange and dreamlike",
+        "D) Funny and humorous"
+      ],
+      "answer": "C",
+      "explanation": "'Surreal'意为'超现实的、梦幻般的、不真实的'，用来形容某事感觉像做梦一样不真实。通常用于描述令人兴奋或难以相信的经历。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 286,
+      "endTime": 287.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "surreal",
+        "dreamlike",
+        "unreal",
+        "strange"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "In British English, what does 'mad' mean in 'Which sounds mad like, ah'?",
+      "options": [
+        "A) Angry or upset",
+        "B) Crazy or unbelievable",
+        "C) Sad or emotional",
+        "D) Boring or dull"
+      ],
+      "answer": "B",
+      "explanation": "在英式英语口语中，'mad'常用作俚语，意为'疯狂的、难以置信的'，表示某事听起来很疯狂、很不可思议，并非字面意义上的'生气'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 19.5,
+      "endTime": 23.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "mad",
+        "British slang",
+        "crazy",
+        "unbelievable"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'flatmates' refer to?",
+      "options": [
+        "A) Family members living together",
+        "B) People who share an apartment/house",
+        "C) Neighbors in the same building",
+        "D) Roommates in a hotel"
+      ],
+      "answer": "B",
+      "explanation": "'Flatmates'是英式英语，意为'合租室友'，即共同租住一套公寓或房子的人。美式英语中对应的词是'roommates'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 128.9,
+      "endTime": 133.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "flatmates",
+        "roommates",
+        "shared house",
+        "apartment"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'deposit' mean in 'get our full deposit back'?",
+      "options": [
+        "A) Money paid upfront as security for the house",
+        "B) Monthly rent payment",
+        "C) Salary from a job",
+        "D) Savings in a bank account"
+      ],
+      "answer": "A",
+      "explanation": "'Deposit'在租房语境中指'押金'，即租客在入住前支付给房东的一笔保证金，退房时如果房屋状况良好可以退还。这里指取回全部押金。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 124.9,
+      "endTime": 128.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "deposit",
+        "rent",
+        "security",
+        "tenant"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'glow up' mean in this video?",
+      "options": [
+        "A) A light turning on",
+        "B) A positive transformation in appearance or life",
+        "C) A sunburn",
+        "D) An electrical failure"
+      ],
+      "answer": "B",
+      "explanation": "'Glow up'是流行俚语，指一个人在外观、状态或生活上发生的积极转变、变美、变好。这里可能是指在毕业典礼前后的华丽蜕变。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 310.9,
+      "endTime": 311.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "glow up",
+        "transformation",
+        "improvement",
+        "makeover"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "In the sentence 'I'm not sure if I'm going to actually have time to come here to put', what is the speaker expressing?",
+      "options": [
+        "A) Certainty about the future",
+        "B) Uncertainty about having enough time",
+        "C) Refusal to do something",
+        "D) A clear plan to visit"
+      ],
+      "answer": "B",
+      "explanation": "'I'm not sure if...'是英语中表达不确定性的常用结构，意为'我不确定是否……'。这里说话者表达对是否有时间做某事的不确定。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 68.7,
+      "endTime": 71.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "uncertainty",
+        "not sure if",
+        "doubt",
+        "maybe"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'It's not about what you get from your exams, it's just pure luck' mean?",
+      "options": [
+        "A) Exam results depend entirely on studying",
+        "B) Exam outcomes are not solely based on performance, luck also plays a part",
+        "C) Exams are completely meaningless",
+        "D) Students should not take exams seriously"
+      ],
+      "answer": "B",
+      "explanation": "这句话表达了一种观点：考试结果并不完全取决于个人表现，运气也是因素之一。说话者在反思考试成绩时承认了运气的成分。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 577.8,
+      "endTime": 581.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "pure luck",
+        "exam results",
+        "chance",
+        "reflection"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker mean by 'campus' in 'I'm on campus but I'm not even dressed yet'?",
+      "options": [
+        "A) A shopping center",
+        "B) The grounds of a university or college",
+        "C) A sports field",
+        "D) A residential neighborhood"
+      ],
+      "answer": "B",
+      "explanation": "'Campus'指大学或学院的校园区域。这里说话者表示自己已经在校园里，但还没换好衣服，可能是赶着参加某个活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 90,
+      "endTime": 92.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "campus",
+        "university",
+        "college",
+        "grounds"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'Turn right onto B3212' indicate?",
+      "options": [
+        "A) A recipe instruction",
+        "B) A driving/navigation direction",
+        "C) A dance move",
+        "D) A page number in a book"
+      ],
+      "answer": "B",
+      "explanation": "'Turn right onto B3212'是导航指令，意思是'右转进入B3212号公路'。B3212是英国的道路编号。说话者正在开车前往某个地方。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.8,
+      "endTime": 118.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "navigation",
+        "turn right",
+        "road",
+        "driving"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the meaning of 'disappointing' in 'even though it's disappointing'?",
+      "options": [
+        "A) Very exciting",
+        "B) Causing sadness because expectations were not met",
+        "C) Completely unexpected",
+        "D) Extremely funny"
+      ],
+      "answer": "B",
+      "explanation": "'Disappointing'意为'令人失望的'，指结果未达到预期而让人感到沮丧。这里说话者虽然对某个结果（如考试成绩）感到失望，但仍心怀感激。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 604.9,
+      "endTime": 608.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "disappointing",
+        "disappointment",
+        "sad",
+        "expectations"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'grateful' mean in 'I'm so grateful to have a job'?",
+      "options": [
+        "A) Angry",
+        "B) Thankful and appreciative",
+        "C) Confused",
+        "D) Indifferent"
+      ],
+      "answer": "B",
+      "explanation": "'Grateful'意为'感激的、感谢的'。说话者表达对拥有一份工作的感激之情，尽管结果有些令人失望。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 604.9,
+      "endTime": 608.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "grateful",
+        "thankful",
+        "appreciative",
+        "gratitude"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "In the context 'A sample with no colour added to it', what is a 'sample'?",
+      "options": [
+        "A) A small amount used to show or test something",
+        "B) A type of music",
+        "C) A mathematical example",
+        "D) A fabric pattern"
+      ],
+      "answer": "A",
+      "explanation": "在油漆/涂料的语境中，'sample'指'样品'，即少量用于展示或测试的产品。这里指的是没有加色的涂料样品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 480.5,
+      "endTime": 482.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sample",
+        "paint",
+        "colour",
+        "test"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'Cheers' most commonly mean in British English in this context?",
+      "options": [
+        "A) Only used when drinking alcohol",
+        "B) A casual way to say thank you or goodbye",
+        "C) An expression of anger",
+        "D) A greeting only used in the morning"
+      ],
+      "answer": "B",
+      "explanation": "在英式英语口语中，'Cheers'除了用于祝酒，还可以表示'谢谢'或'再见'，是一种非常普遍且友好的表达方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 24.6,
+      "endTime": 25.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "cheers",
+        "British English",
+        "thanks",
+        "goodbye"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the meaning of 'doctor apartment' in 'Here I am at my new doctor apartment'?",
+      "options": [
+        "A) An apartment where doctors treat patients",
+        "B) An apartment for a medical trainee/resident doctor",
+        "C) A hospital room",
+        "D) A dental clinic"
+      ],
+      "answer": "B",
+      "explanation": "在英国医学教育体系下，'doctor apartment'（医生公寓）通常指提供给住院医生或实习医生居住的公寓。结合上下文（搬迁、毕业、获得医生工作），这里指新工作所在地的住处。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 8.9,
+      "endTime": 12,
+      "difficulty": "hard",
+      "relatedWords": [
+        "doctor apartment",
+        "residency",
+        "medical training",
+        "housing"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'How much?' usually ask about?",
+      "options": [
+        "A) Time duration",
+        "B) Distance or quantity",
+        "C) The price or amount of something",
+        "D) Frequency of an event"
+      ],
+      "answer": "C",
+      "explanation": "'How much?'是一个常见英语问句，通常用于询问价格、数量或程度。在日常购物或交易场景中，常用来询问某物的价格。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 106.9,
+      "endTime": 107.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "how much",
+        "price",
+        "cost",
+        "question"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I can see my parents taking videos of me because they are doing their best'?",
+      "options": [
+        "A) Parents are lazy and not helping",
+        "B) Parents are trying hard to capture the moment despite not being professional",
+        "C) Parents are professional videographers",
+        "D) Parents don't care about the event"
+      ],
+      "answer": "B",
+      "explanation": "这句话表达了对父母的理解和感激。说话者看到父母努力地用手机录制视频，承认他们虽然不是专业摄影师，但已经在尽力记录这个重要时刻。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 267.6,
+      "endTime": 271.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "doing their best",
+        "parents",
+        "videotaping",
+        "graduation"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the meaning of 'So sweet!' in this context?",
+      "options": [
+        "A) Tastes like sugar",
+        "B) Touching, kind, or heartwarming",
+        "C) A complaint about food",
+        "D) A warning about danger"
+      ],
+      "answer": "B",
+      "explanation": "在日常口语中，'So sweet!'常用来表达某事或某人很'暖心、感人、可爱'。这里用于感叹某个温馨、感人的时刻。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 279.3,
+      "endTime": 281.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sweet",
+        "heartwarming",
+        "touching",
+        "kind"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'Oh, I bet you' likely mean in this conversation?",
+      "options": [
+        "A) A bet about money",
+        "B) Expressing strong agreement or certainty about something",
+        "C) Refusing to do something",
+        "D) Asking a question"
+      ],
+      "answer": "B",
+      "explanation": "'I bet'在口语中常表示'我敢肯定、我确信'，表达对某事的强烈认同或猜测，并非真的打赌。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 102,
+      "endTime": 103.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "I bet",
+        "agreement",
+        "certainty",
+        "conversation"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What is the speaker planning to do in 'We are on our way to get some paint to paint over the walls'?",
+      "options": [
+        "A) To buy groceries",
+        "B) To repaint the walls to get the deposit back",
+        "C) To sell the house",
+        "D) To clean the windows"
+      ],
+      "answer": "B",
+      "explanation": "结合前文提到要取回£600押金，这里说话者正去买涂料，准备重新粉刷墙壁，使房子恢复原状以便取回押金。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 465.5,
+      "endTime": 470.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "paint",
+        "deposit",
+        "walls",
+        "moving out"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does 'It's 1.11 and my parents are sleeping in my room' suggest?",
+      "options": [
+        "A) It is 1:11 in the afternoon",
+        "B) It is 1:11 AM and it's very late at night",
+        "C) The parents are sick",
+        "D) The room is too small"
+      ],
+      "answer": "B",
+      "explanation": "结合后文'we could not follow'（无法跟上）以及时间是1:11，加上父母在睡觉的情况，可以推断这是凌晨1:11，说话者熬夜到了很晚。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 421,
+      "endTime": 425.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "late night",
+        "time",
+        "sleeping",
+        "context"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe in English how the speaker saved their £600 deposit. Use the phrase 'saved' and 'paint' in your answer.",
+      "options": [],
+      "answer": "open",
+      "explanation": "说话者通过花费£7的涂料来重新粉刷墙壁，从而成功取回了£600的押金。这体现了用少量投入解决大问题的智慧。",
+      "referenceAnswer": "The speaker saved their £600 deposit by using only £7 worth of paint to repaint the walls of the student house. By fixing the walls with cheap paint, they managed to get the full deposit back from the landlord.",
+      "hint": "Think about: What did the speaker buy? Why? What was the result? Mention the amounts (£600 vs £7).",
+      "startTime": 486.2,
+      "endTime": 491.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "deposit",
+        "paint",
+        "save",
+        "student house",
+        "walls"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "What do you think the speaker means by 'This is all so surreal'? Imagine a similar situation in your life and respond in English.",
+      "options": [],
+      "answer": "open",
+      "explanation": "'Surreal'形容事情感觉不真实、如梦似幻。说话者在毕业典礼上表达对这一重要时刻的恍惚和不真实感。",
+      "referenceAnswer": "The speaker is expressing that the moment feels dreamlike or unreal, like it's hard to believe it's actually happening. It's often used for important life events such as graduations. A similar situation could be graduating from university, getting married, or achieving a lifelong dream.",
+      "hint": "Think about: When do people say something feels 'surreal'? What major life event was the speaker experiencing?",
+      "startTime": 286,
+      "endTime": 287.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "surreal",
+        "graduation",
+        "emotions",
+        "unreal"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Based on the video, describe the speaker's journey from graduation to getting a job as a doctor. Answer in 3-5 English sentences.",
+      "options": [],
+      "answer": "open",
+      "explanation": "说话者经历了毕业、搬迁、与室友共享清洁责任以取回押金、最终获得医生工作等阶段。视频记录了人生重要转折点。",
+      "referenceAnswer": "The speaker graduated from university, moved out of their student house while sharing cleaning duties with flatmates to get the deposit back, and eventually secured a job as a doctor. They then moved to a new city where they didn't know anyone, feeling grateful for the opportunity despite some disappointment with exam results. The journey captures both the challenges and achievements of becoming a doctor.",
+      "hint": "Think about: graduation, moving out, sharing a house, getting a job, feelings about it all.",
+      "startTime": 537.6,
+      "endTime": 608.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "graduation",
+        "doctor",
+        "job",
+        "journey",
+        "moving"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "What does the phrase 'wish me luck' mean, and in what situations would you use it? Give your answer in English.",
+      "options": [],
+      "answer": "open",
+      "explanation": "'Wish me luck'意为'祝我好运'，用于即将面对挑战或重要事件前，请求他人给予祝福和支持。",
+      "referenceAnswer": "'Wish me luck' means asking someone to hope for your success in an upcoming challenge or important event. You would use it before a job interview, an exam, a performance, a medical procedure, or any situation where you need encouragement. The speaker likely says it before checking important exam or job results.",
+      "hint": "Think about: When do people say this? Is it before or after an event? Give 2-3 examples.",
+      "startTime": 551.2,
+      "endTime": 554.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "wish me luck",
+        "encouragement",
+        "exam",
+        "interview"
+      ]
+    }
+  ]
+}

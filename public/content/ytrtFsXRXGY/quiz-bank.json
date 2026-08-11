@@ -1,0 +1,566 @@
+{
+  "videoId": "ytrtFsXRXGY",
+  "title": "ytrtFsXRXGY",
+  "generatedAt": "2026-08-10T11:25:47.260Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 10,
+    "medium": 9,
+    "hard": 6,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the setting at the beginning of the video when the host says 'Welcome back to the channel'?",
+      "options": [
+        "A) A space station",
+        "B) Trump Force 1",
+        "C) A rocket launch pad",
+        "D) A factory"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[14] [9.9s-12.9s]，主持人说'What's up guys, welcome back to the channel Today we are on Trump Force 1'，说明他们正在Trump Force 1上。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 9.9,
+      "endTime": 12.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "welcome",
+        "channel",
+        "Trump Force 1"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "In the sentence 'So the edits you guys make', what does 'edits' most likely refer to?",
+      "options": [
+        "A) Food ingredients",
+        "B) Video/photo modifications",
+        "C) Book chapters",
+        "D) Rocket parts"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文，'edits'结合前面的'I saw one edit that was like JKR'，指的是视频或照片的编辑/修改作品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 43.5,
+      "endTime": 54.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "edits",
+        "JKR",
+        "video"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Why does the speaker say 'She always cheats, so we can't play'?",
+      "options": [
+        "A) Because they are tired",
+        "B) Because the game is too easy",
+        "C) Because she always cheats",
+        "D) Because there is no time"
+      ],
+      "answer": "C",
+      "explanation": "字幕[44]明确说'She always cheats, so we can't play'，这是因为她总是作弊所以他们不能玩这个游戏。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 85.2,
+      "endTime": 89.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cheats",
+        "play",
+        "game"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is the rule of the game mentioned in 'Alright, first one on land wins'?",
+      "options": [
+        "A) First to finish cooking wins",
+        "B) The first one to land wins",
+        "C) Whoever runs fastest wins",
+        "D) Whoever jumps highest wins"
+      ],
+      "answer": "B",
+      "explanation": "字幕[22] [153.0s-154.4s] 'Alright, first one on land wins'的意思是第一个着陆的人获胜，结合上下文应该是某种降落挑战游戏。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 153,
+      "endTime": 154.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "first",
+        "land",
+        "wins"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "In the sentence 'comes back to land if everything is like super green', what does 'super green' mean?",
+      "options": [
+        "A) The color of the rocket",
+        "B) Going well / all systems normal",
+        "C) Environmentally friendly",
+        "D) Covered in grass"
+      ],
+      "answer": "B",
+      "explanation": "在火箭/航空领域，'green'通常指所有系统正常、情况良好。'Super green'意思是'一切都非常顺利/正常'，这是他们让火箭返回着陆的条件。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 431.3,
+      "endTime": 435.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "green",
+        "systems",
+        "normal"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'in production' mean in 'We actually have better versions that are in production in those factories over there'?",
+      "options": [
+        "A) Already completed",
+        "B) Being manufactured",
+        "C) On display",
+        "D) Being destroyed"
+      ],
+      "answer": "B",
+      "explanation": "'In production'是工业/制造业术语，意思是'正在生产/制造中'。句子表示那些工厂正在生产更好的版本。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 448.6,
+      "endTime": 453.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "production",
+        "factories",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is being shown on the screens according to the subtitle 'You can see on those screens up there, that's the ship that is now going'?",
+      "options": [
+        "A) A movie",
+        "B) The ship (rocket) currently in flight",
+        "C) A football game",
+        "D) Stock prices"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[25] [479.5s-483.9s]，屏幕上显示的是正在飞行的飞船/火箭（ship），这与视频中讨论火箭发射的话题一致。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 479.5,
+      "endTime": 483.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "screens",
+        "ship",
+        "flight"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "The phrase 'So it's actually going through the dock side of the Earth' most likely should be:",
+      "options": [
+        "A) dock side",
+        "B) dark side",
+        "C) south side",
+        "D) east side"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文'going through the ___ side of the Earth'，这里描述的是飞船经过地球的哪一面，应该是'dark side'（黑夜的一面），可能因口音或自动转录错误写成了'dock side'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 487.9,
+      "endTime": 491,
+      "difficulty": "hard",
+      "relatedWords": [
+        "dark side",
+        "Earth",
+        "orbit"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Why does the speaker say 'It looks like special effects, because it's like every color'?",
+      "options": [
+        "A) They are watching a movie",
+        "B) The reentry displays many colors",
+        "C) The paint is colorful",
+        "D) There are fireworks"
+      ],
+      "answer": "B",
+      "explanation": "字幕[6] [510.4s-514.1s]和[3] [513.5s-517.2s] 'It's like purple, red, white'显示这是描述飞船重返大气层时由于高温产生的多彩火焰，看起来像特效。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 510.4,
+      "endTime": 517.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "special effects",
+        "colors",
+        "reentry"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the question 'But this one won't be reused?' about?",
+      "options": [
+        "A) A book",
+        "B) A tool",
+        "C) A rocket ship",
+        "D) A piece of clothing"
+      ],
+      "answer": "C",
+      "explanation": "结合上下文[18] [523.4s-525.5s]和[30] [526.6s-527.6s] 'So this one is all about just learning'，讨论的是这次发射的火箭飞船是否会被重复使用。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 523.4,
+      "endTime": 527.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "reused",
+        "rocket",
+        "ship"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "According to 'We also reduced the amount of heat shielding so there's about six feet less heat', how much heat shielding was reduced?",
+      "options": [
+        "A) Three feet",
+        "B) Six feet",
+        "C) Ten feet",
+        "D) One foot"
+      ],
+      "answer": "B",
+      "explanation": "字幕[5] [550.4s-555.8s]明确说'about six feet less heat shielding'，减少了大约六英尺的隔热层。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 550.4,
+      "endTime": 555.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "heat shielding",
+        "six feet",
+        "reduced"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'It's kind of like, okay, it didn't explode' express?",
+      "options": [
+        "A) Relief that nothing went wrong",
+        "B) Disappointment",
+        "C) Excitement about an explosion",
+        "D) Anger"
+      ],
+      "answer": "A",
+      "explanation": "字幕[37] [560.5s-562.4s]表达的是一种如释重负的情绪——'好吧，它没有爆炸'，暗示有爆炸的可能性但幸运地没有发生。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 560.5,
+      "endTime": 564.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "explode",
+        "relief",
+        "okay"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "According to the subtitle, what g-forces is the 'boost backbone' doing?",
+      "options": [
+        "A) 5 g's",
+        "B) 10 g's",
+        "C) 20 g's",
+        "D) 30 g's"
+      ],
+      "answer": "C",
+      "explanation": "字幕[38] [590.0s-593.9s]明确说'The boost backbone is doing 20 g's'，助推器正在承受20个g的重力加速度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 590,
+      "endTime": 593.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "g-forces",
+        "boost backbone",
+        "20 g's"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'You can potentially get it down to three or four months if you're willing to' suggest?",
+      "options": [
+        "A) The price can be reduced",
+        "B) The production time can be shortened",
+        "C) The weight can be reduced",
+        "D) The team can be smaller"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文[45] [612.8s-615.3s]讨论的是制造另一艘飞船需要多长时间（呼应[49]'How long will it take to produce another one of those?'），这句话是说如果愿意的话，生产时间可以缩短到三到四个月。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 612.8,
+      "endTime": 615.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "months",
+        "production",
+        "willing"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "In 'But I did play Quake and a bunch of other first person shooters', what type of games does the speaker mention?",
+      "options": [
+        "A) Racing games",
+        "B) First person shooters",
+        "C) Strategy games",
+        "D) Puzzle games"
+      ],
+      "answer": "B",
+      "explanation": "字幕[32] [663.0s-665.9s] 'first person shooters'即第一人称射击游戏，Quake（雷神之锤）正是经典的FPS游戏。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 663,
+      "endTime": 665.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Quake",
+        "first person shooters",
+        "games"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the main purpose of this rocket launch according to the video?",
+      "options": [
+        "A) To carry passengers",
+        "B) To test and learn",
+        "C) To deliver cargo",
+        "D) To set a record"
+      ],
+      "answer": "B",
+      "explanation": "字幕[30] [526.6s-527.6s] 'So this one is all about just learning'表明这次发射主要是为了测试和学习。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 526.6,
+      "endTime": 527.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "learning",
+        "testing",
+        "launch"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "The phrase 'What's the g-forces going up if you were to go to man?' is asking about:",
+      "options": [
+        "A) The speed of the rocket",
+        "B) The gravitational forces experienced during ascent",
+        "C) The cost of going to Mars",
+        "D) The temperature during launch"
+      ],
+      "answer": "B",
+      "explanation": "字幕[40] [583.0s-585.8s] 'What's the g-forces going up'是在询问上升过程中（如果去火星/某地）人体会承受多少g力，紧接着[43]问'Is it too much for a person to handle?'进一步确认是关于人体承受的加速度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 583,
+      "endTime": 587.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "g-forces",
+        "ascent",
+        "Mars"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What can be inferred from 'Is it too much for a person to handle?'",
+      "options": [
+        "A) The g-forces are comfortable",
+        "B) The g-forces might exceed human tolerance",
+        "C) The person is strong",
+        "D) There are no g-forces"
+      ],
+      "answer": "B",
+      "explanation": "字幕[43] [585.8s-587.5s] 'Is it too much for a person to handle?'是在询问这种g力是否超出人体能承受的范围，结合[38]提到的20g，暗示这可能超过人类承受极限。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 585.8,
+      "endTime": 587.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "handle",
+        "person",
+        "g-forces"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the host mean by 'What's up guys' at the start?",
+      "options": [
+        "A) A question about location",
+        "B) A casual greeting",
+        "C) An expression of surprise",
+        "D) A complaint"
+      ],
+      "answer": "B",
+      "explanation": "'What's up guys'是非常常见的英语口语问候语，相当于中文的'大家好/你们好'，是一种非正式的打招呼方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 9.9,
+      "endTime": 12.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "greeting",
+        "guys",
+        "casual"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "Based on the context, what does 'The region of Earth that it's going through is now Garth' most likely mean?",
+      "options": [
+        "A) A person's name",
+        "B) A dark or specific region",
+        "C) A type of fuel",
+        "D) A measurement unit"
+      ],
+      "answer": "B",
+      "explanation": "字幕[8] [491.3s-492.8s] 'Garth'很可能是对'dark'（黑暗的）一词的口误或自动转录错误，描述的是地球当前飞船经过的区域。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 491.3,
+      "endTime": 492.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "region",
+        "dark",
+        "Earth"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe what is being discussed regarding the rocket's heat shield in the video.",
+      "options": [],
+      "answer": "",
+      "explanation": "",
+      "referenceAnswer": "视频中讨论了对火箭隔热罩的改进。工程师提到减少了大约六英尺的隔热层，并且他们想看看所做的这些改动是否比之前更好。之前的发射可以看到飞船某些地方变得非常热。",
+      "hint": "关注关键词：heat shield, reduced, six feet, better, hot",
+      "startTime": 535.7,
+      "endTime": 555.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "heat shield",
+        "reduced",
+        "improvements"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Explain the discussion about g-forces in the video.",
+      "options": [],
+      "answer": "",
+      "explanation": "",
+      "referenceAnswer": "视频中讨论了火箭飞行时的g力（重力加速度）。有人询问如果去火星，上升时的g力是多少，并问人体是否能承受。回答提到助推器在承受20个g的力，表示人不应该待在那个部位，因为这种g力超出人体可承受的范围。",
+      "hint": "关键信息：g-forces, 20 g's, too much, person to handle, boost backbone",
+      "startTime": 583,
+      "endTime": 593.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "g-forces",
+        "20 g's",
+        "handle"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Based on the video, what was the main purpose of this particular rocket launch?",
+      "options": [],
+      "answer": "",
+      "explanation": "",
+      "referenceAnswer": "根据视频，这次火箭发射的主要目的是学习和测试。工程师提到这只是关于学习的，他们想看看对隔热罩所做的改动是否更好，不会被重复使用。生产时间可以缩短到三到四个月如果愿意付出更多努力的话。",
+      "hint": "关注：learning, testing, improvements, timeline",
+      "startTime": 526.6,
+      "endTime": 615.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "learning",
+        "testing",
+        "production"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Describe the visual spectacle of the rocket reentry as mentioned in the video.",
+      "options": [],
+      "answer": "",
+      "explanation": "",
+      "referenceAnswer": "视频描述了飞船重返大气层时令人惊叹的视觉景象。观察者说它看起来像特效，因为它呈现出各种颜色——紫色、红色、白色。屏幕上的飞船飞行过程非常精彩，让人觉得不可思议（amazing）。",
+      "hint": "关键词：special effects, colors (purple, red, white), amazing, ship",
+      "startTime": 479.5,
+      "endTime": 517.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "special effects",
+        "colors",
+        "reentry"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "What do the speakers think about the rocket production process and timeline?",
+      "options": [],
+      "answer": "",
+      "explanation": "",
+      "referenceAnswer": "视频中讨论了火箭的生产过程和时间线。工厂正在生产更好的版本，问到生产另一艘需要多长时间，工程师回答说可以缩短到三到四个月，如果愿意投入更多资源的话。大家对生产速度和未来的改进充满期待。",
+      "hint": "关注：production, factories, better versions, timeline, three or four months",
+      "startTime": 448.6,
+      "endTime": 615.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "production",
+        "factories",
+        "timeline"
+      ]
+    }
+  ]
+}

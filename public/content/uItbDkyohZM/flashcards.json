@@ -1,0 +1,379 @@
+{
+  "videoId": "uItbDkyohZM",
+  "generatedAt": "2026-08-11T06:29:58.885Z",
+  "cards": [
+    {
+      "id": "msoa6ep1hedd0b",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "guacamole",
+      "back": "鳄梨酱 (noun, B1)",
+      "context": "Getting ready to head over to Haley's house to make some **guacamole**.",
+      "audioStart": 3.36,
+      "audioEnd": 10.72,
+      "word": "guacamole",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep11hsumr",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "anniversary",
+      "back": "周年纪念 (noun, B1)",
+      "context": "this episode is going to be an **anniversary** per se",
+      "audioStart": 49.76,
+      "audioEnd": 55.16,
+      "word": "anniversary",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep17ptord",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "chaotic",
+      "back": "混乱的 (adjective, B1)",
+      "context": "it's going to be just as **chaotic** and fun and crazy as it was the first time.",
+      "audioStart": 55.16,
+      "audioEnd": 59.96,
+      "word": "chaotic",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep19py00o",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "presented",
+      "back": "呈现，展示 (verb, B1)",
+      "context": "of what's in my kitchen **presented** by hexclad",
+      "audioStart": 43.94,
+      "audioEnd": 49.76,
+      "word": "presented",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep1on7un7",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "peptide",
+      "back": "肽 (noun, C1)",
+      "context": "Rode is putting out the passion fruit jelly **peptide** lip treatment",
+      "audioStart": 110.66,
+      "audioEnd": 116.1,
+      "word": "peptide",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep1xoj5ea",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "spritz",
+      "back": "气泡鸡尾酒 (noun, B2)",
+      "context": "A passion fruit **spritz**.",
+      "audioStart": 103.42,
+      "audioEnd": 104.84,
+      "word": "spritz",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep1q8yyhi",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "drizzle",
+      "back": " drizzle 淋，洒 (verb, B2)",
+      "context": "Now we're literally just gonna **drizzle** cheese.",
+      "audioStart": 819.47,
+      "audioEnd": 822.73,
+      "word": "drizzle",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep1hrrcl7",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "garnish",
+      "back": "装饰菜 (noun, B2)",
+      "context": "and then I throw like a little lime **garnish** on top.",
+      "audioStart": 855.03,
+      "audioEnd": 858.13,
+      "word": "garnish",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep1kf95ep",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "composter",
+      "back": "堆肥桶 (noun, C1)",
+      "context": "I'm going to plop it in my little **composter**, which is really fun.",
+      "audioStart": 517.9,
+      "audioEnd": 523.92,
+      "word": "composter",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep1dfj24k",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "distracting",
+      "back": "分散注意力的 (adjective, B2)",
+      "context": "It's like **distracting** me from all the other good that's happening in my mouth.",
+      "audioStart": 886.31,
+      "audioEnd": 889.67,
+      "word": "distracting",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep1fil9fl",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "enhancing",
+      "back": "提升，增强 (verb, B2)",
+      "context": "Or is it **enhancing** it?",
+      "audioStart": 889.11,
+      "audioEnd": 890.51,
+      "word": "enhancing",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6ep1imqos7",
+      "videoId": "uItbDkyohZM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "haunted",
+      "back": "闹鬼的 (adjective, B2)",
+      "context": "My mom's old house, fully **haunted**.",
+      "audioStart": 1059.39,
+      "audioEnd": 1062.85,
+      "word": "haunted",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:58.885Z"
+    },
+    {
+      "id": "msoa6dhlbsw81k",
+      "videoId": "uItbDkyohZM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) But this is the moment, like adding the ___",
+      "back": "seasoning",
+      "context": "But this is the moment, like adding the seasoning and",
+      "audioStart": 635.4,
+      "audioEnd": 640.5,
+      "hint": "选项：spice / seasoning / flavor / ingredient",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:57.321Z"
+    },
+    {
+      "id": "msoa6dhl1pct3c",
+      "videoId": "uItbDkyohZM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I feel like the real secret to this is this picante ___ sauce.",
+      "back": "mild",
+      "context": "I feel like the real secret to this is this picante mild sauce.",
+      "audioStart": 555.5,
+      "audioEnd": 563.4,
+      "hint": "选项：hot / sweet / mild / spicy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:57.321Z"
+    },
+    {
+      "id": "msoa6dhlxbsw0r",
+      "videoId": "uItbDkyohZM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Okay, but we can't waste because we need ___ for later.",
+      "back": "lime",
+      "context": "Okay, but we can't waste because we need lime for later.",
+      "audioStart": 230.5,
+      "audioEnd": 235.7,
+      "hint": "选项：vinegar / lime / orange / lemon",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:57.321Z"
+    },
+    {
+      "id": "msoa6dhlvk3oyq",
+      "videoId": "uItbDkyohZM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I feel like I like a lot of ___.",
+      "back": "cheese",
+      "context": "I feel like I like a lot of cheese.",
+      "audioStart": 687,
+      "audioEnd": 692.9,
+      "hint": "选项：cream / butter / sauce / cheese",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:57.321Z"
+    },
+    {
+      "id": "msoa6dhl1w0o0i",
+      "videoId": "uItbDkyohZM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Because usually you have to dollop it and then ___ it.",
+      "back": "spread",
+      "context": "Because usually you have to dollop it and then spread it. Like I think, actually, I don't know.",
+      "audioStart": 744.9,
+      "audioEnd": 749.8,
+      "hint": "选项：stir / mix / spread / pour",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:57.321Z"
+    },
+    {
+      "id": "msoa6dhl8jx6wx",
+      "videoId": "uItbDkyohZM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I like to compost because it reduces food ___.",
+      "back": "waste",
+      "context": "I like to compost because it reduces food waste.",
+      "audioStart": 531,
+      "audioEnd": 538.2,
+      "hint": "选项：waste / trash / loss / cost",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:57.321Z"
+    },
+    {
+      "id": "msoa6dhlihuuwm",
+      "videoId": "uItbDkyohZM",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Yeah. To make it pretty. Now, can you open that ___?",
+      "back": "soda",
+      "context": "Yeah. To make it pretty. Now, can you open that soda?",
+      "audioStart": 320.4,
+      "audioEnd": 326.5,
+      "hint": "选项：soda / juice / beer / water",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:57.321Z"
+    }
+  ]
+}

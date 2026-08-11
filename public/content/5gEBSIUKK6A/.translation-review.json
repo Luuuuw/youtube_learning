@@ -1,0 +1,1393 @@
+{
+  "videoId": "5gEBSIUKK6A",
+  "reviewedAt": "2026-06-17T09:14:02.434Z",
+  "segments": [
+    {
+      "key": "0.000-6.960",
+      "start": 0,
+      "end": 6.96,
+      "en_full": "this morning a leopard dropped a dead Antelope out of a tree onto the ground",
+      "zh": "今天早上，一只豹子把一只死羚羊从树上扔到了地上。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "6.960-7.919",
+      "start": 6.96,
+      "end": 7.919,
+      "en_full": "next to me and now I am splattered with",
+      "zh": "就在我旁边，现在我身上溅满了。",
+      "verdict": "partial",
+      "reason": "英文有'Antelope blood'，中文只翻译了'溅满了'，遗漏了'羚羊血'。",
+      "missing_info": "Antelope blood"
+    },
+    {
+      "key": "7.919-9.300",
+      "start": 7.919,
+      "end": 9.3,
+      "en_full": "next to me and now I am splattered with Antelope blood welcome to South Africa",
+      "zh": "现在我浑身都是羚羊血，欢迎来到南非",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "9.300-10.920",
+      "start": 9.3,
+      "end": 10.92,
+      "en_full": "next to me and now I am splattered with Antelope blood welcome to South Africa",
+      "zh": "现在我浑身都是羚羊血，欢迎来到南非",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "10.920-12.220",
+      "start": 10.92,
+      "end": 12.22,
+      "en_full": "Antelope blood welcome to South Africa [Music]",
+      "zh": "欢迎来到南非，羚羊血。",
+      "verdict": "partial",
+      "reason": "英文顺序是'Antelope blood welcome to South Africa'，中文翻译为'欢迎来到南非，羚羊血。'，顺序颠倒，但信息完整，可视为pass。",
+      "missing_info": ""
+    },
+    {
+      "key": "12.220-57.180",
+      "start": 12.22,
+      "end": 57.18,
+      "en_full": "[Music] foreign",
+      "zh": "[音乐] 外国",
+      "verdict": "wrong",
+      "reason": "英文是'[Music] foreign'，中文翻译为'[音乐] 外国'，但'foreign'在此语境下可能指'外国音乐'或'外来音乐'，翻译为'外国'不准确，且英文只有两个词，中文多出'外国'，但整体意思偏差。"
+    },
+    {
+      "key": "57.180-51.342",
+      "start": 57.18,
+      "end": 51.342,
+      "en_full": "",
+      "zh": "早上好，来自开普敦",
+      "verdict": "wrong",
+      "reason": "英文为空字符串，中文却翻译为'早上好，来自开普敦'，完全无关。"
+    },
+    {
+      "key": "58.739-64.619",
+      "start": 58.739,
+      "end": 64.619,
+      "en_full": "couple of weeks exploring in Namibia which was amazing if you didn't see that",
+      "zh": "在纳米比亚探索了几周，非常棒，如果你没看到的话。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "64.619-69.240",
+      "start": 64.619,
+      "end": 69.24,
+      "en_full": "down below I've flown to South Africa to",
+      "zh": "下面我飞到了南非。",
+      "verdict": "partial",
+      "reason": "英文是'down below I've flown to South Africa to'，中文翻译为'下面我飞到了南非。'，遗漏了'down below'和'to'，且句末句号不完整。",
+      "missing_info": "down below, to"
+    },
+    {
+      "key": "69.240-73.380",
+      "start": 69.24,
+      "end": 73.38,
+      "en_full": "a few days in Cape Town and then I'm",
+      "zh": "在开普敦待几天，然后我就……",
+      "verdict": "partial",
+      "reason": "英文是'a few days in Cape Town and then I'm'，中文翻译为'在开普敦待几天，然后我就……'，遗漏了'a few'，且省略号不准确。",
+      "missing_info": "a few"
+    },
+    {
+      "key": "73.380-78.479",
+      "start": 73.38,
+      "end": 78.479,
+      "en_full": "National Park area to visit Sabi Sands which I will talk about more when I get",
+      "zh": "克鲁格国家公园地区去萨比沙，关于这个我到了之后再详细说",
+      "verdict": "partial",
+      "reason": "英文是'National Park area to visit Sabi Sands which I will talk about more when I get'，中文翻译为'克鲁格国家公园地区去萨比沙，关于这个我到了之后再详细说'，遗漏了'National Park area'中的'National Park'，但'克鲁格'是补充，整体信息基本覆盖。",
+      "missing_info": "National Park"
+    },
+    {
+      "key": "78.479-83.400",
+      "start": 78.479,
+      "end": 83.4,
+      "en_full": "there I'm staying on the waterfront here in Cape Town And to be honest my first",
+      "zh": "我住在开普敦的海滨，说实话，我的第一次",
+      "verdict": "partial",
+      "reason": "英文是'there I'm staying on the waterfront here in Cape Town And to be honest my first'，中文翻译为'我住在开普敦的海滨，说实话，我的第一次'，遗漏了'there'和'here'，且'first'未完整翻译。",
+      "missing_info": "there, here, first"
+    },
+    {
+      "key": "83.400-88.799",
+      "start": 83.4,
+      "end": 88.799,
+      "en_full": "Francisco this morning when I woke up",
+      "zh": "弗朗西斯科，今天早上我醒来的时候",
+      "verdict": "partial",
+      "reason": "英文是'Francisco this morning when I woke up'，中文翻译为'弗朗西斯科，今天早上我醒来的时候'，遗漏了'Francisco'前的上下文，但信息基本完整。",
+      "missing_info": ""
+    },
+    {
+      "key": "88.799-94.320",
+      "start": 88.799,
+      "end": 94.32,
+      "en_full": "and there's lots of shops and restaurants I have an incredible view",
+      "zh": "这里有很多商店和餐厅，景色美极了。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "94.320-98.820",
+      "start": 94.32,
+      "end": 98.82,
+      "en_full": "and I'm super happy with my choice to",
+      "zh": "而且我对自己做出的选择非常满意。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "98.820-103.439",
+      "start": 98.82,
+      "end": 103.439,
+      "en_full": "have planned here in Cape Town is a private tour I thought about renting a",
+      "zh": "我在开普敦计划的是私人旅行，想过租个车。",
+      "verdict": "partial",
+      "reason": "英文是'have planned here in Cape Town is a private tour I thought about renting a'，中文翻译为'我在开普敦计划的是私人旅行，想过租个车。'，遗漏了'have planned here'中的'here'，且'car'翻译为'车'，但英文是'a'，未明确是车。",
+      "missing_info": "here, a"
+    },
+    {
+      "key": "103.439-107.640",
+      "start": 103.439,
+      "end": 107.64,
+      "en_full": "car but they drive on the left side of the road here and that made me a little",
+      "zh": "他们这里开车靠左行驶，这让我有点不习惯",
+      "verdict": "partial",
+      "reason": "英文是'car but they drive on the left side of the road here and that made me a little'，中文翻译为'他们这里开车靠左行驶，这让我有点不习惯'，遗漏了'car'和'a little'中的'little'，但意思基本正确。",
+      "missing_info": "car, little"
+    },
+    {
+      "key": "107.640-112.500",
+      "start": 107.64,
+      "end": 112.5,
+      "en_full": "nervous so I've hired a private guide for half a day to take me down to",
+      "zh": "所以我雇了个私人导游，半天时间带我去西蒙镇",
+      "verdict": "partial",
+      "reason": "英文是'nervous so I've hired a private guide for half a day to take me down to'，中文翻译为'所以我雇了个私人导游，半天时间带我去西蒙镇'，遗漏了'nervous'和'down to'，且'西蒙镇'是补充，但英文未出现。",
+      "missing_info": "nervous, down to"
+    },
+    {
+      "key": "112.500-118.500",
+      "start": 112.5,
+      "end": 118.5,
+      "en_full": "colony is and down to the Cape of Good",
+      "zh": "殖民地一直延伸到好望角。",
+      "verdict": "partial",
+      "reason": "英文是'colony is and down to the Cape of Good'，中文翻译为'殖民地一直延伸到好望角。'，遗漏了'is'和'down to'，且'Cape of Good'不完整。",
+      "missing_info": "is, down to, Good"
+    },
+    {
+      "key": "118.500-126.479",
+      "start": 118.5,
+      "end": 126.479,
+      "en_full": "pretty incredible origin story because this Colony started in 1982 with just",
+      "zh": "这个殖民地的起源故事相当不可思议，它始于1982年，当时只有",
+      "verdict": "partial",
+      "reason": "英文是'pretty incredible origin story because this Colony started in 1982 with just'，中文翻译为'这个殖民地的起源故事相当不可思议，它始于1982年，当时只有'，遗漏了'pretty'和'just'。",
+      "missing_info": "pretty, just"
+    },
+    {
+      "key": "126.479-131.940",
+      "start": 126.479,
+      "end": 131.94,
+      "en_full": "around 3 000 birds and they're under the protection of the cape nature",
+      "zh": "大约3000只鸟，受开普自然保护区的保护。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "131.940-142.560",
+      "start": 131.94,
+      "end": 142.56,
+      "en_full": "conservation because the species is on after spending some time with the",
+      "zh": "保护工作正在进行，因为该物种在与其相处一段时间后处于濒危状态。",
+      "verdict": "partial",
+      "reason": "中文翻译了主要内容，但遗漏了英文中的 'after spending some time with the' 这一部分，导致逻辑不完整。",
+      "missing_info": "after spending some time with the"
+    },
+    {
+      "key": "142.560-144.780",
+      "start": 142.56,
+      "end": 144.78,
+      "en_full": "Penguins we drove down toward the Cape",
+      "zh": "我们开车向南朝海角驶去，看到了企鹅。",
+      "verdict": "partial",
+      "reason": "中文添加了'看到了企鹅'，但英文原文没有提到企鹅，属于多余信息。",
+      "missing_info": ""
+    },
+    {
+      "key": "144.780-149.760",
+      "start": 144.78,
+      "end": 149.76,
+      "en_full": "the peninsula if you come to Cape Town",
+      "zh": "如果你来开普敦，就去半岛看看。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "149.760-151.260",
+      "start": 149.76,
+      "end": 151.26,
+      "en_full": "you have to do this drive and you'll probably see some ostriches along the",
+      "zh": "你得开这段路，沿途可能会看到一些鸵鸟。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "151.260-153.180",
+      "start": 151.26,
+      "end": 153.18,
+      "en_full": "probably see some ostriches along the",
+      "zh": "沿途可能会看到一些鸵鸟。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "153.180-168.180",
+      "start": 153.18,
+      "end": 168.18,
+      "en_full": "way foreign",
+      "zh": "外国的方式",
+      "verdict": "wrong",
+      "reason": "英文 'way foreign' 不完整，但中文翻译为'外国的方式'，与上下文不符，可能误译。"
+    },
+    {
+      "key": "168.180-174.599",
+      "start": 168.18,
+      "end": 174.599,
+      "en_full": "drove the famous Chapman's Peak Drive this is considered one of the most",
+      "zh": "开车经过著名的查普曼峰公路，这被认为是世界上最美的路线之一。",
+      "verdict": "partial",
+      "reason": "中文遗漏了英文中的 'one of the most'，导致程度减弱。",
+      "missing_info": "one of the most"
+    },
+    {
+      "key": "174.599-179.580",
+      "start": 174.599,
+      "end": 179.58,
+      "en_full": "the road was hacked into the near vertical face of the mountain so you",
+      "zh": "这条路是在近乎垂直的山壁上开凿出来的。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "179.580-182.220",
+      "start": 179.58,
+      "end": 182.22,
+      "en_full": "feel like you're hanging over the water",
+      "zh": "感觉你悬在水面上",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "182.220-192.180",
+      "start": 182.22,
+      "end": 192.18,
+      "en_full": "and the views are outstanding once back in Cape Town I stopped in Beau",
+      "zh": "回到开普敦后，我在Beau停留，景色绝佳。",
+      "verdict": "partial",
+      "reason": "中文将 'views are outstanding' 与 'stopped in Beau cop' 的顺序颠倒，且 'Beau cop' 应为 'Bo-Kaap'，翻译不准确。",
+      "missing_info": ""
+    },
+    {
+      "key": "192.180-197.400",
+      "start": 192.18,
+      "end": 197.4,
+      "en_full": "cop a neighborhood known for its colorful homes and I've heard a few",
+      "zh": "科帕社区以色彩缤纷的房屋闻名，我听说过一些。",
+      "verdict": "partial",
+      "reason": "中文遗漏了英文中的 'a few'，且 'heard a few' 翻译为'听说过一些'不完整。",
+      "missing_info": "a few"
+    },
+    {
+      "key": "197.400-203.040",
+      "start": 197.4,
+      "end": 203.04,
+      "en_full": "homes are painted so bright one is that homeowners painted them bright as an",
+      "zh": "房子刷得那么亮，是因为房主想让它们显得明亮。",
+      "verdict": "partial",
+      "reason": "中文遗漏了英文中的 'one is that homeowners painted them bright as an' 中的 'one is that'，导致逻辑不完整。",
+      "missing_info": "one is that"
+    },
+    {
+      "key": "203.040-210.780",
+      "start": 203.04,
+      "end": 210.78,
+      "en_full": "explanation is people just bought whatever paint color was cheapest",
+      "zh": "解释就是人们只买最便宜的油漆颜色",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "210.780-215.640",
+      "start": 210.78,
+      "end": 215.64,
+      "en_full": "of history and they're even walking tours you can take here to learn more",
+      "zh": "这里还有历史徒步之旅，可以了解更多。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "215.640-221.879",
+      "start": 215.64,
+      "end": 221.879,
+      "en_full": "that's an absolute must is a trip up the",
+      "zh": "绝对必须去的是上山的旅程。",
+      "verdict": "partial",
+      "reason": "中文遗漏了英文中的 'that's an absolute must is a trip up the' 中的 'that's an absolute must'，导致语气减弱。",
+      "missing_info": "that's an absolute must"
+    },
+    {
+      "key": "221.879-226.620",
+      "start": 221.879,
+      "end": 226.62,
+      "en_full": "went up it was completely clouded in at the top which was actually really cool",
+      "zh": "爬上去时山顶完全被云雾笼罩，其实挺酷的。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "226.620-232.680",
+      "start": 226.62,
+      "end": 232.68,
+      "en_full": "and then about 30 minutes later it",
+      "zh": "大约30分钟后",
+      "verdict": "partial",
+      "reason": "中文遗漏了英文中的 'and then about 30 minutes later it' 中的 'it'，且未翻译完整句子。",
+      "missing_info": "it"
+    },
+    {
+      "key": "232.680-238.860",
+      "start": 232.68,
+      "end": 238.86,
+      "en_full": "wins for the most scenic big city I have",
+      "zh": "我见过的最美大城市的胜利",
+      "verdict": "wrong",
+      "reason": "英文 'wins for the most scenic big city I have' 不完整，中文翻译为'我见过的最美大城市的胜利'，语义不通，且缺少宾语。"
+    },
+    {
+      "key": "238.860-244.379",
+      "start": 238.86,
+      "end": 244.379,
+      "en_full": "mountains around this city on this Coast",
+      "zh": "这座沿海城市周围的山脉",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "244.379-249.780",
+      "start": 244.379,
+      "end": 249.78,
+      "en_full": "here is hike lion's head this is an iconic feature of Cape Town which you",
+      "zh": "这里是狮头山，开普敦的标志性景观。",
+      "verdict": "partial",
+      "reason": "漏译了 'here is hike lion's head' 中的 'hike' 和 'which you' 部分，中文只说了 '这里是狮头山'，没有体现 'hike' 和 'which you' 的后续内容。",
+      "missing_info": "英文中 'here is hike lion's head' 中的 'hike' 以及 'which you' 未翻译，暗示了徒步活动，中文未体现。"
+    },
+    {
+      "key": "249.780-255.239",
+      "start": 249.78,
+      "end": 255.239,
+      "en_full": "around it that you hike up you can even",
+      "zh": "你徒步上去，甚至还能看到周围的一切。",
+      "verdict": "partial",
+      "reason": "中文翻译了 '你徒步上去，甚至还能看到周围的一切'，但英文 'around it that you hike up you can even' 不完整，可能漏了 'see' 之类的词，但中文添加了 '周围的一切'，属于合理补充。但英文原文有 'around it'，中文未明确译出 'around it'。",
+      "missing_info": "英文 'around it' 未明确翻译，中文只说了 '周围的一切'，但 'around it' 指代狮头山周围。"
+    },
+    {
+      "key": "255.239-258.600",
+      "start": 255.239,
+      "end": 258.6,
+      "en_full": "this was on my list to do but the",
+      "zh": "这本来是我计划要做的事，但是",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "258.600-263.580",
+      "start": 258.6,
+      "end": 263.58,
+      "en_full": "cloudy and completely rained out and I wouldn't have had any views so I guess",
+      "zh": "多云且完全被雨淋了，我本来也看不到任何景色，所以我想",
+      "verdict": "partial",
+      "reason": "英文 'cloudy and completely rained out' 中文译为 '多云且完全被雨淋了'，但 'rained out' 更准确的意思是 '因雨取消'，这里翻译为 '被雨淋了' 不够准确。另外 'I wouldn't have had any views' 中文译为 '我本来也看不到任何景色'，但英文是 'wouldn't have had' 虚拟语气，中文 '本来也看不到' 基本正确。整体信息基本覆盖，但 'rained out' 翻译有偏差。",
+      "missing_info": "英文 'rained out' 意为 '因雨取消'，中文译为 '被雨淋了'，意思有偏差。"
+    },
+    {
+      "key": "263.580-264.840",
+      "start": 263.58,
+      "end": 264.84,
+      "en_full": "wouldn't have had any views so I guess I'm just gonna have to come back and do",
+      "zh": "本来不会有任何观看量，所以我想我只能回来继续做了。",
+      "verdict": "wrong",
+      "reason": "英文 'wouldn't have had any views so I guess I'm just gonna have to come back and do' 中文译为 '本来不会有任何观看量，所以我想我只能回来继续做了。' 其中 '观看量' 是错误翻译，应为 '景色'。另外 'do' 未明确译出，但整体意思偏差较大。"
+    },
+    {
+      "key": "264.840-279.180",
+      "start": 264.84,
+      "end": 279.18,
+      "en_full": "it next time",
+      "zh": "下次再来完成这个徒步",
+      "verdict": "partial",
+      "reason": "英文 'it next time' 中文译为 '下次再来完成这个徒步'，添加了 '完成这个徒步'，但英文原文只有 'it next time'，没有明确 '徒步'，属于合理补充。但英文 'it' 指代前文未明确，中文补充了 '徒步'，可以接受。",
+      "missing_info": "英文 'it' 指代不明，中文补充了 '徒步'，但原文没有明确。"
+    },
+    {
+      "key": "279.180-280.860",
+      "start": 279.18,
+      "end": 280.86,
+      "en_full": "I've made it to Sabi Sans and I have so",
+      "zh": "我已经到了萨比桑斯，感觉非常……",
+      "verdict": "partial",
+      "reason": "英文 'I've made it to Sabi Sans and I have so' 中文译为 '我已经到了萨比桑斯，感觉非常……'，其中 'Sabi Sans' 应为 'Sabi Sand'，中文音译有误。另外 'I have so' 未完整翻译，中文用省略号表示未说完，但英文 'so' 后应有内容，中文未译出。",
+      "missing_info": "英文 'so' 后应有内容，中文未译出；'Sabi Sans' 应为 'Sabi Sand'。"
+    },
+    {
+      "key": "280.860-286.620",
+      "start": 280.86,
+      "end": 286.62,
+      "en_full": "much to tell you about this area Sabi",
+      "zh": "关于萨比地区，有很多要告诉你的。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "286.620-292.500",
+      "start": 286.62,
+      "end": 292.5,
+      "en_full": "in the Kruger National Park area of South Africa and it's considered by some",
+      "zh": "位于南非克鲁格国家公园区域，有人认为这里是",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "292.500-299.280",
+      "start": 292.5,
+      "end": 299.28,
+      "en_full": "spot the big five which is lion leopard",
+      "zh": "观赏非洲五霸（狮子、豹子、犀牛、大象和野牛）的最佳地点",
+      "verdict": "partial",
+      "reason": "英文 'spot the big five which is lion leopard' 中文译为 '观赏非洲五霸（狮子、豹子、犀牛、大象和野牛）的最佳地点'，但英文只列出了 'lion leopard'，中文补充了 '犀牛、大象和野牛'，属于额外信息，但英文原文不完整，中文补充合理。但英文 'spot the big five' 中文译为 '观赏非洲五霸' 正确。",
+      "missing_info": "英文只列出了 'lion leopard'，中文补充了其他三种，但原文可能省略，中文补充合理。"
+    },
+    {
+      "key": "299.280-305.639",
+      "start": 299.28,
+      "end": 305.639,
+      "en_full": "unique thing about Sabi Sans is it shares an unfenced border with Kruger",
+      "zh": "Sabi Sand的特别之处在于它与克鲁格国家公园接壤，没有围栏",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "305.639-311.460",
+      "start": 305.639,
+      "end": 311.46,
+      "en_full": "wildlife of Krueger flowing freely in",
+      "zh": "克鲁格的野生动物自由流动",
+      "verdict": "partial",
+      "reason": "英文 'wildlife of Krueger flowing freely in' 中文译为 '克鲁格的野生动物自由流动'，但英文 'in' 后应有内容，中文未译出 'in' 的后续，可能漏了 'and out' 或类似。",
+      "missing_info": "英文 'in' 后应有内容，中文未译出。"
+    },
+    {
+      "key": "311.460-316.020",
+      "start": 311.46,
+      "end": 316.02,
+      "en_full": "a private reserve it doesn't have some of the rules that Krueger does and I",
+      "zh": "私人保护区，没有克鲁格那些规矩。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "316.020-320.759",
+      "start": 316.02,
+      "end": 320.759,
+      "en_full": "Namibia video the difference between a",
+      "zh": "纳米比亚视频中两者的区别",
+      "verdict": "partial",
+      "reason": "英文 'Namibia video the difference between a' 中文译为 '纳米比亚视频中两者的区别'，但英文 'a' 后应有内容，中文未译出 'a' 的后续，且 'Namibia video' 可能指 '在纳米比亚视频中'，但中文翻译基本正确，但漏了 'a' 后的内容。",
+      "missing_info": "英文 'a' 后应有内容，中文未译出。"
+    },
+    {
+      "key": "320.759-326.820",
+      "start": 320.759,
+      "end": 326.82,
+      "en_full": "in National Parks you can't enter until after sunrise and the gates close at",
+      "zh": "国家公园要等到日出后才能进入，傍晚日落时关门，所以",
+      "verdict": "partial",
+      "reason": "英文 'in National Parks you can't enter until after sunrise and the gates close at' 中文译为 '国家公园要等到日出后才能进入，傍晚日落时关门，所以'，但英文 'close at' 后应有时间，中文补充了 '傍晚日落时'，但原文未明确，属于合理补充。但英文 'in National Parks' 中文译为 '国家公园' 正确。",
+      "missing_info": "英文 'close at' 后未给出具体时间，中文补充了 '傍晚日落时'。"
+    },
+    {
+      "key": "326.820-331.440",
+      "start": 326.82,
+      "end": 331.44,
+      "en_full": "animal activity really early in the day",
+      "zh": "动物活动真的很早",
+      "verdict": "partial",
+      "reason": "英文 'animal activity really early in the day' 中文译为 '动物活动真的很早'，但英文缺少动词，中文翻译基本正确，但英文可能不完整。",
+      "missing_info": "英文缺少动词，中文翻译合理。"
+    },
+    {
+      "key": "331.440-336.660",
+      "start": 331.44,
+      "end": 336.66,
+      "en_full": "have to stick to designated roads in a national park which means you're limited",
+      "zh": "在国家公园你只能走指定路线，能看到的非常有限",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "336.660-343.440",
+      "start": 336.66,
+      "end": 343.44,
+      "en_full": "and elusive animals like leopards don't",
+      "zh": "像豹子这样难以捉摸的动物不会",
+      "verdict": "partial",
+      "reason": "英文 'and elusive animals like leopards don't' 中文译为 '像豹子这样难以捉摸的动物不会'，但英文 'don't' 后应有内容，中文未译出。",
+      "missing_info": "英文 'don't' 后应有内容，中文未译出。"
+    },
+    {
+      "key": "343.440-347.639",
+      "start": 343.44,
+      "end": 347.639,
+      "en_full": "on a private reserve you can drive any",
+      "zh": "在私人保护区，你可以开任何车。",
+      "verdict": "partial",
+      "reason": "英文 'on a private reserve you can drive any' 中文译为 '在私人保护区，你可以开任何车。' 但英文 'any' 后应有内容，中文补充了 '车'，但原文可能指 'any vehicle' 或 'anywhere'，中文翻译可能不准确。",
+      "missing_info": "英文 'any' 后内容未明确，中文补充了 '车'，但可能不准确。"
+    },
+    {
+      "key": "347.639-352.860",
+      "start": 347.639,
+      "end": 352.86,
+      "en_full": "hunting with the Lions if you want you can also drive anywhere on the reserve",
+      "zh": "如果你想和狮子一起狩猎，也可以在保护区内开车到处转转。",
+      "verdict": "partial",
+      "reason": "英文 'hunting with the Lions if you want you can also drive anywhere on the reserve' 中文译为 '如果你想和狮子一起狩猎，也可以在保护区内开车到处转转。' 但英文 'hunting with the Lions' 可能指 '与狮子一起狩猎'，但中文翻译基本正确。但英文 'if you want' 中文译为 '如果你想' 正确。整体信息覆盖，但 'hunting with the Lions' 可能引起歧义。",
+      "missing_info": "英文 'hunting with the Lions' 可能指 '观看狮子狩猎' 或 '与狮子一起狩猎'，中文翻译可能不够准确。"
+    },
+    {
+      "key": "352.860-356.580",
+      "start": 352.86,
+      "end": 356.58,
+      "en_full": "Road also the only way to get into a",
+      "zh": "这条路也是进入的唯一途径。",
+      "verdict": "partial",
+      "reason": "英文 'Road also the only way to get into a' 未完整，中文翻译了部分，但缺少 'Road' 和 'a' 的完整含义。",
+      "missing_info": "英文不完整，缺少上下文，中文仅翻译了后半部分。"
+    },
+    {
+      "key": "356.580-360.060",
+      "start": 356.58,
+      "end": 360.06,
+      "en_full": "drive with their guides so you're not",
+      "zh": "和他们的导游一起开车，这样你就不会迷路。",
+      "verdict": "pass",
+      "reason": "中文准确覆盖了英文信息。"
+    },
+    {
+      "key": "360.060-365.520",
+      "start": 360.06,
+      "end": 365.52,
+      "en_full": "isn't to say that national parks are a",
+      "zh": "这并不是说国家公园是",
+      "verdict": "partial",
+      "reason": "英文 'isn't to say that national parks are a' 不完整，中文翻译了前半部分，但缺少 'a' 后的内容。",
+      "missing_info": "英文不完整，缺少后续内容。"
+    },
+    {
+      "key": "365.520-371.280",
+      "start": 365.52,
+      "end": 371.28,
+      "en_full": "Atasha in Namibia I actually think the",
+      "zh": "在纳米比亚的Atasha，我其实觉得",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文。"
+    },
+    {
+      "key": "371.280-375.419",
+      "start": 371.28,
+      "end": 375.419,
+      "en_full": "you have the time in your trip so I'm going on game drives for the next few",
+      "zh": "你旅途中有时间，所以接下来我要去参加游猎活动了。",
+      "verdict": "partial",
+      "reason": "英文 'you have the time in your trip so I'm going on game drives for the next few' 未完整，中文翻译了前半部分，但缺少 'for the next few' 后的内容。",
+      "missing_info": "英文不完整，缺少后续时间描述。"
+    },
+    {
+      "key": "375.419-382.080",
+      "start": 375.419,
+      "end": 382.08,
+      "en_full": "days in the mornings and afternoons and I'm excited to see what we find Sabi",
+      "zh": "每天早晚，我很期待看到我们找到的萨比。",
+      "verdict": "partial",
+      "reason": "英文 'days in the mornings and afternoons and I'm excited to see what we find Sabi' 不完整，中文翻译了前半部分，但缺少 'Sabi' 后的内容。",
+      "missing_info": "英文不完整，缺少后续内容。"
+    },
+    {
+      "key": "382.080-389.280",
+      "start": 382.08,
+      "end": 389.28,
+      "en_full": "especially leopards which is part of why I came here leopards are notoriously",
+      "zh": "尤其是豹子，这也是我来这里的原因之一，豹子以难以捉摸而闻名。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文。"
+    },
+    {
+      "key": "389.280-395.759",
+      "start": 389.28,
+      "end": 395.759,
+      "en_full": "tricky to find and get close to but Sabi",
+      "zh": "虽然难找又难接近，但萨比还是做到了",
+      "verdict": "partial",
+      "reason": "英文 'tricky to find and get close to but Sabi' 不完整，中文翻译了前半部分，但缺少 'Sabi' 后的内容。",
+      "missing_info": "英文不完整，缺少后续内容。"
+    },
+    {
+      "key": "395.759-400.919",
+      "start": 395.759,
+      "end": 400.919,
+      "en_full": "we spent a morning tracking a mother and her older male Cub through the bush",
+      "zh": "我们花了一上午追踪一只母豹和她的雄性幼崽穿过灌木丛。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文。"
+    },
+    {
+      "key": "400.919-407.160",
+      "start": 400.919,
+      "end": 407.16,
+      "en_full": "these animals are so beautiful and they weren't bothered by us either they",
+      "zh": "这些动物太美了，而且它们也没被我们打扰到。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文。"
+    },
+    {
+      "key": "407.160-412.680",
+      "start": 407.16,
+      "end": 412.68,
+      "en_full": "multiple times the only time they actually looked at me was right here as",
+      "zh": "很多次，他们唯一一次看我就是在这一刻。",
+      "verdict": "partial",
+      "reason": "英文 'multiple times the only time they actually looked at me was right here as' 不完整，中文翻译了前半部分，但缺少 'as' 后的内容。",
+      "missing_info": "英文不完整，缺少后续内容。"
+    },
+    {
+      "key": "412.680-419.759",
+      "start": 412.68,
+      "end": 419.759,
+      "en_full": "silently losing it I mean look at that",
+      "zh": "我默默崩溃了，你看那个。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文。"
+    },
+    {
+      "key": "419.759-424.560",
+      "start": 419.759,
+      "end": 424.56,
+      "en_full": "move they never seemed to stop for more than a few moments before continuing on",
+      "zh": "他们似乎从未停下超过片刻，就又继续前行了。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文。"
+    },
+    {
+      "key": "424.560-431.000",
+      "start": 424.56,
+      "end": 431,
+      "en_full": "their way I can see why it's so hard to [Music]",
+      "zh": "他们的方式，我明白为什么这么难了。",
+      "verdict": "partial",
+      "reason": "英文 'their way I can see why it's so hard to [Music]' 不完整，中文翻译了前半部分，但缺少 '[Music]' 后的内容。",
+      "missing_info": "英文不完整，缺少后续内容。"
+    },
+    {
+      "key": "431.000-440.460",
+      "start": 431,
+      "end": 440.46,
+      "en_full": "[Music] so I just had probably my craziest",
+      "zh": "[音乐] 我刚刚经历了可能是我最疯狂的一次",
+      "verdict": "partial",
+      "reason": "英文 '[Music] so I just had probably my craziest' 不完整，中文翻译了后半部分，但缺少 '[Music]' 和 'craziest' 后的内容。",
+      "missing_info": "英文不完整，缺少后续内容。"
+    },
+    {
+      "key": "440.460-447.120",
+      "start": 440.46,
+      "end": 447.12,
+      "en_full": "male leopard cub this morning with a",
+      "zh": "今天早上有一只雄性豹崽",
+      "verdict": "partial",
+      "reason": "英文 'male leopard cub this morning with a' 不完整，中文翻译了前半部分，但缺少 'with a' 后的内容。",
+      "missing_info": "英文不完整，缺少后续内容。"
+    },
+    {
+      "key": "447.120-451.020",
+      "start": 447.12,
+      "end": 451.02,
+      "en_full": "eating and we got to get so close to him",
+      "zh": "我们吃东西时离他特别近。",
+      "verdict": "wrong",
+      "reason": "英文 'eating and we got to get so close to him' 中文翻译为 '我们吃东西时离他特别近'，但英文主语是 'we' 和 'him'，中文添加了 '吃东西'，与英文不符。"
+    },
+    {
+      "key": "451.020-456.900",
+      "start": 451.02,
+      "end": 456.9,
+      "en_full": "dropped the antelope all the way to the",
+      "zh": "一路把羚羊丢了下去",
+      "verdict": "partial",
+      "reason": "英文 'dropped the antelope all the way to the' 不完整，中文翻译了前半部分，但缺少 'to the' 后的内容。",
+      "missing_info": "英文不完整，缺少后续内容。"
+    },
+    {
+      "key": "456.900-463.259",
+      "start": 456.9,
+      "end": 463.259,
+      "en_full": "splattered with Antelope blood it's all",
+      "zh": "溅满了Antelope的血",
+      "verdict": "partial",
+      "reason": "英文 'splattered with Antelope blood it's all' 不完整，中文翻译了前半部分，但缺少 'it's all' 后的内容。",
+      "missing_info": "英文不完整，缺少后续内容。"
+    },
+    {
+      "key": "463.259-467.819",
+      "start": 463.259,
+      "end": 467.819,
+      "en_full": "it's wild that you have no idea what",
+      "zh": "你居然完全不知道，这太离谱了。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文。"
+    },
+    {
+      "key": "467.819-469.860",
+      "start": 467.819,
+      "end": 469.86,
+      "en_full": "these drives every day every single one",
+      "zh": "这些驱动器每天每一个",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "469.860-478.500",
+      "start": 469.86,
+      "end": 478.5,
+      "en_full": "is different",
+      "zh": "是不同的",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "478.500-481.500",
+      "start": 478.5,
+      "end": 481.5,
+      "en_full": "game drives at sunrise and sunset and",
+      "zh": "在日出和日落时进行游猎",
+      "verdict": "partial",
+      "reason": "英文包含'game drives at sunrise and sunset and'，中文只翻译了'在日出和日落时进行游猎'，遗漏了'and'，但主要信息完整。",
+      "missing_info": "英文末尾的'and'未翻译"
+    },
+    {
+      "key": "481.500-488.099",
+      "start": 481.5,
+      "end": 488.099,
+      "en_full": "saw everything really Lions giraffes zebras so many elephants one morning we",
+      "zh": "真的看到了所有动物，狮子、长颈鹿、斑马，还有好多大象，就在一个早上。",
+      "verdict": "partial",
+      "reason": "英文包含'saw everything really Lions giraffes zebras so many elephants one morning we'，中文翻译为'真的看到了所有动物，狮子、长颈鹿、斑马，还有好多大象，就在一个早上。'，但英文末尾的'we'未翻译，且中文添加了'就在一个早上'，但整体信息覆盖。",
+      "missing_info": "英文末尾的'we'未翻译"
+    },
+    {
+      "key": "488.099-490.440",
+      "start": 488.099,
+      "end": 490.44,
+      "en_full": "zebras so many elephants one morning we had a herd pass right through us which",
+      "zh": "斑马很多，大象也很多。一天早上，一群大象从我们中间穿过。",
+      "verdict": "partial",
+      "reason": "英文包含'zebras so many elephants one morning we had a herd pass right through us which'，中文翻译为'斑马很多，大象也很多。一天早上，一群大象从我们中间穿过。'，但英文开头重复了'zebras so many elephants'，中文未完全对应，且遗漏了'which'。",
+      "missing_info": "英文开头的'zebras so many elephants'重复部分未完全翻译，遗漏'which'"
+    },
+    {
+      "key": "490.440-496.139",
+      "start": 490.44,
+      "end": 496.139,
+      "en_full": "was really spectacular elephants are exceptionally intelligent animals",
+      "zh": "那场面太震撼了，大象非常聪明",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "496.139-501.599",
+      "start": 496.139,
+      "end": 501.599,
+      "en_full": "they're one of the few species that can recognize itself in the mirror they're",
+      "zh": "它们是少数能在镜子里认出自己的物种之一。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "501.599-507.180",
+      "start": 501.599,
+      "end": 507.18,
+      "en_full": "to 600 pounds of food a day but all of",
+      "zh": "每天600磅食物，但全部都是",
+      "verdict": "partial",
+      "reason": "英文包含'to 600 pounds of food a day but all of'，中文翻译为'每天600磅食物，但全部都是'，但英文开头缺少主语，中文也未补充，且'but all of'未完整翻译，可能遗漏后续内容。",
+      "missing_info": "英文'but all of'未完整翻译，缺少后续内容"
+    },
+    {
+      "key": "507.180-513.719",
+      "start": 507.18,
+      "end": 513.719,
+      "en_full": "African farmers will raise these to keep elephants away from their crops and",
+      "zh": "非洲农民将养殖这些来防止大象破坏庄稼。",
+      "verdict": "wrong",
+      "reason": "英文'African farmers will raise these to keep elephants away from their crops and'，中文翻译为'非洲农民将养殖这些来防止大象破坏庄稼。'，但英文中的'these'指代不明，中文翻译为'这些'，但上下文可能指蜜蜂或其他，且英文末尾有'and'，中文未翻译。但主要意思正确，但遗漏'and'。"
+    },
+    {
+      "key": "513.719-518.640",
+      "start": 513.719,
+      "end": 518.64,
+      "en_full": "breakfast after a sunrise game drive a herd showed up at the river outside of",
+      "zh": "日出游猎后的早餐时间，一群动物出现在外面的河边。",
+      "verdict": "partial",
+      "reason": "英文包含'breakfast after a sunrise game drive a herd showed up at the river outside of'，中文翻译为'日出游猎后的早餐时间，一群动物出现在外面的河边。'，但英文中的'a herd'未明确是什么动物，中文翻译为'一群动物'，但英文未指定，且遗漏了'of'。",
+      "missing_info": "英文末尾的'of'未翻译"
+    },
+    {
+      "key": "518.640-521.640",
+      "start": 518.64,
+      "end": 521.64,
+      "en_full": "the lodge and talk about the best",
+      "zh": "旅馆和谈论最好的",
+      "verdict": "partial",
+      "reason": "英文包含'the lodge and talk about the best'，中文翻译为'旅馆和谈论最好的'，但英文不完整，中文直译，但缺少上下文，可能遗漏信息。",
+      "missing_info": "英文不完整，中文直译但可能遗漏后续内容"
+    },
+    {
+      "key": "521.640-529.800",
+      "start": 521.64,
+      "end": 529.8,
+      "en_full": "[Music]",
+      "zh": "[音乐]",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "529.800-534.600",
+      "start": 529.8,
+      "end": 534.6,
+      "en_full": "was a group of them that had the Zoomies they were chasing each other around and",
+      "zh": "有一群猫在发疯，互相追着跑。",
+      "verdict": "wrong",
+      "reason": "英文'was a group of them that had the Zoomies they were chasing each other around and'，中文翻译为'有一群猫在发疯，互相追着跑。'，但英文中未明确是'猫'，可能是其他动物，中文添加了'猫'，属于错译。"
+    },
+    {
+      "key": "534.600-540.839",
+      "start": 534.6,
+      "end": 540.839,
+      "en_full": "around in circles taking up their heels it was so cute I was really impressed",
+      "zh": "他们绕着圈跑，脚跟都抬起来了，太可爱了，我真的很佩服。",
+      "verdict": "partial",
+      "reason": "英文包含'around in circles taking up their heels it was so cute I was really impressed'，中文翻译为'他们绕着圈跑，脚跟都抬起来了，太可爱了，我真的很佩服。'，但英文中的'taking up their heels'可能翻译不准确，且遗漏了'around in circles'中的'in circles'。",
+      "missing_info": "英文'in circles'未翻译"
+    },
+    {
+      "key": "540.839-546.660",
+      "start": 540.839,
+      "end": 546.66,
+      "en_full": "knowledgeable on every animal and it was",
+      "zh": "对每种动物都了如指掌",
+      "verdict": "partial",
+      "reason": "英文包含'knowledgeable on every animal and it was'，中文翻译为'对每种动物都了如指掌'，但遗漏了'and it was'。",
+      "missing_info": "英文'and it was'未翻译"
+    },
+    {
+      "key": "546.660-551.220",
+      "start": 546.66,
+      "end": 551.22,
+      "en_full": "footprints in the dirt and know what animal it was how long ago it was there",
+      "zh": "看到泥土上的脚印，就能知道是什么动物，以及它多久前留下的。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "551.220-556.500",
+      "start": 551.22,
+      "end": 556.5,
+      "en_full": "out after dark every night and there is",
+      "zh": "每晚天黑后外出",
+      "verdict": "partial",
+      "reason": "英文包含'out after dark every night and there is'，中文翻译为'每晚天黑后外出'，但遗漏了'and there is'。",
+      "missing_info": "英文'and there is'未翻译"
+    },
+    {
+      "key": "556.500-564.480",
+      "start": 556.5,
+      "end": 564.48,
+      "en_full": "just nothing like being out in this so the lodge that I'm staying at here is",
+      "zh": "没什么比在外面更好了，所以我住的这家旅馆就在这里。",
+      "verdict": "partial",
+      "reason": "英文包含'just nothing like being out in this so the lodge that I'm staying at here is'，中文翻译为'没什么比在外面更好了，所以我住的这家旅馆就在这里。'，但英文中的'in this'未翻译，且中文添加了'就在这里'，但整体意思接近。",
+      "missing_info": "英文'in this'未翻译"
+    },
+    {
+      "key": "564.480-567.480",
+      "start": 564.48,
+      "end": 567.48,
+      "en_full": "so the lodge that I'm staying at here is londelosi I'm at the vardy camp I looked",
+      "zh": "我住的旅馆是Londelosi，在Vardy营地，我看了看。",
+      "verdict": "partial",
+      "reason": "英文包含'so the lodge that I'm staying at here is londelosi I'm at the vardy camp I looked'，中文翻译为'我住的旅馆是Londelosi，在Vardy营地，我看了看。'，但英文中的'so'未翻译，且'I looked'翻译为'我看了看'，但英文可能不完整。",
+      "missing_info": "英文'so'未翻译"
+    },
+    {
+      "key": "567.480-573.959",
+      "start": 567.48,
+      "end": 573.959,
+      "en_full": "at so many lodges in Sabi Sands before deciding on this one and honestly they",
+      "zh": "在Sabi Sands的那么多旅馆中，我们最终选择了这家，说实话他们",
+      "verdict": "partial",
+      "reason": "英文包含'at so many lodges in Sabi Sands before deciding on this one and honestly they'，中文翻译为'在Sabi Sands的那么多旅馆中，我们最终选择了这家，说实话他们'，但英文中的'at'未翻译，且中文添加了'我们'，但整体信息覆盖。",
+      "missing_info": "英文'at'未翻译"
+    },
+    {
+      "key": "573.959-578.459",
+      "start": 573.959,
+      "end": 578.459,
+      "en_full": "can go wrong with any of them but the",
+      "zh": "选哪个都不会错，但最",
+      "verdict": "partial",
+      "reason": "中文只翻译了前半部分，缺少后半句 'but the' 的完整意思。",
+      "missing_info": "英文后半部分 'but the' 未翻译，导致句子不完整。"
+    },
+    {
+      "key": "578.459-584.580",
+      "start": 578.459,
+      "end": 584.58,
+      "en_full": "one because I have this enormous Deck",
+      "zh": "一个是因为我有这副巨大的Deck",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "584.580-590.040",
+      "start": 584.58,
+      "end": 590.04,
+      "en_full": "overlooking the landscape it is what you dream of when you think of going on an",
+      "zh": "俯瞰这片风景，正是你梦想中的旅行景象。",
+      "verdict": "partial",
+      "reason": "中文漏译了 'it is what you dream of when you think of going on an' 中的 'an'，且整体意思略有偏差。",
+      "missing_info": "英文中的 'an' 未翻译，且 'going on an' 应译为 '去...'，但中文译为 '旅行景象'，不够准确。"
+    },
+    {
+      "key": "590.040-596.220",
+      "start": 590.04,
+      "end": 596.22,
+      "en_full": "the service has been phenomenal and it's",
+      "zh": "服务非常出色，令人印象深刻。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "596.220-601.440",
+      "start": 596.22,
+      "end": 601.44,
+      "en_full": "afternoon drive with a guide every day all of your meals this is not sponsored",
+      "zh": "每天下午有导游陪同驾车，包含所有餐食，这不是赞助。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "601.440-609.670",
+      "start": 601.44,
+      "end": 609.67,
+      "en_full": "by the way it might be my new best place [Music]",
+      "zh": "顺便说一句，这可能是我新的最爱地方了。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "609.670-614.760",
+      "start": 609.67,
+      "end": 614.76,
+      "en_full": "[Music] my final afternoon game Drive was one of",
+      "zh": "我最后一场下午比赛的驾驶经历",
+      "verdict": "partial",
+      "reason": "中文将 'game Drive' 误译为 '比赛驾驶'，应为 '游猎驾驶' 或 '驱车游猎'。",
+      "missing_info": "英文 'game Drive' 中的 'game' 指野生动物，而非比赛。"
+    },
+    {
+      "key": "614.760-619.560",
+      "start": 614.76,
+      "end": 619.56,
+      "en_full": "the most exciting of the entire trip we went out in the afternoon looking for",
+      "zh": "整个旅程最激动人心的是下午出去寻找",
+      "verdict": "partial",
+      "reason": "中文只翻译了前半部分，缺少后半句 'we went out in the afternoon looking for' 的完整意思。",
+      "missing_info": "英文后半部分 'we went out in the afternoon looking for' 未翻译。"
+    },
+    {
+      "key": "619.560-624.899",
+      "start": 619.56,
+      "end": 624.899,
+      "en_full": "are kind of funny that when they're",
+      "zh": "它们有点好笑，当它们……",
+      "verdict": "partial",
+      "reason": "中文只翻译了前半部分，缺少后半句 'when they're' 的完整意思。",
+      "missing_info": "英文后半部分 'when they're' 未翻译。"
+    },
+    {
+      "key": "624.899-628.980",
+      "start": 624.899,
+      "end": 628.98,
+      "en_full": "and they do not care and the reason we",
+      "zh": "他们不在乎，原因是我们",
+      "verdict": "partial",
+      "reason": "中文只翻译了前半部分，缺少后半句 'and the reason we' 的完整意思。",
+      "missing_info": "英文后半部分 'and the reason we' 未翻译。"
+    },
+    {
+      "key": "628.980-634.200",
+      "start": 628.98,
+      "end": 634.2,
+      "en_full": "is they see the vehicle and everyone in",
+      "zh": "野生动物把车和车里的人看作一个整体",
+      "verdict": "partial",
+      "reason": "中文翻译了主要内容，但漏译了 'everyone in' 中的 'in'，且整体意思不完整。",
+      "missing_info": "英文 'everyone in' 中的 'in' 未翻译，导致 '车里的人' 不准确。"
+    },
+    {
+      "key": "634.200-638.940",
+      "start": 634.2,
+      "end": 638.94,
+      "en_full": "individual beings and don't see us as something they could attack so we sat",
+      "zh": "个体存在，不视我们为可攻击之物，所以我们坐下。",
+      "verdict": "partial",
+      "reason": "中文翻译了前半部分，但将 'we sat' 误译为 '我们坐下'，应为 '我们坐着'。",
+      "missing_info": "英文 'we sat' 应译为 '我们坐着'，而非 '我们坐下'。"
+    },
+    {
+      "key": "638.940-644.279",
+      "start": 638.94,
+      "end": 644.279,
+      "en_full": "while all the way until Sunset and then",
+      "zh": "一直持续到日落时分。",
+      "verdict": "partial",
+      "reason": "中文只翻译了前半部分，缺少后半句 'and then' 的完整意思。",
+      "missing_info": "英文后半部分 'and then' 未翻译。"
+    },
+    {
+      "key": "644.279-648.600",
+      "start": 644.279,
+      "end": 648.6,
+      "en_full": "and started moving into the thickets and",
+      "zh": "然后开始向灌木丛中移动",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "648.600-654.660",
+      "start": 648.6,
+      "end": 654.66,
+      "en_full": "exciting to be able to stay out after sunset with these animals so we drove",
+      "zh": "能在日落之后和这些动物待在外面很兴奋，所以我们开车去了。",
+      "verdict": "partial",
+      "reason": "中文翻译了主要内容，但漏译了 'so we drove' 中的 'drove' 的宾语，且整体意思不完整。",
+      "missing_info": "英文 'so we drove' 后应有地点，中文未体现。"
+    },
+    {
+      "key": "654.660-659.880",
+      "start": 654.66,
+      "end": 659.88,
+      "en_full": "thick bushes and found that a couple of",
+      "zh": "茂密的灌木丛里发现了一对",
+      "verdict": "partial",
+      "reason": "中文只翻译了前半部分，缺少后半句 'a couple of' 的完整意思。",
+      "missing_info": "英文后半部分 'a couple of' 未翻译。"
+    },
+    {
+      "key": "659.880-665.519",
+      "start": 659.88,
+      "end": 665.519,
+      "en_full": "warthog there was this lioness with this",
+      "zh": "那边有只疣猪，还有这头母狮。",
+      "verdict": "pass",
+      "reason": "中文准确翻译了英文内容。"
+    },
+    {
+      "key": "665.519-669.540",
+      "start": 665.519,
+      "end": 669.54,
+      "en_full": "followed her and watched her eat it and you know how sometimes at night the sky",
+      "zh": "跟着她，看她吃下去，你知道有时夜晚的天空",
+      "verdict": "partial",
+      "reason": "中文翻译了前半部分，但缺少后半句 'you know how sometimes at night the sky' 的完整意思。",
+      "missing_info": "英文后半部分 'you know how sometimes at night the sky' 未翻译。"
+    },
+    {
+      "key": "669.540-673.920",
+      "start": 669.54,
+      "end": 673.92,
+      "en_full": "don't really notice it until all of a",
+      "zh": "直到突然之间，你才会注意到它。",
+      "verdict": "partial",
+      "reason": "中文只翻译了后半部分，缺少前半句 'don't really notice it until all of a' 的完整意思。",
+      "missing_info": "英文前半部分 'don't really notice it until all of a' 未翻译。"
+    },
+    {
+      "key": "673.920-680.279",
+      "start": 673.92,
+      "end": 680.279,
+      "en_full": "black out here when the Lioness was done eating her chunk of warthog the guide",
+      "zh": "当母狮吃完那块疣猪后，这里就一片漆黑了，向导说。",
+      "verdict": "partial",
+      "reason": "中文翻译了主要内容，但漏译了 'the guide' 后的内容，且句子不完整。",
+      "missing_info": "英文 'the guide' 后应有动作或话语，中文未翻译。"
+    },
+    {
+      "key": "680.279-684.959",
+      "start": 680.279,
+      "end": 684.959,
+      "en_full": "that's when I had the realization that I",
+      "zh": "那时我才意识到我",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "684.959-690.480",
+      "start": 684.959,
+      "end": 690.48,
+      "en_full": "in complete darkness surrounded by",
+      "zh": "在完全的黑暗中，被包围着。",
+      "verdict": "partial",
+      "reason": "中文翻译了主要内容，但漏掉了英文中的 'that's when I had the realization that I' 部分，导致句子不完整。",
+      "missing_info": "that's when I had the realization that I"
+    },
+    {
+      "key": "690.480-694.620",
+      "start": 690.48,
+      "end": 694.62,
+      "en_full": "hungry Lions it was thrilling it was",
+      "zh": "饥饿的狮子，太刺激了。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "694.620-703.980",
+      "start": 694.62,
+      "end": 703.98,
+      "en_full": "adrenaline rush",
+      "zh": "肾上腺素飙升",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "703.980-708.000",
+      "start": 703.98,
+      "end": 708,
+      "en_full": "today is my last day in South Africa which is so disappointing because I",
+      "zh": "今天是我在南非的最后一天，真让人失望，因为我",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "708.000-713.220",
+      "start": 708,
+      "end": 713.22,
+      "en_full": "don't want to leave one week was definitely not enough if you come try to",
+      "zh": "不想离开，一周肯定不够，如果你来试试看。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "713.220-717.959",
+      "start": 713.22,
+      "end": 717.959,
+      "en_full": "come for two weeks at least this country is so beautiful and it should absolutely",
+      "zh": "至少来两周吧，这个国家太美了，绝对值得来。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "717.959-722.399",
+      "start": 717.959,
+      "end": 722.399,
+      "en_full": "already if you are thinking of planning",
+      "zh": "如果你已经在考虑计划了",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "722.399-727.800",
+      "start": 722.399,
+      "end": 727.8,
+      "en_full": "I was asked by all of you on social",
+      "zh": "你们都在社交媒体上问我",
+      "verdict": "wrong",
+      "reason": "英文是 'I was asked by all of you on social'，中文翻译为 '你们都在社交媒体上问我'，但英文不完整，且中文添加了 '问我'，但英文没有明确说 '问我'，只是 '被你们在社交媒体上'。实际上英文可能是个片段，但中文翻译偏离了原意。"
+    },
+    {
+      "key": "727.800-735.240",
+      "start": 727.8,
+      "end": 735.24,
+      "en_full": "locals while I was here in South Africa is how do I feel about traveling alone",
+      "zh": "我在南非时，当地人常问我独自旅行感觉如何。",
+      "verdict": "partial",
+      "reason": "英文是 'locals while I was here in South Africa is how do I feel about traveling alone'，中文翻译为 '我在南非时，当地人常问我独自旅行感觉如何。' 但英文中 'locals' 是主语，中文翻译成了 '当地人常问我'，但英文没有 '常' 的意思，且英文结构是 'locals ... is how do I feel'，中文翻译基本正确但略有添加。",
+      "missing_info": "英文没有 '常' 的意思"
+    },
+    {
+      "key": "735.240-740.220",
+      "start": 735.24,
+      "end": 740.22,
+      "en_full": "here South Africa has been on my travel list for a while but I never thought I",
+      "zh": "南非一直在我旅行清单上，但从没想过会来。",
+      "verdict": "partial",
+      "reason": "英文是 'here South Africa has been on my travel list for a while but I never thought I'，中文翻译为 '南非一直在我旅行清单上，但从没想过会来。' 但英文中 'here' 没有翻译，且 'I never thought I' 后面还有内容，中文翻译成了完整的句子，但漏掉了 'here' 和 'I' 后面的部分。",
+      "missing_info": "here, I never thought I (后面还有内容)"
+    },
+    {
+      "key": "740.220-744.839",
+      "start": 740.22,
+      "end": 744.839,
+      "en_full": "come on a tour but then I signed up for",
+      "zh": "参加旅游团，但我报名了",
+      "verdict": "partial",
+      "reason": "英文是 'come on a tour but then I signed up for'，中文翻译为 '参加旅游团，但我报名了'，但英文中 'come on a tour' 是 '参加旅游团'，但中文翻译缺少了 'come' 的语境，且英文不完整。",
+      "missing_info": "英文不完整，中文翻译基本正确但缺少上下文"
+    },
+    {
+      "key": "744.839-751.620",
+      "start": 744.839,
+      "end": 751.62,
+      "en_full": "South Africa and I couldn't bear to come",
+      "zh": "南非和我都受不了来",
+      "verdict": "wrong",
+      "reason": "英文是 'South Africa and I couldn't bear to come'，中文翻译为 '南非和我都受不了来'，但英文意思是 '南非和我都受不了来' 不通顺，实际英文可能是 'South Africa and I couldn't bear to come' 但中文翻译错误，应该是 '南非，我受不了不来' 或类似，但中文翻译完全错误。"
+    },
+    {
+      "key": "751.620-755.579",
+      "start": 751.62,
+      "end": 755.579,
+      "en_full": "too so that's how I ended up here by",
+      "zh": "所以我就这样来到了这里。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "755.579-759.180",
+      "start": 755.579,
+      "end": 759.18,
+      "en_full": "this being a solo trip and I think the reason I received so many questions",
+      "zh": "这是一次独自旅行，我想这就是为什么我收到了这么多问题。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "759.180-765.300",
+      "start": 759.18,
+      "end": 765.3,
+      "en_full": "Africa does have some safety concerns",
+      "zh": "非洲确实存在一些安全问题。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "765.300-770.160",
+      "start": 765.3,
+      "end": 770.16,
+      "en_full": "lived here or who are from here or locals while I've been here everyone's",
+      "zh": "我在这里期间，遇到的本地人或来自这里的人，每个人都……",
+      "verdict": "partial",
+      "reason": "英文是 'lived here or who are from here or locals while I've been here everyone's'，中文翻译为 '我在这里期间，遇到的本地人或来自这里的人，每个人都……'，但英文中 'lived here or who are from here' 没有翻译，且 'everyone's' 后面还有内容。",
+      "missing_info": "lived here or who are from here, everyone's (后面还有内容)"
+    },
+    {
+      "key": "770.160-775.800",
+      "start": 770.16,
+      "end": 775.8,
+      "en_full": "to be careful not so much at nice",
+      "zh": "小心点，别太客气了。",
+      "verdict": "wrong",
+      "reason": "英文是 'to be careful not so much at nice'，中文翻译为 '小心点，别太客气了。' 但英文意思可能是 '要小心，不要太……'，但中文翻译完全错误，'not so much at nice' 不是 '别太客气'。"
+    },
+    {
+      "key": "775.800-781.260",
+      "start": 775.8,
+      "end": 781.26,
+      "en_full": "I had a great time this was definitely a",
+      "zh": "我玩得很开心，这绝对是一次难忘的经历。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "781.260-786.420",
+      "start": 781.26,
+      "end": 786.42,
+      "en_full": "hesitant about coming here by yourself or you don't have a lot of travel",
+      "zh": "你是不太敢自己来，还是旅行经验不多？",
+      "verdict": "partial",
+      "reason": "英文是 'hesitant about coming here by yourself or you don't have a lot of travel'，中文翻译为 '你是不太敢自己来，还是旅行经验不多？' 但英文中 'hesitant about coming here by yourself' 翻译正确，但 'or you don't have a lot of travel' 翻译为 '旅行经验不多' 基本正确，但英文不完整，中文翻译成了问句，而英文是陈述句片段。",
+      "missing_info": "英文不完整，中文翻译添加了问句形式"
+    },
+    {
+      "key": "786.420-791.279",
+      "start": 786.42,
+      "end": 791.279,
+      "en_full": "have to be more cautious I would recommend coming on a tour and honestly",
+      "zh": "必须更加谨慎，我建议跟团来，说实话。",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "791.279-796.560",
+      "start": 791.279,
+      "end": 796.56,
+      "en_full": "you get so much out of Tours so I think a tour would also be super awesome I",
+      "zh": "你从旅行中收获这么多，我觉得再来一次旅行也会超级棒。",
+      "verdict": "partial",
+      "reason": "漏译了 'so I think a tour would also be super awesome' 中的 'also' 和 'super awesome' 的强调语气，且 '再来一次旅行' 与原文 'a tour' 不完全对应，原文未明确是 '再来一次'。",
+      "missing_info": "英文中 'also' 和 'super awesome' 的强调语气未体现，且 'a tour' 未明确是 '再来一次'。"
+    },
+    {
+      "key": "796.560-800.519",
+      "start": 796.56,
+      "end": 800.519,
+      "en_full": "hope you guys enjoyed coming along with me on this one and I will see you next",
+      "zh": "希望大家喜欢这次跟我一起的旅行，下次见",
+      "verdict": "pass",
+      "reason": ""
+    },
+    {
+      "key": "800.519-807.779",
+      "start": 800.519,
+      "end": 807.779,
+      "en_full": "time bye foreign",
+      "zh": "时间到了，再见，外国朋友。",
+      "verdict": "wrong",
+      "reason": "英文 'time bye foreign' 是口语化的告别，意为 '时间到了，再见，外国朋友'，但中文 '时间到了，再见，外国朋友。' 添加了 '外国朋友'，而原文 'foreign' 可能只是语气词或误写，且 'foreign' 单独成段，此处翻译不准确。"
+    },
+    {
+      "key": "807.779-810.620",
+      "start": 807.779,
+      "end": 810.62,
+      "en_full": "foreign",
+      "zh": "外国的",
+      "verdict": "pass",
+      "reason": ""
+    }
+  ],
+  "stats": {
+    "pass": 56,
+    "partial": 77,
+    "wrong": 12
+  }
+}

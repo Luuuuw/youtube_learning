@@ -10,8 +10,15 @@ import VideoQuiz from './video-quiz';
 import ShadowSpeak from './shadow-speak';
 import { Subtitle } from '@/lib/vtt-parser';
 import { useAuth } from '@/lib/auth-context';
+<<<<<<< Updated upstream
 import { binarySearchSubtitleIndex, getSubtitleAtTime, buildSubtitleTranslationMap, getActiveWordIndex } from '@/lib/subtitle-sync';
 import { classifyWord } from '@/lib/word-classify';
+=======
+import { binarySearchSubtitleIndex, getSubtitleAtTime, buildSubtitleTranslationMap } from '@/lib/subtitle-sync';
+import { useSentenceLoop } from '@/hooks/use-sentence-loop';
+import { useSegmentLoop } from '@/hooks/use-segment-loop';
+import CurrentSubtitleCard from '@/components/current-subtitle-card';
+>>>>>>> Stashed changes
 
 interface VideoLearningPageProps {
   id: string;
@@ -51,6 +58,11 @@ export default function VideoLearningPage({
   const [quizOpen, setQuizOpen] = useState(false);
   const [shadowSpeakOpen, setShadowSpeakOpen] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
+<<<<<<< Updated upstream
+=======
+  const { loopingSubId, setLoopingSubId } = useSentenceLoop(videoRef, subtitles);
+  const { segmentLoopRange, setSegmentLoopRange } = useSegmentLoop(videoRef);
+>>>>>>> Stashed changes
   const settingsRef = useRef<HTMLDivElement>(null);
   const lastSubtitleSyncAtRef = useRef(0);
   const activeSubtitleIndexRef = useRef(-1);
@@ -232,6 +244,77 @@ export default function VideoLearningPage({
     lastSubtitleSyncAtRef.current = Date.now();
     setCurrentTime(time);
   }, [subtitles]);
+
+  // Track current subtitle for below-video action buttons
+  const currentSubRef = useRef<typeof subtitles[number] | null>(null);
+  const slowReplayTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  useEffect(() => {
+    const idx = binarySearchSubtitleIndex(subtitles, currentTime);
+    currentSubRef.current = (idx >= 0 && idx < subtitles.length) ? subtitles[idx] : null;
+  }, [subtitles, currentTime]);
+
+  useEffect(() => {
+    return () => {
+      if (slowReplayTimerRef.current) clearTimeout(slowReplayTimerRef.current);
+    };
+  }, []);
+
+  const handleToggleCurrentSentenceLoop = useCallback(() => {
+    const sub = currentSubRef.current;
+    if (!sub) return;
+    // Mutual exclusion: cancel segment loop when starting sentence loop
+    if (loopingSubId !== sub.id) {
+      setSegmentLoopRange(null);
+      setLoopingSubId(sub.id);
+      if (videoRef.current) {
+        videoRef.current.currentTime = sub.startTime;
+        videoRef.current.play().catch(() => {});
+      }
+    } else {
+      setLoopingSubId(null);
+    }
+  }, [loopingSubId, setLoopingSubId, setSegmentLoopRange, videoRef]);
+
+  const handleSlowReplayCurrent = useCallback(() => {
+    const sub = currentSubRef.current;
+    const video = videoRef.current;
+    if (!sub || !video) return;
+    if (slowReplayTimerRef.current) {
+      clearTimeout(slowReplayTimerRef.current);
+      slowReplayTimerRef.current = null;
+    }
+    const prevRate = video.playbackRate || 1;
+    video.currentTime = sub.startTime;
+    video.playbackRate = 0.7;
+    video.play().catch(() => {});
+    const durMs = Math.max(0, (sub.endTime - sub.startTime) / 0.7 * 1000 + 80);
+    slowReplayTimerRef.current = setTimeout(() => {
+      if (videoRef.current) videoRef.current.playbackRate = prevRate;
+      slowReplayTimerRef.current = null;
+    }, durMs);
+  }, [videoRef]);
+
+  const handleReplayCurrent = useCallback(() => {
+    const sub = currentSubRef.current;
+    const video = videoRef.current;
+    if (!sub || !video) return;
+    if (slowReplayTimerRef.current) {
+      clearTimeout(slowReplayTimerRef.current);
+      slowReplayTimerRef.current = null;
+    }
+    video.playbackRate = 1;
+    video.currentTime = sub.startTime;
+    video.play().catch(() => {});
+  }, [videoRef]);
+
+  const handleSegmentLoopChange = useCallback((range: { startTime: number; endTime: number } | null) => {
+    if (range) {
+      // Mutual exclusion: cancel sentence loop when starting segment loop
+      setLoopingSubId(null);
+    }
+    setSegmentLoopRange(range);
+  }, [setLoopingSubId, setSegmentLoopRange]);
 
   return (
     <div className="h-[100dvh] flex flex-col bg-background text-foreground overflow-hidden">
@@ -429,7 +512,7 @@ export default function VideoLearningPage({
         </div>
       )}
 
-      <div className="flex-1 flex flex-col lg:flex-row gap-0 lg:gap-4 overflow-hidden px-2 sm:px-4 py-2 sm:py-4">
+      <div className="flex-1 flex flex-col lg:flex-row gap-0 lg:gap-4 overflow-y-auto overflow-x-hidden px-2 sm:px-4 py-2 sm:py-4">
         <div className={`shrink-0 transition-all duration-500 ${blindMode ? 'lg:flex-none lg:max-w-[1200px] mx-auto' : 'lg:flex-[3]'}`}>
           <VideoPlayer
             videoUrl={videoUrl}
@@ -440,6 +523,7 @@ export default function VideoLearningPage({
             blindMode={blindMode}
           />
           <div className="mt-1 sm:mt-3 px-1 hidden sm:block">
+<<<<<<< Updated upstream
             {(() => {
               const currentSub = getSubtitleAtTime(subtitles, currentTime);
               if (!currentSub) {
@@ -479,6 +563,26 @@ export default function VideoLearningPage({
                 </div>
               );
             })()}
+=======
+            <CurrentSubtitleCard
+              subtitle={getSubtitleAtTime(subtitles, currentTime)}
+              zhText={(() => {
+                const sub = getSubtitleAtTime(subtitles, currentTime);
+                return sub ? getZhText(sub) : null;
+              })()}
+              currentTime={currentTime}
+              videoRef={videoRef}
+              highlightWords={highlightWords}
+              translating={translating}
+              videoId={id}
+              loopingSubId={loopingSubId}
+              onToggleSentenceLoop={handleToggleCurrentSentenceLoop}
+              segmentLoopRange={segmentLoopRange}
+              onSegmentLoopChange={handleSegmentLoopChange}
+              onSlowReplay={handleSlowReplayCurrent}
+              onReplay={handleReplayCurrent}
+            />
+>>>>>>> Stashed changes
           </div>
         </div>
 

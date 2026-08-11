@@ -1,0 +1,246 @@
+{
+  "videoId": "dAKrO_NXnjI",
+  "generatedAt": "2026-08-11T06:23:27.719Z",
+  "cards": [
+    {
+      "id": "mso9y0vauswube",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "granola",
+      "back": "格兰诺拉麦片 (noun, B1)",
+      "context": "I'm gonna make a little yogurt bowl with this coconut yogurt and this **granola**.",
+      "audioStart": 81.88,
+      "audioEnd": 88.36,
+      "word": "granola",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.718Z"
+    },
+    {
+      "id": "mso9y0vae6r62a",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "passion fruit",
+      "back": "百香果 (noun, B1)",
+      "context": "And I bought some **passion fruits** and they're beautiful.",
+      "audioStart": 89,
+      "audioEnd": 96.24,
+      "word": "passion fruit",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.718Z"
+    },
+    {
+      "id": "mso9y0va4f72ml",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trampoline",
+      "back": "蹦床 (noun, B1)",
+      "context": "Oh hello the doggie is on the **trampoline**.",
+      "audioStart": 121.86,
+      "audioEnd": 123.16,
+      "word": "trampoline",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.718Z"
+    },
+    {
+      "id": "mso9y0vaev3e6c",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "baboon",
+      "back": "狒狒 (noun, B2)",
+      "context": "They called the **baboons** baboons so they're like monkeys that are you know just roaming around.",
+      "audioStart": 152.98,
+      "audioEnd": 159.86,
+      "word": "baboon",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.718Z"
+    },
+    {
+      "id": "mso9y0vavyrn86",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "gourmet",
+      "back": "美食的 (adjective, B2)",
+      "context": "So it's a cafe and a **gourmet** health store.",
+      "audioStart": 233.7,
+      "audioEnd": 237.62,
+      "word": "gourmet",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.718Z"
+    },
+    {
+      "id": "mso9y0vakxxd25",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "necessities",
+      "back": "必需品 (noun, B1)",
+      "context": "So we've been going there buying some **necessities** and we've tried their coffee and it is absolutely amazing.",
+      "audioStart": 237.62,
+      "audioEnd": 245.08,
+      "word": "necessities",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.718Z"
+    },
+    {
+      "id": "mso9y0va8vzksj",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "heavenly",
+      "back": "天堂般的 (adjective, B2)",
+      "context": "This is **heavenly**.",
+      "audioStart": 282.24,
+      "audioEnd": 284.14,
+      "word": "heavenly",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.718Z"
+    },
+    {
+      "id": "mso9y0vaxkqub8",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "camouflage",
+      "back": "伪装 (verb, B2)",
+      "context": "She said that it's sometimes like kind of **camouflage** that it's hiding beneath like the bushes.",
+      "audioStart": 408.38,
+      "audioEnd": 414.36,
+      "word": "camouflage",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.718Z"
+    },
+    {
+      "id": "mso9y0vapkuhwm",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "gherkin",
+      "back": "腌黄瓜 (noun, B2)",
+      "context": "We bought some burger buns, **gherkins**, some cheese and ginger ale.",
+      "audioStart": 531.81,
+      "audioEnd": 538.83,
+      "word": "gherkin",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.718Z"
+    },
+    {
+      "id": "mso9y0vb4v1oys",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "adore",
+      "back": "喜爱 (verb, B2)",
+      "context": "I **adore** this store.",
+      "audioStart": 540.45,
+      "audioEnd": 543.33,
+      "word": "adore",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.719Z"
+    },
+    {
+      "id": "mso9y0vbvxc8ww",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "mineral",
+      "back": "矿物的 (adjective, B1)",
+      "context": "We bought some sunscreen and this is a **mineral** sunscreen.",
+      "audioStart": 548.27,
+      "audioEnd": 551.79,
+      "word": "mineral",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.719Z"
+    },
+    {
+      "id": "mso9y0vb55qz3d",
+      "videoId": "dAKrO_NXnjI",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "essential oil",
+      "back": "精油 (noun, B2)",
+      "context": "I found this **essential oil** roll-on perfume.",
+      "audioStart": 573.35,
+      "audioEnd": 576.61,
+      "word": "essential oil",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:27.719Z"
+    }
+  ]
+}

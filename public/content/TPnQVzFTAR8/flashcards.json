@@ -1,0 +1,436 @@
+{
+  "videoId": "TPnQVzFTAR8",
+  "generatedAt": "2026-08-11T06:29:31.310Z",
+  "cards": [
+    {
+      "id": "msoa5tf27kozh9",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "rebook",
+      "back": "重新预订 (verb, B1)",
+      "context": "we were finally able to **rebook** our flight for the next day",
+      "audioStart": 44.6,
+      "audioEnd": 48.04,
+      "word": "rebook",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf23p4xvs",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "venture",
+      "back": "冒险前往 (verb, B2)",
+      "context": "Now we're just **venturing** out",
+      "audioStart": 27.24,
+      "audioEnd": 28.4,
+      "word": "venture",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf25m9xrl",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "delusional",
+      "back": "妄想的 (adjective, C1)",
+      "context": "instead of completely **delusional** and exhausted",
+      "audioStart": 354.32,
+      "audioEnd": 360.32,
+      "word": "delusional",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf2vq3l7m",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "specialize",
+      "back": "专门从事 (verb, B2)",
+      "context": "they **specialized** in soufflés",
+      "audioStart": 492.48,
+      "audioEnd": 496.5,
+      "word": "specialize",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf2tu5mxt",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "archive",
+      "back": "档案 (noun, B2)",
+      "context": "maybe **archive** fashion",
+      "audioStart": 557.04,
+      "audioEnd": 560.12,
+      "word": "archive",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf2tdn8yx",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "appreciate",
+      "back": "欣赏 (verb, B1)",
+      "context": "can really truly **appreciate** all the",
+      "audioStart": 607.48,
+      "audioEnd": 623.84,
+      "word": "appreciate",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf2bzwjsg",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sequin",
+      "back": "镶亮片 (verb, C1)",
+      "context": "but then I **sequined** the front",
+      "audioStart": 698.6,
+      "audioEnd": 702.88,
+      "word": "sequin",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf2hcttxf",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "obsessed",
+      "back": "着迷的 (adjective, B2)",
+      "context": "I'm actually **obsessed** with that",
+      "audioStart": 872.28,
+      "audioEnd": 876.71,
+      "word": "obsessed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf27dceok",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vintage",
+      "back": "复古的 (adjective, B2)",
+      "context": "it was all mostly **vintage** designer",
+      "audioStart": 836.28,
+      "audioEnd": 840.24,
+      "word": "vintage",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf2fmvjea",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stunning",
+      "back": "极美的 (adjective, B2)",
+      "context": "She is **stunning**",
+      "audioStart": 872.28,
+      "audioEnd": 876.71,
+      "word": "stunning",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf2dutd6f",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "gluten-free",
+      "back": "无麸质的 (adjective, B1)",
+      "context": "They had like mostly **gluten-free** and like health food stuff",
+      "audioStart": 456.24,
+      "audioEnd": 459.64,
+      "word": "gluten-free",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5tf2owhkda",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "soufflé",
+      "back": "舒芙蕾 (noun, B2)",
+      "context": "they specialized in **soufflé**s",
+      "audioStart": 492.48,
+      "audioEnd": 496.5,
+      "word": "soufflé",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:31.310Z"
+    },
+    {
+      "id": "msoa5sw45mnk0l",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So we have all of our ___ here.",
+      "back": "bags",
+      "context": "So we have all of our bags here.",
+      "audioStart": 74.6,
+      "audioEnd": 79.6,
+      "hint": "选项：boxes / bags / cases / packs",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.628Z"
+    },
+    {
+      "id": "msoa5sw4vt2ku7",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So we have all of our ___ here.",
+      "back": "bags",
+      "context": "So we have all of our bags here.",
+      "audioStart": 76.2,
+      "audioEnd": 79.6,
+      "hint": "选项：boxes / bags / packs / cases",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.628Z"
+    },
+    {
+      "id": "msoa5sw4hp80pj",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Like I'm not really sure what it is, but it seems really ___.",
+      "back": "cool",
+      "context": "Like I'm not really sure what it is, but it seems really cool.",
+      "audioStart": 558.8,
+      "audioEnd": 563.4,
+      "hint": "选项：nice / good / great / cool",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.628Z"
+    },
+    {
+      "id": "msoa5sw4v5qlvf",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Right now I'm just getting ready for that. Okay, so here's the ___ today.",
+      "back": "outfit",
+      "context": "Right now I'm just getting ready for that. Okay, so here's the outfit today.",
+      "audioStart": 567,
+      "audioEnd": 570.5,
+      "hint": "选项：outfit / look / clothes / dress",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.628Z"
+    },
+    {
+      "id": "msoa5sw4em8jfz",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And then this necklace Monica Vinader, rings Mejuri, and these are from my ___.",
+      "back": "mom",
+      "context": "And then this necklace Monica Vinader, rings Mejuri, and these are from my mom.",
+      "audioStart": 576.8,
+      "audioEnd": 582,
+      "hint": "选项：sister / mom / friend / dad",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.628Z"
+    },
+    {
+      "id": "msoa5sw4fu26b8",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And then this necklace Monica Vinader, rings Mejuri, and these are from my ___.",
+      "back": "mom",
+      "context": "And then this necklace Monica Vinader, rings Mejuri, and these are from my mom.",
+      "audioStart": 578.9,
+      "audioEnd": 582,
+      "hint": "选项：mom / friend / sister / dad",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.628Z"
+    },
+    {
+      "id": "msoa5sw404dvdf",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Did a lot of walking around, had some lunch, and now we're ___.",
+      "back": "back",
+      "context": "Did a lot of walking around, had some lunch, and now we're back.",
+      "audioStart": 628.8,
+      "audioEnd": 632,
+      "hint": "选项：out / here / home / back",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.628Z"
+    },
+    {
+      "id": "msoa5sw4apl3i4",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I think I'm going I don't ___.",
+      "back": "know",
+      "context": "I think I'm going I don't know.",
+      "audioStart": 687.4,
+      "audioEnd": 691.9,
+      "hint": "选项：think / mind / know / care",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.628Z"
+    },
+    {
+      "id": "msoa5sjb0481va",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我现在估计能一口气睡上15个小时 躺下的话能连睡15个小时都不带醒的\nCould go to bed and I ___ ___ up for 15 hours.",
+      "back": "wouldn't / wake",
+      "context": "Could go to bed and I wouldn't wake up for 15 hours.",
+      "audioStart": 638.88,
+      "audioEnd": 643.39,
+      "hint": "wouldn't wake up",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.167Z"
+    },
+    {
+      "id": "msoa5sjb4bkkz5",
+      "videoId": "TPnQVzFTAR8",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "她太惊艳了，我真的爱死。听到了吗？ 我应该试穿一下。\nI ___ ___ do a try-on.",
+      "back": "should / probably",
+      "context": "I should probably do a try-on.",
+      "audioStart": 876.72,
+      "audioEnd": 878.16,
+      "hint": "I should probably",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:30.167Z"
+    }
+  ]
+}

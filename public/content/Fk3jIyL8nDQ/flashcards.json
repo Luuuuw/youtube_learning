@@ -1,0 +1,379 @@
+{
+  "videoId": "Fk3jIyL8nDQ",
+  "generatedAt": "2026-08-11T06:24:21.002Z",
+  "cards": [
+    {
+      "id": "mso9z5zd307ijm",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "pulling",
+      "back": "驶入；拉 (verb, B1)",
+      "context": "Now we're actually **pulling** into the White House.",
+      "audioStart": 0,
+      "audioEnd": 7.28,
+      "word": "pulling",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.001Z"
+    },
+    {
+      "id": "mso9z5zdjzctna",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bowling",
+      "back": "保龄球 (noun, B1)",
+      "context": "Walking down to the **bowling** alley.",
+      "audioStart": 8.02,
+      "audioEnd": 9.72,
+      "word": "bowling",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.001Z"
+    },
+    {
+      "id": "mso9z5zdp92285",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sniper",
+      "back": "狙击手 (noun, B2)",
+      "context": "There's one photo of me up here and there's like literally like a **sniper** like right behind me in the photo.",
+      "audioStart": 9.02,
+      "audioEnd": 14.44,
+      "word": "sniper",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.001Z"
+    },
+    {
+      "id": "mso9z5zdvrw4mr",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "puffy",
+      "back": "蓬松的 (adjective, B2)",
+      "context": "It's too **puffy**.",
+      "audioStart": 33.72,
+      "audioEnd": 35.46,
+      "word": "puffy",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.001Z"
+    },
+    {
+      "id": "mso9z5zd7wxldl",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "monument",
+      "back": "纪念碑 (noun, B1)",
+      "context": "Me and Donnie are going to see the Washington **Monument**, which is the Lincoln Monument, and then the Memorial Monument.",
+      "audioStart": 76.16,
+      "audioEnd": 86.44,
+      "word": "monument",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.001Z"
+    },
+    {
+      "id": "mso9z5zd74fg0h",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "inauguration",
+      "back": "就职典礼 (noun, B2)",
+      "context": "I mean besides the **inauguration**.",
+      "audioStart": 107.06,
+      "audioEnd": 109.19,
+      "word": "inauguration",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.001Z"
+    },
+    {
+      "id": "mso9z5zd1nozgg",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "feast",
+      "back": "盛宴 (noun, B2)",
+      "context": "Donnie's hungry, even though we just ate a turkey, literally a turkey **feast** in the White House.",
+      "audioStart": 158.99,
+      "audioEnd": 162.63,
+      "word": "feast",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.001Z"
+    },
+    {
+      "id": "mso9z5zd5ru9f3",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "architecture",
+      "back": "建筑 (noun, B1)",
+      "context": "It's honestly, it's so crazy like the history, like when you come here, like **architecture** and the history, it's amazing.",
+      "audioStart": 249.49,
+      "audioEnd": 255.33,
+      "word": "architecture",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.001Z"
+    },
+    {
+      "id": "mso9z5zea4qvue",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "exhausted",
+      "back": "筋疲力尽的 (adjective, B1)",
+      "context": "I'm **exhausted**.",
+      "audioStart": 267.05,
+      "audioEnd": 267.83,
+      "word": "exhausted",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.002Z"
+    },
+    {
+      "id": "mso9z5zedghh19",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "mustache",
+      "back": "胡子 (noun, B1)",
+      "context": "I love the **mustache**.",
+      "audioStart": 307.36,
+      "audioEnd": 310.15,
+      "word": "mustache",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.002Z"
+    },
+    {
+      "id": "mso9z5zexsuqov",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stance",
+      "back": "姿势；立场 (noun, B2)",
+      "context": "Oh, the **stance**.",
+      "audioStart": 339.56,
+      "audioEnd": 340.24,
+      "word": "stance",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.002Z"
+    },
+    {
+      "id": "mso9z5ze1nk3l3",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vlog",
+      "back": "视频博客 (noun, B1)",
+      "context": "Alright guys, well I hope you guys enjoyed the **vlog**.",
+      "audioStart": 372.92,
+      "audioEnd": 375.86,
+      "word": "vlog",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:21.002Z"
+    },
+    {
+      "id": "mso9z4uc53nbi1",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Now we're actually pulling into the ___ House",
+      "back": "White",
+      "context": "Now we're actually pulling into the White House.",
+      "audioStart": 0,
+      "audioEnd": 7.3,
+      "hint": "选项：White / Red / Green / Black",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:19.524Z"
+    },
+    {
+      "id": "mso9z4ucd1uurg",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) There's one photo of me up here and there's like literally like a ___ like right behind me in the photo.",
+      "back": "sniper",
+      "context": "There's one photo of me up here and there's like literally like a sniper like right behind me in the photo.",
+      "audioStart": 9,
+      "audioEnd": 17,
+      "hint": "选项：guard / police / sniper / soldier",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:19.524Z"
+    },
+    {
+      "id": "mso9z4uc7qr1yk",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We gotta get it lower. It's too ___",
+      "back": "puffy",
+      "context": "We gotta get it lower. It's too puffy.",
+      "audioStart": 29.2,
+      "audioEnd": 35.5,
+      "hint": "选项：soft / puffy / fluffy / thick",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:19.524Z"
+    },
+    {
+      "id": "mso9z4uc0a54kg",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Okay, we landed in ___",
+      "back": "D.C.",
+      "context": "Okay, we landed in D.C.",
+      "audioStart": 58.2,
+      "audioEnd": 62.6,
+      "hint": "选项：D.C. / N.Y. / U.S. / L.A.",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:19.524Z"
+    },
+    {
+      "id": "mso9z4ucdaxe9o",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So that's the Langer Memorial and that's the Washington ___",
+      "back": "Monument",
+      "context": "So that's the Langer Memorial and that's the Washington Monument.",
+      "audioStart": 91.9,
+      "audioEnd": 96.8,
+      "hint": "选项：Memorial / Statue / Monument / Tower",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:19.524Z"
+    },
+    {
+      "id": "mso9z4uc6ztmbm",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I've been here years. I haven't been here in ___",
+      "back": "years",
+      "context": "I've been here years. I haven't been here in years.",
+      "audioStart": 104.1,
+      "audioEnd": 107.1,
+      "hint": "选项：months / weeks / years / days",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:19.524Z"
+    },
+    {
+      "id": "mso9z4uc6b8k9f",
+      "videoId": "Fk3jIyL8nDQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Donnie's hungry, even though we just ate a turkey, literally a turkey ___ in the White House.",
+      "back": "feast",
+      "context": "Donnie's hungry, even though we just ate a turkey, literally a turkey feast in the White House.",
+      "audioStart": 159,
+      "audioEnd": 162.4,
+      "hint": "选项：dinner / meal / lunch / feast",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:19.524Z"
+    }
+  ]
+}

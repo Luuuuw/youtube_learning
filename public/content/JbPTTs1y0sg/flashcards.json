@@ -1,0 +1,398 @@
+{
+  "videoId": "JbPTTs1y0sg",
+  "generatedAt": "2026-08-11T06:26:00.729Z",
+  "cards": [
+    {
+      "id": "msoa1axk5c4r4u",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "introspective",
+      "back": "内省的，反省的 (adjective, C1)",
+      "context": "Why am I getting so **introspective**?",
+      "audioStart": 20.04,
+      "audioEnd": 21.58,
+      "word": "introspective",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axljoyw00",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "translate",
+      "back": "转化，转变 (verb, B2)",
+      "context": "I always try to somehow **translate** onto video.",
+      "audioStart": 32.64,
+      "audioEnd": 35.94,
+      "word": "translate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axlivdjat",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sucker",
+      "back": "容易着迷的人，易受骗的人 (noun, B2)",
+      "context": "I'm such a **sucker** for a good reset vlog.",
+      "audioStart": 50.32,
+      "audioEnd": 52.82,
+      "word": "sucker",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axlutycex",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "organic",
+      "back": "有机的，天然的 (adjective, B2)",
+      "context": "the ingredients are **organic**",
+      "audioStart": 70.36,
+      "audioEnd": 75.02,
+      "word": "organic",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axlba2akc",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "citrus",
+      "back": "柑橘类水果 (noun, B2)",
+      "context": "Their summer one is very **citrus** focused.",
+      "audioStart": 97.12,
+      "audioEnd": 100.64,
+      "word": "citrus",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axl9ttfcg",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "conducive",
+      "back": "有助于…的，有益的 (adjective, C1)",
+      "context": "it's like so **conducive** for working from home",
+      "audioStart": 174.27,
+      "audioEnd": 178.19,
+      "word": "conducive",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axlpycki0",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "captivated",
+      "back": "着迷的，被迷住的 (adjective, C1)",
+      "context": "I've just been **captivated** by her.",
+      "audioStart": 242.07,
+      "audioEnd": 245.45,
+      "word": "captivated",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axl8fvjja",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "nostalgic",
+      "back": "怀旧的，思乡的 (adjective, B2)",
+      "context": "I always get so **nostalgic** at this corner",
+      "audioStart": 249.09,
+      "audioEnd": 251.53,
+      "word": "nostalgic",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axlnl6bah",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "resonate",
+      "back": "产生共鸣，回响 (verb, C1)",
+      "context": "all of my childhood memories just **resonate** with that house",
+      "audioStart": 265.09,
+      "audioEnd": 270.13,
+      "word": "resonate",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axlctc7aw",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "deteriorated",
+      "back": "恶化，退化 (verb, B2)",
+      "context": "My hand-eye coordination I feel has **deteriorated** the past few years.",
+      "audioStart": 313.73,
+      "audioEnd": 318.63,
+      "word": "deteriorated",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axlg7sogp",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dispersed",
+      "back": "分散，散开 (verb, C1)",
+      "context": "My family is kind of **dispersed** for a little bit.",
+      "audioStart": 362.56,
+      "audioEnd": 365,
+      "word": "dispersed",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa1axla87swp",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "avid",
+      "back": "热衷的，狂热的 (adjective, C1)",
+      "context": "I used to be an **avid** pickleball hater.",
+      "audioStart": 535.16,
+      "audioEnd": 539.1,
+      "word": "avid",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:00.729Z"
+    },
+    {
+      "id": "msoa19mvsme9k0",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It is so ___ today.",
+      "back": "hot",
+      "context": "It is so hot today.",
+      "audioStart": 110.8,
+      "audioEnd": 114.5,
+      "hint": "选项：hot / cold / cool / warm",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:59.047Z"
+    },
+    {
+      "id": "msoa19mvaq8azu",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I always get so ___ at this corner because this is",
+      "back": "nostalgic",
+      "context": "I always get so nostalgic at this corner because this is",
+      "audioStart": 249.1,
+      "audioEnd": 252.3,
+      "hint": "选项：nostalgic / happy / angry / sad",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:59.047Z"
+    },
+    {
+      "id": "msoa19mvjbh1nb",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Like the truest, ___ form of me is here.",
+      "back": "purest",
+      "context": "Like the truest, purest form of me is here.",
+      "audioStart": 16.8,
+      "audioEnd": 20,
+      "hint": "选项：best / highest / worst / purest",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:59.047Z"
+    },
+    {
+      "id": "msoa19mviay9dg",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) When I was in Paris and stuff, I did ___ for Ophelia.",
+      "back": "nothing",
+      "context": "When I was in Paris and stuff, I did nothing for Ophelia.",
+      "audioStart": 199.1,
+      "audioEnd": 202.7,
+      "hint": "选项：anything / something / everything / nothing",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:59.047Z"
+    },
+    {
+      "id": "msoa19mvbaqw7k",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) you guys know I've been like really ___ to a lot of products the past couple years so",
+      "back": "sensitive",
+      "context": "you guys know I've been like really sensitive to a lot of products the past couple years so",
+      "audioStart": 64.5,
+      "audioEnd": 68,
+      "hint": "选项：allergic / responsive / sensitive / reactive",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:59.047Z"
+    },
+    {
+      "id": "msoa19mvnqec74",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I don't know if that is even ___, but I hope",
+      "back": "possible",
+      "context": "I don't know if that is even possible, but I hope",
+      "audioStart": 36.2,
+      "audioEnd": 39.5,
+      "hint": "选项：likely / probable / feasible / possible",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:59.047Z"
+    },
+    {
+      "id": "msoa19vjljf18n",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "闻起来就是清新的夏日感。 真希望你能隔着屏幕闻到这味道。\nI ___ ___ there was a way for you to smell this through the screen.",
+      "back": "wish / that",
+      "context": "I wish that there was a way for you to smell this through the screen.",
+      "audioStart": 90.959,
+      "audioEnd": 94.219,
+      "hint": "wish that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:59.359Z"
+    },
+    {
+      "id": "msoa19vjt8jtca",
+      "videoId": "JbPTTs1y0sg",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我现在爱上咖啡了，所以很珍惜 Caribou 能带来的每一份体验。\nCaribou has to offer ___ ___ I can enjoy it.",
+      "back": "now / that",
+      "context": "Caribou has to offer now that I can enjoy it.",
+      "audioStart": 402.305,
+      "audioEnd": 405.106,
+      "hint": "now that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:59.359Z"
+    }
+  ]
+}

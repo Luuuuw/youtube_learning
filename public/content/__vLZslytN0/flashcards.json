@@ -1,0 +1,417 @@
+{
+  "videoId": "__vLZslytN0",
+  "generatedAt": "2026-08-11T06:32:03.684Z",
+  "cards": [
+    {
+      "id": "msoa92znz0c6g9",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trivia",
+      "back": "琐事；冷知识 (noun, B2)",
+      "context": "Round one, general comic **trivia**.",
+      "audioStart": 13,
+      "audioEnd": 15.48,
+      "word": "trivia",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92znnwi6ff",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "iconic",
+      "back": "标志性的；偶像级的 (adjective, B2)",
+      "context": "What **iconic** line did Uncle Ben say to Peter Parker?",
+      "audioStart": 16.9,
+      "audioEnd": 20.28,
+      "word": "iconic",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92zno5i1dk",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "supervillain",
+      "back": "超级反派 (noun, B2)",
+      "context": "What **supervillain** does Ned Leeds become in the comics?",
+      "audioStart": 35.06,
+      "audioEnd": 39.48,
+      "word": "supervillain",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92znjw0mln",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "jackpot",
+      "back": "头奖；巨大成功 (noun, B2)",
+      "context": "You hit the **jackpot**.",
+      "audioStart": 62.82,
+      "audioEnd": 63.5,
+      "word": "jackpot",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92znnkb03d",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "multiverse",
+      "back": "多元宇宙 (noun, B2)",
+      "context": "This is MCU, sort of wider MCU **multiverse** knowledge.",
+      "audioStart": 110.36,
+      "audioEnd": 114.58,
+      "word": "multiverse",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92znqomevy",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "audition",
+      "back": "试镜；试音 (noun, B2)",
+      "context": "Who filmed Tom Holland's **audition** video?",
+      "audioStart": 237.23,
+      "audioEnd": 239.25,
+      "word": "audition",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92znsvgcrn",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "leak",
+      "back": "泄露；泄漏 (verb, B2)",
+      "context": "What did Willem Dafoe wear on set to prevent his appearance in Spider-Man No Way Home from being **leaked**?",
+      "audioStart": 256.47,
+      "audioEnd": 262.69,
+      "word": "leak",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92zn2a8m34",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stunt",
+      "back": "特技；惊险动作 (noun, B2)",
+      "context": "Name both of Tom's **stunt** doubles.",
+      "audioStart": 273.79,
+      "audioEnd": 275.59,
+      "word": "stunt",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92zngolig0",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "slander",
+      "back": "口头诽谤 (noun, C1)",
+      "context": "**Slander** is spoken.",
+      "audioStart": 430.2,
+      "audioEnd": 432.46,
+      "word": "slander",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92znmwent9",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "libel",
+      "back": "书面诽谤 (noun, C1)",
+      "context": "In print, it's **libel**.",
+      "audioStart": 448.36,
+      "audioEnd": 450.58,
+      "word": "libel",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92znqvoq6g",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "abstract",
+      "back": "抽象的 (adjective, B2)",
+      "context": "A little **abstract**.",
+      "audioStart": 523.58,
+      "audioEnd": 525.96,
+      "word": "abstract",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92znu40xid",
+      "videoId": "__vLZslytN0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "rapid",
+      "back": "快速的；迅速的 (adjective, B2)",
+      "context": "So guys, this is the **rapid** fire round.",
+      "audioStart": 569.48,
+      "audioEnd": 570.66,
+      "word": "rapid",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.683Z"
+    },
+    {
+      "id": "msoa92tyacuc90",
+      "videoId": "__vLZslytN0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I'm Zendaya. I'm John. I'm Sadie. I'm Jacob. And today, with the cast of Spider-Man Brand New Day, we are taking GQ's ___ Quiz.",
+      "back": "Pop",
+      "context": "I'm Zendaya. I'm John. I'm Sadie. I'm Jacob. And today, with the cast of Spider-Man Brand New Day, we are taking GQ's Pop Quiz.",
+      "audioStart": 1.4,
+      "audioEnd": 8.2,
+      "hint": "选项：Movie / Pop / Music / TV",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.478Z"
+    },
+    {
+      "id": "msoa92ty1hoojw",
+      "videoId": "__vLZslytN0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Round one, general comic ___.",
+      "back": "trivia",
+      "context": "Round one, general comic trivia.",
+      "audioStart": 6,
+      "audioEnd": 14,
+      "hint": "选项：knowledge / facts / history / trivia",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.478Z"
+    },
+    {
+      "id": "msoa92tyw6y2n4",
+      "videoId": "__vLZslytN0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Oh, shit. Stanley and Steve Ditko. It's mine for ___.",
+      "back": "Tom",
+      "context": "Oh, shit. Stanley and Steve Ditko. It's mine for Tom.",
+      "audioStart": 29.4,
+      "audioEnd": 34.9,
+      "hint": "选项：Tom / Peter / Miles / Harry",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.478Z"
+    },
+    {
+      "id": "msoa92tyqiv9sa",
+      "videoId": "__vLZslytN0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Shout out, Dan. This is MCU, sort of wider MCU multiverse ___. Nice.",
+      "back": "knowledge",
+      "context": "Shout out, Dan. This is MCU, sort of wider MCU multiverse knowledge. Nice.",
+      "audioStart": 109,
+      "audioEnd": 115.6,
+      "hint": "选项：concept / universe / knowledge / story",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.478Z"
+    },
+    {
+      "id": "msoa92tychtjhh",
+      "videoId": "__vLZslytN0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Science and ___. I'll accept it. Question two.",
+      "back": "Technology",
+      "context": "Science and Technology. I'll accept it. Question two.",
+      "audioStart": 127.9,
+      "audioEnd": 132,
+      "hint": "选项：Art / Math / History / Technology",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.478Z"
+    },
+    {
+      "id": "msoa92tybvcavf",
+      "videoId": "__vLZslytN0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I honestly forgot. I think that was Zendaya. I'm a little more ___.",
+      "back": "cloaked",
+      "context": "I honestly forgot. I think that was Zendaya. I'm a little more cloaked.",
+      "audioStart": 260.9,
+      "audioEnd": 268,
+      "hint": "选项：confused / hidden / cloaked / quiet",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:03.478Z"
+    },
+    {
+      "id": "msoa91dawntlk7",
+      "videoId": "__vLZslytN0",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "妖精战士之类的。 妖精战士之类的。\nI ___ not ___ ___ that.",
+      "back": "would / have / got",
+      "context": "I would not have got that.",
+      "audioStart": 229.27,
+      "audioEnd": 230.17,
+      "hint": "would have got",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:01.582Z"
+    },
+    {
+      "id": "msoa91da6fxi8x",
+      "videoId": "__vLZslytN0",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "一条，两条。 一分一毛，走起。\nDamn, I ___ ___ ___ ___.",
+      "back": "would / have / never / known",
+      "context": "Damn, I would have never known.",
+      "audioStart": 391.291,
+      "audioEnd": 393.641,
+      "hint": "would have never known",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:01.582Z"
+    },
+    {
+      "id": "msoa91danx1hhu",
+      "videoId": "__vLZslytN0",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "这个我不好说 我本来可以多拿几个的\nI ___ ___ ___ a couple more.",
+      "back": "could / have / gotten",
+      "context": "I could have gotten a couple more.",
+      "audioStart": 777.552,
+      "audioEnd": 778.773,
+      "hint": "could have gotten",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:32:01.582Z"
+    }
+  ]
+}

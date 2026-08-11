@@ -1,0 +1,398 @@
+{
+  "videoId": "0EqunhSq-7c",
+  "generatedAt": "2026-08-11T06:20:24.388Z",
+  "cards": [
+    {
+      "id": "mso9u3esurwnlv",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "freshen",
+      "back": "使清新，梳洗 (verb, B2)",
+      "context": "okay so i've decided to shower and just **freshen** up after that flight",
+      "audioStart": 94.36,
+      "audioEnd": 98.14,
+      "word": "freshen",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3es7row24",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hangry",
+      "back": "饿怒的（因饥饿而暴躁） (adjective, B1)",
+      "context": "i am feeling so incredibly **hangry** i was crashing up before my shower",
+      "audioStart": 110.4,
+      "audioEnd": 114.24,
+      "word": "hangry",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3esp7adhd",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "upset",
+      "back": "使不适，使心烦 (verb, B1)",
+      "context": "i don't like showering right after a meal because i feel like it always **upsets** my stomach",
+      "audioStart": 121.82,
+      "audioEnd": 125.04,
+      "word": "upset",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3es7lai0m",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "rushing",
+      "back": "匆忙，赶紧 (verb, B1)",
+      "context": "And now I'm just **rushing** to get my makeup done so then I can go eat.",
+      "audioStart": 127.46,
+      "audioEnd": 131.26,
+      "word": "rushing",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3esjo5tr0",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vanity",
+      "back": "梳妆台 (noun, B2)",
+      "context": "This is just the **vanity** where I got ready.",
+      "audioStart": 142.4,
+      "audioEnd": 144.52,
+      "word": "vanity",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3essrtz71",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "outfit",
+      "back": "全套服装 (noun, B1)",
+      "context": "And then this is the **outfit** that I pulled that I'm going to wear today.",
+      "audioStart": 144.28,
+      "audioEnd": 147.4,
+      "word": "outfit",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3esws39nz",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "recommend",
+      "back": "推荐 (verb, B1)",
+      "context": "This is the one that Ainsley **recommended**.",
+      "audioStart": 189.42,
+      "audioEnd": 191.4,
+      "word": "recommend",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3esql9rtl",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "caffeine",
+      "back": "咖啡因 (noun, B2)",
+      "context": "This is really so much **caffeine** to have like the Earl, Ice Banner, and the matcha cream top",
+      "audioStart": 205.54,
+      "audioEnd": 208.88,
+      "word": "caffeine",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3esr37g04",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "escaped",
+      "back": "摆脱，逃离 (verb, B2)",
+      "context": "I just feel like I've completely **escaped** the winter blues.",
+      "audioStart": 226.14,
+      "audioEnd": 229.92,
+      "word": "escaped",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3esr2is18",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stipend",
+      "back": "津贴，补贴 (noun, C1)",
+      "context": "But AppleBully on a meal **stipend**.",
+      "audioStart": 315.56,
+      "audioEnd": 318.34,
+      "word": "stipend",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3es309cnv",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "embroidery",
+      "back": "刺绣 (noun, B2)",
+      "context": "so bead **embroidery** ranch",
+      "audioStart": 409.98,
+      "audioEnd": 427.16,
+      "word": "embroidery",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u3escx692h",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "ornament",
+      "back": "装饰品 (noun, B2)",
+      "context": "there's even dill pickle **ornament** that's cute",
+      "audioStart": 430.04,
+      "audioEnd": 444.24,
+      "word": "ornament",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:24.388Z"
+    },
+    {
+      "id": "mso9u25vzfvxs3",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) a Sephora and I just picked up this travel size Clinique take the day off cleansing ___",
+      "back": "mom",
+      "context": "a Sephora and I just picked up this travel size Clinique take the day off cleansing mom.",
+      "audioStart": 495.1,
+      "audioEnd": 499.5,
+      "hint": "选项：dad / brother / mom / sister",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:22.771Z"
+    },
+    {
+      "id": "mso9u25vz9v2np",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) a Sephora and I just picked up this travel size Clinique take the day off cleansing ___",
+      "back": "mom",
+      "context": "a Sephora and I just picked up this travel size Clinique take the day off cleansing mom.",
+      "audioStart": 495.1,
+      "audioEnd": 499.5,
+      "hint": "选项：mom / brother / dad / sister",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:22.771Z"
+    },
+    {
+      "id": "mso9u25v4myhib",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) shower because i I felt like that would make me feel the ___",
+      "back": "best",
+      "context": "shower because i I felt like that would make me feel the best.",
+      "audioStart": 124,
+      "audioEnd": 127.5,
+      "hint": "选项：best / worst / happiest / saddest",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:22.771Z"
+    },
+    {
+      "id": "mso9u25vmcr9cc",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So, I ended up getting a ___ plate.",
+      "back": "combo",
+      "context": "So, I ended up getting a combo plate.",
+      "audioStart": 293.7,
+      "audioEnd": 298.2,
+      "hint": "选项：triple / combo / double / single",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:22.771Z"
+    },
+    {
+      "id": "mso9u25vs16nz2",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) not going to be my ___ But I still want to check it out and see what",
+      "back": "scene",
+      "context": "not going to be my scene But I still want to check it out and see what",
+      "audioStart": 237.6,
+      "audioEnd": 240.7,
+      "hint": "选项：thing / style / scene / taste",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:22.771Z"
+    },
+    {
+      "id": "mso9u25v2ejb7q",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Banner, and the matcha cream top, but they're both so ___",
+      "back": "good",
+      "context": "Banner, and the matcha cream top, but they're both so good.",
+      "audioStart": 203.6,
+      "audioEnd": 208.6,
+      "hint": "选项：great / bad / good / terrible",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:22.771Z"
+    },
+    {
+      "id": "mso9u25vl9hyhz",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This was ___ USD.",
+      "back": "20",
+      "context": "This was 20 USD.",
+      "audioStart": 290.2,
+      "audioEnd": 293.7,
+      "hint": "选项：30 / 20 / 10 / 50",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:22.771Z"
+    },
+    {
+      "id": "mso9u25vsszfl9",
+      "videoId": "0EqunhSq-7c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) a Sephora and I just picked up this travel size Clinique take the day off cleansing ___",
+      "back": "mom",
+      "context": "a Sephora and I just picked up this travel size Clinique take the day off cleansing mom.",
+      "audioStart": 495.1,
+      "audioEnd": 499.5,
+      "hint": "选项：mom / sister / brother / dad",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:22.771Z"
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "videoId": "8F3GXmc-Pt4",
+  "generatedAt": "2026-08-11T06:21:48.417Z",
+  "cards": [
+    {
+      "id": "mso9vw8w4kr528",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "manuscript",
+      "back": "手稿，原稿 (noun, B2)",
+      "context": "I first started thinking about this idea at a museum exhibit that had an Octavia Butler **manuscript**.",
+      "audioStart": 97.08,
+      "audioEnd": 102.2,
+      "word": "manuscript",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.416Z"
+    },
+    {
+      "id": "mso9vw8w3kgqqt",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "prolific",
+      "back": "多产的 (adjective, C1)",
+      "context": "Here's someone who I look up to, a **prolific** creative who created work that has influenced the world.",
+      "audioStart": 113.8,
+      "audioEnd": 123.36,
+      "word": "prolific",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.416Z"
+    },
+    {
+      "id": "mso9vw8wj1xe6s",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dictate",
+      "back": "口述，听写 (verb, B2)",
+      "context": "Dostoevsky **dictated** his books to stenographers.",
+      "audioStart": 129.3,
+      "audioEnd": 132.26,
+      "word": "dictate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.416Z"
+    },
+    {
+      "id": "mso9vw8xzocyv3",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stenographer",
+      "back": "速记员 (noun, C1)",
+      "context": "Dostoevsky dictated his books to **stenographers**.",
+      "audioStart": 129.3,
+      "audioEnd": 132.26,
+      "word": "stenographer",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.417Z"
+    },
+    {
+      "id": "mso9vw8xdjsdu5",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "distraction",
+      "back": "分心，干扰 (noun, B2)",
+      "context": "And **distraction** is much more of a limiting factor than typing speed.",
+      "audioStart": 183,
+      "audioEnd": 187.36,
+      "word": "distraction",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.417Z"
+    },
+    {
+      "id": "mso9vw8xqdveoh",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bottleneck",
+      "back": "瓶颈，阻碍 (noun, C1)",
+      "context": "Efficiency is not the **bottleneck** to creating great work.",
+      "audioStart": 170.14,
+      "audioEnd": 174.06,
+      "word": "bottleneck",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.417Z"
+    },
+    {
+      "id": "mso9vw8x1xppvc",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "optimize",
+      "back": "优化 (verb, B2)",
+      "context": "But today, it seems that we **optimize** around making tools more complicated and more efficient.",
+      "audioStart": 40.42,
+      "audioEnd": 50.54,
+      "word": "optimize",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.417Z"
+    },
+    {
+      "id": "mso9vw8x9jj7ce",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "counter",
+      "back": "相反的，对立的 (adjective, C1)",
+      "context": "Which might actually be **counter** to producing great work.",
+      "audioStart": 45.06,
+      "audioEnd": 50.54,
+      "word": "counter",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.417Z"
+    },
+    {
+      "id": "mso9vw8xbkiouy",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "overwhelming",
+      "back": "令人不知所措的 (adjective, B2)",
+      "context": "It can be really **overwhelming** and I end up not getting any meaningful work done.",
+      "audioStart": 236.7,
+      "audioEnd": 245.86,
+      "word": "overwhelming",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.417Z"
+    },
+    {
+      "id": "mso9vw8xqncbfk",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "phenomenon",
+      "back": "现象 (noun, B2)",
+      "context": "And it's not just me, this is a pretty common **phenomenon**.",
+      "audioStart": 250.38,
+      "audioEnd": 255.32,
+      "word": "phenomenon",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.417Z"
+    },
+    {
+      "id": "mso9vw8xzx63ob",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "resistance",
+      "back": "抵触，抗拒 (noun, C1)",
+      "context": "Something that I've been trying to work out is why I have this **resistance** to using less efficient tools when it comes to producing work.",
+      "audioStart": 304.6,
+      "audioEnd": 314.7,
+      "word": "resistance",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.417Z"
+    },
+    {
+      "id": "mso9vw8xxz35yn",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trade-off",
+      "back": "权衡，取舍 (noun, C1)",
+      "context": "Seeing how that influences the quality of the work that I produce and whether or not it's worth the efficiency **trade-off**.",
+      "audioStart": 335.74,
+      "audioEnd": 347.26,
+      "word": "trade-off",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:48.417Z"
+    },
+    {
+      "id": "mso9vv6e3h23wf",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) But what I realized recently is that this is actually kind of ___",
+      "back": "backwards",
+      "context": "But what I realized recently is that this is actually kind of backwards.",
+      "audioStart": 166.6,
+      "audioEnd": 171.9,
+      "hint": "选项：backwards / upward / sideways / forward",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:47.030Z"
+    },
+    {
+      "id": "mso9vv6e9apdae",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) A great author is generally not limited by their ___ speed",
+      "back": "typing",
+      "context": "A great author is generally not limited by their typing speed.",
+      "audioStart": 171.9,
+      "audioEnd": 178.4,
+      "hint": "选项：thinking / writing / reading / typing",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:47.030Z"
+    },
+    {
+      "id": "mso9vv6enzhgxh",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) tools might be working ___ to what it is that you're trying to do",
+      "back": "counter",
+      "context": "tools might be working counter to what it is that you're trying to do.",
+      "audioStart": 297.4,
+      "audioEnd": 302.8,
+      "hint": "选项：counter / parallel / similar / according",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:47.030Z"
+    },
+    {
+      "id": "mso9vv6e8t63az",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I first started thinking about this idea at a museum ___ that had an Octavia Butler manuscript",
+      "back": "exhibit",
+      "context": "I first started thinking about this idea at a museum exhibit that had an Octavia Butler manuscript.",
+      "audioStart": 97,
+      "audioEnd": 102.4,
+      "hint": "选项：exhibit / gallery / collection / display",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:47.030Z"
+    },
+    {
+      "id": "mso9vv6eqe9zj3",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And it's not just me, this is a pretty common ___",
+      "back": "phenomenon",
+      "context": "And it's not just me, this is a pretty common phenomenon.",
+      "audioStart": 249.7,
+      "audioEnd": 253.4,
+      "hint": "选项：occurrence / situation / phenomenon / event",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:47.030Z"
+    },
+    {
+      "id": "mso9vv6ejbt3y0",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) that has influenced the world, and they're working in a way completely different from how I ___",
+      "back": "work",
+      "context": "that has influenced the world, and they're working in a way completely different from how I work.",
+      "audioStart": 115.4,
+      "audioEnd": 120.9,
+      "hint": "选项：write / live / think / work",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:47.030Z"
+    },
+    {
+      "id": "mso9vv6ewlmq9j",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) type on a computer, the reality is that a computer has many ___ on it",
+      "back": "distractions",
+      "context": "type on a computer, the reality is that a computer has many distractions on it.",
+      "audioStart": 145.6,
+      "audioEnd": 151.1,
+      "hint": "选项：distractions / attractions / applications / functions",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:47.030Z"
+    },
+    {
+      "id": "mso9vvpfwoeszc",
+      "videoId": "8F3GXmc-Pt4",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "这里有值得验证的东西，我迫不及待想试试 我真希望能跟你分享些更具体的内容，告诉你该\nI ___ ___ I ___ something more concrete to share with you, this is what you should do or what you shouldn't do, but really what I'm trying to do here is just open your eyes to something that I realized that is pretty obvious in retrospect but wasn't obvious to me until I started to think about it in depth.",
+      "back": "wish / that / had",
+      "context": "I wish that I had something more concrete to share with you, this is what you should do or what you shouldn't do, but really what I'm trying to do here is just open your eyes to something that I realized that is pretty obvious in retrospect but wasn't obvious to me until I started to think about it in depth.",
+      "audioStart": 364.817,
+      "audioEnd": 367.596,
+      "hint": "I wish that I had",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:47.715Z"
+    }
+  ]
+}

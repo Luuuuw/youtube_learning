@@ -25,16 +25,28 @@ process-progress.json
 download-progress.json
 
 # video files (too large for git, deploy separately)
-public/content/*/video.mp4
+public/content/**/*.mp4
+public/content/**/*.webm
+public/content/**/*.mkv
 # yt-dlp temporary fragments (e.g. video.f399.mp4.part)
 public/content/**/*.part
 public/content/**/*.ytdl
 public/content/**/*.tmp
 # 补漏脚本 / 翻译流程产生的临时文件
 public/content/**/*.bak-*
+public/content/**/*.old
 public/content/**/.translate-state.json
 # yt-dlp 产生的 webp 缩略图残留（正版是 thumbnail.jpg）
 public/content/**/*.webp
+
+# Safe-Mutation Framework 运行时产物
+# snapshot 备份（每次 AI 写盘前自动 .copyFileSync 出来的备份，轮换保留 5 份）
+public/content/**/*.snapshot-*.bak
+data/**/*.snapshot-*.bak
+# Pending 提案（HITL 等审批的 staging）
+data/ai-pending/
+# Audit log（结构化记录所有 AI 改动 + revert）
+data/ai-audit-log*.json
 # proxy config (contains local proxy address, do not commit)
 proxy_config.json
 

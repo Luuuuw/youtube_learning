@@ -1,0 +1,396 @@
+{
+  "videoId": "Oga1Sx4uGKc",
+  "generatedAt": "2026-08-11T06:27:44.868Z",
+  "cards": [
+    {
+      "id": "msoa3jacutjrr0",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "backpacking",
+      "back": "背包旅行 (noun, B1)",
+      "context": "I'm gonna be going on my first ever **backpacking** trip",
+      "audioStart": 16.3,
+      "audioEnd": 21.7,
+      "word": "backpacking",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3jacahner5",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bruise",
+      "back": "碰伤，擦伤 (verb, B2)",
+      "context": "I just want to get things that aren't going to **bruise** or go bad doing it overnight.",
+      "audioStart": 111.8,
+      "audioEnd": 117.38,
+      "word": "bruise",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3jachstgae",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dehydrated",
+      "back": "脱水的 (adjective, B2)",
+      "context": "I've never had a camp, a **dehydrated** meal before.",
+      "audioStart": 200.88,
+      "audioEnd": 205.82,
+      "word": "dehydrated",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3jacaagtmb",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "filter",
+      "back": "过滤器 (noun, B1)",
+      "context": "it has a **filter** So we'll see how that goes",
+      "audioStart": 251.03,
+      "audioEnd": 257.05,
+      "word": "filter",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3jacggylee",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "elevation",
+      "back": "海拔，高度 (noun, B2)",
+      "context": "it was 8 kilometers of straight uphill and 900 meters of **elevation**.",
+      "audioStart": 469.64,
+      "audioEnd": 475.5,
+      "word": "elevation",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3jac6s3yty",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "persevere",
+      "back": "坚持不懈 (verb, C1)",
+      "context": "Despite the difficulty, we **persevered** nonetheless",
+      "audioStart": 481.12,
+      "audioEnd": 487.84,
+      "word": "persevere",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3jac8j4pke",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "otherworldly",
+      "back": "超凡脱俗的，宛如仙境的 (adjective, C1)",
+      "context": "it's just kind of **otherworldly** up there.",
+      "audioStart": 557,
+      "audioEnd": 563.28,
+      "word": "otherworldly",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3jacz9y29r",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "scramble",
+      "back": "攀爬，攀登 (noun, C1)",
+      "context": "completely uphill **scramble**",
+      "audioStart": 649.17,
+      "audioEnd": 655.03,
+      "word": "scramble",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3jacmu6v3i",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "detour",
+      "back": "绕道，迂回 (noun, B2)",
+      "context": "we wanted to do a quick **detour** to Garibaldi Lake",
+      "audioStart": 684.36,
+      "audioEnd": 690.41,
+      "word": "detour",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3jacy21a9i",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "obligatory",
+      "back": "必须的，义务的 (adjective, C1)",
+      "context": "we stopped for a post-hike **obligatory** burger",
+      "audioStart": 825.92,
+      "audioEnd": 829.2,
+      "word": "obligatory",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.868Z"
+    },
+    {
+      "id": "msoa3j2dq2pf1a",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I also got these water treatment tablets so I don't get a ___.",
+      "back": "disease",
+      "context": "I also got these water treatment tablets so I don't get a disease.",
+      "audioStart": 209,
+      "audioEnd": 215.2,
+      "hint": "选项：disease / infection / sickness / illness",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.581Z"
+    },
+    {
+      "id": "msoa3j2djwm7gb",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And I've tried them a couple times, they're pretty good. And they also don't have any gluten in them. And it's all kind of natural ___ sources.",
+      "back": "protein",
+      "context": "And I've tried them a couple times, they're pretty good. And they also don't have any gluten in them. And it's all kind of natural protein sources.",
+      "audioStart": 226.3,
+      "audioEnd": 234.2,
+      "hint": "选项：carbohydrate / mineral / protein / vitamin",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.581Z"
+    },
+    {
+      "id": "msoa3j2d30q5rx",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's the 65 liter one. I got the ___ one because I'm going to use it when I travel.",
+      "back": "bigger",
+      "context": "It's the 65 liter one. I got the bigger one because I'm going to use it when I travel.",
+      "audioStart": 282.3,
+      "audioEnd": 288.7,
+      "hint": "选项：heavier / smaller / larger / bigger",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.581Z"
+    },
+    {
+      "id": "msoa3j2dru40ie",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's the 65 liter one. I got the bigger one because I'm going to use it when I travel. I need it to go down a little ___.",
+      "back": "bit",
+      "context": "It's the 65 liter one. I got the bigger one because I'm going to use it when I travel. I need it to go down a little bit.",
+      "audioStart": 282.3,
+      "audioEnd": 290.1,
+      "hint": "选项：piece / bit / part / amount",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.581Z"
+    },
+    {
+      "id": "msoa3j2d9cf40n",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I just want to get things that aren't going ___.",
+      "back": "to",
+      "context": "I just want to get things that aren't going",
+      "audioStart": 109.1,
+      "audioEnd": 116.1,
+      "hint": "选项：for / with / at / to",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.581Z"
+    },
+    {
+      "id": "msoa3j2ddem9tl",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) July 28th, got up bright and early at 6.30 in the morning, made myself a ___ and then",
+      "back": "coffee",
+      "context": "July 28th, got up bright and early at 6.30 in the morning, made myself a coffee and then",
+      "audioStart": 404.2,
+      "audioEnd": 409.6,
+      "hint": "选项：tea / milk / juice / coffee",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.581Z"
+    },
+    {
+      "id": "msoa3j2dvpuxbl",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It was August 27th and we had just set out on our grand ___.",
+      "back": "adventure",
+      "context": "It was August 27th and we had just set out on our grand adventure.",
+      "audioStart": 351,
+      "audioEnd": 357.9,
+      "hint": "选项：trip / journey / expedition / adventure",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.581Z"
+    },
+    {
+      "id": "msoa3j2d7zxr8m",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We actually put the pegs in the wrong ___ the first time.",
+      "back": "way",
+      "context": "We actually put the pegs in the wrong way the first time.",
+      "audioStart": 527.1,
+      "audioEnd": 530.7,
+      "hint": "选项：way / direction / place / position",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:44.581Z"
+    },
+    {
+      "id": "msoa3hpd7vedum",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "碰伤或变质的东西就好 所以像那种零食要买挺多的。\n___ lots of like snacks like ___.",
+      "back": "so / that",
+      "context": "So lots of like snacks like that.",
+      "audioStart": 117.379,
+      "audioEnd": 121.239,
+      "hint": "so ... that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:42.817Z"
+    },
+    {
+      "id": "msoa3hpdd2r8yw",
+      "videoId": "Oga1Sx4uGKc",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "碰伤或变质的东西就好 所以像那种零食要买挺多的。\n___ lots of like snacks like ___.",
+      "back": "so / that",
+      "context": "So lots of like snacks like that.",
+      "audioStart": 117.379,
+      "audioEnd": 121.239,
+      "hint": "so ... that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:42.817Z"
+    }
+  ]
+}

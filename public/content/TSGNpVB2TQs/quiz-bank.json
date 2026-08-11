@@ -1,0 +1,596 @@
+{
+  "videoId": "TSGNpVB2TQs",
+  "title": "TSGNpVB2TQs",
+  "generatedAt": "2026-08-10T11:19:56.159Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 10,
+    "medium": 10,
+    "hard": 5,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "In Quidditch, how many points is it worth if you score with a Quaffle?",
+      "options": [
+        "A) 10 points",
+        "B) 15 points",
+        "C) 25 points",
+        "D) 50 points"
+      ],
+      "answer": "A",
+      "explanation": "在视频中，参与者回答'25 points i think it's 10'，最终确认正确答案是10分。魁地奇比赛中，Quaffle（鬼飞球）进球得10分。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 53.9,
+      "endTime": 58.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "quidditch",
+        "quaffle",
+        "points",
+        "Gryffindor"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What spell does Hermione cast on the Hogwarts Express when she first meets Harry in 'The Philosopher's Stone'?",
+      "options": [
+        "A) Lumos",
+        "B) Expelliarmus",
+        "C) Oculus Reparo",
+        "D) Wingardium Leviosa"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到了'Oculus Reparo'，这是赫敏在霍格沃茨特快列车上第一次见到哈利时修复他眼镜所使用的咒语。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 70.9,
+      "endTime": 82.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Oculus Reparo",
+        "Hermione",
+        "Hogwarts Express",
+        "spell"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is the name of the fantastic beast (magical creature) mentioned in the video that begins with 'T'?",
+      "options": [
+        "A) Thestral",
+        "B) Phoenix",
+        "C) Hippogriff",
+        "D) Basilisk"
+      ],
+      "answer": "A",
+      "explanation": "视频中提到这个神奇生物以字母'T'开头（'Begins with a T'），并且参与者回答了'Thoroughbred'，最终确认是'Thestral'（夜骐）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 84.1,
+      "endTime": 105.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Thestral",
+        "magical creature",
+        "fantastic beast",
+        "oracle"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "How many Horcruxes did Voldemort create?",
+      "options": [
+        "A) Five",
+        "B) Six",
+        "C) Seven",
+        "D) Eight"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确提到'seven Horcruxes'。伏地魔一共制造了七个魂器。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 119.9,
+      "endTime": 124.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Horcrux",
+        "Voldemort",
+        "seven",
+        "soul"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "At what train station does Dumbledore meet Harry at the start of 'Half-Blood Prince'?",
+      "options": [
+        "A) King's Cross",
+        "B) Waterloo",
+        "C) Paddington",
+        "D) Euston"
+      ],
+      "answer": "A",
+      "explanation": "虽然视频中答案没有完全展示，但这是《哈利·波特与混血王子》开头邓布利多在国王十字车站（King's Cross）见哈利的经典场景。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 124.1,
+      "endTime": 136.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "King's Cross",
+        "Dumbledore",
+        "Half-Blood Prince",
+        "train station"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What is the name of the Muggle Studies professor at Hogwarts, played by Carolyn Pickles in 'Deathly Hallows'?",
+      "options": [
+        "A) Charity Burbage",
+        "B) Minerva McGonagall",
+        "C) Pomona Sprout",
+        "D) Sybill Trelawney"
+      ],
+      "answer": "A",
+      "explanation": "视频中明确提到'Miss Charity Burbage who until recently taught at Hogwarts School of Witchcraft and Wizardry'，她就是麻瓜研究课教授。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 136.7,
+      "endTime": 189.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Charity Burbage",
+        "Muggle Studies",
+        "Hogwarts",
+        "Carolyn Pickles"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the phrase 'Mischief managed' mean in the context of the video?",
+      "options": [
+        "A) To start a prank",
+        "B) To end or conclude mischievous activities",
+        "C) To plan a new trick",
+        "D) To celebrate success"
+      ],
+      "answer": "B",
+      "explanation": "'Mischief managed'（恶作剧完毕）是哈利·波特中活点地图关闭时的咒语，意思是结束恶作剧活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 27.6,
+      "endTime": 29.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "mischief",
+        "managed",
+        "Marauder's Map",
+        "phrase"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "In the context of the video, what does 'holding out' mean in 'i'm still holding out the day when i want'?",
+      "options": [
+        "A) Physically stretching out",
+        "B) Waiting or persisting for something",
+        "C) Giving up completely",
+        "D) Reaching out to someone"
+      ],
+      "answer": "B",
+      "explanation": "'Hold out'在这里表示'坚持等待'，意思是说话者还在等待一个合适的时机（去观看哈利·波特舞台剧）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 34.8,
+      "endTime": 37.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hold out",
+        "waiting",
+        "persist",
+        "phrase"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'captivating' mean in 'the show is so captivating'?",
+      "options": [
+        "A) Boring and dull",
+        "B) Extremely attractive and fascinating",
+        "C) Very expensive",
+        "D) Quick and short"
+      ],
+      "answer": "B",
+      "explanation": "'Captivating'意为'迷人的、吸引人的'，形容哈利·波特舞台剧非常吸引人、让人着迷。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 44,
+      "endTime": 48.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "captivating",
+        "fascinating",
+        "attractive",
+        "show"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the meaning of 'come to terms with' in the video?",
+      "options": [
+        "A) To agree on conditions",
+        "B) To accept or reconcile with something difficult",
+        "C) To negotiate a deal",
+        "D) To sign a contract"
+      ],
+      "answer": "B",
+      "explanation": "'Come to terms with'意为'接受、妥协、和解'，在这里指接受并理解死亡这个概念。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 87,
+      "endTime": 89.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "come to terms with",
+        "accept",
+        "death",
+        "witnessed"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'witnessed' mean in 'if you've witnessed and come to terms with death'?",
+      "options": [
+        "A) Forgotten",
+        "B) Seen or observed",
+        "C) Imagined",
+        "D) Denied"
+      ],
+      "answer": "B",
+      "explanation": "'Witnessed'意为'目睹、亲眼看到'，这里指亲眼见证过死亡。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 87,
+      "endTime": 89.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "witnessed",
+        "seen",
+        "observed",
+        "death"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the idiom 'crack through' mean in 'let's crack through these'?",
+      "options": [
+        "A) To break physically",
+        "B) To work through something quickly and efficiently",
+        "C) To give up",
+        "D) To start from the beginning"
+      ],
+      "answer": "B",
+      "explanation": "'Crack through'是一个口语表达，意思是'快速有效地处理或完成'，这里指快速地完成这些问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 50.5,
+      "endTime": 53.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "crack through",
+        "idiom",
+        "work through",
+        "quickly"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'demand' mean in 'I would demand it'?",
+      "options": [
+        "A) To ask politely",
+        "B) To request firmly or insistently",
+        "C) To refuse",
+        "D) To ignore"
+      ],
+      "answer": "B",
+      "explanation": "'Demand'在这里意为'强烈要求'，表示说话者会非常坚持地要求参加哈利·波特测验。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 7.5,
+      "endTime": 9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "demand",
+        "request",
+        "insist",
+        "firmly"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the meaning of 'flashbacks' as used in the video?",
+      "options": [
+        "A) Future predictions",
+        "B) Scenes from the past being recalled",
+        "C) Random thoughts",
+        "D) New adventures"
+      ],
+      "answer": "B",
+      "explanation": "'Flashbacks'（闪回）指回忆过去的场景，这里可能指在pub quiz中回忆哈利·波特的细节。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 153.8,
+      "endTime": 159,
+      "difficulty": "medium",
+      "relatedWords": [
+        "flashback",
+        "past",
+        "memory",
+        "recall"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'keep up to date' mean in the context of the video?",
+      "options": [
+        "A) To stay current with information",
+        "B) To fall behind",
+        "C) To start fresh",
+        "D) To forget information"
+      ],
+      "answer": "A",
+      "explanation": "'Keep up to date'意为'保持最新、跟上信息'，这里指订阅频道以获取最新视频内容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 194.5,
+      "endTime": 198,
+      "difficulty": "easy",
+      "relatedWords": [
+        "keep up to date",
+        "subscribe",
+        "current",
+        "informed"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is a synonym for 'incredible' as used in 'the story is incredible'?",
+      "options": [
+        "A) Boring",
+        "B) Unbelievable / Amazing",
+        "C) Ordinary",
+        "D) Terrible"
+      ],
+      "answer": "B",
+      "explanation": "'Incredible'意为'难以置信的、惊人的'，同义词包括'unbelievable'和'amazing'，形容故事非常精彩。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 44,
+      "endTime": 48.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "incredible",
+        "amazing",
+        "unbelievable",
+        "synonym"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "In the context of the video, what does 'it's not going well, Tom' refer to?",
+      "options": [
+        "A) A casual conversation about someone's day",
+        "B) A scene from a Harry Potter story where Tom Riddle's plans are failing",
+        "C) A weather report",
+        "D) A sports commentary"
+      ],
+      "answer": "B",
+      "explanation": "'It's not going well, Tom'是哈利·波特中的经典台词，通常出现在与汤姆·里德尔（伏地魔）相关的场景中，暗示他的计划进展不顺利。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 65.8,
+      "endTime": 67.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Tom Riddle",
+        "Voldemort",
+        "scene",
+        "Harry Potter"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'avoiding' mean in 'I've been avoiding it because I just didn't really get it'?",
+      "options": [
+        "A) Seeking out",
+        "B) Staying away from or not engaging with",
+        "C) Forgetting about",
+        "D) Embracing enthusiastically"
+      ],
+      "answer": "B",
+      "explanation": "'Avoiding'意为'回避、避开'，说话者表示因为不太理解所以一直在回避哈利·波特舞台剧。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 12.6,
+      "endTime": 17.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "avoiding",
+        "staying away",
+        "evading",
+        "not engaging"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "Based on the context, what is a 'pub quiz' as mentioned in the video?",
+      "options": [
+        "A) A type of drink",
+        "B) A trivia competition held at a pub/bar",
+        "C) A restaurant menu",
+        "D) A book about pubs"
+      ],
+      "answer": "B",
+      "explanation": "'Pub quiz'（酒吧问答赛）是一种在酒吧或酒馆举行的知识竞赛活动，参与者通常组队回答各种问题。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 148.9,
+      "endTime": 153.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pub quiz",
+        "trivia",
+        "competition",
+        "bar"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'bloody hell' express in the context of the video?",
+      "options": [
+        "A) A literal reference to blood",
+        "B) A British exclamation of surprise or frustration",
+        "C) A greeting",
+        "D) A request for help"
+      ],
+      "answer": "B",
+      "explanation": "'Bloody hell'是英式英语中表达惊讶、沮丧或恼怒的感叹词，这里是参与者对问题的反应。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 128.9,
+      "endTime": 136.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bloody hell",
+        "British slang",
+        "exclamation",
+        "surprise"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe your experience or thoughts about watching a Harry Potter play/theatrical performance. Would you go and see it?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放性口语题，考察学生用英语表达个人经历和观点的能力。参考视频中关于观看哈利·波特舞台剧的讨论。",
+      "referenceAnswer": "I would love to go and see the Harry Potter play. I think it would be a captivating experience with an incredible story. The show seems amazing, even though it's a long day. I would definitely go for it on a weekend, maybe even go for lunch in the middle of the day.",
+      "hint": "Use vocabulary like 'captivating', 'incredible', 'theatrical performance'. Talk about whether you've seen it or would want to see it, and why.",
+      "startTime": 9.1,
+      "endTime": 50.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "theatrical play",
+        "captivating",
+        "experience",
+        "Harry Potter"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Have you ever been to a pub quiz? Describe your experience and whether your team won.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道关于个人经历的口语题，让学生用英语描述参加酒吧问答赛的经历。",
+      "referenceAnswer": "Yes, I went to a pub quiz the other day with my friends. We didn't get all the answers right, but it was a lot of fun. We had some really nice moments and some difficult questions too. Even though we didn't win, it was a great experience and I would definitely go again.",
+      "hint": "Use past tense. Mention details like who you went with, what kinds of questions you faced, and how you felt about the experience.",
+      "startTime": 148.9,
+      "endTime": 159,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pub quiz",
+        "experience",
+        "team",
+        "trivia"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "If you witnessed something unusual or magical, would you be able to 'come to terms with' it? How would you react?",
+      "options": [],
+      "answer": "open",
+      "explanation": "考察学生用英语表达对超自然或异常事件的反应，并使用'come to terms with'这个短语。",
+      "referenceAnswer": "If I witnessed something truly magical or unusual, I think I would first be shocked and amazed. It might take me some time to come to terms with what I had seen. Eventually, I would try to understand it better and perhaps tell others about it. I think having an open mind is important when facing the unknown.",
+      "hint": "Use the phrase 'come to terms with'. Describe your initial reaction and how you would process the experience over time.",
+      "startTime": 87,
+      "endTime": 89.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "witnessed",
+        "come to terms with",
+        "magical",
+        "reaction"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Imagine you are a Harry Potter fan. What magical creature from the wizarding world would you most want as a pet, and why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道关于哈利·波特神奇生物的开放性口语题，测试学生的想象力和英语表达能力。",
+      "referenceAnswer": "If I could have a magical creature as a pet, I would choose a Phoenix because it is incredibly loyal and can regenerate, symbolizing rebirth and hope. Alternatively, I might choose a Thestral because they are mysterious and only visible to those who have witnessed and come to terms with death, which gives them a deep, meaningful connection. Of course, I would have to make sure it was safe to keep as a pet!",
+      "hint": "Think about creatures mentioned in the video like Thestrals, or others like Phoenix, Hippogriff. Explain your choice using descriptive language.",
+      "startTime": 84.1,
+      "endTime": 105.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "magical creature",
+        "pet",
+        "Thestral",
+        "Phoenix"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "According to the video, what should viewers do to 'keep up to date' with the channel's content?",
+      "options": [
+        "A) Watch TV",
+        "B) Subscribe and click the bell icon, and listen to the radio show",
+        "C) Read newspapers",
+        "D) Send letters"
+      ],
+      "answer": "B",
+      "explanation": "视频结尾提到'if you enjoyed this video don't forget to subscribe and click the bell icon to keep up to date'，还提到了'listen to my radio on movies'，所以应该订阅频道、点击铃铛图标以及收听广播节目。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 190.8,
+      "endTime": 207,
+      "difficulty": "easy",
+      "relatedWords": [
+        "subscribe",
+        "bell icon",
+        "radio",
+        "keep up to date"
+      ]
+    }
+  ]
+}

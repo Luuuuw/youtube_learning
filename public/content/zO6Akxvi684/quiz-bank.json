@@ -1,0 +1,555 @@
+{
+  "videoId": "zO6Akxvi684",
+  "title": "zO6Akxvi684",
+  "generatedAt": "2026-08-10T11:30:07.461Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 10,
+    "medium": 10,
+    "hard": 4,
+    "choice": 19,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the speaker excited about at the beginning of the vlog?",
+      "options": [
+        "A) Going to the beach",
+        "B) Taking a plane on a trip",
+        "C) Watching a movie",
+        "D) Studying for an exam"
+      ],
+      "answer": "B",
+      "explanation": "在视频开头，说话者说'Hello everyone. Guess where we're going?'并提到要'app, take a plane'，然后说'this journey. We're about to get surfy. We're going to surf'，表明他们对即将开始的旅行和乘飞机出行感到兴奋。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 3.6,
+      "endTime": 25.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "journey",
+        "surf",
+        "plane",
+        "excited"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'get surfy' mean in the context 'We're about to get surfy'?",
+      "options": [
+        "A) To become angry",
+        "B) To prepare to go surfing",
+        "C) To feel sleepy",
+        "D) To watch a surf movie"
+      ],
+      "answer": "B",
+      "explanation": "'Get surfy'是一个口语化表达，结合上下文'We're going to surf and it's going to be awesome'，意思是'准备去冲浪'或'开始冲浪活动'。这是vlog中常见的轻松幽默表达。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 19,
+      "endTime": 25.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "surfy",
+        "surf",
+        "journey",
+        "beach"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Where are they during the stopover mentioned in the video?",
+      "options": [
+        "A) Nicaragua",
+        "B) Mexico",
+        "C) El Salvador",
+        "D) Costa Rica"
+      ],
+      "answer": "C",
+      "explanation": "字幕中提到'We're in El Salvador at our stopover. We're doing a vlog of the trip'，说明他们中途停留的国家是萨尔瓦多（El Salvador）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 74.9,
+      "endTime": 85.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "El Salvador",
+        "stopover",
+        "vlog",
+        "trip"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What are they doing at around 86 seconds in the video?",
+      "options": [
+        "A) Surfing at the beach",
+        "B) Eating lunch",
+        "C) Visiting an art museum",
+        "D) On a plane"
+      ],
+      "answer": "C",
+      "explanation": "字幕显示'now we're in a little art museum'，说明说话者在一个小型艺术博物馆里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 85.8,
+      "endTime": 91.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "art museum",
+        "stopover",
+        "El Salvador"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What music are they playing on the flight according to the speaker?",
+      "options": [
+        "A) Pop music",
+        "B) Rock music",
+        "C) Cocomelon music",
+        "D) Classical music"
+      ],
+      "answer": "C",
+      "explanation": "字幕中提到'They're playing freaking Cocomelon vlog right now'，Cocomelon是一个儿童节目，说话者用'freaking'表示惊讶/吐槽航空公司播放的儿歌音乐。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 93.7,
+      "endTime": 98.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Cocomelon",
+        "flight",
+        "music"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "How long is the flight to Nicaragua?",
+      "options": [
+        "A) 30 minutes",
+        "B) 1 hour",
+        "C) 2 hours",
+        "D) 3 hours"
+      ],
+      "answer": "B",
+      "explanation": "字幕明确说'we're on the flight to Nicaragua now. It's only 1 hour to...'，说明飞往尼加拉瓜的航班只需1小时。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 101.5,
+      "endTime": 112.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "flight",
+        "Nicaragua",
+        "hour"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'escape the cold' mean in 'genuinely so nice to escape the cold'?",
+      "options": [
+        "A) Run away from cold weather",
+        "B) Catch a cold",
+        "C) Feel very cold",
+        "D) Avoid being sick"
+      ],
+      "answer": "A",
+      "explanation": "'Escape the cold'字面意思是'逃离寒冷'，结合上下文'today, we are... del Sur, Nicaragua. It was warm and a perfect escape from...'，说话者从寒冷的地方来到温暖的尼加拉瓜度假。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 137.7,
+      "endTime": 165.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "escape",
+        "cold",
+        "warm",
+        "Nicaragua"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "Where exactly in Nicaragua did the vlogger stay?",
+      "options": [
+        "A) Managua",
+        "B) Granada",
+        "C) del Sur",
+        "D) San Juan"
+      ],
+      "answer": "C",
+      "explanation": "字幕中提到'del Sur, Nicaragua'，这是尼加拉瓜南部的一个地区（可能是San Juan del Sur的简称），是一个著名的冲浪胜地。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 137.7,
+      "endTime": 152.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "del Sur",
+        "Nicaragua",
+        "location"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "How long did they surf according to the vlog?",
+      "options": [
+        "A) 1 hour",
+        "B) 2 hours",
+        "C) 3 hours",
+        "D) 4 hours"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确说'We got to go surfing for like 2 hours, had a great lunch'，所以他们冲浪了大约2小时。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 159.9,
+      "endTime": 170.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "surfing",
+        "hours",
+        "lunch"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "How long did they stay at the beach?",
+      "options": [
+        "A) 1 hour",
+        "B) 2 hours",
+        "C) 3 hours",
+        "D) 4 hours"
+      ],
+      "answer": "D",
+      "explanation": "字幕说'we honestly stayed at the beach for like 4 hours, which was very nice and restful after a long travel day'，他们在海滩待了约4小时。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 167.3,
+      "endTime": 175.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "beach",
+        "hours",
+        "restful"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'restful' mean in 'nice and restful after a long travel day'?",
+      "options": [
+        "A) Boring",
+        "B) Relaxing and peaceful",
+        "C) Exciting",
+        "D) Exhausting"
+      ],
+      "answer": "B",
+      "explanation": "'Restful'意为'让人放松的、平静的'。这里说话者在长途旅行后，在海滩享受了一段放松宁静的时光。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 167.3,
+      "endTime": 186.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "restful",
+        "relaxing",
+        "beach"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker say about getting waves while surfing?",
+      "options": [
+        "A) Getting fewer waves every day",
+        "B) Getting more waves every day",
+        "C) Not catching any waves",
+        "D) Missing the waves"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'I feel like every day I'm getting more waves, so that was nice'，表示说话者觉得每天冲浪时能接住更多浪，技术在进步。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 332.7,
+      "endTime": 345.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "waves",
+        "surfing",
+        "improving"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "Why is the vlogger working on an assignment during the trip?",
+      "options": [
+        "A) For fun",
+        "B) Because it is worth 35% of their grade and due on Monday",
+        "C) To practice English",
+        "D) To earn extra money"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'working on an assignment cuz I have an essay worth 35% of my grade due on Monday'，说明他们在赶一篇占总成绩35%、周一截止的论文。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 378.3,
+      "endTime": 393,
+      "difficulty": "medium",
+      "relatedWords": [
+        "assignment",
+        "essay",
+        "grade",
+        "Monday"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the speaker say about doing this trip with friends?",
+      "options": [
+        "A) It's their first trip ever",
+        "B) They've done many solo trips, but this is special with friends",
+        "C) They prefer solo trips",
+        "D) They didn't enjoy it"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'I've done a lot of solo trips, but doing this with two of my really good friends'，说明说话者曾多次独自旅行，但这次与好朋友一起旅行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 398,
+      "endTime": 410.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "solo trips",
+        "friends",
+        "lovely"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the meaning of 'lovely' in 'This was genuinely such a lovely trip'?",
+      "options": [
+        "A) Terrible",
+        "B) Boring",
+        "C) Wonderful and pleasant",
+        "D) Quick"
+      ],
+      "answer": "C",
+      "explanation": "'Lovely'是英式英语中常用的褒义词，意为'美好的、令人愉快的'。这里表达说话者对这次旅行的喜爱和享受。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 395.8,
+      "endTime": 403.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lovely",
+        "trip",
+        "genuinely"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is the speaker's overall feeling about the trip at the end of the vlog?",
+      "options": [
+        "A) Disappointed",
+        "B) Neutral",
+        "C) Very positive and grateful",
+        "D) Indifferent"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到'was honestly such a joy and a gift'、'connected with so many new people, which was awesome'、'We got to see so many beautiful things and I will definitely'（go back），表达了说话者对旅行的喜悦、感恩和留恋。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 403.6,
+      "endTime": 416,
+      "difficulty": "easy",
+      "relatedWords": [
+        "joy",
+        "gift",
+        "awesome",
+        "beautiful"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'chill morning' mean in 'just like woke up and had a like a relatively chill morning'?",
+      "options": [
+        "A) A cold morning",
+        "B) A relaxed and easy morning",
+        "C) A busy morning",
+        "D) A frightening morning"
+      ],
+      "answer": "B",
+      "explanation": "'Chill'是俚语，意为'放松的、悠闲的'。这里说话者描述了一个轻松悠闲的早晨，没有做太多事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 365.3,
+      "endTime": 375.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chill",
+        "morning",
+        "relaxed"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "According to the video, the trip involves going to how many main countries?",
+      "options": [
+        "A) One",
+        "B) Two",
+        "C) Three",
+        "D) Four"
+      ],
+      "answer": "B",
+      "explanation": "视频提到两个主要国家：'We're in El Salvador at our stopover'和'we're on the flight to Nicaragua'，所以是El Salvador（中途停留）和Nicaragua（主要目的地）两个国家。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 74.9,
+      "endTime": 112.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "El Salvador",
+        "Nicaragua",
+        "countries"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What activity is the vlogger most looking forward to throughout the trip?",
+      "options": [
+        "A) Studying",
+        "B) Sightseeing",
+        "C) Surfing",
+        "D) Eating local food"
+      ],
+      "answer": "C",
+      "explanation": "视频中多次提到冲浪：'We're about to get surfy'、'We got to go surfing for like 2 hours'、'getting more waves'、'We're going surfing later'，冲浪是整个旅行的核心活动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 19,
+      "endTime": 393,
+      "difficulty": "easy",
+      "relatedWords": [
+        "surfing",
+        "waves",
+        "trip"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe your ideal relaxing day at the beach. Use at least 3 vocabulary words from the video (e.g., chill, restful, surf, lovely).",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个开放性口语题，要求学生用视频中的词汇描述自己理想的海滩一天。可以参考'chill'（悠闲）、'restful'（放松）、'surf'（冲浪）、'lovely'（美好）等词汇。",
+      "referenceAnswer": "My ideal relaxing day at the beach would start with a chill morning. I'd have a leisurely breakfast, then go surfing for a few hours. After that, I'd take a nap under a palm tree. In the afternoon, I'd enjoy the restful atmosphere, read a book, and watch the sunset. It would be such a lovely and peaceful experience.",
+      "hint": "Think about what activities you would do, how you would feel, and what makes the beach special to you.",
+      "startTime": 167.3,
+      "endTime": 186.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "chill",
+        "restful",
+        "lovely",
+        "beach",
+        "surf"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Have you ever taken a trip with good friends? How did it compare to traveling alone? Use words like 'solo trips' or 'genuinely' in your answer.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题让学生分享自己与朋友旅行的经历，并与独自旅行对比。视频中说话者提到'I've done a lot of solo trips, but doing this with two of my really good friends'，可作为参考。",
+      "referenceAnswer": "Yes, I have taken trips with close friends, and the experience is genuinely different from solo trips. When I travel alone, I have more time for self-reflection and meeting new people. However, traveling with good friends allows me to share amazing moments, create inside jokes, and support each other through challenges. Both kinds of trips have their own charm.",
+      "hint": "Think about the pros and cons of each type of travel. What did you enjoy most?",
+      "startTime": 395.8,
+      "endTime": 410.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "solo trips",
+        "friends",
+        "genuinely",
+        "trip"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Imagine you have a 2-3 hour car ride to a beautiful destination. How would you spend the time? Describe your feelings during the journey.",
+      "options": [],
+      "answer": "open",
+      "explanation": "视频提到'2 and 1/2 hour 3 hour car ride'以及后面到达目的地后'genuinely so nice to escape the cold'，让学生描述自己的旅途经历和感受。",
+      "referenceAnswer": "During a 2-3 hour car ride, I would listen to my favorite playlist, chat with my travel companions, and look out the window at the changing scenery. As we get closer to the destination, I would feel increasingly excited and anticipate the wonderful experience ahead. The journey itself would be part of the fun, especially when I'm escaping from stressful daily life to a beautiful place.",
+      "hint": "Consider what you would do, who you'd be with, and how you'd feel as you get closer to the destination.",
+      "startTime": 112.8,
+      "endTime": 137.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "car ride",
+        "journey",
+        "destination",
+        "escape"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Do you think it's important to balance work and travel? Why or why not? Reference the vlogger's experience of working on an essay during the trip.",
+      "options": [],
+      "answer": "open",
+      "explanation": "视频中说话者在旅行期间还要赶论文（'working on an assignment'），这是一个关于工作与休闲平衡的话题。",
+      "referenceAnswer": "Yes, I believe it's important to balance work and travel. Just like the vlogger in the video who had to work on an assignment worth 35% of their grade during their trip, we often have responsibilities that can't be completely set aside. However, finding a way to handle work while still enjoying travel experiences can actually make the trip more meaningful. It's about creating harmony between obligations and leisure.",
+      "hint": "Think about the vlogger who had to work on an essay worth 35% while still enjoying surfing. What can we learn from this?",
+      "startTime": 378.3,
+      "endTime": 393,
+      "difficulty": "hard",
+      "relatedWords": [
+        "assignment",
+        "balance",
+        "work",
+        "travel"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The vlogger said the trip was 'a joy and a gift.' What experiences in your life have felt like a joy and a gift? Describe one in detail.",
+      "options": [],
+      "answer": "open",
+      "explanation": "让学生分享自己生活中的美好时刻。视频原文是'was honestly such a joy and a gift'，可作为参考。",
+      "referenceAnswer": "One experience that felt like a joy and a gift to me was when I graduated from high school. Seeing my family cheering for me, receiving flowers from my best friends, and knowing that all my hard work had paid off made me feel incredibly grateful. It was a moment I will cherish forever, a true blessing that reminded me of the love and support surrounding me.",
+      "hint": "Think about a special moment when you felt truly grateful. What made it memorable?",
+      "startTime": 403.6,
+      "endTime": 410.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "joy",
+        "gift",
+        "experience",
+        "grateful"
+      ]
+    }
+  ]
+}

@@ -15,8 +15,37 @@ export interface VocabBankEntry {
 export interface LookupResult {
   word: string;
   definition: string;
-  source: 'local' | 'bank' | 'cache' | 'ai';
+  source: 'local' | 'bank' | 'cache' | 'free' | 'ai';
   bankEntry?: VocabBankEntry;
+}
+
+const FREE_API = 'https://api.dictionaryapi.dev/api/v2/entries/en';
+
+async function lookupFreeApi(word: string): Promise<string | null> {
+  try {
+    const res = await fetch(`${FREE_API}/${encodeURIComponent(word)}`);
+    if (!res.ok) return null;
+    const data = await res.json();
+    if (!Array.isArray(data) || data.length === 0) return null;
+
+    const entry = data[0];
+    const phonetic = entry.phonetic || entry.phonetics?.find((p: { text?: string }) => p.text)?.text || '';
+    const meaning = entry.meanings?.[0];
+    if (!meaning) return null;
+
+    const pos = meaning.partOfSpeech || '';
+    const def = meaning.definitions?.[0];
+    if (!def) return null;
+
+    let result = '';
+    if (phonetic) result += `音标: ${phonetic}\n`;
+    result += `释义: ${pos ? pos + '. ' : ''}${def.definition}`;
+    if (def.example) result += `\n\n例句: ${def.example}`;
+
+    return result;
+  } catch {
+    return null;
+  }
 }
 
 const memoryCache = new Map<string, LookupResult>();
@@ -80,7 +109,7 @@ export async function lookupWord(word: string, context?: string): Promise<Lookup
 
   const cached = getCache(cleaned);
   if (cached) {
-    return { ...cached, source: cached.source === 'bank' ? 'bank' : 'cache' };
+    return cached;
   }
 
   const bankEntry = await lookupVocabBank(cleaned);
@@ -95,6 +124,17 @@ export async function lookupWord(word: string, context?: string): Promise<Lookup
       definition: def,
       source: 'bank',
       bankEntry,
+    };
+    setCache(cleaned, result);
+    return result;
+  }
+
+  const freeDef = await lookupFreeApi(cleaned);
+  if (freeDef) {
+    const result: LookupResult = {
+      word: cleaned,
+      definition: freeDef,
+      source: 'free',
     };
     setCache(cleaned, result);
     return result;

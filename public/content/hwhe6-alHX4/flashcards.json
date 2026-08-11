@@ -1,0 +1,436 @@
+{
+  "videoId": "hwhe6-alHX4",
+  "generatedAt": "2026-08-11T06:25:03.126Z",
+  "cards": [
+    {
+      "id": "msoa02hizfvfc3",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "beaming",
+      "back": "照耀；发光 (verb, B2)",
+      "context": "I woke up with the sun **beaming** into my eyes.",
+      "audioStart": 36.74,
+      "audioEnd": 43.06,
+      "word": "beaming",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hicgegql",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "soothing",
+      "back": "抚慰的；使人宽心的 (adjective, B2)",
+      "context": "it's just so **soothing** and comforting",
+      "audioStart": 116.46,
+      "audioEnd": 123.12,
+      "word": "soothing",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hix7nozf",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "disassemble",
+      "back": "拆开；拆卸 (verb, B2)",
+      "context": "We had to **disassemble** it to put it in here.",
+      "audioStart": 388.84,
+      "audioEnd": 391.3,
+      "word": "disassemble",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hi30ge9b",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "divine",
+      "back": "极好的；美味的 (adjective, B2)",
+      "context": "it was absolutely **divine**",
+      "audioStart": 496.6,
+      "audioEnd": 503.04,
+      "word": "divine",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hi1zn8x4",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "pre-portioned",
+      "back": "预先分好的 (adjective, B2)",
+      "context": "all of it is **pre-portioned**",
+      "audioStart": 514.32,
+      "audioEnd": 521.18,
+      "word": "pre-portioned",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02him57t7w",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "obsession",
+      "back": "痴迷；着魔 (noun, B2)",
+      "context": "I'm going to make my new **obsession** which is this coconut cloud iced matcha.",
+      "audioStart": 685.84,
+      "audioEnd": 694.88,
+      "word": "obsession",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hibz4mqx",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "recreate",
+      "back": "重现；再创造 (verb, B2)",
+      "context": "I tried to **recreate** it a couple of times",
+      "audioStart": 702.48,
+      "audioEnd": 707.94,
+      "word": "recreate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hi1wi739",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "renovations",
+      "back": "翻新；整修 (noun, B2)",
+      "context": "It's been quite stressful the last couple of weeks with the **renovations** at home.",
+      "audioStart": 985.88,
+      "audioEnd": 992.08,
+      "word": "renovations",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hithucms",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "craving",
+      "back": "渴望；热望 (verb, B2)",
+      "context": "I was like I'm **craving** this for dinner.",
+      "audioStart": 1209.16,
+      "audioEnd": 1215.58,
+      "word": "craving",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hin6gvgl",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "rivalry",
+      "back": "竞争；对抗 (noun, B2)",
+      "context": "and **rivalry** between like people",
+      "audioStart": 1389.82,
+      "audioEnd": 1396.64,
+      "word": "rivalry",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hiavwkzg",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stunning",
+      "back": "极好的；绝妙的 (adjective, B1)",
+      "context": "the scenery is just so **stunning**",
+      "audioStart": 1401.32,
+      "audioEnd": 1405.6,
+      "word": "stunning",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02hiwf8y3q",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "commit",
+      "back": "投入；承诺 (verb, B2)",
+      "context": "it's a lot to **commit** to",
+      "audioStart": 1420.02,
+      "audioEnd": 1425.42,
+      "word": "commit",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:03.126Z"
+    },
+    {
+      "id": "msoa02dhx1erim",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Denne er saltet karamell, og denne er pistasjo og ___.",
+      "back": "raspberry",
+      "context": "Denne er saltet karamell, og denne er pistasjo og raspberry.",
+      "audioStart": 297.5,
+      "audioEnd": 303.8,
+      "hint": "选项：blackberry / strawberry / blueberry / raspberry",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.981Z"
+    },
+    {
+      "id": "msoa02dh6xqnwy",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Well, I think it's about time that i give you guys a little ___ update you",
+      "back": "apartment",
+      "context": "Well, I think it's about time that i give you guys a little apartment update you",
+      "audioStart": 342.8,
+      "audioEnd": 348.3,
+      "hint": "选项：apartment / house / office / car",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.981Z"
+    },
+    {
+      "id": "msoa02dhl9plkz",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Jeg vokste opp med ___, om du ikke vet det allerede.",
+      "back": "horser",
+      "context": "Jeg vokste opp med horser, om du ikke vet det allerede.",
+      "audioStart": 208.5,
+      "audioEnd": 212.3,
+      "hint": "选项：katter / horser / hunder / kaniner",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.981Z"
+    },
+    {
+      "id": "msoa02dho5uwil",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Some people thought that I looked ___ and I don't know, it's crazy that",
+      "back": "sad",
+      "context": "Some people thought that I looked sad and I don't know, it's crazy that",
+      "audioStart": 1127.6,
+      "audioEnd": 1131.7,
+      "hint": "选项：angry / tired / sad / happy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.981Z"
+    },
+    {
+      "id": "msoa02dhplzk4c",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) YouTube is like my safe space and it is truly my favorite ___ to share content on.",
+      "back": "platform",
+      "context": "YouTube is like my safe space and it is truly my favorite platform to share content on.",
+      "audioStart": 1148.9,
+      "audioEnd": 1156.9,
+      "hint": "选项：place / platform / channel / website",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.981Z"
+    },
+    {
+      "id": "msoa02dh47griq",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Det heter fasteland... ___.",
+      "back": "Dagen",
+      "context": "Det heter fasteland... Dagen.",
+      "audioStart": 227,
+      "audioEnd": 230.9,
+      "hint": "选项：Natten / Dagen / Kvelden / Morgenen",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.981Z"
+    },
+    {
+      "id": "msoa02dh8c95fp",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) But yeah, I want to continue posting ___ here on YouTube.",
+      "back": "regularly",
+      "context": "But yeah, I want to continue posting regularly here on YouTube.",
+      "audioStart": 1172.4,
+      "audioEnd": 1176.8,
+      "hint": "选项：occasionally / regularly / rarely / frequently",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.981Z"
+    },
+    {
+      "id": "msoa02dhuhmmjl",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) broth in the mornings i was like but it's just it's so ___ and comforting it's honestly",
+      "back": "soothing",
+      "context": "broth in the mornings i was like but it's just it's so soothing and comforting it's honestly",
+      "audioStart": 112.7,
+      "audioEnd": 117.5,
+      "hint": "选项：soothing / boring / tiring / annoying",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.981Z"
+    },
+    {
+      "id": "msoa02an150gi3",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "就差一本书了 本想坐在浴缸里舒舒服服地看会儿书\nIt ___ ___ ___ so cozy to read a book while sitting in the bathtub",
+      "back": "would / have / been",
+      "context": "It would have been so cozy to read a book while sitting in the bathtub",
+      "audioStart": 976.259,
+      "audioEnd": 980.779,
+      "hint": "would have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.879Z"
+    },
+    {
+      "id": "msoa02anqpiah6",
+      "videoId": "hwhe6-alHX4",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "就是因为我们一直不知道这房子要怎么弄 但这实在讲不通，而且花销也会很大\nit ___ ___ ___ quite expensive and",
+      "back": "would / have / been",
+      "context": "it would have been quite expensive and",
+      "audioStart": 1015.879,
+      "audioEnd": 1020.1,
+      "hint": "would have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:25:02.879Z"
+    }
+  ]
+}

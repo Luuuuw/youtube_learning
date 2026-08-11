@@ -110,10 +110,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     if (!isLoading && !isAuthenticated && pathname !== '/login') {
       router.replace('/login');
     }
-    if (!isLoading && isAuthenticated && mustChangePassword && pathname !== '/change-password') {
-      router.replace('/change-password');
-    }
-  }, [isLoading, isAuthenticated, mustChangePassword, pathname, router]);
+  }, [isLoading, isAuthenticated, pathname, router]);
 
   const loginWithAccount = useCallback(async (username: string, password: string) => {
     try {
@@ -128,7 +125,8 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         localStorage.setItem(ROLE_KEY, data.role);
         setUserCode(data.code || username);
         localStorage.setItem(CODE_KEY, data.code || username);
-        document.cookie = `ve-session-token=${data.token}; path=/; max-age=${7 * 24 * 60 * 60}; SameSite=Lax; Secure`;
+        const isSecure = window.location.protocol === 'https:';
+        document.cookie = `ve-session-token=${data.token}; path=/; max-age=${7 * 24 * 60 * 60}; SameSite=Lax${isSecure ? '; Secure' : ''}`;
         setIsAuthenticated(true);
         setRole(data.role);
         setUserCode(data.code || username);

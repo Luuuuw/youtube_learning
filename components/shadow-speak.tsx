@@ -355,8 +355,6 @@ export default function ShadowSpeak({
   const [clipCurrentTime, setClipCurrentTime] = useState(0);
   const [selectedWordRange, setSelectedWordRange] = useState<[number, number] | null>(null);
   const [loopPlaying, setLoopPlaying] = useState(false);
-  const [batchProgress, setBatchProgress] = useState<{ done: number; total: number } | null>(null);
-  const [batchRunning, setBatchRunning] = useState(false);
   const [aiScore, setAiScore] = useState<AiScore | null>(null);
   const [aiScoreLoading, setAiScoreLoading] = useState(false);
 
@@ -465,8 +463,6 @@ export default function ShadowSpeak({
       setSelectedWordRange(null);
       setLoopPlaying(false);
       allAnalysisRef.current = {};
-      setBatchProgress(null);
-      setBatchRunning(false);
       setAiScore(null);
       setAiScoreLoading(false);
     }
@@ -512,53 +508,6 @@ export default function ShadowSpeak({
     };
     fetchLocal();
   }, [currentIndex, open, videoId, currentSub]);
-
-  const runBatchAnalysis = useCallback(async () => {
-    if (!videoId || batchRunning) return;
-    setBatchRunning(true);
-    setBatchProgress({ done: 0, total: subtitles.length });
-    const token = localStorage.getItem('ve-session-token') || '';
-    let done = 0;
-    for (let i = 0; i < subtitles.length; i++) {
-      const sub = subtitles[i];
-      const cacheKey = `${sub.startTime.toFixed(2)}-${sub.endTime.toFixed(2)}`;
-      if (allAnalysisRef.current[cacheKey]) {
-        done++;
-        setBatchProgress({ done, total: subtitles.length });
-        continue;
-      }
-      try {
-        const res = await fetch('/api/shadow-speak/analyze', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            ...(token ? { Authorization: `Bearer ${token}` } : {}),
-          },
-          body: JSON.stringify({
-            videoId,
-            subtitle: { text: sub.text, startTime: sub.startTime, endTime: sub.endTime },
-          }),
-        });
-        const data = await res.json();
-        if (res.ok && data.analysis) {
-          allAnalysisRef.current[cacheKey] = data.analysis;
-          if (i === currentIndex) {
-            setAnalysis(data.analysis);
-          }
-        }
-      } catch {}
-      done++;
-      setBatchProgress({ done, total: subtitles.length });
-    }
-    try {
-      const res = await fetch(`/content/${videoId}/shadow-tips.json`);
-      if (res.ok) {
-        const data = await res.json();
-        allAnalysisRef.current = { ...data, ...allAnalysisRef.current };
-      }
-    } catch {}
-    setBatchRunning(false);
-  }, [videoId, subtitles, batchRunning, currentIndex]);
 
   const stopRecognition = useCallback(() => {
     if (recognitionRef.current) {
@@ -860,23 +809,9 @@ export default function ShadowSpeak({
               </p>
             </div>
           </div>
-          <div className="flex items-center gap-2">
-            {isAdmin && hasSubtitles && (
-              <button
-                onClick={runBatchAnalysis}
-                disabled={batchRunning}
-                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium bg-violet-500/10 text-violet-500 hover:bg-violet-500/20 transition-colors disabled:opacity-50"
-              >
-                {batchRunning ? <Loader2 className="h-3 w-3 animate-spin" /> : <Sparkles className="h-3 w-3" />}
-                {batchRunning
-                  ? `分析中 ${batchProgress ? `${batchProgress.done}/${batchProgress.total}` : ''}`
-                  : '一键分析全部'}
-              </button>
-            )}
-            <button onClick={onClose} className="p-2 rounded-lg hover:bg-muted transition-colors">
-              <X className="h-5 w-5" />
-            </button>
-          </div>
+          <button onClick={onClose} className="p-2 rounded-lg hover:bg-muted transition-colors">
+            <X className="h-5 w-5" />
+          </button>
         </div>
 
         {!speechSupported ? (

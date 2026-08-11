@@ -1,0 +1,358 @@
+{
+  "videoId": "gB4LAABLvKU",
+  "generatedAt": "2026-08-11T06:24:41.721Z",
+  "cards": [
+    {
+      "id": "mso9zlyxk33yqq",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "haul",
+      "back": "收获；大量购买 (noun, B2)",
+      "context": "We had a very successful **haul** this morning",
+      "audioStart": 79.7,
+      "audioEnd": 83.8,
+      "word": "haul",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zlyx4n0cqi",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "versatile",
+      "back": "多用途的；多才多艺的 (adjective, B2)",
+      "context": "It's kind of a **versatile** fish",
+      "audioStart": 208.19,
+      "audioEnd": 212.75,
+      "word": "versatile",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zlyx7jk5gu",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "parboil",
+      "back": "预煮；焯水 (verb, B2)",
+      "context": "I've just **parboiled** them",
+      "audioStart": 221.87,
+      "audioEnd": 224.97,
+      "word": "parboil",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zlyx811v5e",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "diabolical",
+      "back": "糟糕透顶的；恶魔般的 (adjective, C1)",
+      "context": "These look slightly **diabolical**",
+      "audioStart": 217.78,
+      "audioEnd": 222.37,
+      "word": "diabolical",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zlyxpjr165",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "repertoire",
+      "back": "全部技能；保留节目 (noun, C1)",
+      "context": "a recent addition to our cooking **repertoire**",
+      "audioStart": 574.88,
+      "audioEnd": 580,
+      "word": "repertoire",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zlyxoi9juy",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "graciously",
+      "back": "有礼貌地；仁慈地 (adverb, C1)",
+      "context": "our friends **graciously** took the time to teach us",
+      "audioStart": 594.79,
+      "audioEnd": 598.91,
+      "word": "graciously",
+      "tags": [
+        "CEFR-C1",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zlyx2luz7e",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "rewarding",
+      "back": "值得的；有回报的 (adjective, B2)",
+      "context": "it's so **rewarding** to make",
+      "audioStart": 598.91,
+      "audioEnd": 602.77,
+      "word": "rewarding",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zlyxmuidpl",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "undertaking",
+      "back": "任务；事业 (noun, C1)",
+      "context": "without it feeling like a huge **undertaking**",
+      "audioStart": 482.13,
+      "audioEnd": 486.79,
+      "word": "undertaking",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zlyx3m6dtd",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "savoury",
+      "back": "咸味的；开胃的 (adjective, B2)",
+      "context": "It's saucy, **savoury**, spicy",
+      "audioStart": 636.79,
+      "audioEnd": 640.81,
+      "word": "savoury",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zlyxyydopy",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "crunch",
+      "back": "脆响；嘎吱声 (noun, B2)",
+      "context": "which gives it a great **crunch**",
+      "audioStart": 640.81,
+      "audioEnd": 643.74,
+      "word": "crunch",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:41.721Z"
+    },
+    {
+      "id": "mso9zkw2hr48it",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So yeah, here's almost everything we prepped and enjoyed this week in our ___ little apartment.",
+      "back": "cosy",
+      "context": "So yeah, here's almost everything we prepped and enjoyed this week in our cosy little apartment.",
+      "audioStart": 12.3,
+      "audioEnd": 17.2,
+      "hint": "选项：new / big / small / cosy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:40.322Z"
+    },
+    {
+      "id": "mso9zkw2jrh6iu",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We're big market people, so once we've ___ our menu for the week, we try to get out the door as quickly as possible.",
+      "back": "brainstormed",
+      "context": "We're big market people, so once we've brainstormed our menu for the week, we try to get out the door as quickly as possible.",
+      "audioStart": 22.1,
+      "audioEnd": 30,
+      "hint": "选项：thought / planned / brainstormed / discussed",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:40.322Z"
+    },
+    {
+      "id": "mso9zkw2i5vjvo",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Then it's straight to the markets to do the rest of our ___.",
+      "back": "shop",
+      "context": "Then it's straight to the markets to do the rest of our shop.",
+      "audioStart": 37.2,
+      "audioEnd": 43.5,
+      "hint": "选项：buying / purchase / shopping / shop",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:40.322Z"
+    },
+    {
+      "id": "mso9zkw2c4k0yg",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) from Queen Victoria Market we had a very ___",
+      "back": "good",
+      "context": "from Queen Victoria Market we had a very",
+      "audioStart": 76.2,
+      "audioEnd": 81.2,
+      "hint": "选项：lovely / great / nice / good",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:40.322Z"
+    },
+    {
+      "id": "mso9zkw2rn8ui5",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) which we'll use in a biryani that we're going to make tomorrow night as ___",
+      "back": "well",
+      "context": "which we'll use in a biryani that we're going to make tomorrow night as",
+      "audioStart": 94.8,
+      "audioEnd": 99,
+      "hint": "选项：well / okay / good / fine",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:40.322Z"
+    },
+    {
+      "id": "mso9zkw2bulz16",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Then in terms of the protein these sausages over here cost us ten ___",
+      "back": "dollars",
+      "context": "Then in terms of the protein these sausages over here cost us ten",
+      "audioStart": 163.2,
+      "audioEnd": 168.1,
+      "hint": "选项：dollars / bucks / quid / euros",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:40.322Z"
+    },
+    {
+      "id": "mso9zkw2jc9gy5",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Today we stuffed it with some dill and leaven then chucked it in the oven to have alongside some other ___.",
+      "back": "leftovers",
+      "context": "Today we stuffed it with some dill and leaven then chucked it in the oven to have alongside some other leftovers.",
+      "audioStart": 212.3,
+      "audioEnd": 218.4,
+      "hint": "选项：leftovers / foods / dishes / meals",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:40.322Z"
+    },
+    {
+      "id": "mso9zkw2qxulif",
+      "videoId": "gB4LAABLvKU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I haven't actually roasted them yet, I've just ___ them.",
+      "back": "parboiled",
+      "context": "I haven't actually roasted them yet, I've just parboiled them.",
+      "audioStart": 221.9,
+      "audioEnd": 225,
+      "hint": "选项：steamed / cooked / parboiled / boiled",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:40.322Z"
+    }
+  ]
+}

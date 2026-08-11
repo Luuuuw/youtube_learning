@@ -1,0 +1,566 @@
+{
+  "videoId": "5nbNEEFfQ1I",
+  "title": "5nbNEEFfQ1I",
+  "generatedAt": "2026-08-10T10:42:28.133Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 9,
+    "medium": 10,
+    "hard": 5,
+    "choice": 19,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the speaker about to do at the beginning of the video?",
+      "options": [
+        "A) Going shopping with friends",
+        "B) Having lunch with Yulian and Jannie",
+        "C) Going to a gym workout",
+        "D) Watching a football match"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[18.9s-23.8s]，说话者说'I am on my way to lunch with Yulian and Jannie and we're getting fish'，说明她正和Yulian和Jannie一起去吃午饭。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 18.9,
+      "endTime": 23.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lunch",
+        "Yulian",
+        "Jannie",
+        "fish"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the phrase 'we always go to the same two places' imply?",
+      "options": [
+        "A) They enjoy exploring new restaurants",
+        "B) They have a routine and limited variety in dining choices",
+        "C) They travel to many different locations",
+        "D) They never eat out together"
+      ],
+      "answer": "B",
+      "explanation": "字幕[26.2s-29.4s]'I feel like we always go to like the same two places'表达了说话者对他们就餐地点选择单调、缺乏变化的感受，暗示了一种惯常的用餐模式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 26.2,
+      "endTime": 29.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "routine",
+        "same",
+        "places",
+        "habit"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is 'Mimi's' likely referring to in the context?",
+      "options": [
+        "A) A person's nickname",
+        "B) A pet's name",
+        "C) A restaurant or food place",
+        "D) A beauty salon"
+      ],
+      "answer": "C",
+      "explanation": "根据上下文[60.6s-72.6s]，说话者刚吃完饭准备去'get Mimi's'，并且之后提到年龄差距等社交话题，说明'Mimi's'应该是指一家餐厅或饮品店。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 60.6,
+      "endTime": 72.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Mimi's",
+        "restaurant",
+        "age gap"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What sporting event is the speaker watching?",
+      "options": [
+        "A) The Olympics",
+        "B) The Super Bowl",
+        "C) The World Cup",
+        "D) The NBA Finals"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕[84.5s-97.3s]，'We are on our way to the World Cup'以及'the World Cup We are watching France vs Sweden'明确表示说话者正在观看世界杯比赛，对阵双方是法国和瑞典。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 84.5,
+      "endTime": 97.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "World Cup",
+        "France",
+        "Sweden",
+        "match"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What item are they picking up for Blair?",
+      "options": [
+        "A) A wedding dress",
+        "B) A pair of shoes",
+        "C) Dress shirts for his tux",
+        "D) A wedding cake"
+      ],
+      "answer": "C",
+      "explanation": "字幕[143.0s-148.0s]提到'We're picking up blair salsa man's dress shirts for his tux'，说明他们正在为Blair的礼服取衬衫。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 143,
+      "endTime": 148,
+      "difficulty": "easy",
+      "relatedWords": [
+        "dress shirts",
+        "tux",
+        "Blair",
+        "wedding"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'You ate all the squid already' most likely express?",
+      "options": [
+        "A) Praise for eating healthy",
+        "B) Surprise that the squid is finished",
+        "C) Disgust at the food",
+        "D) A cooking instruction"
+      ],
+      "answer": "B",
+      "explanation": "字幕[232.3s-235.8s]'You ate all the squid already'是一种惊讶或轻微抱怨的语气，表达对鱿鱼已被吃完的意外。'already'一词加强了这种惊讶感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 232.3,
+      "endTime": 235.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "squid",
+        "already",
+        "surprise",
+        "ate"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is the 'one thing that has changed' likely referring to?",
+      "options": [
+        "A) A new workout routine",
+        "B) Having a home gym",
+        "C) Getting a new car",
+        "D) Moving to a new house"
+      ],
+      "answer": "B",
+      "explanation": "根据上下文[268.5s-278.3s]，说话者提到生活一直很忙但'one thing that has changed'，紧接着她说'And that is my home gym'，说明她新增了家庭健身房。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 268.5,
+      "endTime": 278.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "home gym",
+        "changed",
+        "busy",
+        "smart gym"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "Why did the speaker and her fiance cancel their gym membership?",
+      "options": [
+        "A) Because they moved to a new city",
+        "B) Because they didn't like working out",
+        "C) Because the home smart gym has everything they need",
+        "D) Because of financial issues"
+      ],
+      "answer": "C",
+      "explanation": "字幕[283.4s-296.4s]显示'My fiance and I loved it so much, we actually canceled our gym membership because it literally has everything we need in this compact smart gym.'，说明是因为家用智能健身器材满足了他们的需求。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 283.4,
+      "endTime": 296.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "gym membership",
+        "smart gym",
+        "compact",
+        "fiance"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'space-saving' mean in this context?",
+      "options": [
+        "A) Saving money on rent",
+        "B) Taking up a lot of space",
+        "C) Designed to occupy minimal space",
+        "D) Saving space for future expansion"
+      ],
+      "answer": "C",
+      "explanation": "'space-saving'字面意思是节省空间的。字幕[296.4s-300.0s]'it's extremely space-saving'是在说这款健身器材设计紧凑，占用空间很小。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 296.4,
+      "endTime": 300,
+      "difficulty": "easy",
+      "relatedWords": [
+        "space-saving",
+        "compact",
+        "design",
+        "equipment"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the function of the Bluetooth smart ring mentioned?",
+      "options": [
+        "A) To track heart rate only",
+        "B) To make phone calls",
+        "C) To adjust the weights",
+        "D) To play music"
+      ],
+      "answer": "C",
+      "explanation": "字幕[333.2s-337.6s]'And it also comes with this Bluetooth smart ring which you can use to adjust the weights'清楚地说明蓝牙智能环的用途是调节重量。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 333.2,
+      "endTime": 337.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Bluetooth",
+        "smart ring",
+        "weights",
+        "adjust"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What is the speaker emphasizing when she says 'can just easily move like this'?",
+      "options": [
+        "A) That the equipment is heavy",
+        "B) That the equipment is portable/movable",
+        "C) That she likes to dance",
+        "D) That the equipment is expensive"
+      ],
+      "answer": "B",
+      "explanation": "字幕[341.7s-344.1s]'can just easily move like this'是在展示健身器材的便捷性和可移动性，强调它方便搬动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 341.7,
+      "endTime": 344.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "easily move",
+        "portable",
+        "convenient",
+        "equipment"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'Intelligently' most likely modify in the sentence about the smart gym?",
+      "options": [
+        "A) The user's intelligence",
+        "B) The way personal data and metrics are managed",
+        "C) The brand of the gym",
+        "D) The training program"
+      ],
+      "answer": "B",
+      "explanation": "字幕[359.5s-364.2s]中'Intelligently'是修饰后面关于个人档案和指标的处理方式，意思是'智能地'管理用户的个人资料和数据。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 359.5,
+      "endTime": 364.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Intelligently",
+        "profile",
+        "metrics",
+        "smart"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "Where is the speaker getting laser touch-ups?",
+      "options": [
+        "A) At a regular spa",
+        "B) At Beverly Hills Rejuvenation Center",
+        "C) At her home",
+        "D) At a hospital"
+      ],
+      "answer": "B",
+      "explanation": "字幕[383.0s-389.9s]明确说明'I am at Beverly Hills Rejuvenation Center getting some laser touch-ups'，地点是贝弗利山庄的医疗美容中心。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 383,
+      "endTime": 389.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Beverly Hills",
+        "Rejuvenation Center",
+        "laser",
+        "touch-ups"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "Why is the speaker getting laser treatments?",
+      "options": [
+        "A) To remove all her hair",
+        "B) To treat a scar and some moles before her wedding",
+        "C) To cure a disease",
+        "D) For a medical surgery"
+      ],
+      "answer": "B",
+      "explanation": "字幕[383.0s-401.3s]显示她来Beverly Hills Rejuvenation Center是为了处理'some moles'以及结婚前的'laser touch-ups'，包括一个不会消失的疤痕(scar that's never fading)。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 383,
+      "endTime": 401.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "laser",
+        "moles",
+        "scar",
+        "wedding"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What makes this hair appointment significant?",
+      "options": [
+        "A) It's her first hair appointment ever",
+        "B) It's the last one before her wedding",
+        "C) It's a free appointment",
+        "D) It's at a famous salon"
+      ],
+      "answer": "B",
+      "explanation": "字幕[417.6s-422.8s]'today is my last hair appointment before my weddings'明确表明这是婚礼前的最后一次理发预约，所以很特别。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 417.6,
+      "endTime": 422.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "last",
+        "hair appointment",
+        "wedding",
+        "special"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "Which foundation brand does the speaker mention as her favorite?",
+      "options": [
+        "A) MAC",
+        "B) Clé de Peau",
+        "C) NARS",
+        "D) Fenty Beauty"
+      ],
+      "answer": "B",
+      "explanation": "字幕[455.8s-460.4s]'Favorite foundation, this is called The Foundation by Clé de Peau'明确指出她最喜欢的粉底液品牌是Clé de Peau（肌肤之钥）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 455.8,
+      "endTime": 460.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "foundation",
+        "Clé de Peau",
+        "favorite",
+        "makeup"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What type of finish does the 'Radiant Fluid Foundation Matte' have?",
+      "options": [
+        "A) Glossy and shiny",
+        "B) Matte (non-shiny)",
+        "C) Dewy and wet",
+        "D) Sparkly"
+      ],
+      "answer": "B",
+      "explanation": "字幕[467.1s-471.0s]提到的'Radiant Fluid Foundation Matte'虽然名字中有'Radiant'（光泽），但'Matte'一词明确表示它是哑光效果（即不反光）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 467.1,
+      "endTime": 471,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Radiant",
+        "Matte",
+        "foundation",
+        "finish"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the context of 'I just wanted to see a while ago'?",
+      "options": [
+        "A) She wants to buy something",
+        "B) She's been looking forward to seeing someone/something for a while",
+        "C) She's waiting at a bus stop",
+        "D) She's calling her friend"
+      ],
+      "answer": "B",
+      "explanation": "字幕[676.9s-679.4s]'I just wanted to see a while ago'表达了她渴望见到某人或某物已经有一段时间了，'a while ago'在这里不是过去时态，而是表示'很久了'的愿望。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 676.9,
+      "endTime": 679.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "wanted to see",
+        "a while",
+        "look forward"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "Based on the subtitle 'was like i'm so jealous we need to take your mom so he actually booked', what is being planned?",
+      "options": [
+        "A) A family dinner at home",
+        "B) A trip for the mom",
+        "C) A shopping trip",
+        "D) A birthday party"
+      ],
+      "answer": "B",
+      "explanation": "字幕[745.7s-750.5s]'we need to take your mom so he actually booked'显示说话者（很可能是她的伴侣）因为羡慕别人带妈妈去玩，所以预订了一次带妈妈出行的旅行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 745.7,
+      "endTime": 750.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "jealous",
+        "booked",
+        "trip",
+        "mom"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "Describe the speaker's morning activities based on the video. What did she do before going to lunch?",
+      "options": [],
+      "answer": "open",
+      "explanation": "根据视频内容，说话者在午餐前主要和Yulian、Jannie一起活动，提到他们总是去相同的两个地方用餐，并准备去拿'Mimi's'以及买抹茶（matcha）。",
+      "referenceAnswer": "The speaker was on her way to have lunch with her friends Yulian and Jannie. She mentioned that they always go to the same two places, and they planned to get matcha after eating.",
+      "hint": "Think about who she was meeting and what food/drink was mentioned.",
+      "startTime": 18.9,
+      "endTime": 34,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lunch",
+        "friends",
+        "matcha",
+        "Yulian",
+        "Jannie"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Tell me about the World Cup experience the speaker had. Who was she watching the match with?",
+      "options": [],
+      "answer": "open",
+      "explanation": "根据字幕，说话者和朋友们一起去观看世界杯比赛France vs Sweden（法国对瑞典），她提到自己的声音有些问题（Oh my voice），并且对比赛感到紧张（I'm so nervous）。",
+      "referenceAnswer": "The speaker went to watch a World Cup match between France and Sweden. She was with her friends, mentioned her voice sounded off, and felt nervous about the match.",
+      "hint": "Mention the teams playing and how she felt about it.",
+      "startTime": 84.5,
+      "endTime": 101.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "World Cup",
+        "France",
+        "Sweden",
+        "nervous"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe the home smart gym the speaker introduced. What are its key features?",
+      "options": [],
+      "answer": "open",
+      "explanation": "根据视频内容，这款智能家用健身器材具有以下特点：1) 节省空间（space-saving）；2) 配备蓝牙智能环可调节重量；3) 安全性好（lifting safe and secure）；4) 智能管理个人数据和指标；5) 紧凑型设计，含有所有需要的功能。",
+      "referenceAnswer": "The home smart gym is space-saving and compact. It comes with a Bluetooth smart ring to adjust weights, has intelligent features for tracking personal profiles and metrics, and is safe and secure. The speaker and her fiance liked it so much that they canceled their gym membership.",
+      "hint": "Mention space-saving, Bluetooth ring, safety features, and the canceled gym membership.",
+      "startTime": 275.8,
+      "endTime": 364.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "smart gym",
+        "space-saving",
+        "Bluetooth",
+        "compact"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Why is the speaker going through various beauty treatments? What's the special occasion?",
+      "options": [],
+      "answer": "open",
+      "explanation": "根据视频内容，说话者即将举办婚礼（weddings），因此进行了一系列美容护理：在Beverly Hills Rejuvenation Center做激光修复（处理疤痕和痣），婚礼前最后一次理发，以及尝试不同的粉底液（Clé de Peau的The Foundation和Radiant Fluid Foundation Matte）。",
+      "referenceAnswer": "The speaker is preparing for her wedding. She went to Beverly Hills Rejuvenation Center for laser touch-ups to treat a scar and some moles. She also had her last hair appointment before the wedding and was testing different foundations to look her best.",
+      "hint": "Mention the wedding, laser treatments at Beverly Hills, and the last hair appointment.",
+      "startTime": 383,
+      "endTime": 481.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "wedding",
+        "laser",
+        "Beverly Hills",
+        "hair appointment"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "What was planned for the speaker's mother based on the conversation? Why was this decision made?",
+      "options": [],
+      "answer": "open",
+      "explanation": "根据字幕[745.7s-750.5s]，说话者的伴侣（he）因为看到别人带妈妈出去玩感到嫉妒（'i'm so jealous we need to take your mom'），所以预订了带妈妈出行的旅行。",
+      "referenceAnswer": "The speaker's partner booked a trip for her mom because he felt jealous seeing other people taking their moms on trips. He decided they should take her mom on a trip too.",
+      "hint": "Mention jealousy and the booking decision.",
+      "startTime": 745.7,
+      "endTime": 750.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "jealous",
+        "mom",
+        "trip",
+        "booked"
+      ]
+    }
+  ]
+}

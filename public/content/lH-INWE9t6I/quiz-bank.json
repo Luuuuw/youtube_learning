@@ -1,0 +1,566 @@
+{
+  "videoId": "lH-INWE9t6I",
+  "title": "lH-INWE9t6I",
+  "generatedAt": "2026-08-10T11:04:12.775Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 8,
+    "medium": 12,
+    "hard": 5,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I'm kind of annoyed that I forgot the salmon'?",
+      "options": [
+        "A) She is happy she didn't buy salmon",
+        "B) She is slightly upset because she forgot to buy salmon",
+        "C) She is extremely angry about the salmon",
+        "D) She forgot where she put the salmon"
+      ],
+      "answer": "B",
+      "explanation": "'Kind of annoyed' 意为'有点恼火/烦人'，表示轻微的不满情绪。结合 'forgot the salmon'（忘了买三文鱼），说话人因为忘记买三文鱼而感到有点不爽。这不是极端愤怒（A、C），也不是忘记了东西放在哪里（D）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 245.5,
+      "endTime": 250.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "annoyed",
+        "forgot",
+        "salmon"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "In 'oh no we're gonna have a vegetarian breakfast then shall we', what is the speaker's attitude?",
+      "options": [
+        "A) Excited about vegetarian food",
+        "B) Disappointed but accepting the situation",
+        "C) Angry about the change of plan",
+        "D) Confused about what to eat"
+      ],
+      "answer": "B",
+      "explanation": "'Oh no' 表达了轻微的失望，但 'shall we'（我们要不……）的语气是建议性的，说明说话人接受了这个替代方案，态度是失望但坦然接受。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 252.3,
+      "endTime": 258.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vegetarian",
+        "breakfast",
+        "shall we"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'I can't compromise' mean in the context 'I can't compromise I've decided'?",
+      "options": [
+        "A) She is willing to change her mind",
+        "B) She refuses to make a concession or change her decision",
+        "C) She doesn't understand the word",
+        "D) She is asking for suggestions"
+      ],
+      "answer": "B",
+      "explanation": "'Compromise' 意为'妥协/让步'。'I can't compromise, I've decided' 表示说话人已经下定决心，不愿再做让步或改变决定。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 260.9,
+      "endTime": 268.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "compromise",
+        "decided",
+        "refuse"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is the speaker implying by 'And I still need to go to work'?",
+      "options": [
+        "A) She enjoys going to work very much",
+        "B) She has work obligations despite not feeling well",
+        "C) She has already finished her work",
+        "D) She is going to quit her job"
+      ],
+      "answer": "B",
+      "explanation": "'Still need to go to work' 暗示说话人虽然可能有其他状况（结合上下文如偏头痛等），但仍然有工作要做，体现了责任感和忙碌的状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 289.6,
+      "endTime": 291.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "work",
+        "need",
+        "still"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'I burnt my kitchen towel' suggest about the cooking process?",
+      "options": [
+        "A) The cooking was very successful",
+        "B) There was a small accident during cooking",
+        "C) The towel was intentionally burnt",
+        "D) The kitchen caught fire"
+      ],
+      "answer": "B",
+      "explanation": "'I burnt my kitchen towel' 暗示在烹饪过程中出现了一个小意外——厨房毛巾被烧焦了。这不是大灾难（厨房着火），也不是故意行为，而是烹饪中的小失误。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 339,
+      "endTime": 341.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "burnt",
+        "kitchen towel",
+        "cooking"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "In 'whenever I make this bagel to my friends, they're like, I want more', what does 'they're like' mean?",
+      "options": [
+        "A) They are physically similar to bagels",
+        "B) They respond or say something like that",
+        "C) They dislike the bagels",
+        "D) They are all alike in taste"
+      ],
+      "answer": "B",
+      "explanation": "'They're like' 是口语中常见的表达，意思是'他们说/他们的反应是'。这里指朋友们吃了贝果后表示还想要更多，是对其手艺的赞美。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 354.6,
+      "endTime": 359.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "they're like",
+        "bagel",
+        "friends"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'I didn't learn this from social media, my flatmate when I was in medical' imply?",
+      "options": [
+        "A) The tip came from an online source",
+        "B) The knowledge came from her medical school flatmate",
+        "C) She learned it from a social media post",
+        "D) Her flatmate is not in medical school"
+      ],
+      "answer": "B",
+      "explanation": "这句话的意思是：'我不是从社交媒体上学到这个的，是我医学院的室友教我的'。说话人在强调这个建议的来源是医学背景的真人，而非网络。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 387.4,
+      "endTime": 391.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "flatmate",
+        "medical",
+        "social media"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'put it in the fridge and it will be fresh and not dark' mean?",
+      "options": [
+        "A) The food will be frozen",
+        "B) The food will stay fresh and won't oxidize/brown",
+        "C) The food will be spoiled",
+        "D) The food will turn black"
+      ],
+      "answer": "B",
+      "explanation": "'Fresh and not dark' 意思是'新鲜且不会变暗/变色'。这里指把东西放进冰箱可以保持新鲜，避免氧化变深色（如苹果、牛油果切开后变褐）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 394.5,
+      "endTime": 398.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fridge",
+        "fresh",
+        "dark"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I'm getting warm'?",
+      "options": [
+        "A) She is starting to feel hot",
+        "B) She is about to win a game",
+        "C) She is becoming friendly with someone",
+        "D) She is feeling cold"
+      ],
+      "answer": "A",
+      "explanation": "'I'm getting warm' 在日常口语中通常表示'我开始觉得热了'，可能是因为运动、天气或环境温度升高。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 399.6,
+      "endTime": 401.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "getting warm",
+        "hot",
+        "temperature"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the speaker talking about when mentioning 'vitamin D tablets' and 'sunshine'?",
+      "options": [
+        "A) A skincare routine",
+        "B) Health advice for people in the UK with limited sun exposure",
+        "C) A cooking recipe",
+        "D) A travel plan"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文 'in the UK we're advised to take vitamin D tablets during autumn and winter' 以及 'this country gets less sunshine'，说话人是在提供健康建议：因为英国阳光少，建议在秋冬季节补充维生素D。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 547.4,
+      "endTime": 559,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vitamin D",
+        "UK",
+        "sunshine"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'over-the-counter vitamin D tablet' mean?",
+      "options": [
+        "A) A prescription medicine",
+        "B) A vitamin D supplement that can be bought without a prescription",
+        "C) A tablet sold on the street",
+        "D) An illegal drug"
+      ],
+      "answer": "B",
+      "explanation": "'Over-the-counter'（OTC）是指无需医生处方、可以直接在药店或商店购买的药品或保健品。'Over-the-counter vitamin D tablet' 就是非处方维生素D片。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 577.5,
+      "endTime": 583.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "over-the-counter",
+        "vitamin D",
+        "tablet"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'having similar symptoms to what you have, you think, oh my god, I might have a disease' describe?",
+      "options": [
+        "A) A doctor's diagnosis",
+        "B) Hypochondria or self-diagnosis after searching online",
+        "C) A medical lecture",
+        "D) A health survey"
+      ],
+      "answer": "B",
+      "explanation": "这句话描述了很多人上网搜索健康信息后的反应：看到类似症状就觉得自己可能得了重病。'They would think, oh my god, I have this, I have that' 表现出一种焦虑的自我诊断心理。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 529.4,
+      "endTime": 543.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "symptoms",
+        "disease",
+        "self-diagnosis"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'I bet this sits here' mean?",
+      "options": [
+        "A) She thinks this object is designed to be placed here",
+        "B) She is sitting down",
+        "C) She is losing a bet",
+        "D) She wants to sit on it"
+      ],
+      "answer": "A",
+      "explanation": "'I bet this sits here' 是口语表达，意思是'我猜这个东西就是放在这里的'。'Bet' 在这里表示'猜测/打赌'，'sits' 表示'放置'。整句话是她对物品摆放位置的推测。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 721.4,
+      "endTime": 725.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "bet",
+        "sits",
+        "placement"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "In the context of shopping, what does 'Sorry I forgot to get something' suggest?",
+      "options": [
+        "A) She completed all her shopping",
+        "B) She needs to go back to get an item she missed",
+        "C) She is apologizing for the store's mistake",
+        "D) She is leaving the store"
+      ],
+      "answer": "B",
+      "explanation": "'Sorry I forgot to get something' 意为'抱歉我忘了拿一个东西'，暗示说话人需要回头去取忘记购买的东西。结合后文 'Can I go get that?' 进一步确认了这一含义。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 159,
+      "endTime": 161.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "forgot",
+        "get",
+        "shopping"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What is the grammatical structure of 'this morning because I had a really bad migraine yesterday'?",
+      "options": [
+        "A) Simple present tense",
+        "B) Past perfect tense",
+        "C) Past simple tense with causal conjunction",
+        "D) Future tense"
+      ],
+      "answer": "C",
+      "explanation": "句中使用了 'because'（因为）作为原因状语从句的连接词，主句 'I went to bed this morning' 和从句 'I had a really bad migraine yesterday' 都使用了过去式（past simple）。这是一个典型的因果复合句。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 42,
+      "endTime": 50.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "because",
+        "past simple",
+        "migraine"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'hours later the next day at 2 a.m. and since then I couldn't go back' describe?",
+      "options": [
+        "A) A successful night's sleep",
+        "B) A prolonged period of sleeplessness due to migraine",
+        "C) A short nap",
+        "D) A morning workout"
+      ],
+      "answer": "B",
+      "explanation": "这句话描述了说话人因偏头痛而在凌晨2点醒来后就再也无法入睡的长期失眠情况。'Since then I couldn't go back (to sleep)' 强调了失眠的持续性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 50.5,
+      "endTime": 54.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "hours later",
+        "2 a.m.",
+        "couldn't go back"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker mean by 'Shall we see if that was okay?'",
+      "options": [
+        "A) Let's check the result",
+        "B) Let's leave the place",
+        "C) Let's order food",
+        "D) Let's buy something"
+      ],
+      "answer": "A",
+      "explanation": "'Shall we see if that was okay?' 意为'我们要不要看看那个东西行不行/可不可以？'。这里说话人在提议检查某个动作或东西的结果/效果是否令人满意。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 850.7,
+      "endTime": 853.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "shall we",
+        "see if",
+        "okay"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'You can just take some onto it' mean?",
+      "options": [
+        "A) Remove something from it",
+        "B) Apply or add some onto it",
+        "C) Carry it away",
+        "D) Throw it away"
+      ],
+      "answer": "B",
+      "explanation": "'Take some onto it' 在这个语境下意为'往上面弄一点/涂一点'，通常指将某种东西（如食物、调料等）放到另一个东西上面。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 862.2,
+      "endTime": 863.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "take",
+        "onto",
+        "apply"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'going to go get a drink' imply about the speaker's intention?",
+      "options": [
+        "A) She is staying where she is",
+        "B) She is planning to get herself a beverage",
+        "C) She has already finished her drink",
+        "D) She is refusing a drink"
+      ],
+      "answer": "B",
+      "explanation": "'Going to go get a drink' 表达了她打算去拿一杯饮料的意图。'Going to' 用于表达计划，'get a drink' 意为'拿/买杯饮料'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 635.7,
+      "endTime": 636.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "going to",
+        "get a drink",
+        "intention"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'I think this is what the monitor sits on, right?' mean?",
+      "options": [
+        "A) The monitor is broken",
+        "B) She is identifying the platform/stand for the monitor",
+        "C) She wants to sell the monitor",
+        "D) She is sitting on the monitor"
+      ],
+      "answer": "B",
+      "explanation": "'This is what the monitor sits on' 意为'这就是显示器放置的地方/底座'。说话人在识别或确认一个物品是显示器的支架或放置平台。'Right?' 用于寻求确认。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 687.6,
+      "endTime": 691.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "monitor",
+        "sits on",
+        "platform"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe a time when you were 'annoyed' about forgetting something important. How did you handle it?",
+      "options": [],
+      "answer": "open",
+      "explanation": "此口语题考察学生是否能用英语表达类似 'kind of annoyed' 的情绪以及处理问题的经验。学习者应描述具体情境、感受和应对方式。",
+      "referenceAnswer": "Sample answer: I was kind of annoyed when I forgot my umbrella on a rainy day. I had to go back home and was late for my meeting. I handled it by buying a new one at a nearby shop and learned to check my bag before leaving home.",
+      "hint": "Use 'kind of annoyed', describe what you forgot, how you felt, and what you did next.",
+      "startTime": 245.5,
+      "endTime": 268.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "annoyed",
+        "forgot",
+        "experience"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "What do you usually do when you have a bad migraine or headache? Share your experience.",
+      "options": [],
+      "answer": "open",
+      "explanation": "考察学生能否用英语描述健康相关的个人经历。可以使用 'migraine', 'go to bed', 'rest', 'medicine' 等词汇。",
+      "referenceAnswer": "Sample answer: When I have a bad migraine, I usually go to bed early and try to sleep in a dark, quiet room. I also take some pain relief medicine and drink plenty of water. Sometimes I put a cold compress on my forehead.",
+      "hint": "Mention: symptoms, what you do, where you rest, and how long it takes to recover.",
+      "startTime": 42,
+      "endTime": 54.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "migraine",
+        "rest",
+        "health"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Why do you think people in some countries need to take vitamin D tablets? Explain your opinion.",
+      "options": [],
+      "answer": "open",
+      "explanation": "考察学生能否用英语讨论健康话题，包括阳光、维生素D和地区气候的关系。可使用 'sunshine', 'vitamin D', 'supplement' 等词汇。",
+      "referenceAnswer": "Sample answer: People in countries with less sunshine, like the UK, may not get enough vitamin D from sunlight, especially during autumn and winter. Taking vitamin D tablets can help maintain healthy bones and immune system. It's a common health recommendation in many northern countries.",
+      "hint": "Consider: weather, sunlight exposure, health benefits, and who might need supplements.",
+      "startTime": 547.4,
+      "endTime": 559,
+      "difficulty": "hard",
+      "relatedWords": [
+        "vitamin D",
+        "sunshine",
+        "health supplement"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Tell me about a time you accidentally burnt something in the kitchen. What happened?",
+      "options": [],
+      "answer": "open",
+      "explanation": "考察学生能否用英语描述厨房小事故的经历。可以用 'burnt', 'kitchen', 'cooking', 'accident' 等词汇组织故事。",
+      "referenceAnswer": "Sample answer: Once I was making toast and completely forgot about it while checking my phone. By the time I smelled something burning, the kitchen towel near the toaster had caught fire. I quickly turned off the toaster and threw the towel in the sink. It was a scary lesson to never leave the kitchen while cooking.",
+      "hint": "Describe: what you were cooking, how the accident happened, and what you learned from it.",
+      "startTime": 339,
+      "endTime": 359.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "burnt",
+        "kitchen",
+        "accident"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Do you have a signature dish that your friends always ask for more? Describe it.",
+      "options": [],
+      "answer": "open",
+      "explanation": "考察学生能否用英语介绍自己的拿手菜。可以使用 'whenever I make', 'they're like', 'I want more' 等口语化表达。",
+      "referenceAnswer": "Sample answer: Yes! I make amazing chocolate chip cookies. Whenever I make them for my friends, they're like, 'I want more!' The secret is using brown butter and a pinch of sea salt on top. I always put them in the fridge so they stay fresh and chewy.",
+      "hint": "Use 'whenever I make...', 'they're like...', and describe what makes your dish special.",
+      "startTime": 354.6,
+      "endTime": 398.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "signature dish",
+        "friends",
+        "cooking"
+      ]
+    }
+  ]
+}

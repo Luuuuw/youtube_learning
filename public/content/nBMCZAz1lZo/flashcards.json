@@ -1,0 +1,436 @@
+{
+  "videoId": "nBMCZAz1lZo",
+  "generatedAt": "2026-08-11T06:27:31.305Z",
+  "cards": [
+    {
+      "id": "msoa38tk5n7qd6",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "thrifting",
+      "back": "淘二手货 (noun, B1)",
+      "context": "I love taking you guys **thrifting**.",
+      "audioStart": 25.12,
+      "audioEnd": 27.8,
+      "word": "thrifting",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.304Z"
+    },
+    {
+      "id": "msoa38tkdjcwbm",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "curated",
+      "back": "精心挑选的 (adjective, B2)",
+      "context": "They're not like **curated** vintage stores today.",
+      "audioStart": 63.64,
+      "audioEnd": 66.82,
+      "word": "curated",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.304Z"
+    },
+    {
+      "id": "msoa38tkv8bi60",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "silhouette",
+      "back": "轮廓，剪影 (noun, B2)",
+      "context": "It's very like simple clothing yet It's sexy **silhouettes**.",
+      "audioStart": 92.42,
+      "audioEnd": 98.04,
+      "word": "silhouette",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.304Z"
+    },
+    {
+      "id": "msoa38tkpj4dij",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "palette",
+      "back": "调色板，配色 (noun, B2)",
+      "context": "Thrift with a color **palette** in mind.",
+      "audioStart": 105.74,
+      "audioEnd": 108.56,
+      "word": "palette",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.304Z"
+    },
+    {
+      "id": "msoa38tkk38xyz",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "chic",
+      "back": "时髦的，别致的 (adjective, B1)",
+      "context": "I feel like it'd be so **chic** for the fall and winter season.",
+      "audioStart": 200.7,
+      "audioEnd": 203.96,
+      "word": "chic",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.304Z"
+    },
+    {
+      "id": "msoa38tln80zd9",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "foreshadowing",
+      "back": "预示，伏笔 (verb, C1)",
+      "context": "I'm **foreshadowing** the thrift haul.",
+      "audioStart": 277.46,
+      "audioEnd": 278.88,
+      "word": "foreshadowing",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.305Z"
+    },
+    {
+      "id": "msoa38tlml3puf",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "luxurious",
+      "back": "奢华的，豪华的 (adjective, B2)",
+      "context": "The most **luxurious** thick sweater I've ever put on my body.",
+      "audioStart": 289.76,
+      "audioEnd": 293.82,
+      "word": "luxurious",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.305Z"
+    },
+    {
+      "id": "msoa38tluf9kcr",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "overstimulated",
+      "back": "过度刺激的 (adjective, C1)",
+      "context": "I was **overstimulated** to say the least.",
+      "audioStart": 310.88,
+      "audioEnd": 315.7,
+      "word": "overstimulated",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.305Z"
+    },
+    {
+      "id": "msoa38tl1xais0",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "mayhem",
+      "back": "混乱，骚乱 (noun, C1)",
+      "context": "It was **mayhem**.",
+      "audioStart": 357.42,
+      "audioEnd": 370.84,
+      "word": "mayhem",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.305Z"
+    },
+    {
+      "id": "msoa38tlyn9sef",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intentional",
+      "back": "有意的，故意的 (adjective, B2)",
+      "context": "I think I was very **intentional** this time around.",
+      "audioStart": 564.86,
+      "audioEnd": 566.96,
+      "word": "intentional",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.305Z"
+    },
+    {
+      "id": "msoa38tlfy58r4",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "pristine",
+      "back": "崭新的，完美的 (adjective, C1)",
+      "context": "Perfect, beautiful, **Pristine** Coach Pumps.",
+      "audioStart": 712.68,
+      "audioEnd": 716.58,
+      "word": "pristine",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.305Z"
+    },
+    {
+      "id": "msoa38tlzo5ve5",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "discreet",
+      "back": "谨慎的，低调的 (adjective, B2)",
+      "context": "The buttons are super **discreet**.",
+      "audioStart": 649.6,
+      "audioEnd": 652.72,
+      "word": "discreet",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:31.305Z"
+    },
+    {
+      "id": "msoa37qrfekaom",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I need a lot of ___ So that's the main goal",
+      "back": "sweaters",
+      "context": "I need a lot of sweaters So that's the main goal",
+      "audioStart": 140,
+      "audioEnd": 144.6,
+      "hint": "选项：sweaters / dresses / pants / shirts",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.907Z"
+    },
+    {
+      "id": "msoa37qrlgobb2",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) If you guys didn't know, I currently go to ___ Institute",
+      "back": "Fashion",
+      "context": "If you guys didn't know, I currently go to Fashion Institute",
+      "audioStart": 377.6,
+      "audioEnd": 383.2,
+      "hint": "选项：Art / Design / Fashion / Music",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.907Z"
+    },
+    {
+      "id": "msoa37qrmo51xk",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) ___ clothing that I can definitely layer on top of and use all together.",
+      "back": "sleek",
+      "context": "sleek clothing that I can definitely layer on top of and use all together.",
+      "audioStart": 110.2,
+      "audioEnd": 116.5,
+      "hint": "选项：loose / bright / sleek / heavy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.907Z"
+    },
+    {
+      "id": "msoa37qrpn0az9",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I think I was very ___ this time around. I've become such a picky shopper which I really appreciate",
+      "back": "intentional",
+      "context": "I think I was very intentional this time around. I've become such a picky shopper which I really appreciate",
+      "audioStart": 562.2,
+      "audioEnd": 566.6,
+      "hint": "选项：casual / random / intentional / careful",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.907Z"
+    },
+    {
+      "id": "msoa37qr811uk7",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) go into a thrift store and it is the most ___ loud music blasting throughout the store. I can't.",
+      "back": "obnoxiously",
+      "context": "go into a thrift store and it is the most obnoxiously loud music blasting throughout the store. I can't.",
+      "audioStart": 319.6,
+      "audioEnd": 325.8,
+      "hint": "选项：incredibly / obnoxiously / annoyingly / extremely",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.907Z"
+    },
+    {
+      "id": "msoa37qr8s14fd",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) didn't see a ___ room i'm pretty sure there isn't one in the second street then i",
+      "back": "fitting",
+      "context": "didn't see a fitting room i'm pretty sure there isn't one in the second street then i",
+      "audioStart": 479.9,
+      "audioEnd": 485.5,
+      "hint": "选项：changing / dressing / trying / fitting",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.907Z"
+    },
+    {
+      "id": "msoa37qrt6pua7",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) ___ clothing that I can definitely layer on top of and use all together.",
+      "back": "sleek",
+      "context": "sleek clothing that I can definitely layer on top of and use all together.",
+      "audioStart": 110.2,
+      "audioEnd": 116.5,
+      "hint": "选项：heavy / loose / bright / sleek",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.907Z"
+    },
+    {
+      "id": "msoa37qrfud8re",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I guess you could say it's very ___ The sleeves don't keep me",
+      "back": "thin",
+      "context": "I guess you could say it's very thin The sleeves don't keep me",
+      "audioStart": 617.1,
+      "audioEnd": 620.6,
+      "hint": "选项：long / warm / thick / thin",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.907Z"
+    },
+    {
+      "id": "msoa37sfajtqky",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我一定会再回去光顾的 今天要是去淘衣服的话，我肯定回那家。\n___ I ___ ___ ___ thrifting today, I would have gone back to that one.",
+      "back": "If / would / have / gotten",
+      "context": "If I would have gotten thrifting today, I would have gone back to that one.",
+      "audioStart": 583.158,
+      "audioEnd": 585.858,
+      "hint": "If I would have gotten",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.967Z"
+    },
+    {
+      "id": "msoa37sgywrv0j",
+      "videoId": "nBMCZAz1lZo",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我一定会再回去光顾的 今天要是去淘衣服的话，我肯定回那家。\nIf I ___ ___ gotten thrifting today, I would have ___ ___ to that one.",
+      "back": "would / have / gone / back",
+      "context": "If I would have gotten thrifting today, I would have gone back to that one.",
+      "audioStart": 583.158,
+      "audioEnd": 585.858,
+      "hint": "would have gone back",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:29.968Z"
+    }
+  ]
+}

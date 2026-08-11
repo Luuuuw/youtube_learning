@@ -1,0 +1,601 @@
+{
+  "videoId": "VxjqkQwP4BI",
+  "title": "VxjqkQwP4BI",
+  "generatedAt": "2026-08-10T11:22:13.507Z",
+  "version": 1,
+  "totalQuestions": 26,
+  "stats": {
+    "easy": 5,
+    "medium": 14,
+    "hard": 7,
+    "choice": 22,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the speaker mainly doing in this video?",
+      "options": [
+        "A) Performing live on stage",
+        "B) Going through photos from her camera roll",
+        "C) Teaching an art class",
+        "D) Filming a music video"
+      ],
+      "answer": "B",
+      "explanation": "视频开头和结尾（230.4s-235.2s）都说'I hope you enjoyed looking through my camera roll'，说明她在分享自己相册里的照片。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 230.4,
+      "endTime": 235.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "camera roll",
+        "photo",
+        "share"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "Who is Phineas in the video?",
+      "options": [
+        "A) Her bandmate",
+        "B) Her trainer",
+        "C) Her brother",
+        "D) Her friend Alex"
+      ],
+      "answer": "C",
+      "explanation": "字幕[31]中提到'This is a photo of me and my brother Phineas'，明确Phineas是她的兄弟。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 9.3,
+      "endTime": 15,
+      "difficulty": "easy",
+      "relatedWords": [
+        "brother",
+        "photo",
+        "Phineas"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does 'This is on tour in my green room after the show' imply?",
+      "options": [
+        "A) She was performing on stage",
+        "B) The photo was taken backstage after a concert",
+        "C) She was at home relaxing",
+        "D) She was recording an album"
+      ],
+      "answer": "B",
+      "explanation": "'green room'是演出后台供艺人休息的房间，'on tour'表示巡演中，'after the show'说明演出之后，所以这是演出后在后台拍的照片。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 25.2,
+      "endTime": 28.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "green room",
+        "on tour",
+        "after the show"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What turned into a 'DIY homemade mosh pit'?",
+      "options": [
+        "A) A recording session",
+        "B) A two-hour jam",
+        "C) A photo shoot",
+        "D) A workout routine"
+      ],
+      "answer": "B",
+      "explanation": "字幕[35]说'This was like a two-hour jam that turned into this like DIY homemade mosh pit'，即两个小时的即兴演奏变成了一场自制的朋克摇滚舞池。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 29.1,
+      "endTime": 34.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "jam",
+        "mosh pit",
+        "DIY"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "Who is Alex?",
+      "options": [
+        "A) Her trainer",
+        "B) Her brother",
+        "C) Her friend playing guitar",
+        "D) Her bass player"
+      ],
+      "answer": "C",
+      "explanation": "字幕[36]说'That's my friend Alex playing guitar'，说明Alex是她的朋友，弹吉他。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 37.9,
+      "endTime": 40.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "friend",
+        "guitar",
+        "Alex"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Which song is mentioned as having an acoustic version?",
+      "options": [
+        "A) Let It Be",
+        "B) Let the Body Sit on the Floor",
+        "C) Body on the Ground",
+        "D) Floor Sitting"
+      ],
+      "answer": "B",
+      "explanation": "字幕[9]明确提到'Acoustic version of Let the Body Sit on the Floor'，这是歌名的原声吉他版本。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 40.1,
+      "endTime": 42.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "acoustic version",
+        "song",
+        "Let the Body Sit on the Floor"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "In the photo booth, whose feet are 'poking out'?",
+      "options": [
+        "A) Just hers",
+        "B) Her brother and her",
+        "C) Hers and 'the girls' (little children)",
+        "D) The whole band's"
+      ],
+      "answer": "C",
+      "explanation": "字幕[17]说'So you can see my little Jordans and then the girls little Mary Janes poking out'，Jordans是她的鞋，Mary Janes是女孩们的鞋。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 54.6,
+      "endTime": 64.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Jordans",
+        "Mary Janes",
+        "photo booth"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is a 'cattail' based on the context?",
+      "options": [
+        "A) An animal",
+        "B) A type of food",
+        "C) A plant found in the wild",
+        "D) A musical instrument"
+      ],
+      "answer": "C",
+      "explanation": "字幕[43]说'It's a plant that you see'，并提到'it's in the wild'，说明cattail（香蒲/蒲公英）是一种野生植物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 68.9,
+      "endTime": 75.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "cattail",
+        "plant",
+        "wild"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Why was the bassist wondering why she did 'such a thing'?",
+      "options": [
+        "A) She broke a guitar",
+        "B) She bit into a cattail",
+        "C) She climbed a mountain",
+        "D) She drew in a notebook"
+      ],
+      "answer": "B",
+      "explanation": "字幕[39]提到'So here's a photo of me having just bitten into a cattail and solo my bassist wondering why I did such a thing'，因为她咬了蒲草所以贝斯手很困惑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 92.7,
+      "endTime": 102.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "bassist",
+        "cattail",
+        "bitten"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does she do with a notebook on tour?",
+      "options": [
+        "A) Writes song lyrics",
+        "B) Makes everyone on tour draw a full picture and sign it",
+        "C) Takes meeting notes",
+        "D) Records setlists"
+      ],
+      "answer": "B",
+      "explanation": "字幕[7]和[45]提到'I basically have a notebook that I make everyone on tour draw a full picture in and then sign it'，她让巡演中每个人在笔记本上画画并签名。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 105.8,
+      "endTime": 113.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "notebook",
+        "draw",
+        "sign",
+        "tour"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What was Ava trying to practice drawing?",
+      "options": [
+        "A) A cat",
+        "B) A land with animals",
+        "C) A horse",
+        "D) A flower bouquet"
+      ],
+      "answer": "C",
+      "explanation": "字幕[3]和[47]提到Ava想画陆地但画不出来，后来'she couldn't think of how to draw a horse and she wanted to practice'，她想练习画马。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 113.7,
+      "endTime": 125.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Ava",
+        "horse",
+        "draw",
+        "practice"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What did she do at the glass blowing workshop?",
+      "options": [
+        "A) Bought a glass cup",
+        "B) Made her favorite glass that she owns",
+        "C) Watched a demonstration",
+        "D) Broke a vase"
+      ],
+      "answer": "B",
+      "explanation": "字幕[38]说'here's me making what is now my favorite glass that I own'，她在玻璃吹制工作坊吹制了自己现在最喜欢的玻璃杯。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 136.3,
+      "endTime": 145.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "glass blowing",
+        "workshop",
+        "favorite glass"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is the main purpose of having 'puppy rooms' at venues?",
+      "options": [
+        "A) To sell puppies",
+        "B) To bring adoptable dogs from rescue organizations so they can get adopted",
+        "C) To entertain children",
+        "D) To train service dogs"
+      ],
+      "answer": "B",
+      "explanation": "字幕[19]和[28]提到'we have like a rescue org come to the show and bring adoptable dogs'以及'dogs get adopted this way'，目的是让救援组织带来可领养的狗帮助它们被领养。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 158,
+      "endTime": 175.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "puppy room",
+        "rescue org",
+        "adoptable dogs"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does 'serotonin' most likely refer to in this context?",
+      "options": [
+        "A) A type of dog food",
+        "B) A chemical that produces happy/positive feelings",
+        "C) A brand of toys",
+        "D) A musical genre"
+      ],
+      "answer": "B",
+      "explanation": "字幕[40]说'It gives everyone a lot of good feelings and serotonin'，结合上下文（与小狗互动），serotonin（血清素）是让人产生愉悦情绪的化学物质。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 168.1,
+      "endTime": 175.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "serotonin",
+        "good feelings",
+        "puppies"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "Why did she 'sprain her ankle' in the 3D photo?",
+      "options": [
+        "A) She fell off stage",
+        "B) She was climbing a mountain",
+        "C) It happened the night before the shoot",
+        "D) She was playing basketball"
+      ],
+      "answer": "C",
+      "explanation": "字幕[26]明确说'I sprained my ankle the night before shooting that'，拍摄3D内容的前一晚她扭伤了脚踝。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 191,
+      "endTime": 195.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sprained ankle",
+        "shooting",
+        "3D"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "Who is Christina according to the video?",
+      "options": [
+        "A) Her sister",
+        "B) One of her best friends and her trainer",
+        "C) Her bandmate",
+        "D) A rescue dog handler"
+      ],
+      "answer": "B",
+      "explanation": "字幕[14]说'here is a photo of Christina, one of my best friends and my trainer'，Christina是她最好的朋友之一，也是她的健身教练。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 196.2,
+      "endTime": 201.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Christina",
+        "best friend",
+        "trainer"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What made her climb the mountain?",
+      "options": [
+        "A) She wanted exercise",
+        "B) She saw random kids jumping off a cliff and it was appealing",
+        "C) Her trainer told her to",
+        "D) She was lost"
+      ],
+      "answer": "B",
+      "explanation": "字幕[18]和[49]提到'saw these like random kids jumping off this cliff. It was so appealing and I climbed the mountain'，因为看到孩子们跳崖很吸引人所以她爬了山。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 215.4,
+      "endTime": 223.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "cliff",
+        "appealing",
+        "climbed the mountain"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does 'I would do that every single day if I could' suggest?",
+      "options": [
+        "A) She was forced to do it",
+        "B) She really enjoyed the experience",
+        "C) She had to do it for work",
+        "D) She was tired of doing it"
+      ],
+      "answer": "B",
+      "explanation": "这句话表达的是'如果可以的话，我愿意每天都做这件事'，说明她非常享受这次经历（爬到山顶看风景）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 228.6,
+      "endTime": 231.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "every single day",
+        "experience",
+        "enjoy"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the phrase 'poking out' mean in 'the girls little Mary Janes poking out'?",
+      "options": [
+        "A) Putting the shoes away",
+        "B) Being visible/protruding from the photo",
+        "C) Breaking the shoes",
+        "D) Wearing new shoes"
+      ],
+      "answer": "B",
+      "explanation": "'poking out'意为'露出来、伸出来'，这里指女孩们的玛丽珍鞋从照片底部露出来/伸出来。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 54.6,
+      "endTime": 65.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "poking out",
+        "Mary Janes",
+        "visible"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'draw land with all these animals on it' suggest about Ava?",
+      "options": [
+        "A) She is a professional artist",
+        "B) She is a child who is learning to draw",
+        "C) She is a geography teacher",
+        "D) She is an architect"
+      ],
+      "answer": "B",
+      "explanation": "从上下文看，Ava想画陆地但想不出怎么画马还要练习，说明她是个正在学习画画的孩子。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 113.7,
+      "endTime": 125.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "draw",
+        "animals",
+        "Ava",
+        "learn"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "In the context of the video, what is most likely meant by 'bit into'?",
+      "options": [
+        "A) Punched it",
+        "B) Took a bite of it with her teeth",
+        "C) Cut it with a knife",
+        "D) Tore it apart"
+      ],
+      "answer": "B",
+      "explanation": "'bit into'是动词短语，意为'咬了一口'，她咬了一口蒲草（cattail）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 84.3,
+      "endTime": 97.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bit into",
+        "cattail",
+        "teeth"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the speaker likely mean by 'this is very dear to me'?",
+      "options": [
+        "A) The item is expensive",
+        "B) The item is very precious/emotionally meaningful to her",
+        "C) The item is nearby",
+        "D) The item is fragile"
+      ],
+      "answer": "B",
+      "explanation": "'dear to someone'意为'对某人来说很珍贵'，表示这件物品对她有特殊的情感意义。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 65.3,
+      "endTime": 67.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dear to me",
+        "precious",
+        "meaningful"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Describe the special notebook she keeps on tour. What do people do in it?",
+      "options": [],
+      "answer": "open",
+      "explanation": "口语练习题：让学习者用英语复述笔记本的故事。参考答案应包含：她在巡演中有一本特别的笔记本，让每个一起巡演的人在笔记本上画一整幅画并签名。",
+      "referenceAnswer": "She has a special notebook that she brings on tour. She asks everyone on tour to draw a full picture in it and then sign it. It's a creative way to remember everyone she's worked with during the tour.",
+      "hint": "Think about: What is in the notebook? Who contributes to it? What do they do?",
+      "startTime": 105.8,
+      "endTime": 113.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "notebook",
+        "tour",
+        "draw",
+        "sign"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "What does she do at every venue on tour to help dogs? How does it affect people?",
+      "options": [],
+      "answer": "open",
+      "explanation": "口语练习题：让学习者描述她在巡演中帮助小狗的善举及其影响。",
+      "referenceAnswer": "At every venue on tour, she tries to have 'puppy rooms' where rescue organizations bring adoptable dogs. This gives people good feelings and serotonin, and many dogs get adopted this way. She also gets to play with puppies all day.",
+      "hint": "Think about: What are puppy rooms? Who brings the dogs? How do people feel? What happens to the dogs?",
+      "startTime": 158,
+      "endTime": 175.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "puppy room",
+        "rescue",
+        "adoptable",
+        "venue"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Describe the unusual thing she did with a cattail. Why was her bassist confused?",
+      "options": [],
+      "answer": "open",
+      "explanation": "口语练习题：让学习者用英语讲述她与蒲草的有趣经历。",
+      "referenceAnswer": "She bit into a cattail, which is a plant found in the wild. She had a flower bouquet that contained cattails, and she decided to take a bite of one. Her bassist was wondering why she did such a strange thing. It was a quirky, spontaneous moment.",
+      "hint": "Think about: What is a cattail? What did she do with it? Why would it be confusing to her bandmate?",
+      "startTime": 84.3,
+      "endTime": 102.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "cattail",
+        "bit into",
+        "bassist",
+        "wild"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "speaking",
+      "question": "Tell a story about climbing a mountain. What inspired her and how did she feel?",
+      "options": [],
+      "answer": "open",
+      "explanation": "口语练习题：让学习者讲述她爬山的经历及感受。",
+      "referenceAnswer": "She saw some random kids jumping off a cliff and thought it was so appealing. She climbed the mountain to see what they were doing. She loved the experience so much that she said she would do it every single day if she could. It was an exciting and memorable moment.",
+      "hint": "Think about: What did she see? Why did she climb? How did she feel about it?",
+      "startTime": 215.4,
+      "endTime": 231.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "mountain",
+        "cliff",
+        "appealing",
+        "climbed"
+      ]
+    }
+  ]
+}

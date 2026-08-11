@@ -1,0 +1,436 @@
+{
+  "videoId": "DjO-5swUu0c",
+  "generatedAt": "2026-08-11T06:23:34.753Z",
+  "cards": [
+    {
+      "id": "mso9y6aoefkxki",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "radical",
+      "back": "彻底的；根本的 (adjective, B2)",
+      "context": "It is the manifesto I live my life by, and that's **radical** acceptance.",
+      "audioStart": 42.74,
+      "audioEnd": 48.02,
+      "word": "radical",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.752Z"
+    },
+    {
+      "id": "mso9y6aoei7s72",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "acceptance",
+      "back": "接受；接纳 (noun, B2)",
+      "context": "It is the manifesto I live my life by, and that's radical **acceptance**.",
+      "audioStart": 42.74,
+      "audioEnd": 48.02,
+      "word": "acceptance",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.752Z"
+    },
+    {
+      "id": "mso9y6aoulzvdz",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "manifesto",
+      "back": "宣言；声明 (noun, C1)",
+      "context": "It is the **manifesto** I live my life by, and that's radical acceptance.",
+      "audioStart": 42.74,
+      "audioEnd": 48.02,
+      "word": "manifesto",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.752Z"
+    },
+    {
+      "id": "mso9y6aopbs86s",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "superficial",
+      "back": "表面的；肤浅的 (adjective, B2)",
+      "context": "But these are **superficial** labels because nothing in this world is good or bad.",
+      "audioStart": 66.9,
+      "audioEnd": 72.46,
+      "word": "superficial",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.752Z"
+    },
+    {
+      "id": "mso9y6ao7j8oy7",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "categorize",
+      "back": "分类；归类 (verb, B2)",
+      "context": "everything needs to be **categorized** in our brain by emotion.",
+      "audioStart": 60.18,
+      "audioEnd": 63.12,
+      "word": "categorize",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.752Z"
+    },
+    {
+      "id": "mso9y6aocgflgg",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trigger",
+      "back": "引发；触发 (verb, B2)",
+      "context": "We get emotionally **triggered** by situations because our brain automatically labels it as negative",
+      "audioStart": 83.54,
+      "audioEnd": 88.66,
+      "word": "trigger",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.752Z"
+    },
+    {
+      "id": "mso9y6ap202gf6",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "perceive",
+      "back": "感知；看待 (verb, B2)",
+      "context": "You can only change how you **perceive** them now.",
+      "audioStart": 272.88,
+      "audioEnd": 276.14,
+      "word": "perceive",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.753Z"
+    },
+    {
+      "id": "mso9y6ap346jtv",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "resist",
+      "back": "抵抗；抗拒 (verb, B2)",
+      "context": "And the more we **resist** these truths, the more power they continue to have over",
+      "audioStart": 276.32,
+      "audioEnd": 279.62,
+      "word": "resist",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.753Z"
+    },
+    {
+      "id": "mso9y6ap8ax5ro",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trauma",
+      "back": "创伤；精神创伤 (noun, B2)",
+      "context": "It doesn't mean what happened to you was okay or that your **trauma** was fair.",
+      "audioStart": 293.36,
+      "audioEnd": 297.5,
+      "word": "trauma",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.753Z"
+    },
+    {
+      "id": "mso9y6apczrsn6",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "erase",
+      "back": "抹去；消除 (verb, B2)",
+      "context": "I thought that healing meant figuring out how to **erase** painful experiences from my life.",
+      "audioStart": 309.62,
+      "audioEnd": 312.66,
+      "word": "erase",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.753Z"
+    },
+    {
+      "id": "mso9y6ap495ck0",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "genuinely",
+      "back": "真诚地；由衷地 (adverb, B2)",
+      "context": "And I can **genuinely** say that every failure has taught me what I needed the most.",
+      "audioStart": 331.82,
+      "audioEnd": 336.92,
+      "word": "genuinely",
+      "tags": [
+        "CEFR-B2",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.753Z"
+    },
+    {
+      "id": "mso9y6api82u5t",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "unlovable",
+      "back": "不可爱的；不值得爱的 (adjective, C1)",
+      "context": "Being single doesn't mean you're **unlovable**.",
+      "audioStart": 352.98,
+      "audioEnd": 354.78,
+      "word": "unlovable",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:34.753Z"
+    },
+    {
+      "id": "mso9y4zjs1wnqx",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) you thought you'd be further along by now, that you'd have more money, more experience, more ___",
+      "back": "further",
+      "context": "you thought you'd be further along by now, that you'd have more money, more experience, more",
+      "audioStart": 14,
+      "audioEnd": 19.1,
+      "hint": "选项：further / deeper / farther / higher",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.055Z"
+    },
+    {
+      "id": "mso9y4zjn249jj",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) i've just stopped letting things that happen to me tell me who I ___",
+      "back": "am",
+      "context": "i've just stopped letting things that happen to me tell me who I am.",
+      "audioStart": 78.6,
+      "audioEnd": 83.5,
+      "hint": "选项：am / is / was / be",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.055Z"
+    },
+    {
+      "id": "mso9y4zjfaa60h",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So we also don't need to associate things as being ___ or negative.",
+      "back": "positive",
+      "context": "So we also don't need to associate things as being positive or negative.",
+      "audioStart": 109.8,
+      "audioEnd": 115,
+      "hint": "选项：optimistic / good / happy / positive",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.055Z"
+    },
+    {
+      "id": "mso9y4zjp7errn",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So in this moment, if you feel like a ___",
+      "back": "failure",
+      "context": "So in this moment, if you feel like a failure,",
+      "audioStart": 332.5,
+      "audioEnd": 337.2,
+      "hint": "选项：problem / mistake / loser / failure",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.055Z"
+    },
+    {
+      "id": "mso9y4zjkndpk5",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And then I became depressed because what I thought was going to be so great wasn't actually ___ anymore.",
+      "back": "great",
+      "context": "And then I became depressed because what I thought was going to be so great wasn't actually anymore.",
+      "audioStart": 129.6,
+      "audioEnd": 135.1,
+      "hint": "选项：good / wonderful / great / amazing",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.055Z"
+    },
+    {
+      "id": "mso9y4zjcghsdm",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) But radical acceptance isn't just about accepting what's happening to you right now. It's also about accepting everything that's happened to you in the ___",
+      "back": "past",
+      "context": "But radical acceptance isn't just about accepting what's happening to you right now. It's also about accepting everything that's happened to you in the past.",
+      "audioStart": 242.8,
+      "audioEnd": 250,
+      "hint": "选项：past / present / future / history",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.055Z"
+    },
+    {
+      "id": "mso9y4zjitgl16",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) These thoughts tell us we're behind and we actually ___ them.",
+      "back": "believe",
+      "context": "These thoughts tell us we're behind and we actually believe them.",
+      "audioStart": 201.4,
+      "audioEnd": 205,
+      "hint": "选项：believe / follow / accept / trust",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.055Z"
+    },
+    {
+      "id": "mso9y4zjf6mz0j",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's actually quite wonderful that we can even remember all of our experiences and take ___",
+      "back": "take",
+      "context": "It's actually quite wonderful that we can even remember all of our experiences and take",
+      "audioStart": 173.8,
+      "audioEnd": 179.4,
+      "hint": "选项：take / get / have / make",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.055Z"
+    },
+    {
+      "id": "mso9y51j9l7ylb",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "或者叫你乐观、别担心，机会总会来的。 或者叫你乐观、别担心，机会总会来的。\nbut ___ do they ___ it's been weeks, months, years,",
+      "back": "little / did / know",
+      "context": "but little do they know it's been weeks, months, years,",
+      "audioStart": 28.699,
+      "audioEnd": 32.46,
+      "hint": "little did they know",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.127Z"
+    },
+    {
+      "id": "mso9y51jalgo9v",
+      "videoId": "DjO-5swUu0c",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "汲取所有教训，让自己成为更好的人。 仔细想想，我从未后悔从经历中学习。\n___ ___ I think about it, I've never wished that I didn't learn from an experience.",
+      "back": "now / that",
+      "context": "Now that I think about it, I've never wished that I didn't learn from an experience.",
+      "audioStart": 182.558,
+      "audioEnd": 187.717,
+      "hint": "now that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:33.127Z"
+    }
+  ]
+}

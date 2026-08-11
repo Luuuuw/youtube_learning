@@ -1,0 +1,398 @@
+{
+  "videoId": "DmwTN2slUhU",
+  "generatedAt": "2026-08-11T06:23:42.264Z",
+  "cards": [
+    {
+      "id": "mso9yc3c3m6vb6",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "freshman",
+      "back": "大一新生 (noun, B1)",
+      "context": "I'm a **freshman** studying computer science, and this video is going to be a day in my life.",
+      "audioStart": 35.74,
+      "audioEnd": 39.66,
+      "word": "freshman",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3ce5laid",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dining hall",
+      "back": "食堂 (noun, B1)",
+      "context": "So Annenberg is Harvard's freshman **dining hall**, and honestly, it's like something out of Harry It's pretty cool.",
+      "audioStart": 47.22,
+      "audioEnd": 52.46,
+      "word": "dining hall",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3cbvkb7q",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "agenda",
+      "back": "日程安排 (noun, B1)",
+      "context": "So I have a development book, it's something I call a little daily planning **agenda**, where I write out my schedule for the day, my goals, my motivation, things like that.",
+      "audioStart": 89.66,
+      "audioEnd": 98.36,
+      "word": "agenda",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3ctm5z0s",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "meditate",
+      "back": "冥想 (verb, B1)",
+      "context": "I've already **meditated**, which is great.",
+      "audioStart": 126.64,
+      "audioEnd": 128.52,
+      "word": "meditate",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3cqdw4xl",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "embossed",
+      "back": "压花的，浮雕的 (adjective, B2)",
+      "context": "Oh and check out the cover on that bad boy look at that ooh ooh **embossed** logo okay i should do my homework",
+      "audioStart": 161.82,
+      "audioEnd": 166.98,
+      "word": "embossed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3cjcdr3h",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "lecture",
+      "back": "讲座，讲课 (noun, B1)",
+      "context": "It's a guest **lecture**.",
+      "audioStart": 226.15,
+      "audioEnd": 229.53,
+      "word": "lecture",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3cii32z3",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "insightful",
+      "back": "有深刻见解的 (adjective, B2)",
+      "context": "Yeah, I thought it was actually pretty **insightful** in terms of just like cool like programming practices that he gave us.",
+      "audioStart": 316.03,
+      "audioEnd": 320.25,
+      "word": "insightful",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3c324bsg",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "premise",
+      "back": "前提，假设 (noun, B2)",
+      "context": "The fundamental **premise** of the book is how do you find happiness in a world where we really struggle to do that?",
+      "audioStart": 424.42,
+      "audioEnd": 427.52,
+      "word": "premise",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3cb9dppm",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "miserable",
+      "back": "痛苦的，悲惨的 (adjective, B1)",
+      "context": "I feel like a lot of students are **miserable**, and that shouldn't be the case.",
+      "audioStart": 495.5,
+      "audioEnd": 497.7,
+      "word": "miserable",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3c578lrn",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "reinforce",
+      "back": "加强，巩固 (verb, B2)",
+      "context": "To actually understand a concept, I have to **reinforce** what's being taught by doing problems, and that's why I love the sponsor of this video, Brilliant.org.",
+      "audioStart": 651.23,
+      "audioEnd": 655.57,
+      "word": "reinforce",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3ccd6hyk",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "implement",
+      "back": "实施，执行 (verb, B2)",
+      "context": "Then when it actually came to **implementing** a red-black tree, I didn't have to go searching through all sorts of reference materials.",
+      "audioStart": 683.23,
+      "audioEnd": 685.97,
+      "word": "implement",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yc3c14j4xx",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "uneventful",
+      "back": "平淡无奇的 (adjective, B2)",
+      "context": "Yeah, pretty **uneventful** day, pretty average day.",
+      "audioStart": 714.13,
+      "audioEnd": 716.65,
+      "word": "uneventful",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:42.264Z"
+    },
+    {
+      "id": "mso9yb1cthwrmw",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Fish, and I'm a ___ student.",
+      "back": "Harvard",
+      "context": "Fish, and I'm a Harvard student.",
+      "audioStart": 32.6,
+      "audioEnd": 37.1,
+      "hint": "选项：college / school / university / Harvard",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:40.896Z"
+    },
+    {
+      "id": "mso9yb1cbhf3xu",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Alright, so rolling back from lunch now. I've got about an hour before my next class, which is a ___ lecture.",
+      "back": "guest",
+      "context": "Alright, so rolling back from lunch now. I've got about an hour before my next class, which is a guest lecture.",
+      "audioStart": 219.9,
+      "audioEnd": 227.3,
+      "hint": "选项：special / keynote / guest / public",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:40.896Z"
+    },
+    {
+      "id": "mso9yb1cg03ztv",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) ___ science student, that's me.",
+      "back": "Computer",
+      "context": "Computer science student, that's me.",
+      "audioStart": 227.3,
+      "audioEnd": 233.2,
+      "hint": "选项：Chemistry / Computer / Physics / Math",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:40.896Z"
+    },
+    {
+      "id": "mso9yb1cu7rdmi",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) That's the goal, that's one of my goals for today, is to hit 9 hours of ___.",
+      "back": "sleep",
+      "context": "That's the goal, that's one of my goals for today, is to hit 9 hours of sleep.",
+      "audioStart": 120.3,
+      "audioEnd": 126.2,
+      "hint": "选项：work / study / sleep / rest",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:40.896Z"
+    },
+    {
+      "id": "mso9yb1crvn9be",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And it's a ___ lecturer, which is kind of cool.",
+      "back": "guest",
+      "context": "And it's a guest lecturer, which is kind of cool.",
+      "audioStart": 247.5,
+      "audioEnd": 253.2,
+      "hint": "选项：assistant / senior / visiting / guest",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:40.896Z"
+    },
+    {
+      "id": "mso9yb1c03wyge",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So the courses that I'm taking are ___ Expos,",
+      "back": "Swedish",
+      "context": "So the courses that I'm taking are Swedish Expos,",
+      "audioStart": 574.6,
+      "audioEnd": 580,
+      "hint": "选项：French / English / Swedish / German",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:40.896Z"
+    },
+    {
+      "id": "mso9yb1cxe6cpb",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So the lecture today is for my functional programming class. It's called ___.",
+      "back": "CS51",
+      "context": "So the lecture today is for my functional programming class. It's called CS51.",
+      "audioStart": 242.1,
+      "audioEnd": 247.5,
+      "hint": "选项：CS51 / CS71 / CS50 / CS61",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:40.896Z"
+    },
+    {
+      "id": "mso9yb1cd0zep7",
+      "videoId": "DmwTN2slUhU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Maybe start an essay, maybe work on a couple ___ sets.",
+      "back": "problem",
+      "context": "Maybe start an essay, maybe work on a couple problem sets.",
+      "audioStart": 233.2,
+      "audioEnd": 239,
+      "hint": "选项：question / problem / exercise / practice",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:40.896Z"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "videoId": "5nbNEEFfQ1I",
+  "generatedAt": "2026-08-11T06:21:18.763Z",
+  "cards": [
+    {
+      "id": "mso9v9d6d1f85o",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "cooped",
+      "back": "被关在狭小空间里的 (verb, B2)",
+      "context": "I have been **cooped** up at home for several weeks",
+      "audioStart": 151.36,
+      "audioEnd": 157.02,
+      "word": "cooped",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.762Z"
+    },
+    {
+      "id": "mso9v9d6xu5xc4",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "collab",
+      "back": "合作，联名 (noun, B1)",
+      "context": "they're having a **collab** with a Korean Michelin restaurant",
+      "audioStart": 184.82,
+      "audioEnd": 190.12,
+      "word": "collab",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.762Z"
+    },
+    {
+      "id": "mso9v9d7tkhnp0",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "starving",
+      "back": "饿极了的 (adjective, B1)",
+      "context": "We're **starving**.",
+      "audioStart": 193,
+      "audioEnd": 194.6,
+      "word": "starving",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v9d71q2gd2",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "chaos",
+      "back": "混乱，杂乱 (noun, B1)",
+      "context": "The last month is when everything just becomes **chaos**.",
+      "audioStart": 264.27,
+      "audioEnd": 269.54,
+      "word": "chaos",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v9d7t5xe4e",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "compact",
+      "back": "小巧的，紧凑的 (adjective, B1)",
+      "context": "it literally has everything we need in this **compact** smart gym",
+      "audioStart": 291.38,
+      "audioEnd": 296.39,
+      "word": "compact",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v9d7d7xv7v",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "assembled",
+      "back": "组装好的 (verb, B1)",
+      "context": "So it comes fully **assembled** in one package.",
+      "audioStart": 314.83,
+      "audioEnd": 317.21,
+      "word": "assembled",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v9d7c2c2mt",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "eccentric",
+      "back": "偏心的，离心的 (adjective, C1)",
+      "context": "It has really cool and useful features like the **eccentric** mode",
+      "audioStart": 351.79,
+      "audioEnd": 356.04,
+      "word": "eccentric",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v9d7c1kh8e",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hyperpigmentation",
+      "back": "色素沉着 (noun, C1)",
+      "context": "I have some **hyperpigmentation**, some sunspots",
+      "audioStart": 387.95,
+      "audioEnd": 392.24,
+      "word": "hyperpigmentation",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v9d7572xov",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "radiant",
+      "back": "容光焕发的，明亮的 (adjective, B2)",
+      "context": "my skin is just more **radiant**",
+      "audioStart": 442.43,
+      "audioEnd": 445.39,
+      "word": "radiant",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v9d7q41z9f",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "longevity",
+      "back": "持久性，寿命 (noun, C1)",
+      "context": "for **longevity** for my wedding day",
+      "audioStart": 471.23,
+      "audioEnd": 475.65,
+      "word": "longevity",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v9d7cgdsyw",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "crooked",
+      "back": "歪斜的 (adjective, B2)",
+      "context": "the tea is **crooked**",
+      "audioStart": 699.76,
+      "audioEnd": 705.42,
+      "word": "crooked",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v9d797ejqx",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "aura",
+      "back": "气场，氛围 (noun, B2)",
+      "context": "their **aura** is insane",
+      "audioStart": 737.76,
+      "audioEnd": 744.33,
+      "word": "aura",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:18.763Z"
+    },
+    {
+      "id": "mso9v8c7ssojlt",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I am on my way to lunch with Yulian and Jannie and we're getting fish cheeks as ___",
+      "back": "usual",
+      "context": "I am on my way to lunch with Yulian and Jannie and we're getting fish cheeks as usual.",
+      "audioStart": 18.9,
+      "audioEnd": 23.8,
+      "hint": "选项：usual / regular / normal / common",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:17.431Z"
+    },
+    {
+      "id": "mso9v8c74awez8",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I feel like we always go to like the same ___ places",
+      "back": "two",
+      "context": "I feel like we always go to like the same two places.",
+      "audioStart": 26.2,
+      "audioEnd": 29.4,
+      "hint": "选项：few / three / two / several",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:17.431Z"
+    },
+    {
+      "id": "mso9v8c7mxu4yv",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You ate all the squid ___",
+      "back": "already",
+      "context": "You ate all the squid already.",
+      "audioStart": 232.3,
+      "audioEnd": 235.8,
+      "hint": "选项：still / now / already / yet",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:17.431Z"
+    },
+    {
+      "id": "mso9v8c771n3p5",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And what I love most about it is that it's extremely ___",
+      "back": "space-saving",
+      "context": "And what I love most about it is that it's extremely space-saving.",
+      "audioStart": 296.4,
+      "audioEnd": 300,
+      "hint": "选项：energy-saving / cost-saving / space-saving / time-saving",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:17.431Z"
+    },
+    {
+      "id": "mso9v8c74so5xb",
+      "videoId": "5nbNEEFfQ1I",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And it also comes with this Bluetooth smart ring which you can use to ___ the weights",
+      "back": "adjust",
+      "context": "And it also comes with this Bluetooth smart ring which you can use to adjust the weights.",
+      "audioStart": 333.2,
+      "audioEnd": 337.6,
+      "hint": "选项：set / fix / adjust / change",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:17.431Z"
+    }
+  ]
+}

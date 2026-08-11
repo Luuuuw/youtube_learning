@@ -1,0 +1,396 @@
+{
+  "videoId": "5ihFB4ZCnFY",
+  "generatedAt": "2026-08-11T06:21:12.037Z",
+  "cards": [
+    {
+      "id": "mso9v46c8fyp30",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "drizzle",
+      "back": " drizzle 少量撒，淋 (verb, B2)",
+      "context": "And then I **drizzle** it with a little bit of sugar.",
+      "audioStart": 476.65,
+      "audioEnd": 479.81,
+      "word": "drizzle",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.036Z"
+    },
+    {
+      "id": "mso9v46cp0zkuc",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "navigate",
+      "back": " navigate 导航，找到正确方法 (verb, B2)",
+      "context": "I was out here trying to **navigate** this next chapter of my life.",
+      "audioStart": 460.61,
+      "audioEnd": 464.49,
+      "word": "navigate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.036Z"
+    },
+    {
+      "id": "mso9v46cxt85r3",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "controversial",
+      "back": " controversial 有争议的 (adjective, B2)",
+      "context": "This is gonna be so **controversial** because I'm sure there's a lot of people who hate cilantro.",
+      "audioStart": 204.26,
+      "audioEnd": 209.4,
+      "word": "controversial",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.036Z"
+    },
+    {
+      "id": "mso9v46dplppot",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "freak",
+      "back": " freak 狂热爱好者，怪人 (noun, B2)",
+      "context": "she's kind of like a health **freak**.",
+      "audioStart": 375.31,
+      "audioEnd": 379.39,
+      "word": "freak",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.037Z"
+    },
+    {
+      "id": "mso9v46d5o1hxt",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "obsessed",
+      "back": " obsessed 着迷的，痴迷的 (adjective, B2)",
+      "context": "And I did it and they were **obsessed** with it.",
+      "audioStart": 133.4,
+      "audioEnd": 138.3,
+      "word": "obsessed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.037Z"
+    },
+    {
+      "id": "mso9v46dkxgtz1",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "audition",
+      "back": " audition 试镜，试音 (noun, B2)",
+      "context": "Took an open **audition** amongst a thousand other contestants.",
+      "audioStart": 283.06,
+      "audioEnd": 285.1,
+      "word": "audition",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.037Z"
+    },
+    {
+      "id": "mso9v46dwipebp",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "therapy",
+      "back": " therapy 治疗，疗法 (noun, B2)",
+      "context": "It was like my own personal **therapy** session, basically.",
+      "audioStart": 487.05,
+      "audioEnd": 491.77,
+      "word": "therapy",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.037Z"
+    },
+    {
+      "id": "mso9v46d0da4wh",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "ultimate",
+      "back": " ultimate 最终的，终极的 (adjective, B2)",
+      "context": "My **ultimate** dream of life is to be retired and to own a cilantro farm.",
+      "audioStart": 557.35,
+      "audioEnd": 560.91,
+      "word": "ultimate",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.037Z"
+    },
+    {
+      "id": "mso9v46dux4o54",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trademark",
+      "back": " trademark 注册商标 (verb, C1)",
+      "context": "We better like **trademark** that.",
+      "audioStart": 636.77,
+      "audioEnd": 639.45,
+      "word": "trademark",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.037Z"
+    },
+    {
+      "id": "mso9v46dnqzqge",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "combination",
+      "back": " combination 结合，组合 (noun, B1)",
+      "context": "And it's just like a perfect **combination** between Soju and beer.",
+      "audioStart": 43.36,
+      "audioEnd": 48.12,
+      "word": "combination",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:12.037Z"
+    },
+    {
+      "id": "mso9v34kcr1aod",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Oh yes, yes, you're ___ , thank you.",
+      "back": "smart",
+      "context": "Oh yes, yes, you're smart, thank you.",
+      "audioStart": 193.4,
+      "audioEnd": 200.8,
+      "hint": "选项：clever / pretty / kind / smart",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:10.676Z"
+    },
+    {
+      "id": "mso9v34k5qy7wi",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So it's called ___.",
+      "back": "SoMek",
+      "context": "So it's called SoMek.",
+      "audioStart": 38.4,
+      "audioEnd": 44.3,
+      "hint": "选项：SoGood / SoMek / SoWhat / SoFar",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:10.676Z"
+    },
+    {
+      "id": "mso9v34k4ez4cc",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) and ABT is actually a Korean drinking game that I love to ___ with my friends.",
+      "back": "play",
+      "context": "and ABT is actually a Korean drinking game that I love to play with my friends.",
+      "audioStart": 25.8,
+      "audioEnd": 31.8,
+      "hint": "选项：play / talk / drink / sing",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:10.676Z"
+    },
+    {
+      "id": "mso9v34kbvh368",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) to know about this in 20 to 30 years. I'll have my own ___ farm.",
+      "back": "cilantro",
+      "context": "to know about this in 20 to 30 years. I'll have my own cilantro farm.",
+      "audioStart": 630.6,
+      "audioEnd": 635.4,
+      "hint": "选项：cilantro / lettuce / basil / tomato",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:10.676Z"
+    },
+    {
+      "id": "mso9v34krrder6",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You'll just be ___ the whole night.",
+      "back": "crying",
+      "context": "You'll just be crying the whole night.",
+      "audioStart": 134,
+      "audioEnd": 139,
+      "hint": "选项：laughing / dancing / sleeping / crying",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:10.676Z"
+    },
+    {
+      "id": "mso9v34l236xlf",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) was 20 and I came out as Blackpink, I guess 19 in ___ age.",
+      "back": "American",
+      "context": "was 20 and I came out as Blackpink, I guess 19 in American age.",
+      "audioStart": 294.4,
+      "audioEnd": 298.2,
+      "hint": "选项：American / Korean / Japanese / Chinese",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:10.677Z"
+    },
+    {
+      "id": "mso9v34l39qofg",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Let's set the ___ straight.",
+      "back": "record",
+      "context": "Let's set the record straight.",
+      "audioStart": 272.6,
+      "audioEnd": 277.8,
+      "hint": "选项：story / record / truth / facts",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:10.677Z"
+    },
+    {
+      "id": "mso9v34lqckzu8",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I was like, is this okay that I've written like ___",
+      "back": "this",
+      "context": "I was like, is this okay that I've written like",
+      "audioStart": 149,
+      "audioEnd": 152.9,
+      "hint": "选项：that / this / so / it",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:10.677Z"
+    },
+    {
+      "id": "mso9v2gvxehxvl",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "应该说是过去四年的生活吧 应该说是过去四年的生活吧\nAll the stories that I've had that I haven't ever really ___ ___ to show, all of that",
+      "back": "would / have / been / able",
+      "context": "All the stories that I've had that I haven't ever really been able to show, all of that",
+      "audioStart": 320.757,
+      "audioEnd": 325.233,
+      "hint": "would have been able to",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:09.823Z"
+    },
+    {
+      "id": "mso9v2gvzbx84f",
+      "videoId": "5ihFB4ZCnFY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "因为我的朋友和家人都叫我 Rosie 虽然这张专辑某种程度上是一种\n___ ___ ___ this album really is kind of a reflection",
+      "back": "as / much / as",
+      "context": "As much as this album really is kind of a reflection",
+      "audioStart": 312.317,
+      "audioEnd": 315.317,
+      "hint": "as much as",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:21:09.823Z"
+    }
+  ]
+}

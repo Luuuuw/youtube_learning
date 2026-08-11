@@ -1,0 +1,417 @@
+{
+  "videoId": "crNcV0k0aMQ",
+  "generatedAt": "2026-08-11T06:23:20.639Z",
+  "cards": [
+    {
+      "id": "mso9xven4orzdo",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "immaculate",
+      "back": "完美的；洁净的 (adjective, B2)",
+      "context": "You know why my ties are **immaculate**?",
+      "audioStart": 19.48,
+      "audioEnd": 20.94,
+      "word": "immaculate",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xvenozatlo",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stain",
+      "back": "弄脏；留下污渍 (verb, B1)",
+      "context": "I guess they tend to **stain**.",
+      "audioStart": 16.5,
+      "audioEnd": 18.04,
+      "word": "stain",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xvenxj1nve",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "smoothie",
+      "back": "冰沙；果昔 (noun, B1)",
+      "context": "It's a protein **smoothie**.",
+      "audioStart": 55.56,
+      "audioEnd": 57.54,
+      "word": "smoothie",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xvenagyofn",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "saliva",
+      "back": "唾液；口水 (noun, B2)",
+      "context": "Your **saliva** would get in the drink.",
+      "audioStart": 88.82,
+      "audioEnd": 90.14,
+      "word": "saliva",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xvenjvzwmj",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "boundary",
+      "back": "界限；边界 (noun, B1)",
+      "context": "I think you have to have **boundaries**.",
+      "audioStart": 100.9,
+      "audioEnd": 102.5,
+      "word": "boundary",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xvenn244a3",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "appetizing",
+      "back": "开胃的；诱人的 (adjective, B2)",
+      "context": "Yeah, it's not **appetizing**.",
+      "audioStart": 110.12,
+      "audioEnd": 113.69,
+      "word": "appetizing",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xveno7up42",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "nickname",
+      "back": "绰号；昵称 (noun, B1)",
+      "context": "By the way, old lips, I love that as a **nickname**.",
+      "audioStart": 113.5,
+      "audioEnd": 115.06,
+      "word": "nickname",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xvenbamv0h",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "classified",
+      "back": "机密的；保密的 (adjective, B2)",
+      "context": "It's **classified**.",
+      "audioStart": 245.83,
+      "audioEnd": 247.27,
+      "word": "classified",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xvenotjfrt",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bigamist",
+      "back": "重婚者 (noun, C1)",
+      "context": "You know, my cousin Arthur was a **bigamist**.",
+      "audioStart": 253.63,
+      "audioEnd": 256.41,
+      "word": "bigamist",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xven3oz869",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "traumatize",
+      "back": "使受精神创伤 (verb, C1)",
+      "context": "You can imagine how it **traumatized** me.",
+      "audioStart": 276.95,
+      "audioEnd": 278.63,
+      "word": "traumatize",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xvenxv7qmq",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "confidential",
+      "back": "机密的；秘密的 (adjective, B2)",
+      "context": "That's **confidential** information.",
+      "audioStart": 283.29,
+      "audioEnd": 286.35,
+      "word": "confidential",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xvenurqonk",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "gorgeous",
+      "back": "华丽的；极好的 (adjective, B1)",
+      "context": "Well, first of all, it's a **gorgeous** suit.",
+      "audioStart": 361.03,
+      "audioEnd": 362.87,
+      "word": "gorgeous",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:20.639Z"
+    },
+    {
+      "id": "mso9xum7mwdt59",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) What's this? This the layout for NATO? This is what we're gonna wear in ___",
+      "back": "Turin",
+      "context": "What's this? This the layout for NATO? This is what we're gonna wear in Turin.",
+      "audioStart": 5.7,
+      "audioEnd": 9.5,
+      "hint": "选项：Paris / Rome / Turin / London",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:19.615Z"
+    },
+    {
+      "id": "mso9xum762clzk",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's a big deal. I mean, it's not a big deal, it's just not something I'd ___",
+      "back": "prefer",
+      "context": "It's a big deal. I mean, it's not a big deal, it's just not something I'd prefer.",
+      "audioStart": 77.4,
+      "audioEnd": 80.5,
+      "hint": "选项：choose / want / prefer / like",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:19.615Z"
+    },
+    {
+      "id": "mso9xum7qkw0rn",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) By the way, old lips, I love that as a ___",
+      "back": "nickname",
+      "context": "By the way, old lips, I love that as a nickname.",
+      "audioStart": 110.1,
+      "audioEnd": 113.7,
+      "hint": "选项：title / nickname / label / name",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:19.615Z"
+    },
+    {
+      "id": "mso9xum7bygd9e",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Hawaiian ski, too, Larry. Hawaiian ski? Yeah. Ah, who ___?",
+      "back": "knew",
+      "context": "Hawaiian ski, too, Larry. Hawaiian ski? Yeah. Ah, who knew?",
+      "audioStart": 152.4,
+      "audioEnd": 155.8,
+      "hint": "选项：guessed / thought / knows / knew",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:19.615Z"
+    },
+    {
+      "id": "mso9xum7urgvdi",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) That's all. In the middle of the NATO summit, when we're discussing critical national ___",
+      "back": "security",
+      "context": "That's all. In the middle of the NATO summit, when we're discussing critical national security",
+      "audioStart": 170.8,
+      "audioEnd": 174.8,
+      "hint": "选项：security / intelligence / defense / safety",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:19.615Z"
+    },
+    {
+      "id": "mso9xum7jdpvhy",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Larry. Yeah. I am not going to do that. Are you ___? Why?",
+      "back": "insane",
+      "context": "Larry. Yeah. I am not going to do that. Are you insane? Why?",
+      "audioStart": 200.3,
+      "audioEnd": 204.9,
+      "hint": "选项：insane / mad / crazy / stupid",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:19.615Z"
+    },
+    {
+      "id": "mso9xum76mgdi6",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) She doesn't know who you are. I made a big ___ on her. Not to mention the whole tell somebody I said hi thing.",
+      "back": "impression",
+      "context": "She doesn't know who you are. I made a big impression on her. Not to mention the whole tell somebody I said hi thing.",
+      "audioStart": 206.3,
+      "audioEnd": 212.4,
+      "hint": "选项：impact / impression / effect / mark",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:19.615Z"
+    },
+    {
+      "id": "mso9xum7s8tf08",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And I've confided a lot of sensitive stuff with you. I told you about the time I pooped in my pants when I was 12 years old on the bus going to the town of the ___",
+      "back": "gardens",
+      "context": "And I've confided a lot of sensitive stuff with you. I told you about the time I pooped in my pants when I was 12 years old on the bus going to the town of the gardens.",
+      "audioStart": 265.3,
+      "audioEnd": 272.4,
+      "hint": "选项：flowers / parks / gardens / fields",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:19.615Z"
+    },
+    {
+      "id": "mso9xtgnysofva",
+      "videoId": "crNcV0k0aMQ",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "嗯，确实相当不错。 嗯，确实相当不错。\nI do ___ we ___ more time in the Alps.",
+      "back": "wish / had",
+      "context": "I do wish we had more time in the Alps.",
+      "audioStart": 117.415,
+      "audioEnd": 119.595,
+      "hint": "wish had",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:18.119Z"
+    }
+  ]
+}

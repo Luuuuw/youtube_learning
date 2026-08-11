@@ -1,9 +1,10 @@
+import { AI_MODELS } from '@/lib/ai-models';
 import { NextRequest, NextResponse } from 'next/server';
 import authSessions from '@/lib/auth-sessions';
 import fs from 'fs';
 import path from 'path';
 
-const MINIMAX_API_URL = 'https://api.minimaxi.com/v1/text/chatcompletion_v2';
+const MINIMAX_API_URL = AI_MODELS.minimax_chat.endpoint;
 const API_TIMEOUT_MS = 60_000;
 const CONTENT_DIR = path.join(process.cwd(), 'public', 'content');
 const VALID_VIDEO_ID = /^[a-zA-Z0-9_-]+$/;
@@ -28,7 +29,11 @@ async function callMiniMax(messages: { role: string; content: string }[], apiKey
         Authorization: `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
       },
+<<<<<<< Updated upstream
       body: JSON.stringify({ model: 'MiniMax-M2.5', messages }),
+=======
+      body: JSON.stringify({ model: AI_MODELS.minimax_chat.id, messages }),
+>>>>>>> Stashed changes
       signal: controller.signal,
     });
     if (!res.ok) throw new Error(`API ${res.status}`);

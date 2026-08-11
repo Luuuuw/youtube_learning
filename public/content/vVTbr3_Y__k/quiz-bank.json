@@ -1,0 +1,576 @@
+{
+  "videoId": "vVTbr3_Y__k",
+  "title": "vVTbr3_Y__k",
+  "generatedAt": "2026-08-10T11:21:09.086Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 10,
+    "medium": 12,
+    "hard": 3,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'garnish' most likely mean in the context 'oh garnish you put it on like this'?",
+      "options": [
+        "A) A type of alcoholic drink",
+        "B) A decorative addition to food or drink",
+        "C) A cooking technique to boil",
+        "D) A kitchen utensil"
+      ],
+      "answer": "B",
+      "explanation": "在语境中'garnish'指的是装饰饮品的配料（如柠檬片、薄荷等），说话者正在演示如何将装饰物放在饮品上。'Garnish'作为名词时指装饰物，作为动词时指装饰。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 104.9,
+      "endTime": 112,
+      "difficulty": "easy",
+      "relatedWords": [
+        "garnish",
+        "cocktail",
+        "decoration"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "In the sentence 'this is the moment of truth', what does the speaker imply?",
+      "options": [
+        "A) They are telling a factual story",
+        "B) They are about to test or try something significant",
+        "C) They are admitting to a lie",
+        "D) They are making a philosophical statement"
+      ],
+      "answer": "B",
+      "explanation": "'The moment of truth'是一个英语习语，意思是'关键时刻'或'揭晓结果的时刻'，通常用于即将测试或尝试某件重要事情的紧张时刻。结合上下文，说话者刚做好了一杯饮品，准备品尝测试。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 104.9,
+      "endTime": 112,
+      "difficulty": "medium",
+      "relatedWords": [
+        "moment of truth",
+        "idiom",
+        "test"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is a 'michelada' based on the video context?",
+      "options": [
+        "A) A type of coffee",
+        "B) A Mexican beer-based cocktail",
+        "C) A type of pastry",
+        "D) A cooking method"
+      ],
+      "answer": "B",
+      "explanation": "从多个字幕片段可以看出，michelada是一种饮品，说话者提到'googling what the best michelada was'、'this is a michelada'以及制作过程中加入的lime（青柠）、club soda等配料，表明它是一种以啤酒为基底的墨西哥鸡尾酒。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 374.4,
+      "endTime": 381.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "michelada",
+        "cocktail",
+        "Mexican"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does 'brutal on the character' mean in 'brutal on the character and filled with as much self-doubt'?",
+      "options": [
+        "A) Physically violent towards someone",
+        "B) Extremely demanding or harsh in portraying the character",
+        "C) Cruel to other actors",
+        "D) Unkind in personal life"
+      ],
+      "answer": "B",
+      "explanation": "在此语境中，'brutal on the character'指的是在诠释这个角色时非常严苛或具有挑战性。说话者是在描述自己如何深入地塑造角色，并伴随着自我怀疑。这是表演艺术中常用的一种表达方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 141.7,
+      "endTime": 148.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "brutal",
+        "character",
+        "acting"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'simple syrup' refer to in cocktail making?",
+      "options": [
+        "A) A plain tasting water",
+        "B) A mixture of sugar and water used to sweeten drinks",
+        "C) A type of fruit juice",
+        "D) A brand of alcohol"
+      ],
+      "answer": "B",
+      "explanation": "'Simple syrup'（单糖浆）是调酒中常用的甜味剂，由等比例的糖和水加热融化而成。在视频中说话者说'we start with a simple syrup'，表明他们正在按步骤制作鸡尾酒。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 235.9,
+      "endTime": 239.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "simple syrup",
+        "cocktail",
+        "sweetener"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'spanking the mint' mean in 'spanking the mint to get the oils out'?",
+      "options": [
+        "A) Hitting the mint hard with a tool",
+        "B) Gently slapping or pressing the mint to release its aromatic oils",
+        "C) Cutting the mint into pieces",
+        "D) Cooking the mint leaves"
+      ],
+      "answer": "B",
+      "explanation": "在调酒中，'spanking the mint'是一种专业术语，指轻轻拍打薄荷叶以释放其芳香精油。这能让薄荷的香气更好地融入饮品中，是一种常见的调酒技巧。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 595.9,
+      "endTime": 602.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "spanking",
+        "mint",
+        "essential oils"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "The phrase 'I was extremely moved by it' most likely means:",
+      "options": [
+        "A) I physically changed positions",
+        "B) I was deeply emotionally touched",
+        "C) I relocated to a different place",
+        "D) I changed my mind about it"
+      ],
+      "answer": "B",
+      "explanation": "'Be moved by something'是一个常用短语，意思是'被某事深深感动'。说话者在谈论某个作品或经历给他带来了深刻的情感触动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 740.9,
+      "endTime": 746.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "moved",
+        "emotional",
+        "touched"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "In 'I like that sort of slightly professorial look', what does 'professorial' mean?",
+      "options": [
+        "A) Looking like a professional athlete",
+        "B) Having an appearance reminiscent of a professor",
+        "C) Very modern and trendy",
+        "D) Childish and playful"
+      ],
+      "answer": "B",
+      "explanation": "'Professorial'源自'professor'（教授），意思是'像教授一样的'，通常指具有学术气息、严肃、戴眼镜等特征的外表。说话者喜欢这种带有学者气质的造型。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 190.1,
+      "endTime": 195.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "professorial",
+        "look",
+        "academic"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does 'legacy' mean in 'the legacy of the movies'?",
+      "options": [
+        "A) A legal document about money",
+        "B) Something handed down or lasting impact from the past",
+        "C) A type of camera equipment",
+        "D) A modern technology term"
+      ],
+      "answer": "B",
+      "explanation": "'Legacy'在电影语境中指的是'遗产'或'传承'，即这些电影留下的持久影响和精神财富。说话者在赞扬这些电影作品对后代观众和电影艺术的深远影响。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 292.7,
+      "endTime": 299.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "legacy",
+        "movies",
+        "impact"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "The phrase 'heightened the experience for me' most nearly means:",
+      "options": [
+        "A) Made me taller",
+        "B) Made me physically raise my hands",
+        "C) Intensified or enhanced the experience",
+        "D) Made the experience shorter"
+      ],
+      "answer": "C",
+      "explanation": "'Heighten'意为'提高、增强'，'heightened the experience'意思是'让体验更加深刻或强烈'。说话者在表达某种事物让他的观影或体验更加丰富和深刻。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 838.4,
+      "endTime": 840.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "heighten",
+        "experience",
+        "intensify"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'self-doubt' mean in 'filled with as much self-doubt that I am'?",
+      "options": [
+        "A) Confidence in oneself",
+        "B) Lack of confidence in oneself",
+        "C) Self-hatred",
+        "D) Independence from others"
+      ],
+      "answer": "B",
+      "explanation": "'Self-doubt'（自我怀疑）指的是对自身能力、价值或决定的怀疑和不自信。在表演艺术中，演员经常需要在角色中融入自我怀疑的情感以增加真实感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 141.7,
+      "endTime": 148.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "self-doubt",
+        "confidence",
+        "acting"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'wiggle it around' mean in 'I'm ready to wiggle it around a little bit'?",
+      "options": [
+        "A) To shake something back and forth slightly",
+        "B) To completely destroy something",
+        "C) To throw something away",
+        "D) To cook something thoroughly"
+      ],
+      "answer": "A",
+      "explanation": "'Wiggle'意为'轻轻摆动、扭动'。在调酒或烹饪语境中，'wiggle it around'通常指轻轻摇晃或转动某物以混合或调整位置。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 395.8,
+      "endTime": 399.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "wiggle",
+        "shake",
+        "mix"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "Based on the context, what is 'club soda' used for in the video?",
+      "options": [
+        "A) A type of cleaning product",
+        "B) A carbonated water added to drinks",
+        "C) A brand of soda for children",
+        "D) A type of medicine"
+      ],
+      "answer": "B",
+      "explanation": "'Club soda'（苏打水）是一种加入了碳酸氢钠等矿物质的碳酸水，常用于调酒中作为配料。在制作鸡尾酒时加入club soda可以增加气泡和清爽口感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 707.2,
+      "endTime": 709,
+      "difficulty": "easy",
+      "relatedWords": [
+        "club soda",
+        "carbonated",
+        "cocktail"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "In 'making blockbusters that don't feel like...', what is a 'blockbuster'?",
+      "options": [
+        "A) A small independent film",
+        "B) A high-budget, commercially successful film",
+        "C) A type of explosion",
+        "D) A documentary film"
+      ],
+      "answer": "B",
+      "explanation": "'Blockbuster'原指'重磅炸弹'，在电影行业中引申为'大片'，即高投资、高票房收入的商业电影。说话者赞扬某位导演擅长制作具有艺术性的大片。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 319.2,
+      "endTime": 324.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "blockbuster",
+        "movie",
+        "commercial"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'trial and error' mean in 'Found the look of the character through a lot of trial and error'?",
+      "options": [
+        "A) Through careful planning",
+        "B) Through trying different approaches until finding the right one",
+        "C) Through copying others",
+        "D) Through asking experts only"
+      ],
+      "answer": "B",
+      "explanation": "'Trial and error'（试错法）是一种通过反复尝试和犯错来找到解决问题的方法。说话者通过不断尝试和调整，最终找到了角色的造型和形象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 161.5,
+      "endTime": 166,
+      "difficulty": "easy",
+      "relatedWords": [
+        "trial and error",
+        "character",
+        "process"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'I always just thought I was a dolphin' most likely mean in context?",
+      "options": [
+        "A) A scientific statement about marine biology",
+        "B) A humorous self-description of behaving playfully or naively",
+        "C) A confession of past lives",
+        "D) A literal claim of being a sea creature"
+      ],
+      "answer": "B",
+      "explanation": "这是一个幽默的比喻表达。海豚以聪明、好奇、活泼著称。说话者用'以为自己是海豚'来形容自己当时的天真、快乐或与海豚般的灵巧行为，是轻松调侃的说话方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 748.8,
+      "endTime": 751.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "dolphin",
+        "metaphor",
+        "humor"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What is a 'monsoon rainstorm' based on the context 'there's a monsoon rainstorm'?",
+      "options": [
+        "A) A light drizzle",
+        "B) A very heavy and intense tropical rainstorm",
+        "C) A snowstorm",
+        "D) A dry season"
+      ],
+      "answer": "B",
+      "explanation": "'Monsoon rainstorm'（季风暴雨）指季风季节带来的强烈暴雨，通常伴随着大风和长时间的强降雨。说话者用它来形容当时遇到的极端天气情况。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 428.3,
+      "endTime": 433.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "monsoon",
+        "rainstorm",
+        "weather"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "In 'It connects to people it connects the children it connects the...', what is being described?",
+      "options": [
+        "A) A computer network",
+        "B) A deep, primal emotional connection that movies create",
+        "C) A physical bridge",
+        "D) A telephone system"
+      ],
+      "answer": "B",
+      "explanation": "说话者在谈论电影的深层魅力——它能触动人心，连接不同年龄段的观众（包括儿童）。这是对电影作为一种艺术形式如何跨越年龄和文化产生共鸣的诗意描述。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 292.7,
+      "endTime": 299.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "connect",
+        "primal",
+        "movies"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'shaken' mean in 'doesn't look properly shaken at all the drama'?",
+      "options": [
+        "A) Broken into pieces",
+        "B) Mixed by shaking (as in a cocktail)",
+        "C) Cold and frozen",
+        "D) Boiled in water"
+      ],
+      "answer": "B",
+      "explanation": "在调酒中，'shaken'指的是通过摇晃调酒壶来混合饮品。说话者在评价一杯鸡尾酒没有被正确地摇晃混合，所以看起来'不够戏剧化'（没有产生应有的泡沫和混合效果）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 97.6,
+      "endTime": 104.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "shaken",
+        "cocktail",
+        "mix"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'innocent' mean in 'I feel very innocent doing this'?",
+      "options": [
+        "A) Guilty of a crime",
+        "B) Pure, naive, or inexperienced in a charming way",
+        "C) Extremely professional",
+        "D) Angry and aggressive"
+      ],
+      "answer": "B",
+      "explanation": "在这里'innocent'指'纯真的、天真的'。说话者用一种轻松幽默的方式表达自己所做的动作（如制作饮品）让他感觉像是个新手或天真无邪的人，带有自嘲和可爱的意味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 245.9,
+      "endTime": 247.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "innocent",
+        "naive",
+        "charming"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "The speaker mentions trying a michelada and going to America to google the best one. Describe in 3-4 sentences what a michelada is and share your experience or opinion about trying new drinks from different cultures.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道口语题考察学习者对michelada这种墨西哥鸡尾酒的理解以及文化体验表达能力。参考答案应包括：michelada是一种墨西哥传统鸡尾酒，通常以啤酒为基底，加入lime汁、辣酱、辣椒粉等；学习者可以分享尝试异国饮品或探索不同文化美食的经历。",
+      "referenceAnswer": "A michelada is a popular Mexican cocktail typically made with beer, lime juice, hot sauce, and various spices, served in a chilled glass. It's known for its savory and spicy flavor profile. Trying drinks from different cultures is a wonderful way to experience new traditions and expand your palate. Personally, I enjoy exploring international beverages because each one tells a story about its cultural origins. The speaker's enthusiasm for searching out the best michelada shows curiosity and appreciation for global culinary traditions.",
+      "hint": "Think about: What ingredients might be in a michelada? Why do people enjoy trying foods/drinks from other cultures? Have you ever tried something unfamiliar?",
+      "startTime": 374.4,
+      "endTime": 433.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "michelada",
+        "cocktail",
+        "culture",
+        "experience"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speaker describes developing a character through 'trial and error' and being 'brutal on the character' with 'self-doubt'. In your own words, explain what it means to deeply portray a character and how an actor might approach this challenge.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题考察学习者对角色塑造过程的理解以及英语表达能力。参考答案应涵盖：通过试错找到角色的核心特质；将自己真实的情感（如自我怀疑）融入角色；需要持续探索和调整。",
+      "referenceAnswer": "To deeply portray a character means to embody their personality, emotions, and motivations authentically. An actor might approach this by researching the character's background, experimenting with different interpretations, and drawing from their own personal experiences and emotions. The process often involves trial and error, where the actor tries various approaches until finding what feels right. Being 'brutal' on a character means pushing them to their emotional limits, which can be challenging but rewarding when it results in a genuine and compelling performance.",
+      "hint": "Consider: What does it mean to 'become' a character? Why might self-doubt be useful in acting? How do actors find the 'look' of a character?",
+      "startTime": 141.7,
+      "endTime": 166,
+      "difficulty": "hard",
+      "relatedWords": [
+        "character",
+        "acting",
+        "trial and error",
+        "portrayal"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "The speaker talks about 'the legacy of the movies' and how they 'connect to people' and 'connect the children.' Explain in 3-5 sentences why movies are considered a powerful art form that can connect with audiences of all ages.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题考察学习者对电影艺术力量的理解以及英语论述能力。参考答案应包括：电影通过视觉、声音和故事触动情感；能够跨越年龄和文化界限；创造共同体验和记忆。",
+      "referenceAnswer": "Movies are a powerful art form because they combine visual imagery, sound, music, and storytelling to create immersive emotional experiences. They have the unique ability to transport viewers into different worlds, times, and perspectives, fostering empathy and understanding. Films can connect with audiences of all ages because they speak to universal human experiences—love, fear, joy, and loss—that resonate across generations. The 'legacy' of movies lies in their lasting impact on culture, inspiring future filmmakers and shaping how we see the world.",
+      "hint": "Think about: What makes a movie memorable? How do movies create emotional connections? Can you think of a movie that affected you deeply?",
+      "startTime": 292.7,
+      "endTime": 299.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "legacy",
+        "movies",
+        "connection",
+        "art"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The video shows the process of making a drink with simple syrup, mint, gin, and club soda. Describe the steps to make a refreshing summer drink in your own words (3-4 sentences).",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道题考察学习者的步骤描述能力和调酒相关词汇。参考答案应包括：准备糖浆、轻拍薄荷叶释放精油、加入基酒、加入苏打水、冰镇装饰等步骤。",
+      "referenceAnswer": "To make a refreshing summer drink, start by preparing a simple syrup by dissolving sugar in equal parts hot water. Next, gently 'spank' or press fresh mint leaves to release their aromatic oils, then place them in a glass. Add your base spirit, such as gin, and pour over ice. Finally, top with club soda for fizz, garnish with a lime wedge or extra mint, and stir gently. This creates a perfectly balanced, refreshing cocktail perfect for hot weather.",
+      "hint": "Use sequencing words like 'first', 'then', 'next', 'finally'. Include vocabulary about ingredients and actions like 'stir', 'garnish', 'pour'.",
+      "startTime": 235.9,
+      "endTime": 602.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "simple syrup",
+        "mint",
+        "gin",
+        "club soda",
+        "cocktail"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "question": "What does 'I can't believe I just said that' express?",
+      "options": [
+        "A) Regret or surprise at one's own words",
+        "B) Disbelief in someone else's words",
+        "C) Joy at making a new friend",
+        "D) Confidence in what was said"
+      ],
+      "answer": "A",
+      "explanation": "这是一个常见的口语表达，用来表达对自己刚才说出的话感到惊讶、难以置信或略带后悔。结合视频语境，说话者可能刚刚分享了一个非常个人化或令人意外的想法，对自己的坦率感到意外。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 828.7,
+      "endTime": 829.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "disbelief",
+        "surprise",
+        "self-expression"
+      ]
+    }
+  ]
+}

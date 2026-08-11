@@ -2,8 +2,10 @@
 // 分工：MiniMax 负责批量初翻；DeepSeek 在初翻后接管 review + 漏条补译。
 // 单一对外入口 reviewAndFillGaps：输入英文条目 + MiniMax 初翻 Map，输出最终 Map。
 
-const DEEPSEEK_API_URL = 'https://api.deepseek.com/chat/completions';
-const DEEPSEEK_MODEL = 'deepseek-chat';
+import { AI_MODELS } from '@/lib/ai-models';
+
+const DEEPSEEK_API_URL = AI_MODELS.deepseek_chat.endpoint;
+const DEEPSEEK_MODEL = AI_MODELS.deepseek_chat.id;
 const API_TIMEOUT_MS = 120_000;
 const REVIEW_BATCH_SIZE = 20;
 const MAX_BATCH_RETRIES = 3;

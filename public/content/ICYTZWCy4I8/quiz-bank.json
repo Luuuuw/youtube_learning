@@ -1,0 +1,576 @@
+{
+  "videoId": "ICYTZWCy4I8",
+  "title": "ICYTZWCy4I8",
+  "generatedAt": "2026-08-10T10:58:37.491Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 10,
+    "medium": 10,
+    "hard": 4,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the expression 'bait and switch' most likely mean in this context?",
+      "options": [
+        "A) A fishing technique used by chefs",
+        "B) A deceptive tactic where one thing is offered but another is given",
+        "C) A type of pizza-making method",
+        "D) A way to change the music in a restaurant"
+      ],
+      "answer": "B",
+      "explanation": "短语 'bait and switch'（挂羊头卖狗肉）是一种常见的商业策略或欺骗手段，先用诱饵吸引人，然后用不太吸引人的东西替换。这里是指计划中用一种方式吸引人但最后换成另一种方式的做法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 27.1,
+      "endTime": 28.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bait",
+        "switch",
+        "deceptive",
+        "tactic"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the speaker, what is the correct order of ingredients when making pizza?",
+      "options": [
+        "A) Toppings, then cheese, then sauce",
+        "B) Cheese, then sauce, then toppings",
+        "C) Sauce, then cheese, then toppings",
+        "D) Toppings, then sauce, then cheese"
+      ],
+      "answer": "C",
+      "explanation": "说话者明确说：'I guess you put the sauce of course, then the cheese'（先放酱料，然后放奶酪），接着对方说'Yeah, cheese then toppings'（奶酪之后放配料）。所以正确顺序是 sauce → cheese → toppings。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 209.1,
+      "endTime": 222.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sauce",
+        "cheese",
+        "toppings",
+        "pizza"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What is a 'pot washer' referring to in this conversation?",
+      "options": [
+        "A) A machine that washes pots automatically",
+        "B) A person who washes dishes in a pub or restaurant",
+        "C) A type of cooking pot",
+        "D) A cleaning product for pots"
+      ],
+      "answer": "B",
+      "explanation": "'Pot washer'（洗锅工）指的是在酒吧或餐厅里负责清洗锅碗瓢盆的人。说话者说 'I watched a pot wash in a pub'，然后对方问 'That's what you guys call a dishwasher, pot washer?'，确认 pot washer 就是在餐饮场所洗碗洗锅的工作人员。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 200.4,
+      "endTime": 205.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pot washer",
+        "dishwasher",
+        "pub",
+        "kitchen"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I don't wanna pretend like I cook all the time'?",
+      "options": [
+        "A) He actually cooks all the time",
+        "B) He doesn't want to lie about cooking frequently",
+        "C) He wants to cook more often",
+        "D) He cooks only on special occasions"
+      ],
+      "answer": "B",
+      "explanation": "'I don't wanna pretend like I cook all the time' 意思是 '我不想假装自己一直都在做饭'。'pretend like' 表达一种'装作/假装'的含义，说话者承认自己并不经常做饭，但不想因此撒谎。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 124.6,
+      "endTime": 128.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pretend",
+        "cook",
+        "honest",
+        "admit"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "In this context, what does it mean to 'feed' the dough?",
+      "options": [
+        "A) To give the dough to someone to eat",
+        "B) To add water and flour to keep the dough active/alive",
+        "C) To throw the dough away",
+        "D) To bake the dough in an oven"
+      ],
+      "answer": "B",
+      "explanation": "在制作面包/披萨面团的语境中，'feed' the dough（喂养面团）是指持续添加水和面粉来保持酵母的活性。说话者解释 'You have to keep it alive by continuing to give it water and flour'，就是通过不断提供养分来维持面团发酵。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 518.6,
+      "endTime": 523.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "feed",
+        "dough",
+        "flour",
+        "water",
+        "alive"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Why does the speaker say 'I'm really hungry, and we have a long flight tonight'?",
+      "options": [
+        "A) They are at the airport and need to board a plane",
+        "B) They are about to make pizza and are hungry before the long flight",
+        "C) They just landed from a flight",
+        "D) They are canceling their flight"
+      ],
+      "answer": "B",
+      "explanation": "说话者表达了饥饿感，并提到今晚有长途飞行。结合上下文，他们是在准备做披萨作为餐食，说明他们打算在飞行前吃饱，或者正在准备飞行前的食物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 249.2,
+      "endTime": 252.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hungry",
+        "flight",
+        "tonight",
+        "pizza"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'dog free for all' mean in this context?",
+      "options": [
+        "A) A place where dogs are not allowed",
+        "B) A chaotic situation where all dogs are running around unleashed",
+        "C) A special event for dog owners",
+        "D) A type of dog food"
+      ],
+      "answer": "B",
+      "explanation": "'Free for all' 是一个英语习语，意为'自由混战/无人管束的局面'。'Dog free for all' 形象地描述了当所有人都放开狗绳，狗在公园里自由奔跑的混乱场景。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 442.8,
+      "endTime": 445.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "dog",
+        "free for all",
+        "off-leash",
+        "chaos"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the phrase 'gobble it up' mean?",
+      "options": [
+        "A) To throw the food away",
+        "B) To eat something quickly and eagerly",
+        "C) To share the food with others",
+        "D) To cook the food thoroughly"
+      ],
+      "answer": "B",
+      "explanation": "'Gobble it up'（狼吞虎咽地吃）是一个常用短语，意思是快速而贪婪地吃下食物。源自火鸡 'gobble'（咯咯叫）的叫声，形容吃得又快又干净。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 557,
+      "endTime": 561,
+      "difficulty": "easy",
+      "relatedWords": [
+        "gobble",
+        "eat",
+        "quickly",
+        "hungry"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is a 'calzone' most likely referring to?",
+      "options": [
+        "A) A type of pasta dish",
+        "B) An Italian folded pizza filled with ingredients",
+        "C) A type of salad",
+        "D) A dessert similar to a donut"
+      ],
+      "answer": "B",
+      "explanation": "Calzone（卡邦尼意式饺子包）是一种意大利食物，是将披萨面团对折包住馅料（通常包括奶酪和番茄酱）后烘烤而成的半月形食物。说话者说做的东西 'looks more like a calzone'，说明它看起来更像一个被折叠的披萨。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 651.1,
+      "endTime": 653,
+      "difficulty": "medium",
+      "relatedWords": [
+        "calzone",
+        "pizza",
+        "Italian",
+        "folded"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What is the speaker comparing the pizza to when mentioning 'pizza from the early 90s that I would get from Domino's'?",
+      "options": [
+        "A) Saying the pizza is much better than Domino's",
+        "B) Saying the pizza reminds them of a nostalgic, retro style of pizza",
+        "C) Saying the pizza is a completely new invention",
+        "D) Saying Domino's makes the best pizza in the world"
+      ],
+      "answer": "B",
+      "explanation": "说话者把当前的披萨比作90年代初从 Domino's 买的那种披萨，这是一种怀旧的说法，意味着当前的披萨让他想起小时候吃的那种风格的披萨。并不一定褒贬，而是表达一种熟悉的怀旧感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 679.2,
+      "endTime": 684.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Domino's",
+        "pizza",
+        "nostalgic",
+        "90s"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'You can count on it, Tom Holland' mean?",
+      "options": [
+        "A) You should count the money carefully",
+        "B) You can definitely rely/trust on it",
+        "C) You need to calculate something",
+        "D) You should be skeptical about it"
+      ],
+      "answer": "B",
+      "explanation": "'You can count on it' 是一个常用表达，意思是 '你可以信赖它/你可以指望它'。这里说话者向 Tom Holland 保证某件事一定会做到，表达一种承诺和可靠的意味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 703.4,
+      "endTime": 705.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "count on",
+        "rely",
+        "trust",
+        "promise"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I'd probably just go see my mom'?",
+      "options": [
+        "A) He needs his mother to cook for him",
+        "B) If he had free time, he would visit his mother",
+        "C) He is planning a family trip",
+        "D) He wants to learn cooking from his mom"
+      ],
+      "answer": "B",
+      "explanation": "使用 'I'd probably'（I would probably 的缩写）表示一种假设性的想法，即 '如果有机会/时间，我可能会去看我妈妈'。这是一种常见的表达愿望或未来计划的方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 389.4,
+      "endTime": 392.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "probably",
+        "visit",
+        "mom",
+        "plan"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is being asked by 'Anyone we know?'",
+      "options": [
+        "A) Whether the speaker knows the people mentioned",
+        "B) Whether the names mentioned are familiar to both speakers",
+        "C) Whether they should introduce themselves",
+        "D) Whether they want to meet new people"
+      ],
+      "answer": "B",
+      "explanation": "'Anyone we know?'（有我们认识的人吗？）是一种询问方式，询问提到的名字是否是双方都认识的人。结合后面的回答 'Oh, Jake and Maggie Gyllenhaal'，说明这是在确认某人是双方都熟悉的名人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 528.3,
+      "endTime": 533.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "anyone",
+        "know",
+        "familiar",
+        "recognize"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the speaker's reaction to putting pasta on pizza?",
+      "options": [
+        "A) Enthusiastic agreement",
+        "B) Surprise and disbelief",
+        "C) Complete indifference",
+        "D) Detailed explanation of how to do it"
+      ],
+      "answer": "B",
+      "explanation": "'You'd put pasta on pizza?' 用疑问语气和反问的形式表达了说话者对'把意大利面放在披萨上'这种做法的惊讶和难以置信。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 77.5,
+      "endTime": 83.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pasta",
+        "pizza",
+        "surprise",
+        "topping"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'I'd probably just go see my mom' reveal about the speaker's priorities?",
+      "options": [
+        "A) He misses cooking with family",
+        "B) Family is important to him, especially spending time with his mother",
+        "C) He doesn't enjoy traveling",
+        "D) He needs help from his mom"
+      ],
+      "answer": "B",
+      "explanation": "说话者表示如果有空闲时间，他会去看望妈妈。这透露出对家庭和母亲的重视，反映出家人，尤其是母亲在他的优先级中占据重要位置。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 389.4,
+      "endTime": 392.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "priority",
+        "family",
+        "mom",
+        "value"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the phrase 'Oh like a pro!' suggest about the person's performance?",
+      "options": [
+        "A) They are doing something poorly",
+        "B) They are doing something with impressive skill and expertise",
+        "C) They are being paid for it",
+        "D) They are teaching others how to do it"
+      ],
+      "answer": "B",
+      "explanation": "'Like a pro!'（像专业人士一样！）是对某人出色表现的赞美，表示他们的动作熟练、技巧高超，做起某事来非常专业。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 498.8,
+      "endTime": 501.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "pro",
+        "professional",
+        "skill",
+        "impressive"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'I was gonna say' mean in this conversation?",
+      "options": [
+        "A) I was about to say the same thing",
+        "B) I was speaking too loudly",
+        "C) I was saying something completely different",
+        "D) I was confused about the topic"
+      ],
+      "answer": "A",
+      "explanation": "'I was gonna say'（I was going to say 的口语形式）意思是 '我正要说呢'，表示对方说的话正好是自己原本要说的，体现一种默契或共识。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 58.1,
+      "endTime": 59.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "gonna",
+        "going to",
+        "same",
+        "agreement"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What is the question tag 'did you?' used for in 'Oh you didn't, did you?'",
+      "options": [
+        "A) To express strong disbelief or surprise about something someone did",
+        "B) To ask for confirmation politely",
+        "C) To request permission",
+        "D) To make a suggestion"
+      ],
+      "answer": "A",
+      "explanation": "'Oh you didn't, did you?' 是一种反意的疑问句尾，表达说话者对某事的惊讶或难以置信。语气暗示说话者不太相信对方真的做了那件事，期望得到否定的确认。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 20.6,
+      "endTime": 22,
+      "difficulty": "hard",
+      "relatedWords": [
+        "question tag",
+        "disbelief",
+        "surprise",
+        "did you"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "Why does the speaker suggest 'Imagine like you and Ben, you could run [the business]'?",
+      "options": [
+        "A) He is recruiting employees",
+        "B) He is suggesting that Tom Holland and Ben could run a business together",
+        "C) He is criticizing their abilities",
+        "D) He is explaining a past business deal"
+      ],
+      "answer": "B",
+      "explanation": "说话者想象 Tom Holland 和 Ben（可能是 Bernthal）一起经营生意的场景，是一种友好的建议或玩笑，表明他认为他们具备经营业务的能力。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 592.1,
+      "endTime": 601.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "imagine",
+        "business",
+        "run",
+        "suggestion"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'That's absolutely right' indicate in the conversation?",
+      "options": [
+        "A) The speaker strongly agrees with the previous statement",
+        "B) The speaker is correcting someone's mistake",
+        "C) The speaker is asking for clarification",
+        "D) The speaker is changing the topic"
+      ],
+      "answer": "A",
+      "explanation": "'That's absolutely right'（完全正确）是一种强烈的肯定表达，表示说话者完全同意对方说的话，并给予肯定。'Absolutely' 加强了肯定的语气。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 605,
+      "endTime": 606.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "absolutely",
+        "right",
+        "agree",
+        "confirm"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Imagine you and a friend are making pizza together. Describe the step-by-step process in English, including the ingredients and order of preparation.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考查学生用英语描述制作过程的表达能力。可以参考视频中提到的步骤：先放 sauce（酱料），再放 cheese（奶酪），最后放 toppings（配料）。学生应能流畅地用英语描述这个流程。",
+      "referenceAnswer": "First, we need to prepare the dough and flatten it out. Then we put the sauce on the base, followed by the cheese. After that, we add our favorite toppings. Finally, we bake it in the oven until the cheese melts and the crust turns golden brown.",
+      "hint": "Use words like: dough, sauce, cheese, toppings, bake, oven. Remember the order: sauce → cheese → toppings",
+      "startTime": 77.5,
+      "endTime": 83.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "pizza",
+        "dough",
+        "sauce",
+        "cheese",
+        "toppings"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "If you had a completely free day with no work or obligations, what would you do? Use at least 3-4 sentences in English to describe your ideal day.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题参考视频中 'I'd probably just go see my mom' 的句型，考查学生用英语谈论未来计划或假设的能力。学生应能使用 'I would...' 或 'I'd probably...' 等结构来表达。",
+      "referenceAnswer": "If I had a completely free day, I would probably sleep in first. Then I'd go see my family, maybe have lunch with my mom. After that, I'd read a book at a cafe or watch a movie. In the evening, I'd cook dinner for myself or my friends.",
+      "hint": "Use expressions like: 'I would...', 'I'd probably...', 'If I had...', 'I would love to...'",
+      "startTime": 389.4,
+      "endTime": 392.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "free day",
+        "plan",
+        "would",
+        "probably",
+        "ideal"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Describe your favorite food in English. Explain why you like it, how it's made, and when you usually eat it. Speak for at least 3-5 sentences.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题结合视频中关于食物（披萨、面包等）的话题，考查学生描述食物的能力。学生应能用形容词描述食物的味道、外观，并介绍相关的制作过程或场合。",
+      "referenceAnswer": "My favorite food is pizza. I love it because it has so many flavors in one bite. It's made with dough, tomato sauce, cheese, and various toppings. I usually eat it on weekends with my friends or family, and sometimes I order it when I want to treat myself after a long week.",
+      "hint": "Think about: What is it? Why do you like it? How is it prepared? When do you eat it? Use descriptive words like delicious, crispy, savory, cheesy.",
+      "startTime": 209.1,
+      "endTime": 222.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "favorite food",
+        "delicious",
+        "describe",
+        "cook",
+        "enjoy"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "You are introducing yourself at a new job. In English, tell your name, what you do, and one interesting fact about yourself. Speak for 3-4 sentences.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题参考视频中 Tom Holland 自我介绍 'I'm Tom Holland, and I sell bread' 的方式，考查学生用英语做自我介绍的能力。学生应能用简单的英语介绍自己的姓名、职业和特点。",
+      "referenceAnswer": "Hi, my name is [your name]. I work as a [your job]. I've been doing this for [number] years, and I really enjoy it. One interesting fact about me is that I love cooking in my free time, especially making homemade pizza with my family.",
+      "hint": "Follow the pattern: 'Hi, I'm [name]. I [work/study] as [job]. One interesting thing about me is...'",
+      "startTime": 562.8,
+      "endTime": 565.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "introduce",
+        "name",
+        "job",
+        "interesting fact"
+      ]
+    }
+  ]
+}

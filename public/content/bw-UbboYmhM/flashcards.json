@@ -1,0 +1,303 @@
+{
+  "videoId": "bw-UbboYmhM",
+  "generatedAt": "2026-08-11T06:23:06.340Z",
+  "cards": [
+    {
+      "id": "mso9xkdf86vc5t",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "explore",
+      "back": "探索，考察 (verb, B1)",
+      "context": "We can't wait to **explore** this incredible city.",
+      "audioStart": 117.72,
+      "audioEnd": 122.22,
+      "word": "explore",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.339Z"
+    },
+    {
+      "id": "mso9xkdfs41x9o",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "grateful",
+      "back": "感激的，感谢的 (adjective, B1)",
+      "context": "I'm honestly just so **grateful** to have met them.",
+      "audioStart": 87.62,
+      "audioEnd": 92.74,
+      "word": "grateful",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.339Z"
+    },
+    {
+      "id": "mso9xkdfirxqqb",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "recognize",
+      "back": "认出，识别 (verb, B1)",
+      "context": "She **recognized** me from YouTube and Instagram.",
+      "audioStart": 54.9,
+      "audioEnd": 60.5,
+      "word": "recognize",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.339Z"
+    },
+    {
+      "id": "mso9xkdfxc42dj",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "authentic",
+      "back": "正宗的，地道的 (adjective, B1)",
+      "context": "Really excited to try some **authentic** Turkish food.",
+      "audioStart": 206.24,
+      "audioEnd": 213.24,
+      "word": "authentic",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.339Z"
+    },
+    {
+      "id": "mso9xkdggta8sa",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "immaculate",
+      "back": "完美的，无瑕疵的 (adjective, C1)",
+      "context": "The views were **immaculate**.",
+      "audioStart": 409.38,
+      "audioEnd": 414.39,
+      "word": "immaculate",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.340Z"
+    },
+    {
+      "id": "mso9xkdglp1d2d",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "craving",
+      "back": "渴望，热望 (noun, B2)",
+      "context": "She's **craving** some durung.",
+      "audioStart": 1296.87,
+      "audioEnd": 1300.4,
+      "word": "craving",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.340Z"
+    },
+    {
+      "id": "mso9xkdgysru19",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "consistency",
+      "back": "质地，稠度 (noun, B2)",
+      "context": "I like the **consistency**.",
+      "audioStart": 843.03,
+      "audioEnd": 845.57,
+      "word": "consistency",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.340Z"
+    },
+    {
+      "id": "mso9xkdgo9x0s4",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "perspective",
+      "back": "视角，观点 (noun, B2)",
+      "context": "It gives you also like a different **perspective** of the city.",
+      "audioStart": 752.29,
+      "audioEnd": 756.33,
+      "word": "perspective",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.340Z"
+    },
+    {
+      "id": "mso9xkdgus39ff",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stuffed",
+      "back": "吃饱的，撑的 (adjective, B2)",
+      "context": "We are like **stuffed** right now.",
+      "audioStart": 286.52,
+      "audioEnd": 293.4,
+      "word": "stuffed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.340Z"
+    },
+    {
+      "id": "mso9xkdghgo0y6",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vintage",
+      "back": "复古的，老式的 (adjective, B2)",
+      "context": "I also spotted a really cool like **vintage** store.",
+      "audioStart": 305.12,
+      "audioEnd": 310.26,
+      "word": "vintage",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.340Z"
+    },
+    {
+      "id": "mso9xkdgdtjo14",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "terminal",
+      "back": "终点站，航站楼 (noun, B1)",
+      "context": "We're just going to a **terminal** I guess.",
+      "audioStart": 1140.94,
+      "audioEnd": 1169.18,
+      "word": "terminal",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.340Z"
+    },
+    {
+      "id": "mso9xkdgqk7j1m",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hydrate",
+      "back": "补水，补充水分 (verb, B2)",
+      "context": "We are kind of in desperate need of some **hydration**.",
+      "audioStart": 1186.8,
+      "audioEnd": 1192.57,
+      "word": "hydrate",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:06.340Z"
+    },
+    {
+      "id": "mso9xjkdwscvb4",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "这里就是我们的浴室区域了 至于床的话，我们其实更想要张大床\nwe ___ ___ ___ like a big bed for us",
+      "back": "would / have / preferred",
+      "context": "we would have preferred like a big bed for us",
+      "audioStart": 183.819,
+      "audioEnd": 190.5,
+      "hint": "would have preferred",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:05.293Z"
+    },
+    {
+      "id": "mso9xjkdwq95q1",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "没想到能看到这样的城市景观。 太不可思议了。\nWe ___ ___ ___ a bit earlier, though.",
+      "back": "should / have / arrived",
+      "context": "We should have arrived a bit earlier, though.",
+      "audioStart": 815.55,
+      "audioEnd": 817.87,
+      "hint": "should have arrived",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:05.293Z"
+    },
+    {
+      "id": "mso9xjkdee89lb",
+      "videoId": "bw-UbboYmhM",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "想给你们看看我们今天穿什么。 茶 而且我们压根没点\nwe ___ ___ ___",
+      "back": "didn't / even / order",
+      "context": "we didn't even order",
+      "audioStart": 233.419,
+      "audioEnd": 234.979,
+      "hint": "didn't even order",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:23:05.294Z"
+    }
+  ]
+}

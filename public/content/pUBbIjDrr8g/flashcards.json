@@ -1,0 +1,436 @@
+{
+  "videoId": "pUBbIjDrr8g",
+  "generatedAt": "2026-08-11T06:28:23.368Z",
+  "cards": [
+    {
+      "id": "msoa4czrct5xij",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "infested",
+      "back": "（有害动物、昆虫等）大批滋生的 (adjective, B2)",
+      "context": "my hotel room was **infested** with bugs so i couldn't sleep.",
+      "audioStart": 24.86,
+      "audioEnd": 27.26,
+      "word": "infested",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czrd9ns4a",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trafficked",
+      "back": "被拐卖，被贩卖 (verb, C1)",
+      "context": "there was a moment where i thought i was about to to get **trafficked**, and",
+      "audioStart": 27.26,
+      "audioEnd": 29.54,
+      "word": "trafficked",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czr9d3st9",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "equipped",
+      "back": "装备的，配备的 (adjective, B2)",
+      "context": "I've been **equipped** with a fully developed frontal lobe for a year now, so this time nothing can go wrong.",
+      "audioStart": 41.66,
+      "audioEnd": 45.3,
+      "word": "equipped",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czrb6ao43",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bid",
+      "back": "出价，投标 (verb, B2)",
+      "context": "swiss airlines has a feature where you can **bid** to upgrade.",
+      "audioStart": 89.42,
+      "audioEnd": 94.58,
+      "word": "bid",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czrqb61n8",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "upgrade",
+      "back": "升级，升舱 (noun, B2)",
+      "context": "how it works is you bid how much you'd be willing to pay for an **upgrade**.",
+      "audioStart": 96.06,
+      "audioEnd": 97.76,
+      "word": "upgrade",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czrmxmg3s",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "detour",
+      "back": "绕行，绕道 (noun, B2)",
+      "context": "I went on a 15 minute **detour** because I thought that this gate meant private property.",
+      "audioStart": 654.22,
+      "audioEnd": 658.92,
+      "word": "detour",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czrtz8iie",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "slippery",
+      "back": "滑的，湿滑的 (adjective, B1)",
+      "context": "there are a lot of trickier areas with **slippery** rocks.",
+      "audioStart": 682.46,
+      "audioEnd": 684.54,
+      "word": "slippery",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czrtq3ipz",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "fixating",
+      "back": "专注，念念不忘 (verb, C1)",
+      "context": "just to enjoy my surroundings instead of **fixating** on whether I'm on the right path or not.",
+      "audioStart": 733.42,
+      "audioEnd": 735.98,
+      "word": "fixating",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czrinpv67",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "overstimulated",
+      "back": "过度刺激的 (adjective, C1)",
+      "context": "I was getting so **overstimulated** lauterbrunnen is beautiful but it's so crowded and there's so many cars",
+      "audioStart": 905.86,
+      "audioEnd": 911.42,
+      "word": "overstimulated",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czr8pe9ds",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "surreal",
+      "back": "超现实的，梦幻般的 (adjective, B2)",
+      "context": "It's pretty **surreal** hiking, seeing stuff like this.",
+      "audioStart": 1884.65,
+      "audioEnd": 1888.31,
+      "word": "surreal",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.367Z"
+    },
+    {
+      "id": "msoa4czs3706fy",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "capable",
+      "back": "有能力的，能干的 (adjective, B1)",
+      "context": "I realize how **capable** I am.",
+      "audioStart": 2045.33,
+      "audioEnd": 2048.07,
+      "word": "capable",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.368Z"
+    },
+    {
+      "id": "msoa4czspey5qc",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trusting",
+      "back": "信任，信赖 (verb, B1)",
+      "context": "**trusting** yourself enough to know that even when things fall apart, you'll figure it out.",
+      "audioStart": 2055.07,
+      "audioEnd": 2058.01,
+      "word": "trusting",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:23.368Z"
+    },
+    {
+      "id": "msoa4bdsdnvsp6",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) but if your bid doesn't get accepted, you don't pay anything extra and you just keep your ___ fare",
+      "back": "original",
+      "context": "but if your bid doesn't get accepted, you don't pay anything extra and you just keep your original fare.",
+      "audioStart": 101.1,
+      "audioEnd": 104.7,
+      "hint": "选项：initial / regular / normal / original",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.280Z"
+    },
+    {
+      "id": "msoa4bds9dundw",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) That's more an easier hike. I decided to stay in Miren this time because it's a ___",
+      "back": "car-free",
+      "context": "That's more an easier hike. I decided to stay in Miren this time because it's a car-free",
+      "audioStart": 444.7,
+      "audioEnd": 452.1,
+      "hint": "选项：car-less / car-free / vehicle-free / traffic-free",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.280Z"
+    },
+    {
+      "id": "msoa4bdslxtplp",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) baby kitty so i didn't end up actually going to tremelbeck falls i turned around because i was ___",
+      "back": "scared",
+      "context": "baby kitty so i didn't end up actually going to tremelbeck falls i turned around because i was",
+      "audioStart": 899.7,
+      "audioEnd": 905.7,
+      "hint": "选项：tired / hungry / lost / scared",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.280Z"
+    },
+    {
+      "id": "msoa4bdsjqqt3m",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) there are shorter versions of trails that lead you to the same destination so if you have a specific route you want to follow, i would just route it on all trails and then ___",
+      "back": "follow",
+      "context": "there are shorter versions of trails that lead you to the same destination so if you have a specific route you want to follow, i would just route it on all trails and then",
+      "audioStart": 704.2,
+      "audioEnd": 711.8,
+      "hint": "选项：follow / plan / track / map",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.280Z"
+    },
+    {
+      "id": "msoa4bdslcgv31",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And despite not being planned, mainlaken ended up being one of the ___ of my trip.",
+      "back": "highlights",
+      "context": "And despite not being planned, mainlaken ended up being one of the highlights of my trip.",
+      "audioStart": 991.9,
+      "audioEnd": 998.9,
+      "hint": "选项：memories / moments / experiences / highlights",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.280Z"
+    },
+    {
+      "id": "msoa4bdsh4v8sp",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) This year I'm turning ___",
+      "back": "26",
+      "context": "This year I'm turning 26.",
+      "audioStart": 37.4,
+      "audioEnd": 40.6,
+      "hint": "选项：28 / 27 / 25 / 26",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.280Z"
+    },
+    {
+      "id": "msoa4bdsujj7kz",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I got lost and turned a 10 minute walk into a ___",
+      "back": "marathon",
+      "context": "I got lost and turned a 10 minute walk into a",
+      "audioStart": 207.6,
+      "audioEnd": 212.8,
+      "hint": "选项：marathon / journey / trek / adventure",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.280Z"
+    },
+    {
+      "id": "msoa4bdssxc4mo",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) baby steps i guess Even though ___",
+      "back": "though",
+      "context": "baby steps i guess Even though",
+      "audioStart": 186.5,
+      "audioEnd": 194.1,
+      "hint": "选项：but / though / yet / however",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.280Z"
+    },
+    {
+      "id": "msoa4bm3r0p38y",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "但每次独自旅行，我都不得不去处理这些问题，然后我发现自己是多么能干。 虽然这次迷了很多次路，但我也能找到自己的路。\n___ ___ I got lost so many times on this trip, I was also able to find my way back all those times.",
+      "back": "even / though",
+      "context": "Even though I got lost so many times on this trip, I was also able to find my way back all those times.",
+      "audioStart": 2047.753,
+      "audioEnd": 2049.713,
+      "hint": "even though",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.579Z"
+    },
+    {
+      "id": "msoa4bm3k2oxa6",
+      "videoId": "pUBbIjDrr8g",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "总之最大的收获是，我方向感依然很差。 不，其实我这次出行是想弥补上次的遗憾。\nI set out on this trip to fix all of my mistakes from my last trip ___ ___ I could create the perfect version of it.",
+      "back": "so / that",
+      "context": "I set out on this trip to fix all of my mistakes from my last trip so that I could create the perfect version of it.",
+      "audioStart": 2024.713,
+      "audioEnd": 2027.874,
+      "hint": "so that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:28:21.579Z"
+    }
+  ]
+}

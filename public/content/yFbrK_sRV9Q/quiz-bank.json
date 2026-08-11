@@ -1,0 +1,560 @@
+{
+  "videoId": "yFbrK_sRV9Q",
+  "title": "yFbrK_sRV9Q",
+  "generatedAt": "2026-08-10T16:48:40.475Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 8,
+    "medium": 11,
+    "hard": 5,
+    "choice": 20,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does the word 'lobby' refer to in the context of this video?",
+      "options": [
+        "A) A private office room",
+        "B) The entrance area of the building",
+        "C) A storage area",
+        "D) A conference room"
+      ],
+      "answer": "B",
+      "explanation": "'Lobby' 指的是建筑物入口处的大厅或前厅区域，是访客进入建筑后第一眼看到的空间。视频中'Here we are in the lobby'表示演讲者正站在建筑的入口大厅介绍 SpaceX。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 5.6,
+      "endTime": 8.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lobby",
+        "entrance",
+        "building"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "According to the speaker, what will make the lobby 'less white'?",
+      "options": [
+        "A) A new lighting system",
+        "B) A coat of paint",
+        "C) 'Cool elements' coming in soon",
+        "D) Some new furniture"
+      ],
+      "answer": "C",
+      "explanation": "演讲者说'It's very white right now, but there are actually some cool elements coming in soon that will make it less white'，意思是现在大厅颜色非常单调（白），但很快会加入一些很酷的装饰元素让它不再那么单调。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 8.3,
+      "endTime": 15.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "lobby",
+        "decoration",
+        "elements"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "How many people can the engineering offices accommodate per floor, and how many total floors can be opened?",
+      "options": [
+        "A) 200 people per floor; 2 floors",
+        "B) 300 people per floor; 3 floors",
+        "C) 400 people per floor; 4 floors",
+        "D) 100 people per floor; 5 floors"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确说'we have our engineering offices and space for about 300 people per floor and we've got a total of about three floors that we can open'，即每层可容纳约300人，总共可以开放三层。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 14.5,
+      "endTime": 26.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "engineering",
+        "capacity",
+        "floors"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "In office design, what does 'open plan' mean?",
+      "options": [
+        "A) An office with many small private rooms",
+        "B) A layout with minimal walls to encourage communication",
+        "C) A design that the public can see",
+        "D) A plan with lots of windows only"
+      ],
+      "answer": "B",
+      "explanation": "'Open plan'（开放式平面布局）指办公空间内没有或只有很少隔断墙的布局方式，让员工之间可以自由交流、视线通畅。视频中也明确提到这种设计是为了'maximize communication'（最大化沟通）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 28.5,
+      "endTime": 34.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "open plan",
+        "communication",
+        "office design"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the word 'dismal' most likely mean when the speaker says 'This place used to be quite dismal'?",
+      "options": [
+        "A) Beautiful and bright",
+        "B) Clean and modern",
+        "C) Dark, depressing, or dreary",
+        "D) Spacious and luxurious"
+      ],
+      "answer": "C",
+      "explanation": "'Dismal' 意为'阴暗的、沉闷的、令人沮丧的'。视频中说'This place used to be quite dismal'，暗示这个地方以前非常阴暗沉闷，但现在已经做了改善。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 33.5,
+      "endTime": 39.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "dismal",
+        "depressing",
+        "renovation"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Why does SpaceX try to minimize the number of offices?",
+      "options": [
+        "A) To save money on rent",
+        "B) Because doors limit communication",
+        "C) To have more meeting rooms",
+        "D) Because employees prefer open spaces"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确说'We really try to minimize the number of offices that we have because doors limit communication'，即因为门会限制员工之间的沟通，所以公司尽量减少带门的办公室。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 40.3,
+      "endTime": 46.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "offices",
+        "doors",
+        "communication"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "According to the speaker, who sits in cubicles (queues) at SpaceX?",
+      "options": [
+        "A) Only engineers",
+        "B) Only the CEO and executives",
+        "C) Most people, including vice presidents, except those in HR and finance",
+        "D) Nobody sits in cubicles"
+      ],
+      "answer": "C",
+      "explanation": "视频中说'Everyone at the company with the exception of a few people in like HR and finance actually are in queues including vice presidents'，即除了HR和财务的少数人外，其他所有人（包括副总裁）都坐在隔间里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 46.1,
+      "endTime": 55.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "cubicles",
+        "queues",
+        "HR",
+        "finance"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What is the speaker's role at SpaceX?",
+      "options": [
+        "A) Engineering lead",
+        "B) Marketing manager",
+        "C) Head of sales, responsible for revenue",
+        "D) Office manager"
+      ],
+      "answer": "C",
+      "explanation": "演讲者明确说'I'm responsible for sales'以及'I'm in charge of making sure that there's revenue here in the company'，即他负责销售工作并确保公司有收入来源。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 59.3,
+      "endTime": 66.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sales",
+        "revenue",
+        "responsible"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "The phrase 'in charge of' is closest in meaning to:",
+      "options": [
+        "A) interested in",
+        "B) responsible for",
+        "C) far from",
+        "D) curious about"
+      ],
+      "answer": "B",
+      "explanation": "'In charge of' 是常用短语，意为'负责、主管'，与'responsible for'含义相同。视频中'I'm in charge of making sure that there's revenue'即'我负责确保公司有收入'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 60.8,
+      "endTime": 66.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "in charge of",
+        "responsible for",
+        "revenue"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Which of the following SpaceX products is NOT mentioned in the video?",
+      "options": [
+        "A) Falcon 1",
+        "B) Falcon 9",
+        "C) Dragon",
+        "D) Starship"
+      ],
+      "answer": "D",
+      "explanation": "视频中明确提到'And we're working on lots of Falcon 1 deals, Falcon 9 deals, and Dragon deals'，提到了Falcon 1、Falcon 9和Dragon三个产品，但完全没有提到Starship。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 65.7,
+      "endTime": 75.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Falcon 1",
+        "Falcon 9",
+        "Dragon",
+        "deals"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'impromptu' mean in the phrase 'impromptu meeting'?",
+      "options": [
+        "A) Carefully planned in advance",
+        "B) Spontaneous, without prior planning",
+        "C) Held in a formal conference room",
+        "D) Held with all employees present"
+      ],
+      "answer": "B",
+      "explanation": "'Impromptu' 意为'即兴的、未经事先准备的'。所以'impromptu meeting'指的是没有提前安排、临时召开的会议，符合视频中描述的随时可以进行的小型讨论空间。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 71.4,
+      "endTime": 83,
+      "difficulty": "medium",
+      "relatedWords": [
+        "impromptu",
+        "meeting",
+        "spontaneous"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "According to the speaker, what is a benefit of the open office layout?",
+      "options": [
+        "A) More privacy for employees",
+        "B) You can see what people are working on their computers",
+        "C) Better air conditioning",
+        "D) More office space for everyone"
+      ],
+      "answer": "B",
+      "explanation": "视频中说'it's actually quite helpful to have this openness because then you can sort of see what people are working on in their computers'，即开放办公的好处之一是可以看到其他人在电脑上做什么，便于了解彼此的工作内容。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 79.5,
+      "endTime": 90.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "openness",
+        "computers",
+        "visibility"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What is Matt McCune currently working on?",
+      "options": [
+        "A) Rocket engine testing",
+        "B) Assembly documentation for Draco",
+        "C) Sales presentations",
+        "D) Office renovation"
+      ],
+      "answer": "B",
+      "explanation": "视频中Matt McCune自我介绍时说'MATT MCCUNE here I'm making the assembly documentation for the Draco'，即他正在为Draco推进器制作组装文档。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 94.5,
+      "endTime": 100.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Matt McCune",
+        "assembly documentation",
+        "Draco"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is 'Draco' in the context of SpaceX?",
+      "options": [
+        "A) A type of rocket fuel",
+        "B) An in-space thruster",
+        "C) A test facility in Texas",
+        "D) A customer service system"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确说'David is driving the development of our in-space thruster, which is called Draco'，即Draco是SpaceX研发的一种太空推进器（in-space thruster），用于航天器在太空中机动。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 99.2,
+      "endTime": 112.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Draco",
+        "thruster",
+        "in-space"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "Where does SpaceX perform their Texas testing?",
+      "options": [
+        "A) At their headquarters in California",
+        "B) At a facility in Texas",
+        "C) At NASA's Kennedy Space Center",
+        "D) On their Dragon spacecraft"
+      ],
+      "answer": "B",
+      "explanation": "视频中提到'We're doing all our Texas testing at our facility down there'，即所有德州测试都在他们位于德州的设施进行。'Down there'指的是地理位置较远的德州测试场。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 113,
+      "endTime": 119,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Texas",
+        "testing",
+        "facility"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "Where is the Draco thruster used according to the video?",
+      "options": [
+        "A) Only in the Dragon spacecraft",
+        "B) Only in the upper stage of Falcon 9",
+        "C) In both the Dragon spacecraft and the upper stage of Falcon 9",
+        "D) Only in the Falcon 1 rocket"
+      ],
+      "answer": "C",
+      "explanation": "视频中说'this direct engine is what is used in our Dragon spacecraft and also in the upper stage of Falcon 9 for orbital maneuvering and reentry'，即Draco推进器同时用于Dragon飞船和Falcon 9的上面级，用于轨道机动和再入大气层。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 125.1,
+      "endTime": 135.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Draco",
+        "Dragon",
+        "Falcon 9",
+        "upper stage"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'orbital maneuvering' mean in the context of the video?",
+      "options": [
+        "A) Landing a rocket back on Earth",
+        "B) Changing position or direction while in orbit",
+        "C) Launching a rocket into space",
+        "D) Building space stations"
+      ],
+      "answer": "B",
+      "explanation": "'Orbital maneuvering'（轨道机动）指航天器在地球轨道上调整自身位置、方向或速度的技术动作。视频中提到Draco用于'orbital maneuvering and reentry'（轨道机动和再入大气层），帮助航天器在太空中灵活调整。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 130.9,
+      "endTime": 135.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "orbital maneuvering",
+        "reentry",
+        "spacecraft"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "How does the glass in the VIP room work?",
+      "options": [
+        "A) It is always transparent",
+        "B) It changes color based on temperature",
+        "C) A motion sensor makes it go opaque when someone walks in",
+        "D) It is operated only by a remote control"
+      ],
+      "answer": "C",
+      "explanation": "视频中明确描述'it's got this glass that goes opaque and we put a motion sensor on it so as you walk in the glass goes opaque'，即VIP房间的玻璃配有运动传感器，人走进去时玻璃会自动变模糊（不透明），以保护会议隐私。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 148.9,
+      "endTime": 152.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "motion sensor",
+        "opaque",
+        "VIP room",
+        "glass"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "speaking",
+      "question": "Please describe the SpaceX office layout and design philosophy based on the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语复述题，需要学生根据视频内容描述SpaceX办公室的布局和设计理念。关键信息点包括：每层300人、三层楼、开放式办公设计、最大化沟通、最小化办公室数量。",
+      "referenceAnswer": "SpaceX has engineering offices at the front of the building with space for about 300 people per floor, and a total of about three floors that can be opened. Currently only the first floor is occupied. The office uses an 'open plan' design philosophy to maximize communication. They minimize the number of private offices because doors limit communication. The place used to be quite dismal, but they are now trying to make it fairly nice looking. Most people sit in cubicles (queues) including vice presidents, with the exception of a few people in HR and finance.",
+      "hint": "Think about: the number of people per floor, the total number of floors, the 'open plan' concept, and why they minimize offices.",
+      "startTime": 14.5,
+      "endTime": 37.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "open plan",
+        "communication",
+        "offices",
+        "layout"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "speaking",
+      "question": "What is the speaker's role and responsibility at SpaceX?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语回答题，需要学生用英语表达演讲者的工作职责。",
+      "referenceAnswer": "The speaker is responsible for sales at SpaceX. He states that he is in charge of making sure that there is revenue in the company. In other words, his job is to handle sales and ensure the company generates income.",
+      "hint": "Think about what he says about his job: 'I'm responsible for...' and 'I'm in charge of...'",
+      "startTime": 59.3,
+      "endTime": 66.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "sales",
+        "responsible",
+        "revenue",
+        "in charge of"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Please explain what the Draco thruster is, who is developing it, and where it is used at SpaceX.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道综合性口语题，需要学生整合视频中关于Draco推进器的所有信息。",
+      "referenceAnswer": "Draco is SpaceX's in-space thruster (RCS - Reaction Control System). David is driving the development of Draco, while Matt McCune is making the assembly documentation for it. The Draco thruster is used in SpaceX's Dragon spacecraft and also in the upper stage of Falcon 9 rocket. It is used for orbital maneuvering and reentry, meaning it helps the spacecraft adjust its position in orbit and return through the atmosphere.",
+      "hint": "Think about: what Draco is, who is developing it (David), what documentation Matt is making, and where it is used (Dragon and Falcon 9 upper stage).",
+      "startTime": 100,
+      "endTime": 135.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Draco",
+        "thruster",
+        "RCS",
+        "Dragon",
+        "Falcon 9"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Please describe the features and purpose of the VIP meeting room at SpaceX.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道口语描述题，需要学生根据视频内容描述VIP会议室的特征和用途。",
+      "referenceAnswer": "The VIP meeting room is used when SpaceX meets with their customers, especially when the CEO of a customer comes to visit. The room has a special feature: it has glass walls with a motion sensor installed. When someone walks into the room, the motion sensor is triggered and the glass automatically goes opaque (becomes frosted/non-transparent). This provides privacy for important customer meetings.",
+      "hint": "Think about: who uses the room (customers and their CEOs), and what special technology the glass has (motion sensor that makes it go opaque).",
+      "startTime": 135.6,
+      "endTime": 152.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "VIP",
+        "meeting room",
+        "motion sensor",
+        "opaque",
+        "customer"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "According to the video, after whom are the conference rooms at SpaceX named?",
+      "options": [
+        "A) Famous astronauts only",
+        "B) Great rocket engineers and scientists related to space",
+        "C) SpaceX company founders and executives",
+        "D) NASA administrators and politicians"
+      ],
+      "answer": "B",
+      "explanation": "视频中明确说'We named our conference rooms after the great rocket engineers and great scientists related to space'，即SpaceX的会议室以伟大的火箭工程师和与太空相关的伟大科学家命名。同时也提到'we have some conference rooms named after astronauts too'，所以有些也以宇航员命名，但主答案是工程师和科学家。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 152.8,
+      "endTime": 159.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "conference rooms",
+        "rocket engineers",
+        "scientists",
+        "astronauts"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "question": "What does 'space-faring civilization' mean in the speaker's statement?",
+      "options": [
+        "A) A civilization that travels by boat across oceans",
+        "B) A civilization capable of traveling and operating in space",
+        "C) A civilization that only studies astronomy",
+        "D) A civilization that watches space movies"
+      ],
+      "answer": "B",
+      "explanation": "'Space-faring' 意为'航天的、能在太空中航行的'，类似'sea-faring'（航海的）。'Space-faring civilization'（太空航行文明）指的是有能力进入太空、在太空中运作的文明。视频中提到这些人使人类能够成为一个太空航行的文明。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 159.5,
+      "endTime": 167.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "space-faring",
+        "civilization",
+        "credit",
+        "enable"
+      ]
+    }
+  ]
+}

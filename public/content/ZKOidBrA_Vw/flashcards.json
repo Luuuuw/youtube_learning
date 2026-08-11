@@ -1,0 +1,396 @@
+{
+  "videoId": "ZKOidBrA_Vw",
+  "generatedAt": "2026-08-11T06:31:50.084Z",
+  "cards": [
+    {
+      "id": "msoa8shwtf46co",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "obsessed",
+      "back": "痴迷的，着迷的 (adjective, B2)",
+      "context": "I'm like **obsessed** with Harry Potter",
+      "audioStart": 17.4,
+      "audioEnd": 18.08,
+      "word": "obsessed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8shwl27kwy",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "ridiculous",
+      "back": "荒谬的，可笑的 (adjective, B2)",
+      "context": "It was the most **ridiculous** quiz I have ever done",
+      "audioStart": 35,
+      "audioEnd": 39.6,
+      "word": "ridiculous",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8shwxrb5zt",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "referee",
+      "back": "裁判 (noun, B1)",
+      "context": "who was the **referee** for like the 1964 Quidditch World Cup",
+      "audioStart": 39.6,
+      "audioEnd": 44,
+      "word": "referee",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8shwn99ale",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "visceral",
+      "back": "发自内心的，本能的 (adjective, C1)",
+      "context": "That's a **visceral** memory.",
+      "audioStart": 171.49,
+      "audioEnd": 172.59,
+      "word": "visceral",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8shw8dd804",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "simultaneous",
+      "back": "同时的，同步的 (adjective, B2)",
+      "context": "do a **simultaneous** equation",
+      "audioStart": 177,
+      "audioEnd": 179.49,
+      "word": "simultaneous",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8shwwqa1x1",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "genuinely",
+      "back": "真正地，确实 (adverb, B2)",
+      "context": "I'm **genuinely** impressed",
+      "audioStart": 185.59,
+      "audioEnd": 187,
+      "word": "genuinely",
+      "tags": [
+        "CEFR-B2",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8shw4uf6xi",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intense",
+      "back": "强烈的，紧张的 (adjective, B1)",
+      "context": "It's so **intense**.",
+      "audioStart": 165,
+      "audioEnd": 166.87,
+      "word": "intense",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8shwa5xfzo",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "unfair",
+      "back": "不公平的 (adjective, B1)",
+      "context": "I thought that might be like a properly **unfair** lesson",
+      "audioStart": 163.25,
+      "audioEnd": 166.87,
+      "word": "unfair",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8shw1rkfzz",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "impressed",
+      "back": "印象深刻的，佩服的 (adjective, B1)",
+      "context": "are you **impressed** okay",
+      "audioStart": 136.83,
+      "audioEnd": 139,
+      "word": "impressed",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8shwtvjmgu",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "subscribe",
+      "back": "订阅 (verb, B1)",
+      "context": "don't forget to **subscribe**",
+      "audioStart": 206,
+      "audioEnd": 207.89,
+      "word": "subscribe",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:50.084Z"
+    },
+    {
+      "id": "msoa8rwk8b9asc",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) just before lockdown everything was great and tom said these words uh stop me if this ___ true",
+      "back": "rings",
+      "context": "just before lockdown everything was great and tom said these words uh stop me if this rings true",
+      "audioStart": 6.8,
+      "audioEnd": 12.1,
+      "hint": "选项：feels / sounds / looks / rings",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:49.316Z"
+    },
+    {
+      "id": "msoa8rwkjmlrlk",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) love pub quizzes big time harry potter I've read all the books I'm a ___ fan it was",
+      "back": "huge",
+      "context": "love pub quizzes big time harry potter I've read all the books I'm a huge fan it was",
+      "audioStart": 23.5,
+      "audioEnd": 31.1,
+      "hint": "选项：huge / crazy / great / big",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:49.316Z"
+    },
+    {
+      "id": "msoa8rwkgc0kad",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) the most ___ quiz I have ever done one of the questions was who was the referee for",
+      "back": "ridiculous",
+      "context": "the most ridiculous quiz I have ever done one of the questions was who was the referee for",
+      "audioStart": 31.1,
+      "audioEnd": 36.1,
+      "hint": "选项：difficult / ridiculous / funny / boring",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:49.316Z"
+    },
+    {
+      "id": "msoa8rwkue0y6x",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) like the 1964 Quidditch World Cup and Zendaya was like I know that is ___ yeah I know",
+      "back": "ridiculous",
+      "context": "like the 1964 Quidditch World Cup and Zendaya was like I know that is ridiculous yeah I know",
+      "audioStart": 36.1,
+      "audioEnd": 43.6,
+      "hint": "选项：unbelievable / amazing / ridiculous / crazy",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:49.316Z"
+    },
+    {
+      "id": "msoa8rwkrox45f",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) is the name of Ron's ___ uh um you",
+      "back": "rat",
+      "context": "is the name of Ron's rat uh um you",
+      "audioStart": 54.8,
+      "audioEnd": 62.7,
+      "hint": "选项：dog / cat / owl / rat",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:49.316Z"
+    },
+    {
+      "id": "msoa8rwk8mcec1",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You're right, Crookshanks. You just ignore the mean little boy. ___!",
+      "back": "Harry",
+      "context": "You're right, Crookshanks. You just ignore the mean little boy. Harry!",
+      "audioStart": 110.1,
+      "audioEnd": 117.8,
+      "hint": "选项：Dumbledore / Ron / Hermione / Harry",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:49.316Z"
+    },
+    {
+      "id": "msoa8rwkfa0jar",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I put it on my tree. It's a little, uh, it's a little ___ Potter.",
+      "back": "Harry",
+      "context": "I put it on my tree. It's a little, uh, it's a little Harry Potter.",
+      "audioStart": 194.4,
+      "audioEnd": 199.8,
+      "hint": "选项：Harry / Hermione / Dumbledore / Ron",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:49.316Z"
+    },
+    {
+      "id": "msoa8rwkbjykn7",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) If you enjoyed this video, don't forget to ___ and",
+      "back": "subscribe",
+      "context": "If you enjoyed this video, don't forget to subscribe and",
+      "audioStart": 205.5,
+      "audioEnd": 209.2,
+      "hint": "选项：subscribe / like / comment / share",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:49.316Z"
+    },
+    {
+      "id": "msoa8r5uhlqq6e",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "Harry！ 我是说，我也能接受，严格说不算猫，算半个猫，不过也行。\nI mean, I ___ ___ ___ ___, it's technically not a cat, it's half cat, but that's fine.",
+      "back": "would / have / also / accepted",
+      "context": "I mean, I would have also accepted, it's technically not a cat, it's half cat, but that's fine.",
+      "audioStart": 114.634,
+      "audioEnd": 118.774,
+      "hint": "would have also accepted",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:48.354Z"
+    },
+    {
+      "id": "msoa8r5ueszbe3",
+      "videoId": "ZKOidBrA_Vw",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "但魂器我全都能背出来 真心服了，题目应该出更难才对\nI'm genuinely impressed, and I ___ ___ ___ more difficult questions.",
+      "back": "should / have / written",
+      "context": "I'm genuinely impressed, and I should have written more difficult questions.",
+      "audioStart": 185.593,
+      "audioEnd": 189.234,
+      "hint": "should have written",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:48.354Z"
+    }
+  ]
+}

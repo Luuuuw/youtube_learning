@@ -1,0 +1,246 @@
+{
+  "videoId": "97Ffhl6_OVM",
+  "generatedAt": "2026-08-11T06:22:11.754Z",
+  "cards": [
+    {
+      "id": "mso9we96wvg7zq",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "distract",
+      "back": "分散（注意力），使分心 (verb, B1)",
+      "context": "Staying focused in today's world where everything is designed to **distract** you is harder than ever.",
+      "audioStart": 9.3,
+      "audioEnd": 14.5,
+      "word": "distract",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we966cvmcg",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "neurological",
+      "back": "神经系统的 (adjective, B2)",
+      "context": "Now, on top of all the distractions, imagine having ADHD, a **neurological** condition that makes my brain wired for distraction by default.",
+      "audioStart": 33.86,
+      "audioEnd": 39.18,
+      "word": "neurological",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we963qtk1m",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "circadian",
+      "back": "昼夜节律的 (adjective, B2)",
+      "context": "This means working alongside our body's biological clock or **circadian** rhythm which controls when we wake up in sleep and our peak energy times.",
+      "audioStart": 82.86,
+      "audioEnd": 87.4,
+      "word": "circadian",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we96nlbe6k",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "spectrum",
+      "back": "范围，系列 (noun, B2)",
+      "context": "This chart shows the **spectrum** of biological clock so it ranges from extreme morning people like myself to extreme night people.",
+      "audioStart": 91.48,
+      "audioEnd": 96.14,
+      "word": "spectrum",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we96xmg6eu",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sustainable",
+      "back": "可持续的 (adjective, B2)",
+      "context": "Staying up late to work on your goals during your golden time isn't **sustainable** because you still need to wake up early to get to your job.",
+      "audioStart": 176.92,
+      "audioEnd": 180.2,
+      "word": "sustainable",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we96ojrx0p",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "paradox",
+      "back": "悖论，矛盾 (noun, B2)",
+      "context": "How do we achieve deep focus by purposefully doing nothing? Sounds like a **paradox**, right?",
+      "audioStart": 205.1,
+      "audioEnd": 206.44,
+      "word": "paradox",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we96op5nw4",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "stimulation",
+      "back": "刺激 (noun, B2)",
+      "context": "But when we allow ourselves to feel boredom, we reduce that **stimulation** which in turn expands our attention span and we return to work feeling more focused.",
+      "audioStart": 221,
+      "audioEnd": 225.98,
+      "word": "stimulation",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we961wqlhj",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "interplay",
+      "back": "相互作用 (noun, C1)",
+      "context": "Research surrounding this is really recent and not fully known, but what we know is there is a dynamic **interplay** between default mode network that gets activated when we're bored and the executive network, which is involved in focusing and working through tasks.",
+      "audioStart": 263.16,
+      "audioEnd": 274.96,
+      "word": "interplay",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we96rqmmej",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "anticipatory",
+      "back": "预期的，预料的 (adjective, C1)",
+      "context": "It's because when our phone is in sight or even when we know it's nearby, we experience something called the **anticipatory** dopamine.",
+      "audioStart": 346.56,
+      "audioEnd": 352.36,
+      "word": "anticipatory",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we96q2xx60",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "spike",
+      "back": "激增，飙升 (verb, C1)",
+      "context": "Our brain responds to cues so just seeing an email or notification pop up can **spike** your dopamine making it harder to focus.",
+      "audioStart": 399.22,
+      "audioEnd": 403.12,
+      "word": "spike",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we96xtrxd8",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "multitask",
+      "back": "同时处理多件事 (verb, B2)",
+      "context": "Fourth, don't attempt to **multitask**.",
+      "audioStart": 441.95,
+      "audioEnd": 445.87,
+      "word": "multitask",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    },
+    {
+      "id": "mso9we96735po3",
+      "videoId": "97Ffhl6_OVM",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "momentum",
+      "back": "势头，动力 (noun, B2)",
+      "context": "Once you've started, staying concentrated becomes easier because you build **momentum**.",
+      "audioStart": 507.57,
+      "audioEnd": 512.05,
+      "word": "momentum",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:22:11.754Z"
+    }
+  ]
+}

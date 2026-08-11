@@ -1,9 +1,10 @@
+import { AI_MODELS } from '@/lib/ai-models';
 import { NextRequest, NextResponse } from 'next/server';
 import { getWordByName, addWord } from '@/lib/vocab-db';
 import { getLocalDictEntry } from '@/lib/local-dict';
 import { verifyAuth, unauthorizedResponse } from '@/lib/auth-middleware';
 
-const MINIMAX_API_URL = 'https://api.minimaxi.com/v1/text/chatcompletion_v2';
+const MINIMAX_API_URL = AI_MODELS.minimax_chat.endpoint;
 
 interface WordResult {
   phonetic?: string;
@@ -57,7 +58,11 @@ async function aiBatchLookup(words: string[]): Promise<Record<string, { phonetic
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
+<<<<<<< Updated upstream
           model: 'MiniMax-M2.5',
+=======
+          model: AI_MODELS.minimax_chat.id,
+>>>>>>> Stashed changes
           messages: [
             { role: 'system', content: systemPrompt },
             { role: 'user', content: wordList },

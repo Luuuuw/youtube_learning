@@ -1,0 +1,341 @@
+{
+  "videoId": "05CsPT8G7hY",
+  "generatedAt": "2026-08-11T06:20:17.128Z",
+  "cards": [
+    {
+      "id": "mso9txt2usy3ov",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "laid-back",
+      "back": "悠闲的，轻松的 (adjective, B2)",
+      "context": "We had a pretty **laid-back** travel day but it was really nice to have a little boat ride and be on the water.",
+      "audioStart": 21,
+      "audioEnd": 27.08,
+      "word": "laid-back",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.126Z"
+    },
+    {
+      "id": "mso9txt2bwvj0y",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "peaceful",
+      "back": "平静的，安宁的 (adjective, B1)",
+      "context": "It was **peaceful**, beautiful, relaxing, and that also meant I didn't really feel guilty staying inside when I had a bit of work to do.",
+      "audioStart": 49.42,
+      "audioEnd": 56.94,
+      "word": "peaceful",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.126Z"
+    },
+    {
+      "id": "mso9txt3jo5lj8",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "guilty",
+      "back": "内疚的，愧疚的 (adjective, B1)",
+      "context": "It was peaceful, beautiful, relaxing, and that also meant I didn't really feel **guilty** staying inside when I had a bit of work to do.",
+      "audioStart": 49.42,
+      "audioEnd": 56.94,
+      "word": "guilty",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.127Z"
+    },
+    {
+      "id": "mso9txt3rwy6ds",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "grind",
+      "back": "苦差事，繁重的工作 (noun, B2)",
+      "context": "I wanted to start reading today but duty calls sometimes so I have been on my **grind** with editing.",
+      "audioStart": 92.14,
+      "audioEnd": 97.62,
+      "word": "grind",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.127Z"
+    },
+    {
+      "id": "mso9txt367mh5j",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "swarm",
+      "back": "成群地飞来飞去，蜂拥 (verb, B2)",
+      "context": "It's black fly season so they're **swarming** my head.",
+      "audioStart": 135.18,
+      "audioEnd": 138.12,
+      "word": "swarm",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.127Z"
+    },
+    {
+      "id": "mso9txt3pihugs",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "genuinely",
+      "back": "真正地，确实 (adverb, B2)",
+      "context": "It's **genuinely** so beautiful.",
+      "audioStart": 165.32,
+      "audioEnd": 166.66,
+      "word": "genuinely",
+      "tags": [
+        "CEFR-B2",
+        "adverb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.127Z"
+    },
+    {
+      "id": "mso9txt338avpq",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "scenery",
+      "back": "风景，景色 (noun, B1)",
+      "context": "So we just hung out there for a little while, had some lunch, and enjoyed the beautiful **scenery**.",
+      "audioStart": 356.87,
+      "audioEnd": 362.49,
+      "word": "scenery",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.127Z"
+    },
+    {
+      "id": "mso9txt3n0ttq0",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "predictable",
+      "back": "可预见的，意料之中的 (adjective, B2)",
+      "context": "I don't know also it was like a little bit **predictable** but again still like a very good beach read.",
+      "audioStart": 477.81,
+      "audioEnd": 482.71,
+      "word": "predictable",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.127Z"
+    },
+    {
+      "id": "mso9txt3ouoy03",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "invested",
+      "back": "投入的，关注的 (adjective, B2)",
+      "context": "I feel like I didn't like the characters in this one as much like I wasn't like as **invested** in them.",
+      "audioStart": 471.43,
+      "audioEnd": 477.81,
+      "word": "invested",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.127Z"
+    },
+    {
+      "id": "mso9txt30icug1",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "admire",
+      "back": "欣赏，观赏 (verb, B1)",
+      "context": "We took the boat back and then **admired** the sunset.",
+      "audioStart": 561.29,
+      "audioEnd": 565.57,
+      "word": "admire",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.127Z"
+    },
+    {
+      "id": "mso9txt4t16fgq",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "grateful",
+      "back": "感激的，感谢的 (adjective, B1)",
+      "context": "I'm really **grateful** that I got to go and spend some time with my family in such a beautiful place.",
+      "audioStart": 695.49,
+      "audioEnd": 700.95,
+      "word": "grateful",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.128Z"
+    },
+    {
+      "id": "mso9txt461riox",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "adventure",
+      "back": "冒险，奇遇 (noun, B1)",
+      "context": "On to the next **adventure**.",
+      "audioStart": 700.79,
+      "audioEnd": 702.33,
+      "word": "adventure",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:17.128Z"
+    },
+    {
+      "id": "mso9tvakdd92xa",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) the lake my ___",
+      "back": "hair",
+      "context": "the lake my hair",
+      "audioStart": 204.3,
+      "audioEnd": 208.2,
+      "hint": "选项：boat / sand / water / hair",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:13.868Z"
+    },
+    {
+      "id": "mso9tvalanbjpd",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) had to drop off my cousin and her ___ because they had to go home and head back",
+      "back": "fiance",
+      "context": "had to drop off my cousin and her fiance because they had to go home and head back",
+      "audioStart": 551.9,
+      "audioEnd": 555.7,
+      "hint": "选项：mother / sister / fiance / friend",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:13.869Z"
+    },
+    {
+      "id": "mso9tvalvat7ee",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So I'm gonna put my bathing suit on and go for the first ___ of my time here.",
+      "back": "swim",
+      "context": "So I'm gonna put my bathing suit on and go for the first swim of my time here.",
+      "audioStart": 109.5,
+      "audioEnd": 114.9,
+      "hint": "选项：swim / run / dive / walk",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:13.869Z"
+    },
+    {
+      "id": "mso9twefhd9okz",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "书是不错，但我没能完全投入，因为感觉... 全程都能猜到会怎样，我其实希望她能更深入地...\nI kind of ___ ___ she ___ more into",
+      "back": "wish / that / went",
+      "context": "I kind of wish that she went more into",
+      "audioStart": 453.466,
+      "audioEnd": 460.005,
+      "hint": "wish that + past perfect",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:15.303Z"
+    },
+    {
+      "id": "mso9tweg6h1uke",
+      "videoId": "05CsPT8G7hY",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我超爱游泳，下水的感觉真的超棒。 我超爱户外活动，去外面游个泳简直绝了。\n___ ___ to do ___ a nice little swim out there.",
+      "back": "what / better / than",
+      "context": "what better to do than a nice little swim out there.",
+      "audioStart": 424.286,
+      "audioEnd": 430.745,
+      "hint": "what better to do than",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:20:15.304Z"
+    }
+  ]
+}

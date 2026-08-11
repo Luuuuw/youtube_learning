@@ -1,0 +1,627 @@
+{
+  "videoId": "JbPTTs1y0sg",
+  "title": "JbPTTs1y0sg",
+  "generatedAt": "2026-08-11T00:01:57.232Z",
+  "version": 1,
+  "totalQuestions": 26,
+  "stats": {
+    "easy": 7,
+    "medium": 14,
+    "hard": 5,
+    "choice": 23,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "In the sentence 'Ooh, I did just thrift this t-shirt,' what does the verb 'thrift' mean?",
+      "options": [
+        "A) To throw away or discard",
+        "B) To shop for secondhand or used items",
+        "C) To donate to charity",
+        "D) To repair or fix clothing"
+      ],
+      "answer": "B",
+      "explanation": "在这里 'thrift' 作为动词使用，意思是购买二手商品（vintage/古着）。'thrift store'（二手商店）就是这个用法。说话者刚在二手店买了一件T恤。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 117.2,
+      "endTime": 119.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "thrift",
+        "secondhand",
+        "shop",
+        "t-shirt"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the expression 'Finishing touches' mean?",
+      "options": [
+        "A) Physically touching something to finish it",
+        "B) The final small details added to complete something",
+        "C) Touching the finish line in a race",
+        "D) Destroying something completely"
+      ],
+      "answer": "B",
+      "explanation": "'Finishing touches'（画龙点睛之笔/最后的修饰）指的是为完成某件事而添加的最后的细节。这个短语常用于描述最后的小调整或完善步骤。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 119.6,
+      "endTime": 120.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "finishing touches",
+        "final",
+        "details",
+        "complete"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the word 'introspective' mean in 'Why am I getting so introspective?'",
+      "options": [
+        "A) Outgoing and extroverted",
+        "B) Looking inward; examining one's own thoughts and feelings",
+        "C) Angry and frustrated",
+        "D) Physically looking into a container"
+      ],
+      "answer": "B",
+      "explanation": "'Introspective'（内省的/反思的）指的是向内审视自己的思想和感受。说话者奇怪自己为什么变得如此沉思内省。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 20,
+      "endTime": 21.6,
+      "difficulty": "hard",
+      "relatedWords": [
+        "introspective",
+        "reflective",
+        "thoughtful",
+        "introspection"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "In 'you can skip the waiting list,' what does the verb 'skip' mean?",
+      "options": [
+        "A) To jump over physically",
+        "B) To bypass or avoid a step in a process",
+        "C) To deliberately miss something",
+        "D) To dance or hop"
+      ],
+      "answer": "B",
+      "explanation": "这里的 'skip' 意为'跳过/略过'。'skip the waiting list' 意思是绕过等待名单，优先尝试。'skip' 在口语中常表示'跳过某个步骤'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.8,
+      "endTime": 114.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "skip",
+        "waiting list",
+        "bypass",
+        "avoid"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the phrasal verb 'put aside' mean in 'They did put aside a little batch for you guys'?",
+      "options": [
+        "A) To throw away or discard",
+        "B) To save or reserve something for a specific purpose",
+        "C) To place beside someone physically",
+        "D) To completely forget about"
+      ],
+      "answer": "B",
+      "explanation": "'Put aside'（留出/留起来）意思是保留某物以供特定用途。这里指他们专门为观众预留了一小批产品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 105,
+      "endTime": 107.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "put aside",
+        "reserve",
+        "save",
+        "batch"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'nostalgic' mean in 'I always get so nostalgic at this corner'?",
+      "options": [
+        "A) Feeling angry or frustrated",
+        "B) Feeling a sentimental longing for the past",
+        "C) Feeling confused or lost",
+        "D) Feeling extremely happy"
+      ],
+      "answer": "B",
+      "explanation": "'Nostalgic'（怀旧的）指的是对过去产生一种感伤的思念之情。说话者在街角因为有校车经过的回忆而感到怀旧。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 249.1,
+      "endTime": 252.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "nostalgic",
+        "sentimental",
+        "memories",
+        "past"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does the speaker mean by 'the truest, purest form of me is here'?",
+      "options": [
+        "A) Her physical body shape",
+        "B) The most authentic version of herself",
+        "C) A chemical or scientific formula",
+        "D) A type of artistic creation"
+      ],
+      "answer": "B",
+      "explanation": "说话者用 'truest, purest form'（最真实、最纯粹的形式）来表达她在这个地方展现的是最真实的自己，最本真的状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 16.8,
+      "endTime": 20,
+      "difficulty": "easy",
+      "relatedWords": [
+        "truest",
+        "purest",
+        "authentic",
+        "myself"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the expression 'below average' mean?",
+      "options": [
+        "A) Higher than the typical standard",
+        "B) Lower than the typical or normal standard",
+        "C) Exactly at the normal standard",
+        "D) Unrelated to any standard"
+      ],
+      "answer": "B",
+      "explanation": "'Below average'（低于平均）意思是低于一般或正常的水平。'average' 意为平均/标准，'below' 表示低于。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 194,
+      "endTime": 195.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "below average",
+        "standard",
+        "normal",
+        "quality"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "In 'Growing up in the same house for your entire childhood,' how is 'growing up' being used grammatically?",
+      "options": [
+        "A) As a gerund describing a life experience/process",
+        "B) As a past simple tense verb",
+        "C) As a future tense expression",
+        "D) As an imperative command"
+      ],
+      "answer": "A",
+      "explanation": "'Growing up'（成长）在这里作为动名词使用，作为句子主语，描述一个生命过程或经历。'grow up' 意为长大成人。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 254.3,
+      "endTime": 257.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "growing up",
+        "gerund",
+        "childhood",
+        "experience"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the speaker mean by 'forget an Erewhon'?",
+      "options": [
+        "A) She wants to purchase an Erewhon store",
+        "B) She no longer cares about going to Erewhon (a premium grocery store)",
+        "C) She forgot to visit Erewhon yesterday",
+        "D) She loves going to Erewhon"
+      ],
+      "answer": "B",
+      "explanation": "Erewhon 是美国一家高端有机超市。'Forget an Erewhon' 是口语表达，意思是'别指望去 Erewhon 了'，表达了'已经超出预算或不在意了'的意味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 493.6,
+      "endTime": 495.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Erewhon",
+        "grocery",
+        "premium",
+        "forget"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "Why is the sentence 'today I was boring' grammatically unusual?",
+      "options": [
+        "A) 'Boring' should always be in the present tense",
+        "B) It should be 'today I was bored' because 'bored' describes a feeling, while 'boring' describes what causes boredom",
+        "C) 'Today' should be removed from the sentence",
+        "D) There is no grammatical issue; it's correct English"
+      ],
+      "answer": "B",
+      "explanation": "'Bored'（感到无聊的）描述人的感受；'boring'（令人无聊的）描述事物的特性。所以应该说 'I was bored'（我感到无聊），而不是 'I was boring'（我令人无聊）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 440.2,
+      "endTime": 441.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "bored",
+        "boring",
+        "-ed",
+        "-ing adjectives"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What tense is used in 'this place has been here for like five years'?",
+      "options": [
+        "A) Past simple tense",
+        "B) Present perfect tense",
+        "C) Past perfect tense",
+        "D) Future tense"
+      ],
+      "answer": "B",
+      "explanation": "'Has been' 是现在完成时（present perfect），表示从过去某时开始持续到现在的动作或状态。'has been here for five years' 强调这个店已经开了五年并延续至今。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 168.6,
+      "endTime": 171.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "present perfect",
+        "has been",
+        "for five years",
+        "tense"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "In 'I'm gonna do some work for Ophelia,' what is 'gonna' a casual contraction of?",
+      "options": [
+        "A) 'going to'",
+        "B) 'got a'",
+        "C) 'gone to'",
+        "D) 'going away'"
+      ],
+      "answer": "A",
+      "explanation": "'Gonna' 是 'going to'（将要去做某事）的口语化缩写形式，主要用于非正式对话中。完整形式是 'I'm going to do some work'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 199.1,
+      "endTime": 202.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "gonna",
+        "going to",
+        "contraction",
+        "informal"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What does the phrase 'sensitive to' mean in the context of being sensitive to something?",
+      "options": [
+        "A) Very emotional about something",
+        "B) Easily affected or reactive to a stimulus",
+        "C) Secretive about something",
+        "D) Aggressive toward something"
+      ],
+      "answer": "B",
+      "explanation": "'Sensitive to'（对...敏感/对...反应强烈）表示对某种刺激（如香水、食物、皮肤用品等）容易产生反应。这里指对某些产品成分反应敏感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 64.5,
+      "endTime": 68,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sensitive to",
+        "reaction",
+        "allergy",
+        "skin"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does the informal word 'comfy' mean in 'I hope that you feel comfy'?",
+      "options": [
+        "A) Uncomfortable and restless",
+        "B) Comfortable and at ease (informal)",
+        "C) Complex and confusing",
+        "D) Confused and disoriented"
+      ],
+      "answer": "B",
+      "explanation": "'Comfy' 是 'comfortable'（舒适的/自在的）的非正式缩写形式，在口语中非常常用，表示身体或心理上感到放松、舒适。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 36.2,
+      "endTime": 39.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "comfy",
+        "comfortable",
+        "cozy",
+        "informal"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'maturing' mean in 'Is this like me maturing?'",
+      "options": [
+        "A) Getting older physically only",
+        "B) Becoming more emotionally and mentally grown-up",
+        "C) Becoming a parent",
+        "D) Going through puberty"
+      ],
+      "answer": "B",
+      "explanation": "'Maturing'（成熟）这里指在情感、思想或行为上变得更加成熟。说话者用反问的方式表达对自己变得成熟感到惊讶。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 545.4,
+      "endTime": 547.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "maturing",
+        "mature",
+        "grown-up",
+        "adulthood"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the structure 'I used to hate' mean in 'I used to, like, hate both of these things'?",
+      "options": [
+        "A) I always hate them",
+        "B) I hated them in the past, but no longer do",
+        "C) I will hate them in the future",
+        "D) I am currently hating them"
+      ],
+      "answer": "B",
+      "explanation": "'Used to + 动词原形'表示过去常常做某事，但现在不再这样了。'I used to hate' 意思是'我以前讨厌（但现在不了）'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 542.9,
+      "endTime": 545.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "used to",
+        "past habit",
+        "no longer",
+        "change"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does the word 'absolutely' emphasize in 'one of my absolute favorite' things?",
+      "options": [
+        "A) Time or timing",
+        "B) Degree or intensity to the maximum",
+        "C) Location or place",
+        "D) Manner or method"
+      ],
+      "answer": "B",
+      "explanation": "'Absolutely'（绝对地/完全地）是程度副词，用来加强语气，强调程度达到最高。'absolute favorite' 意为'最最最喜欢的'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 22.5,
+      "endTime": 25.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "absolutely",
+        "favorite",
+        "emphasis",
+        "intensity"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the idiom 'I don't know if I was late to this' mean?",
+      "options": [
+        "A) She arrived physically late to a place",
+        "B) She may have missed the trend or discovery that others already knew about",
+        "C) She was late to work or school",
+        "D) She was born after a certain date"
+      ],
+      "answer": "B",
+      "explanation": "'Late to (something)' 是一个英语俚语，意思是'错过了某事的潮流/没有及早知道'。'late to the party' 也有类似含义。这里指她可能错过了已经流行的某件事。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 484.6,
+      "endTime": 487.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "late to",
+        "trend",
+        "discover",
+        "party"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does the word 'conducive' mean in 'conducive for working from home'?",
+      "options": [
+        "A) Harmful or damaging",
+        "B) Making a certain situation likely or possible; helpful for",
+        "C) Expensive or luxurious",
+        "D) Confusing or unclear"
+      ],
+      "answer": "B",
+      "explanation": "'Conducive'（有益于/有助于）指有助于某事的发生或某目标的实现。'conducive to working from home' 意思是'有利于在家工作'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 174.8,
+      "endTime": 178.2,
+      "difficulty": "hard",
+      "relatedWords": [
+        "conducive",
+        "helpful",
+        "environment",
+        "working"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "In 'So homemade,' the word 'homemade' is best described as:",
+      "options": [
+        "A) A compound word formed from 'home' + 'made'",
+        "B) A past tense verb in simple form",
+        "C) An adverb modifying a verb",
+        "D) A proper noun"
+      ],
+      "answer": "A",
+      "explanation": "'Homemade'（自制的/家里做的）是一个复合词，由 'home'（家）和 'made'（制作）组合而成，表示在自己家里制作而非购买的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 521.4,
+      "endTime": 522,
+      "difficulty": "easy",
+      "relatedWords": [
+        "homemade",
+        "compound word",
+        "home",
+        "made"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "question": "What does the phrasal verb 'set up' mean in 'my parents set up badminton in the backyard'?",
+      "options": [
+        "A) To sit down in a location",
+        "B) To arrange or establish equipment for an activity",
+        "C) To defeat or trick someone",
+        "D) To leave or depart"
+      ],
+      "answer": "B",
+      "explanation": "'Set up'（搭建/设置）在这里指安装或布置活动所需的设备。'set up badminton' 表示架好羽毛球网、准备好打球的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 303.4,
+      "endTime": 307.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "set up",
+        "badminton",
+        "backyard",
+        "arrange"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "question": "What does the speaker imply by 'I don't think that they know about you'?",
+      "options": [
+        "A) They have no knowledge of basic facts",
+        "B) They are not aware of the listener's existence or situation",
+        "C) They dislike the listener",
+        "D) They are physically far away"
+      ],
+      "answer": "B",
+      "explanation": "'They don't know about you'（他们不认识/不了解你）表示对方对某人的存在、情况或身份一无所知。这里可能是朋友/店员的反应，表明他们不知道说话者的身份。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 511.1,
+      "endTime": 513.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "know about",
+        "unaware",
+        "exist",
+        "recognition"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "The speaker says she always gets nostalgic at a corner because that is where the school bus used to be. Can you describe a place that makes you feel nostalgic and explain why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个开放性口语题，考查学习者用英语描述个人经历和情感的能力。可以从'nostalgic'（怀旧）这个词出发，分享一个有特殊回忆的地方。",
+      "referenceAnswer": "参考答案要点：1) 描述一个让你感到怀旧的具体地点（家、学校、老街角、祖父母家等）；2) 说明与之相关的童年记忆或重要经历；3) 解释为什么这个地方能唤起你的怀旧情感；4) 表达这种怀旧带给你的感受。",
+      "hint": "Think of a place from your childhood. What happened there? Why does it make you feel sentimental?",
+      "startTime": 249.1,
+      "endTime": 257.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "nostalgic",
+        "childhood",
+        "memories",
+        "school bus",
+        "corner"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "The speaker mentions going to try a new coffee shop in the morning before getting changed. Can you describe your ideal morning routine? What do you usually do in the morning?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个日常话题的口语表达题，考查学习者用英语描述日常作息的能力。可以参考视频中提到的咖啡、换衣服等活动来组织答案。",
+      "referenceAnswer": "参考答案要点：1) 起床时间；2) 早晨的饮品（咖啡/茶）或早餐；3) 准备工作（洗澡、换衣服）；4) 出门前的活动；5) 你喜欢早晨的原因。",
+      "hint": "Think about what you do from the moment you wake up. Coffee? Breakfast? Exercise? Getting ready?",
+      "startTime": 57.7,
+      "endTime": 68,
+      "difficulty": "medium",
+      "relatedWords": [
+        "morning routine",
+        "coffee shop",
+        "get changed",
+        "breakfast"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "speaking",
+      "question": "The speaker says that every time she comes back to her hometown, 'I just feel so myself' and that 'the truest, purest form of me is here.' Can you talk about a place where you feel most like yourself, and explain why?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个深度自我表达的口语题，考查学习者用英语表达情感和个人感受的能力。可以从 'feel so myself' 和 'truest, purest form' 这两个关键短语出发。",
+      "referenceAnswer": "参考答案要点：1) 描述一个让你感到最自在、最像自己的地方（家、故乡、某个特定场所）；2) 解释为什么这个地方能让你展现真实的自我；3) 描述在那里你的感受和行为；4) 分享这个地方对你的意义。",
+      "hint": "Is there a place where you feel truly yourself? Why does it feel authentic? What do you do there?",
+      "startTime": 13,
+      "endTime": 25.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "myself",
+        "authentic",
+        "truest",
+        "purest form",
+        "hometown"
+      ]
+    }
+  ]
+}

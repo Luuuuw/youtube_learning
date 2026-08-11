@@ -1,0 +1,398 @@
+{
+  "videoId": "MdyUk7Y7uuw",
+  "generatedAt": "2026-08-11T06:26:53.222Z",
+  "cards": [
+    {
+      "id": "msoa2ffqyzw7j7",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "itinerary",
+      "back": "行程；旅行计划 (noun, B2)",
+      "context": "I've planned an **itinerary** pack my bags and practice my cantonese.",
+      "audioStart": 29.6,
+      "audioEnd": 36.54,
+      "word": "itinerary",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffqp13rr4",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "jet-lagged",
+      "back": "有时差反应的 (adjective, B2)",
+      "context": "I am so jet lagged.",
+      "audioStart": 74.3,
+      "audioEnd": 75.12,
+      "word": "jet-lagged",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffq99it4j",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dim sum",
+      "back": "点心（粤式小吃） (noun, B1)",
+      "context": "I'm actually gonna head out to get some **dim sum** because I want to start off the trip right.",
+      "audioStart": 75.12,
+      "audioEnd": 81.58,
+      "word": "dim sum",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffq3mc83q",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "jam-packed",
+      "back": "挤得满满的；塞满的 (adjective, B2)",
+      "context": "I have the most **jam-packed** itinerary.",
+      "audioStart": 77.78,
+      "audioEnd": 81.58,
+      "word": "jam-packed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffq0nfdbe",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "soaking",
+      "back": "湿透的 (adjective, B2)",
+      "context": "My pants are **soaking**, but it's honestly really quiet.",
+      "audioStart": 221.88,
+      "audioEnd": 225.8,
+      "word": "soaking",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffqqremrk",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "incline",
+      "back": "斜坡；坡度 (noun, B2)",
+      "context": "**incline** everywhere.",
+      "audioStart": 227.72,
+      "audioEnd": 229.46,
+      "word": "incline",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffqrkcz9d",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "viewpoint",
+      "back": "观景点；视角 (noun, B1)",
+      "context": "I finally made it to the **viewpoint** that I was hiking towards.",
+      "audioStart": 252.64,
+      "audioEnd": 261.46,
+      "word": "viewpoint",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffqzltpsb",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "elasticity",
+      "back": "弹性；灵活性 (noun, B2)",
+      "context": "The five peptide complex can improve skin **elasticity** and firmness.",
+      "audioStart": 396.74,
+      "audioEnd": 402.98,
+      "word": "elasticity",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffq3lb78r",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "compact",
+      "back": "小巧的；紧凑的 (adjective, B2)",
+      "context": "I just love the redesign of this because it's more **compact**.",
+      "audioStart": 437.68,
+      "audioEnd": 443.64,
+      "word": "compact",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffqgt6vxu",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "overwhelmed",
+      "back": "不知所措的；压力大的 (adjective, B2)",
+      "context": "it's really really busy so I'm feeling a little **overwhelmed**.",
+      "audioStart": 630.78,
+      "audioEnd": 640.38,
+      "word": "overwhelmed",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffqkvw297",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "flaky",
+      "back": "酥脆的；易碎的 (adjective, B2)",
+      "context": "This crust is super crisp but it's still **flaky** and buttery.",
+      "audioStart": 690.56,
+      "audioEnd": 697.74,
+      "word": "flaky",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2ffqudimgz",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "recreational",
+      "back": "娱乐的；消遣的 (adjective, B2)",
+      "context": "I think it is just like a **recreational** space which is so cool.",
+      "audioStart": 991,
+      "audioEnd": 998.44,
+      "word": "recreational",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:53.222Z"
+    },
+    {
+      "id": "msoa2e8lvkfqph",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Guys, my flight is in less than ___ hours",
+      "back": "12",
+      "context": "🎵 Guys, my flight is in less than 12 hours.",
+      "audioStart": 22,
+      "audioEnd": 28.2,
+      "hint": "选项：48 / 24 / 6 / 12",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:51.669Z"
+    },
+    {
+      "id": "msoa2e8lumj2vj",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I am so ___ lagged",
+      "back": "jet",
+      "context": "I am so jet lagged.",
+      "audioStart": 72.1,
+      "audioEnd": 76.3,
+      "hint": "选项：space / time / jet / lag",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:51.669Z"
+    },
+    {
+      "id": "msoa2e8lo5vqpt",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) so I wanted to have a little ___ before I went to hike Victoria Peak",
+      "back": "caffeine",
+      "context": "so I wanted to have a little caffeine before I went to hike Victoria Peak,",
+      "audioStart": 182.6,
+      "audioEnd": 187.4,
+      "hint": "选项：coffee / snack / caffeine / tea",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:51.669Z"
+    },
+    {
+      "id": "msoa2e8lh4133v",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Probably last time I went to ___",
+      "back": "Vietnam",
+      "context": "Probably last time I went to Vietnam.",
+      "audioStart": 218.9,
+      "audioEnd": 223.4,
+      "hint": "选项：Thailand / Korea / Vietnam / Japan",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:51.669Z"
+    },
+    {
+      "id": "msoa2e8ltnuqx3",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) serum it helps brighten hydrate and ___ your skin",
+      "back": "strengthen",
+      "context": "serum it helps brighten hydrate and strengthen your skin",
+      "audioStart": 387.9,
+      "audioEnd": 395.8,
+      "hint": "选项：tighten / soften / strengthen / smooth",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:51.669Z"
+    },
+    {
+      "id": "msoa2e8la8h5bb",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) and egg bun because I want to go to a really well-known ___",
+      "back": "bakery",
+      "context": "and egg bun because I want to go to a really well-known bakery",
+      "audioStart": 323.2,
+      "audioEnd": 326.5,
+      "hint": "选项：cafe / bakery / restaurant / store",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:51.669Z"
+    },
+    {
+      "id": "msoa2e8lx9w5qj",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) because everyone loves it for Hong Kong style ___",
+      "back": "breakfast",
+      "context": "because everyone loves it for Hong Kong style breakfast.",
+      "audioStart": 546.3,
+      "audioEnd": 551.3,
+      "hint": "选项：breakfast / lunch / brunch / dinner",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:51.669Z"
+    },
+    {
+      "id": "msoa2e8ln0kg1e",
+      "videoId": "MdyUk7Y7uuw",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We can do a what's in my bag We have a portable charger two cameras my gopro and ___",
+      "back": "more",
+      "context": "We can do a what's in my bag We have a portable charger two cameras my gopro and",
+      "audioStart": 501.4,
+      "audioEnd": 505.9,
+      "hint": "选项：other / extra / more / less",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:51.669Z"
+    }
+  ]
+}

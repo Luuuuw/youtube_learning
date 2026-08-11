@@ -1,0 +1,568 @@
+{
+  "videoId": "vZdYo_1Pwz8",
+  "title": "vZdYo_1Pwz8",
+  "generatedAt": "2026-08-10T11:23:22.117Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 8,
+    "medium": 10,
+    "hard": 7,
+    "choice": 20,
+    "speaking": 5
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What does 'bank holiday weekend' mean in this context?",
+      "options": [
+        "A) A weekend when banks are closed for business",
+        "B) A public holiday recognized by the government, often creating a long weekend",
+        "C) A holiday where you visit banks",
+        "D) A weekend spent saving money at a bank"
+      ],
+      "answer": "B",
+      "explanation": "「bank holiday」在英式英语中指法定公共假日，通常会与周末连在一起形成小长假。视频中提到「It's currently the bank holiday weekend in August」，说明她利用八月这个公共假日周末去徒步旅行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 59.7,
+      "endTime": 67,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bank holiday",
+        "weekend",
+        "August"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does 'last minute trip' imply about her hiking plan?",
+      "options": [
+        "A) She planned the trip months in advance",
+        "B) She decided to go hiking very shortly before actually going",
+        "C) The trip only lasts for one minute",
+        "D) She is always late for her trips"
+      ],
+      "answer": "B",
+      "explanation": "「last minute」意为「最后一刻的、临时决定的」。她说「I planned a super last minute trip to go hiking」，表示她是临时决定并快速安排了这次徒步旅行。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 64.6,
+      "endTime": 67,
+      "difficulty": "easy",
+      "relatedWords": [
+        "last minute",
+        "planned",
+        "trip"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "Why is she doing 'more of a descent hike' today?",
+      "options": [
+        "A) Because she wants to climb to the highest peak",
+        "B) Because she hasn't been elevation hiking in a long time and doesn't have proper hiking gear",
+        "C) Because the weather only allows going downhill",
+        "D) Because her friends recommended a downhill route"
+      ],
+      "answer": "B",
+      "explanation": "她在视频中解释说「I haven't been elevation hiking in a long time and I don't really have my hiking gear」，所以她选择先做一段下坡徒步（descent hike），之后再挑战高海拔路线。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 68.9,
+      "endTime": 76.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "descent",
+        "elevation",
+        "hiking gear"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is a 'ridge line' in hiking terminology?",
+      "options": [
+        "A) A line drawn on a map",
+        "B) A path that follows along the top of a mountain ridge",
+        "C) A rope used for climbing",
+        "D) A type of mountain tent"
+      ],
+      "answer": "B",
+      "explanation": "「ridge line」在徒步术语中指沿着山脊顶部延伸的路径。她说「come back up and do the ridge line」，表示她要回到高处走山脊线路。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 85.6,
+      "endTime": 91,
+      "difficulty": "medium",
+      "relatedWords": [
+        "ridge line",
+        "hike",
+        "descent"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'descent' mean in the context of hiking?",
+      "options": [
+        "A) Agreement or approval",
+        "B) The act of going downward",
+        "C) Family heritage or ancestry",
+        "D) A pause during the hike"
+      ],
+      "answer": "B",
+      "explanation": "「descent」在徒步语境中意为「下降、下行」。她说「begin my descent down to the lake」，意思是开始向下走前往湖泊。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 190.9,
+      "endTime": 197.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "descent",
+        "hike",
+        "lake"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does 'I swear everywhere I turn is more beautiful than the last' express?",
+      "options": [
+        "A) She is angry about the views",
+        "B) She is amazed that each new view is even more stunning than the previous one",
+        "C) She is lost and turning around repeatedly",
+        "D) She is comparing different hiking trails"
+      ],
+      "answer": "B",
+      "explanation": "「I swear」是强调用语，「everywhere I turn is more beautiful than the last」表达她每转一个方向都能看到比之前更美的风景，体现了她对自然景观的惊叹和赞美。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 135.7,
+      "endTime": 144,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stunning",
+        "beautiful",
+        "scenic"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "How long has she been doing solo trips according to the video?",
+      "options": [
+        "A) For one year",
+        "B) For about four or so years",
+        "C) For ten years",
+        "D) Since she was a child"
+      ],
+      "answer": "B",
+      "explanation": "她在视频中明确说「I've been doing it for the past like four or so years」，意思是她过去大约四年来一直保持每年至少一次独自旅行的习惯。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 199.5,
+      "endTime": 206.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "solo trip",
+        "year",
+        "tradition"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does 'reconnect with yourself' mean in the context of solo trips?",
+      "options": [
+        "A) To repair a broken relationship with a friend",
+        "B) To meet new people during the trip",
+        "C) To spend time alone and reflect on one's thoughts and feelings",
+        "D) To reconnect to the internet after being offline"
+      ],
+      "answer": "C",
+      "explanation": "「reconnect with yourself」意为「与自己重新建立联系」，指通过独处和反思，重新认识自己的内心、想法和感受。她说独自旅行是「a good way to kind of reconnect with yourself」，强调独旅对自我反思的价值。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 194.2,
+      "endTime": 206.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "reconnect",
+        "solo trip",
+        "yourself"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the 'Peak Mountain Hut' she mentioned?",
+      "options": [
+        "A) The highest peak of the mountain",
+        "B) A shelter or resting place on the mountain for hikers",
+        "C) A type of mountain gear",
+        "D) A peak in the mountain range named after a hut"
+      ],
+      "answer": "B",
+      "explanation": "「Mountain Hut」是徒步旅行术语，指山间供徒步者休息、避难或住宿的小屋。她说「I reached the Peak Mountain Hut and I just chilled, relaxed」，说明她到达了一个山顶小屋并在那里休息放松。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 186.3,
+      "endTime": 190.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "mountain hut",
+        "chilled",
+        "rested"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does 'chilled' mean in this context?",
+      "options": [
+        "A) Feeling very cold",
+        "B) Relaxed and calm",
+        "C) Frozen food",
+        "D) Angry or upset"
+      ],
+      "answer": "B",
+      "explanation": "「chilled」在英式英语口语中意为「放松的、冷静的」。她说「I just chilled, relaxed for a little bit」，表示她在山屋休息时很放松、很惬意。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 186.3,
+      "endTime": 190.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "chilled",
+        "relaxed",
+        "rested"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "Why does she say 'off to a strong start'?",
+      "options": [
+        "A) Because she started running fast",
+        "B) Because the views are amazing even before she started hiking",
+        "C) Because she won a race",
+        "D) Because she has strong hiking boots"
+      ],
+      "answer": "B",
+      "explanation": "她说「The views are amazing and I haven't even started hiking yet. So, off to a strong start」，意思是还没开始走就已经看到这么美的风景，暗示这次徒步旅行开了一个好头（strong start）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 57,
+      "endTime": 67,
+      "difficulty": "hard",
+      "relatedWords": [
+        "strong start",
+        "views",
+        "hiking"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does 'single-handedly the most scenic spot' mean?",
+      "options": [
+        "A) A place that requires one hand to visit",
+        "B) Without any doubt, the most beautiful scenic location",
+        "C) A spot that only one person has visited",
+        "D) A place that needs both hands to climb"
+      ],
+      "answer": "B",
+      "explanation": "「single-handedly」在口语中有「毫无争议地、毫无保留地」之意，表示强调。她说这里「single-handedly the most scenic spot」，表达对这里风景的极度赞美。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 182.1,
+      "endTime": 186.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "single-handedly",
+        "scenic",
+        "spot"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'I promised this is only half sweat' imply?",
+      "options": [
+        "A) She only sweated a little bit",
+        "B) She is being ironic because she is actually covered in sweat",
+        "C) She divided her sweat into two halves",
+        "D) She will sweat more later"
+      ],
+      "answer": "B",
+      "explanation": "她说「I promise this is only half sweat」，是在用幽默反讽的方式表达自己其实出了很多汗，「only half」是夸张式的自嘲说法。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 482.3,
+      "endTime": 484.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "sweat",
+        "half",
+        "humor"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the meaning of 'brown forest' in her greeting?",
+      "options": [
+        "A) A forest painted brown",
+        "B) A forest with autumn-colored or dried vegetation",
+        "C) A forest of brown-colored trees only",
+        "D) A dead forest"
+      ],
+      "answer": "B",
+      "explanation": "她说「Hi, buddy. God, I love with the we brown forest」，结合上下文，这是她在描述她所徒步穿过的森林的色调，可能是秋天或干燥季节时呈现的棕黄色植被，是很美的自然景观。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 497.6,
+      "endTime": 501.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "brown forest",
+        "hiking",
+        "nature"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does she mean by 'this is quite literally the mountain behind me'?",
+      "options": [
+        "A) The mountain is behind her figuratively",
+        "B) The mountain in the beer label is exactly the mountain behind her in reality",
+        "C) She is carrying a mountain on her back",
+        "D) The mountain is made of beer"
+      ],
+      "answer": "B",
+      "explanation": "她在喝当地啤酒时说「this is quite literally the mountain behind me if you can remember」，意思是啤酒上的山景图案正是她身后真实的那座山，强调了当地特色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 557.8,
+      "endTime": 563.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "local beer",
+        "mountain",
+        "literally"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is a 'screen protector' in the context of her phone?",
+      "options": [
+        "A) A case for the whole phone",
+        "B) A thin layer of film or glass placed on the phone screen to prevent damage",
+        "C) A person who protects screens",
+        "D) A software that protects the phone screen"
+      ],
+      "answer": "B",
+      "explanation": "「screen protector」是手机保护膜，贴在屏幕上以防止划伤或破裂。她说「the screen shattered through the screen protector」，意思是手机屏幕贴了保护膜但还是碎了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 643.4,
+      "endTime": 645.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "screen protector",
+        "shattered",
+        "phone"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does 'bleeding like a faucet' mean?",
+      "options": [
+        "A) The blood is shaped like a faucet",
+        "B) Bleeding heavily and continuously, like water flowing from a tap",
+        "C) Bleeding from a faucet-shaped wound",
+        "D) Bleeding slowly"
+      ],
+      "answer": "B",
+      "explanation": "「bleeding like a faucet」是一个生动的比喻，形容出血量大且持续不断，像水龙头流水一样。她用这个表达来说明自己手腕受伤后出血很严重。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 633.8,
+      "endTime": 636,
+      "difficulty": "medium",
+      "relatedWords": [
+        "bleeding",
+        "faucet",
+        "injury"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "Why does she mention 'I take my calcium'?",
+      "options": [
+        "A) To explain her diet",
+        "B) To address concerns about her bone strength since a doctor mentioned she has weak bones",
+        "C) To sell calcium supplements",
+        "D) To complain about her medication"
+      ],
+      "answer": "B",
+      "explanation": "她说「a doctor has told me I have really weak bones before and although I take my calcium」，意思是虽然医生曾告诉她骨骼较弱，但她一直在补钙，暗示对受伤的担忧。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 616.6,
+      "endTime": 621.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "calcium",
+        "weak bones",
+        "doctor"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does 'pull them out' refer to in the emotional segment?",
+      "options": [
+        "A) Taking out a physical object",
+        "B) Metaphorically, expressing her heart or words that have been bottled up since someone left",
+        "C) Pulling her teeth out",
+        "D) Taking out the trash"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文「And ever since you left, I've been bored. I've been sitting on my words... waiting for you to reach right in and pull them out」，这是一个情感化的表达，比喻她把话语和情感压抑在心里，等待某个人来倾听和理解。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 579.6,
+      "endTime": 594.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "pull them out",
+        "sitting on my words",
+        "emotional"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What is the main reason she went on this solo hiking trip?",
+      "options": [
+        "A) To escape from work",
+        "B) To have fun and reconnect with herself through a solo trip",
+        "C) To meet other hikers",
+        "D) To train for a competition"
+      ],
+      "answer": "B",
+      "explanation": "她说「The whole reason I actually came on this trip was I like to do at least one solo trip a year」并且认为「they're really fun and a good way to kind of reconnect with yourself」，说明独自旅行既能享受乐趣，也是与自己内心重新连接的好方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 194.2,
+      "endTime": 206.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "solo trip",
+        "reconnect",
+        "fun"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "speaking",
+      "question": "Describe the beautiful scenery she mentions when she says 'everywhere I turn is more beautiful than the last'. What might she have seen on the mountain?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一道开放性口语题，考查学生根据上下文描述和想象她在山间所看到的壮丽景色。",
+      "referenceAnswer": "She was amazed by the stunning mountain views around her. She probably saw snow-capped peaks, blue lakes in the valleys below, green forests stretching across the landscape, and breathtaking vistas in every direction. The scenery was so beautiful that each new view exceeded the previous one, making her feel awe and appreciation for nature.",
+      "hint": "Think about what kinds of landscapes a hiker would encounter in a mountainous area during August. Use descriptive adjectives like 'stunning', 'breathtaking', 'absolutely beautiful'.",
+      "startTime": 135.7,
+      "endTime": 144,
+      "difficulty": "medium",
+      "relatedWords": [
+        "scenery",
+        "stunning",
+        "mountain views"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Why does she enjoy doing solo trips? What benefits does she mention?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考查学生复述和总结视频中提到的独自旅行的好处。",
+      "referenceAnswer": "She enjoys solo trips because they are really fun and they are a good way to reconnect with yourself. She has been doing at least one solo trip a year for the past four or so years. Solo trips give her a chance to relax, reflect, and spend time alone with her own thoughts, away from everyday distractions.",
+      "hint": "Listen to her explanation around the 200-second mark. Mention her frequency of doing solo trips and her main reason for enjoying them.",
+      "startTime": 194.2,
+      "endTime": 206.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "solo trip",
+        "reconnect",
+        "fun"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "What happened to her during the hike? Describe the injury and her concern.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考查学生描述视频后半段中发生的受伤事件以及她的担忧。",
+      "referenceAnswer": "She injured her wrist during the hike and was bleeding heavily like a faucet. She was concerned because a doctor had previously told her that she has weak bones, even though she takes calcium supplements. Additionally, her phone screen shattered through the screen protector when she fell, but she said 'life goes on' and accepted the situation.",
+      "hint": "Listen carefully to the part around 616-645 seconds. Mention both the injury, her concern about weak bones, and the damaged phone screen.",
+      "startTime": 616.6,
+      "endTime": 645.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "injury",
+        "wrist",
+        "weak bones",
+        "bleeding"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Describe her hiking plan for the day. What did she plan to do at the beginning, middle, and end of her trip?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考查学生复述并组织她当天的徒步行程安排。",
+      "referenceAnswer": "At the beginning, she started enjoying the amazing views before even beginning to hike. Then she planned to do a descent hike down to a lake where she could go swimming. After swimming, she planned to come back up and do the ridge line. In the middle of her trip, she reached the Peak Mountain Hut where she chilled and relaxed for a little bit before continuing her descent to the lake.",
+      "hint": "Look at the sequence of events: starting the hike, the mountain hut, the lake swimming, and the ridge line. Try to use transition words like 'first', 'then', 'after that', 'finally'.",
+      "startTime": 82.8,
+      "endTime": 197.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "hiking plan",
+        "descent",
+        "ridge line",
+        "lake"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "What does she do at the mountain hut? Describe the experience and what she drinks.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题考查学生描述她在山屋的体验和当地特色饮品。",
+      "referenceAnswer": "At the mountain hut, she chilled, relaxed, and rested for a little bit. She also got herself a local beer. Interestingly, the label or picture on the beer featured the same mountain that was right behind her, which made the experience even more special. She enjoyed the local beer while taking in the stunning scenery around her.",
+      "hint": "Find the segment around 557-563 seconds. Mention the local beer and how it connected to the scenery around her.",
+      "startTime": 557.8,
+      "endTime": 563.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "mountain hut",
+        "local beer",
+        "chilled"
+      ]
+    }
+  ]
+}

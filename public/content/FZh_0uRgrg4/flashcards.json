@@ -1,0 +1,206 @@
+{
+  "videoId": "FZh_0uRgrg4",
+  "generatedAt": "2026-08-11T06:24:35.144Z",
+  "cards": [
+    {
+      "id": "mso9zgw7salkwr",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "extraordinary",
+      "back": "非凡的，特别的 (adjective, B2)",
+      "context": "Thank you for this **extraordinary** honor.",
+      "audioStart": 17.62,
+      "audioEnd": 20.18,
+      "word": "extraordinary",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.143Z"
+    },
+    {
+      "id": "mso9zgw7gq3k1f",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "humility",
+      "back": "谦逊，谦卑 (noun, C1)",
+      "context": "Each failure is just another learning moment, a **humility** moment, a character strengthening moment.",
+      "audioStart": 394.06,
+      "audioEnd": 401.1,
+      "word": "humility",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.143Z"
+    },
+    {
+      "id": "mso9zgw7tko3jj",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "resilience",
+      "back": "韧性，恢复力 (noun, C1)",
+      "context": "The **resilience** forged through setbacks is what gives you the strength to go again.",
+      "audioStart": 401.84,
+      "audioEnd": 407.88,
+      "word": "resilience",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.143Z"
+    },
+    {
+      "id": "mso9zgw8qhvcip",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "paradigm",
+      "back": "范式，模式 (noun, C1)",
+      "context": "That **paradigm** is over.",
+      "audioStart": 553.62,
+      "audioEnd": 556.86,
+      "word": "paradigm",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.144Z"
+    },
+    {
+      "id": "mso9zgw8nsu982",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "transformative",
+      "back": "变革性的，有改造能力的 (adjective, C1)",
+      "context": "And like every **transformative** technology before it, it will bring both great promise and real risks.",
+      "audioStart": 653,
+      "audioEnd": 660.12,
+      "word": "transformative",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.144Z"
+    },
+    {
+      "id": "mso9zgw8oyfxt2",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "guardrails",
+      "back": "护栏，防护措施 (noun, C1)",
+      "context": "Policymakers have a responsibility to create thoughtful **guardrails** that protect society while still allowing innovation, discovery, and progress to move forward.",
+      "audioStart": 692.53,
+      "audioEnd": 703.01,
+      "word": "guardrails",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.144Z"
+    },
+    {
+      "id": "mso9zgw8gkvpd2",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "surrender",
+      "back": "放弃，屈服 (verb, C1)",
+      "context": "They only **surrender** the opportunity to shape it and to benefit from it.",
+      "audioStart": 711.72,
+      "audioEnd": 717.51,
+      "word": "surrender",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.144Z"
+    },
+    {
+      "id": "mso9zgw856libv",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "amplify",
+      "back": "放大，增强 (verb, C1)",
+      "context": "It **amplifies** human capability.",
+      "audioStart": 903.27,
+      "audioEnd": 907.33,
+      "word": "amplify",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.144Z"
+    },
+    {
+      "id": "mso9zgw8g4i25v",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "re-industrialize",
+      "back": "再工业化，重新工业化 (verb, C1)",
+      "context": "This is the largest technology infrastructure build out in human history and a once-in-a-generation opportunity to **re-industrialize** America and restore the nation's capacity to build.",
+      "audioStart": 790.88,
+      "audioEnd": 800.53,
+      "word": "re-industrialize",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.144Z"
+    },
+    {
+      "id": "mso9zgw8ky0gww",
+      "videoId": "FZh_0uRgrg4",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "abundant",
+      "back": "丰富的，充裕的 (adjective, B2)",
+      "context": "To re-industrialize America and restore our capacity to build and to help create a future more **abundant**, more capable, and more hopeful than the world you inherited.",
+      "audioStart": 1020.13,
+      "audioEnd": 1031.93,
+      "word": "abundant",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:24:35.144Z"
+    }
+  ]
+}

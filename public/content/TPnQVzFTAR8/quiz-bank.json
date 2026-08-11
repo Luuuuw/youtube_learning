@@ -1,0 +1,573 @@
+{
+  "videoId": "TPnQVzFTAR8",
+  "title": "TPnQVzFTAR8",
+  "generatedAt": "2026-08-10T11:18:52.628Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 12,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "Where is the vlogger when she says 'Welcome. We're in Paris. Welcome to my home'?",
+      "options": [
+        "A) At a hotel in Paris",
+        "B) At her own home in Paris",
+        "C) At a friend's house in Paris",
+        "D) At a museum in Paris"
+      ],
+      "answer": "B",
+      "explanation": "字幕中她说'Welcome. We're in Paris. Welcome to my home.'，说明她在巴黎自己的家里欢迎观众，my home指的就是她自己的家。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 74.6,
+      "endTime": 79.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Paris",
+        "home",
+        "welcome"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the vlogger mention they have after arriving in Paris?",
+      "options": [
+        "A) All of their tickets",
+        "B) All of their bags",
+        "C) All of their friends",
+        "D) All of their cameras"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'So we have all of our bags here.'，说明他们把所有的行李都带到了巴黎的住处。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 76.2,
+      "endTime": 79.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bags",
+        "luggage",
+        "arrival"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What day of the week does the vlogger greet viewers in the morning?",
+      "options": [
+        "A) Monday",
+        "B) Tuesday",
+        "C) Wednesday",
+        "D) Thursday"
+      ],
+      "answer": "C",
+      "explanation": "字幕中她说'Good morning everyone. It is Wednesday.'，明确表示当天是星期三。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 342.4,
+      "endTime": 344.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Wednesday",
+        "morning",
+        "greeting"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What famous landmark did the vlogger visit and describe as a place where 'you just get to see everything'?",
+      "options": [
+        "A) Eiffel Tower",
+        "B) Louvre Museum",
+        "C) Notre Dame",
+        "D) Musée de l'Orangerie"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到'And then we went into Notre Dame, which was...'，说明她参观了巴黎著名的圣母院（Notre Dame）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 472.8,
+      "endTime": 482.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Notre Dame",
+        "Paris",
+        "landmark"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What flavors did the vlogger describe when reviewing food?",
+      "options": [
+        "A) Chocolate and vanilla",
+        "B) Strawberry and cream",
+        "C) Almond and caramel",
+        "D) Lemon and honey"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到'was almond and caramel. Definitely recommend. So good.'，她描述食物的味道是杏仁和焦糖味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 511.8,
+      "endTime": 514.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "almond",
+        "caramel",
+        "flavor"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What is the name of the first museum the vlogger planned to visit?",
+      "options": [
+        "A) Musée de l'Orangerie",
+        "B) The Louvre",
+        "C) Musée d'Orsay",
+        "D) Pompidou Center"
+      ],
+      "answer": "A",
+      "explanation": "字幕明确说'we are going to Musée de l'Orangerie'，她计划去橘园美术馆。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 550.1,
+      "endTime": 552.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Musée de l'Orangerie",
+        "museum",
+        "Paris"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What was the vlogger's impression of the Dior Museum exhibition?",
+      "options": [
+        "A) It was boring",
+        "B) It was sold out",
+        "C) It was too expensive",
+        "D) It was closed for renovation"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'it's all sold out'，说明她想买票去Dior博物馆但票已经卖完了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 555,
+      "endTime": 565.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Dior Museum",
+        "sold out",
+        "tickets"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What type of fashion does the vlogger think the Dior Museum might be exhibiting?",
+      "options": [
+        "A) Street fashion",
+        "B) Vintage fashion",
+        "C) Archive fashion",
+        "D) Sports fashion"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到'like maybe archive fashion. Like I'm not really sure what it is, but it seems really cool.'，她猜测可能是档案时装展。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 558.8,
+      "endTime": 563.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "archive fashion",
+        "Dior",
+        "exhibition"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "According to the vlogger, what can people do regarding tickets at the Dior Museum?",
+      "options": [
+        "A) Buy them online in advance",
+        "B) Sell tickets at the door so",
+        "C) Get them for free",
+        "D) Only get them through membership"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'So, they sell tickets at the door so'，说明博物馆在门口也卖票。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 567,
+      "endTime": 570.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tickets",
+        "door",
+        "museum"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What brand are the vlogger's jeans from?",
+      "options": [
+        "A) Reformation",
+        "B) Levi's",
+        "C) Dior",
+        "D) Monica Vinader"
+      ],
+      "answer": "A",
+      "explanation": "字幕明确说'These jeans are Reformation.'，她穿的牛仔裤品牌是Reformation。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 576.8,
+      "endTime": 582,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Reformation",
+        "jeans",
+        "brand"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "Whose coat is the vlogger wearing?",
+      "options": [
+        "A) Her mother's",
+        "B) Her sister's",
+        "C) Her friend's",
+        "D) Her own"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'this coat is my sister's'，明确表示她穿的外套是她姐姐的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 578.9,
+      "endTime": 582,
+      "difficulty": "easy",
+      "relatedWords": [
+        "coat",
+        "sister",
+        "outfit"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What jewelry brand did the vlogger mention wearing?",
+      "options": [
+        "A) Tiffany & Co.",
+        "B) Cartier",
+        "C) Monica Vinader",
+        "D) Chanel"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到'this necklace Monica Vinader, rings'，她戴的项链和戒指品牌是Monica Vinader。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 582,
+      "endTime": 582,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Monica Vinader",
+        "necklace",
+        "jewelry"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What did the vlogger's mom say about visiting this place in the '90s?",
+      "options": [
+        "A) She never visited",
+        "B) She would always come here",
+        "C) She worked there",
+        "D) She lived near there"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'mom said that when she lived here in the '90s, she would always come here'，说明她妈妈在90年代住在巴黎时常来这里。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 591.2,
+      "endTime": 604.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "mom",
+        "90s",
+        "Paris"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "Why does the vlogger prefer smaller galleries?",
+      "options": [
+        "A) They are cheaper",
+        "B) They are less crowded",
+        "C) You can really truly appreciate all the artwork",
+        "D) They have better lighting"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到'smaller galleries because I feel like you can really truly appreciate all the'，她认为小画廊可以更好地欣赏所有艺术品。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 607.4,
+      "endTime": 609.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "smaller galleries",
+        "appreciate",
+        "artwork"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "Where did the vlogger go after returning from the day's activities?",
+      "options": [
+        "A) The Louvre",
+        "B) Musée de l'Orangerie",
+        "C) Eiffel Tower",
+        "D) Notre Dame"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'Currently back from the day. We went to the museum the L'Orangerie.'，她去了橘园美术馆。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 628.8,
+      "endTime": 632,
+      "difficulty": "easy",
+      "relatedWords": [
+        "L'Orangerie",
+        "museum",
+        "visit"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "How long could the vlogger sleep without waking up?",
+      "options": [
+        "A) 10 hours",
+        "B) 12 hours",
+        "C) 15 hours",
+        "D) 20 hours"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到'Could go to bed and I wouldn't wake up for 15 hours.'，她太累了，可以连续睡15个小时。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 640.6,
+      "endTime": 643.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "tired",
+        "sleep",
+        "15 hours"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What time period is the event the vlogger is preparing for themed around?",
+      "options": [
+        "A) 1950s",
+        "B) 1960s",
+        "C) 1920s",
+        "D) 1980s"
+      ],
+      "answer": "C",
+      "explanation": "字幕明确说'it's like 1920s themed'，这个活动是以1920年代为主题的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 651.6,
+      "endTime": 654.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "1920s",
+        "themed",
+        "event"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What kind of accessory is the vlogger planning to style?",
+      "options": [
+        "A) A hat",
+        "B) A headband",
+        "C) A scarf",
+        "D) A belt"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'sort of like headband. I think I'm going to do something like this.'，她计划做一个发带造型。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 687.4,
+      "endTime": 691.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "headband",
+        "accessory",
+        "style"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What was the vlogger doing in the opening scene with 'Hey, how do you open this?'",
+      "options": [
+        "A) Opening a door",
+        "B) Trying to figure out how to open something",
+        "C) Opening a bottle",
+        "D) Opening a window"
+      ],
+      "answer": "B",
+      "explanation": "字幕'Hey, how do you open this?'显示她在尝试弄明白如何打开某样东西，表现出刚到住处时的困惑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 68.7,
+      "endTime": 76.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "open",
+        "confused",
+        "arrival"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What time did the vlogger arrive home according to the subtitles?",
+      "options": [
+        "A) 5:30",
+        "B) 6:30",
+        "C) 7:30",
+        "D) 8:30"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'It's currently 6:30 and now we're home'，显示她晚上6:30到家。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 480.6,
+      "endTime": 485.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "6:30",
+        "home",
+        "evening"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does the vlogger say about her French language skills?",
+      "options": [
+        "A) She is fluent in French",
+        "B) Her French is kind of really bad and out of practice",
+        "C) She doesn't speak French at all",
+        "D) She is learning French"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'use my French even though my French is like kind of really bad and out of'，她承认自己的法语很差而且很久没用了。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 177.7,
+      "endTime": 179.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "French",
+        "language",
+        "out of practice"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe the vlogger's plan for the day including the museums she wanted to visit and the theme of the event she was preparing for.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道口语题要求学生综合视频信息，描述vlog博主当天的计划。她计划去橘园美术馆（Musée de l'Orangerie），还想去Dior博物馆（虽然票已售罄），之后要参加一个1920年代主题的活动。",
+      "referenceAnswer": "The vlogger planned to visit Musée de l'Orangerie and also wanted to go to the Dior Museum which had an archive fashion exhibition, but tickets were sold out. She was also getting ready for a 1920s themed event that she was very excited about.",
+      "hint": "Think about: Musée de l'Orangerie, Dior Museum, 1920s themed event, getting ready, outfit",
+      "startTime": 550.1,
+      "endTime": 654.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "plan",
+        "museums",
+        "1920s themed event"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Describe the vlogger's outfit in detail, including all the brands and items she mentioned.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道口语题要求学生描述vlog博主的穿搭，包括牛仔裤品牌Reformation、她姐姐的外套、Monica Vinader的项链和戒指等配饰。",
+      "referenceAnswer": "The vlogger was wearing Reformation jeans, a coat that belonged to her sister, a Monica Vinader necklace and rings. She also mentioned planning a 1920s themed look.",
+      "hint": "Think about: Reformation jeans, sister's coat, Monica Vinader necklace and rings, 1920s theme",
+      "startTime": 569.2,
+      "endTime": 691.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "outfit",
+        "Reformation",
+        "Monica Vinader",
+        "1920s"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "What was the vlogger's experience at Musée de l'Orangerie like, and what did she say about the smaller galleries?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道口语题要求学生分享vlog博主在橘园美术馆的经历，以及她对小型画廊的偏好。她认为小画廊能更好地欣赏所有艺术品，而且和妈妈一起重温了她90年代常来的地方。",
+      "referenceAnswer": "The vlogger visited Musée de l'Orangerie and shared that her mom used to come there in the '90s when she lived in Paris. She appreciated the smaller galleries because she felt you could truly appreciate all the artwork. She thought it was a really cool experience to share with her mom.",
+      "hint": "Think about: L'Orangerie, mom's history in the '90s, smaller galleries, appreciating artwork",
+      "startTime": 591.2,
+      "endTime": 609.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "experience",
+        "smaller galleries",
+        "mom",
+        "appreciate"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Summarize the vlogger's day in Paris from morning to evening, including all the activities and places she visited.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这道口语题要求学生综合视频内容，总结vlog博主在巴黎一天的行程，包括早上的问候、参观诺特丹大教堂、品尝杏仁焦糖食物、参观橘园美术馆、准备1920年代主题活动等。",
+      "referenceAnswer": "On Wednesday morning, the vlogger greeted viewers and headed out for the day. She visited Notre Dame where she got to see everything. She tried some food with almond and caramel flavors which she highly recommended. Later she visited Musée de l'Orangerie with her mom, who used to come there in the '90s. She also tried to go to the Dior Museum but tickets were sold out. She ended the day getting ready for a 1920s themed event and felt so tired she could sleep for 15 hours.",
+      "hint": "Think about: Wednesday morning, Notre Dame, almond and caramel food, Musée de l'Orangerie, mom, Dior Museum, 1920s event",
+      "startTime": 342.4,
+      "endTime": 654.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "day summary",
+        "activities",
+        "Paris"
+      ]
+    }
+  ]
+}

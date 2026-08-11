@@ -1,0 +1,417 @@
+{
+  "videoId": "y46hvE9JAXo",
+  "generatedAt": "2026-08-11T06:31:27.305Z",
+  "cards": [
+    {
+      "id": "msoa8ax4rlrdw9",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "aesthetic",
+      "back": "美学；审美 (noun, B2)",
+      "context": "Well today I'm going to teach you how to get that clean girl **aesthetic** while still looking minimal and low maintenance.",
+      "audioStart": 6.66,
+      "audioEnd": 14.4,
+      "word": "aesthetic",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.304Z"
+    },
+    {
+      "id": "msoa8ax4n9gpnc",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "implement",
+      "back": "实施；执行 (verb, B2)",
+      "context": "You know, once you get the hang of this look, it's so easy to **implement** into your everyday routine.",
+      "audioStart": 19.24,
+      "audioEnd": 25.02,
+      "word": "implement",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.304Z"
+    },
+    {
+      "id": "msoa8ax496y0z6",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "snatched",
+      "back": "紧致的；完美的 (adjective, C1)",
+      "context": "We're obviously gonna go for the Bella Hadid **snatched** tie bun look.",
+      "audioStart": 31.48,
+      "audioEnd": 36.68,
+      "word": "snatched",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.304Z"
+    },
+    {
+      "id": "msoa8ax4pila6z",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "slick",
+      "back": "使光滑；使服帖 (verb, C1)",
+      "context": "So by starting with using water, it **slicks** your hair down and it like preps for the little bit of product that you're going to use.",
+      "audioStart": 76.48,
+      "audioEnd": 82.98,
+      "word": "slick",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.304Z"
+    },
+    {
+      "id": "msoa8ax4eqrr5y",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "flyaways",
+      "back": "碎发；飞翘的头发 (noun, C1)",
+      "context": "All right, now that our hair is damp and there's not really any **flyaways**, I'm going to retie up my hair again with the same scrunchie.",
+      "audioStart": 90.84,
+      "audioEnd": 99.64,
+      "word": "flyaways",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.304Z"
+    },
+    {
+      "id": "msoa8ax5ip25i0",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "flawless",
+      "back": "无瑕的；完美的 (adjective, B2)",
+      "context": "So when I've looked at clean girl makeup, it's always girls with perfect Glossy glowy skin just looking absolutely **flawless** with minimal makeup.",
+      "audioStart": 162.86,
+      "audioEnd": 176.71,
+      "word": "flawless",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.305Z"
+    },
+    {
+      "id": "msoa8ax5xinzb0",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "discoloration",
+      "back": "变色；褪色 (noun, C1)",
+      "context": "So even if you have acne like me or **discoloration** or any of that jazz I assure you that you are still able to achieve that clean girl look.",
+      "audioStart": 176.71,
+      "audioEnd": 185.73,
+      "word": "discoloration",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.305Z"
+    },
+    {
+      "id": "msoa8ax5jhyb50",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "embrace",
+      "back": "拥抱；欣然接受 (verb, B2)",
+      "context": "So it's important to **embrace** the flaws.",
+      "audioStart": 185.73,
+      "audioEnd": 189.75,
+      "word": "embrace",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.305Z"
+    },
+    {
+      "id": "msoa8ax52462f6",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dewy",
+      "back": "水润的；有光泽的 (adjective, C1)",
+      "context": "It's still keeping me nice and **dewy**.",
+      "audioStart": 221.03,
+      "audioEnd": 229.43,
+      "word": "dewy",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.305Z"
+    },
+    {
+      "id": "msoa8ax533we2y",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "cakey",
+      "back": "卡粉的；结块的 (adjective, C1)",
+      "context": "You can't see any **cakey** business.",
+      "audioStart": 236.81,
+      "audioEnd": 241.93,
+      "word": "cakey",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.305Z"
+    },
+    {
+      "id": "msoa8ax54j3q9a",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "daunting",
+      "back": "令人畏惧的；令人气馁的 (adjective, C1)",
+      "context": "And i know that can be really **daunting** especially for someone that's starting out with makeup.",
+      "audioStart": 285.33,
+      "audioEnd": 293.67,
+      "word": "daunting",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.305Z"
+    },
+    {
+      "id": "msoa8ax5t1zmch",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "marinate",
+      "back": "浸泡；腌渍 (verb, C1)",
+      "context": "So as we're letting this sit and **marinate** on my face let me do our brows.",
+      "audioStart": 344.25,
+      "audioEnd": 353.41,
+      "word": "marinate",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:27.305Z"
+    },
+    {
+      "id": "msoa89dtsbmcs5",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I'm just going to leave it like this, but we're going to do a ___",
+      "back": "high-bind",
+      "context": "I'm just going to leave it like this, but we're going to do a high-bind.",
+      "audioStart": 136.3,
+      "audioEnd": 141.4,
+      "hint": "选项：no-bind / mid-bind / high-bind / low-bind",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:25.313Z"
+    },
+    {
+      "id": "msoa89dt56a7by",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) ride or die ever since i found this product i have been using it every day in every ___",
+      "back": "way",
+      "context": "ride or die ever since i found this product i have been using it every day in every",
+      "audioStart": 317.9,
+      "audioEnd": 322.2,
+      "hint": "选项：way / day / night / time",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:25.313Z"
+    },
+    {
+      "id": "msoa89dt56o7d5",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) the blending for blush i'm going in with this kylie lip and cheek glow balm this is my ___",
+      "back": "favorite",
+      "context": "the blending for blush i'm going in with this kylie lip and cheek glow balm this is my",
+      "audioStart": 312.6,
+      "audioEnd": 317.9,
+      "hint": "选项：new / best / old / favorite",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:25.313Z"
+    },
+    {
+      "id": "msoa89dt0v4txc",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) balm and now i'm taking a darker lip liner and over lining my lips now i'm gonna put ___",
+      "back": "it",
+      "context": "balm and now i'm taking a darker lip liner and over lining my lips now i'm gonna put",
+      "audioStart": 485.4,
+      "audioEnd": 491,
+      "hint": "选项：that / it / them / this",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:25.313Z"
+    },
+    {
+      "id": "msoa89dtcobmhz",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) stick to a majority of like cream liquid products and that's to really keep that natural glowy ___",
+      "back": "look",
+      "context": "stick to a majority of like cream liquid products and that's to really keep that natural glowy look",
+      "audioStart": 279,
+      "audioEnd": 284.5,
+      "hint": "选项：look / style / feel / vibe",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:25.313Z"
+    },
+    {
+      "id": "msoa89dt5wm09v",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So first things first, I'm gonna grab my scrunchie and pull my ___",
+      "back": "hair",
+      "context": "So first things first, I'm gonna grab my scrunchie and pull my",
+      "audioStart": 52.2,
+      "audioEnd": 56.1,
+      "hint": "选项：collar / sleeve / hair / shirt",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:25.313Z"
+    },
+    {
+      "id": "msoa89dt5pxacj",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) You know, once you get the hang of this look, ___",
+      "back": "it's",
+      "context": "You know, once you get the hang of this look,",
+      "audioStart": 15.8,
+      "audioEnd": 20.9,
+      "hint": "选项：it / there's / its / it's",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:25.313Z"
+    },
+    {
+      "id": "msoa89dtw8pnz7",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I'm now just taking a brow gel and really brushing my brows up and out. What can I say? ___",
+      "back": "Nothing",
+      "context": "I'm now just taking a brow gel and really brushing my brows up and out. What can I say?",
+      "audioStart": 379.7,
+      "audioEnd": 385,
+      "hint": "选项：Anything / Something / Nothing / Everything",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:25.313Z"
+    },
+    {
+      "id": "msoa88wjjbq1qg",
+      "videoId": "y46hvE9JAXo",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我会说同样的话：向上向外。 你真的要把所有头发都往上往外拉。\n___ ___ our hair is damp and there's not really any",
+      "back": "now / that",
+      "context": "now that our hair is damp and there's not really any",
+      "audioStart": 90.84,
+      "audioEnd": 95.659,
+      "hint": "now that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:31:24.691Z"
+    }
+  ]
+}

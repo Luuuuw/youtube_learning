@@ -1,0 +1,572 @@
+{
+  "videoId": "crNcV0k0aMQ",
+  "title": "crNcV0k0aMQ",
+  "generatedAt": "2026-08-10T10:48:28.473Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 7,
+    "medium": 11,
+    "hard": 6,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is being discussed when someone says, 'This is what we're gonna wear in Turin'?",
+      "options": [
+        "A) Military uniforms for a NATO meeting",
+        "B) Clothing/outfit for an event in Turin",
+        "C) NATO security protocols",
+        "D) A travel itinerary"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[17]，'This is what we're gonna wear in Turin'（这是我们要在都灵穿的衣服）明确指的是服装/穿着。结合[30]中提到的'NATO'上下文，这是在讨论与北约相关活动相关的服装安排。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 5.7,
+      "endTime": 9.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "layout",
+        "NATO",
+        "Turin",
+        "wear"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the speaker identify the drink as being?",
+      "options": [
+        "A) A protein smoothie",
+        "B) A fruit juice",
+        "C) A milkshake",
+        "D) A cocktail"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕[6]（55.6s-57.5s），'It's a protein smoothie.'（这是一杯蛋白奶昔），说话者直接说明这是一杯蛋白奶昔。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 49.1,
+      "endTime": 58.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "protein",
+        "smoothie",
+        "drink"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "In the sentence 'I mean, it's not a big deal, it's just not something I'd prefer,' what does the speaker mean?",
+      "options": [
+        "A) It is a major problem",
+        "B) It's a small matter but not personally preferred",
+        "C) It is extremely important",
+        "D) It is completely unacceptable"
+      ],
+      "answer": "B",
+      "explanation": "'not a big deal' 意为'不是大事/没那么严重'，但后半句'just not something I'd prefer'（只是这不是我偏好的）表明说话者虽然觉得事情不大，但仍然表达出不太喜欢的态度。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 77.4,
+      "endTime": 80.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "big deal",
+        "prefer",
+        "opinion"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "Why is the concern about 'your saliva would get in the drink' raised?",
+      "options": [
+        "A) To compliment the drink",
+        "B) To highlight a hygiene or contamination issue",
+        "C) To encourage sharing the drink",
+        "D) To discuss taste preferences"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[45]（87.1s-89.3s），'Your saliva would get in the drink'（你的唾液会进到饮料里），说话者是在指出卫生问题，担心口腔细菌会污染饮料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 87.1,
+      "endTime": 89.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "saliva",
+        "drink",
+        "hygiene",
+        "concern"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "How does the speaker react to the nickname 'old lips'?",
+      "options": [
+        "A) With anger",
+        "B) With indifference",
+        "C) With amusement/they love it",
+        "D) With confusion"
+      ],
+      "answer": "C",
+      "explanation": "根据字幕[5]（110.1s-113.7s），'By the way, old lips, I love that as a nickname.'（顺便说一下，'老嘴唇'，我喜欢这个昵称），说话者明确表示喜欢这个昵称。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.1,
+      "endTime": 113.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "nickname",
+        "old lips",
+        "love",
+        "amusement"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "What does the speaker challenge the other person to do?",
+      "options": [
+        "A) Travel to Hawaii",
+        "B) Go skiing",
+        "C) Attend a NATO summit",
+        "D) Try a protein smoothie"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[46]（131.4s-134.3s），'All right, so you think you can ski and I might not be able to'（好的，你认为你会滑雪而我可能不会），说话者在挑战对方关于滑雪能力的假设。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 131.4,
+      "endTime": 139.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "ski",
+        "challenge",
+        "assume",
+        "ability"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What is the implied reason behind 'Is it because I'm from Hawaii?'",
+      "options": [
+        "A) Because Hawaii is a state",
+        "B) Because people from Hawaii are stereotypically not associated with skiing",
+        "C) Because of the weather",
+        "D) Because of their job"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[49]（148.6s-149.9s），提问者怀疑对方对其滑雪能力的怀疑是因为他来自夏威夷。夏威夷地处热带，没有滑雪场，因此那里的人通常不被认为会滑雪，这是一种刻板印象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 148.6,
+      "endTime": 149.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Hawaii",
+        "stereotype",
+        "skiing",
+        "assumption"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What makes the phrase 'Hawaiian ski' humorous?",
+      "options": [
+        "A) Hawaii is famous for ski resorts",
+        "B) Hawaii is a tropical location with no snow, making 'Hawaiian ski' an oxymoron",
+        "C) Larry is a famous skier",
+        "D) Hawaiian ski is a popular sport"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[28]（152.4s-153.4s），'Hawaiian ski, too, Larry'（夏威夷滑雪，也是，拉里）。由于夏威夷是热带海岛，没有雪也没有滑雪场，所以'夏威夷滑雪'是矛盾的组合，构成幽默。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 152.4,
+      "endTime": 155.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Hawaiian",
+        "ski",
+        "humor",
+        "oxymoron"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What is the speaker's tone when mentioning 'the middle of the NATO summit' and 'critical national security issues'?",
+      "options": [
+        "A) Enthusiastic and excited",
+        "B) Sarcastic, pointing out the inappropriateness of something trivial during an important event",
+        "C) Educational and informative",
+        "D) Fearful and worried"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[36]（170.8s-174.8s），说话者提到在北约峰会讨论关键国家安全问题时的场景，这是一种反讽手法，强调当前讨论的事情相对于国家大事显得微不足道或不合适。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 170.8,
+      "endTime": 174.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "NATO summit",
+        "national security",
+        "sarcasm",
+        "critical"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "What does the woman's reaction 'Larry, who?' suggest?",
+      "options": [
+        "A) She remembers Larry clearly",
+        "B) She doesn't recognize or remember who Larry is",
+        "C) She is best friends with Larry",
+        "D) She is excited to see Larry"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[11]（183.5s-185.3s）和[12]（206.3s-207.9s），'Larry, who?' 和 'She doesn't know who you are'（她不知道你是谁），说明这位女士不记得或不认识Larry。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 181.6,
+      "endTime": 199.6,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Larry",
+        "reaction",
+        "recognize",
+        "forget"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I am not going to do that'?",
+      "options": [
+        "A) They are willing to do it",
+        "B) They are firmly refusing to do something",
+        "C) They are planning to do it later",
+        "D) They are unsure about it"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[16]（201.7s-203.3s），'I am not going to do that.'（我不会那样做的。）表达说话者明确拒绝做某事，态度坚定。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 200.3,
+      "endTime": 204.9,
+      "difficulty": "easy",
+      "relatedWords": [
+        "refuse",
+        "decline",
+        "not going to"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the phrase 'tell somebody I said hi' typically mean?",
+      "options": [
+        "A) Spread gossip about someone",
+        "B) Pass along greetings from one person to another",
+        "C) Make a phone call",
+        "D) Send an email"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[18]（208.8s-212.4s），'the whole tell somebody I said hi thing'（整个代我向某人问好的事情），这是英语中常见的表达，意为代为转达问候。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 206.3,
+      "endTime": 212.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "greet",
+        "say hi",
+        "pass along",
+        "message"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does 'how did she react?' mean in this context?",
+      "options": [
+        "A) How she physically moved",
+        "B) How she emotionally or verbally responded to something",
+        "C) How she spoke in a specific language",
+        "D) How she left the room"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[22]（228.8s-230.7s），'how did she react?'（她作何反应？）询问的是对方对某事的情绪或言语上的反应方式。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 228.8,
+      "endTime": 237.5,
+      "difficulty": "hard",
+      "relatedWords": [
+        "react",
+        "response",
+        "emotion",
+        "reaction"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What is the speaker suggesting with 'Let's just get back to work'?",
+      "options": [
+        "A) They want to take a long break",
+        "B) They want to return focus to the task at hand",
+        "C) They want to go home",
+        "D) They want to have lunch first"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[19]（239.6s-241.1s），'Let's just get back to work.'（我们还是回到工作上吧。）说话者建议结束其他讨论，重新专注于工作。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 239.6,
+      "endTime": 241.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "get back to work",
+        "focus",
+        "task"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'I've confided a lot of sensitive stuff with you' mean?",
+      "options": [
+        "A) I have shared private and important information with you",
+        "B) I have given you bad news",
+        "C) I have discussed business with you",
+        "D) I have bought things from you"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕[35]（265.3s-268.1s），'confided'（倾诉、吐露）是一个表示分享私密信息的词，'sensitive stuff'（敏感的事情）表示这些信息是私人的、重要的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 265.3,
+      "endTime": 272.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "confide",
+        "sensitive",
+        "share",
+        "trust"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What is implied by 'didn't want to hear it then, don't want to'?",
+      "options": [
+        "A) The topic is brand new",
+        "B) The listener has consistently been disinterested in the speaker's past story",
+        "C) The topic is humorous",
+        "D) The topic is about the future"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[21]（271.9s-274.7s），说话者在说'当时不想听，现在也不想听'，暗示这是一个之前已经讨论过但对方一直不感兴趣的话题，表达了对方对该话题的持续拒绝。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 269.6,
+      "endTime": 274.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "didn't want",
+        "hear",
+        "consistency",
+        "disinterest"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "In context, what is the speaker asking 'Is it Russia?' about?",
+      "options": [
+        "A) Confirming a country they are visiting or discussing",
+        "B) Asking about a person's name",
+        "C) Asking about a brand",
+        "D) Asking about a movie"
+      ],
+      "answer": "A",
+      "explanation": "根据字幕[40]（289.1s-289.5s），'Is it Russia?'（是俄罗斯吗？）是关于某个国家名称的确认，结合上下文可能是在询问旅行目的地或相关国家。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 289.1,
+      "endTime": 300.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Russia",
+        "country",
+        "confirm",
+        "location"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What does the phrase 'I've got to check on a couple things' mean?",
+      "options": [
+        "A) I need to count some items",
+        "B) I need to verify or look into a few matters",
+        "C) I need to clean up",
+        "D) I need to shop"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[48]（299.3s-300.8s），'check on' 在此意为'查看/核实'，'a couple things' 是'一些事情'，整体表示需要查看或处理几件事情。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 299.3,
+      "endTime": 300.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "check on",
+        "verify",
+        "couple things",
+        "handle"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I think I'm ready to go'?",
+      "options": [
+        "A) They are hungry",
+        "B) They are prepared to leave or start an activity",
+        "C) They are tired and want to sleep",
+        "D) They want to go shopping"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[47]（342.5s-343.5s），'I think I'm ready to go'（我准备好了/可以出发了），表达说话者准备就绪，可以开始或离开。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 342.5,
+      "endTime": 343.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ready to go",
+        "prepared",
+        "leave"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What is the speaker offering when they say 'one last tip though, a little bit of a...'?",
+      "options": [
+        "A) A complaint",
+        "B) A piece of advice or suggestion",
+        "C) A question",
+        "D) A demand"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[25]（386.0s-389.9s），'one last tip though'（最后一个建议/小贴士）明确表示说话者在提供一条建议或提示。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 386,
+      "endTime": 402.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "tip",
+        "advice",
+        "suggestion",
+        "recommendation"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does the phrase 'This is the move I'm gonna try' suggest about the speaker?",
+      "options": [
+        "A) They are about to physically move",
+        "B) They are going to attempt a particular strategy or outfit choice",
+        "C) They are leaving the room",
+        "D) They are changing jobs"
+      ],
+      "answer": "B",
+      "explanation": "根据字幕[33]（398.7s-402.7s），'great suit... this is the move I'm gonna try'（很棒的西装...这就是我要尝试的方法），'move' 在此是俚语，表示策略、做法或选择，'try' 表示尝试。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 398.7,
+      "endTime": 402.7,
+      "difficulty": "medium",
+      "relatedWords": [
+        "move",
+        "try",
+        "strategy",
+        "suit"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe a situation where you would firmly say, 'I am not going to do that.' What would make you refuse?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题基于字幕[16]中'I am not going to do that'的用法。'not going to' 表示坚定的拒绝，可以用于表达对不合理要求、违反原则的事情或不舒服情境的拒绝。回答时应使用英语描述具体场景。",
+      "referenceAnswer": "Sample answer: I would say 'I am not going to do that' when someone asks me to lie for them or do something unethical. For example, if a friend asked me to cheat on an exam for them, I would firmly refuse because it goes against my principles. I believe in honesty and hard work, so I would not compromise my values for anyone.",
+      "hint": "Think of a specific situation. Use the structure: 'I would refuse to... because...' and explain your reasons clearly. You can mention ethical, safety, or personal reasons.",
+      "startTime": 200.3,
+      "endTime": 204.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "refuse",
+        "firmly",
+        "principle",
+        "not going to"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Talk about a time when a friend or family member confided sensitive information to you. How did you handle the responsibility?",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题基于字幕[35]中'I've confided a lot of sensitive stuff with you'。'confide' 表示吐露秘密，'sensitive stuff' 指敏感信息。回答时应分享一次具体经历，并描述如何尊重对方的信任。",
+      "referenceAnswer": "Sample answer: My best friend once confided in me that she was going through a difficult breakup and felt very lonely. I made sure to listen carefully without judging her, kept her secret private, and offered my support by spending more time with her. I believe that when someone confides in you, it's a sign of deep trust, and you should honor that by being a reliable and supportive friend.",
+      "hint": "Use the past tense to share a personal experience. Structure: 'Someone confided in me about... I responded by... As a result, I learned that...'. You can also mention how trust is built through keeping secrets.",
+      "startTime": 265.3,
+      "endTime": 272.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "confide",
+        "sensitive",
+        "trust",
+        "secret"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Explain what NATO is and why a summit involving 'critical national security issues' would be an important event. Use the phrase 'get back to work' in your answer.",
+      "options": [],
+      "answer": "open",
+      "explanation": "本题结合字幕[36]中'NATO summit'和'critical national security issues'，以及[19]中'get back to work'的用法。需要解释北约的性质并说明峰会的重要性。",
+      "referenceAnswer": "Sample answer: NATO, the North Atlantic Treaty Organization, is a military alliance of countries from North America and Europe that work together for collective defense. When leaders gather at a NATO summit to discuss critical national security issues, they address threats like terrorism, cyber attacks, and regional conflicts. These meetings are crucial because decisions made can affect global peace. However, sometimes during such serious discussions, people get sidetracked. That's why someone might say, 'Let's just get back to work' to refocus on the important topics at hand and not waste valuable time on trivial matters.",
+      "hint": "Structure your answer: 1) Briefly define NATO. 2) Explain what national security issues might be discussed. 3) Use 'get back to work' naturally in a sentence showing refocusing on tasks.",
+      "startTime": 170.8,
+      "endTime": 174.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "NATO",
+        "summit",
+        "national security",
+        "get back to work"
+      ]
+    }
+  ]
+}

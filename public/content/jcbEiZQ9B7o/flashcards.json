@@ -1,0 +1,396 @@
+{
+  "videoId": "jcbEiZQ9B7o",
+  "generatedAt": "2026-08-11T06:26:07.952Z",
+  "cards": [
+    {
+      "id": "msoa1gi71b0v4m",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "premise",
+      "back": "前提 (noun, B2)",
+      "context": "This little book is based on the former **premise**, while undoubtedly the majority of people today believe in the latter.",
+      "audioStart": 21.18,
+      "audioEnd": 29.2,
+      "word": "premise",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.951Z"
+    },
+    {
+      "id": "msoa1gi7y4bfmc",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "cynic",
+      "back": "愤世嫉俗者 (noun, C1)",
+      "context": "Not because I'm a **cynic** or I find PDA to be cringey.",
+      "audioStart": 54.72,
+      "audioEnd": 58.46,
+      "word": "cynic",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.951Z"
+    },
+    {
+      "id": "msoa1gi7o0097g",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "commodity",
+      "back": "商品 (noun, C1)",
+      "context": "Instead, we become **commodities** on this personality market, and we're all trying to increase our market value by adhering to what others want.",
+      "audioStart": 326.54,
+      "audioEnd": 335.68,
+      "word": "commodity",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.951Z"
+    },
+    {
+      "id": "msoa1gi71yxgch",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "flourish",
+      "back": "茁壮成长 (verb, C1)",
+      "context": "Thus, love is to nurture the **flourishing** of someone else, and you recognize your own worth through their flourishing.",
+      "audioStart": 679.44,
+      "audioEnd": 686.56,
+      "word": "flourish",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.951Z"
+    },
+    {
+      "id": "msoa1gi723rsow",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hyperreal",
+      "back": "超真实的 (adjective, C1)",
+      "context": "The media that was originally an imitation of reality ends up being more real, thus **hyperreal**.",
+      "audioStart": 1052.26,
+      "audioEnd": 1064.7,
+      "word": "hyperreal",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.951Z"
+    },
+    {
+      "id": "msoa1gi7l1i5dr",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trope",
+      "back": "套路 (noun, C1)",
+      "context": "We create character **tropes** all the time that we then form our real relationships around, such as people saying, I want to be just like Lily and Marshall.",
+      "audioStart": 1109.7,
+      "audioEnd": 1121.46,
+      "word": "trope",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.951Z"
+    },
+    {
+      "id": "msoa1gi7wbzk4s",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "reciprocal",
+      "back": "互惠的 (adjective, C1)",
+      "context": "You would care about how much you're giving them and whether you're both having a **reciprocal** relationship.",
+      "audioStart": 1227.76,
+      "audioEnd": 1233.48,
+      "word": "reciprocal",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.951Z"
+    },
+    {
+      "id": "msoa1gi7xlxz4t",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trajectory",
+      "back": "轨迹 (noun, C1)",
+      "context": "There is so much concern around what can my man do for me, can he meet my standards, that this one day can determine the **trajectory** of the rest of your relationship.",
+      "audioStart": 1324.2,
+      "audioEnd": 1332.46,
+      "word": "trajectory",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.951Z"
+    },
+    {
+      "id": "msoa1gi8ebt99j",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intuition",
+      "back": "直觉 (noun, B2)",
+      "context": "Red flags are whispers from our **intuition** that something isn't quite right.",
+      "audioStart": 1472.5,
+      "audioEnd": 1477.42,
+      "word": "intuition",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.952Z"
+    },
+    {
+      "id": "msoa1gi8lc8c62",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "counterculture",
+      "back": "反主流文化 (noun, C1)",
+      "context": "Which is why proper loving is **counterculture**.",
+      "audioStart": 927.42,
+      "audioEnd": 931.94,
+      "word": "counterculture",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:07.952Z"
+    },
+    {
+      "id": "msoa1fpjmy58wm",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) need to shift our perspective and understand love as an ___",
+      "back": "activity",
+      "context": "need to shift our perspective and understand love as an activity.",
+      "audioStart": 514.2,
+      "audioEnd": 520.4,
+      "hint": "选项：emotion / feeling / concept / activity",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.919Z"
+    },
+    {
+      "id": "msoa1fpjaid1ml",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Just as how you can't be a good piano player by only ___",
+      "back": "playing",
+      "context": "Just as how you can't be a good piano player by only playing",
+      "audioStart": 527.5,
+      "audioEnd": 534.2,
+      "hint": "选项：listening / practicing / watching / playing",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.919Z"
+    },
+    {
+      "id": "msoa1fpjzl2txf",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) hyperreal more than reality, and so new forms of media end up imitating hyperreality rather than ___",
+      "back": "reality",
+      "context": "hyperreal more than reality, and so new forms of media end up imitating hyperreality rather than reality.",
+      "audioStart": 1065.1,
+      "audioEnd": 1072.3,
+      "hint": "选项：reality / fiction / fantasy / truth",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.919Z"
+    },
+    {
+      "id": "msoa1fpjavbxlw",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) if we start off as the hyper girlfriend, calm boyfriend trope, we need to maintain that ___",
+      "back": "trope",
+      "context": "if we start off as the hyper girlfriend, calm boyfriend trope, we need to maintain that trope.",
+      "audioStart": 1142.3,
+      "audioEnd": 1148.2,
+      "hint": "选项：trope / pattern / stereotype / role",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.919Z"
+    },
+    {
+      "id": "msoa1fpjtsabp2",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Two things about this mindset ___ me.",
+      "back": "bother",
+      "context": "Two things about this mindset bother me.",
+      "audioStart": 1161.8,
+      "audioEnd": 1168.4,
+      "hint": "选项：annoy / concern / bother / trouble",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.919Z"
+    },
+    {
+      "id": "msoa1fpj3zfmyn",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) When our culture is so based on consumerism, on who has ___?",
+      "back": "what",
+      "context": "When our culture is so based on consumerism, on who has what?",
+      "audioStart": 936.6,
+      "audioEnd": 943.2,
+      "hint": "选项：more / what / everything / nothing",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.919Z"
+    },
+    {
+      "id": "msoa1fpj8u0e1q",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Don't get me wrong. But it's funny because we feel that there is a level of ___ to it.",
+      "back": "truth",
+      "context": "Don't get me wrong. But it's funny because we feel that there is a level of truth to it.",
+      "audioStart": 468.7,
+      "audioEnd": 475.2,
+      "hint": "选项：truth / reality / accuracy / honesty",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.919Z"
+    },
+    {
+      "id": "msoa1fiwcmsogr",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "我经常在网上看到，真的让我很反感。 比如'他想做就一定会做'那派，'绝不将就'的支持者，整天聊\nThere's the ___ he ___ to, he ___ group, the never settle advocates, the constant talk about",
+      "back": "if / wanted / would",
+      "context": "There's the if he wanted to, he would group, the never settle advocates, the constant talk about",
+      "audioStart": 71.48,
+      "audioEnd": 77.68,
+      "hint": "if he wanted to, he would",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.680Z"
+    },
+    {
+      "id": "msoa1fiwdrl7pd",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "别去追爱情，时机到了它自会来找你。 所以人们都忙着让自己更讨人喜欢，而不是去爱。\nAnd so people focus on making themselves as lovable as possible ___ ___ loving.",
+      "back": "rather / than",
+      "context": "And so people focus on making themselves as lovable as possible rather than loving.",
+      "audioStart": 232.539,
+      "audioEnd": 239.06,
+      "hint": "rather than",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.680Z"
+    },
+    {
+      "id": "msoa1fiwgd5s93",
+      "videoId": "jcbEiZQ9B7o",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "以电影《现代启示录》为例，这是部越战题材的片子。 演技、特效、布景、剪辑，电影的方方面面都精心打造\nThe acting, the special effects, the sets, the editing, everything about the film is made so that when we watch it on our screen, it feels ___ real ___ possible.",
+      "back": "as / as",
+      "context": "The acting, the special effects, the sets, the editing, everything about the film is made so that when we watch it on our screen, it feels as real as possible.",
+      "audioStart": 996.179,
+      "audioEnd": 1001.659,
+      "hint": "as ... as",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:26:06.680Z"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "videoId": "Fk3jIyL8nDQ",
+  "title": "Fk3jIyL8nDQ",
+  "generatedAt": "2026-08-10T10:50:33.754Z",
+  "version": 1,
+  "totalQuestions": 24,
+  "stats": {
+    "easy": 10,
+    "medium": 10,
+    "hard": 4,
+    "choice": 21,
+    "speaking": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "Where are the speakers pulling into at the beginning of the clip?",
+      "options": [
+        "A) The airport",
+        "B) The White House",
+        "C) The Washington Monument",
+        "D) The Lincoln Memorial"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确说'Now we're actually pulling into the White House'，所以他们正驶入白宫。pull into 意为'驶入'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 7.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "White House",
+        "pull into",
+        "arrive"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What are they walking down to?",
+      "options": [
+        "A) The stairs",
+        "B) The parking lot",
+        "C) The bowling alley",
+        "D) The garden"
+      ],
+      "answer": "C",
+      "explanation": "字幕提到'Walking down to the bowling alley'，所以他们正走向保龄球馆。bowling alley 是'保龄球馆'的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 8,
+      "endTime": 9.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "bowling alley",
+        "walk down",
+        "recreation"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "In the photo mentioned, what was right behind the speaker?",
+      "options": [
+        "A) A guard",
+        "B) A sniper",
+        "C) A friend",
+        "D) A tourist"
+      ],
+      "answer": "B",
+      "explanation": "字幕中说'there's like literally like a sniper like right behind me in the photo'，照片中有一个狙击手在他身后。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 9,
+      "endTime": 17,
+      "difficulty": "medium",
+      "relatedWords": [
+        "sniper",
+        "photo",
+        "behind"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What color hat is mentioned in the video?",
+      "options": [
+        "A) Blue",
+        "B) Green",
+        "C) Red",
+        "D) Yellow"
+      ],
+      "answer": "C",
+      "explanation": "字幕明确提到'That red hat'，颜色是红色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 16.7,
+      "endTime": 18.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "red",
+        "hat",
+        "color"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does the speaker mean by 'It's too puffy'?",
+      "options": [
+        "A) It is too heavy",
+        "B) It is too soft and swollen",
+        "C) It is too small",
+        "D) It is too colorful"
+      ],
+      "answer": "B",
+      "explanation": "puffy 在此形容某物过于蓬松、鼓起，常见于描述食物、衣服或头发等。结合'We gotta get it lower'（需要把它弄低一些），是指把蓬松的部分压下去。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 29.2,
+      "endTime": 35.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "puffy",
+        "lower",
+        "adjust"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "Where is the speaker when they say 'I'm on the plane'?",
+      "options": [
+        "A) At the airport gate",
+        "B) On a train",
+        "C) On the airplane",
+        "D) In a car"
+      ],
+      "answer": "C",
+      "explanation": "字幕直接说'I'm on the plane'，表示说话者正在飞机上。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 49.7,
+      "endTime": 51.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "plane",
+        "travel",
+        "flight"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "Where did they land according to the video?",
+      "options": [
+        "A) New York",
+        "B) Boston",
+        "C) D.C.",
+        "D) Philadelphia"
+      ],
+      "answer": "C",
+      "explanation": "字幕说'Okay, we landed in D.C.'，D.C. 是 Washington D.C.（华盛顿特区）的缩写，是美国首都。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 58.2,
+      "endTime": 62.6,
+      "difficulty": "easy",
+      "relatedWords": [
+        "land",
+        "D.C.",
+        "Washington"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "Who is the speaker looking for when they ask 'Where's Spencer?'",
+      "options": [
+        "A) A family member",
+        "B) A stranger",
+        "C) A friend/companion",
+        "D) A tour guide"
+      ],
+      "answer": "C",
+      "explanation": "从语境来看，他们一行人一起旅行，Spencer 是他们的同伴或朋友。结合后文提到 Donnie 等人的对话，可以判断 Spencer 是他们的朋友。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 63.4,
+      "endTime": 64.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Spencer",
+        "friend",
+        "companion"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "Where are they now when they say 'Now we're at the White House'?",
+      "options": [
+        "A) The airport",
+        "B) The hotel",
+        "C) The White House",
+        "D) A restaurant"
+      ],
+      "answer": "C",
+      "explanation": "字幕直接说'Now we're at the White House'，意思是他们已经到达了白宫。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 72,
+      "endTime": 73.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "White House",
+        "location",
+        "arrive"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Where do they need to go according to 'Gotta go to Aroo's'?",
+      "options": [
+        "A) A friend's house",
+        "B) A place called Aroo's",
+        "C) The airport",
+        "D) The hotel"
+      ],
+      "answer": "B",
+      "explanation": "Aroo's 应该是一个具体地点的名字，可能是一家餐厅或商店。'Gotta go to' 是'gotta go to'的缩写，意为'得去……'。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 73.7,
+      "endTime": 74.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Aroo's",
+        "gotta",
+        "destination"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "Which two monuments are mentioned in the video?",
+      "options": [
+        "A) Lincoln Memorial and Washington Monument",
+        "B) Langer Memorial and Washington Monument",
+        "C) Jefferson Memorial and Lincoln Memorial",
+        "D) Vietnam Memorial and Washington Monument"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'So that's the Langer Memorial and that's the Washington Monument'，提到了 Langer 纪念碑和华盛顿纪念碑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 91.9,
+      "endTime": 96.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Langer Memorial",
+        "Washington Monument",
+        "landmark"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What does the speaker mean by 'I haven't been here in years'?",
+      "options": [
+        "A) They have been here many times recently",
+        "B) They are new to this place",
+        "C) It's been a long time since they last visited",
+        "D) They live here permanently"
+      ],
+      "answer": "C",
+      "explanation": "'I haven't been here in years' 意为'我已经好多年没来过这里了'，表达对久未造访某地的感慨。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 104.1,
+      "endTime": 107.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "years",
+        "have been",
+        "present perfect"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the speaker want to do at the monument?",
+      "options": [
+        "A) Take photos",
+        "B) Climb it",
+        "C) Walk around it",
+        "D) Sit near it"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'I want to climb it'，意思是说话者想爬上纪念碑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 119.1,
+      "endTime": 120.3,
+      "difficulty": "easy",
+      "relatedWords": [
+        "climb",
+        "want to",
+        "monument"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What do they decide to stay away from?",
+      "options": [
+        "A) The crowd",
+        "B) The service",
+        "C) The traffic",
+        "D) The weather"
+      ],
+      "answer": "B",
+      "explanation": "字幕提到'Yeah, I think we should stay away from the service'，所以他们决定远离服务区/工作人员。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 135.2,
+      "endTime": 137.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "stay away from",
+        "service",
+        "avoid"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "What does 'Does he see us?' imply in this context?",
+      "options": [
+        "A) They are posing for a photo",
+        "B) They are concerned about being spotted",
+        "C) They want to get his attention",
+        "D) They are introducing themselves"
+      ],
+      "answer": "B",
+      "explanation": "结合后文'There, he got us'（他发现我们了），可知'Does he see us?' 是在担心是否被某人发现。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 143.1,
+      "endTime": 145.7,
+      "difficulty": "hard",
+      "relatedWords": [
+        "see us",
+        "caught",
+        "spotted"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does 'He got us' mean in this context?",
+      "options": [
+        "A) He rescued us",
+        "B) He caught us or spotted us",
+        "C) He helped us",
+        "D) He invited us to join"
+      ],
+      "answer": "B",
+      "explanation": "'He got us' 在此语境中意为'他抓到/发现我们了'，通常是某人被认出或被逮到的意思。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 151.5,
+      "endTime": 159,
+      "difficulty": "hard",
+      "relatedWords": [
+        "got us",
+        "caught",
+        "spotted"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What did they just eat for their meal?",
+      "options": [
+        "A) Pizza",
+        "B) Turkey",
+        "C) Hamburgers",
+        "D) Salad"
+      ],
+      "answer": "B",
+      "explanation": "字幕说'we just ate a turkey, literally a turkey feast'，他们刚刚吃了一顿火鸡大餐。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 159,
+      "endTime": 162.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "turkey",
+        "feast",
+        "meal"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "What drink does the speaker say is 'really good'?",
+      "options": [
+        "A) Coffee",
+        "B) Tea",
+        "C) Kava",
+        "D) Soda"
+      ],
+      "answer": "C",
+      "explanation": "字幕说'You know what's really good is kava'，kava（卡瓦）是一种太平洋岛屿的传统饮料。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 168.5,
+      "endTime": 169.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "kava",
+        "drink",
+        "really good"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "What activity is being suggested at the end of the clip?",
+      "options": [
+        "A) Swimming",
+        "B) Hiking",
+        "C) Renting bikes",
+        "D) Taking a tour bus"
+      ],
+      "answer": "C",
+      "explanation": "字幕说'Donnie, should we rent some bikes?'，他们建议租自行车。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 171.2,
+      "endTime": 172.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "rent",
+        "bikes",
+        "suggestion"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "Based on the context, what is Donnie's attitude about climbing the monument?",
+      "options": [
+        "A) He refuses completely",
+        "B) He is hesitant but agrees to try",
+        "C) He is extremely excited",
+        "D) He has no opinion"
+      ],
+      "answer": "B",
+      "explanation": "对话中先问'I think you can climb you want to go and try?'，然后回答'Yeah, let's go and try'，说明 Donnie 起初有些犹豫，但最终同意尝试。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 116,
+      "endTime": 125.1,
+      "difficulty": "hard",
+      "relatedWords": [
+        "hesitate",
+        "try",
+        "climb",
+        "agree"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What is the overall tone and purpose of this video segment?",
+      "options": [
+        "A) A formal news report",
+        "B) A travel vlog",
+        "C) A cooking tutorial",
+        "D) A sports commentary"
+      ],
+      "answer": "B",
+      "explanation": "从对话的随意性、对朋友的称呼（'Donnie'、'Spencer'）以及参观白宫、华盛顿纪念碑等景点的内容来看，这是一段旅行 vlog（视频博客）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 0,
+      "endTime": 172.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "vlog",
+        "travel",
+        "casual",
+        "sightseeing"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "The speaker says 'Let's go', 'We gotta get it lower', and 'It's too puffy'. Describe what might be happening in this scene using your own words.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个口语表达题。'Let's go'（我们出发吧）说明他们准备开始做某事；'We gotta get it lower'（我们得把它弄低一些）和'It's too puffy'（它太蓬松了）说明他们正在调整某样东西，让它不那么蓬松。",
+      "referenceAnswer": "They are getting ready to do something. They are trying to adjust something that is too puffy or swollen, and need to make it lower. Maybe they are preparing for an activity or adjusting their gear/clothing.",
+      "hint": "Think about: What might be 'puffy'? Why would it need to be 'lower'? What kind of activity are they preparing for?",
+      "startTime": 26.4,
+      "endTime": 37.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "puffy",
+        "lower",
+        "prepare",
+        "adjust"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Explain the speakers' plan for exploring the monuments in your own words, based on the conversation between 97.6s and 107.1s.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个口语表达题。需要理解说话者和 Donnie 计划参观 Langer 纪念碑和华盛顿纪念碑，并表达他们想外出探索的心情。",
+      "referenceAnswer": "The speaker and Donnie are planning to visit both the Langer Memorial and the Washington Monument. They want to get out and explore these landmarks. The speaker mentions that it's been a long time since they last visited (haven't been here in years), and they are excited to see the monuments.",
+      "hint": "Key points to include: who is going, which two places, what they want to do, and the speaker's feelings.",
+      "startTime": 97.6,
+      "endTime": 107.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Langer Memorial",
+        "Washington Monument",
+        "explore",
+        "plan"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Describe the situation in the last part of the clip (151.5s-172.4s). What happened with 'he got us', and what do they plan to do next?",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个口语表达题。需要理解'he got us'（他发现/抓到我们了）的意思，以及他们刚吃了火鸡大餐、讨论 kava 饮料、最后提出租自行车的计划。",
+      "referenceAnswer": "Someone (likely a security guard or staff) caught or spotted them ('He got us'). Even though they just had a turkey feast, Donnie is still hungry. They discuss getting kava (a drink) and canes (likely food). Finally, they suggest renting bikes to continue their sightseeing. The overall mood is playful and adventurous.",
+      "hint": "Include: What 'he got us' means, what they ate, what they discussed (kava, canes), and what activity they suggest at the end.",
+      "startTime": 151.5,
+      "endTime": 172.4,
+      "difficulty": "hard",
+      "relatedWords": [
+        "caught",
+        "turkey feast",
+        "kava",
+        "rent bikes"
+      ]
+    }
+  ]
+}

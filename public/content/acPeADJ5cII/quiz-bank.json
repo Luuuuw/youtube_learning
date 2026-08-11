@@ -1,0 +1,598 @@
+{
+  "videoId": "acPeADJ5cII",
+  "title": "acPeADJ5cII",
+  "generatedAt": "2026-08-10T10:44:45.922Z",
+  "version": 1,
+  "totalQuestions": 25,
+  "stats": {
+    "easy": 9,
+    "medium": 13,
+    "hard": 3,
+    "choice": 21,
+    "speaking": 4
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": "What is the main purpose of this video segment?",
+      "options": [
+        "A) Teaching viewers how to do their own makeup",
+        "B) Getting ready with the star for the Challengers premiere in Australia",
+        "C) Reviewing the movie Challengers",
+        "D) Interviewing a fashion designer"
+      ],
+      "answer": "B",
+      "explanation": "视频开头明确说道'Come get ready with us for the challenge premiere in Australia'（跟我们一起为澳大利亚的《挑战者》首映式做准备），表明这是一档为电影首映式做准备的vlog节目。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 3.5,
+      "endTime": 20.1,
+      "difficulty": "easy",
+      "relatedWords": [
+        "premiere",
+        "get ready",
+        "challenge",
+        "Australia"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "question": "What does the speaker mean by 'Didn't see you there' in this context?",
+      "options": [
+        "A) They didn't notice someone approaching",
+        "B) They were looking for someone specific",
+        "C) They forgot an appointment",
+        "D) They didn't see the movie"
+      ],
+      "answer": "A",
+      "explanation": "'Didn't see you there'是一句常用的口语表达，意思是'没看到你过来/在那里'，通常用于突然注意到某人出现时，带有轻微惊讶或招呼的意味。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 30.8,
+      "endTime": 33.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "expression",
+        "greeting",
+        "surprise"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": "What does the phrase 'the first night' suggest about the context?",
+      "options": [
+        "A) It's the first time they are sleeping somewhere",
+        "B) It's the beginning of the premiere event or tour",
+        "C) They are going to a nightclub",
+        "D) It's their first date"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文'Like, this is the first night'，结合前文提到的'挑战者首映式'，这里的'first night'指的是首映活动的第一晚/开幕式之夜。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 36.6,
+      "endTime": 37.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "first night",
+        "premiere",
+        "opening"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "According to the speaker, what kind of 'lifestyle' is being discussed regarding the character?",
+      "options": [
+        "A) A poor and humble lifestyle",
+        "B) A nomadic traveling lifestyle",
+        "C) A certain/particular lifestyle associated with the character's evolution",
+        "D) A military lifestyle"
+      ],
+      "answer": "C",
+      "explanation": "字幕中提到'certain lifestyle'以及角色随着时间推移（got older）的变化，'certain'在这里表示'某种特定的'生活方式，指的是角色所处的那种独特的生活状态。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 51.2,
+      "endTime": 60,
+      "difficulty": "medium",
+      "relatedWords": [
+        "lifestyle",
+        "character",
+        "evolve",
+        "aging"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "What does 'punching them in the face' metaphorically mean in this context?",
+      "options": [
+        "A) Physically hitting the audience",
+        "B) A strong, impactful introduction to a new character",
+        "C) A type of makeup technique",
+        "D) A fighting sport"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文'punching them in the face or we start introducing this new character to the world'，'punching them in the face'是一个比喻性表达，意思是给观众留下强烈、震撼的第一印象，然后引入新角色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 61.3,
+      "endTime": 71.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "metaphor",
+        "introduction",
+        "impactful",
+        "character"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "How many years have the speaker and their collaborator been working together?",
+      "options": [
+        "A) 10 years",
+        "B) 12 years",
+        "C) 13 years",
+        "D) 15 years"
+      ],
+      "answer": "C",
+      "explanation": "字幕中明确提到'It's our 13th year of collage'（应该是'collaboration'合作的口误），表示他们已经合作了13年，暗示这是一段长期的合作关系。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 74.5,
+      "endTime": 77.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "collaboration",
+        "years",
+        "partnership",
+        "anniversary"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "What does 'We don't miss' imply in this context?",
+      "options": [
+        "A) They are absent from events",
+        "B) They never fail to deliver quality work",
+        "C) They miss their hometown",
+        "D) They are not punctual"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文'we want to make sure that we're giving the people that first write taste'和'we don't miss'，这里的'We don't miss'是一句口语化的表达，意思是'我们从不失手/我们总能成功'，表达了对自身工作质量的自信。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 77.7,
+      "endTime": 97.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "confidence",
+        "quality",
+        "assurance",
+        "slang"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "question": "What does the phrase 'first write taste' most likely mean?",
+      "options": [
+        "A) The first written document",
+        "B) A strong and memorable first impression",
+        "C) Writing about taste preferences",
+        "D) A type of cuisine"
+      ],
+      "answer": "B",
+      "explanation": "结合'We want to make sure that we're giving the people that first write taste'，'first write taste'应该是'first right taste'的口语化表达，意思是'第一感觉/第一品味'，即给人留下强烈、正确、深刻的初次印象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 110.7,
+      "endTime": 116.3,
+      "difficulty": "hard",
+      "relatedWords": [
+        "impression",
+        "taste",
+        "first",
+        "memorable"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "question": "What does the speaker reveal about their personality when preparing for events?",
+      "options": [
+        "A) They are very outgoing and talkative",
+        "B) They are typically anxious and uncomfortable but get over-talkative when nervous",
+        "C) They don't like fashion at all",
+        "D) They prefer to be alone always"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确提到'I typically don't like doing things like this because I'm very anxious and uncomfortable'以及'So if I'm over-talkative, that's because I'm anxious'，说明说话者容易紧张，话多其实是因为焦虑。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 125.3,
+      "endTime": 138.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "anxious",
+        "personality",
+        "nervous",
+        "talkative"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "question": "Who is introduced as a celebrity hairstylist in the video?",
+      "options": [
+        "A) Vogue",
+        "B) Justin Tritsky",
+        "C) Ursula Stephen",
+        "D) Tashi"
+      ],
+      "answer": "C",
+      "explanation": "字幕中明确介绍'Hi, my name is Ursula Stephen, celebrity hairstylist'（大家好，我是Ursula Stephen，名人发型师），所以正确答案是Ursula Stephen。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 140.2,
+      "endTime": 143,
+      "difficulty": "easy",
+      "relatedWords": [
+        "hairstylist",
+        "celebrity",
+        "Ursula Stephen",
+        "introduction"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What fashion aesthetic is the speaker going for today?",
+      "options": [
+        "A) Streetwear look",
+        "B) Old money look",
+        "C) Bohemian look",
+        "D) Sporty look"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确提到'Today we are going for the old money look'（今天我们要打造的是'老钱风'造型），old money look指的是低调奢华、看起来像富裕家庭出身的经典风格。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 142.7,
+      "endTime": 146.5,
+      "difficulty": "easy",
+      "relatedWords": [
+        "fashion",
+        "old money",
+        "aesthetic",
+        "style"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "How does the speaker describe the upcoming premiere?",
+      "options": [
+        "A) It's going to be small and quiet",
+        "B) It's going to be big and sexy",
+        "C) It's going to be cancelled",
+        "D) It's going to be postponed"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到'It's going to be big and sexy and, you know, we're going to have a little fun'，说明说话者期待首映式既盛大又时髦，还会很有趣。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 148.1,
+      "endTime": 152.2,
+      "difficulty": "easy",
+      "relatedWords": [
+        "premiere",
+        "exciting",
+        "big",
+        "sexy"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "What does the phrase 'it doesn't get lost' imply in this context?",
+      "options": [
+        "A) Something is physically misplaced",
+        "B) The essence or meaning remains preserved and impactful",
+        "C) They can't find their luggage",
+        "D) They forgot something important"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文谈论的是角色塑造和情感的传递，'it doesn't get lost'意思是'它不会消失/不会丢失'，暗示某种核心的东西（比如角色本质、情感）被很好地保留和传达出来。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 159.8,
+      "endTime": 161.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "preserve",
+        "essence",
+        "meaning",
+        "impact"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "What emotions does the speaker associate with the character Tashi over the years?",
+      "options": [
+        "A) Only joy and happiness",
+        "B) Love and hate, among other things",
+        "C) Only fear and anxiety",
+        "D) Only sadness"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到'love and hate and all the things over many, many years'（爱与恨，以及这些年来所有的一切），说明Tashi这个角色承载了复杂丰富的情感。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 172.4,
+      "endTime": 178.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "emotions",
+        "love",
+        "hate",
+        "complex"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "question": "According to the speaker, what is Tashi's role in the story?",
+      "options": [
+        "A) She is a side character with minimal impact",
+        "B) She is the center of everything",
+        "C) She is the villain",
+        "D) She is a background character"
+      ],
+      "answer": "B",
+      "explanation": "字幕中明确说'Tashi is really the center of it all'（Tashi真的是一切的中心），说明Tashi是整个故事的核心人物。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 178.2,
+      "endTime": 180.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Tashi",
+        "center",
+        "main character",
+        "core"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "question": "What does the speaker say about how people perceive them?",
+      "options": [
+        "A) People see them as an adult since they were a child",
+        "B) People see them as a teenager since they were a teenager",
+        "C) People see them as a senior citizen",
+        "D) People forget about them"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到'I think, you know, people see me as a teenager since I was a teenager'，说明大众从说话者十几岁时就一直把他们视为teenager的形象。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 205.3,
+      "endTime": 210.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "perception",
+        "teenager",
+        "identity",
+        "typecast"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "question": "What does the speaker imply about playing a teenager now?",
+      "options": [
+        "A) They are no longer a teenager but still play one at some points",
+        "B) They have never played a teenager",
+        "C) They refuse to play teenagers",
+        "D) They have always been a teenager"
+      ],
+      "answer": "A",
+      "explanation": "字幕中提到'technically I do still play a teenager at some points'，意味着虽然说话者已经不再是teenager了，但有时仍然在作品中扮演teenager角色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 218.9,
+      "endTime": 223.3,
+      "difficulty": "medium",
+      "relatedWords": [
+        "teenager",
+        "acting",
+        "role",
+        "age"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "question": "Why is it hard for the speaker to describe the character?",
+      "options": [
+        "A) Because they have a poor memory",
+        "B) Because seeing the movie will make it clearer",
+        "C) Because the character is boring",
+        "D) Because they don't like the character"
+      ],
+      "answer": "B",
+      "explanation": "字幕中提到'Once you see it, it'll make more sense why it's hard for me to describe'（一旦你看到它，你就会明白为什么我难以描述），说明只有看到作品本身才能理解这个角色的复杂性。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 236.5,
+      "endTime": 239.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "describe",
+        "complex",
+        "movie",
+        "understanding"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "question": "Who is mentioned as the writer of the movie?",
+      "options": [
+        "A) Ursula Stephen",
+        "B) Tashi",
+        "C) Justin Tritsky",
+        "D) Vogue"
+      ],
+      "answer": "C",
+      "explanation": "字幕中明确提到'It was really masterfully written by Justin Tritsky'（它真的是由Justin Tritsky精湛地编写），所以编剧是Justin Tritsky。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 239.9,
+      "endTime": 248,
+      "difficulty": "easy",
+      "relatedWords": [
+        "writer",
+        "Justin Tritsky",
+        "script",
+        "masterful"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "question": "What does 'turning the page' metaphorically mean in this context?",
+      "options": [
+        "A) Literally turning a book's page",
+        "B) Starting a new chapter or phase in one's life/career",
+        "C) Being confused",
+        "D) Reading a novel"
+      ],
+      "answer": "B",
+      "explanation": "'turning the page'是一个常用比喻，意思是'翻开新的一页'，结合上下文谈论角色和事业的发展，这里指的是进入一个全新的阶段或篇章。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 250.9,
+      "endTime": 254.2,
+      "difficulty": "medium",
+      "relatedWords": [
+        "metaphor",
+        "new chapter",
+        "phase",
+        "transition"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "question": "What does the speaker mean by 'avenues for her to keep playing'?",
+      "options": [
+        "A) Physical playgrounds for children",
+        "B) Different ways or opportunities for the actress to continue playing the character",
+        "C) Streets named after the character",
+        "D) Music venues"
+      ],
+      "answer": "B",
+      "explanation": "结合上下文'she can't play herself'（她不能扮演她自己），'avenues for her to keep playing'指的是让演员继续扮演该角色的不同方式或机会，即通过各种途径延续这个角色。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 195.7,
+      "endTime": 199.9,
+      "difficulty": "hard",
+      "relatedWords": [
+        "avenues",
+        "opportunities",
+        "acting",
+        "character"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "speaking",
+      "question": "Describe the fashion aesthetic mentioned in the video and explain what it represents.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个开放性口语题。视频中提到了'old money look'（老钱风），指的是一种低调奢华、看似出身富裕家庭、不张扬但品质感强的着装风格。",
+      "referenceAnswer": "The video mentions going for an 'old money look' which represents a classic, understated luxury aesthetic. It suggests wealth that appears inherited rather than newly acquired, focusing on quality, timeless pieces, and sophistication rather than flashy logos or trendy items.",
+      "hint": "Think about the phrase 'old money' and what kind of fashion style it represents in modern culture.",
+      "startTime": 142.7,
+      "endTime": 146.5,
+      "difficulty": "medium",
+      "relatedWords": [
+        "old money",
+        "fashion",
+        "aesthetic",
+        "luxury",
+        "style"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "speaking",
+      "question": "Based on the video, explain how the speaker feels about public events and how it affects their behavior.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个关于说话者情感状态的开放性口语题。",
+      "referenceAnswer": "According to the video, the speaker is typically anxious and uncomfortable when doing public things like premieres. They mention that when they are getting ready, they are very quiet, and if they become over-talkative, it's because they are anxious. This shows the speaker experiences performance anxiety and uses talking as a coping mechanism.",
+      "hint": "Pay attention to the phrases 'anxious', 'uncomfortable', 'over-talkative' and how they connect.",
+      "startTime": 125.3,
+      "endTime": 138.1,
+      "difficulty": "medium",
+      "relatedWords": [
+        "anxiety",
+        "uncomfortable",
+        "over-talkative",
+        "nervous",
+        "emotions"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "speaking",
+      "question": "Discuss the significance of the character Tashi based on what is said in the video.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个关于电影角色的综合理解口语题。",
+      "referenceAnswer": "Tashi is described as 'the center of it all' in the story. The speaker has played this character for many years, experiencing 'love and hate and all the things' associated with portraying her. The character has become a 'beautiful canvas' to help the speaker express themselves. Tashi represents a complex, evolving figure who plays a central role in the Challengers narrative, and the actress finds deep personal meaning in bringing this character to life over many years.",
+      "hint": "Look for clues about Tashi's role in the story, the emotional connection the speaker has with this character, and how the character has evolved over time.",
+      "startTime": 90.8,
+      "endTime": 180.8,
+      "difficulty": "hard",
+      "relatedWords": [
+        "Tashi",
+        "character",
+        "center",
+        "expression",
+        "evolve"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "speaking",
+      "question": "Explain what the video reveals about the long-term collaboration between the speaker and their team.",
+      "options": [],
+      "answer": "open",
+      "explanation": "这是一个关于合作关系的开放性口语题。",
+      "referenceAnswer": "The video reveals that the speaker has been working with their team for 13 years ('our 13th year of collaboration'). The speaker mentions learning many things through fashion and through this collaborator, indicating a deep mentor-mentee or partnership relationship. The collaboration is so strong that the speaker confidently says 'we don't miss,' suggesting they have developed a reliable creative partnership. They are preparing together for the Challengers premiere, showing they continue to work as a team on major projects.",
+      "hint": "Look for mentions of years of collaboration, what was learned together, and their confidence as a team.",
+      "startTime": 74.5,
+      "endTime": 97.9,
+      "difficulty": "medium",
+      "relatedWords": [
+        "collaboration",
+        "13 years",
+        "fashion",
+        "team",
+        "partnership"
+      ]
+    }
+  ]
+}

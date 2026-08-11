@@ -1,0 +1,417 @@
+{
+  "videoId": "Nb47nyC70uU",
+  "generatedAt": "2026-08-11T06:27:24.054Z",
+  "cards": [
+    {
+      "id": "msoa3386d62ct1",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "liminal",
+      "back": "阈限的；临界状态的 (adjective, C1)",
+      "context": "I am building a **liminal** space, which sounds crazy, but it's happening",
+      "audioStart": 0.72,
+      "audioEnd": 7.58,
+      "word": "liminal",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa3386klsbls",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "fascination",
+      "back": "着迷；强烈的兴趣 (noun, B2)",
+      "context": "You know, even when I first developed my **fascination** for liminal spaces, I couldn't shake the desire to just want to be there.",
+      "audioStart": 39.7,
+      "audioEnd": 47.56,
+      "word": "fascination",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa338652x7rl",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "invoke",
+      "back": "唤起；引发 (verb, C1)",
+      "context": "because what they made me feel, the feeling they **invoked** within me, even just through the screen, was of such clarity and internal alignment and stillness that I had never experienced before.",
+      "audioStart": 50.44,
+      "audioEnd": 63.44,
+      "word": "invoke",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa3386v2qhkj",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "clarity",
+      "back": "清晰；清楚 (noun, B2)",
+      "context": "because what they made me feel, the feeling they invoked within me, even just through the screen, was of such **clarity** and internal alignment and stillness that I had never experienced before.",
+      "audioStart": 50.44,
+      "audioEnd": 63.44,
+      "word": "clarity",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa3386osvkee",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "alignment",
+      "back": "一致；协调 (noun, C1)",
+      "context": "because what they made me feel, the feeling they invoked within me, even just through the screen, was of such clarity and internal **alignment** and stillness that I had never experienced before.",
+      "audioStart": 50.44,
+      "audioEnd": 63.44,
+      "word": "alignment",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa3386qbm84l",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "transcend",
+      "back": "超越；超出 (verb, C1)",
+      "context": "This is something that **transcends** that.",
+      "audioStart": 122.88,
+      "audioEnd": 125.36,
+      "word": "transcend",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa33866lzaw3",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "tangible",
+      "back": "可触摸的；实际的 (adjective, C1)",
+      "context": "And my goal is to bring this experience into real life, something that's **tangible**, that somebody can immerse themselves within for an extended period of time and experience a complete internal transformation.",
+      "audioStart": 139.86,
+      "audioEnd": 156.4,
+      "word": "tangible",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa3386ely4zf",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "immerse",
+      "back": "使沉浸；使浸没 (verb, B2)",
+      "context": "And my goal is to bring this experience into real life, something that's tangible, that somebody can **immerse** themselves within for an extended period of time and experience a complete internal transformation.",
+      "audioStart": 139.86,
+      "audioEnd": 156.4,
+      "word": "immerse",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa3386z5n4d5",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "transformation",
+      "back": "转变；变革 (noun, B2)",
+      "context": "And my goal is to bring this experience into real life, something that's tangible, that somebody can immerse themselves within for an extended period of time and experience a complete internal **transformation**.",
+      "audioStart": 139.86,
+      "audioEnd": 156.4,
+      "word": "transformation",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa3386r61mwq",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "distraction",
+      "back": "分心；干扰 (noun, B2)",
+      "context": "Because the world that we live in today is filled with noise, it's filled with **distraction** and chaos, and it's really not healthy for the mind, the body, or the spirit.",
+      "audioStart": 156.4,
+      "audioEnd": 171.28,
+      "word": "distraction",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa3386narnfc",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "chaos",
+      "back": "混乱；杂乱 (noun, B2)",
+      "context": "Because the world that we live in today is filled with noise, it's filled with distraction and **chaos**, and it's really not healthy for the mind, the body, or the spirit.",
+      "audioStart": 156.4,
+      "audioEnd": 171.28,
+      "word": "chaos",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa3386e6hwzw",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "orient",
+      "back": "确定方向；使适应 (verb, C1)",
+      "context": "And when you don't really understand your true nature, you know, who and what you really are, then you really lose a sense of how to **orient** yourself in the world, what you truly align with, the right and wrong decisions to make, as well as a lack of direction and clarity in the present time and also in the future.",
+      "audioStart": 224.18,
+      "audioEnd": 247.44,
+      "word": "orient",
+      "tags": [
+        "CEFR-C1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:24.054Z"
+    },
+    {
+      "id": "msoa31d3d1k84s",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) If you don't know what a ___ space is, I'll put",
+      "back": "liminal",
+      "context": "If you don't know what a liminal space is, I'll put",
+      "audioStart": 17.9,
+      "audioEnd": 23,
+      "hint": "选项：temporary / transitional / marginal / liminal",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:21.639Z"
+    },
+    {
+      "id": "msoa31d3qivt6a",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) If you don't know what a ___ space is, I'll put",
+      "back": "liminal",
+      "context": "If you don't know what a liminal space is, I'll put",
+      "audioStart": 12.6,
+      "audioEnd": 17.9,
+      "hint": "选项：marginal / temporary / liminal / transitional",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:21.639Z"
+    },
+    {
+      "id": "msoa31d33vdvu9",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So, if we want to understand our identity to a deeper ___ and",
+      "back": "degree",
+      "context": "So, if we want to understand our identity to a deeper degree and",
+      "audioStart": 259,
+      "audioEnd": 266.4,
+      "hint": "选项：point / extent / degree / level",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:21.639Z"
+    },
+    {
+      "id": "msoa31d3pf9qc6",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) So you could think of it like a ___ from those things in",
+      "back": "detox",
+      "context": "So you could think of it like a detox from those things in",
+      "audioStart": 398.5,
+      "audioEnd": 402.9,
+      "hint": "选项：rest / break / detox / escape",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:21.639Z"
+    },
+    {
+      "id": "msoa31d38qvg6y",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) All the things that hold us back as individuals, because they aren't of ___.",
+      "back": "you",
+      "context": "All the things that hold us back as individuals, because they aren't of you.",
+      "audioStart": 363.9,
+      "audioEnd": 368.8,
+      "hint": "选项：us / you / them / me",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:21.639Z"
+    },
+    {
+      "id": "msoa31d3y8mf5z",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And my goal is to bring this experience into real life, something that's ___, that somebody",
+      "back": "tangible",
+      "context": "And my goal is to bring this experience into real life, something that's tangible, that somebody",
+      "audioStart": 139.7,
+      "audioEnd": 147.5,
+      "hint": "选项：visible / real / concrete / tangible",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:21.639Z"
+    },
+    {
+      "id": "msoa31d3bjiqgm",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) the very reason that I've accomplished some of my lifelong goals, like achieving ___,",
+      "back": "100,000",
+      "context": "the very reason that I've accomplished some of my lifelong goals, like achieving 100,000",
+      "audioStart": 476.8,
+      "audioEnd": 480.4,
+      "hint": "选项：500,000 / 10,000 / 1,000,000 / 100,000",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:21.639Z"
+    },
+    {
+      "id": "msoa31d3cy1dd1",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It's really rare that we're ever just kind of with ourselves in ___ and without distraction.",
+      "back": "silence",
+      "context": "It's really rare that we're ever just kind of with ourselves in silence and without distraction.",
+      "audioStart": 300.8,
+      "audioEnd": 307.2,
+      "hint": "选项：stillness / silence / peace / quiet",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:21.639Z"
+    },
+    {
+      "id": "msoa30t0tyaflc",
+      "videoId": "Nb47nyC70uU",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "但世界本质如此，想摆脱这些真的很难 我们得在社会中运转，而社会本就是这样\n___ ___ we kind of have to function within society",
+      "back": "given / that",
+      "context": "given that we kind of have to function within society",
+      "audioStart": 175.523,
+      "audioEnd": 181.823,
+      "hint": "given that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:27:20.916Z"
+    }
+  ]
+}

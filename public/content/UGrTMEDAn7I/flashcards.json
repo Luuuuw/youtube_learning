@@ -1,0 +1,206 @@
+{
+  "videoId": "UGrTMEDAn7I",
+  "generatedAt": "2026-08-11T06:29:51.834Z",
+  "cards": [
+    {
+      "id": "msoa6996pqxcs4",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "accent",
+      "back": "口音 (noun, B1)",
+      "context": "I used to have a stronger **accent** but it's completely gone",
+      "audioStart": 42.88,
+      "audioEnd": 48.78,
+      "word": "accent",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    },
+    {
+      "id": "msoa6996cyqjd8",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "charismatic",
+      "back": "有魅力的 (adjective, C1)",
+      "context": "we do a lot of stronger **charismatic** things",
+      "audioStart": 224.89,
+      "audioEnd": 230.97,
+      "word": "charismatic",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    },
+    {
+      "id": "msoa6996m8h463",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "evolve",
+      "back": "演变，进化 (verb, B2)",
+      "context": "It **evolved** from my original name, which is Jennie.",
+      "audioStart": 241.52,
+      "audioEnd": 245.02,
+      "word": "evolve",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    },
+    {
+      "id": "msoa6996yo5kpd",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "piercing",
+      "back": "穿孔 (noun, B2)",
+      "context": "How many **piercings** does Jennie have?",
+      "audioStart": 296.12,
+      "audioEnd": 300.18,
+      "word": "piercing",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    },
+    {
+      "id": "msoa6996y62lcn",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trending",
+      "back": "流行的，热门的 (adjective, B2)",
+      "context": "I think they are more **trending** nowadays.",
+      "audioStart": 405.46,
+      "audioEnd": 411.74,
+      "word": "trending",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    },
+    {
+      "id": "msoa6996tqm4pr",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "runway",
+      "back": "T台 (noun, B2)",
+      "context": "It was my first time running on a **runway**.",
+      "audioStart": 436.08,
+      "audioEnd": 439.24,
+      "word": "runway",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    },
+    {
+      "id": "msoa6996m48lfk",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "anxious",
+      "back": "焦虑的 (adjective, B1)",
+      "context": "I thought I'd be very nervous and **anxious** about it.",
+      "audioStart": 444.9,
+      "audioEnd": 447.64,
+      "word": "anxious",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    },
+    {
+      "id": "msoa6996k6o9r2",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "occasion",
+      "back": "场合，时刻 (noun, B2)",
+      "context": "It was a very special **occasion** for me.",
+      "audioStart": 439.24,
+      "audioEnd": 441.4,
+      "word": "occasion",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    },
+    {
+      "id": "msoa6996b60fwm",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "tease",
+      "back": "预告，挑逗 (noun, C1)",
+      "context": "It's like a little bit of a **tease** moment",
+      "audioStart": 274.1,
+      "audioEnd": 280.36,
+      "word": "tease",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    },
+    {
+      "id": "msoa699650af41",
+      "videoId": "UGrTMEDAn7I",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vibe",
+      "back": "氛围，感觉 (noun, B2)",
+      "context": "we like to just match the **vibe** of the city that we're in",
+      "audioStart": 133.89,
+      "audioEnd": 138.23,
+      "word": "vibe",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T06:29:51.834Z"
+    }
+  ]
+}
