@@ -2,7 +2,7 @@
 
 import React, { useState, useRef, useEffect, useCallback, useMemo } from 'react';
 import Link from 'next/link';
-import { ChevronLeft, Settings, HelpCircle, Ear, EarOff, X, Keyboard, Zap, MessageSquare, Lightbulb, User, Brain, Mic } from 'lucide-react';
+import { ChevronLeft, Settings, HelpCircle, Ear, EarOff, X, Keyboard, Zap, BookOpen, MessageSquare, Lightbulb, User, Brain, Mic } from 'lucide-react';
 import VideoPlayer from './video-player';
 import SubtitlePanel from './subtitle-panel';
 import ThemeToggle from './theme-toggle';
@@ -361,7 +361,7 @@ export default function VideoLearningPage({
             </button>
             <Link
               href={`/flashcards/${id}`}
-              className="px-2.5 py-1 rounded-md text-sm font-semibold border border-indigo-300/50 dark:border-indigo-400/30 text-indigo-500 bg-indigo-50/60 dark:bg-indigo-400/10 hover:bg-indigo-100/80 dark:hover:bg-indigo-400/20 transition-colors"
+              className="group px-3 py-1 rounded-full text-sm font-medium tracking-wide text-white bg-gradient-to-r from-indigo-500 to-violet-500 shadow-sm shadow-indigo-500/25 hover:shadow-md hover:shadow-indigo-500/30 hover:from-indigo-600 hover:to-violet-600 transition-all duration-200"
               title="闪卡复习"
             >
               闪卡
