@@ -2,7 +2,7 @@
 
 import React, { useState, useRef, useEffect, useCallback, useMemo } from 'react';
 import Link from 'next/link';
-import { ChevronLeft, Settings, HelpCircle, Ear, EarOff, X, Keyboard, Zap, BookOpen, MessageSquare, Lightbulb, User, Brain, Mic } from 'lucide-react';
+import { ChevronLeft, Settings, HelpCircle, Ear, EarOff, X, Keyboard, Zap, BookOpen, Layers, MessageSquare, Lightbulb, User, Brain, Mic } from 'lucide-react';
 import VideoPlayer from './video-player';
 import SubtitlePanel from './subtitle-panel';
 import ThemeToggle from './theme-toggle';
@@ -364,7 +364,7 @@ export default function VideoLearningPage({
               className="flex items-center gap-1 px-2 py-1 rounded-md text-xs font-medium text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
               title="闪卡复习"
             >
-              <BookOpen className="h-3.5 w-3.5" />
+              <Layers className="h-3.5 w-3.5" />
               <span className="hidden sm:inline">闪卡</span>
             </Link>
             {role !== 'admin' && (
