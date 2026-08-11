@@ -33,16 +33,27 @@ export async function GET(req: NextRequest) {
   if (dueOnly) {
     const due = flashcardDb.getDueForUser(owner, { videoId, dimension });
 
-    // 新卡日上限
+    // 新卡日上限（仅"全部"维度生效，单个维度不限制）
+    const applyCap = !dimension;
     const today = new Date().toISOString().slice(0, 10);
     const dailyFile = path.join(DATA_DIR, 'flashcard-daily.json');
     let daily: DailyCounter = { date: today, newCardsShown: {}, newCardIds: {} };
-    try {
-      if (fs.existsSync(dailyFile)) {
-        const parsed = JSON.parse(fs.readFileSync(dailyFile, 'utf-8'));
-        if (parsed.date === today) daily = parsed;
-      }
-    } catch { /* ignore */ }
+    if (applyCap) {
+      try {
+        if (fs.existsSync(dailyFile)) {
+          const parsed = JSON.parse(fs.readFileSync(dailyFile, 'utf-8'));
+          if (parsed.date === today) daily = parsed;
+        }
+      } catch { /* ignore */ }
+    }
+    if (!applyCap) {
+      // 单个维度：不过滤，不截断，全部返回
+      return NextResponse.json({
+        cards: due.map(({ card, state }) => ({ ...card, state })),
+        newCardsToday: 0,
+        newCardsLimit: 0,
+      });
+    }
 
     if (!daily.newCardsShown) daily.newCardsShown = {};
     if (!daily.newCardIds) daily.newCardIds = {};
