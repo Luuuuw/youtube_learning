@@ -2,7 +2,7 @@
 
 import React, { useState, useRef, useEffect, useCallback, useMemo } from 'react';
 import Link from 'next/link';
-import { ChevronLeft, Settings, HelpCircle, Ear, EarOff, X, Keyboard, Zap, BookOpen, MessageSquare, Lightbulb, User, Brain, Mic } from 'lucide-react';
+import { ChevronLeft, Settings, HelpCircle, Ear, EarOff, X, Keyboard, Zap, MessageSquare, Lightbulb, User, Brain, Mic } from 'lucide-react';
 import VideoPlayer from './video-player';
 import SubtitlePanel from './subtitle-panel';
 import ThemeToggle from './theme-toggle';
@@ -361,11 +361,10 @@ export default function VideoLearningPage({
             </button>
             <Link
               href={`/flashcards/${id}`}
-              className="flex items-center gap-1 px-2 py-1 rounded-md text-xs font-medium text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
+              className="px-2 py-0.5 rounded-md text-xs font-semibold border border-indigo-400/60 text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-500/10 hover:bg-indigo-100 dark:hover:bg-indigo-500/20 transition-colors"
               title="闪卡复习"
             >
-              <BookOpen className="h-3.5 w-3.5" />
-              <span className="hidden sm:inline">闪卡</span>
+              闪卡
             </Link>
             {role !== 'admin' && (
               <Link href="/profile" className="flex items-center justify-center w-7 h-7 rounded-md bg-primary/10 text-primary hover:bg-primary/20 transition-colors" title="个人主页">
