@@ -309,8 +309,8 @@ class FlashcardCache {
     for (const c of cards) {
       const s = this.getState(c.id, owner);
       if (!s) {
-        // 新卡仅限用户自己的（手动添加）；共享 AI 卡不自动进入复习队列
-        if (c.owner === owner) out.push({ card: c, state: s });
+        // 新卡：用户自己的 + 共享 AI 卡都进入队列，日上限控制数量
+        if (c.owner === owner || c.owner === SHARED_OWNER) out.push({ card: c, state: s });
       } else if (isDue(s, now)) {
         out.push({ card: c, state: s });
       }
@@ -336,8 +336,8 @@ class FlashcardCache {
       dimensions[c.dimension]++;
       const s = this.getState(c.id, owner);
       if (!s) {
-        // 新卡仅限用户自己的
-        if (c.owner === owner) { newCount++; due++; }
+        // 新卡：用户自己的 + 共享 AI 卡都算入
+        if (c.owner === owner || c.owner === SHARED_OWNER) { newCount++; due++; }
       } else {
         if (isDue(s, now)) due++;
         // 简单"已掌握"标准：稳定度 > 30 天
