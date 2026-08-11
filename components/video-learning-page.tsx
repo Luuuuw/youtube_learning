@@ -10,15 +10,10 @@ import VideoQuiz from './video-quiz';
 import ShadowSpeak from './shadow-speak';
 import { Subtitle } from '@/lib/vtt-parser';
 import { useAuth } from '@/lib/auth-context';
-<<<<<<< Updated upstream
-import { binarySearchSubtitleIndex, getSubtitleAtTime, buildSubtitleTranslationMap, getActiveWordIndex } from '@/lib/subtitle-sync';
-import { classifyWord } from '@/lib/word-classify';
-=======
 import { binarySearchSubtitleIndex, getSubtitleAtTime, buildSubtitleTranslationMap } from '@/lib/subtitle-sync';
 import { useSentenceLoop } from '@/hooks/use-sentence-loop';
 import { useSegmentLoop } from '@/hooks/use-segment-loop';
 import CurrentSubtitleCard from '@/components/current-subtitle-card';
->>>>>>> Stashed changes
 
 interface VideoLearningPageProps {
   id: string;
@@ -58,11 +53,8 @@ export default function VideoLearningPage({
   const [quizOpen, setQuizOpen] = useState(false);
   const [shadowSpeakOpen, setShadowSpeakOpen] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
-<<<<<<< Updated upstream
-=======
   const { loopingSubId, setLoopingSubId } = useSentenceLoop(videoRef, subtitles);
   const { segmentLoopRange, setSegmentLoopRange } = useSegmentLoop(videoRef);
->>>>>>> Stashed changes
   const settingsRef = useRef<HTMLDivElement>(null);
   const lastSubtitleSyncAtRef = useRef(0);
   const activeSubtitleIndexRef = useRef(-1);
@@ -523,47 +515,6 @@ export default function VideoLearningPage({
             blindMode={blindMode}
           />
           <div className="mt-1 sm:mt-3 px-1 hidden sm:block">
-<<<<<<< Updated upstream
-            {(() => {
-              const currentSub = getSubtitleAtTime(subtitles, currentTime);
-              if (!currentSub) {
-                return <p className="text-sm text-muted-foreground italic">等待播放...</p>;
-              }
-              const zhText = getZhText(currentSub);
-              const activeWordIdx = getActiveWordIndex(
-                currentSub.text, currentTime, currentSub.startTime, currentSub.endTime, currentSub.wordTimings
-              );
-              // Render words with green-follow effect
-              const parts = currentSub.text.split(/(\s+)/);
-              let wordCounter = 0;
-              const wordElements = parts.map((part, i) => {
-                if (!part.trim()) return <span key={i}>{part}</span>;
-                const cls = classifyWord(part);
-                const currentWordIdx = wordCounter++;
-                const isCurrentWord = currentWordIdx === activeWordIdx;
-                const className = isCurrentWord
-                  ? 'bg-green-400/25 text-green-700 dark:text-green-300 rounded px-0.5 ring-2 ring-green-500/70 shadow-[0_0_6px_rgba(34,197,94,0.25)] transition-all duration-75'
-                  : cls.isKeyVocab
-                    ? `${cls.bgColor} ${cls.color} rounded px-0.5 transition-colors`
-                    : 'px-0.5 rounded transition-colors';
-                return <span key={i} className={className}>{part}</span>;
-              });
-              return (
-                <div className="bg-muted/50 rounded-lg px-4 py-3 space-y-1.5">
-                  <p className="text-base font-medium leading-relaxed">{wordElements}</p>
-                  {zhText && (
-                    <p className="text-sm text-muted-foreground">{zhText}</p>
-                  )}
-                  {!zhText && translating && (
-                    <p className="text-xs text-muted-foreground/70 flex items-center gap-1.5">
-                      <span className="inline-block w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse" />
-                      中文字幕后台翻译中，完成后自动出现
-                    </p>
-                  )}
-                </div>
-              );
-            })()}
-=======
             <CurrentSubtitleCard
               subtitle={getSubtitleAtTime(subtitles, currentTime)}
               zhText={(() => {
@@ -582,7 +533,6 @@ export default function VideoLearningPage({
               onSlowReplay={handleSlowReplayCurrent}
               onReplay={handleReplayCurrent}
             />
->>>>>>> Stashed changes
           </div>
         </div>
 

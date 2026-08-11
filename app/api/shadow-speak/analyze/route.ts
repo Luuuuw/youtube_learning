@@ -29,11 +29,7 @@ async function callMiniMax(messages: { role: string; content: string }[], apiKey
         Authorization: `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
       },
-<<<<<<< Updated upstream
-      body: JSON.stringify({ model: 'MiniMax-M2.5', messages }),
-=======
       body: JSON.stringify({ model: AI_MODELS.minimax_chat.id, messages }),
->>>>>>> Stashed changes
       signal: controller.signal,
     });
     if (!res.ok) throw new Error(`API ${res.status}`);

@@ -88,11 +88,7 @@ export async function POST(req: NextRequest) {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-<<<<<<< Updated upstream
-          model: 'MiniMax-M2.5',
-=======
           model: AI_MODELS.minimax_chat.id,
->>>>>>> Stashed changes
           messages: [
             { role: 'system', content: SYSTEM_PROMPT },
             { role: 'user', content: userPrompt },

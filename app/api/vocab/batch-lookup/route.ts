@@ -58,11 +58,7 @@ async function aiBatchLookup(words: string[]): Promise<Record<string, { phonetic
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-<<<<<<< Updated upstream
-          model: 'MiniMax-M2.5',
-=======
           model: AI_MODELS.minimax_chat.id,
->>>>>>> Stashed changes
           messages: [
             { role: 'system', content: systemPrompt },
             { role: 'user', content: wordList },
