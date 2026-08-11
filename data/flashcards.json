@@ -1,5 +1,24 @@
 [
   {
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) We're only one month into 2026 and already it feels like the year of ___",
+    "back": "less",
+    "context": "We're only one month into 2026 and already it feels like the year of less.",
+    "audioStart": 0,
+    "audioEnd": 4.219,
+    "hint": "选项：more / less / plenty / change",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "admin",
+    "source": "ai",
+    "reviewedByAdmin": true,
+    "id": "msolk4kfsnzqgv",
+    "createdAt": "2026-08-11T11:48:34.719Z"
+  },
+  {
     "videoId": "__preheat__",
     "dimension": "vocab",
     "type": "recognition",
@@ -146302,25 +146321,6 @@
     "createdAt": "2026-08-11T06:21:39.259Z"
   },
   {
-    "id": "mso9voybfbj2wq",
-    "videoId": "6ehvrGV53AU",
-    "dimension": "sentence",
-    "type": "cloze",
-    "front": "嗨大家好，我是Ashley。 嗨大家好，我是Ashley。\nIt ___ ___ a minute since I have filmed a video.",
-    "back": "has / been",
-    "context": "It has been a minute since I have filmed a video.",
-    "audioStart": 10.8,
-    "audioEnd": 14.46,
-    "hint": "it has been",
-    "tags": [
-      "pattern"
-    ],
-    "owner": "__shared__",
-    "source": "ai",
-    "reviewedByAdmin": false,
-    "createdAt": "2026-08-11T06:21:38.963Z"
-  },
-  {
     "id": "mso9vw8xzocyv3",
     "videoId": "8F3GXmc-Pt4",
     "dimension": "vocab",
@@ -181533,5 +181533,1773 @@
     "source": "ai",
     "reviewedByAdmin": false,
     "createdAt": "2026-08-11T06:32:03.478Z"
+  },
+  {
+    "id": "msoroehwquoend",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "boogie boarding",
+    "back": "趴板冲浪 (noun, B1)",
+    "context": "We're gonna go **boogie boarding** right now.",
+    "audioStart": 587.83,
+    "audioEnd": 589.35,
+    "word": "boogie boarding",
+    "tags": [
+      "CEFR-B1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.908Z"
+  },
+  {
+    "id": "msoroehwoxek5k",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "hike",
+    "back": "徒步旅行 (noun, B1)",
+    "context": "Two miles into our **hike**.",
+    "audioStart": 751.6,
+    "audioEnd": 751.74,
+    "word": "hike",
+    "tags": [
+      "CEFR-B1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.908Z"
+  },
+  {
+    "id": "msoroehwk4egz9",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "sunset",
+    "back": "日落 (noun, B1)",
+    "context": "Look how beautiful the **sunset** is.",
+    "audioStart": 674.87,
+    "audioEnd": 676.97,
+    "word": "sunset",
+    "tags": [
+      "CEFR-B1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.908Z"
+  },
+  {
+    "id": "msoroehwzy2j4p",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "vlog",
+    "back": "视频博客 (noun, B1)",
+    "context": "Alright guys, welcome back to the **vlog**.",
+    "audioStart": 16.76,
+    "audioEnd": 18.38,
+    "word": "vlog",
+    "tags": [
+      "CEFR-B1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.908Z"
+  },
+  {
+    "id": "msoroehw3slxyw",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "striped",
+    "back": "有条纹的 (adjective, B1)",
+    "context": "That's **Striped** It.",
+    "audioStart": 30.96,
+    "audioEnd": 31.8,
+    "word": "striped",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.908Z"
+  },
+  {
+    "id": "msoroehwrpmjhf",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "pure",
+    "back": "纯净的 (adjective, B1)",
+    "context": "Pretty **pure**.",
+    "audioStart": 35.4,
+    "audioEnd": 35.96,
+    "word": "pure",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.908Z"
+  },
+  {
+    "id": "msoroehwwf86ew",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "dragging",
+    "back": "拖拽 (verb, B1)",
+    "context": "Kyle **dragging** me out of bed this morning, 5.30 in the morning.",
+    "audioStart": 50,
+    "audioEnd": 53.9,
+    "word": "dragging",
+    "tags": [
+      "CEFR-B1",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.908Z"
+  },
+  {
+    "id": "msoroehwnvdoos",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "faded",
+    "back": "退缩 (verb, B2)",
+    "context": "If it was Sunday, I probably would have **faded** respectfully.",
+    "audioStart": 56.62,
+    "audioEnd": 59.8,
+    "word": "faded",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.908Z"
+  },
+  {
+    "id": "msoroehwigmc1x",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "grinding",
+    "back": "刻苦训练 (verb, B2)",
+    "context": "I spent a total of seven hours **grinding** yesterday, working my game.",
+    "audioStart": 134.72,
+    "audioEnd": 139.98,
+    "word": "grinding",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.909Z"
+  },
+  {
+    "id": "msoroehxapf82a",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "putting",
+    "back": "推杆 (noun, B1)",
+    "context": "Five hours on the course, two hours **putting**.",
+    "audioStart": 139.98,
+    "audioEnd": 142.96,
+    "word": "putting",
+    "tags": [
+      "CEFR-B1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.909Z"
+  },
+  {
+    "id": "msoroehxlpbtyg",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "spackle",
+    "back": "补墙膏 (noun, B2)",
+    "context": "It's **spackle**.",
+    "audioStart": 419.85,
+    "audioEnd": 422.67,
+    "word": "spackle",
+    "tags": [
+      "CEFR-B2",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.909Z"
+  },
+  {
+    "id": "msoroehxsrv5dh",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "insane",
+    "back": "疯狂的 (adjective, B1)",
+    "context": "That's the views **insane**.",
+    "audioStart": 770.12,
+    "audioEnd": 776.16,
+    "word": "insane",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:51.909Z"
+  },
+  {
+    "id": "msorodrhdvfzz4",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "sentence",
+    "type": "cloze",
+    "front": "是啊，至少今天不是周六，已经算好的了。 嗯，确实也是这么个理。\nIf it was Sunday, I probably ___ ___ ___ respectfully.",
+    "back": "would / have / faded",
+    "context": "If it was Sunday, I probably would have faded respectfully.",
+    "audioStart": 56.619,
+    "audioEnd": 59.799,
+    "hint": "would have faded",
+    "tags": [
+      "pattern"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:50.958Z"
+  },
+  {
+    "id": "msorodrjyyfz99",
+    "videoId": "1h62wa_bu8o",
+    "dimension": "sentence",
+    "type": "cloze",
+    "front": "今天对你可是大日子啊 今天对你可是大日子啊\nBig day for me, but ___'s ___ you ___ do if you want to be good.",
+    "back": "that / what / gotta",
+    "context": "Big day for me, but that's what you gotta do if you want to be good.",
+    "audioStart": 145.5,
+    "audioEnd": 149.479,
+    "hint": "that's what you gotta do",
+    "tags": [
+      "pattern"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:50.959Z"
+  },
+  {
+    "id": "msorolpz8bfl84",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "reclaim",
+    "back": "重新获得；收回 (verb, B2)",
+    "context": "People seem to be getting offline more, picking up analog hobbies, sharing slower routines, buying bricks, and **reclaiming** their time and choosing to live in the moment.",
+    "audioStart": 15.06,
+    "audioEnd": 22.56,
+    "word": "reclaim",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.271Z"
+  },
+  {
+    "id": "msorolpzr1e8d7",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "excessive",
+    "back": "过度的，过分的 (adjective, B2)",
+    "context": "And researchers have linked **excessive** scrolling with shortened attention spans, mental fog, and weakened focus, aka brain rot.",
+    "audioStart": 35.16,
+    "audioEnd": 41.18,
+    "word": "excessive",
+    "tags": [
+      "CEFR-B2",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.271Z"
+  },
+  {
+    "id": "msorolpz1kp1nt",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "novelty",
+    "back": "新奇事物；新颖 (noun, B2)",
+    "context": "Studies also suggest that this frequent screen usage trains the brain for constant **novelty**, making it harder to engage deeply with long-form reading, sustained tasks, or real-life conversations.",
+    "audioStart": 42.26,
+    "audioEnd": 53.78,
+    "word": "novelty",
+    "tags": [
+      "CEFR-B2",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.271Z"
+  },
+  {
+    "id": "msorolpzr59bam",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "sustained",
+    "back": "持续的，持久的 (adjective, B2)",
+    "context": "Studies also suggest that this frequent screen usage trains the brain for constant novelty, making it harder to engage deeply with long-form reading, **sustained** tasks, or real-life conversations.",
+    "audioStart": 42.26,
+    "audioEnd": 53.78,
+    "word": "sustained",
+    "tags": [
+      "CEFR-B2",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.271Z"
+  },
+  {
+    "id": "msorolpzx241uh",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "craving",
+    "back": "渴望，热望 (noun, C1)",
+    "context": "And this is exactly why so many of us are **craving** something slower, something real, something offline.",
+    "audioStart": 55.72,
+    "audioEnd": 61.42,
+    "word": "craving",
+    "tags": [
+      "CEFR-C1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.272Z"
+  },
+  {
+    "id": "msorolq0y21yq7",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "overwhelming",
+    "back": "令人不知所措的；压倒性的 (adjective, B2)",
+    "context": "And when the news feels so **overwhelming** in a world optimized entirely for attention, the best thing we can do is simply step away.",
+    "audioStart": 71.46,
+    "audioEnd": 78.48,
+    "word": "overwhelming",
+    "tags": [
+      "CEFR-B2",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.272Z"
+  },
+  {
+    "id": "msorolq0zq3wis",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "optimize",
+    "back": "优化，使最优化 (verb, B2)",
+    "context": "And when the news feels so overwhelming in a world **optimized** entirely for attention, the best thing we can do is simply step away.",
+    "audioStart": 71.46,
+    "audioEnd": 78.48,
+    "word": "optimize",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.272Z"
+  },
+  {
+    "id": "msorolq0muza3y",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "intentional",
+    "back": "有意的，故意的 (adjective, B2)",
+    "context": "So let me extend this invitation to build a life that exists more offline than online in a way that feels realistic, **intentional**, and to be honest, a little addicting.",
+    "audioStart": 89.92,
+    "audioEnd": 98.88,
+    "word": "intentional",
+    "tags": [
+      "CEFR-B2",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.272Z"
+  },
+  {
+    "id": "msorolq0u25gbh",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "addicting",
+    "back": "使人上瘾的 (adjective, B2)",
+    "context": "So let me extend this invitation to build a life that exists more offline than online in a way that feels realistic, intentional, and to be honest, a little **addicting**.",
+    "audioStart": 89.92,
+    "audioEnd": 98.88,
+    "word": "addicting",
+    "tags": [
+      "CEFR-B2",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.272Z"
+  },
+  {
+    "id": "msorolq0jmorze",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "boundary",
+    "back": "界限，边界 (noun, B2)",
+    "context": "But I personally started feeling the pull away from social media or just like wanting to have a lot more **boundaries** with my phone kind of like the end of last year.",
+    "audioStart": 167.82,
+    "audioEnd": 177.56,
+    "word": "boundary",
+    "tags": [
+      "CEFR-B2",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.272Z"
+  },
+  {
+    "id": "msorolq0yu116j",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "engrossed",
+    "back": "全神贯注的 (adjective, C1)",
+    "context": "I'd be like, okay, let me just like, you know, check out what's going on in social media while I'm brushing my teeth or while I'm getting ready for the day and just being so disconnected from simple daily tasks and so **engrossed** in trying to constantly entertain myself and not even allowing my brain for a second to take a break.",
+    "audioStart": 228.64,
+    "audioEnd": 247.6,
+    "word": "engrossed",
+    "tags": [
+      "CEFR-C1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.272Z"
+  },
+  {
+    "id": "msorolq072veey",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "cognitive",
+    "back": "认知的 (adjective, B2)",
+    "context": "Which honestly sounds kind of scary, but it really is just your **cognitive** ability starts to decline.",
+    "audioStart": 312.63,
+    "audioEnd": 320.59,
+    "word": "cognitive",
+    "tags": [
+      "CEFR-B2",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:01.272Z"
+  },
+  {
+    "id": "msorojz7q4bz16",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) If you've spent any time online lately, you've probably seen posts like this, or maybe like this ___",
+    "back": "one",
+    "context": "If you've spent any time online lately, you've probably seen posts like this, or maybe like this one.",
+    "audioStart": 9.8,
+    "audioEnd": 14.7,
+    "hint": "选项：three / two / one / four",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:59.011Z"
+  },
+  {
+    "id": "msorojz7jfi25a",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) Because when AI begins replacing family recipes or art drifts away from personal expression, when ___",
+    "back": "that",
+    "context": "Because when AI begins replacing family recipes or art drifts away from personal expression, when",
+    "audioStart": 61.4,
+    "audioEnd": 67.3,
+    "hint": "选项：these / those / this / that",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:59.011Z"
+  },
+  {
+    "id": "msorojz7dhh9vj",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) I think a lot of us are relearning how to enjoy our offline life ___",
+    "back": "more",
+    "context": "I think a lot of us are relearning how to enjoy our offline life more",
+    "audioStart": 109.8,
+    "audioEnd": 113.5,
+    "hint": "选项：worse / more / less / better",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:59.011Z"
+  },
+  {
+    "id": "msorojz7a1hfo8",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) And it's kind of funny that we're influencing each other on social media to get off of social ___",
+    "back": "media",
+    "context": "And it's kind of funny that we're influencing each other on social media to get off of social media.",
+    "audioStart": 161.9,
+    "audioEnd": 167.8,
+    "hint": "选项：media / network / platform / site",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:59.011Z"
+  },
+  {
+    "id": "msorojz79f60em",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) let me just like, you know, check out what's going on in social media while ___",
+    "back": "I",
+    "context": "let me just like, you know, check out what's going on in social media while",
+    "audioStart": 228.6,
+    "audioEnd": 232,
+    "hint": "选项：we / you / I / they",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:59.011Z"
+  },
+  {
+    "id": "msorojz7scaloe",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) I had been on my phone probably way too long than I needed to ___",
+    "back": "be",
+    "context": "I had been on my phone probably way too long than I needed to be.",
+    "audioStart": 259.4,
+    "audioEnd": 263.6,
+    "hint": "选项：do / go / be / have",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:59.011Z"
+  },
+  {
+    "id": "msorojz7r9me8a",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) our favorite influencer, we were served an ad just has gotten so out of ___",
+    "back": "control",
+    "context": "our favorite influencer, we were served an ad just has gotten so out of control.",
+    "audioStart": 373.8,
+    "audioEnd": 378.9,
+    "hint": "选项：hand / control / order / line",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:59.011Z"
+  },
+  {
+    "id": "msoroirhkpv8lz",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "sentence",
+    "type": "cloze",
+    "front": "因为当AI开始取代家传食谱，当艺术渐渐脱离个人表达，当20分钟…… 因为当AI开始取代家传食谱，当艺术渐渐脱离个人表达，当20分钟……\n20 minutes of scrolling ___ ___ ___ a chapter read",
+    "back": "could / have / been",
+    "context": "20 minutes of scrolling could have been a chapter read",
+    "audioStart": 67.299,
+    "audioEnd": 71.659,
+    "hint": "could have been",
+    "tags": [
+      "pattern"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:57.437Z"
+  },
+  {
+    "id": "msoroirhape1r1",
+    "videoId": "9oRFgiL7Jj8",
+    "dimension": "sentence",
+    "type": "cloze",
+    "front": "可以刷，但下班后就不看社交媒体了 好，既然刷手机变难了，就得找别的事来替代\nOkay, ___ ___ we made the habit of scrolling hard to do, we need to replace it.",
+    "back": "now / that",
+    "context": "Okay, now that we made the habit of scrolling hard to do, we need to replace it.",
+    "audioStart": 490.651,
+    "audioEnd": 493.612,
+    "hint": "now that",
+    "tags": [
+      "pattern"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:39:57.438Z"
+  },
+  {
+    "id": "msorotmksfcwgz",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "impress",
+    "back": "给…留下深刻印象 (verb, B1)",
+    "context": "If someone is trying to win you over, do they need to **impress** you or Kuma first?",
+    "audioStart": 4.8,
+    "audioEnd": 7.03,
+    "word": "impress",
+    "tags": [
+      "CEFR-B1",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.516Z"
+  },
+  {
+    "id": "msorotmkw8ozb1",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "explore",
+    "back": "探索；探究 (verb, B1)",
+    "context": "I'm just having fun and more **exploring** of myself and my music, so it's been really fun.",
+    "audioStart": 85.84,
+    "audioEnd": 88.28,
+    "word": "explore",
+    "tags": [
+      "CEFR-B1",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.516Z"
+  },
+  {
+    "id": "msorotmk6bbl32",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "pleasure",
+    "back": "愉快；乐事 (noun, B1)",
+    "context": "And seeing all the fans around the world, always a **pleasure**.",
+    "audioStart": 90,
+    "audioEnd": 92.83,
+    "word": "pleasure",
+    "tags": [
+      "CEFR-B1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msorotmlu0rp0h",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "capable",
+    "back": "有能力的；能够的 (adjective, B1)",
+    "context": "I believe that I'm **capable** of making cocktail, which I'm...",
+    "audioStart": 134.44,
+    "audioEnd": 137.23,
+    "word": "capable",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msorotmlukvg04",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "embrace",
+    "back": "欣然接受；拥抱 (verb, B2)",
+    "context": "trying to **embrace** that. I'm learning about astrology these days, so what are you?",
+    "audioStart": 168.55,
+    "audioEnd": 171.63,
+    "word": "embrace",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msorotmlz7krg1",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "collaborate",
+    "back": "合作；协作 (verb, B2)",
+    "context": "I just knew in deep down like I wanted to **collaborate** with her, but with the song Extra L, that's what I was searching for.",
+    "audioStart": 307.83,
+    "audioEnd": 311.51,
+    "word": "collaborate",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msorotmlpep45o",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "grateful",
+    "back": "感激的；感谢的 (adjective, B1)",
+    "context": "I was very **grateful** to have her by my side.",
+    "audioStart": 341.95,
+    "audioEnd": 342.71,
+    "word": "grateful",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msorotmlocd2dr",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "choreography",
+    "back": "编舞；舞蹈设计 (noun, B2)",
+    "context": "What's the quickest you've ever had to learn **choreography**?",
+    "audioStart": 354.92,
+    "audioEnd": 357.35,
+    "word": "choreography",
+    "tags": [
+      "CEFR-B2",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msorotmlvc9kz2",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "regret",
+    "back": "后悔；遗憾 (verb, B1)",
+    "context": "Are there any performances that you look back at now and **regret**?",
+    "audioStart": 373.24,
+    "audioEnd": 376.23,
+    "word": "regret",
+    "tags": [
+      "CEFR-B1",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msorotml220x3p",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "inspiration",
+    "back": "灵感；鼓舞人心的人或事 (noun, B2)",
+    "context": "She's just like a walking **inspiration** for me.",
+    "audioStart": 283.35,
+    "audioEnd": 285.91,
+    "word": "inspiration",
+    "tags": [
+      "CEFR-B2",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msorotmlwi7ul1",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "instinct",
+    "back": "本能；直觉 (noun, B2)",
+    "context": "I trust his **instinct** better than mine.",
+    "audioStart": 510.19,
+    "audioEnd": 510.87,
+    "word": "instinct",
+    "tags": [
+      "CEFR-B2",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msorotmlanvq99",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "confront",
+    "back": "面对；对峙 (verb, B2)",
+    "context": "Should I **confront** them, or will make me seem paranoid?",
+    "audioStart": 684.27,
+    "audioEnd": 686.07,
+    "word": "confront",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:11.517Z"
+  },
+  {
+    "id": "msoror7z1wx23g",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) even best days. I'm Willa Bennett and ___ this is Blind Date.",
+    "back": "this",
+    "context": "&gt;&gt; even best days. I'm Willa Bennett and &gt;&gt; even best days. I'm Willa Bennett and this is Blind Date. this is Blind Date.",
+    "audioStart": 18,
+    "audioEnd": 21,
+    "hint": "选项：he / it / this / that",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:08.399Z"
+  },
+  {
+    "id": "msoror7z224dqb",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) for you. I'm also going in blind, blind ___ date. date. date.",
+    "back": "date",
+    "context": "for you. I'm also going in blind, blind for you. I'm also going in blind, blind date. date. date. &gt;&gt; Okay. &gt;&gt; Okay. &gt;&gt; Okay. &gt;&gt; So, let's dig in. &gt;&gt; So, let's dig in. &gt;&gt; So, let's dig in. &gt;&gt; [music] &gt;&gt; [music] &gt;&gt; [music] &gt;&gt; You rap, sing, act, and dance. What &gt;&gt; You rap, sing, act, and dance. What",
+    "audioStart": 103.5,
+    "audioEnd": 109,
+    "hint": "选项：date / show / night / time",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:08.399Z"
+  },
+  {
+    "id": "msoror7zr1v3py",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) Okay, when does the Capricorn sign of ___ come out?",
+    "back": "you",
+    "context": "&gt;&gt; Okay, when does the Capricorn sign of &gt;&gt; Okay, when does the Capricorn sign of you come out? you come out? you come out? &gt;&gt; I should know this because I recently &gt;&gt; I should know this because I recently &gt;&gt; I should know this because I recently talked to my friends about astrology, talked to my friends about astrology,",
+    "audioStart": 154.2,
+    "audioEnd": 159,
+    "hint": "选项：you / her / me / him",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:08.399Z"
+  },
+  {
+    "id": "msoror7z5dxeeo",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) with him to shoot Wow, really? No, we ___ it over Zoom and video calls cuz he",
+    "back": "did",
+    "context": "with him to shoot Wow, really? No, we with him to shoot Wow, really? No, we did it over Zoom and video calls cuz he did it over Zoom and video calls cuz he",
+    "audioStart": 247.9,
+    "audioEnd": 251.8,
+    "hint": "选项：made / have / did / do",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:08.399Z"
+  },
+  {
+    "id": "msoror7zy6t390",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) such a sweetheart, and same with Lily. Lily and Gracie and I have honestly have a great time at Chanel shows ___.",
+    "back": "together",
+    "context": "such a sweetheart, and same with Lily. such a sweetheart, and same with Lily. Lily and Gracie and I have honestly have Lily and Gracie and I have honestly have Lily and Gracie and I have honestly have a great time at Chanel shows together. a great time at Chanel shows together.",
+    "audioStart": 417,
+    "audioEnd": 420.8,
+    "hint": "选项：there / tonight / often / together",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:08.399Z"
+  },
+  {
+    "id": "msoror7zkziqje",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) comfort. The guy I'm dating updates his Facebook status constantly, but he takes ___ to respond to my texts.",
+    "back": "hours",
+    "context": "comfort. comfort. &gt;&gt; The guy I'm dating updates his Facebook &gt;&gt; The guy I'm dating updates his Facebook &gt;&gt; The guy I'm dating updates his Facebook status constantly, but he takes hours to status constantly, but he takes hours to status constantly, but he takes hours to respond to my texts. respond to my texts.",
+    "audioStart": 628.1,
+    "audioEnd": 635.2,
+    "hint": "选项：days / hours / minutes / weeks",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:08.399Z"
+  },
+  {
+    "id": "msoror7z139zfk",
+    "videoId": "JMN66k0YkXQ",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) with her? Can we expect a ___ A dream. A dream.",
+    "back": "dream",
+    "context": "with her? Can we expect a with her? Can we expect a &gt;&gt; A dream. A dream. &gt;&gt; A dream. A dream. &gt;&gt; A dream. A dream. &gt;&gt; Did you catch her in Euphoria? &gt;&gt; Did you catch her in Euphoria?",
+    "audioStart": 469.3,
+    "audioEnd": 472.6,
+    "hint": "选项：date / show / night / dream",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:08.399Z"
+  },
+  {
+    "id": "msoroyynwu65us",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "spectator",
+    "back": "观众，旁观者 (noun, B1)",
+    "context": "There's a new **spectator** in the house, the President of the United States, Donald Trump.",
+    "audioStart": 744.69,
+    "audioEnd": 747.75,
+    "word": "spectator",
+    "tags": [
+      "CEFR-B1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.431Z"
+  },
+  {
+    "id": "msoroyynfq6rnz",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "trailing",
+    "back": "落后 (verb, B2)",
+    "context": "with the United States **trailing** Europe 3-1.",
+    "audioStart": 755.03,
+    "audioEnd": 758.65,
+    "word": "trailing",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.431Z"
+  },
+  {
+    "id": "msoroyynqhtigy",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "comeback",
+    "back": "逆转，复出 (noun, B1)",
+    "context": "So we'll see if the president can pull off some sort of **comeback** here with the United States trailing 3-1",
+    "audioStart": 767.69,
+    "audioEnd": 772.71,
+    "word": "comeback",
+    "tags": [
+      "CEFR-B1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.431Z"
+  },
+  {
+    "id": "msoroyynwrp7na",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "spirited",
+    "back": "激烈的，精神饱满的 (adjective, B2)",
+    "context": "we anticipate what should be a very **spirited** second session.",
+    "audioStart": 798.33,
+    "audioEnd": 799.47,
+    "word": "spirited",
+    "tags": [
+      "CEFR-B2",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.431Z"
+  },
+  {
+    "id": "msoroyyngimj7f",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "swept",
+    "back": "横扫，彻底击败 (verb, B2)",
+    "context": "the European team **swept** the Americans two years ago",
+    "audioStart": 799.87,
+    "audioEnd": 806.49,
+    "word": "swept",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.431Z"
+  },
+  {
+    "id": "msoroyynofvms6",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "securing",
+    "back": "获得，确保 (verb, B2)",
+    "context": "before it was Cantlie and Shockley **securing** the lone point",
+    "audioStart": 806.49,
+    "audioEnd": 811.33,
+    "word": "securing",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.431Z"
+  },
+  {
+    "id": "msoroyynuy08dm",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "attend",
+    "back": "参加，出席 (verb, B1)",
+    "context": "I had the best time getting to **attend** the Ryder Cup for the first time.",
+    "audioStart": 1076.56,
+    "audioEnd": 1087.62,
+    "word": "attend",
+    "tags": [
+      "CEFR-B1",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.431Z"
+  },
+  {
+    "id": "msoroyyn25adh1",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "procrastinating",
+    "back": "拖延 (verb, B2)",
+    "context": "So I'm kind of just **procrastinating**.",
+    "audioStart": 1223.76,
+    "audioEnd": 1226.41,
+    "word": "procrastinating",
+    "tags": [
+      "CEFR-B2",
+      "verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.431Z"
+  },
+  {
+    "id": "msoroyynr07kq0",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "exhausted",
+    "back": "精疲力竭的 (adjective, B1)",
+    "context": "because I'm **exhausted** and put my pajamas on",
+    "audioStart": 1242.32,
+    "audioEnd": 1246.67,
+    "word": "exhausted",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.432Z"
+  },
+  {
+    "id": "msoroyyo5qjiae",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "bloated",
+    "back": "腹胀的 (adjective, B2)",
+    "context": "My stomach is so **bloated** right now because I am gluten free",
+    "audioStart": 1690.14,
+    "audioEnd": 1695.06,
+    "word": "bloated",
+    "tags": [
+      "CEFR-B2",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:18.432Z"
+  },
+  {
+    "id": "msoroy5q2h83rr",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) I started realizing that I can't really wear like ___ anymore on the plane.",
+    "back": "sweatpants",
+    "context": "I started realizing that I can't really wear like sweatpants anymore on the plane.",
+    "audioStart": 43.5,
+    "audioEnd": 47.9,
+    "hint": "选项：sweatpants / shorts / dress / jeans",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:17.390Z"
+  },
+  {
+    "id": "msoroy5qo8ek37",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) I cut my belt and I was thinking about wearing this like ___ tank top",
+    "back": "blue",
+    "context": "I cut my belt and I was thinking about wearing this like blue tank top",
+    "audioStart": 252.9,
+    "audioEnd": 259,
+    "hint": "选项：blue / white / red / black",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:17.390Z"
+  },
+  {
+    "id": "msoroy5qaaw40x",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) now we're heading to the ___.",
+    "back": "range",
+    "context": "now we're heading to the range.",
+    "audioStart": 1367.7,
+    "audioEnd": 1371.1,
+    "hint": "选项：range / park / store / office",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:17.390Z"
+  },
+  {
+    "id": "msoroy5qwj717u",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) He's coming down ___ I think.",
+    "back": "shortly",
+    "context": "He's coming down shortly I think.",
+    "audioStart": 1339.9,
+    "audioEnd": 1343.3,
+    "hint": "选项：quickly / later / soon / shortly",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:17.390Z"
+  },
+  {
+    "id": "msoroy5qowvro4",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) There's a new ___ in the house, the President of the United States, Donald Trump.",
+    "back": "spectator",
+    "context": "There's a new spectator in the house, the President of the United States, Donald Trump.",
+    "audioStart": 0,
+    "audioEnd": 5.3,
+    "hint": "选项：visitor / spectator / player / member",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:17.390Z"
+  },
+  {
+    "id": "msoroy5qg1itov",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) Mmm This is just what I needed So ___",
+    "back": "good",
+    "context": "Mmm This is just what I needed So good",
+    "audioStart": 1271.7,
+    "audioEnd": 1276.7,
+    "hint": "选项：great / good / nice / bad",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:17.390Z"
+  },
+  {
+    "id": "msoroy5q7vymhm",
+    "videoId": "rW8YmfqHhrA",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) playing this course is honestly ___ it's really nice horse yeah it's cold besides that",
+    "back": "sick",
+    "context": "playing this course is honestly sick it's really nice horse yeah it's cold besides that",
+    "audioStart": 1398.4,
+    "audioEnd": 1406.3,
+    "hint": "选项：boring / tired / hard / sick",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:17.390Z"
+  },
+  {
+    "id": "msorp5cob8u88p",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "deserted",
+    "back": "荒芜的，无人居住的 (adjective, B1)",
+    "context": "Who would you bring with you to a **deserted** island?",
+    "audioStart": 18.86,
+    "audioEnd": 21.38,
+    "word": "deserted",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.712Z"
+  },
+  {
+    "id": "msorp5coo0njrs",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "no-brainer",
+    "back": "无需思考的事，显而易见的选择 (noun, B2)",
+    "context": "That's a **no-brainer** for me.",
+    "audioStart": 24.06,
+    "audioEnd": 25.16,
+    "word": "no-brainer",
+    "tags": [
+      "CEFR-B2",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cp1881tt",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "chill out",
+    "back": "放松，冷静下来 (phrasal verb, B1)",
+    "context": "**Chill out**.",
+    "audioStart": 34.52,
+    "audioEnd": 35.5,
+    "word": "chill out",
+    "tags": [
+      "CEFR-B1",
+      "phrasal verb"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cpn1tpdo",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "vegetarian",
+    "back": "素食的 (adjective, B1)",
+    "context": "I'd be that big, huge, big, long-necked **vegetarian** one.",
+    "audioStart": 45.74,
+    "audioEnd": 49.52,
+    "word": "vegetarian",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cp2gqz9u",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "diehard",
+    "back": "死忠的，顽固的 (adjective, B2)",
+    "context": "And then I was a, you know, I was a **diehard** Star Wars film for when I was a kid.",
+    "audioStart": 82.88,
+    "audioEnd": 83.64,
+    "word": "diehard",
+    "tags": [
+      "CEFR-B2",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cpedz0wg",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "extraordinary",
+    "back": "非凡的，特别的 (adjective, B1)",
+    "context": "Mongolia is one of the most **extraordinary** places I've ever been to.",
+    "audioStart": 108.86,
+    "audioEnd": 114.04,
+    "word": "extraordinary",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cpml3dhn",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "extinct",
+    "back": "灭绝的 (adjective, B1)",
+    "context": "What **extinct** creature would you bring back?",
+    "audioStart": 125.38,
+    "audioEnd": 128.04,
+    "word": "extinct",
+    "tags": [
+      "CEFR-B1",
+      "adjective"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cpuplkia",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "civility",
+    "back": "礼貌，文明 (noun, C1)",
+    "context": "I mean, **civility**, the democratic process.",
+    "audioStart": 129.28,
+    "audioEnd": 134.66,
+    "word": "civility",
+    "tags": [
+      "CEFR-C1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cphpqw0n",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "optimism",
+    "back": "乐观，乐观主义 (noun, B2)",
+    "context": "I love your **optimism**.",
+    "audioStart": 153.56,
+    "audioEnd": 154.28,
+    "word": "optimism",
+    "tags": [
+      "CEFR-B2",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cp942wy2",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "haggis",
+    "back": "哈吉斯（苏格兰传统食物） (noun, B2)",
+    "context": "Well, the obvious answer is **haggis**, because you don't really get that anywhere else.",
+    "audioStart": 174.22,
+    "audioEnd": 178,
+    "word": "haggis",
+    "tags": [
+      "CEFR-B2",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cpca8sq2",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "crisis",
+    "back": "危机 (noun, B1)",
+    "context": "Are you good in a **crisis**?",
+    "audioStart": 243.02,
+    "audioEnd": 244.12,
+    "word": "crisis",
+    "tags": [
+      "CEFR-B1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp5cpwdiuo1",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "vocab",
+    "type": "recognition",
+    "front": "osmosis",
+    "back": "潜移默化，渗透 (noun, C1)",
+    "context": "I'm like just kind of hoping I absorb it by **osmosis** yeah not really working at it.",
+    "audioStart": 301.05,
+    "audioEnd": 304.15,
+    "word": "osmosis",
+    "tags": [
+      "CEFR-C1",
+      "noun"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:26.713Z"
+  },
+  {
+    "id": "msorp3ygy3h8v0",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) Oh, you know, I did just recently watch My Best Friend's ___",
+    "back": "Wedding",
+    "context": "Oh, you know, I did just recently watch My Best Friend's Wedding.",
+    "audioStart": 58.8,
+    "audioEnd": 63.6,
+    "hint": "选项：Party / Birthday / Wedding / Funeral",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:24.904Z"
+  },
+  {
+    "id": "msorp3ygzx2lkv",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) Doritos were invented at Disneyland much the same way. Oh, is that ___?",
+    "back": "right",
+    "context": "Doritos were invented at Disneyland much the same way. Oh, is that right?",
+    "audioStart": 210.1,
+    "audioEnd": 213.3,
+    "hint": "选项：right / possible / wrong / true",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:24.904Z"
+  },
+  {
+    "id": "msorp3yghxn8bq",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) Yeah, yeah. Mine is not about being in the ___",
+    "back": "wilderness",
+    "context": "Yeah, yeah. Mine is not about being in the wilderness.",
+    "audioStart": 282.1,
+    "audioEnd": 285.3,
+    "hint": "选项：desert / forest / city / wilderness",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:24.904Z"
+  },
+  {
+    "id": "msorp3yg1q6cbb",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) It became a sort of cultural ___ that I don't love the idea that that's",
+    "back": "icon",
+    "context": "It became a sort of cultural icon that I don't love the idea that that's",
+    "audioStart": 192.1,
+    "audioEnd": 196.9,
+    "hint": "选项：symbol / legend / icon / hero",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:24.904Z"
+  },
+  {
+    "id": "msorp3ygjbed9r",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) Okay, mine to you is, if you were a dinosaur, which dinosaur would you ___?",
+    "back": "be",
+    "context": "Okay, mine to you is, if you were a dinosaur, which dinosaur would you be?",
+    "audioStart": 40.3,
+    "audioEnd": 44.9,
+    "hint": "选项：see / be / like / choose",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:24.904Z"
+  },
+  {
+    "id": "msorp3yg8ajw4l",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) I go very, very ___ and very, very calm.",
+    "back": "practical",
+    "context": "I go very, very practical and very, very calm.",
+    "audioStart": 246.5,
+    "audioEnd": 249.9,
+    "hint": "选项：careful / theoretical / practical / emotional",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:24.904Z"
+  },
+  {
+    "id": "msorp3ygijtr7b",
+    "videoId": "y_EGU1bL7R0",
+    "dimension": "listening",
+    "type": "audio_fill",
+    "front": "(听音频) because I've moved back there after a long, long time not ___ there.",
+    "back": "living",
+    "context": "because I've moved back there after a long, long time not living there.",
+    "audioStart": 101.9,
+    "audioEnd": 105.6,
+    "hint": "选项：living / studying / working / visiting",
+    "tags": [
+      "fill-in-blank"
+    ],
+    "owner": "__shared__",
+    "source": "ai",
+    "reviewedByAdmin": false,
+    "createdAt": "2026-08-11T14:40:24.904Z"
   }
 ]

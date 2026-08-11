@@ -1,0 +1,379 @@
+{
+  "videoId": "y_EGU1bL7R0",
+  "generatedAt": "2026-08-11T14:40:26.713Z",
+  "cards": [
+    {
+      "id": "msorp5cob8u88p",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "deserted",
+      "back": "荒芜的，无人居住的 (adjective, B1)",
+      "context": "Who would you bring with you to a **deserted** island?",
+      "audioStart": 18.86,
+      "audioEnd": 21.38,
+      "word": "deserted",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.712Z"
+    },
+    {
+      "id": "msorp5coo0njrs",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "no-brainer",
+      "back": "无需思考的事，显而易见的选择 (noun, B2)",
+      "context": "That's a **no-brainer** for me.",
+      "audioStart": 24.06,
+      "audioEnd": 25.16,
+      "word": "no-brainer",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cp1881tt",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "chill out",
+      "back": "放松，冷静下来 (phrasal verb, B1)",
+      "context": "**Chill out**.",
+      "audioStart": 34.52,
+      "audioEnd": 35.5,
+      "word": "chill out",
+      "tags": [
+        "CEFR-B1",
+        "phrasal verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cpn1tpdo",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vegetarian",
+      "back": "素食的 (adjective, B1)",
+      "context": "I'd be that big, huge, big, long-necked **vegetarian** one.",
+      "audioStart": 45.74,
+      "audioEnd": 49.52,
+      "word": "vegetarian",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cp2gqz9u",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "diehard",
+      "back": "死忠的，顽固的 (adjective, B2)",
+      "context": "And then I was a, you know, I was a **diehard** Star Wars film for when I was a kid.",
+      "audioStart": 82.88,
+      "audioEnd": 83.64,
+      "word": "diehard",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cpedz0wg",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "extraordinary",
+      "back": "非凡的，特别的 (adjective, B1)",
+      "context": "Mongolia is one of the most **extraordinary** places I've ever been to.",
+      "audioStart": 108.86,
+      "audioEnd": 114.04,
+      "word": "extraordinary",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cpml3dhn",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "extinct",
+      "back": "灭绝的 (adjective, B1)",
+      "context": "What **extinct** creature would you bring back?",
+      "audioStart": 125.38,
+      "audioEnd": 128.04,
+      "word": "extinct",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cpuplkia",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "civility",
+      "back": "礼貌，文明 (noun, C1)",
+      "context": "I mean, **civility**, the democratic process.",
+      "audioStart": 129.28,
+      "audioEnd": 134.66,
+      "word": "civility",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cphpqw0n",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "optimism",
+      "back": "乐观，乐观主义 (noun, B2)",
+      "context": "I love your **optimism**.",
+      "audioStart": 153.56,
+      "audioEnd": 154.28,
+      "word": "optimism",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cp942wy2",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "haggis",
+      "back": "哈吉斯（苏格兰传统食物） (noun, B2)",
+      "context": "Well, the obvious answer is **haggis**, because you don't really get that anywhere else.",
+      "audioStart": 174.22,
+      "audioEnd": 178,
+      "word": "haggis",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cpca8sq2",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "crisis",
+      "back": "危机 (noun, B1)",
+      "context": "Are you good in a **crisis**?",
+      "audioStart": 243.02,
+      "audioEnd": 244.12,
+      "word": "crisis",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp5cpwdiuo1",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "osmosis",
+      "back": "潜移默化，渗透 (noun, C1)",
+      "context": "I'm like just kind of hoping I absorb it by **osmosis** yeah not really working at it.",
+      "audioStart": 301.05,
+      "audioEnd": 304.15,
+      "word": "osmosis",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:26.713Z"
+    },
+    {
+      "id": "msorp3ygy3h8v0",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Oh, you know, I did just recently watch My Best Friend's ___",
+      "back": "Wedding",
+      "context": "Oh, you know, I did just recently watch My Best Friend's Wedding.",
+      "audioStart": 58.8,
+      "audioEnd": 63.6,
+      "hint": "选项：Party / Birthday / Wedding / Funeral",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:24.904Z"
+    },
+    {
+      "id": "msorp3ygzx2lkv",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Doritos were invented at Disneyland much the same way. Oh, is that ___?",
+      "back": "right",
+      "context": "Doritos were invented at Disneyland much the same way. Oh, is that right?",
+      "audioStart": 210.1,
+      "audioEnd": 213.3,
+      "hint": "选项：right / possible / wrong / true",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:24.904Z"
+    },
+    {
+      "id": "msorp3yghxn8bq",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Yeah, yeah. Mine is not about being in the ___",
+      "back": "wilderness",
+      "context": "Yeah, yeah. Mine is not about being in the wilderness.",
+      "audioStart": 282.1,
+      "audioEnd": 285.3,
+      "hint": "选项：desert / forest / city / wilderness",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:24.904Z"
+    },
+    {
+      "id": "msorp3yg1q6cbb",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) It became a sort of cultural ___ that I don't love the idea that that's",
+      "back": "icon",
+      "context": "It became a sort of cultural icon that I don't love the idea that that's",
+      "audioStart": 192.1,
+      "audioEnd": 196.9,
+      "hint": "选项：symbol / legend / icon / hero",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:24.904Z"
+    },
+    {
+      "id": "msorp3ygjbed9r",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Okay, mine to you is, if you were a dinosaur, which dinosaur would you ___?",
+      "back": "be",
+      "context": "Okay, mine to you is, if you were a dinosaur, which dinosaur would you be?",
+      "audioStart": 40.3,
+      "audioEnd": 44.9,
+      "hint": "选项：see / be / like / choose",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:24.904Z"
+    },
+    {
+      "id": "msorp3yg8ajw4l",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I go very, very ___ and very, very calm.",
+      "back": "practical",
+      "context": "I go very, very practical and very, very calm.",
+      "audioStart": 246.5,
+      "audioEnd": 249.9,
+      "hint": "选项：careful / theoretical / practical / emotional",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:24.904Z"
+    },
+    {
+      "id": "msorp3ygijtr7b",
+      "videoId": "y_EGU1bL7R0",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) because I've moved back there after a long, long time not ___ there.",
+      "back": "living",
+      "context": "because I've moved back there after a long, long time not living there.",
+      "audioStart": 101.9,
+      "audioEnd": 105.6,
+      "hint": "选项：living / studying / working / visiting",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:24.904Z"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "videoId": "rW8YmfqHhrA",
+  "generatedAt": "2026-08-11T14:40:18.432Z",
+  "cards": [
+    {
+      "id": "msoroyynwu65us",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "spectator",
+      "back": "观众，旁观者 (noun, B1)",
+      "context": "There's a new **spectator** in the house, the President of the United States, Donald Trump.",
+      "audioStart": 744.69,
+      "audioEnd": 747.75,
+      "word": "spectator",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.431Z"
+    },
+    {
+      "id": "msoroyynfq6rnz",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "trailing",
+      "back": "落后 (verb, B2)",
+      "context": "with the United States **trailing** Europe 3-1.",
+      "audioStart": 755.03,
+      "audioEnd": 758.65,
+      "word": "trailing",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.431Z"
+    },
+    {
+      "id": "msoroyynqhtigy",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "comeback",
+      "back": "逆转，复出 (noun, B1)",
+      "context": "So we'll see if the president can pull off some sort of **comeback** here with the United States trailing 3-1",
+      "audioStart": 767.69,
+      "audioEnd": 772.71,
+      "word": "comeback",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.431Z"
+    },
+    {
+      "id": "msoroyynwrp7na",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "spirited",
+      "back": "激烈的，精神饱满的 (adjective, B2)",
+      "context": "we anticipate what should be a very **spirited** second session.",
+      "audioStart": 798.33,
+      "audioEnd": 799.47,
+      "word": "spirited",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.431Z"
+    },
+    {
+      "id": "msoroyyngimj7f",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "swept",
+      "back": "横扫，彻底击败 (verb, B2)",
+      "context": "the European team **swept** the Americans two years ago",
+      "audioStart": 799.87,
+      "audioEnd": 806.49,
+      "word": "swept",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.431Z"
+    },
+    {
+      "id": "msoroyynofvms6",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "securing",
+      "back": "获得，确保 (verb, B2)",
+      "context": "before it was Cantlie and Shockley **securing** the lone point",
+      "audioStart": 806.49,
+      "audioEnd": 811.33,
+      "word": "securing",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.431Z"
+    },
+    {
+      "id": "msoroyynuy08dm",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "attend",
+      "back": "参加，出席 (verb, B1)",
+      "context": "I had the best time getting to **attend** the Ryder Cup for the first time.",
+      "audioStart": 1076.56,
+      "audioEnd": 1087.62,
+      "word": "attend",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.431Z"
+    },
+    {
+      "id": "msoroyyn25adh1",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "procrastinating",
+      "back": "拖延 (verb, B2)",
+      "context": "So I'm kind of just **procrastinating**.",
+      "audioStart": 1223.76,
+      "audioEnd": 1226.41,
+      "word": "procrastinating",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.431Z"
+    },
+    {
+      "id": "msoroyynr07kq0",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "exhausted",
+      "back": "精疲力竭的 (adjective, B1)",
+      "context": "because I'm **exhausted** and put my pajamas on",
+      "audioStart": 1242.32,
+      "audioEnd": 1246.67,
+      "word": "exhausted",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.432Z"
+    },
+    {
+      "id": "msoroyyo5qjiae",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "bloated",
+      "back": "腹胀的 (adjective, B2)",
+      "context": "My stomach is so **bloated** right now because I am gluten free",
+      "audioStart": 1690.14,
+      "audioEnd": 1695.06,
+      "word": "bloated",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:18.432Z"
+    },
+    {
+      "id": "msoroy5q2h83rr",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I started realizing that I can't really wear like ___ anymore on the plane.",
+      "back": "sweatpants",
+      "context": "I started realizing that I can't really wear like sweatpants anymore on the plane.",
+      "audioStart": 43.5,
+      "audioEnd": 47.9,
+      "hint": "选项：sweatpants / shorts / dress / jeans",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:17.390Z"
+    },
+    {
+      "id": "msoroy5qo8ek37",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I cut my belt and I was thinking about wearing this like ___ tank top",
+      "back": "blue",
+      "context": "I cut my belt and I was thinking about wearing this like blue tank top",
+      "audioStart": 252.9,
+      "audioEnd": 259,
+      "hint": "选项：blue / white / red / black",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:17.390Z"
+    },
+    {
+      "id": "msoroy5qaaw40x",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) now we're heading to the ___.",
+      "back": "range",
+      "context": "now we're heading to the range.",
+      "audioStart": 1367.7,
+      "audioEnd": 1371.1,
+      "hint": "选项：range / park / store / office",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:17.390Z"
+    },
+    {
+      "id": "msoroy5qbx2ub6",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) so it's really, really cool just to be here and ___ it all in, because,",
+      "back": "soak",
+      "context": "so it's really, really cool just to be here and soak it all in, because,",
+      "audioStart": 1160.1,
+      "audioEnd": 1163.6,
+      "hint": "选项：take / soak / bring / put",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:17.390Z"
+    },
+    {
+      "id": "msoroy5qwj717u",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) He's coming down ___ I think.",
+      "back": "shortly",
+      "context": "He's coming down shortly I think.",
+      "audioStart": 1339.9,
+      "audioEnd": 1343.3,
+      "hint": "选项：quickly / later / soon / shortly",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:17.390Z"
+    },
+    {
+      "id": "msoroy5qowvro4",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) There's a new ___ in the house, the President of the United States, Donald Trump.",
+      "back": "spectator",
+      "context": "There's a new spectator in the house, the President of the United States, Donald Trump.",
+      "audioStart": 0,
+      "audioEnd": 5.3,
+      "hint": "选项：visitor / spectator / player / member",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:17.390Z"
+    },
+    {
+      "id": "msoroy5qg1itov",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Mmm This is just what I needed So ___",
+      "back": "good",
+      "context": "Mmm This is just what I needed So good",
+      "audioStart": 1271.7,
+      "audioEnd": 1276.7,
+      "hint": "选项：great / good / nice / bad",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:17.390Z"
+    },
+    {
+      "id": "msoroy5q7vymhm",
+      "videoId": "rW8YmfqHhrA",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) playing this course is honestly ___ it's really nice horse yeah it's cold besides that",
+      "back": "sick",
+      "context": "playing this course is honestly sick it's really nice horse yeah it's cold besides that",
+      "audioStart": 1398.4,
+      "audioEnd": 1406.3,
+      "hint": "选项：boring / tired / hard / sick",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:17.390Z"
+    }
+  ]
+}

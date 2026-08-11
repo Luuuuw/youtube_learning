@@ -1,13 +1,13 @@
 {
   "videoId": "9oRFgiL7Jj8",
   "title": "9oRFgiL7Jj8",
-  "generatedAt": "2026-08-10T10:43:46.078Z",
+  "generatedAt": "2026-08-11T14:34:51.190Z",
   "version": 1,
   "totalQuestions": 25,
   "stats": {
-    "easy": 10,
-    "medium": 11,
-    "hard": 4,
+    "easy": 9,
+    "medium": 13,
+    "hard": 3,
     "choice": 21,
     "speaking": 4
   },
@@ -15,15 +15,15 @@
     {
       "id": 1,
       "type": "choice",
-      "question": "What does the speaker mean by saying 2026 is 'the year of less'?",
+      "question": "What does the phrase \"the year of less\" mean at the beginning of the video?",
       "options": [
-        "A) A year with fewer holidays",
-        "B) A year focused on reducing consumption and screen time",
-        "C) A year with less income",
-        "D) A year with fewer people in the world"
+        "A) A year with fewer holidays and less celebration",
+        "B) A year focused on consuming less and embracing minimalism",
+        "C) A year with less money available to spend",
+        "D) A year with fewer social gatherings"
       ],
       "answer": "B",
-      "explanation": "在这段视频开头，说话者提到2026年是'the year of less'，结合视频整体内容（减少手机使用、少刷社交媒体、少消费），她指的并不是具体某件东西变少，而是一种生活理念——减少不必要的消费和屏幕时间，过更简约、更有质量的生活。",
+      "explanation": "\"The year of less\" 指 2026 年呈现出的趋势：人们开始追求更少消费、更少刷社交媒体、更专注于真实生活。这是近年来极简主义和数字排毒（digital detox）潮流的体现，与视频反社交媒体的主题一致。",
       "referenceAnswer": "",
       "hint": "",
       "startTime": 0,
@@ -31,545 +31,540 @@
       "difficulty": "easy",
       "relatedWords": [
         "year of less",
-        "consumption",
-        "minimalism"
+        "minimalism",
+        "trend"
       ]
     },
     {
       "id": 2,
       "type": "choice",
-      "question": "According to the speaker, which abilities are affected by excessive phone use?",
+      "question": "What kind of \"posts\" is the speaker referring to when they say \"you've probably seen posts like this\"?",
       "options": [
-        "A) Cooking, cleaning, and driving",
-        "B) Reaction time, thinking time, and ability to hold conversation",
-        "C) Reading, writing, and arithmetic",
-        "D) Sleeping, eating, and exercising"
+        "A) Academic research articles about technology",
+        "B) Job recruitment posts on LinkedIn",
+        "C) Social media posts about quitting social media or doing a digital detox",
+        "D) News articles covering political events"
       ],
-      "answer": "B",
-      "explanation": "在原文中，说话者明确提到：'Your like reaction time, your thinking time, your ability to like withhold conversation...' 也就是反应时间、思考时间以及与人持续对话的能力都受到了影响。这是过度使用手机/社交媒体的常见后果。",
+      "answer": "C",
+      "explanation": "结合视频主题（反社交媒体、回归现实生活），这里的\"posts like this\"指的是鼓励人们退出社交媒体、进行数字排毒的帖子，反映了当时流行的反社交媒体潮流。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 320.6,
-      "endTime": 326.2,
+      "startTime": 9.8,
+      "endTime": 14.7,
       "difficulty": "medium",
       "relatedWords": [
-        "reaction time",
-        "thinking time",
-        "conversation"
+        "social media",
+        "posts",
+        "digital detox"
       ]
     },
     {
       "id": 3,
       "type": "choice",
-      "question": "What does the phrase 'skim over' mean in this context?",
+      "question": "What concern does the speaker raise about AI in the video?",
       "options": [
-        "A) To read something carefully and thoroughly",
-        "B) To skip or glance through something quickly without deep focus",
-        "C) To memorize something by heart",
-        "D) To translate something into another language"
+        "A) AI is too expensive for most people to use",
+        "B) AI will take over all jobs within a few years",
+        "C) AI may replace human creativity, family recipes, and personal expression",
+        "D) AI cannot understand the English language correctly"
       ],
-      "answer": "B",
-      "explanation": "'Skim over' 是一个常见的英语短语，意思是快速浏览、走马观花地看，没有深入阅读或理解。说话者在这里对比了'skim over'（快速浏览文章）和'sit down and read'（坐下来认真阅读），强调如今人们很难专注地完整阅读。",
+      "answer": "C",
+      "explanation": "演讲者担心 AI 会取代家庭食谱（family recipes）并使艺术远离个人表达（art drifts away from personal expression），这是对 AI 时代人文价值流失的担忧，与视频倡导回归真实生活的主题一致。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 332.4,
-      "endTime": 336.2,
+      "startTime": 61.4,
+      "endTime": 67.3,
       "difficulty": "medium",
       "relatedWords": [
-        "skim over",
-        "read",
-        "focus"
+        "AI",
+        "family recipes",
+        "personal expression"
       ]
     },
     {
       "id": 4,
       "type": "choice",
-      "question": "What does the speaker mean by 'my brain just could not sit with something for a long period of time'?",
+      "question": "According to the speaker, what positive changes occur when people spend less time on their phones?",
       "options": [
-        "A) She couldn't find a comfortable place to sit",
-        "B) She was physically unable to stay still",
-        "C) She couldn't focus on one thing for an extended period",
-        "D) She forgot things after sitting for too long"
+        "A) They become richer and more famous",
+        "B) They become more patient, more present, and more kind",
+        "C) They gain more followers on social media",
+        "D) They receive more free product samples"
       ],
-      "answer": "C",
-      "explanation": "这句话中的'sit with something'是一种形象表达，意思是'持续专注在某件事上'。说话者用这句话表达自己因为频繁刷手机，导致大脑无法长时间专注于同一件事，注意力变得碎片化。",
+      "answer": "B",
+      "explanation": "演讲者明确指出：\"We're more patient, more present, more kind.\" 这是放下手机后人们在心理和人际关系上变得更积极的表现。\"present\" 在这里是\"全神贯注、当下\"的意思。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 344.8,
-      "endTime": 348.3,
-      "difficulty": "medium",
+      "startTime": 87.2,
+      "endTime": 89.9,
+      "difficulty": "easy",
       "relatedWords": [
-        "focus",
-        "attention span",
-        "sit with"
+        "patient",
+        "present",
+        "kind"
       ]
     },
     {
       "id": 5,
       "type": "choice",
-      "question": "What does the idiom 'a big red flag' mean in the context?",
+      "question": "What does the word \"relearning\" imply in \"we are relearning how to enjoy our offline life\"?",
       "options": [
-        "A) A literal red flag used as a warning sign at the beach",
-        "B) A sign or signal that indicates something is wrong or problematic",
-        "C) A celebration or festive event",
-        "D) A type of warning light on a car dashboard"
+        "A) We are learning about offline life for the very first time",
+        "B) We once knew how to enjoy offline life but forgot because of digital distractions",
+        "C) Offline life is more difficult than online life",
+        "D) We are teaching others about offline life"
       ],
       "answer": "B",
-      "explanation": "'Red flag'（红旗）是英语中常用的习语，指警示信号，表示某事可能有问题或危险。说话者用'big red flag'来形容自己身体出现的不适症状（头疼），认为这是手机使用过度的警告信号。",
+      "explanation": "\"Relearning\" 意为\"重新学习\"，暗示这是一种曾经拥有的能力，因为沉迷于数字设备而暂时遗忘，现在需要重新拾起。这反映了现代社会被科技改变后的一种反思。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 351.2,
-      "endTime": 353,
-      "difficulty": "easy",
+      "startTime": 109.8,
+      "endTime": 113.5,
+      "difficulty": "hard",
       "relatedWords": [
-        "red flag",
-        "warning sign",
-        "symptom"
+        "relearning",
+        "offline",
+        "enjoy"
       ]
     },
     {
       "id": 6,
       "type": "choice",
-      "question": "What physical symptom did the speaker experience as a result of excessive screen time?",
+      "question": "What is \"funny\" or ironic about the situation described in the video?",
       "options": [
-        "A) Back pain",
-        "B) Headaches at the end of the day",
-        "C) Stomach problems",
-        "D) Blurred vision"
+        "A) People are spending much more time on social media than ever before",
+        "B) People are using social media to influence each other to leave social media",
+        "C) People are making lots of money by posting funny content",
+        "D) People are getting bored with funny videos"
       ],
       "answer": "B",
-      "explanation": "原文中明确提到：'I also noticed I started getting headaches at the end of the day.'（我还注意到我开始在一天结束时头疼。）这是她意识到手机使用过度的一个身体信号。",
+      "explanation": "原句 \"it's kind of funny that we're influencing each other on social media to get off of social media\" 揭示了一种反讽：用社交媒体本身来劝人退出社交媒体。这是社交媒体时代的一种自相矛盾的现象。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 353,
-      "endTime": 356.4,
-      "difficulty": "easy",
+      "startTime": 161.9,
+      "endTime": 167.8,
+      "difficulty": "hard",
       "relatedWords": [
-        "headache",
-        "screen time",
-        "symptom"
+        "social media",
+        "influence",
+        "irony"
       ]
     },
     {
       "id": 7,
       "type": "choice",
-      "question": "What does the speaker mean by 'over consuming' in this context?",
+      "question": "What does \"check out what's going on in social media\" mean in everyday English?",
       "options": [
-        "A) Eating too much food",
-        "B) Spending too much money on shopping",
-        "C) Taking in too much content, especially through social media",
-        "D) Drinking too many beverages"
+        "A) Buy trending products advertised online",
+        "B) Browse social media to see updates and news from others",
+        "C) Create new posts on social media platforms",
+        "D) Delete social media accounts entirely"
       ],
-      "answer": "C",
-      "explanation": "在这段视频中，'over consuming'特指信息过载，特别是社交媒体上的内容消费过度。说话者用这个词来描述现代人不断地刷视频、看帖子，导致大脑超负荷运转的现象。",
+      "answer": "B",
+      "explanation": "\"Check out\" 在这里是口语化的\"看看、浏览\"，整句意为\"看看社交媒体上发生了什么\"，是很多人下意识会做的动作（mindless scrolling），也是演讲者希望人们减少的行为之一。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 367.7,
-      "endTime": 369.9,
-      "difficulty": "medium",
+      "startTime": 228.6,
+      "endTime": 232,
+      "difficulty": "easy",
       "relatedWords": [
-        "over consuming",
-        "content",
-        "social media"
+        "check out",
+        "social media",
+        "browse"
       ]
     },
     {
       "id": 8,
       "type": "choice",
-      "question": "What does it mean to 'set boundaries' with your phone?",
+      "question": "What does the speaker admit about their phone use in the sentence \"I had been on my phone probably way too long than I needed to be\"?",
       "options": [
-        "A) To buy a new phone with restrictions",
-        "B) To establish rules or limits for when and how you use your phone",
-        "C) To draw lines on your phone screen",
-        "D) To give your phone to someone else to manage"
+        "A) They never use their phone at all",
+        "B) They probably used their phone much longer than was necessary",
+        "C) They used their phone for exactly the right amount of time",
+        "D) They used their phone for less time than they wanted"
       ],
       "answer": "B",
-      "explanation": "'Set boundaries'（设定界限）是指为自己制定规则和限制。说话者提到她个人努力'set boundaries'（设定界限），也就是给自己制定手机使用的规则，限制使用时间和场景。",
+      "explanation": "原句用过去完成进行时（had been on），强调持续时间。\"way too long than I needed\" 是非正式但常见的口语表达，意为\"远超所需时间\"。说话者承认自己刷手机时间过长。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 402.9,
-      "endTime": 406.6,
-      "difficulty": "easy",
+      "startTime": 259.4,
+      "endTime": 263.6,
+      "difficulty": "medium",
       "relatedWords": [
-        "set boundaries",
-        "rules",
-        "limits"
+        "phone",
+        "too long",
+        "excessive"
       ]
     },
     {
       "id": 9,
       "type": "choice",
-      "question": "What does the speaker imply by saying 'I thought I had discipline'?",
+      "question": "What does \"jumping to the next thing\" describe in the video?",
       "options": [
-        "A) She believes she has strong self-control in all areas",
-        "B) She realized her self-discipline wasn't strong enough to resist social media",
-        "C) She is very strict with her children",
-        "D) She exercises discipline every morning"
+        "A) A type of physical exercise or sport",
+        "B) The anxious habit of always moving on without being present",
+        "C) Watching a sequence of short videos",
+        "D) A popular form of modern dance"
       ],
       "answer": "B",
-      "explanation": "说话者说'I thought I had discipline'，结合后文可知，她原本以为自己的自律能力足够强，但后来发现面对社交媒体的诱惑，自律并不够用。这是一种自我反思，承认自己高估了意志力。",
+      "explanation": "\"Jumping to the next thing\" 在这里比喻现代人总在不断切换注意力、无法停留在当下的焦虑状态。这也是演讲者希望人们通过远离手机来打破的习惯。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 412.2,
-      "endTime": 415.8,
-      "difficulty": "hard",
+      "startTime": 348.3,
+      "endTime": 350.8,
+      "difficulty": "medium",
       "relatedWords": [
-        "discipline",
-        "self-control",
-        "realization"
+        "jumping",
+        "next",
+        "anxious"
       ]
     },
     {
       "id": 10,
       "type": "choice",
-      "question": "What does 'it was way too easy to just go back on social media' suggest?",
+      "question": "According to the speaker, what has \"gotten so out of control\"?",
       "options": [
-        "A) Social media is very user-friendly",
-        "B) Returning to social media is highly addictive and hard to resist",
-        "C) Social media apps load very quickly",
-        "D) It's easy to delete social media apps"
+        "A) Traffic congestion in major cities",
+        "B) The number of advertisements being served on social media",
+        "C) The art of home cooking",
+        "D) The unpredictable weather"
       ],
       "answer": "B",
-      "explanation": "这句话表达了社交媒体极强的成瘾性——即使下定决心不用，也很容易就重新开始刷。'Way too easy'（太容易了）暗示这种诱惑难以抗拒，反映出社交媒体的成瘾机制。",
+      "explanation": "原句提到 \"our favorite influencer, we were served an ad... has gotten so out of control\"，指出我们不断被推送广告的现象已经失控，这是社交媒体过度商业化的问题之一。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 448.4,
-      "endTime": 451.9,
+      "startTime": 373.8,
+      "endTime": 378.9,
       "difficulty": "medium",
       "relatedWords": [
-        "addictive",
-        "social media",
-        "temptation"
+        "ad",
+        "out of control",
+        "advertising"
       ]
     },
     {
       "id": 11,
       "type": "choice",
-      "question": "According to the speaker, what helps her get off her phone?",
+      "question": "What does the expression \"kept hitting ignore\" mean in the video?",
       "options": [
-        "A) Watching more TV",
-        "B) Engaging in other activities (hobbies, etc.)",
-        "C) Buying a new phone",
-        "D) Taking sleeping pills"
+        "A) Physically hitting an ignore button on a machine",
+        "B) Continuously dismissing or not responding to notifications and calls",
+        "C) Verbally attacking and ignoring someone",
+        "D) Forgetting about a personal problem completely"
       ],
       "answer": "B",
-      "explanation": "原文说：'This not only helps me get off of my phone, but I feel like I'm...'，结合上下文，她指的是培养兴趣爱好等活动，让自己不再依赖手机。这些活动让她有更多有意义的事情可做。",
+      "explanation": "\"Hitting ignore\" 是个口语表达，指对来电或通知按\"忽略/拒绝\"键（尤其在 iPhone 上是按电源键两次）。\"kept hitting ignore\" 表示说话者一直选择无视手机的提示。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 446.1,
+      "endTime": 448.4,
+      "difficulty": "easy",
+      "relatedWords": [
+        "ignore",
+        "notification",
+        "phone"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "question": "What is the main benefit the speaker has experienced from setting \"off hours\" with no social media?",
+      "options": [
+        "A) Gaining more followers on social media",
+        "B) Being more present and engaged with family during those times",
+        "C) Getting bored very easily",
+        "D) Losing touch with old friends"
+      ],
+      "answer": "B",
+      "explanation": "原句 \"this has helped so much in just being more present with my family\" 表明设置无社交媒体时间后最大的好处是与家人相处时更专注、更投入。这是视频反复强调的\"在场（present）\"价值。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 465.7,
+      "endTime": 471.4,
+      "difficulty": "medium",
+      "relatedWords": [
+        "off hours",
+        "social media",
+        "family"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "question": "How does the speaker define \"off hours\"?",
+      "options": [
+        "A) The hours when they are working at their job",
+        "B) The hours during which they are not allowed to use social media",
+        "C) Only the late-night sleeping hours",
+        "D) The weekend hours only"
+      ],
+      "answer": "B",
+      "explanation": "原句 \"off hours, it's just, it's no social media time\" 直接给出了定义：\"off hours\" 就是不允许刷社交媒体的时间段。视频后面还提到具体是从晚上到第二天早上。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 488.2,
+      "endTime": 490.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "off hours",
+        "social media",
+        "no"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "question": "Besides getting off the phone, what other benefit does the speaker mention from doing the activity?",
+      "options": [
+        "A) Sleeping much longer hours",
+        "B) Feeling like they are creating more",
+        "C) Earning more money quickly",
+        "D) Getting more social media followers"
+      ],
+      "answer": "B",
+      "explanation": "原句 \"This not only helps me get off of my phone, but I feel like I'm creating more\" 指出除了减少手机使用外，还获得了\"创造更多\"的成就感，强调了兴趣爱好带来的价值。",
       "referenceAnswer": "",
       "hint": "",
       "startTime": 509,
       "endTime": 511.9,
       "difficulty": "easy",
       "relatedWords": [
-        "hobby",
-        "alternative",
-        "activity"
-      ]
-    },
-    {
-      "id": 12,
-      "type": "choice",
-      "question": "What does the speaker recommend when trying to start a new hobby?",
-      "options": [
-        "A) Buy all supplies separately from different stores",
-        "B) Find a kit that comes with everything you need",
-        "C) Watch YouTube tutorials first",
-        "D) Ask friends for recommendations"
-      ],
-      "answer": "B",
-      "explanation": "说话者建议初学者买套装（kit），比如针织套装（knitting kit）或刺绣套装（embroidery kit），因为套装里包含了所有需要的东西，'comes with everything you need'（包含所有你需要的东西），这样入门更简单方便。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 672.5,
-      "endTime": 679.9,
-      "difficulty": "medium",
-      "relatedWords": [
-        "hobby kit",
-        "knitting",
-        "embroidery"
-      ]
-    },
-    {
-      "id": 13,
-      "type": "choice",
-      "question": "What is the main benefit of reducing phone usage mentioned in the video regarding family?",
-      "options": [
-        "A) You will save money on phone bills",
-        "B) You will be more present with your family",
-        "C) You will have more time for vacations",
-        "D) You will eat healthier meals"
-      ],
-      "answer": "B",
-      "explanation": "原文中明确提到：'You'll be more present with your family.'（你会更专注于陪伴家人。）'Present'在这里不是'礼物'的意思，而是指'在场、专注、投入'，减少手机使用能让人更专注于与家人的相处。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 861.8,
-      "endTime": 863.7,
-      "difficulty": "easy",
-      "relatedWords": [
-        "present",
-        "family",
-        "quality time"
-      ]
-    },
-    {
-      "id": 14,
-      "type": "choice",
-      "question": "What does the speaker say about the impact on children?",
-      "options": [
-        "A) Children will get better grades",
-        "B) You'll have more patience for your kids",
-        "C) Children will sleep earlier",
-        "D) Children will eat more vegetables"
-      ],
-      "answer": "B",
-      "explanation": "原文：'You'll have more patience for your kids.'（你对孩子会更有耐心。）说话者认为，减少手机使用能让人情绪更稳定、注意力更集中，因此在面对孩子时也更有耐心。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 863.2,
-      "endTime": 865.5,
-      "difficulty": "easy",
-      "relatedWords": [
-        "patience",
-        "kids",
-        "parenting"
+        "phone",
+        "creating",
+        "benefit"
       ]
     },
     {
       "id": 15,
       "type": "choice",
-      "question": "What does 'long form media' refer to?",
+      "question": "What activity does the speaker suggest for people who only have 5-10 minutes of free time?",
       "options": [
-        "A) Short videos on TikTok",
-        "B) Extended content like full articles, documentaries, or books",
-        "C) Newspaper headlines",
-        "D) Social media posts"
+        "A) Quickly checking social media feeds",
+        "B) Cooking without multitasking, maybe with a long-form YouTube video",
+        "C) Taking a long nap",
+        "D) Watching short TV commercials"
       ],
       "answer": "B",
-      "explanation": "'Long form media'（长篇媒体内容）指的是篇幅较长、深入的内容形式，如长文章、纪录片、书籍等，与短视频或碎片化信息形成对比。说话者提到这一点是想对比当下'being fed something right after the other'（不断被投喂信息）和真正有深度的内容消费。",
+      "explanation": "原句 \"Cooking without multitasking, maybe putting on a long-form YouTube video if you really need something\" 建议在零碎时间里专心做饭（不一心多用），这是替代刷手机、培养专注力的好方法。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 914.7,
-      "endTime": 920.4,
-      "difficulty": "hard",
+      "startTime": 529.8,
+      "endTime": 538,
+      "difficulty": "medium",
       "relatedWords": [
-        "long form media",
-        "content",
-        "attention"
+        "cooking",
+        "multitasking",
+        "distraction"
       ]
     },
     {
       "id": 16,
       "type": "choice",
-      "question": "Which relationships does the speaker mention being affected by social media habits?",
+      "question": "What daily habit does the speaker recommend for building hobbies?",
       "options": [
-        "A) Only friendships",
-        "B) Business relationships",
-        "C) Partner, spouse, and family relationships",
-        "D) Only online relationships"
+        "A) Quit all hobbies immediately",
+        "B) Only do hobbies on weekends and holidays",
+        "C) Spend an hour on a hobby every single day",
+        "D) Spend an entire day on hobbies once a month"
       ],
       "answer": "C",
-      "explanation": "原文中提到：'how those things are also affecting your partner, your spouse, your...'，明确指出伴侣、配偶及家庭关系都会受到影响。这说明过度使用手机不只是个人问题，还会波及身边的亲密关系。",
+      "explanation": "原句 \"just spend an hour towards a hobby every single day\" 建议每天花一小时投入到爱好中，强调的是持续性（consistency），而不是偶尔的大段时间。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 936.5,
-      "endTime": 941.4,
-      "difficulty": "medium",
+      "startTime": 569.4,
+      "endTime": 572.4,
+      "difficulty": "easy",
       "relatedWords": [
-        "partner",
-        "spouse",
-        "relationships"
+        "hobby",
+        "hour",
+        "every day"
       ]
     },
     {
       "id": 17,
       "type": "choice",
-      "question": "What is the speaker's Level 1 challenge?",
+      "question": "What strategy does the speaker recommend for reducing mindless phone use?",
       "options": [
-        "A) No social media on weekends",
-        "B) No scrolling between 5 p.m. and bedtime",
-        "C) No phone at dinner",
-        "D) Delete all social media apps"
+        "A) Scrolling even more often to get it out of your system",
+        "B) Replacing scrolling with more hobbies and different activities",
+        "C) Deleting all apps and throwing away the phone",
+        "D) Working longer hours to stay busy"
       ],
       "answer": "B",
-      "explanation": "原文中明确指出：'Level one, no scrolling between 5 p.m.' 即从下午5点开始到睡觉前不再刷手机。这是一个相对容易的入门级挑战。",
+      "explanation": "原句 \"once you start replacing scrolling with more hobbies and you start getting into different...\" 建议用爱好取代无意识的滑动屏幕。这是一种正面的替代策略，而不是简单禁止。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 950,
-      "endTime": 952.6,
-      "difficulty": "easy",
+      "startTime": 580.3,
+      "endTime": 584.3,
+      "difficulty": "medium",
       "relatedWords": [
-        "challenge",
-        "no scrolling",
-        "level one"
+        "scrolling",
+        "hobbies",
+        "replacing"
       ]
     },
     {
       "id": 18,
       "type": "choice",
-      "question": "What is the speaker's Level 2 challenge?",
+      "question": "In the phrase \"the more addicting it becomes,\" what is the implied full comparative structure?",
       "options": [
-        "A) No phone at work",
-        "B) Phone-free Sundays",
-        "C) No social media for a month",
-        "D) No emails on weekends"
+        "A) The more you use it, the more addicting it becomes",
+        "B) The more time passes, the more addicting it becomes",
+        "C) The more phones are produced, the more addicting they become",
+        "D) The more people discuss it, the more addicting it becomes"
       ],
-      "answer": "B",
-      "explanation": "原文中提到：'And level two, phone-free Sundays.'（第二级，周日无手机日。）这是比第一级更进一步的挑战，要求整天不碰手机。",
+      "answer": "A",
+      "explanation": "这是英语中\"the more..., the more...\"（越……就越……）的省略句式。完整结构是 \"The more you use it, the more addicting it becomes\"（用得越多，就越让人上瘾），用于强调反复使用带来的成瘾性。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 972.8,
-      "endTime": 974.8,
-      "difficulty": "easy",
+      "startTime": 820.4,
+      "endTime": 822.2,
+      "difficulty": "hard",
       "relatedWords": [
-        "phone-free",
-        "Sundays",
-        "level two"
+        "the more",
+        "comparative",
+        "addicting"
       ]
     },
     {
       "id": 19,
       "type": "choice",
-      "question": "What does the speaker suggest using to help stay off the phone?",
+      "question": "What does the phrasal verb \"step away\" mean in the video?",
       "options": [
-        "A) A new expensive phone",
-        "B) An app blocker or a 'brick' (dumb phone)",
-        "C) A smartwatch",
-        "D) A tablet"
+        "A) Walk a long distance physically",
+        "B) Take a break or distance from something to gain perspective",
+        "C) Move to a different city or country",
+        "D) Resign from a job"
       ],
       "answer": "B",
-      "explanation": "原文中提到：'Get an app blocker, get a brick, get something that is making you off of [the phone]...' 也就是使用应用拦截器，或者换成只能打电话发短信的'砖头机'（dumb phone），强制自己远离智能手机。",
+      "explanation": "\"Step away\" 在这里是\"暂时离开/抽身\"的意思，指远离手机或社交媒体一段时间以重新审视生活。\"Take time to step away\" 意为\"花时间抽身出来\"。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 953.3,
-      "endTime": 957.4,
+      "startTime": 843.9,
+      "endTime": 846.8,
       "difficulty": "medium",
       "relatedWords": [
-        "app blocker",
-        "brick phone",
-        "dumb phone"
+        "step away",
+        "take time",
+        "break"
       ]
     },
     {
       "id": 20,
       "type": "choice",
-      "question": "What does the speaker suggest doing during the 'no scrolling' time?",
+      "question": "What does \"brick it\" mean in the phrase \"Put your phone away, lock it, brick it\"?",
       "options": [
-        "A) Watching TV",
-        "B) Working out before work, going for a walk, or pursuing hobbies",
-        "C) Playing video games",
-        "D) Sleeping all evening"
+        "A) Throw the phone against a brick wall",
+        "B) Sell the phone for cash immediately",
+        "C) Make the phone completely unusable, as if it were a brick",
+        "D) Put a heavy protective case on the phone"
       ],
-      "answer": "B",
-      "explanation": "原文中提到：'Maybe you start to work out before work or go for a walk, but keep [your time]...'，也就是用运动、散步等健康活动来填充原本刷手机的时间。",
+      "answer": "C",
+      "explanation": "\"Brick\" 作动词是俚语，意为\"使设备变成砖头（即无法使用的电子废物）\"。整句是一个递进的幽默表达：把手机收起来 → 锁上 → 让它变成砖头，强调彻底远离手机的决心。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 967.7,
-      "endTime": 970.6,
-      "difficulty": "easy",
+      "startTime": 981.5,
+      "endTime": 984.2,
+      "difficulty": "medium",
       "relatedWords": [
-        "workout",
-        "walk",
-        "alternative activity"
+        "phone",
+        "brick",
+        "lock"
       ]
     },
     {
       "id": 21,
       "type": "choice",
-      "question": "What is the speaker's main warning about social media in the end?",
+      "question": "What specific challenge does the speaker suggest at the end of the video?",
       "options": [
-        "A) It is too expensive to use",
-        "B) It is highly addictive, even in small doses",
-        "C) It will be banned soon",
-        "D) It is only for young people"
+        "A) Using social media even more frequently",
+        "B) Using a different camera, like a Polaroid or disposable camera, to take photos",
+        "C) Deleting all old photos from the phone",
+        "D) Buying the latest, most expensive smartphone"
       ],
       "answer": "B",
-      "explanation": "原文中提到：'I think you'll realize how addicting it really is that five minutes here or there.'（你会意识到它有多容易上瘾，哪怕只是每次五分钟。）说话者警告说，即使只是短暂的碎片化使用，也会让人上瘾。",
+      "explanation": "原句 \"I want you to try to use a different camera to take photos. So maybe a Polaroid, maybe go to Walgreens and get like a $5...\" 建议尝试用拍立得或一次性相机拍照，远离手机摄像头，培养不同的拍照体验。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 1030.6,
-      "endTime": 1035.9,
-      "difficulty": "medium",
+      "startTime": 991.4,
+      "endTime": 1000.2,
+      "difficulty": "easy",
       "relatedWords": [
-        "addicting",
-        "social media",
-        "warning"
+        "Polaroid",
+        "camera",
+        "challenge"
       ]
     },
     {
       "id": 22,
       "type": "speaking",
-      "question": "What are the two levels of the challenge the speaker proposed? Please describe each level in your own words.",
+      "question": "The speaker mentions small changes that made the biggest difference. What is one small change you have made (or could make) in your daily routine to reduce phone use and be more present? Describe the change and explain why it works for you.",
       "options": [],
       "answer": "open",
-      "explanation": "说话者提出了两级挑战：Level 1 是从下午5点开始到睡前不再刷手机（no scrolling between 5 p.m.），Level 2 是周日整天无手机（phone-free Sundays）。这是一个由易到难的递进式挑战。",
-      "referenceAnswer": "Level 1: No scrolling between 5 p.m. and bedtime. Level 2: Phone-free Sundays, meaning you don't use your phone at all on Sundays. The challenges progressively require more discipline and help you reduce phone dependence step by step.",
-      "hint": "Remember the two specific time rules mentioned by the speaker and explain what each requires you to do.",
-      "startTime": 948.4,
-      "endTime": 974.8,
+      "explanation": "本题为开放式口语题，旨在训练学生用英语描述个人习惯改变并说明原因。建议学生用过去时或现在完成时描述自己的改变，并用 \"because/since/as\" 等连词解释原因。",
+      "referenceAnswer": "Sample answer: I started putting my phone in another room before going to bed. I used to scroll for an hour before sleeping, but now I read a book instead. This helps because I'm not tempted to check notifications, and I fall asleep faster. Another change I made was deleting the social media app from my phone for one month. It worked because I had to go to the website on my computer to check it, which made me think twice before opening it.",
+      "hint": "Think about a specific habit (e.g., putting your phone in another room, deleting one app, setting a no-phone meal time). Describe what you do and why it helps you.",
+      "startTime": 98.9,
+      "endTime": 103.4,
       "difficulty": "medium",
       "relatedWords": [
-        "challenge",
-        "no scrolling",
-        "phone-free Sundays"
+        "small changes",
+        "phone",
+        "habit"
       ]
     },
     {
       "id": 23,
       "type": "speaking",
-      "question": "According to the speaker, how does excessive social media use affect your relationships with family? Please give at least two specific impacts.",
+      "question": "The speaker talks about finding hobbies and cooking without getting distracted. What is one hobby or offline activity you genuinely enjoy that doesn't involve a screen? Describe the experience in detail.",
       "options": [],
       "answer": "open",
-      "explanation": "说话者从多个角度阐述了过度使用手机/社交媒体对家庭关系的影响：1）无法专注与家人交流（not listening when having conversation）；2）对伴侣、配偶、孩子缺乏耐心；3）不能全身心陪伴家人（not being present）；4）把注意力都给了手机而非身边的人。",
-      "referenceAnswer": "Excessive social media use affects family relationships in several ways: 1) You become less present with your family members; 2) You have less patience for your kids; 3) You may not listen carefully during conversations with your spouse; 4) It negatively impacts your partner and spouse as well. The speaker emphasizes that being constantly on your phone takes away from meaningful connections with loved ones.",
-      "hint": "Think about: presence, patience, listening, and how phone use affects the people around you.",
-      "startTime": 861.8,
-      "endTime": 941.4,
-      "difficulty": "hard",
+      "explanation": "本题为开放式口语题，鼓励学生分享真实爱好并描述体验细节。可以用感官动词（see, hear, smell, taste, feel）和现在时态来描述活动过程。",
+      "referenceAnswer": "Sample answer: I really enjoy baking sourdough bread on weekends. I love the feeling of kneading the dough with my hands and watching it slowly rise. The kitchen smells amazing when the bread is baking in the oven, and the taste is so much better than store-bought bread. It also helps me slow down because I have to wait for the dough to proof. I feel really proud when I take the bread out of the oven and share it with my family.",
+      "hint": "Think of something you can do with your hands or in real life (cooking, reading, knitting, painting, hiking, playing music, etc.). Use sensory details to describe it.",
+      "startTime": 471.4,
+      "endTime": 476.5,
+      "difficulty": "medium",
       "relatedWords": [
-        "relationships",
-        "present",
-        "patience",
-        "family"
+        "hobbies",
+        "cooking",
+        "offline"
       ]
     },
     {
       "id": 24,
       "type": "speaking",
-      "question": "What hobbies or alternative activities does the speaker suggest to replace phone scrolling? Please list at least three suggestions.",
+      "question": "The speaker recommends spending an hour a day on a hobby. If you could spend one extra hour every day on a new hobby, what would you choose to learn and why?",
       "options": [],
       "answer": "open",
-      "explanation": "说话者建议了多种替代活动：1）针织（knitting）、刺绣（embroidery）等手工类爱好，建议买套装入门；2）阅读（reading）、写日记（journals）；3）运动健身，比如下班前锻炼（work out before work）；4）散步（go for a walk）；5）与人面对面交流（conversation and connection）。",
-      "referenceAnswer": "The speaker suggests several alternatives: 1) Hobbies like knitting or embroidery, ideally started with a complete kit; 2) Reading books and journaling; 3) Physical activities like working out before work or going for a walk; 4) Spending time on outings and having face-to-face conversations with people. The key idea is to fill your time with meaningful, engaging activities that don't involve a screen.",
-      "hint": "Think about both creative hobbies and physical/outdoor activities she mentioned.",
-      "startTime": 599.3,
-      "endTime": 1012.8,
-      "difficulty": "medium",
+      "explanation": "本题为开放式口语题，考察学生用英语表达愿望和原因。可使用 \"I would like to... because...\" 或 \"If I had an extra hour, I would...\" 等句型，并给出至少两个具体理由。",
+      "referenceAnswer": "Sample answer: If I had an extra hour every day, I would learn to play the ukulele. I have always loved the sound of it, and I think it's a relatively easy instrument to start with. I would choose this hobby because music helps me relax after a long day at work, and I could eventually play songs for my friends. Plus, learning an instrument keeps my mind sharp and gives me a sense of accomplishment when I finally master a new song.",
+      "hint": "Pick a hobby you have always wanted to try. Explain the reason (relaxation, creativity, skill-building, sharing with others) and what you hope to achieve.",
+      "startTime": 569.4,
+      "endTime": 572.4,
+      "difficulty": "easy",
       "relatedWords": [
-        "hobbies",
-        "knitting",
-        "reading",
-        "walking",
-        "workout"
+        "hobby",
+        "hour",
+        "every day"
       ]
     },
     {
       "id": 25,
       "type": "speaking",
-      "question": "What negative effects or symptoms did the speaker personally experience from overusing her phone? Please describe at least three.",
+      "question": "The speaker invites viewers to try a digital detox challenge. Pick one specific challenge from the video (or invent your own) that you would like to try, and describe how you think the experience would go for you.",
       "options": [],
       "answer": "open",
-      "explanation": "说话者分享了她个人的负面体验：1）注意力无法集中（brain could not sit with something for a long period of time）；2）和丈夫聊天时不专心（not listening in conversation）；3）总想着跳到下一件事（jumping to the next thing）；4）一天结束时头疼（headaches at the end of the day）；5）认为自己的自律性足够强，但发现根本不够。",
-      "referenceAnswer": "The speaker experienced several negative effects: 1) Inability to focus on one thing for a long period - her brain constantly jumped to the next thing; 2) Not listening attentively during conversations with her husband; 3) Getting headaches at the end of each day, which she saw as a big red flag; 4) Discovering that her self-discipline was not as strong as she thought when it came to resisting social media. These experiences motivated her to set boundaries and find healthier alternatives.",
-      "hint": "Think about attention, conversations, physical symptoms, and self-awareness.",
-      "startTime": 337.3,
-      "endTime": 451.9,
-      "difficulty": "hard",
+      "explanation": "本题为开放式口语题，考察学生选择具体挑战并预测自身反应的能力。可使用 \"I think I would...\" 或 \"I would probably feel...\" 表达预期，并描述可能遇到的困难和收获。",
+      "referenceAnswer": "Sample answer: I would like to try the Polaroid camera challenge for one week. I would use a disposable camera instead of my phone to take all my photos. I think the first day would be hard because I am so used to taking dozens of photos with my phone. By the end of the week, I think I would feel more present in the moment because I would only have 27 shots to use, so I would think more carefully about each photo. I would also be more patient and appreciate the anticipation of waiting for the film to be developed.",
+      "hint": "Choose one challenge (e.g., no phone for 24 hours, using a film camera, no social media after 5pm). Predict how you would feel and what you would learn.",
+      "startTime": 1044.7,
+      "endTime": 1048.3,
+      "difficulty": "medium",
       "relatedWords": [
-        "symptoms",
-        "headaches",
-        "focus",
-        "attention",
-        "discipline"
+        "challenge",
+        "digital detox",
+        "try"
       ]
     }
   ]

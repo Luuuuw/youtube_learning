@@ -1,0 +1,436 @@
+{
+  "videoId": "9oRFgiL7Jj8",
+  "generatedAt": "2026-08-11T14:40:01.272Z",
+  "cards": [
+    {
+      "id": "msorolpz8bfl84",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "reclaim",
+      "back": "重新获得；收回 (verb, B2)",
+      "context": "People seem to be getting offline more, picking up analog hobbies, sharing slower routines, buying bricks, and **reclaiming** their time and choosing to live in the moment.",
+      "audioStart": 15.06,
+      "audioEnd": 22.56,
+      "word": "reclaim",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.271Z"
+    },
+    {
+      "id": "msorolpzr1e8d7",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "excessive",
+      "back": "过度的，过分的 (adjective, B2)",
+      "context": "And researchers have linked **excessive** scrolling with shortened attention spans, mental fog, and weakened focus, aka brain rot.",
+      "audioStart": 35.16,
+      "audioEnd": 41.18,
+      "word": "excessive",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.271Z"
+    },
+    {
+      "id": "msorolpz1kp1nt",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "novelty",
+      "back": "新奇事物；新颖 (noun, B2)",
+      "context": "Studies also suggest that this frequent screen usage trains the brain for constant **novelty**, making it harder to engage deeply with long-form reading, sustained tasks, or real-life conversations.",
+      "audioStart": 42.26,
+      "audioEnd": 53.78,
+      "word": "novelty",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.271Z"
+    },
+    {
+      "id": "msorolpzr59bam",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sustained",
+      "back": "持续的，持久的 (adjective, B2)",
+      "context": "Studies also suggest that this frequent screen usage trains the brain for constant novelty, making it harder to engage deeply with long-form reading, **sustained** tasks, or real-life conversations.",
+      "audioStart": 42.26,
+      "audioEnd": 53.78,
+      "word": "sustained",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.271Z"
+    },
+    {
+      "id": "msorolpzx241uh",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "craving",
+      "back": "渴望，热望 (noun, C1)",
+      "context": "And this is exactly why so many of us are **craving** something slower, something real, something offline.",
+      "audioStart": 55.72,
+      "audioEnd": 61.42,
+      "word": "craving",
+      "tags": [
+        "CEFR-C1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.272Z"
+    },
+    {
+      "id": "msorolq0y21yq7",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "overwhelming",
+      "back": "令人不知所措的；压倒性的 (adjective, B2)",
+      "context": "And when the news feels so **overwhelming** in a world optimized entirely for attention, the best thing we can do is simply step away.",
+      "audioStart": 71.46,
+      "audioEnd": 78.48,
+      "word": "overwhelming",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.272Z"
+    },
+    {
+      "id": "msorolq0zq3wis",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "optimize",
+      "back": "优化，使最优化 (verb, B2)",
+      "context": "And when the news feels so overwhelming in a world **optimized** entirely for attention, the best thing we can do is simply step away.",
+      "audioStart": 71.46,
+      "audioEnd": 78.48,
+      "word": "optimize",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.272Z"
+    },
+    {
+      "id": "msorolq0muza3y",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "intentional",
+      "back": "有意的，故意的 (adjective, B2)",
+      "context": "So let me extend this invitation to build a life that exists more offline than online in a way that feels realistic, **intentional**, and to be honest, a little addicting.",
+      "audioStart": 89.92,
+      "audioEnd": 98.88,
+      "word": "intentional",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.272Z"
+    },
+    {
+      "id": "msorolq0u25gbh",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "addicting",
+      "back": "使人上瘾的 (adjective, B2)",
+      "context": "So let me extend this invitation to build a life that exists more offline than online in a way that feels realistic, intentional, and to be honest, a little **addicting**.",
+      "audioStart": 89.92,
+      "audioEnd": 98.88,
+      "word": "addicting",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.272Z"
+    },
+    {
+      "id": "msorolq0jmorze",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "boundary",
+      "back": "界限，边界 (noun, B2)",
+      "context": "But I personally started feeling the pull away from social media or just like wanting to have a lot more **boundaries** with my phone kind of like the end of last year.",
+      "audioStart": 167.82,
+      "audioEnd": 177.56,
+      "word": "boundary",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.272Z"
+    },
+    {
+      "id": "msorolq0yu116j",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "engrossed",
+      "back": "全神贯注的 (adjective, C1)",
+      "context": "I'd be like, okay, let me just like, you know, check out what's going on in social media while I'm brushing my teeth or while I'm getting ready for the day and just being so disconnected from simple daily tasks and so **engrossed** in trying to constantly entertain myself and not even allowing my brain for a second to take a break.",
+      "audioStart": 228.64,
+      "audioEnd": 247.6,
+      "word": "engrossed",
+      "tags": [
+        "CEFR-C1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.272Z"
+    },
+    {
+      "id": "msorolq072veey",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "cognitive",
+      "back": "认知的 (adjective, B2)",
+      "context": "Which honestly sounds kind of scary, but it really is just your **cognitive** ability starts to decline.",
+      "audioStart": 312.63,
+      "audioEnd": 320.59,
+      "word": "cognitive",
+      "tags": [
+        "CEFR-B2",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:40:01.272Z"
+    },
+    {
+      "id": "msorojz7domn8l",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) We're only one month into 2026 and already it feels like the year of ___",
+      "back": "less",
+      "context": "We're only one month into 2026 and already it feels like the year of less.",
+      "audioStart": 0,
+      "audioEnd": 4.2,
+      "hint": "选项：more / rest / less / change",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:59.011Z"
+    },
+    {
+      "id": "msorojz7q4bz16",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) If you've spent any time online lately, you've probably seen posts like this, or maybe like this ___",
+      "back": "one",
+      "context": "If you've spent any time online lately, you've probably seen posts like this, or maybe like this one.",
+      "audioStart": 9.8,
+      "audioEnd": 14.7,
+      "hint": "选项：three / two / one / four",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:59.011Z"
+    },
+    {
+      "id": "msorojz7jfi25a",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) Because when AI begins replacing family recipes or art drifts away from personal expression, when ___",
+      "back": "that",
+      "context": "Because when AI begins replacing family recipes or art drifts away from personal expression, when",
+      "audioStart": 61.4,
+      "audioEnd": 67.3,
+      "hint": "选项：these / those / this / that",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:59.011Z"
+    },
+    {
+      "id": "msorojz7dhh9vj",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I think a lot of us are relearning how to enjoy our offline life ___",
+      "back": "more",
+      "context": "I think a lot of us are relearning how to enjoy our offline life more",
+      "audioStart": 109.8,
+      "audioEnd": 113.5,
+      "hint": "选项：worse / more / less / better",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:59.011Z"
+    },
+    {
+      "id": "msorojz7a1hfo8",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) And it's kind of funny that we're influencing each other on social media to get off of social ___",
+      "back": "media",
+      "context": "And it's kind of funny that we're influencing each other on social media to get off of social media.",
+      "audioStart": 161.9,
+      "audioEnd": 167.8,
+      "hint": "选项：media / network / platform / site",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:59.011Z"
+    },
+    {
+      "id": "msorojz79f60em",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) let me just like, you know, check out what's going on in social media while ___",
+      "back": "I",
+      "context": "let me just like, you know, check out what's going on in social media while",
+      "audioStart": 228.6,
+      "audioEnd": 232,
+      "hint": "选项：we / you / I / they",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:59.011Z"
+    },
+    {
+      "id": "msorojz7scaloe",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) I had been on my phone probably way too long than I needed to ___",
+      "back": "be",
+      "context": "I had been on my phone probably way too long than I needed to be.",
+      "audioStart": 259.4,
+      "audioEnd": 263.6,
+      "hint": "选项：do / go / be / have",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:59.011Z"
+    },
+    {
+      "id": "msorojz7r9me8a",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "listening",
+      "type": "audio_fill",
+      "front": "(听音频) our favorite influencer, we were served an ad just has gotten so out of ___",
+      "back": "control",
+      "context": "our favorite influencer, we were served an ad just has gotten so out of control.",
+      "audioStart": 373.8,
+      "audioEnd": 378.9,
+      "hint": "选项：hand / control / order / line",
+      "tags": [
+        "fill-in-blank"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:59.011Z"
+    },
+    {
+      "id": "msoroirhkpv8lz",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "因为当AI开始取代家传食谱，当艺术渐渐脱离个人表达，当20分钟…… 因为当AI开始取代家传食谱，当艺术渐渐脱离个人表达，当20分钟……\n20 minutes of scrolling ___ ___ ___ a chapter read",
+      "back": "could / have / been",
+      "context": "20 minutes of scrolling could have been a chapter read",
+      "audioStart": 67.299,
+      "audioEnd": 71.659,
+      "hint": "could have been",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:57.437Z"
+    },
+    {
+      "id": "msoroirhape1r1",
+      "videoId": "9oRFgiL7Jj8",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "可以刷，但下班后就不看社交媒体了 好，既然刷手机变难了，就得找别的事来替代\nOkay, ___ ___ we made the habit of scrolling hard to do, we need to replace it.",
+      "back": "now / that",
+      "context": "Okay, now that we made the habit of scrolling hard to do, we need to replace it.",
+      "audioStart": 490.651,
+      "audioEnd": 493.612,
+      "hint": "now that",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:57.438Z"
+    }
+  ]
+}

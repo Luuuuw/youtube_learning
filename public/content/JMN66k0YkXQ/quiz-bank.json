@@ -1,13 +1,13 @@
 {
   "videoId": "JMN66k0YkXQ",
   "title": "JMN66k0YkXQ",
-  "generatedAt": "2026-08-10T11:01:50.462Z",
+  "generatedAt": "2026-08-11T14:39:37.069Z",
   "version": 1,
   "totalQuestions": 25,
   "stats": {
-    "easy": 8,
-    "medium": 12,
-    "hard": 5,
+    "easy": 10,
+    "medium": 13,
+    "hard": 2,
     "choice": 20,
     "speaking": 5
   },
@@ -15,551 +15,552 @@
     {
       "id": 1,
       "type": "choice",
-      "question": "What does the phrase 'biggest red flag' mean in the context of a first date?",
+      "question": "What is the name of the show that Willa Bennett is hosting?",
       "options": [
-        "A) The most serious warning sign about a person",
-        "B) A celebration flag used at events",
-        "C) A fashionable accessory to wear",
-        "D) A type of traffic signal"
+        "A) Blind Date",
+        "B) The Bachelorette",
+        "C) First Dates",
+        "D) Love Island"
       ],
       "answer": "A",
-      "explanation": "在约会语境中，'red flag'（红旗）是一个常见的英语习语，指的是一个人表现出的令人担忧或警示性的负面信号、行为特征。比如不尊重人、撒谎、总是谈论前任等，都是典型的'红旗'。",
+      "explanation": "Willa Bennett在自我介绍中明确说'I am Willa Bennett and this is Blind Date'，表明这是《Blind Date》（盲约）节目第四季。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 2.7,
-      "endTime": 7,
+      "startTime": 18,
+      "endTime": 21,
       "difficulty": "easy",
       "relatedWords": [
-        "red flag",
-        "first date",
-        "warning sign"
+        "Blind Date",
+        "Willa Bennett",
+        "host"
       ]
     },
     {
       "id": 2,
       "type": "choice",
-      "question": "In the sentence 'If they win Kuma's heart, that's a faster way for you because he only loves me', what does 'win Kuma's heart' mean?",
+      "question": "According to Jenny, how should her name be displayed in the show?",
       "options": [
-        "A) To physically take Kuma's heart",
-        "B) To defeat Kuma in a competition",
-        "C) To earn Kuma's love or affection",
-        "D) To steal something valuable from Kuma"
+        "A) With her last name, all lowercase",
+        "B) Willa, no last name, all caps",
+        "C) Jenny, all caps, no last name",
+        "D) Her full legal name"
       ],
       "answer": "C",
-      "explanation": "'Win someone's heart' 是一个英语习语，意思是'赢得某人的爱'或'让某人爱上自己'。这里是主持人开玩笑说如果有人赢得了Kuma的心，对另一个人来说反而是好事，因为Kuma只爱主持人自己。",
+      "explanation": "Jenny说'should I go by Willa, no last name, all caps'，之后确认答案是'Jenny, all cap, no last name'，即只用名字、全大写、不带姓氏。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 9.7,
-      "endTime": 14,
-      "difficulty": "medium",
+      "startTime": 55.4,
+      "endTime": 66.4,
+      "difficulty": "easy",
       "relatedWords": [
-        "win one's heart",
-        "love",
-        "affection"
+        "all caps",
+        "last name",
+        "Jenny"
       ]
     },
     {
       "id": 3,
       "type": "choice",
-      "question": "What is a 'blind date'?",
+      "question": "What does 'going in blind' mean in the context of this show?",
       "options": [
-        "A) A date where you cannot see",
-        "B) A date with someone you have never met before",
-        "C) A date in a dark room",
-        "D) A date with a blind person"
+        "A) Wearing a blindfold",
+        "B) Not knowing what the person looks like beforehand",
+        "C) Going on a date in a dark room",
+        "D) Not being able to see"
       ],
       "answer": "B",
-      "explanation": "'Blind date' 是英语中的一个固定表达，指两个从未见过面的人经人介绍安排的约会。'Blind'（盲的）在这里表示'事先不知道对方是谁'，而非生理上的失明。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 22.9,
-      "endTime": 28,
-      "difficulty": "easy",
-      "relatedWords": [
-        "blind date",
-        "meet",
-        "introduction"
-      ]
-    },
-    {
-      "id": 4,
-      "type": "choice",
-      "question": "What is the name of the show being mentioned when the host says 'Welcome to Blind Date'?",
-      "options": [
-        "A) Love Connection",
-        "B) The Bachelor",
-        "C) Blind Date",
-        "D) First Dates"
-      ],
-      "answer": "C",
-      "explanation": "从字幕'Welcome to Blind Date'可以明确判断，节目的名字就叫'Blind Date'（盲约）。这是一个经典的约会真人秀节目形式。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 50.3,
-      "endTime": 56,
-      "difficulty": "easy",
-      "relatedWords": [
-        "Blind Date",
-        "show",
-        "welcome"
-      ]
-    },
-    {
-      "id": 5,
-      "type": "choice",
-      "question": "In 'How are you feeling watching them, looking back at them?', what does 'them' most likely refer to?",
-      "options": [
-        "A) The audience members",
-        "B) The incredible performances from before",
-        "C) Other contestants",
-        "D) Family members"
-      ],
-      "answer": "B",
-      "explanation": "根据上下文，'them'指的是前文提到的'many incredible performances'（许多令人难忘的表演）。主持人请嘉宾回顾并评价自己过去的精彩表演。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 77.8,
-      "endTime": 83,
-      "difficulty": "medium",
-      "relatedWords": [
-        "performances",
-        "looking back",
-        "reflect"
-      ]
-    },
-    {
-      "id": 6,
-      "type": "choice",
-      "question": "What is the speaker 'exploring' based on the subtitle 'I'm just having fun and more exploring of myself and my music'?",
-      "options": [
-        "A) Different countries",
-        "B) Themselves and their music",
-        "C) New romantic relationships",
-        "D) Various career paths"
-      ],
-      "answer": "B",
-      "explanation": "说话者表示自己正在享受乐趣，同时更多地探索自我（myself）和音乐（my music）。这是一种自我发现和艺术探索的结合。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 85.8,
-      "endTime": 92,
-      "difficulty": "medium",
-      "relatedWords": [
-        "exploring",
-        "myself",
-        "music"
-      ]
-    },
-    {
-      "id": 7,
-      "type": "choice",
-      "question": "What does the phrase 'going in blind' mean when the speaker says 'I'm also going in blind, blind date'?",
-      "options": [
-        "A) Covering one's eyes with a blindfold",
-        "B) Entering a situation without prior knowledge",
-        "C) Going somewhere in darkness",
-        "D) Walking without a guide"
-      ],
-      "answer": "B",
-      "explanation": "'Going in blind' 是一个英语口语表达，意思是'在没有事先了解或准备的情况下进入某种情境'。这里指的就是参加'blind date'（盲约），对约会对象一无所知。",
+      "explanation": "'Going in blind'（盲约）意思是参加约会的人之前没见过对方，不知道对方长什么样，这正是《Blind Date》节目的核心设定。Willa说'Im also going in blind, blind date'就是在解释这个概念。",
       "referenceAnswer": "",
       "hint": "",
       "startTime": 103.5,
       "endTime": 109,
       "difficulty": "medium",
       "relatedWords": [
-        "going in blind",
         "blind date",
-        "without knowledge"
+        "going in blind",
+        "first impression"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "question": "What is Willa's opinion on 'double texting'?",
+      "options": [
+        "A) Never do it",
+        "B) Only on birthdays",
+        "C) Always do it",
+        "D) Only with close friends"
+      ],
+      "answer": "C",
+      "explanation": "当被问及'Would you double text?'（你会连续发两条消息吗？）时，Willa回答'Always'（总是会），表明她支持连续发消息的行为。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 13.5,
+      "endTime": 15.7,
+      "difficulty": "easy",
+      "relatedWords": [
+        "double text",
+        "texting",
+        "communication"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": "According to the subtitles, which zodiac sign is mentioned?",
+      "options": [
+        "A) Aries",
+        "B) Leo",
+        "C) Capricorn",
+        "D) Scorpio"
+      ],
+      "answer": "C",
+      "explanation": "字幕中提到'when does the Capricorn sign of...'，提到了摩羯座（Capricorn）。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 154.2,
+      "endTime": 159,
+      "difficulty": "easy",
+      "relatedWords": [
+        "Capricorn",
+        "zodiac sign",
+        "astrology"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": "When does Jenny sometimes learn choreography?",
+      "options": [
+        "A) Weeks in advance",
+        "B) The day of the performance",
+        "C) A month before",
+        "D) The night before"
+      ],
+      "answer": "B",
+      "explanation": "Jenny提到'Sometimes the day of'，意思是她有时候在表演当天才学编舞，说明她的学习时间很紧迫。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 357.4,
+      "endTime": 359.8,
+      "difficulty": "easy",
+      "relatedWords": [
+        "choreography",
+        "day of",
+        "performance"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "question": "How did Jenny collaborate with the artist she mentioned (shooting over Zoom)?",
+      "options": [
+        "A) In person at a studio",
+        "B) Over Zoom and video calls",
+        "C) Through email only",
+        "D) By sending recorded clips"
+      ],
+      "answer": "B",
+      "explanation": "Jenny说'we did it over Zoom and video calls'，表示她是通过Zoom和视频通话与对方合作的。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 247.9,
+      "endTime": 251.8,
+      "difficulty": "medium",
+      "relatedWords": [
+        "Zoom",
+        "video calls",
+        "collaboration"
       ]
     },
     {
       "id": 8,
       "type": "choice",
-      "question": "When asked 'What percentage of each category are you made up of?', what is the speaker being asked to describe?",
+      "question": "Who is Lily and Gracie to the host Willa?",
       "options": [
-        "A) Their academic test scores",
-        "B) Their personality breakdown in different traits",
-        "C) Their financial investments",
-        "D) Their dietary habits"
+        "A) Her sisters",
+        "B) Her coworkers at Chanel",
+        "C) Friends she attends Chanel shows with",
+        "D) Her neighbors"
       ],
-      "answer": "B",
-      "explanation": "这是当下流行的'人格百分比'测试方式，让人们把不同性格特征（如舞蹈、音乐、创意等）按百分比划分来描述自己。比如一个人可能是25%创意、5%舞蹈、25%等等。",
+      "answer": "C",
+      "explanation": "Willa提到'Lily and Gracie and I have honestly have a great time at Chanel shows together'，说明Lily和Gracie是她一起参加Chanel时装秀的朋友。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 110.7,
-      "endTime": 116,
-      "difficulty": "hard",
+      "startTime": 417,
+      "endTime": 420.8,
+      "difficulty": "medium",
       "relatedWords": [
-        "percentage",
-        "category",
-        "personality"
+        "Chanel",
+        "Lily",
+        "Gracie",
+        "fashion show"
       ]
     },
     {
       "id": 9,
       "type": "choice",
-      "question": "What percentage does the speaker say they are 'dance'?",
+      "question": "What does 'a walking inspiration' mean in this context?",
       "options": [
-        "A) 50%",
-        "B) 25%",
-        "C) 5%",
-        "D) 15%"
+        "A) Someone who exercises by walking",
+        "B) Someone who inspires others in everything they do",
+        "C) A fitness instructor",
+        "D) Someone who walks for a living"
       ],
-      "answer": "C",
-      "explanation": "说话者明确说'5% dance'（5%是舞蹈），并补充说自己曾经是个舞者（dancer for a long time），所以把舞蹈归入自己人格的一个组成部分。",
+      "answer": "B",
+      "explanation": "'A walking inspiration'字面意思是'走动的灵感'，实际表示这个人无论做什么都能激励别人。Jenny说'Shes just like a walking inspiration for me. Anything that she does is so...'，表达了对某人极度的钦佩。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 119.8,
-      "endTime": 126,
+      "startTime": 283.4,
+      "endTime": 285.9,
       "difficulty": "medium",
       "relatedWords": [
-        "5%",
-        "dance",
-        "dancer"
+        "walking inspiration",
+        "inspiration",
+        "admiration"
       ]
     },
     {
       "id": 10,
       "type": "choice",
-      "question": "What drink does the speaker order when they say 'a nice martini'?",
+      "question": "According to the subtitles, who was Jenny trying to catch in 'Euphoria'?",
       "options": [
-        "A) Beer",
-        "B) Wine",
-        "C) A martini",
-        "D) Coffee"
+        "A) A character played by Zendaya",
+        "B) A surprise guest",
+        "C) A dream collaboration",
+        "D) The actress herself in person"
       ],
-      "answer": "C",
-      "explanation": "马提尼（Martini）是一种经典鸡尾酒，由金酒和干味美思调制而成，通常用橄榄或柠檬片装饰。说话者表示要'先来一杯马提尼'。",
+      "answer": "D",
+      "explanation": "字幕中提到'Did you catch her in Euphoria?'，这是一个关于Euphoria（《亢奋》美剧）的问题，询问对方有没有在剧中看到她（指演员本人出演）。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 140.4,
-      "endTime": 145,
-      "difficulty": "easy",
+      "startTime": 471.2,
+      "endTime": 472.6,
+      "difficulty": "medium",
       "relatedWords": [
-        "martini",
-        "cocktail",
-        "drink"
+        "Euphoria",
+        "TV show",
+        "actress"
       ]
     },
     {
       "id": 11,
       "type": "choice",
-      "question": "What does the speaker imply with 'Not that I recall, but I must have'?",
+      "question": "What dating complaint is being discussed about the guy who updates his Facebook status?",
       "options": [
-        "A) They are certain they did the action",
-        "B) They don't remember but assume they did",
-        "C) They are lying about the past",
-        "D) They want to repeat the experience"
+        "A) He never texts back at all",
+        "B) He updates his status constantly but takes hours to respond to texts",
+        "C) He deletes his Facebook account",
+        "D) He posts too many photos"
       ],
       "answer": "B",
-      "explanation": "这句话的意思是'我不记得了，但我肯定做过'。'Not that I recall' 表示记忆中没有印象，'I must have' 表示基于逻辑的推测，说明说话者对过去某件事的态度是'虽然不记得但应该发生过'。",
+      "explanation": "讨论的是'The guy I'm dating updates his Facebook status constantly, but he takes hours to respond to my texts'，说明约会对象经常更新Facebook状态但回复消息很慢，这种行为让对方感到不满。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 150.2,
-      "endTime": 156,
-      "difficulty": "hard",
+      "startTime": 628.1,
+      "endTime": 635.2,
+      "difficulty": "easy",
       "relatedWords": [
-        "recall",
-        "must have",
-        "past perfect"
+        "Facebook status",
+        "respond",
+        "texts"
       ]
     },
     {
       "id": 12,
       "type": "choice",
-      "question": "What does the word 'workaholic' mean?",
+      "question": "What does 'splitting the bill' mean?",
       "options": [
-        "A) A person who hates work",
-        "B) A person who works excessively",
-        "C) A person who is unemployed",
-        "D) A person who exercises frequently"
+        "A) One person pays everything",
+        "B) Dividing the cost between people",
+        "C) Paying the bill late",
+        "D) Forgetting to pay"
       ],
       "answer": "B",
-      "explanation": "'Workaholic'（工作狂）由'work'（工作）和'-aholic'（沉溺于...的人，类似alcoholic）组合而成，指那些无法停止工作、对工作过分投入的人。这是形容某种生活方式或习惯的常见词汇。",
+      "explanation": "'Splitting the bill'（AA制/分摊账单）意思是大家平分费用。Jenny提到'always end up splitting the bill. It kind of feels unfair'，表达了对总是分摊账单的不满。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 161.2,
-      "endTime": 168,
+      "startTime": 589.3,
+      "endTime": 591.1,
       "difficulty": "easy",
       "relatedWords": [
-        "workaholic",
-        "work",
-        "addiction"
+        "splitting the bill",
+        "unfair",
+        "cost"
       ]
     },
     {
       "id": 13,
       "type": "choice",
-      "question": "In the subtitle 'Libra, what's something about you?', what is 'Libra'?",
+      "question": "Why does Jenny say 'it's for the vibe' about drinking?",
       "options": [
-        "A) A constellation",
-        "B) A type of flower",
-        "C) A zodiac sign",
-        "D) A city name"
+        "A) She drinks because she likes the taste",
+        "B) She drinks for the social atmosphere even when she doesn't want to",
+        "C) She drinks to celebrate",
+        "D) She drinks when she's sad"
       ],
-      "answer": "C",
-      "explanation": "Libra（天秤座）是西方占星术中的十二星座之一，通常在9月23日至10月22日之间。这里主持人询问天秤座嘉宾的个人特点。",
+      "answer": "B",
+      "explanation": "Jenny说'that I didn't drink. But I'm out with my friends, so it's it's for the vibe'，意思是虽然她本来不想喝，但因为和朋友出来聚会，为了气氛/氛围（vibe）所以会喝。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 174.2,
-      "endTime": 180,
+      "startTime": 598.5,
+      "endTime": 600.8,
       "difficulty": "medium",
       "relatedWords": [
-        "Libra",
-        "zodiac",
-        "astrology"
+        "vibe",
+        "drinking",
+        "friends"
       ]
     },
     {
       "id": 14,
       "type": "choice",
-      "question": "What does 'I'm such a big fan of her music' mean?",
+      "question": "What is the perfect first date outfit according to Jenny's mom?",
       "options": [
-        "A) A large mechanical fan that blows air",
-        "B) A person who greatly admires the music",
-        "C) A type of sports equipment",
-        "D) A weather instrument"
+        "A) Always wear casual clothes",
+        "B) Always wear a dress",
+        "C) Always wear something comfortable",
+        "D) Always wear jeans"
       ],
       "answer": "B",
-      "explanation": "'Big fan'（铁粉/粉丝）在英语口语中表示对某人或某事非常喜爱和崇拜。'I'm a big fan of...' 是一种表达对他人作品/才能的欣赏和喜爱的常见说法。",
+      "explanation": "当被问及'What is the perfect first date outfit?'时，Jenny提到'My mom says I should always wear'，从上下文来看通常妈妈会建议穿裙子（dress）之类的正式一些的衣服。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 432.5,
-      "endTime": 438,
-      "difficulty": "easy",
+      "startTime": 613.1,
+      "endTime": 614.7,
+      "difficulty": "medium",
       "relatedWords": [
-        "big fan",
-        "admire",
-        "music"
+        "first date",
+        "outfit",
+        "dress"
       ]
     },
     {
       "id": 15,
       "type": "choice",
-      "question": "What is a 'cold plunge' based on the context 'What is the longest you've ever lasted in a cold plunge'?",
+      "question": "What is 'Kuma' most likely to be based on the context?",
       "options": [
-        "A) A winter swimming competition",
-        "B) Immersing oneself in cold water for health benefits",
-        "C) A type of cocktail",
-        "D) A dance move"
+        "A) A friend",
+        "B) A pet (likely a dog)",
+        "C) A car",
+        "D) A brand name"
       ],
       "answer": "B",
-      "explanation": "'Cold plunge'（冰水浴/冷水浸浴）是一种流行的健康和恢复疗法，指将身体浸入冰水中以促进血液循环、减轻炎症、增强意志力等。这是一种近年流行的健康挑战。",
+      "explanation": "字幕中提到'they need to impress you or Kuma first?'和'don't see Kuma for weeks'，从'impress you or Kuma'（先要取悦你或Kuma）的语境来看，Kuma很可能是一只宠物（很可能是狗），是Jenny的伴侣。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 536.3,
-      "endTime": 542,
+      "startTime": 493.5,
+      "endTime": 522.4,
       "difficulty": "medium",
       "relatedWords": [
-        "cold plunge",
-        "ice bath",
-        "wellness"
+        "Kuma",
+        "pet",
+        "impress"
       ]
     },
     {
       "id": 16,
       "type": "choice",
-      "question": "In the context 'I'm not really a heel', what does 'heel' most likely mean here?",
+      "question": "What does 'Tea' mean in modern slang as used in the video?",
       "options": [
-        "A) A type of shoe",
-        "B) A villainous or unkind person",
-        "C) A short person",
-        "D) A dance move"
+        "A) A hot beverage",
+        "B) Gossip or truth",
+        "C) A type of clothing",
+        "D) Dinner"
       ],
       "answer": "B",
-      "explanation": "在英语俚语中，'heel'（原意为脚后跟或鞋跟）源自摔跤术语，指反派或坏人。'I'm not really a heel' 表示说话者自认为不是一个坏人或刻薄的人，强调自己善良的本性。",
+      "explanation": "在现代俚语中，'Tea'（茶）代表'gossip'（八卦）或'truth'（真相），源自' spill the tea'（爆料）这一表达。字幕中'Tea.'的使用正是这个意思。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 620.2,
-      "endTime": 626,
+      "startTime": 888,
+      "endTime": 890.3,
       "difficulty": "hard",
       "relatedWords": [
-        "heel",
-        "villain",
-        "wrestling slang"
+        "tea",
+        "gossip",
+        "slang"
       ]
     },
     {
       "id": 17,
       "type": "choice",
-      "question": "What does 'double text' mean in the question 'Would you double text?'",
+      "question": "What does Willa say about trusting the person she's dating?",
       "options": [
-        "A) Sending two consecutive messages without receiving a reply",
-        "B) Writing messages in all capital letters",
-        "C) Sending only emojis",
-        "D) Texting two people at the same time"
+        "A) She doesn't trust him at all",
+        "B) She trusts his instinct better than hers",
+        "C) She only trusts her own instincts",
+        "D) She doesn't trust anyone"
       ],
-      "answer": "A",
-      "explanation": "'Double text' 是指在没有收到对方回复的情况下，连续发送第二条短信的行为。这是现代约会文化中一个讨论度很高的话题，有人觉得是焦虑的表现，也有人认为紧急情况时可以理解。",
+      "answer": "B",
+      "explanation": "Willa说'Always. I trust his instinct better than mine'，表示她非常信任约会对象的直觉，甚至超过信任自己的直觉。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 650.1,
-      "endTime": 656,
+      "startTime": 510.2,
+      "endTime": 510.9,
       "difficulty": "medium",
       "relatedWords": [
-        "double text",
-        "messaging",
-        "dating etiquette"
+        "trust",
+        "instinct",
+        "dating"
       ]
     },
     {
       "id": 18,
       "type": "choice",
-      "question": "What is the speaker implying with 'In case emergency, unless...'?",
+      "question": "How would Jenny describe the artist's lyrics?",
       "options": [
-        "A) They would only send another text in an emergency",
-        "B) They always send multiple messages",
-        "C) They never reply to anyone",
-        "D) They prefer phone calls over texts"
+        "A) Simple and boring",
+        "B) Highly specific and meaningful",
+        "C) Hard to understand",
+        "D) Repetitive"
       ],
-      "answer": "A",
-      "explanation": "说话者表示'除非紧急情况'才会再发短信。这说明他们的立场是：一般情况下不会连环发信息（double text），但如果有紧急事件则可以例外。",
+      "answer": "B",
+      "explanation": "字幕中提到'This one is highly specific. I think'，Jenny认为某位艺术家的歌词是'highly specific'（非常具体/有针对性）的。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 659,
-      "endTime": 665,
-      "difficulty": "hard",
+      "startTime": 487.1,
+      "endTime": 491,
+      "difficulty": "medium",
       "relatedWords": [
-        "emergency",
-        "unless",
-        "communication"
+        "lyrics",
+        "highly specific",
+        "music"
       ]
     },
     {
       "id": 19,
       "type": "choice",
-      "question": "The context 'If you're not replying back to me for...' is most likely about:",
+      "question": "What is the meaning of 'a dream' as used by Jenny about collaborating with the artist?",
       "options": [
-        "A) Email etiquette in the workplace",
-        "B) Expectations around texting and response times",
-        "C) How to leave a voicemail",
-        "D) Social media comment rules"
+        "A) Something that happens while sleeping",
+        "B) A wishful fantasy or aspiration",
+        "C) A nightmare",
+        "D) An illusion"
       ],
       "answer": "B",
-      "explanation": "从上下文（关于double text、emergency等讨论）来看，这是在讨论短信往来的规则和对方回复的期待时间。这是当代约会和社交关系中一个非常实际的话题。",
+      "explanation": "当被问及'Can we expect a'（合作）时，Jenny回答'A dream. A dream.'（做梦一样/梦寐以求），表达了她对能与该艺术家合作感到非常兴奋和期待。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 666.6,
-      "endTime": 673,
-      "difficulty": "hard",
+      "startTime": 469.3,
+      "endTime": 472.6,
+      "difficulty": "easy",
       "relatedWords": [
-        "replying",
-        "texting",
-        "response time"
+        "dream",
+        "collaborate",
+        "aspiration"
       ]
     },
     {
       "id": 20,
       "type": "choice",
-      "question": "What does the idiom 'on the edge of my seat' mean?",
+      "question": "What does 'for a good, like a minute' mean in context?",
       "options": [
-        "A) Physically balancing on a chair",
-        "B) Feeling very excited, anxious, or anticipatory",
-        "C) About to stand up and leave",
-        "D) Sitting in a dangerous position"
+        "A) For exactly 60 seconds",
+        "B) For a short period of time, approximately",
+        "C) For one minute in a song",
+        "D) For a clock minute"
       ],
       "answer": "B",
-      "explanation": "'On the edge of one's seat' 是一个英语习语，形容因为紧张、兴奋或期待而全身心投入、坐立不安的状态。常用于描述观看精彩比赛、悬疑电影或等待重要消息时的心情。",
+      "explanation": "'For a good, like a minute'是口语化表达，意思是'大约一分钟左右'，用来描述持续的时间长度，是一种不精确的时间估计。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 778.9,
-      "endTime": 785,
+      "startTime": 371.1,
+      "endTime": 371.8,
       "difficulty": "medium",
       "relatedWords": [
-        "on the edge of my seat",
-        "excited",
-        "anticipation"
+        "for a minute",
+        "duration",
+        "colloquial"
       ]
     },
     {
       "id": 21,
       "type": "speaking",
-      "question": "In your opinion, what are some 'red flags' on a first date? Have you ever experienced any of them? Describe what happened.",
+      "question": "Introduce yourself as if you were the host of the 'Blind Date' show, following Willa Bennett's example.",
       "options": [],
       "answer": "open",
-      "explanation": "这是一道开放性口语题。常见的约会红旗包括：对方总是看手机、谈论前任、迟到不道歉、态度傲慢、对服务员不礼貌、撒谎、过早谈论私密话题、过于自恋等。学生可以结合自己的经历或想象来回答，注意时态和表达的流畅性。",
-      "referenceAnswer": "Students should mention at least 2-3 specific red flags (e.g., constantly checking phone, talking about ex, being rude to waiters) and ideally share a brief personal experience or hypothetical scenario. Use past tense for experiences and present tense for opinions.",
-      "hint": "Think about behaviors that would make you uncomfortable. Consider things like: being rude to others, lying, being on their phone constantly, or talking about their ex too much.",
-      "startTime": 2.7,
-      "endTime": 10,
+      "explanation": "Willa的开场白是'Hi, I'm Willa Bennett and this is Blind Date'，你需要模仿这种自我介绍的格式，用自己的名字和节目名称来介绍自己。",
+      "referenceAnswer": "Hi, I'm [Your Name] and this is Blind Date. Welcome to the show!",
+      "hint": "Follow the pattern: 'I'm [name] and this is Blind Date'",
+      "startTime": 18,
+      "endTime": 21,
       "difficulty": "easy",
       "relatedWords": [
-        "red flag",
-        "first date",
-        "experience"
+        "introduction",
+        "Blind Date",
+        "Willa Bennett"
       ]
     },
     {
       "id": 22,
       "type": "speaking",
-      "question": "How are you currently exploring yourself and your creative side? Talk about any new hobbies, skills, or interests you are developing.",
+      "question": "Express your opinion on 'double texting' using Willa's style. How would you answer?",
       "options": [],
       "answer": "open",
-      "explanation": "这是一道关于自我探索和创意的口语题。学生可以谈论任何正在尝试或学习的活动，如乐器、绘画、写作、烹饪、摄影、舞蹈等。重点是表达探索的过程和感受。",
-      "referenceAnswer": "Students should describe 1-2 specific creative pursuits (e.g., learning guitar, painting, writing poetry, cooking new cuisines) and explain what they enjoy about the exploration process. Use present continuous tense ('I'm learning...', 'I'm trying...') to describe current activities.",
-      "hint": "Think about things you have always wanted to try. Are you learning a musical instrument, a language, a sport, or a craft?",
-      "startTime": 85.8,
-      "endTime": 95,
-      "difficulty": "medium",
+      "explanation": "Willa在被问及是否会连续发两条消息时说'Always'（总会）。你需要用类似的简短直接的方式表达自己的观点。",
+      "referenceAnswer": "Sample answer: 'Always. I mean, if I have something to say, why not say it? Life is too short to play games with texting.'",
+      "hint": "Willa simply said 'Always.' Keep your answer short and direct.",
+      "startTime": 13.5,
+      "endTime": 15.7,
+      "difficulty": "easy",
       "relatedWords": [
-        "exploring",
-        "myself",
-        "creative"
+        "double text",
+        "opinion",
+        "texting"
       ]
     },
     {
       "id": 23,
       "type": "speaking",
-      "question": "Have you ever tried a cold plunge or done something physically challenging? Describe the experience and how it made you feel.",
+      "question": "If someone asked you 'What is the perfect first date outfit?', what would you answer based on the conversation?",
       "options": [],
       "answer": "open",
-      "explanation": "关于身体挑战的体验描述题。如果学生没有冰水浴的经验，可以谈论其他挑战，比如跑马拉松、攀岩、跳伞、第一次上健身课等。重点是描述身体感受和心理变化。",
-      "referenceAnswer": "Students should describe a specific physical challenge (could be cold plunge, marathon, rock climbing, first gym class, etc.) and focus on the physical sensations (cold, pain, exhaustion) and mental aspects (pushing limits, mental strength, sense of achievement). Use vivid descriptive language.",
-      "hint": "Think about the physical sensations (cold, adrenaline, muscle soreness) and the mental aspect of pushing your limits.",
-      "startTime": 536.3,
-      "endTime": 547,
+      "explanation": "讨论中提到'My mom says I should always wear'，这是一个关于第一次约会穿什么的问题。你需要结合Jenny的妈妈建议和自己的想法给出答案。",
+      "referenceAnswer": "Sample answer: 'My mom says I should always wear a dress, but honestly, I think comfort is key. I'd wear something that makes me feel confident and comfortable, like a nice top with jeans or a cute dress with sneakers.'",
+      "hint": "Mention both your mom's advice and your own preference about comfort and style.",
+      "startTime": 613.1,
+      "endTime": 614.7,
       "difficulty": "medium",
       "relatedWords": [
-        "cold plunge",
-        "challenge",
-        "physical"
+        "first date",
+        "outfit",
+        "fashion"
       ]
     },
     {
       "id": 24,
       "type": "speaking",
-      "question": "What is your opinion on 'double texting'? When do you think it is acceptable and when is it not?",
+      "question": "Describe how you would feel if your date updated their Facebook status constantly but took hours to reply to your texts. Use the phrase from the video.",
       "options": [],
       "answer": "open",
-      "explanation": "这道题讨论现代社交礼仪。学生可以从多个角度回答：紧急情况、对方已读不回、关系亲密度、个人风格等。可以持不同立场但要给出合理的理由。",
-      "referenceAnswer": "Students should present a clear opinion and support it with reasons. Acceptable examples: emergencies, important information, close relationships. Not acceptable: clingy behavior, lack of respect for boundaries, frequent unnecessary texts. Use conditional structures ('If...', 'When...') and modal verbs ('should', 'could', 'might').",
-      "hint": "Consider the urgency of the message, the relationship closeness, and how much time has passed. Is it different for friends vs. romantic interests?",
-      "startTime": 650.1,
-      "endTime": 660,
-      "difficulty": "medium",
+      "explanation": "视频中讨论了一个约会对象经常更新Facebook状态但回复消息很慢的问题。你需要描述自己面对这种情况的感受。",
+      "referenceAnswer": "Sample answer: 'It would feel really unfair and frustrating. Like, if you have time to update your status, you definitely have time to reply to my messages. It makes me feel like I'm not a priority.'",
+      "hint": "Express your feelings about this dating situation. Use the word 'unfair' in your answer.",
+      "startTime": 628.1,
+      "endTime": 635.2,
+      "difficulty": "hard",
       "relatedWords": [
-        "double text",
-        "opinion",
-        "etiquette"
+        "Facebook status",
+        "respond",
+        "unfair"
       ]
     },
     {
       "id": 25,
       "type": "speaking",
-      "question": "Describe a time when you were 'on the edge of your seat' - what made you feel so excited or anxious?",
+      "question": "Talk about an artist who is a 'walking inspiration' to you, similar to how Jenny described her idol.",
       "options": [],
       "answer": "open",
-      "explanation": "这道题要求学生用英语描述一个紧张刺激的经历。可以是看电影、比赛、考试、等待重要消息、坐过山车等。重点是使用生动的描述和表达情绪的词汇。",
-      "referenceAnswer": "Students should describe a specific event (watching a thriller movie, a sports game, waiting for exam results, riding a roller coaster, etc.) and explain what caused the suspense or excitement. Use strong descriptive verbs and emotional adjectives (terrifying, thrilling, nerve-wracking, breathtaking).",
-      "hint": "Think of moments like watching a suspenseful movie, the final minutes of a sports game, waiting for important news, or a thrilling experience.",
-      "startTime": 778.9,
-      "endTime": 787,
-      "difficulty": "easy",
+      "explanation": "Jenny形容某位艺术家为'a walking inspiration for me'，意思是这个人做什么都能激励她。你需要用类似的方式描述一个对你有影响的人。",
+      "referenceAnswer": "Sample answer: 'To me, [artist's name] is a walking inspiration. Anything she does is so authentic and bold. She inspires me to be myself and pursue my dreams without fear.'",
+      "hint": "Use the phrase 'a walking inspiration' and explain why this person inspires you.",
+      "startTime": 283.4,
+      "endTime": 285.9,
+      "difficulty": "medium",
       "relatedWords": [
-        "on the edge",
-        "excited",
-        "suspense"
+        "walking inspiration",
+        "idol",
+        "motivation"
       ]
     }
   ]

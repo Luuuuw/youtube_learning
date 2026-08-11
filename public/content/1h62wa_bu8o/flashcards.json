@@ -1,0 +1,284 @@
+{
+  "videoId": "1h62wa_bu8o",
+  "generatedAt": "2026-08-11T14:39:51.909Z",
+  "cards": [
+    {
+      "id": "msoroehwquoend",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "boogie boarding",
+      "back": "趴板冲浪 (noun, B1)",
+      "context": "We're gonna go **boogie boarding** right now.",
+      "audioStart": 587.83,
+      "audioEnd": 589.35,
+      "word": "boogie boarding",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.908Z"
+    },
+    {
+      "id": "msoroehwoxek5k",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "hike",
+      "back": "徒步旅行 (noun, B1)",
+      "context": "Two miles into our **hike**.",
+      "audioStart": 751.6,
+      "audioEnd": 751.74,
+      "word": "hike",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.908Z"
+    },
+    {
+      "id": "msoroehwk4egz9",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "sunset",
+      "back": "日落 (noun, B1)",
+      "context": "Look how beautiful the **sunset** is.",
+      "audioStart": 674.87,
+      "audioEnd": 676.97,
+      "word": "sunset",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.908Z"
+    },
+    {
+      "id": "msoroehwzy2j4p",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "vlog",
+      "back": "视频博客 (noun, B1)",
+      "context": "Alright guys, welcome back to the **vlog**.",
+      "audioStart": 16.76,
+      "audioEnd": 18.38,
+      "word": "vlog",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.908Z"
+    },
+    {
+      "id": "msoroehw3slxyw",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "striped",
+      "back": "有条纹的 (adjective, B1)",
+      "context": "That's **Striped** It.",
+      "audioStart": 30.96,
+      "audioEnd": 31.8,
+      "word": "striped",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.908Z"
+    },
+    {
+      "id": "msoroehwrpmjhf",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "pure",
+      "back": "纯净的 (adjective, B1)",
+      "context": "Pretty **pure**.",
+      "audioStart": 35.4,
+      "audioEnd": 35.96,
+      "word": "pure",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.908Z"
+    },
+    {
+      "id": "msoroehwwf86ew",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "dragging",
+      "back": "拖拽 (verb, B1)",
+      "context": "Kyle **dragging** me out of bed this morning, 5.30 in the morning.",
+      "audioStart": 50,
+      "audioEnd": 53.9,
+      "word": "dragging",
+      "tags": [
+        "CEFR-B1",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.908Z"
+    },
+    {
+      "id": "msoroehwnvdoos",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "faded",
+      "back": "退缩 (verb, B2)",
+      "context": "If it was Sunday, I probably would have **faded** respectfully.",
+      "audioStart": 56.62,
+      "audioEnd": 59.8,
+      "word": "faded",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.908Z"
+    },
+    {
+      "id": "msoroehwigmc1x",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "grinding",
+      "back": "刻苦训练 (verb, B2)",
+      "context": "I spent a total of seven hours **grinding** yesterday, working my game.",
+      "audioStart": 134.72,
+      "audioEnd": 139.98,
+      "word": "grinding",
+      "tags": [
+        "CEFR-B2",
+        "verb"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.909Z"
+    },
+    {
+      "id": "msoroehxapf82a",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "putting",
+      "back": "推杆 (noun, B1)",
+      "context": "Five hours on the course, two hours **putting**.",
+      "audioStart": 139.98,
+      "audioEnd": 142.96,
+      "word": "putting",
+      "tags": [
+        "CEFR-B1",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.909Z"
+    },
+    {
+      "id": "msoroehxlpbtyg",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "spackle",
+      "back": "补墙膏 (noun, B2)",
+      "context": "It's **spackle**.",
+      "audioStart": 419.85,
+      "audioEnd": 422.67,
+      "word": "spackle",
+      "tags": [
+        "CEFR-B2",
+        "noun"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.909Z"
+    },
+    {
+      "id": "msoroehxsrv5dh",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "vocab",
+      "type": "recognition",
+      "front": "insane",
+      "back": "疯狂的 (adjective, B1)",
+      "context": "That's the views **insane**.",
+      "audioStart": 770.12,
+      "audioEnd": 776.16,
+      "word": "insane",
+      "tags": [
+        "CEFR-B1",
+        "adjective"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:51.909Z"
+    },
+    {
+      "id": "msorodrhdvfzz4",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "是啊，至少今天不是周六，已经算好的了。 嗯，确实也是这么个理。\nIf it was Sunday, I probably ___ ___ ___ respectfully.",
+      "back": "would / have / faded",
+      "context": "If it was Sunday, I probably would have faded respectfully.",
+      "audioStart": 56.619,
+      "audioEnd": 59.799,
+      "hint": "would have faded",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:50.958Z"
+    },
+    {
+      "id": "msorodrjyyfz99",
+      "videoId": "1h62wa_bu8o",
+      "dimension": "sentence",
+      "type": "cloze",
+      "front": "今天对你可是大日子啊 今天对你可是大日子啊\nBig day for me, but ___'s ___ you ___ do if you want to be good.",
+      "back": "that / what / gotta",
+      "context": "Big day for me, but that's what you gotta do if you want to be good.",
+      "audioStart": 145.5,
+      "audioEnd": 149.479,
+      "hint": "that's what you gotta do",
+      "tags": [
+        "pattern"
+      ],
+      "owner": "__shared__",
+      "source": "ai",
+      "reviewedByAdmin": false,
+      "createdAt": "2026-08-11T14:39:50.959Z"
+    }
+  ]
+}

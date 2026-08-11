@@ -1,13 +1,13 @@
 {
   "videoId": "1h62wa_bu8o",
   "title": "1h62wa_bu8o",
-  "generatedAt": "2026-08-10T10:38:41.905Z",
+  "generatedAt": "2026-08-11T14:31:54.766Z",
   "version": 1,
   "totalQuestions": 24,
   "stats": {
-    "easy": 11,
-    "medium": 10,
-    "hard": 3,
+    "easy": 12,
+    "medium": 11,
+    "hard": 1,
     "choice": 20,
     "speaking": 4
   },
@@ -15,235 +15,211 @@
     {
       "id": 1,
       "type": "choice",
-      "question": "What does 'Look how nice this view is' most likely indicate about the speaker's current location?",
+      "question": "In the phrase 'Oh, Kyle striped it,' what does 'striped it' mean in a golf context?",
       "options": [
-        "A) The speaker is in a shopping mall",
-        "B) The speaker is at a scenic outdoor location",
-        "C) The speaker is in a classroom",
-        "D) The speaker is in a kitchen"
+        "A) He missed the ball completely",
+        "B) He hit the ball very straight and powerfully",
+        "C) He lost the golf ball",
+        "D) He hit the ball into the water"
       ],
       "answer": "B",
-      "explanation": "'Look how nice this view is' 表达说话者正在欣赏某个地方的风景，通常出现在户外或景点，结合后文提到去海滩，可以判断说话者在一个风景优美的户外地点。",
+      "explanation": "在高尔夫俚语中，'striped it' 是一个非常口语化的表达，指击球非常笔直、有力、完美，就像球被'切条'一样精准地飞出去。这是对好球的赞叹，不是失误。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 2.2,
-      "endTime": 4.4,
-      "difficulty": "easy",
+      "startTime": 35.8,
+      "endTime": 46.1,
+      "difficulty": "medium",
       "relatedWords": [
-        "view",
-        "scenic",
-        "outdoor",
-        "location"
+        "golf",
+        "striped",
+        "shot",
+        "straight"
       ]
     },
     {
       "id": 2,
       "type": "choice",
-      "question": "In 'we made it down to the beach', what does 'made it' mean?",
+      "question": "What does 'poop show' mean in the sentence 'You know poop show I guess but we're figuring out and solve it'?",
       "options": [
-        "A) We built a beach",
-        "B) We successfully arrived at the beach",
-        "C) We made a decision",
-        "D) We created something"
+        "A) A children's entertainment show",
+        "B) A messy or unfortunate situation",
+        "C) A circus performance",
+        "D) A comedy program"
       ],
       "answer": "B",
-      "explanation": "'Made it' 在口语中常表示'成功到达'某地，整句话意思是'我们成功到达海滩了'。这是一种常见的vlog开场表达方式。",
+      "explanation": "'Poop show' 是英语口语中的俚语，意为'糟糕的局面'或'一团糟的情况'。说话者用这个词形容遇到的问题，但接着说 'we're figuring out'（我们正在想办法解决），表达了积极面对困难的态度。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 4.6,
-      "endTime": 6.6,
-      "difficulty": "easy",
+      "startTime": 850,
+      "endTime": 870,
+      "difficulty": "medium",
       "relatedWords": [
-        "made it",
-        "arrive",
-        "beach",
-        "expression"
+        "slang",
+        "situation",
+        "problem",
+        "figure out"
       ]
     },
     {
       "id": 3,
       "type": "choice",
-      "question": "The speaker says 'Kyle dragging me out of bed this morning, 5:30 in the morning.' What does 'dragging me out of bed' imply?",
+      "question": "In the context 'Yeah, we're on the last hole on 18,' what does '18' refer to?",
       "options": [
-        "A) Kyle physically pulled the speaker out of bed",
-        "B) Kyle reluctantly convinced the speaker to wake up",
-        "C) Kyle forced or strongly persuaded the speaker to get up early",
-        "D) Kyle cleaned the speaker's bed"
+        "A) The 18th minute of the game",
+        "B) 18 different players",
+        "C) The 18th and final hole of the golf course",
+        "D) 18 strokes taken"
       ],
       "answer": "C",
-      "explanation": "'Drag someone out of bed' 是一个英语习语，意思是'强迫或强烈说服某人起床'，通常带有不情愿的意味。这里说话者暗示自己不想在早上5:30起床，是被Kyle拉起来的。",
+      "explanation": "在高尔夫运动中，标准球场一般有 18 个洞（hole），称为 '18 holes'。'We're on the last hole on 18' 意思是他们正在打第 18 洞，也是最后一洞，即将完成整场比赛。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 50,
-      "endTime": 53.9,
-      "difficulty": "medium",
+      "startTime": 200,
+      "endTime": 215,
+      "difficulty": "easy",
       "relatedWords": [
-        "drag",
-        "out of bed",
-        "wake up",
-        "idiom"
+        "golf",
+        "hole",
+        "18",
+        "course"
       ]
     },
     {
       "id": 4,
       "type": "choice",
-      "question": "What activity is the speaker referring to when they say 'playing 18' and mention 'Big John'?",
+      "question": "In the phrase 'a little buttery cut,' what is the speaker describing?",
       "options": [
-        "A) Playing basketball",
-        "B) Playing golf on an 18-hole course",
-        "C) Playing a video game level 18",
-        "D) Playing cards"
+        "A) A type of bread roll",
+        "B) A piece of food that is tender, juicy, and rich in flavor",
+        "C) A salad with butter dressing",
+        "D) A type of dessert"
       ],
       "answer": "B",
-      "explanation": "在高尔夫中，'playing 18' 指打满18个洞（标准高尔夫球场）。'Big John'很可能是指一支特定的球杆（一号木杆driver的别称）或同伴。结合后文提到'last hole on 18'，可以确定是打高尔夫。",
+      "explanation": "'Buttery cut' 是美食俚语，形容肉的切面像黄油一样柔软、顺滑、入口即化，说明这块肉非常鲜嫩多汁、口感丰富。这是形容牛排等高品质肉类的常用说法。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 26,
-      "endTime": 29.9,
-      "difficulty": "medium",
+      "startTime": 164.5,
+      "endTime": 185,
+      "difficulty": "hard",
       "relatedWords": [
-        "golf",
-        "18 holes",
-        "Big John",
-        "driver"
+        "food",
+        "buttery",
+        "tender",
+        "steak"
       ]
     },
     {
       "id": 5,
       "type": "choice",
-      "question": "What does the speaker mean by 'Kai had the whole production team'?",
+      "question": "In golf terminology, what does 'rocket hit' typically describe?",
       "options": [
-        "A) Kai owns a factory",
-        "B) Kai arranged an entire film/video production crew for the event",
-        "C) Kai works in manufacturing",
-        "D) Kai is a team manager at a company"
+        "A) A weak, short shot",
+        "B) A missed putt",
+        "C) A long, powerful drive",
+        "D) A ball thrown by hand"
       ],
-      "answer": "B",
-      "explanation": "'Production team' 在vlog语境下通常指'拍摄制作团队'，包括摄影师、导演、灯光师等。整句话意思是Kai为某个活动安排了完整的拍摄团队。",
+      "answer": "C",
+      "explanation": "'Rocket hit' 在高尔夫俚语中形容像火箭一样又远又有力的击球，强调击球的爆发力和飞行距离。这是一个非常正面的表达，描述了一记精彩的长打。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 78,
-      "endTime": 80.8,
-      "difficulty": "easy",
+      "startTime": 164.5,
+      "endTime": 185,
+      "difficulty": "medium",
       "relatedWords": [
-        "production team",
-        "film crew",
-        "vlog",
-        "arrange"
+        "golf",
+        "rocket",
+        "drive",
+        "powerful"
       ]
     },
     {
       "id": 6,
       "type": "choice",
-      "question": "When the speaker says 'Wow, that's sick Kai', what does 'sick' mean in this context?",
+      "question": "The word 'comida' in 'Got some comida right now' is borrowed from which language?",
       "options": [
-        "A) Kai is ill",
-        "B) Something is disgusting",
-        "C) Something is extremely cool or impressive (slang)",
-        "D) Something is broken"
+        "A) French",
+        "B) Italian",
+        "C) Spanish",
+        "D) German"
       ],
       "answer": "C",
-      "explanation": "在英语俚语中，'sick' 是一个非常流行的词汇，意思是'非常酷、令人惊叹'，是年轻人常用的褒义词。结合'Wow'的语气，可以确定说话者在表达赞叹。",
+      "explanation": "'Comida' 是西班牙语词汇，意为'食物'或'饭菜'。在英语中，特别是美国南部、加州、佛罗里达等西班牙语影响较大的地区，人们经常会用 'comida' 来指代食物（尤其是墨西哥菜或拉丁美食）。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 387.5,
-      "endTime": 389.6,
-      "difficulty": "medium",
+      "startTime": 570,
+      "endTime": 585,
+      "difficulty": "easy",
       "relatedWords": [
-        "sick",
-        "slang",
-        "awesome",
-        "impressive"
+        "comida",
+        "Spanish",
+        "food",
+        "borrowed"
       ]
     },
     {
       "id": 7,
       "type": "choice",
-      "question": "What does the speaker mean by 'was just like YOLO, no this is sick'?",
+      "question": "What does 'dinner fit' mean in 'this is my dinner fit'?",
       "options": [
-        "A) The speaker regrets their decision",
-        "B) The speaker is expressing excitement about a bold, once-in-a-lifetime decision (YOLO = You Only Live Once)",
-        "C) The speaker is studying a new subject",
-        "D) The speaker is describing a type of food"
+        "A) The food being served for dinner",
+        "B) The outfit the speaker is wearing for dinner",
+        "C) The restaurant where dinner is held",
+        "D) The mood for dinner"
       ],
       "answer": "B",
-      "explanation": "'YOLO' 是 'You Only Live Once'（你只活一次）的缩写，是年轻人用来鼓励自己大胆尝试、不留遗憾的口头禅。整句表达说话者对某件大胆之举感到兴奋，认为这很酷（sick）。",
+      "explanation": "'Fit' 在现代俚语中（尤其在 Z 世代和时尚文化中）是 'outfit'（穿搭）的缩写。'Dinner fit' 指的是为晚餐准备或搭配的服装造型，这是时尚博主和 vlogger 常用的说法。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 406.3,
-      "endTime": 417.2,
-      "difficulty": "hard",
+      "startTime": 590,
+      "endTime": 605,
+      "difficulty": "easy",
       "relatedWords": [
-        "YOLO",
-        "You Only Live Once",
-        "sick",
-        "slang"
+        "fit",
+        "outfit",
+        "dinner",
+        "fashion"
       ]
     },
     {
       "id": 8,
       "type": "choice",
-      "question": "The speaker says 'I signed it in the corner too.' What did the speaker most likely sign?",
+      "question": "In modern slang, what does 'It's a banger' usually mean?",
       "options": [
-        "A) A contract or document",
-        "B) A piece of artwork or a painting",
-        "C) A birthday card",
-        "D) An email"
+        "A) It's dangerous",
+        "B) It's loud and noisy",
+        "C) It's really awesome or amazing",
+        "D) It's a weapon"
       ],
-      "answer": "B",
-      "explanation": "在画作或艺术作品上签名是艺术家的常见做法，'in the corner' 指在作品的角落签名。结合上下文（礼物、惊喜），这里最可能是一幅画或艺术作品。",
+      "answer": "C",
+      "explanation": "'Banger' 在现代英语俚语中可以形容歌曲、食物、活动等非常棒、非常出色的事物。这个词最初源于形容派对上放的好歌，现在广泛用于表达对任何事物的赞叹。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 447,
-      "endTime": 449.4,
-      "difficulty": "medium",
+      "startTime": 640,
+      "endTime": 660,
+      "difficulty": "easy",
       "relatedWords": [
-        "sign",
-        "artwork",
-        "painting",
-        "artist"
+        "banger",
+        "slang",
+        "awesome",
+        "amazing"
       ]
     },
     {
       "id": 9,
       "type": "choice",
-      "question": "What does the speaker mean by 'this is my dinner fit'?",
+      "question": "What does 'vibe' mean in 'we're in Greece, like this is the vibe'?",
       "options": [
-        "A) This is the food for dinner",
-        "B) This is my outfit that I will wear to dinner (slang for 'outfit')",
-        "C) This is my diet plan",
-        "D) This is my dinner reservation"
+        "A) A musical vibration",
+        "B) The atmosphere, feeling, or mood of a place",
+        "C) A type of dance",
+        "D) A human voice"
       ],
       "answer": "B",
-      "explanation": "'Fit' 在英语俚语中是'outfit'（服装/穿搭）的缩写，特别在时尚和社交媒体中流行。'Dinner fit' 指专门为晚餐场合搭配的服装。",
+      "explanation": "'Vibe' 是 'vibration' 的缩写形式，在现代口语中指某个地方、场合或活动的整体氛围、感觉或情绪。例如 'summer vibe'（夏日氛围）、'Greece vibe'（希腊风情）都是这个用法。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 594,
-      "endTime": 597,
-      "difficulty": "medium",
-      "relatedWords": [
-        "fit",
-        "outfit",
-        "dinner",
-        "slang"
-      ]
-    },
-    {
-      "id": 10,
-      "type": "choice",
-      "question": "The speaker says 'I'm in Greece, this is the vibe, these are my sunglasses.' What is 'vibe' in this context?",
-      "options": [
-        "A) A vibrating device",
-        "B) The atmosphere, mood, or feeling of the place",
-        "C) A type of music",
-        "D) A piece of clothing"
-      ],
-      "answer": "B",
-      "explanation": "'Vibe' 是英语俚语中非常流行的词，意思是'氛围、感觉、心情'。说话者在希腊，用'this is the vibe'表达对当地氛围和心情的享受。",
-      "referenceAnswer": "",
-      "hint": "",
-      "startTime": 624.2,
-      "endTime": 627.2,
+      "startTime": 615,
+      "endTime": 635,
       "difficulty": "easy",
       "relatedWords": [
         "vibe",
@@ -253,319 +229,343 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "type": "choice",
-      "question": "What problem does the speaker mention about their GoPro?",
+      "question": "In 'we really went for like diva,' what does 'diva' mean in this context?",
       "options": [
-        "A) The GoPro is broken",
-        "B) The speaker forgot to bring the SD card for the GoPro",
-        "C) The GoPro is out of battery",
-        "D) The GoPro was lost"
+        "A) A famous female opera singer",
+        "B) A glamorous, stylish, and confident look",
+        "C) A strict female boss",
+        "D) A dramatic, difficult woman"
       ],
       "answer": "B",
-      "explanation": "说话者说 'I did not bring my SD card for my GoPro'，意思是忘记带SD存储卡了。SD卡是相机存储照片视频的必备配件，所以这'kinda sucks'（有点糟糕）。",
+      "explanation": "在时尚语境中，'diva' 不再是传统的贬义词，而是被重新定义为'华丽、迷人、有魅力'的时尚风格。'Go for diva' 意思是打扮得光彩照人、像明星一样耀眼，强调自信和魅力。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 588.9,
-      "endTime": 593,
-      "difficulty": "easy",
+      "startTime": 610,
+      "endTime": 625,
+      "difficulty": "medium",
       "relatedWords": [
-        "SD card",
-        "GoPro",
-        "camera",
-        "storage"
+        "diva",
+        "glamorous",
+        "fashion",
+        "style"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "question": "What does 'a lot of heart over that golf ball' imply?",
+      "options": [
+        "A) The golf ball has a heart pattern",
+        "B) The player showed great courage and determination",
+        "C) The player was being romantic",
+        "D) The ball is made of heart-shaped material"
+      ],
+      "answer": "B",
+      "explanation": "'Have a lot of heart' 是英语中的常用表达，意为'有勇气'、'有决心'、'全力以赴'。在高尔夫语境中，'a lot of heart over that golf ball' 是对击球者勇气和拼搏精神的赞赏，即使结果可能不完美。",
+      "referenceAnswer": "",
+      "hint": "",
+      "startTime": 38.2,
+      "endTime": 50,
+      "difficulty": "medium",
+      "relatedWords": [
+        "heart",
+        "courage",
+        "golf",
+        "determination"
       ]
     },
     {
       "id": 12,
       "type": "choice",
-      "question": "The speaker exclaims 'Oh, we can walk to the beach from here?' What emotion does this express?",
+      "question": "What does 'zoom action' mean in 'Do you want me to give a little zoom action or no?'",
       "options": [
-        "A) Anger",
-        "B) Disappointment",
-        "C) Pleasant surprise and excitement",
-        "D) Fear"
+        "A) A racing car movement",
+        "B) A camera zoom-in or zoom-out effect for the video",
+        "C) A video conference call",
+        "D) A running exercise"
       ],
-      "answer": "C",
-      "explanation": "句子以升调和'wait'开头，'Oh'加上问号表示说话者刚刚意识到一件令人愉快的事——原来从住处可以步行去海滩，表达了惊喜和兴奋。",
+      "answer": "B",
+      "explanation": "在视频拍摄和 vlog 语境中，'zoom action' 指的是摄像机的推拉镜头（zoom in / zoom out），即把镜头拉近或拉远的画面效果。说话者在询问是否要给镜头一些推拉变化来增加视频的视觉趣味。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 565,
-      "endTime": 568.5,
+      "startTime": 220,
+      "endTime": 240,
       "difficulty": "easy",
       "relatedWords": [
-        "surprise",
-        "excitement",
-        "beach",
-        "walk"
+        "zoom",
+        "camera",
+        "video",
+        "vlog"
       ]
     },
     {
       "id": 13,
       "type": "choice",
-      "question": "What does 'They all went to get ice creams' imply about the group?",
+      "question": "What are 'beach day passes' in 'We got beach day passes today'?",
       "options": [
-        "A) The group split up to buy ice cream",
-        "B) Everyone got sick from ice cream",
-        "C) They are selling ice cream",
-        "D) They dislike ice cream"
+        "A) Train tickets to the beach",
+        "B) Documents giving access to a beach or beach club area",
+        "C) Permission slips from parents",
+        "D) Beach-themed fashion items"
       ],
-      "answer": "A",
-      "explanation": "'They all went to get ice creams' 表明团队中的其他人一起去买冰激凌了，说话者可能留下来做别的事情或没有一起去。",
+      "answer": "B",
+      "explanation": "'Pass' 在这里指'通行证'或'入场券'。'Beach day passes' 是进入某些海滩俱乐部、度假村或付费海滩区域的凭证，类似于门票或会员卡的功能。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 551.3,
-      "endTime": 552.5,
+      "startTime": 480,
+      "endTime": 495,
       "difficulty": "easy",
       "relatedWords": [
-        "ice cream",
-        "group",
-        "split up",
-        "went to get"
+        "beach",
+        "pass",
+        "ticket",
+        "access"
       ]
     },
     {
       "id": 14,
       "type": "choice",
-      "question": "The speaker says 'It's don't lie.' This is an example of:",
+      "question": "In 'I told her to give me a craft to make,' what does 'craft' mean?",
       "options": [
-        "A) Standard formal English",
-        "B) Grammatically incorrect but commonly used casual/informal speech",
-        "C) A direct quote from a textbook",
-        "D) Old English"
+        "A) A professional skill or trade",
+        "B) A handmade art project or DIY activity",
+        "C) A type of boat or ship",
+        "D) A deceptive trick"
       ],
       "answer": "B",
-      "explanation": "这是一个语法上不规范的口语表达，正确的应该是 'Don't lie' 或 'It's not a lie'。但在vlog的随意语境中，说话者把 'It is' 和 'don't lie' 混在一起说，这是常见的非正式英语现象。",
+      "explanation": "在日常生活语境中，'craft' 指的是手工制作的活动或作品，例如绘画、剪纸、手工装饰品等。这里说话者让朋友给他一个手工项目来做，后来 Emma 给他画了一幅画（painting），就是 'craft' 的具体表现。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 389.6,
-      "endTime": 390.6,
-      "difficulty": "hard",
+      "startTime": 363.5,
+      "endTime": 380,
+      "difficulty": "easy",
       "relatedWords": [
-        "informal",
-        "grammar",
-        "casual speech",
-        "vlog"
+        "craft",
+        "handmade",
+        "DIY",
+        "art"
       ]
     },
     {
       "id": 15,
       "type": "choice",
-      "question": "When the speaker says 'Almost as beautiful as you', what is the context most likely to be?",
+      "question": "What is a 'vlog' as mentioned in 'welcome back to the vlog'?",
       "options": [
-        "A) Comparing two landscapes",
-        "B) A compliment to someone (likely a partner or friend) about their appearance",
-        "C) Describing a painting",
-        "D) Complaining about the weather"
+        "A) A type of seafood dish",
+        "B) A video blog, typically posted online",
+        "C) A logo or brand mark",
+        "D) A musical performance"
       ],
       "answer": "B",
-      "explanation": "从句子结构看，前面应该提到某样事物（比如日落、风景），然后说话者用'Almost as beautiful as you'来赞美面前的某个人。这是英文中常见的浪漫/友好表达方式。",
+      "explanation": "'Vlog' 是 'video blog' 的缩写，指以视频形式记录和分享个人生活、想法或活动的博客形式。Vlogger（视频博主）会在 YouTube、抖音等平台发布 vlog 内容，记录日常生活点滴。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 677.2,
-      "endTime": 679.8,
-      "difficulty": "medium",
+      "startTime": 15,
+      "endTime": 30,
+      "difficulty": "easy",
       "relatedWords": [
-        "beautiful",
-        "compliment",
-        "comparison",
-        "romantic"
+        "vlog",
+        "video",
+        "blog",
+        "YouTube"
       ]
     },
     {
       "id": 16,
       "type": "choice",
-      "question": "What does the speaker mean by 'We're done with Alex'?",
+      "question": "In 'getting really gained right now,' what does 'gained' most likely refer to?",
       "options": [
-        "A) We finished spending time with Alex",
-        "B) We don't like Alex",
-        "C) Alex finished a task",
-        "D) Alex is leaving forever"
+        "A) Gaining money or wealth",
+        "B) Gaining muscle or weight from exercise",
+        "C) Gaining knowledge or experience",
+        "D) Gaining speed or momentum"
       ],
-      "answer": "A",
-      "explanation": "'We're done with [someone]' 在日常口语中表示'和某人相处/活动结束了'，并不一定是负面的意思。结合vlog的轻松语气，这里指和Alex的活动告一段落。",
+      "answer": "B",
+      "explanation": "在健身和生活类 vlog 语境中，'gained' 通常指通过锻炼、饮食获得了肌肉量或体重增加。说话者结合前面的 'getting really'（正在持续），表示身体在通过锻炼取得明显增长。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 346.5,
-      "endTime": 347.7,
-      "difficulty": "easy",
+      "startTime": 465,
+      "endTime": 480,
+      "difficulty": "medium",
       "relatedWords": [
-        "done with",
-        "finished",
-        "hang out",
-        "casual"
+        "gain",
+        "muscle",
+        "fitness",
+        "workout"
       ]
     },
     {
       "id": 17,
       "type": "choice",
-      "question": "What does 'A little heart' most likely refer to in context?",
+      "question": "In the golf context 'Yeah, it's a big one,' what is most likely being referred to?",
       "options": [
-        "A) A small organ in the body",
-        "B) A heart-shaped object or drawing",
-        "C) A love song",
-        "D) A medical condition"
+        "A) A big mistake on the course",
+        "B) A long, powerful golf shot",
+        "C) The size of the golf ball",
+        "D) The golf course itself"
       ],
       "answer": "B",
-      "explanation": "结合视频vlog的轻松氛围，'A little heart' 最可能是指心形的图案、贴纸、装饰物或手绘的心形，是vlog中常见的可爱表达。",
+      "explanation": "结合高尔夫语境，'it's a big one' 形容一记又远又大力的击球。'Big' 在这里指击球的距离和力度，是球友之间对精彩击球的感叹和认可。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 114.2,
-      "endTime": 115.4,
-      "difficulty": "easy",
+      "startTime": 300,
+      "endTime": 315,
+      "difficulty": "medium",
       "relatedWords": [
-        "heart",
-        "heart-shaped",
-        "cute",
-        "shape"
+        "golf",
+        "shot",
+        "big",
+        "powerful"
       ]
     },
     {
       "id": 18,
       "type": "choice",
-      "question": "The speaker says 'All right, guys, so we got the bathing suit on. And now we're going to head to the beach.' What is about to happen?",
+      "question": "What does 'I'm in shock' mean in 'Wait you actually like it... I'm in shock'?",
       "options": [
-        "A) They are going to cook dinner",
-        "B) They are going swimming at the beach",
-        "C) They are going shopping",
-        "D) They are going to a movie"
+        "A) The speaker is feeling physically hurt",
+        "B) The speaker is extremely surprised",
+        "C) The speaker is feeling sick",
+        "D) The speaker is emotionally cold"
       ],
       "answer": "B",
-      "explanation": "'Got the bathing suit on' 表明已经换好了泳衣，'head to the beach' 意味着出发去海滩，综合起来可以判断他们即将去海滩游泳或戏水。",
+      "explanation": "'In shock' 在口语中表示'震惊'、'非常惊讶'。说话者原本没有预期对方会真的喜欢某个东西，结果对方说真的喜欢，让他感到非常意外和惊喜。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 461.2,
-      "endTime": 466.5,
+      "startTime": 405,
+      "endTime": 425,
       "difficulty": "easy",
       "relatedWords": [
-        "bathing suit",
-        "beach",
-        "swim",
-        "head to"
+        "shock",
+        "surprise",
+        "unexpected",
+        "amazed"
       ]
     },
     {
       "id": 19,
       "type": "choice",
-      "question": "When the speaker says 'Yeah, you can't even swim', the implied tone is most likely:",
+      "question": "What is a 'painting' as mentioned in 'Emma made me a painting for my apartment'?",
       "options": [
-        "A) Serious criticism",
-        "B) Teasing or playful mockery among friends",
-        "C) A formal warning",
-        "D) Giving swimming lessons"
+        "A) A piece of furniture",
+        "B) An artwork created using paint on a surface",
+        "C) A printed photograph",
+        "D) A pencil sketch"
       ],
       "answer": "B",
-      "explanation": "在朋友间的轻松对话中，'you can't even swim' 通常是开玩笑的调侃，而不是真的批评。结合vlog的随性氛围，这应该是一种朋友间的打趣。",
+      "explanation": "'Painting' 是用颜料（paint）在画布或纸面上创作的艺术作品。这里 Emma 为朋友的公寓画了一幅画，作为装饰和礼物。'Painting' 与 'drawing'（素描）不同，前者使用颜料，后者多用铅笔或钢笔。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 521.4,
-      "endTime": 522.5,
-      "difficulty": "medium",
+      "startTime": 363.5,
+      "endTime": 380,
+      "difficulty": "easy",
       "relatedWords": [
-        "teasing",
-        "playful",
-        "mockery",
-        "friends"
+        "painting",
+        "art",
+        "Emma",
+        "apartment"
       ]
     },
     {
       "id": 20,
       "type": "choice",
-      "question": "What does 'Guys, we're going to get some good photos' suggest about the upcoming activity?",
+      "question": "What does 'I like that you film on the iPhone too' imply about the speaker?",
       "options": [
-        "A) They are printing photos",
-        "B) They are going to a photo studio",
-        "C) They are about to take photos in a scenic or photogenic location",
-        "D) They are deleting photos"
+        "A) The speaker dislikes iPhone filming",
+        "B) The speaker appreciates the casual, relatable filming style",
+        "C) The speaker wants to buy an iPhone",
+        "D) The speaker is a professional filmmaker"
       ],
-      "answer": "C",
-      "explanation": "'Get some good photos' 意味着即将拍摄照片，通常发生在风景优美或光线好的地方，暗示着接下来会有一次摄影活动。",
+      "answer": "B",
+      "explanation": "说话者用 'I like that...' 表示欣赏对方用 iPhone 拍摄的方式。在 vlog 文化中，iPhone 拍摄代表着真实、随性、贴近生活的风格，不同于专业设备的距离感。'Too' 表示说话者自己也用 iPhone 拍摄，表达了共鸣。",
       "referenceAnswer": "",
       "hint": "",
-      "startTime": 666.2,
-      "endTime": 667.9,
-      "difficulty": "easy",
+      "startTime": 65,
+      "endTime": 80,
+      "difficulty": "medium",
       "relatedWords": [
-        "photos",
-        "scenic",
-        "photogenic",
-        "shoot"
+        "iPhone",
+        "film",
+        "vlog",
+        "relatable"
       ]
     },
     {
       "id": 21,
       "type": "speaking",
-      "question": "Imagine you are at a beautiful beach like the one in the video. Describe your perfect beach day in 3-5 sentences. What activities would you do?",
+      "question": "Describe a meaningful gift you've received from a friend or family member. Why was it special to you?",
       "options": [],
       "answer": "open",
-      "explanation": "本题为开放式口语题，参考视频中说话者描述海滩活动的语气和用词，让学习者练习用英语描述自己的理想海滩日。",
-      "referenceAnswer": "Sample answer: 'I would wake up early and go for a run along the beach. Then I would swim in the ocean and get some ice cream with my friends. In the afternoon, I would relax under an umbrella and read a book. At sunset, I would take some good photos. It would be a perfect day with a great vibe.'",
-      "hint": "Think about: morning activities, water activities, food, and relaxing moments. Use past tense or 'would' for hypotheticals.",
-      "startTime": 461.2,
-      "endTime": 475.1,
+      "explanation": "本题对应字幕中 Emma 为朋友画了一幅画的情节，引导学习者用英语描述自己收到过的有意义的礼物，并解释其特别之处，练习过去时态和情感表达。",
+      "referenceAnswer": "A meaningful gift could be: a handmade painting, a handwritten letter, a piece of jewelry, or a photo album. You should describe: 1) Who gave it to you, 2) What it was, 3) When/where you received it, 4) Why it's special or meaningful to you. Use past tense and emotional adjectives like 'thoughtful,' 'heartfelt,' 'meaningful.'",
+      "hint": "Think about: Who gave it? What was it? When did you receive it? How did it make you feel? Why is it special?",
+      "startTime": 363.5,
+      "endTime": 380,
       "difficulty": "medium",
       "relatedWords": [
-        "beach",
-        "perfect day",
-        "activities",
-        "describe"
+        "gift",
+        "painting",
+        "meaningful",
+        "friend"
       ]
     },
     {
       "id": 22,
       "type": "speaking",
-      "question": "The video shows someone receiving a surprise gift (an artwork). Talk about a time you received a meaningful gift. What was it and how did you feel?",
+      "question": "Describe your perfect beach day. What would you do and who would you spend it with?",
       "options": [],
       "answer": "open",
-      "explanation": "本题让学习者练习用英语描述收到礼物的经历，结合视频中'I really like it'、'I'm in shock'等情感表达。",
-      "referenceAnswer": "Sample answer: 'Last year, my best friend gave me a painting for my birthday. She signed it in the corner, just like in the video. I was so surprised and happy. It was a really thoughtful gift because she knew I loved art. I still have it hanging in my room. Every time I see it, I think of her.'",
-      "hint": "Use past tense. Include: who gave it, what it was, your reaction, and why it was special.",
-      "startTime": 380,
-      "endTime": 417.2,
-      "difficulty": "medium",
+      "explanation": "本题对应字幕中 'We got beach day passes today' 的情节，让学习者用英语描述理想的海滩日，练习未来时态、地点描述和活动安排。",
+      "referenceAnswer": "Your perfect beach day could include: swimming in the ocean, sunbathing, playing beach volleyball, having a picnic, watching the sunset, listening to music, or reading a book. Mention: 1) The location (specific beach), 2) The weather, 3) Activities you'd do, 4) People you'd go with (friends, family, partner), 5) Food and drinks you'd bring. Use future tense and descriptive vocabulary.",
+      "hint": "Think about: Where would you go? What activities? What food? Who would you invite? What would you wear?",
+      "startTime": 480,
+      "endTime": 495,
+      "difficulty": "easy",
       "relatedWords": [
-        "gift",
-        "surprise",
-        "meaningful",
-        "present"
+        "beach",
+        "perfect",
+        "day",
+        "activities"
       ]
     },
     {
       "id": 23,
       "type": "speaking",
-      "question": "The speaker describes their 'dinner fit' (outfit for dinner). Describe your favorite outfit in detail. What would you wear to a special dinner?",
+      "question": "What is your 'dinner fit'? Describe the outfit you would wear to a nice dinner with friends.",
       "options": [],
       "answer": "open",
-      "explanation": "本题训练学习者用英语描述服装搭配，练习'fit'这个俚语以及服装相关的词汇。",
-      "referenceAnswer": "Sample answer: 'For a special dinner, I would wear a nice black dress with my favorite pair of heels. I would also bring my sunglasses because the vibe would be amazing, just like in Greece. I would add some simple jewelry, like a little heart necklace. This is my go-to dinner fit.'",
-      "hint": "Use the slang 'fit' for outfit. Include: clothing items, colors, accessories, and the occasion.",
-      "startTime": 594,
-      "endTime": 611,
+      "explanation": "本题对应字幕中 'this is my dinner fit' 的内容，学习者需要描述自己为晚餐准备的穿搭，练习服装类词汇、颜色描述和时尚表达。",
+      "referenceAnswer": "Describe: 1) The overall style (casual, elegant, trendy, chic), 2) Specific clothing items (dress, jeans, blazer, heels, sneakers), 3) Colors and patterns, 4) Accessories (jewelry, bag, sunglasses), 5) Why you chose this outfit (comfort, confidence, occasion). Example: 'For my dinner fit, I'd wear a little black dress with gold heels and a small clutch bag—classic and elegant.'",
+      "hint": "Think about: The style? The clothes? The colors? Accessories? Why this outfit? Is it casual, fancy, or trendy?",
+      "startTime": 590,
+      "endTime": 610,
       "difficulty": "medium",
       "relatedWords": [
-        "outfit",
         "dinner fit",
+        "outfit",
         "fashion",
-        "describe"
+        "style"
       ]
     },
     {
       "id": 24,
       "type": "speaking",
-      "question": "The speaker forgot their SD card for the GoPro. Talk about a time you forgot something important during a trip. What happened and how did you handle it?",
+      "question": "Do you prefer filming videos on a phone (like an iPhone) or on a professional camera? Why?",
       "options": [],
       "answer": "open",
-      "explanation": "本题让学习者练习用英语讲述旅行中遗忘物品的经历，训练过去时和叙事能力。",
-      "referenceAnswer": "Sample answer: 'Once when I was on vacation, I forgot my phone charger. It really sucked because I couldn't take any photos on the second day. Luckily, I found a store nearby and bought a new one. Since then, I always make a checklist before every trip. The speaker in the video had a similar problem with the SD card, and I totally understand that feeling.'",
-      "hint": "Use past tense. Include: what you forgot, the consequence, and how you solved the problem.",
-      "startTime": 588.9,
-      "endTime": 593,
-      "difficulty": "hard",
+      "explanation": "本题对应字幕中 'I like that you film on the iPhone too'，引导学习者讨论对拍摄设备偏好的看法，练习表达观点、比较和给出理由。",
+      "referenceAnswer": "Your answer should include: 1) Your preference (phone vs. professional camera), 2) Reasons for your choice (convenience, quality, cost, portability, ease of use), 3) Examples of when each is better. Example: 'I prefer filming on my iPhone because it's more convenient and the quality is good enough for social media. But for special projects, a professional camera would give better results.'",
+      "hint": "Think about: Which do you prefer? What are the pros and cons? What's easier to use? Where do you usually post videos?",
+      "startTime": 65,
+      "endTime": 80,
+      "difficulty": "medium",
       "relatedWords": [
-        "forget",
-        "trip",
-        "SD card",
-        "problem"
+        "iPhone",
+        "camera",
+        "film",
+        "vlog"
       ]
     }
   ]
