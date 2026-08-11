@@ -359,6 +359,14 @@ export default function VideoLearningPage({
               <Mic className="h-3.5 w-3.5" />
               <span className="hidden sm:inline">跟读</span>
             </button>
+            <Link
+              href={`/flashcards/${id}`}
+              className="flex items-center gap-1 px-2 py-1 rounded-md text-xs font-medium text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
+              title="闪卡复习"
+            >
+              <BookOpen className="h-3.5 w-3.5" />
+              <span className="hidden sm:inline">闪卡</span>
+            </Link>
             {role !== 'admin' && (
               <Link href="/profile" className="flex items-center justify-center w-7 h-7 rounded-md bg-primary/10 text-primary hover:bg-primary/20 transition-colors" title="个人主页">
                 <User className="h-3.5 w-3.5" />

@@ -60,6 +60,55 @@ export function initialState(cardId: string, owner: string): FlashcardState {
   };
 }
 
+// Normalize old state format (snake_case + numeric state + different difficulty scale)
+// to the current FlashcardState shape. Safe to call on already-normalized data.
+const STATE_NUMERIC_MAP = ['new', 'learning', 'review', 'relearning'] as const;
+
+export function normalizeState(raw: Record<string, unknown>): FlashcardState {
+  const cardId = String(raw.cardId ?? '');
+  const owner = String(raw.owner ?? '');
+  const stability = Number(raw.stability ?? DEFAULT_STABILITY);
+  const reps = Number(raw.reps ?? 0);
+  const lapses = Number(raw.lapses ?? 0);
+
+  // difficulty: old format may be on a 0-10 scale; normalize to 0-1
+  let difficulty = Number(raw.difficulty ?? DEFAULT_DIFFICULTY);
+  if (difficulty > 1) difficulty = clamp(difficulty / 10, 0, 1);
+
+  // elapsed / scheduled days: handle both camelCase and snake_case
+  const elapsedDays = Number(raw.elapsedDays ?? raw.elapsed_days ?? 0);
+  const scheduledDays = Number(raw.scheduledDays ?? raw.scheduled_days ?? 0);
+
+  // lastReview: handle both keys; truncate to date-only
+  const lastReviewRaw = String(raw.lastReview ?? raw.last_review ?? isoDate());
+  const lastReview = lastReviewRaw.slice(0, 10);
+
+  // nextReview: use nextReview key, or due field, or compute from lastReview + scheduledDays
+  let nextReview: string;
+  if (raw.nextReview ?? raw.next_review) {
+    nextReview = String(raw.nextReview ?? raw.next_review).slice(0, 10);
+  } else if (raw.due) {
+    nextReview = String(raw.due).slice(0, 10);
+  } else {
+    const d = new Date(lastReview + 'T00:00:00');
+    d.setDate(d.getDate() + scheduledDays);
+    nextReview = isoDate(d);
+  }
+
+  // state: numeric (0-3) or string
+  let state: FlashcardState['state'];
+  const rawState = raw.state;
+  if (typeof rawState === 'number') {
+    state = STATE_NUMERIC_MAP[rawState] ?? 'new';
+  } else if (typeof rawState === 'string' && ['new', 'learning', 'review', 'relearning'].includes(rawState)) {
+    state = rawState as FlashcardState['state'];
+  } else {
+    state = 'new';
+  }
+
+  return { cardId, owner, stability, difficulty, elapsedDays, scheduledDays, reps, lapses, lastReview, nextReview, state };
+}
+
 export function isDue(state: FlashcardState, now: Date = new Date()): boolean {
   const next = new Date(state.nextReview + 'T00:00:00');
   return now >= next;

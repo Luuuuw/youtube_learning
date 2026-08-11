@@ -22,6 +22,7 @@ import {
   initialState,
   scheduleNext,
   isDue,
+  normalizeState,
 } from '@/lib/flashcard-fsrs';
 
 const FLASHCARDS_FILE = path.join(DATA_DIR, 'flashcards.json');
@@ -114,7 +115,7 @@ class FlashcardCache {
 
   private load() {
     this.cards = readJson<Flashcard>(FLASHCARDS_FILE);
-    this.states = readJson<FlashcardState>(STATE_FILE);
+    this.states = readJson<Record<string, unknown>>(STATE_FILE).map(normalizeState);
     this.logs = readJson<FlashcardLog>(LOGS_FILE);
     this.rebuildIndexes();
   }
