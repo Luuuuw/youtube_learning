@@ -1,8 +1,9 @@
 'use client';
 
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { Loader2, AlertTriangle, ArrowLeft } from 'lucide-react';
+import { Loader2, AlertTriangle, ArrowLeft, Sparkles } from 'lucide-react';
 import FlashcardReview from '@/components/flashcard-review';
+import { useAuth } from '@/lib/auth-context';
 
 type Dimension = 'vocab' | 'listening' | 'sentence';
 type CardType = 'recognition' | 'audio_fill' | 'cloze';
@@ -23,9 +24,12 @@ interface CardWithState {
   source?: string;
   word?: string;
   state: {
-    due: string;
-    state: 0 | 1 | 2 | 3;
+    nextReview?: string;
+    due?: string;
+    state: number | string;
     reps: number;
+    stability?: number;
+    difficulty?: number;
   } | null;
 }
 
@@ -74,7 +78,9 @@ function getAuthHeaders(): Record<string, string> {
 
 function isDue(state: CardWithState['state']): boolean {
   if (!state) return true; // 新卡也算到期
-  return new Date(state.due).getTime() <= Date.now();
+  const dueDate = state.nextReview || state.due;
+  if (!dueDate) return true;
+  return new Date(dueDate).getTime() <= Date.now();
 }
 
 interface Props {
