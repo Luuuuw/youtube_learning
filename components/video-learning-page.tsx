@@ -361,7 +361,7 @@ export default function VideoLearningPage({
             </button>
             <Link
               href={`/flashcards/${id}`}
-              className="px-2.5 py-1 rounded-md text-sm font-semibold border-2 border-indigo-400/60 text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-500/10 hover:bg-indigo-100 dark:hover:bg-indigo-500/20 transition-colors"
+              className="px-2.5 py-1 rounded-md text-sm font-semibold border border-indigo-300/50 dark:border-indigo-400/30 text-indigo-500 bg-indigo-50/60 dark:bg-indigo-400/10 hover:bg-indigo-100/80 dark:hover:bg-indigo-400/20 transition-colors"
               title="闪卡复习"
             >
               闪卡
