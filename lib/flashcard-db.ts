@@ -16,6 +16,7 @@ import fs from 'fs';
 import path from 'path';
 import { atomicWriteJsonSync } from '@/lib/atomic-write';
 import { DATA_DIR } from '@/lib/data-dir';
+import { seedBundledFlashcards } from '@/lib/seed-data';
 import {
   FlashcardState,
   FlashcardRating,
@@ -69,6 +70,7 @@ export interface FlashcardLog {
 
 function ensureDb() {
   try {
+    seedBundledFlashcards();
     if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
     for (const p of [FLASHCARDS_FILE, STATE_FILE, LOGS_FILE]) {
       if (!fs.existsSync(p)) fs.writeFileSync(p, '[]', 'utf-8');

@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { atomicWriteJsonSync } from '@/lib/atomic-write';
 import { DATA_DIR } from '@/lib/data-dir';
+import { seedBundledVocab } from '@/lib/seed-data';
 
 const DB_DIR = DATA_DIR;
 const VOCAB_FILE = path.join(DB_DIR, 'vocab.json');
@@ -36,6 +37,7 @@ export interface ReviewLog {
 
 function ensureDb() {
   try {
+    seedBundledVocab();
     if (!fs.existsSync(DB_DIR)) {
       fs.mkdirSync(DB_DIR, { recursive: true });
     }

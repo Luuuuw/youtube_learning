@@ -15,7 +15,12 @@ build/
 .env
 
 # runtime data (user data, sessions, etc.)
-data/
+data/*
+# 以下内容数据随代码打包，需纳入 git（运行时数据仍被上面的 data/* 忽略）
+!data/flashcards.json
+!data/local-dict.json
+!data/vocab-system.json
+!data/word-lists/
 
 # large binary files
 bin/
@@ -68,6 +73,9 @@ desktop.ini
 
 # logs
 logs/
+
+# 本地拉取的 Render 用户数据备份
+backups/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
