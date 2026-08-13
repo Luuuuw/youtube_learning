@@ -32,8 +32,8 @@ interface ListeningRaw {
 }
 
 interface SentenceRaw {
-  pattern: string;       // 句型名称，仅用作 hint
-  fills: string[];       // 精确指定挖空的词（按顺序，每个至少 3 字符）
+  expression: string;    // 完整地道表达，如 "ended up"
+  meaning_zh: string;    // 表达的中文释义，如 "最终，结果"
   context_sentence: string;
   context_start: number;
   context_end: number;
@@ -105,18 +105,22 @@ function buildZhLookup(zhMap: Record<string, string>): (startTime: number) => st
   buckets.sort((a, b) => a.start - b.start);
 
   return (startTime: number) => {
-    // 优先包含 startTime 的桶
-    for (const b of buckets) {
-      if (startTime >= b.start && startTime < b.end) return b.text;
-    }
-    // 找最近的
+    // 优先包含 startTime 的桶；重叠时选 start 最靠后的（刚开始的 cue）
     let best: Bucket | null = null;
+    for (const b of buckets) {
+      if (startTime >= b.start && startTime < b.end) {
+        if (!best || b.start > best.start) best = b;
+      }
+    }
+    if (best) return best.text;
+    // 找最近的
+    let nearest: Bucket | null = null;
     let bestDist = Infinity;
     for (const b of buckets) {
       const d = Math.min(Math.abs(b.start - startTime), Math.abs(b.end - startTime));
-      if (d < bestDist) { bestDist = d; best = b; }
+      if (d < bestDist) { bestDist = d; nearest = b; }
     }
-    return best?.text || '';
+    return nearest?.text || '';
   };
 }
 
@@ -137,21 +141,14 @@ function highlightWord(sentence: string, word: string): string {
   return sentence;
 }
 
-// 短功能词绝对不能作为挖空词
-const FILLER_WORDS = new Set(['to', 'be', 'in', 'at', 'on', 'of', 'by', 'a', 'an', 'the', 'it', 'is', 'are', 'was', 'were', 'for', 'or', 'and', 'but', 'not', 'no']);
-
-function applyFills(sentence: string, fills: string[]): { front_cloze: string; matched: string[] } {
-  let front = sentence;
-  const matched: string[] = [];
-  for (const w of fills) {
-    const escaped = w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const re = new RegExp(`\\b${escaped}\\b`, 'i');
-    if (re.test(front)) {
-      front = front.replace(re, '___');
-      matched.push(w);
-    }
-  }
-  return { front_cloze: front, matched };
+// 把完整表达（如 "ended up" / "at the end of the day"）整段挖空
+function blankPhrase(sentence: string, phrase: string): string | null {
+  const trimmed = phrase.trim();
+  if (!trimmed) return null;
+  const escaped = trimmed.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp(`\\b${escaped}\\b`, 'i');
+  if (!re.test(sentence)) return null;  // 表达不在句子里（AI 编造），丢弃
+  return sentence.replace(re, '___');
 }
 
 function shuffle<T>(arr: T[]): T[] {
@@ -212,29 +209,31 @@ ${items.map(it => `[${it.id}] ${it.sentence}`).join('\n')}
 }
 
 function buildSentencePrompt(enFullText: string, zhFullText: string): { sys: string; user: string } {
-  const sys = `你是英语句型分析助手。从字幕中找**真正有价值的语法句型**做成填空卡。
+  const sys = `你是英语口语搭配分析助手。从字幕中找**地道、高频、实用的口语表达/固定搭配**做成填空卡，帮助中文母语者学习自然英语。
 
-## 目标句型类别
-- 虚拟语气: if only / I wish / as if / would rather sb did / it's time sb did
-- 倒装结构: not only ... but also / hardly ... when / no sooner ... than / only when
-- 强调句式: it is ... that / what ... is / the reason why
-- 复杂时态语态: should have done / must have been / needn't have / would have been
-- 地道衔接: given that / provided that / now that / as far as / when it comes to
-- 比较结构: the more ... the more / rather ... than / as ... as
+## 目标表达类型（按优先级）
+- 动词短语 phrasal verb: figure out / end up / come up with / give up / turn out / put off / get along / look forward to / run out of / set up / catch up
+- 固定搭配 collocation: make sense / take a break / pay attention / do my best / a couple of / a bunch of / kind of / sort of / at least / so far
+- 惯用表达 idiom/chunk: it's been a minute / at the end of the day / no worries / to be honest / by the way / after all / for now / as far as
+- 自然口语衔接 discourse marker: you know / I mean / you know what / the thing is / here's the thing
 
-## 挖空规则 (非常重要！)
-- fills 数组里每个词长度至少 3 个字符（to/be/in/at/on/of/by/a/an 绝对不要放入 fills）
-- fills 必须是句子的**语法骨架词**，不是普通动词/名词
-- 例如 "would have been able to appreciate" → fills: ["would","have","been","able"]（不挖 to）
-- 例如 "the more I practice the better I get" → fills: ["the","more","the","better"]
-- 至少挖 2 个词、最多 5 个词
+## 挖空规则（重要）
+- expression 是**完整的关键表达**，2~6 个词，从字幕原文逐字复制
+- meaning_zh 是该表达的中文释义（简短，2~8 字）
+- 把整段表达当作一个整体挖空，不拆词、不单独挖 to/the/of 等虚词
+
+## 排除
+- 纯语法句型（would have done / I wish + 过去式 / 虚拟语气 / 倒装）除非本身是高频口语
+- 太简单的问候/客套（good morning / thank you / how are you / nice to meet you）
+- 单词量只有 1 的单词（那是生词卡的职责）
 
 ## 质量要求
-- 找不到合适句型就返回空数组 []，别凑数
+- 只挑中国学生真正需要学的地道表达，宁缺毋滥
+- 找不到合适的就返回空数组 []
 - 最多 5 个实例
 
 只输出 JSON：
-{"cards":[{"pattern":"if only had","fills":["if","only","had"],"context_sentence":"if only I had more time here in Santa Barbara","context_start":10.0,"context_end":15.0}]}
+{"cards":[{"expression":"ended up","meaning_zh":"最终，结果","context_sentence":"I ended up not going.","context_start":10.0,"context_end":15.0}]}
 context_sentence 必须从上方英文字幕原文逐字复制，禁止自行编造。`;
   const user = `英文字幕（带时间戳）：
 ${enFullText}
@@ -242,7 +241,7 @@ ${enFullText}
 中文翻译参考：
 ${zhFullText}
 
-挑出真正有教学价值的语法句型，没把握的宁可跳过。fills 只放语法结构词。`;
+挑出真正地道、中国学生需要学的口语搭配，没把握的宁可跳过。`;
   return { sys, user };
 }
 
@@ -336,7 +335,7 @@ function findCueForSentence(subs: Subtitle[], sentence: string): Subtitle | null
   return null;
 }
 
-// 找到句子后获取对应的中文翻译（只取该 cue + 前一条的中文）
+// 找到句子后获取对应的中文翻译（只取当前 cue，避免前一条串味）
 function findChineseForSentence(
   subs: Subtitle[],
   sentence: string,
@@ -344,17 +343,7 @@ function findChineseForSentence(
 ): string {
   const cue = findCueForSentence(subs, sentence);
   if (!cue) return '';
-  const idx = subs.indexOf(cue);
-  const texts: string[] = [];
-  // 前一条 cue
-  if (idx > 0) {
-    const t = zhLookup(subs[idx - 1].startTime);
-    if (t) texts.push(t);
-  }
-  // 当前 cue
-  const t = zhLookup(cue.startTime);
-  if (t) texts.push(t);
-  return texts.join(' ');
+  return zhLookup(cue.startTime);
 }
 
 function sentenceToFlashcard(
@@ -363,32 +352,14 @@ function sentenceToFlashcard(
   subs: Subtitle[],
   zhLookup: (startTime: number) => string,
 ): Flashcard | null {
-  if (!s?.context_sentence) return null;
+  const expression = s.expression?.trim();
+  if (!s?.context_sentence || !expression) return null;
+  const wordCount = expression.split(/\s+/).length;
+  if (wordCount < 2 || wordCount > 6) return null;
 
-  // 使用 AI 指定的 fills（新格式）或从 pattern 推导（兼容旧格式）
-  let fills: string[];
-  if (s.fills && Array.isArray(s.fills) && s.fills.length >= 2) {
-    // 新格式：AI 直接指定 fills，过滤废词
-    fills = s.fills.filter(w => !FILLER_WORDS.has(w.toLowerCase()));
-    if (fills.length !== s.fills.length) {
-      // 有些词被过滤了，跳过此卡
-      return null;
-    }
-  } else if (s.pattern) {
-    // 兼容旧格式
-    const words = s.pattern.split(/\s+/).filter(Boolean);
-    // 过滤废词
-    fills = words.filter(w => !FILLER_WORDS.has(w.toLowerCase()));
-    if (fills.length < 2) return null;
-  } else {
-    return null;
-  }
-
-  if (fills.length < 2 || fills.length > 5) return null;
-
-  // 用 fills 在句子里精确挖空
-  const { front_cloze, matched } = applyFills(s.context_sentence, fills);
-  if (matched.length < 2) return null;
+  // 整段表达挖空；表达不在句子里（AI 编造）则丢弃
+  const frontCloze = blankPhrase(s.context_sentence, expression);
+  if (!frontCloze) return null;
 
   // 用文本匹配找字幕 cue → 得到正确时间戳。找不到则说明 AI 编造的句子，丢弃。
   const cue = findCueForSentence(subs, s.context_sentence);
@@ -408,13 +379,13 @@ function sentenceToFlashcard(
     videoId,
     dimension: 'sentence',
     type: 'cloze',
-    front: `${zhPrefix}${front_cloze}`,
-    back: fills.join(' / '),
+    front: `${zhPrefix}${frontCloze}`,
+    back: expression,
     context: s.context_sentence || '',
     audioStart: start,
     audioEnd: end,
-    hint: s.pattern || fills.join(' '),
-    tags: ['pattern'],
+    hint: s.meaning_zh || '',
+    tags: ['collocation'],
     owner: SHARED_OWNER,
     source: 'ai',
     reviewedByAdmin: false,
@@ -424,10 +395,20 @@ function sentenceToFlashcard(
 
 // ---------- 主导出 ----------
 
-export async function generateFlashcards(videoId: string): Promise<{
+export interface GenerateFlashcardsOptions {
+  dimensions?: ('vocab' | 'listening' | 'sentence')[];
+  writeDraft?: boolean;
+}
+
+export async function generateFlashcards(
+  videoId: string,
+  options: GenerateFlashcardsOptions = {},
+): Promise<{
   cards: Flashcard[];
   stats: { vocab: number; listening: number; sentence: number };
 }> {
+  const want = new Set(options.dimensions ?? ['vocab', 'listening', 'sentence']);
+  const writeDraft = options.writeDraft ?? true;
   const apiKey = process.env.DEEPSEEK_API_KEY;
   if (!apiKey) throw new Error('DEEPSEEK_API_KEY 缺失');
 
@@ -497,51 +478,74 @@ export async function generateFlashcards(videoId: string): Promise<{
     })
     .filter(it => it.sentence && it.sentence.split(/\s+/).length >= 4);
 
-  // ---- 三批并行
-  const vocabPromise = (async (): Promise<Flashcard[]> => {
-    const { sys, user } = buildVocabPrompt(enFullText, zhFullText);
-    const raw = await callDS(sys, user, apiKey);
-    const list = asArray<VocabRaw>(raw).slice(0, 12);
-    return list.map(v => vocabToFlashcard(v, videoId, subs)).filter((c): c is Flashcard => c !== null);
-  })();
+  // ---- 三批并行（按需）
+  const builders: Array<{ label: 'vocab' | 'listening' | 'sentence'; run: () => Promise<Flashcard[]> }> = [];
 
-  const listeningPromise = (async (): Promise<Flashcard[]> => {
-    if (listeningSources.length === 0) return [];
-    const { sys, user } = buildListeningPrompt(
-      listeningSources.map(s => ({ id: s.id, sentence: s.sentence })),
-    );
-    const raw = await callDS(sys, user, apiKey);
-    const list = asArray<ListeningRaw>(raw);
-    const byId = new Map(listeningSources.map(s => [s.id, s]));
-    const out: Flashcard[] = [];
-    for (const l of list) {
-      const src = byId.get(l.id);
-      if (!src) continue;
-      const card = listeningToFlashcard(l, videoId, src);
-      if (card) out.push(card);
-    }
-    return out;
-  })();
+  if (want.has('vocab')) {
+    builders.push({
+      label: 'vocab',
+      run: async (): Promise<Flashcard[]> => {
+        const { sys, user } = buildVocabPrompt(enFullText, zhFullText);
+        const raw = await callDS(sys, user, apiKey);
+        const list = asArray<VocabRaw>(raw).slice(0, 12);
+        return list.map(v => vocabToFlashcard(v, videoId, subs)).filter((c): c is Flashcard => c !== null);
+      },
+    });
+  }
 
-  const sentencePromise = (async (): Promise<Flashcard[]> => {
-    const { sys, user } = buildSentencePrompt(enFullText, zhFullText);
-    const raw = await callDS(sys, user, apiKey);
-    const list = asArray<SentenceRaw>(raw).slice(0, 8);
-    return list.map(s => sentenceToFlashcard(s, videoId, subs, zhLookup)).filter((c): c is Flashcard => c !== null);
-  })();
+  if (want.has('listening')) {
+    builders.push({
+      label: 'listening',
+      run: async (): Promise<Flashcard[]> => {
+        if (listeningSources.length === 0) return [];
+        const { sys, user } = buildListeningPrompt(
+          listeningSources.map(s => ({ id: s.id, sentence: s.sentence })),
+        );
+        const raw = await callDS(sys, user, apiKey);
+        const list = asArray<ListeningRaw>(raw);
+        const byId = new Map(listeningSources.map(s => [s.id, s]));
+        const out: Flashcard[] = [];
+        for (const l of list) {
+          const src = byId.get(l.id);
+          if (!src) continue;
+          const card = listeningToFlashcard(l, videoId, src);
+          if (card) out.push(card);
+        }
+        return out;
+      },
+    });
+  }
 
-  const results = await Promise.allSettled([vocabPromise, listeningPromise, sentencePromise]);
-  const labels = ['vocab', 'listening', 'sentence'] as const;
-  const buckets: Flashcard[][] = [[], [], []];
+  if (want.has('sentence')) {
+    builders.push({
+      label: 'sentence',
+      run: async (): Promise<Flashcard[]> => {
+        const { sys, user } = buildSentencePrompt(enFullText, zhFullText);
+        const raw = await callDS(sys, user, apiKey);
+        const list = asArray<SentenceRaw>(raw).slice(0, 8);
+        return list.map(s => sentenceToFlashcard(s, videoId, subs, zhLookup)).filter((c): c is Flashcard => c !== null);
+      },
+    });
+  }
+
+  const results = await Promise.allSettled(builders.map(b => b.run()));
+  const buckets: Record<'vocab' | 'listening' | 'sentence', Flashcard[]> = {
+    vocab: [],
+    listening: [],
+    sentence: [],
+  };
   results.forEach((r, i) => {
+    const label = builders[i].label;
     if (r.status === 'fulfilled') {
-      buckets[i] = r.value;
+      buckets[label] = r.value;
     } else {
-      console.warn(`[flashcard-gen] ${labels[i]} 生成失败:`, (r.reason as Error)?.message || r.reason);
+      console.warn(`[flashcard-gen] ${label} 生成失败:`, (r.reason as Error)?.message || r.reason);
     }
   });
 
-  const [vocabCards, listeningCards, sentenceCards] = buckets;
+  const vocabCards = buckets.vocab;
+  const listeningCards = buckets.listening;
+  const sentenceCards = buckets.sentence;
   const cards: Flashcard[] = [...vocabCards, ...listeningCards, ...sentenceCards];
 
   const stats = {
@@ -551,12 +555,14 @@ export async function generateFlashcards(videoId: string): Promise<{
   };
 
   // 草稿落盘
-  const outPath = path.join(baseDir, 'flashcards.json');
-  atomicWriteJsonSync(outPath, {
-    videoId,
-    generatedAt: nowIso(),
-    cards,
-  });
+  if (writeDraft) {
+    const outPath = path.join(baseDir, 'flashcards.json');
+    atomicWriteJsonSync(outPath, {
+      videoId,
+      generatedAt: nowIso(),
+      cards,
+    });
+  }
 
   return { cards, stats };
 }

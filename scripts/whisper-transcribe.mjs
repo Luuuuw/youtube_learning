@@ -169,9 +169,13 @@ async function main() {
   fs.writeFileSync(rawPath, JSON.stringify(data, null, 2));
   console.log(`[whisper] 原始 JSON → ${rawPath}`);
 
-  // Step 4: 构建 VTT
-  const { buildVttFromWords } = await import('../lib/whisper-vtt-builder.js');
-  const vtt = buildVttFromWords(data.words || []);
+  // Step 4: 标点 + 大小写恢复（DeepSeek），再构建 VTT
+  const { restorePunctuation } = await import('../lib/whisper-punctuate.js');
+  const { buildVttFromWhisper, buildVttFromWords } = await import('../lib/whisper-vtt-builder.js');
+  const restoredText = await restorePunctuation(data.text || '', process.env.DEEPSEEK_API_KEY);
+  const vtt = restoredText && restoredText !== data.text
+    ? buildVttFromWhisper(restoredText, data.words || [])
+    : buildVttFromWords(data.words || []);
   if (!vtt) {
     console.error('[whisper] 构建 VTT 失败：无词数据');
     process.exit(1);

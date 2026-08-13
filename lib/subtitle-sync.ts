@@ -1,6 +1,11 @@
 import { Subtitle, WordTiming } from '@/lib/vtt-parser';
 
+// Whisper timestamps tend to run slightly ahead of the audio.
+// Delay subtitle display by this offset so text doesn't appear before speech.
+const SUBTITLE_DELAY_S = 0.25;
+
 export function binarySearchSubtitleIndex(subtitles: Subtitle[], currentTime: number): number {
+  const t = Math.max(0, currentTime - SUBTITLE_DELAY_S);
   let left = 0;
   let right = subtitles.length - 1;
 
@@ -9,12 +14,12 @@ export function binarySearchSubtitleIndex(subtitles: Subtitle[], currentTime: nu
     const mid = Math.floor((left + right) / 2);
     const subtitle = subtitles[mid];
 
-    if (currentTime < subtitle.startTime) {
+    if (t < subtitle.startTime) {
       right = mid - 1;
       continue;
     }
 
-    if (currentTime > subtitle.endTime) {
+    if (t > subtitle.endTime) {
       left = mid + 1;
       continue;
     }

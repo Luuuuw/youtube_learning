@@ -64,6 +64,7 @@ export default function CurrentSubtitleCard({
 }: CurrentSubtitleCardProps) {
   const [selectedWordRange, setSelectedWordRange] = useState<[number, number] | null>(null);
   const [flashcardWords, setFlashcardWords] = useState<Set<string>>(new Set());
+  const [flashcardPhrases, setFlashcardPhrases] = useState<string[]>([]);
   const [flashcardTotal, setFlashcardTotal] = useState(0);
   // Manual add flashcard
   const [addMode, setAddMode] = useState<'none' | 'vocab' | 'sentence'>('none');
@@ -90,10 +91,19 @@ export default function CurrentSubtitleCard({
         if (cancelled) return;
         const cards = Array.isArray(data.cards) ? data.cards : [];
         const words = new Set<string>();
+        const phrases: string[] = [];
         for (const c of cards) {
-          if (c.word) words.add(c.word.toLowerCase());
+          if (c.word) {
+            const w = c.word.toLowerCase();
+            if (w.includes(' ')) {
+              phrases.push(w);
+            } else {
+              words.add(w);
+            }
+          }
         }
         setFlashcardWords(words);
+        setFlashcardPhrases(phrases);
         setFlashcardTotal(cards.length);
       } catch { /* ignore */ }
     }
@@ -132,21 +142,36 @@ export default function CurrentSubtitleCard({
 
   // Words in current subtitle that have flashcards
   const currentFlashcardWords = useMemo(() => {
-    if (!subtitle || flashcardWords.size === 0) return [];
+    if (!subtitle) return [];
     const seen = new Set<string>();
     const result: string[] = [];
-    for (const p of parts) {
-      const w = p.trim().toLowerCase();
-      if (!w) continue;
-      // Strip trailing punctuation for matching
-      const clean = w.replace(/[^a-zA-Z0-9'-]+$/, '');
-      if (flashcardWords.has(clean) && !seen.has(clean)) {
-        seen.add(clean);
-        result.push(clean);
+    const lowerText = subtitle.text.toLowerCase();
+
+    // Single word matches
+    if (flashcardWords.size > 0) {
+      for (const p of parts) {
+        const w = p.trim().toLowerCase();
+        if (!w) continue;
+        const clean = w.replace(/[^a-zA-Z0-9'-]+$/, '');
+        if (flashcardWords.has(clean) && !seen.has(clean)) {
+          seen.add(clean);
+          result.push(clean);
+        }
       }
     }
+
+    // Multi-word phrase matches
+    if (flashcardPhrases.length > 0) {
+      for (const phrase of flashcardPhrases) {
+        if (lowerText.includes(phrase) && !seen.has(phrase)) {
+          seen.add(phrase);
+          result.push(phrase);
+        }
+      }
+    }
+
     return result;
-  }, [subtitle, parts, flashcardWords]);
+  }, [subtitle, parts, flashcardWords, flashcardPhrases]);
 
   const handleWordClick = useCallback((wordIdx: number) => {
     if (!subtitle) return;

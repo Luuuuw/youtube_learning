@@ -38,7 +38,7 @@ if /i not "%CONFIRM%"=="Y" (
 
 echo.
 echo --- Running rclone copy ---
-rclone copy public/content r2:vibe-english --progress --transfers 4
+rclone copy public/content r2:vibe-english --progress --transfers 4 --s3-no-check-bucket
 if errorlevel 1 (
     echo ERROR: rclone failed
     pause
