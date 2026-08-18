@@ -6,6 +6,7 @@ import { UserPlus, KeyRound, Trash2, Loader2, Copy, Check, Users, FileText, X, S
 interface UserItem {
   id: string;
   username: string;
+  displayName?: string | null;
   role: string;
   disabled: boolean;
   mustChangePassword: boolean;
@@ -401,7 +402,7 @@ export default function AdminUserPanel({ open, onClose }: { open: boolean; onClo
                     value={searchQuery}
                     onChange={e => setSearchQuery(e.target.value)}
                     onKeyDown={e => e.key === 'Enter' && fetchData()}
-                    placeholder="搜索用户名..."
+                    placeholder="搜索用户名/昵称..."
                     className="w-full pl-8 pr-3 py-1.5 rounded-lg border border-border bg-background text-xs outline-none focus:border-primary"
                   />
                 </div>
@@ -438,11 +439,14 @@ export default function AdminUserPanel({ open, onClose }: { open: boolean; onClo
               ) : users.map(u => (
                 <div key={u.id} className={`flex items-center gap-3 p-3 rounded-xl ${u.disabled ? 'bg-red-500/5 opacity-60' : 'bg-muted/30'}`}>
                   <div className="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center text-xs font-bold text-primary">
-                    {u.username[0].toUpperCase()}
+                    {(u.displayName || u.username)[0].toUpperCase()}
                   </div>
                   <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-2 flex-wrap">
-                      <span className="font-medium text-sm">{u.username}</span>
+                      <span className="font-medium text-sm">{u.displayName || u.username}</span>
+                      {u.displayName && (
+                        <span className="text-xs text-muted-foreground">({u.username})</span>
+                      )}
                       <select
                         value={u.role}
                         onChange={e => handleRoleChange(u.username, e.target.value as 'admin' | 'guest')}

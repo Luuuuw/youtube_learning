@@ -38,6 +38,7 @@ export async function GET(req: NextRequest) {
   let users = getAllUsers().map(u => ({
     id: u.id,
     username: u.username,
+    displayName: u.displayName || null,
     role: u.role,
     disabled: u.disabled,
     mustChangePassword: u.mustChangePassword,
@@ -49,7 +50,11 @@ export async function GET(req: NextRequest) {
 
   if (search) {
     const q = search.toLowerCase();
-    users = users.filter(u => u.username.toLowerCase().includes(q) || u.role.includes(q));
+    users = users.filter(u =>
+      u.username.toLowerCase().includes(q) ||
+      u.role.includes(q) ||
+      (u.displayName && u.displayName.toLowerCase().includes(q)),
+    );
   }
 
   return NextResponse.json({
