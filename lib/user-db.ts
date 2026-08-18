@@ -14,6 +14,7 @@ let writeLock = false;
 export interface User {
   id: string;
   username: string;
+  displayName?: string;
   passwordHash: string;
   role: 'admin' | 'guest';
   disabled: boolean;
@@ -205,7 +206,11 @@ export function createUser(username: string, role: 'admin' | 'guest', createdBy:
 
 export function authenticateUser(username: string, password: string): { user: User; error?: string } {
   const db = readDb();
-  const user = db.users.find(u => u.username === username);
+  const input = username.toLowerCase();
+  const user = db.users.find(u =>
+    u.username === username ||
+    (u.role !== 'admin' && !!u.displayName && u.displayName.toLowerCase() === input),
+  );
   if (!user) return { user: null as unknown as User, error: '用户名或密码错误' };
 
   if (user.disabled) return { user: null as unknown as User, error: '账号已被禁用，请联系管理员' };
@@ -215,7 +220,7 @@ export function authenticateUser(username: string, password: string): { user: Us
       const db2 = readDb();
       const u = db2.users.find(u2 => u2.id === user.id)!;
       u.tempPasswordUsed = true;
-      const log = db2.issuanceLogs.find(l => l.username === username && !l.usedAt && !l.expiredAt);
+      const log = db2.issuanceLogs.find(l => l.username === user.username && !l.usedAt && !l.expiredAt);
       if (log) log.expiredAt = new Date().toISOString();
       writeDb(db2);
       return { user: null as unknown as User, error: '临时密码已过期，请联系管理员重置' };
@@ -224,7 +229,7 @@ export function authenticateUser(username: string, password: string): { user: Us
       const db2 = readDb();
       const u = db2.users.find(u2 => u2.id === user.id)!;
       u.tempPasswordUsed = true;
-      const log = db2.issuanceLogs.find(l => l.username === username && !l.usedAt);
+      const log = db2.issuanceLogs.find(l => l.username === user.username && !l.usedAt);
       if (log) log.usedAt = new Date().toISOString();
       writeDb(db2);
       return { user: { ...user, tempPasswordUsed: true } };
@@ -269,6 +274,36 @@ export function changePassword(username: string, newPassword: string, oldPasswor
   });
   writeDb(db);
   return { success: true };
+}
+
+export function updateDisplayName(username: string, displayName: string): { success: boolean; error?: string; displayName?: string } {
+  const trimmed = displayName.trim();
+  if (!trimmed) return { success: false, error: '昵称不能为空' };
+  if (trimmed.length > 30) return { success: false, error: '昵称最多30个字符' };
+
+  const db = readDb();
+  const user = db.users.find(u => u.username === username);
+  if (!user) return { success: false, error: '用户不存在' };
+
+  // 昵称可用于登录，必须全局唯一：不能与其他用户的账号名或昵称撞车（忽略大小写）
+  const normalized = trimmed.toLowerCase();
+  const clash = db.users.some(u =>
+    u.username !== username &&
+    (u.username.toLowerCase() === normalized || (u.displayName ? u.displayName.toLowerCase() === normalized : false)),
+  );
+  if (clash) return { success: false, error: '该昵称已被使用' };
+
+  user.displayName = trimmed;
+  db.auditLogs.push({
+    id: 'audit_' + Date.now().toString(36),
+    action: 'update_display_name',
+    targetUser: username,
+    operator: username,
+    detail: `修改昵称为 ${trimmed}`,
+    timestamp: new Date().toISOString(),
+  });
+  writeDb(db);
+  return { success: true, displayName: trimmed };
 }
 
 export function resetUserPassword(username: string, resetBy: string): { tempPassword: string } | { error: string } {

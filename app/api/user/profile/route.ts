@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { verifyAuth, unauthorizedResponse } from '@/lib/auth-middleware';
 import { getAllWords, getTodayStats, getWeeklyStats, getAllReviewLogs } from '@/lib/vocab-db';
+import { updateDisplayName } from '@/lib/user-db';
 import fs from 'fs';
 import path from 'path';
 
@@ -44,6 +45,28 @@ export async function GET(req: NextRequest) {
     });
   } catch (e: unknown) {
     const msg = e instanceof Error ? e.message : '未知错误';
+    return NextResponse.json({ error: msg }, { status: 500 });
+  }
+}
+
+export async function PATCH(req: NextRequest) {
+  const auth = verifyAuth(req);
+  if (!auth.valid) return unauthorizedResponse();
+
+  try {
+    const body = await req.json();
+    const { displayName } = body;
+    if (typeof displayName !== 'string') {
+      return NextResponse.json({ error: '昵称格式错误' }, { status: 400 });
+    }
+
+    const result = updateDisplayName(auth.code!, displayName);
+    if (!result.success) {
+      return NextResponse.json({ error: result.error }, { status: 400 });
+    }
+    return NextResponse.json({ success: true, displayName: result.displayName });
+  } catch (e: unknown) {
+    const msg = e instanceof Error ? e.message : '服务器错误';
     return NextResponse.json({ error: msg }, { status: 500 });
   }
 }

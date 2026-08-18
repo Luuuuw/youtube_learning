@@ -10,10 +10,12 @@ interface AuthContextType {
   isLoading: boolean;
   role: UserRole | null;
   userCode: string | null;
+  displayName: string | null;
   mustChangePassword: boolean;
   loginWithAccount: (username: string, password: string) => Promise<{ success: boolean; error?: string; mustChangePassword?: boolean }>;
   logout: () => void;
   clearMustChangePassword: () => void;
+  updateDisplayName: (name: string) => Promise<{ success: boolean; error?: string }>;
 }
 
 const AuthContext = createContext<AuthContextType>({
@@ -21,15 +23,18 @@ const AuthContext = createContext<AuthContextType>({
   isLoading: true,
   role: null,
   userCode: null,
+  displayName: null,
   mustChangePassword: false,
   loginWithAccount: async () => ({ success: false }),
   logout: () => {},
   clearMustChangePassword: () => {},
+  updateDisplayName: async () => ({ success: false }),
 });
 
 const SESSION_KEY = 've-session-token';
 const ROLE_KEY = 've-session-role';
 const CODE_KEY = 've-session-code';
+const DISPLAY_NAME_KEY = 've-display-name';
 const MUST_CHANGE_KEY = 've-must-change-password';
 
 export function AuthProvider({ children }: { children: ReactNode }) {
@@ -37,6 +42,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const [isLoading, setIsLoading] = useState(true);
   const [role, setRole] = useState<UserRole | null>(null);
   const [userCode, setUserCode] = useState<string | null>(null);
+  const [displayName, setDisplayName] = useState<string | null>(null);
   const [mustChangePassword, setMustChangePassword] = useState(false);
   const router = useRouter();
   const pathname = usePathname();
@@ -60,6 +66,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
               setUserCode(data.code);
               localStorage.setItem(CODE_KEY, data.code);
             }
+            if (data.displayName) {
+              setDisplayName(data.displayName);
+              localStorage.setItem(DISPLAY_NAME_KEY, data.displayName);
+            } else {
+              setDisplayName(null);
+              localStorage.removeItem(DISPLAY_NAME_KEY);
+            }
             if (data.mustChangePassword) {
               setMustChangePassword(true);
               localStorage.setItem(MUST_CHANGE_KEY, 'true');
@@ -72,10 +85,12 @@ export function AuthProvider({ children }: { children: ReactNode }) {
             localStorage.removeItem(SESSION_KEY);
             localStorage.removeItem(ROLE_KEY);
             localStorage.removeItem(CODE_KEY);
+            localStorage.removeItem(DISPLAY_NAME_KEY);
             localStorage.removeItem(MUST_CHANGE_KEY);
             setIsAuthenticated(false);
             setRole(null);
             setUserCode(null);
+            setDisplayName(null);
             setMustChangePassword(false);
           }
         })
@@ -94,11 +109,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       localStorage.removeItem(SESSION_KEY);
       localStorage.removeItem(ROLE_KEY);
       localStorage.removeItem(CODE_KEY);
+      localStorage.removeItem(DISPLAY_NAME_KEY);
       localStorage.removeItem(MUST_CHANGE_KEY);
       document.cookie = 've-session-token=; path=/; max-age=0';
       setIsAuthenticated(false);
       setRole(null);
       setUserCode(null);
+      setDisplayName(null);
       setMustChangePassword(false);
       router.replace('/login');
     };
@@ -130,6 +147,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         setIsAuthenticated(true);
         setRole(data.role);
         setUserCode(data.code || username);
+        if (data.displayName) {
+          setDisplayName(data.displayName);
+          localStorage.setItem(DISPLAY_NAME_KEY, data.displayName);
+        } else {
+          setDisplayName(null);
+          localStorage.removeItem(DISPLAY_NAME_KEY);
+        }
         if (data.mustChangePassword) {
           setMustChangePassword(true);
           localStorage.setItem(MUST_CHANGE_KEY, 'true');
@@ -158,11 +182,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     localStorage.removeItem(SESSION_KEY);
     localStorage.removeItem(ROLE_KEY);
     localStorage.removeItem(CODE_KEY);
+    localStorage.removeItem(DISPLAY_NAME_KEY);
     localStorage.removeItem(MUST_CHANGE_KEY);
     document.cookie = 've-session-token=; path=/; max-age=0';
     setIsAuthenticated(false);
     setRole(null);
     setUserCode(null);
+    setDisplayName(null);
     setMustChangePassword(false);
     router.push('/login');
   }, [router]);
@@ -172,8 +198,31 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     localStorage.removeItem(MUST_CHANGE_KEY);
   }, []);
 
+  const updateDisplayName = useCallback(async (name: string) => {
+    try {
+      const token = localStorage.getItem(SESSION_KEY);
+      const res = await fetch('/api/user/profile', {
+        method: 'PATCH',
+        headers: {
+          'Content-Type': 'application/json',
+          ...(token ? { Authorization: `Bearer ${token}` } as Record<string, string> : {}),
+        },
+        body: JSON.stringify({ displayName: name }),
+      });
+      const data = await res.json();
+      if (data.success && data.displayName) {
+        setDisplayName(data.displayName);
+        localStorage.setItem(DISPLAY_NAME_KEY, data.displayName);
+        return { success: true };
+      }
+      return { success: false, error: data.error || '修改失败' };
+    } catch {
+      return { success: false, error: '网络错误，请重试' };
+    }
+  }, []);
+
   return (
-    <AuthContext.Provider value={{ isAuthenticated, isLoading, role, userCode, mustChangePassword, loginWithAccount, logout, clearMustChangePassword }}>
+    <AuthContext.Provider value={{ isAuthenticated, isLoading, role, userCode, displayName, mustChangePassword, loginWithAccount, logout, clearMustChangePassword, updateDisplayName }}>
       {children}
     </AuthContext.Provider>
   );

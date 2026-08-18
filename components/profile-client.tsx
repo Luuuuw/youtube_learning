@@ -13,6 +13,9 @@ import {
   BarChart3,
   LogOut,
   Loader2,
+  Pencil,
+  Check,
+  X,
 } from 'lucide-react';
 import { useAuth } from '@/lib/auth-context';
 import Sidebar from '@/components/sidebar';
@@ -37,10 +40,14 @@ interface ProfileData {
 }
 
 export default function ProfileClient() {
-  const { role, userCode, logout } = useAuth();
+  const { role, userCode, displayName: authDisplayName, logout, updateDisplayName } = useAuth();
   const [profile, setProfile] = useState<ProfileData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
+  const [editingName, setEditingName] = useState(false);
+  const [nameInput, setNameInput] = useState('');
+  const [nameSaving, setNameSaving] = useState(false);
+  const [nameError, setNameError] = useState('');
 
   const fetchProfile = useCallback(async () => {
     setLoading(true);
@@ -66,7 +73,22 @@ export default function ProfileClient() {
     fetchProfile();
   }, [fetchProfile]);
 
-  const displayName = userCode || profile?.code || '用户';
+  const displayName = authDisplayName || userCode || profile?.code || '用户';
+
+  const handleSaveName = async (e: React.FormEvent) => {
+    e.preventDefault();
+    const trimmed = nameInput.trim();
+    if (!trimmed) { setNameError('昵称不能为空'); return; }
+    setNameError('');
+    setNameSaving(true);
+    const res = await updateDisplayName(trimmed);
+    setNameSaving(false);
+    if (res.success) {
+      setEditingName(false);
+    } else {
+      setNameError(res.error || '修改失败');
+    }
+  };
 
   return (
     <>
@@ -104,7 +126,46 @@ export default function ProfileClient() {
                       {displayName.charAt(0).toUpperCase()}
                     </div>
                     <div className="flex-1 min-w-0">
-                      <h2 className="text-xl font-semibold">{displayName}</h2>
+                      {editingName ? (
+                        <form onSubmit={handleSaveName} className="flex items-center gap-2 flex-wrap">
+                          <input
+                            value={nameInput}
+                            onChange={e => setNameInput(e.target.value)}
+                            autoFocus
+                            maxLength={30}
+                            placeholder="输入昵称"
+                            className="flex-1 min-w-[140px] max-w-[220px] px-3 py-1.5 rounded-lg border border-border bg-background text-foreground text-base outline-none focus:border-primary focus:ring-2 focus:ring-primary/20"
+                          />
+                          <button
+                            type="submit"
+                            disabled={nameSaving}
+                            className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 disabled:opacity-50"
+                          >
+                            {nameSaving ? <Loader2 className="h-4 w-4 animate-spin" /> : <Check className="h-4 w-4" />}
+                            保存
+                          </button>
+                          <button
+                            type="button"
+                            onClick={() => setEditingName(false)}
+                            className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg border border-border text-sm text-muted-foreground hover:bg-muted transition-colors"
+                          >
+                            <X className="h-4 w-4" />
+                            取消
+                          </button>
+                        </form>
+                      ) : (
+                        <div className="flex items-center gap-2">
+                          <h2 className="text-xl font-semibold">{displayName}</h2>
+                          <button
+                            onClick={() => { setNameInput(authDisplayName || ''); setNameError(''); setEditingName(true); }}
+                            className="inline-flex items-center justify-center p-1.5 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
+                            title="修改昵称"
+                          >
+                            <Pencil className="h-4 w-4" />
+                          </button>
+                        </div>
+                      )}
+                      {nameError && <p className="text-xs text-destructive mt-1">{nameError}</p>}
                       <div className="flex items-center gap-3 mt-1 text-sm text-muted-foreground">
                         <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium bg-primary/10 text-primary">
                           {role === 'admin' ? '管理员' : '学员'}

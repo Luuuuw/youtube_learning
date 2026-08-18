@@ -46,17 +46,19 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ success: false, error: result.error }, { status: 401 });
     }
 
+    const resolvedUsername = result.user.username;
     clearFailedAttempts(username);
-    addLoginLog(username, true, ip, userAgent);
+    if (resolvedUsername !== username) clearFailedAttempts(resolvedUsername);
+    addLoginLog(resolvedUsername, true, ip, userAgent);
 
     AuthService.cleanExpiredSessions();
 
-    AuthService.checkAndEvictOldestSession(username);
+    AuthService.checkAndEvictOldestSession(resolvedUsername);
 
     const token = AuthService.generateToken();
     authSessions.set(token, {
       createdAt: Date.now(),
-      code: username,
+      code: resolvedUsername,
       role: result.user.role,
       mustChangePassword: result.user.mustChangePassword,
     });
@@ -66,7 +68,8 @@ export async function POST(req: NextRequest) {
       success: true,
       token,
       role: result.user.role,
-      code: username,
+      code: resolvedUsername,
+      displayName: result.user.displayName || null,
       mustChangePassword: result.user.mustChangePassword,
     });
   } catch (e: unknown) {

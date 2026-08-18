@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { AuthService } from '@/lib/auth-service';
+import { getUserByUsername } from '@/lib/user-db';
 
 export async function POST(req: NextRequest) {
   try {
@@ -22,7 +23,9 @@ export async function POST(req: NextRequest) {
       AuthService.refreshSession(result.session!);
     }
 
-    return NextResponse.json({ valid: true, role: result.session!.role, code: result.session!.code, mustChangePassword: result.session!.mustChangePassword || false });
+    const user = getUserByUsername(result.session!.code);
+
+    return NextResponse.json({ valid: true, role: result.session!.role, code: result.session!.code, displayName: user?.displayName || null, mustChangePassword: result.session!.mustChangePassword || false });
   } catch {
     return NextResponse.json({ valid: false }, { status: 500 });
   }

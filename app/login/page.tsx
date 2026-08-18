@@ -22,7 +22,7 @@ export default function LoginPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError('');
-    if (!username.trim()) { setError('请输入用户名'); return; }
+    if (!username.trim()) { setError('请输入用户名或昵称'); return; }
     if (!password.trim()) { setError('请输入密码'); return; }
     setLoading(true);
     const result = await loginWithAccount(username.trim(), password.trim());
@@ -50,7 +50,7 @@ export default function LoginPage() {
               type="text"
               value={username}
               onChange={e => setUsername(e.target.value)}
-              placeholder="用户名"
+              placeholder="用户名 / 昵称"
               autoComplete="username"
               autoFocus
               className={`w-full pl-11 pr-4 py-3 rounded-xl border bg-background text-foreground placeholder:text-muted-foreground/50 outline-none transition-colors focus:border-primary focus:ring-2 focus:ring-primary/20 ${

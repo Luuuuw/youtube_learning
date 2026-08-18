@@ -7,7 +7,7 @@ import { useAuth } from '@/lib/auth-context';
 import ThemeToggle from '@/components/theme-toggle';
 
 export function UserNav() {
-  const { role, userCode, mustChangePassword, logout } = useAuth();
+  const { role, userCode, displayName, mustChangePassword, logout } = useAuth();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
@@ -29,7 +29,7 @@ export function UserNav() {
           className="flex items-center gap-1.5 h-9 px-2.5 rounded-lg bg-primary/10 text-primary hover:bg-primary/20 transition-colors text-sm"
         >
           <User className="h-4 w-4" />
-          <span className="max-w-[80px] truncate">{userCode}</span>
+          <span className="max-w-[80px] truncate">{displayName || userCode}</span>
           <ChevronDown className="h-3 w-3 opacity-60" />
         </button>
         {open && (
