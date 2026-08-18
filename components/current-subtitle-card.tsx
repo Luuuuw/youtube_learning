@@ -595,7 +595,7 @@ export default function CurrentSubtitleCard({
           <input
             value={sentencePattern}
             onChange={e => setSentencePattern(e.target.value)}
-            placeholder="句型名，如 would rather X than Y"
+            placeholder="填入本句中要挖空的词组，如 rather than"
             className="w-full bg-background border border-border rounded-lg px-3 py-1.5 text-sm"
             autoFocus
           />

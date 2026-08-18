@@ -63,19 +63,26 @@ function makeListeningPrompt(sentence: string): { sys: string; user: string } {
 // ---------- Sentence generation ----------
 
 // 句型卡不再用 AI — 直接逐词替换，100% 精确
-function makeSentenceCloze(sentence: string, pattern: string): { front_cloze: string; fills: string[] } {
-  const words = pattern.split(/\s+/).filter(Boolean);
+function makeSentenceCloze(sentence: string, pattern: string): { front_cloze: string; fills: string[]; unmatched: string[] } {
+  // 用户填入的是本句中要挖空的词组；逐词清洗掉首尾标点（保留词中撇号/连字符）
+  const words = pattern
+    .split(/\s+/)
+    .map(w => w.replace(/^[^A-Za-z0-9'\-]+|[^A-Za-z0-9'\-]+$/g, ''))
+    .filter(Boolean);
   let front = sentence;
   const fills: string[] = [];
+  const unmatched: string[] = [];
   for (const w of words) {
     const escaped = w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     const re = new RegExp(`\\b${escaped}\\b`, 'i');
     if (re.test(front)) {
       front = front.replace(re, '___');
       fills.push(w);
+    } else {
+      unmatched.push(w);
     }
   }
-  return { front_cloze: front, fills };
+  return { front_cloze: front, fills, unmatched };
 }
 
 // ---------- POST handler ----------
@@ -164,9 +171,10 @@ export async function POST(req: NextRequest) {
       const { sentence, pattern, zhSentence } = body;
       if (!sentence || !pattern) return NextResponse.json({ error: '缺少 sentence 或 pattern' }, { status: 400 });
 
-      const { front_cloze, fills } = makeSentenceCloze(sentence, pattern);
+      const { front_cloze, fills, unmatched } = makeSentenceCloze(sentence, pattern);
       if (fills.length === 0) {
-        return NextResponse.json({ error: '句型词组未在句子中找到，请检查拼写' }, { status: 400 });
+        const extra = unmatched.length ? `（未找到「${unmatched.join('、')}」）` : '';
+        return NextResponse.json({ error: `句型词组未在句子中找到，请检查拼写${extra}` }, { status: 400 });
       }
 
       const zhPrefix = zhSentence && typeof zhSentence === 'string' ? `${zhSentence}\n` : '';
