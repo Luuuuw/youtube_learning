@@ -6,6 +6,7 @@ import {
   Loader2, RotateCcw, Trophy, Target, Brain, Sparkles,
   Play, Pause, Tag, Star,
 } from 'lucide-react';
+import { usePlayableVideoUrl } from '@/lib/use-video-source';
 
 interface QuizQuestion {
   id: number;
@@ -49,6 +50,7 @@ const STAR_DETAIL = [
 
 function QuizClipPlayer({ src, start, end }: { src: string; start: number; end: number }) {
   const vidRef = useRef<HTMLVideoElement>(null);
+  const videoSource = usePlayableVideoUrl(src);
   const [playing, setPlaying] = useState(false);
   const [curTime, setCurTime] = useState(0);
   const duration = Math.max(end - start, 1);
@@ -93,7 +95,7 @@ function QuizClipPlayer({ src, start, end }: { src: string; start: number; end: 
       <div className="relative w-full aspect-video">
         <video
           ref={vidRef}
-          src={src}
+          src={videoSource}
           className="absolute inset-0 w-full h-full object-cover"
           preload="metadata"
           playsInline

@@ -13,6 +13,7 @@ import {
 } from 'lucide-react';
 import { Subtitle, formatTime } from '@/lib/vtt-parser';
 import { getSubtitleAtTime } from '@/lib/subtitle-sync';
+import { usePlayableVideoUrl } from '@/lib/use-video-source';
 
 interface VideoPlayerProps {
   videoUrl: string;
@@ -33,6 +34,7 @@ export default function VideoPlayer({
 }: VideoPlayerProps) {
   const internalRef = useRef<HTMLVideoElement>(null);
   const videoRef = externalVideoRef || internalRef;
+  const videoSource = usePlayableVideoUrl(videoUrl);
   const progressRef = useRef<HTMLDivElement>(null);
   const blindVideoRef = useRef<HTMLVideoElement>(null);
 
@@ -251,7 +253,7 @@ export default function VideoPlayer({
       <div className="relative">
         <video
           ref={videoRef}
-          src={videoUrl}
+          src={videoSource}
           className="w-full aspect-video bg-black"
           onPlay={() => setIsPlaying(true)}
           onPause={() => setIsPlaying(false)}
@@ -278,7 +280,7 @@ export default function VideoPlayer({
           <div className="absolute bottom-0 left-0 right-0 h-[30%] pointer-events-none overflow-hidden">
             <video
               ref={blindVideoRef}
-              src={videoUrl}
+              src={videoSource}
               className="absolute bottom-0 left-0 w-full aspect-video"
               style={{
                 filter: 'blur(20px) brightness(0.6)',

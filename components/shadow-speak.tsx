@@ -9,6 +9,7 @@ import {
 } from 'lucide-react';
 import { Subtitle } from '@/lib/vtt-parser';
 import { compareTranscript, getScoreLabel, ShadowResult } from '@/lib/shadow-speak';
+import { usePlayableVideoUrl } from '@/lib/use-video-source';
 
 type Phase = 'idle' | 'listening' | 'result';
 
@@ -340,6 +341,7 @@ export default function ShadowSpeak({
   videoId = '',
   isAdmin = false,
 }: ShadowSpeakProps) {
+  const playableVideoUrl = usePlayableVideoUrl(videoUrl);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [phase, setPhase] = useState<Phase>('idle');
   const [transcript, setTranscript] = useState('');
@@ -1129,7 +1131,7 @@ export default function ShadowSpeak({
                 <div className="w-[40%] shrink-0 flex flex-col gap-3">
                   {currentSub && (
                     <ClipPlayer
-                      src={videoUrl}
+                      src={playableVideoUrl}
                       start={currentSub.startTime}
                       end={currentSub.endTime}
                       playbackRate={playbackRate}
