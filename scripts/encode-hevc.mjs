@@ -1,10 +1,11 @@
-// 为所有 AV1 视频生成 iPad/旧 iPhone Safari 可解码的 H.264 副本 video.h264.mp4
+// 为所有 AV1 视频生成 iPad/旧 iPhone Safari 可解码的 HEVC(H.265) 副本 video.hevc.mp4
+// HEVC Main profile + hvc1 tag，iOS Safari 从 iOS11 起支持。
 // 用法（在仓库根目录运行）：
-//   node scripts/encode-h264.mjs                    # 全量，跳过已生成的
-//   node scripts/encode-h264.mjs <id> <id>...       # 只处理指定视频
-//   node scripts/encode-h264.mjs --dry-run          # 只列出将要编码的
-//   node scripts/encode-h264.mjs --encoder qsv      # 强制 qsv | libx264
-//   node scripts/encode-h264.mjs --gq 27            # 质量(仅硬件 qsv/nvenc/amf 生效)
+//   node scripts/encode-hevc.mjs                     # 全量，跳过已生成的
+//   node scripts/encode-hevc.mjs <id> <id>...        # 只处理指定视频
+//   node scripts/encode-hevc.mjs --dry-run           # 只列出将要编码的
+//   node scripts/encode-hevc.mjs --encoder qsv       # 强制 qsv | libx265
+//   node scripts/encode-hevc.mjs --gq 28             # 质量(仅硬件编码生效)
 import { spawnSync } from 'node:child_process';
 import { existsSync, statSync, readdirSync } from 'node:fs';
 import path from 'node:path';
@@ -18,9 +19,7 @@ const args = process.argv.slice(2);
 const idsArg = args.filter(a => !a.startsWith('--'));
 const dryRun = args.includes('--dry-run');
 const encArg = (args.find(a => a.startsWith('--encoder=')) || '').split('=')[1] || 'auto';
-const gqArg = Number((args.find(a => a.startsWith('--gq=')) || '--gq=27').split('=')[1]);
-
-const AVC_QUALITY = { qsv: 27, nvenc: 27, amf: 27, libx264: 23 };
+const gqArg = Number((args.find(a => a.startsWith('--gq=')) || '--gq=28').split('=')[1]);
 
 function ffBin() {
   if (process.env.FFMPEG && existsSync(process.env.FFMPEG)) return process.env.FFMPEG;
@@ -40,28 +39,29 @@ const FFMPEG = ffBin();
 const FFPROBE = ffprobeBin();
 
 function run(cmd, inputArgs, opts = {}) {
-  const r = spawnSync(cmd, inputArgs, { encoding: 'utf-8', ...opts });
-  return r;
+  return spawnSync(cmd, inputArgs, { encoding: 'utf-8', ...opts });
 }
 
-// 探测可用的 H.264 编码器（快测 15 帧），优先硬件，回退软件
+// 探测可用的 HEVC 编码器（快测 15 帧），优先硬件，回退软件 libx265
 function detectEncoder(prefer) {
   if (prefer && prefer !== 'auto') {
-    if (prefer === 'libx264') return { enc: 'libx264', label: 'libx264 (软件)' };
-    const r = run(FFMPEG, ['-hide_banner', '-loglevel', 'error', '-f', 'lavfi', '-i', 'testsrc2=size=1280x720:rate=30', '-frames:v', '15', '-c:v', `h264_${prefer}`, '-f', 'null', '-']);
-    if (r.status === 0) return { enc: `h264_${prefer}`, label: `h264_${prefer}` };
-    console.warn(`h264_${prefer} 不可用，回退自动检测`);
+    if (prefer === 'libx265') return { enc: 'libx265', label: 'libx265 (软件)' };
+    const r = run(FFMPEG, ['-hide_banner', '-loglevel', 'error', '-f', 'lavfi', '-i', 'testsrc2=size=1280x720:rate=30', '-frames:v', '15', '-c:v', `hevc_${prefer}`, '-f', 'null', '-']);
+    if (r.status === 0) return { enc: `hevc_${prefer}`, label: `hevc_${prefer}` };
+    console.warn(`hevc_${prefer} 不可用，回退自动检测`);
   }
   for (const hw of ['qsv', 'nvenc', 'amf']) {
-    const r = run(FFMPEG, ['-hide_banner', '-loglevel', 'error', '-f', 'lavfi', '-i', 'testsrc2=size=1280x720:rate=30', '-frames:v', '15', '-c:v', `h264_${hw}`, '-f', 'null', '-']);
-    if (r.status === 0) return { enc: `h264_${hw}`, label: `h264_${hw}` };
+    const r = run(FFMPEG, ['-hide_banner', '-loglevel', 'error', '-f', 'lavfi', '-i', 'testsrc2=size=1280x720:rate=30', '-frames:v', '15', '-c:v', `hevc_${hw}`, '-f', 'null', '-']);
+    if (r.status === 0) return { enc: `hevc_${hw}`, label: `hevc_${hw}` };
   }
-  return { enc: 'libx264', label: 'libx264 (软件)' };
+  return { enc: 'libx265', label: 'libx265 (软件)' };
 }
 
 function buildVideoArgs(enc, q) {
-  if (enc.startsWith('h264_')) return ['-c:v', enc, '-global_quality', String(q), '-preset', 'medium', '-pix_fmt', 'yuv420p', '-profile:v', 'high'];
-  return ['-c:v', 'libx264', '-crf', String(q), '-preset', 'medium', '-pix_fmt', 'yuv420p', '-profile:v', 'high'];
+  if (enc.startsWith('hevc_')) {
+    return ['-c:v', enc, '-global_quality', String(q), '-preset', 'medium', '-pix_fmt', 'yuv420p', '-profile:v', 'main', '-tag:v', 'hvc1'];
+  }
+  return ['-c:v', 'libx265', '-crf', String(Math.max(24, q - 3)), '-preset', 'medium', '-pix_fmt', 'yuv420p', '-profile:v', 'main', '-tag:v', 'hvc1', '-x265-params', 'log-level=error'];
 }
 
 function probeCodec(mp4) {
@@ -82,20 +82,20 @@ const targets = (idsArg.length ? idsArg : dirs)
   .sort();
 
 const encoder = detectEncoder(encArg === 'auto' ? null : encArg);
-const quality = gqArg || AVC_QUALITY[encArg] || AVC_QUALITY[encoder.enc.startsWith('h264_') ? 'qsv' : 'libx264'];
+const quality = gqArg || 28;
 
 let pending = 0;
 for (const id of targets) {
   const mp4 = path.join(CONTENT, id, 'video.mp4');
-  const out = path.join(CONTENT, id, 'video.h264.mp4');
+  const out = path.join(CONTENT, id, 'video.hevc.mp4');
   const codec = probeCodec(mp4);
   if (codec !== 'av1') {
-    if (codec === 'h264' || codec === '') console.log(`SKIP  ${id}  非 AV1 (${codec || '未知'})，不需要转码`);
+    if (codec === 'h264' || codec === '') console.log(`SKIP  ${id}  非 AV1 (${codec || '未知'})，无需转码`);
     else console.log(`SKIP  ${id}  编码 ${codec} 无需处理`);
     continue;
   }
   if (existsSync(out) && statSync(out).size > 0) {
-    console.log(`SKIP  ${id}  已存在 video.h264.mp4`);
+    console.log(`SKIP  ${id}  已存在 video.hevc.mp4`);
     continue;
   }
   pending++;
@@ -119,4 +119,4 @@ for (const id of targets) {
   }
 }
 
-console.log(`\n[encode-h264] 编码器=${encoder.label} 质量=${quality} 待处理=${dryRun ? pending : '已跑完'}`);
+console.log(`\n[encode-hevc] 编码器=${encoder.label} 质量=${quality} 待处理=${dryRun ? pending : '已跑完'}`);
