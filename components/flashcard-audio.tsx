@@ -3,7 +3,7 @@
 import { forwardRef, useCallback, useEffect, useImperativeHandle, useRef, useState } from 'react';
 import { RotateCcw } from 'lucide-react';
 import { getVideoUrl } from '@/lib/video-cdn';
-import { usePlayableVideoUrl } from '@/lib/use-video-source';
+import { useVideoSourceWithFallback } from '@/lib/use-video-source';
 
 interface Props {
   videoId: string;
@@ -22,7 +22,7 @@ const FlashcardAudio = forwardRef<FlashcardAudioHandle, Props>(function Flashcar
 ) {
   const actualEnd = endTime ?? startTime + 4;
   const videoRef = useRef<HTMLVideoElement>(null);
-  const videoSource = usePlayableVideoUrl(getVideoUrl(videoId));
+  const { src: videoSource, advance: advanceSource } = useVideoSourceWithFallback(getVideoUrl(videoId));
   const [played, setPlayed] = useState(0);
 
   const replay = useCallback(() => {
@@ -75,6 +75,7 @@ const FlashcardAudio = forwardRef<FlashcardAudioHandle, Props>(function Flashcar
         ref={videoRef}
         src={videoSource}
         onTimeUpdate={handleTimeUpdate}
+        onError={advanceSource}
         preload="metadata"
         playsInline
         className="w-full max-h-48 rounded-lg bg-black"

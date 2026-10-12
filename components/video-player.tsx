@@ -13,7 +13,7 @@ import {
 } from 'lucide-react';
 import { Subtitle, formatTime } from '@/lib/vtt-parser';
 import { getSubtitleAtTime } from '@/lib/subtitle-sync';
-import { usePlayableVideoUrl } from '@/lib/use-video-source';
+import { useVideoSourceWithFallback } from '@/lib/use-video-source';
 
 interface VideoPlayerProps {
   videoUrl: string;
@@ -34,7 +34,7 @@ export default function VideoPlayer({
 }: VideoPlayerProps) {
   const internalRef = useRef<HTMLVideoElement>(null);
   const videoRef = externalVideoRef || internalRef;
-  const videoSource = usePlayableVideoUrl(videoUrl);
+  const { src: videoSource, advance: advanceSource } = useVideoSourceWithFallback(videoUrl);
   const progressRef = useRef<HTMLDivElement>(null);
   const blindVideoRef = useRef<HTMLVideoElement>(null);
 
@@ -260,6 +260,7 @@ export default function VideoPlayer({
           onTimeUpdate={handleTimeUpdate}
           onLoadedMetadata={handleLoadedMetadata}
           onDurationChange={handleDurationChange}
+          onError={advanceSource}
           onClick={handlePlayPause}
           preload="metadata"
           playsInline
@@ -290,6 +291,7 @@ export default function VideoPlayer({
               }}
               muted
               playsInline
+              onError={advanceSource}
             />
             <div
               className="absolute inset-0"

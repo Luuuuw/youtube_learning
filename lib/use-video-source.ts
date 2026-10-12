@@ -1,6 +1,7 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
+import { getFallbackUrls } from '@/lib/video-cdn';
 
 const AV1_CODEC = 'video/mp4; codecs="av01.0.05M.08"';
 const HEVC_CODEC = 'video/mp4; codecs="hvc1.1.6.L93.B0"';
@@ -54,4 +55,27 @@ export function usePlayableVideoUrl(videoUrl: string): string {
     }
   }, [videoUrl]);
   return src;
+}
+
+/**
+ * 主 CDN + 兜底 CDN：返回当前应播放的 src（编解码已适配），
+ * 以及 advance()——在 <video onError> 时前进到下一个源（主 COS 失败 → R2）。
+ */
+export function useVideoSourceWithFallback(videoUrl: string): {
+  src: string;
+  advance: () => void;
+} {
+  const primary = usePlayableVideoUrl(videoUrl);
+  const [index, setIndex] = useState(0);
+  const sources = useMemo(() => {
+    const list = [primary, ...getFallbackUrls(primary)];
+    return Array.from(new Set(list.filter(Boolean)));
+  }, [primary]);
+  useEffect(() => {
+    setIndex(0);
+  }, [primary]);
+  const advance = useCallback(() => {
+    setIndex(i => Math.min(i + 1, sources.length - 1));
+  }, [sources.length]);
+  return { src: sources[Math.min(index, sources.length - 1)] ?? primary, advance };
 }

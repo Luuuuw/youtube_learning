@@ -9,7 +9,7 @@ import {
 } from 'lucide-react';
 import { Subtitle } from '@/lib/vtt-parser';
 import { compareTranscript, getScoreLabel, ShadowResult } from '@/lib/shadow-speak';
-import { usePlayableVideoUrl } from '@/lib/use-video-source';
+import { useVideoSourceWithFallback } from '@/lib/use-video-source';
 
 type Phase = 'idle' | 'listening' | 'result';
 
@@ -48,6 +48,7 @@ function ClipPlayer({
   onTimeUpdate,
   onClipEnd,
   loopRange,
+  onError,
 }: {
   src: string;
   start: number;
@@ -56,6 +57,7 @@ function ClipPlayer({
   onTimeUpdate?: (time: number) => void;
   onClipEnd?: () => void;
   loopRange?: { start: number; end: number } | null;
+  onError?: () => void;
 }) {
   const vidRef = useRef<HTMLVideoElement>(null);
   const [playing, setPlaying] = useState(false);
@@ -133,6 +135,7 @@ function ClipPlayer({
           className="absolute inset-0 w-full h-full object-cover"
           preload="metadata"
           playsInline
+          onError={onError}
         />
         <div
           className="absolute inset-0 flex items-center justify-center bg-black/30 opacity-0 hover:opacity-100 transition-opacity cursor-pointer"
@@ -341,7 +344,7 @@ export default function ShadowSpeak({
   videoId = '',
   isAdmin = false,
 }: ShadowSpeakProps) {
-  const playableVideoUrl = usePlayableVideoUrl(videoUrl);
+  const { src: playableVideoUrl, advance: advanceVideoSource } = useVideoSourceWithFallback(videoUrl);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [phase, setPhase] = useState<Phase>('idle');
   const [transcript, setTranscript] = useState('');
@@ -1132,6 +1135,7 @@ export default function ShadowSpeak({
                   {currentSub && (
                     <ClipPlayer
                       src={playableVideoUrl}
+                      onError={advanceVideoSource}
                       start={currentSub.startTime}
                       end={currentSub.endTime}
                       playbackRate={playbackRate}

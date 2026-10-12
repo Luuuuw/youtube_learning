@@ -6,7 +6,7 @@ import {
   Loader2, RotateCcw, Trophy, Target, Brain, Sparkles,
   Play, Pause, Tag, Star,
 } from 'lucide-react';
-import { usePlayableVideoUrl } from '@/lib/use-video-source';
+import { useVideoSourceWithFallback } from '@/lib/use-video-source';
 
 interface QuizQuestion {
   id: number;
@@ -50,7 +50,7 @@ const STAR_DETAIL = [
 
 function QuizClipPlayer({ src, start, end }: { src: string; start: number; end: number }) {
   const vidRef = useRef<HTMLVideoElement>(null);
-  const videoSource = usePlayableVideoUrl(src);
+  const { src: videoSource, advance: advanceSource } = useVideoSourceWithFallback(src);
   const [playing, setPlaying] = useState(false);
   const [curTime, setCurTime] = useState(0);
   const duration = Math.max(end - start, 1);
@@ -99,6 +99,7 @@ function QuizClipPlayer({ src, start, end }: { src: string; start: number; end: 
           className="absolute inset-0 w-full h-full object-cover"
           preload="metadata"
           playsInline
+          onError={advanceSource}
         />
       </div>
       <div className="px-2 py-1.5 flex items-center gap-1.5 bg-muted/80">
