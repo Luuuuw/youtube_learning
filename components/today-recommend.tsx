@@ -146,7 +146,7 @@ export default function TodayRecommend({ videos, userCode }: TodayRecommendProps
               <Link href={`/${video.id}`} className="group shrink-0 block">
                 <div className="w-full sm:w-[180px] aspect-video bg-muted rounded-xl overflow-hidden relative">
                   {video.thumbnail ? (
-                    <img src={video.thumbnail} alt={video.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
+                    <img src={video.thumbnail} alt={video.title} loading="lazy" decoding="async" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center">
                       <Play className="h-8 w-8 text-muted-foreground/30" />

@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
 import { verifyAuth, unauthorizedResponse } from '@/lib/auth-middleware';
-import { getVideoUrl } from '@/lib/video-cdn';
+import { resolveThumbnailUrl } from '@/lib/video-cdn';
 import { DATA_DIR } from '@/lib/data-dir';
 
 const ACTIVITY_FILE = path.join(DATA_DIR, 'activity.json');
@@ -35,10 +35,7 @@ function readActivities(): DailyActivity[] {
 
 function resolveThumbnail(videoId: string, raw: unknown): string | undefined {
   if (!raw || typeof raw !== 'string') return undefined;
-  if (raw.startsWith('http://') || raw.startsWith('https://')) return raw;
-  const prefix = `/content/${videoId}/`;
-  const file = raw.startsWith(prefix) ? raw.slice(prefix.length) : raw.replace(/^\//, '');
-  return getVideoUrl(videoId, file);
+  return resolveThumbnailUrl(videoId, raw);
 }
 
 function getVideoMeta(videoId: string): VideoMetaBasic | null {

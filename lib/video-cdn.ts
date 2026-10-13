@@ -27,3 +27,17 @@ export function getFallbackUrls(primaryUrl: string): string[] {
 export function hasCdn(): boolean {
   return CDN_BASE.length > 0;
 }
+
+// 图片等小静态资源直接走 R2（Cloudflare），避免从 Render 应用服务器出网（内地慢）。
+export function getR2Url(videoId: string, file: string): string {
+  return `${FALLBACK_CDN_BASE}/${videoId}/${file}`;
+}
+
+// 归一化 meta.thumbnail：/content/<id>/x.jpg 或裸文件名 → R2 绝对地址；已是 http(s) 的原样返回。
+export function resolveThumbnailUrl(videoId: string, raw: string | undefined): string | undefined {
+  if (!raw) return undefined;
+  if (raw.startsWith('http://') || raw.startsWith('https://')) return raw;
+  const prefix = `/content/${videoId}/`;
+  const file = raw.startsWith(prefix) ? raw.slice(prefix.length) : raw.replace(/^\//, '');
+  return getR2Url(videoId, file || 'thumbnail.jpg');
+}

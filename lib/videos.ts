@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { parseVtt, Subtitle } from '@/lib/vtt-parser';
 import { VideoMeta } from '@/types/video';
-import { getVideoUrl } from '@/lib/video-cdn';
+import { getVideoUrl, getR2Url, resolveThumbnailUrl } from '@/lib/video-cdn';
 
 export type { VideoMeta } from '@/types/video';
 
@@ -76,7 +76,7 @@ export function getVideoList(): VideoMeta[] {
           title: meta.title || dir,
           description: meta.description,
           duration: typeof meta.duration === 'number' ? meta.duration : undefined,
-          thumbnail: meta.thumbnail,
+          thumbnail: resolveThumbnailUrl(meta.id || dir, meta.thumbnail),
           downloadedAt: meta.downloadedAt,
           accent: meta.accent,
           category: meta.category,
@@ -118,13 +118,13 @@ export function getVideoById(id: string): VideoData | null {
         title = meta.title || id;
         description = meta.description;
         duration = typeof meta.duration === 'number' ? meta.duration : undefined;
-        thumbnail = meta.thumbnail;
+        thumbnail = resolveThumbnailUrl(id, meta.thumbnail);
       } catch {}
     }
 
     const thumbPath = path.join(CONTENT_DIR, id, 'thumbnail.jpg');
     if (!thumbnail && fs.existsSync(thumbPath)) {
-      thumbnail = getVideoUrl(id, 'thumbnail.jpg');
+      thumbnail = getR2Url(id, 'thumbnail.jpg');
     }
 
     let subtitles: Subtitle[] = [];

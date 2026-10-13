@@ -493,7 +493,7 @@ export default function HomeClient({ videos: initialVideos }: HomeClientProps) {
                         <div className="bg-card rounded-xl overflow-hidden border border-border hover:border-white/20 transition-colors duration-300">
                           <div className="aspect-video bg-muted relative flex items-center justify-center overflow-hidden">
                             {v.thumbnail ? (
-                              <img src={v.thumbnail} alt={v.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
+                              <img src={v.thumbnail} alt={v.title} loading="lazy" decoding="async" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
                             ) : (
                               <Play className="h-10 w-10 text-muted-foreground/30" />
                             )}
