@@ -6,4 +6,6 @@ export const AUTH_CONSTANTS = {
   LOCKOUT_DURATION_MS: 15 * 60 * 1000,
   TOKEN_BYTE_LENGTH: 32,
   SESSION_COOKIE_MAX_AGE: 7 * 24 * 60 * 60,
+  // 新建账号初始密码（临时密码）的有效期
+  TEMP_PASSWORD_EXPIRY_MS: 7 * 24 * 60 * 60 * 1000,
 } as const;

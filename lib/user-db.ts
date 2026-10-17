@@ -3,6 +3,7 @@ import path from 'path';
 import bcrypt from 'bcryptjs';
 import { atomicWriteTextSync } from '@/lib/atomic-write';
 import { DATA_DIR } from '@/lib/data-dir';
+import { AUTH_CONSTANTS } from '@/lib/auth-constants';
 
 const DB_DIR = DATA_DIR;
 const USER_FILE = path.join(DB_DIR, 'users.json');
@@ -216,7 +217,7 @@ export function authenticateUser(username: string, password: string): { user: Us
   if (user.disabled) return { user: null as unknown as User, error: '账号已被禁用，请联系管理员' };
 
   if (user.tempPasswordHash && !user.tempPasswordUsed) {
-    if (user.tempPasswordCreatedAt && Date.now() - user.tempPasswordCreatedAt > 24 * 60 * 60 * 1000) {
+    if (user.tempPasswordCreatedAt && Date.now() - user.tempPasswordCreatedAt > AUTH_CONSTANTS.TEMP_PASSWORD_EXPIRY_MS) {
       const db2 = readDb();
       const u = db2.users.find(u2 => u2.id === user.id)!;
       u.tempPasswordUsed = true;
@@ -433,7 +434,7 @@ export function markExpiredTempPasswords() {
   let changed = false;
   for (const user of db.users) {
     if (user.tempPasswordHash && !user.tempPasswordUsed && user.tempPasswordCreatedAt) {
-      if (now - user.tempPasswordCreatedAt > 24 * 60 * 60 * 1000) {
+      if (now - user.tempPasswordCreatedAt > AUTH_CONSTANTS.TEMP_PASSWORD_EXPIRY_MS) {
         user.tempPasswordUsed = true;
         const log = db.issuanceLogs.find(l => l.username === user.username && !l.usedAt && !l.expiredAt);
         if (log) log.expiredAt = new Date().toISOString();
@@ -519,7 +520,7 @@ export function initAdminIfEmpty(): void {
         atomicWriteTextSync(
           INITIAL_ADMIN_FILE,
           `username: admin\npassword: ${tempPassword}\ncreatedAt: ${new Date().toISOString()}\n` +
-          `note: 该临时密码 24 小时内有效，首次登录后必须修改。请妥善保管并在使用后删除本文件。\n`,
+          `note: 该临时密码 ${AUTH_CONSTANTS.TEMP_PASSWORD_EXPIRY_MS / (24 * 60 * 60 * 1000)} 天内有效，首次登录后必须修改。请妥善保管并在使用后删除本文件。\n`,
         );
         try { fs.chmodSync(INITIAL_ADMIN_FILE, 0o600); } catch {}
         console.log(`[user-db] 初始管理员已创建: admin（临时密码已写入 ${INITIAL_ADMIN_FILE}）`);

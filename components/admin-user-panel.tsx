@@ -2,6 +2,9 @@
 
 import { useState, useEffect, useCallback } from 'react';
 import { UserPlus, KeyRound, Trash2, Loader2, Copy, Check, Users, FileText, X, Shield, ShieldOff, Monitor, Search, ListPlus, ScrollText, LogIn } from 'lucide-react';
+import { AUTH_CONSTANTS } from '@/lib/auth-constants';
+
+const TEMP_PASSWORD_EXPIRY_DAYS = AUTH_CONSTANTS.TEMP_PASSWORD_EXPIRY_MS / (24 * 60 * 60 * 1000);
 
 interface UserItem {
   id: string;
@@ -327,7 +330,7 @@ export default function AdminUserPanel({ open, onClose }: { open: boolean; onClo
                   {copied ? <Check className="h-4 w-4 text-green-500" /> : <Copy className="h-4 w-4" />}
                 </button>
               </div>
-              <p className="text-xs text-muted-foreground mt-2">请将此密码发送给用户，24小时内有效，首次登录后需修改</p>
+              <p className="text-xs text-muted-foreground mt-2">请将此密码发送给用户，{TEMP_PASSWORD_EXPIRY_DAYS}天内有效，首次登录后需修改</p>
             </div>
           )}
 
